@@ -8,10 +8,11 @@ from selenium import webdriver
 
 class TEDSubtitles(scrapy.Spider):
     name = "TEDSubtitles"
-    df = pd.read_csv("../data/TED_Talks.csv")
-    start_urls = df.link.values
 
     def __init__(self):
+        df = pd.read_csv("../data/TED_Talks.csv")
+        self.start_urls = df.link.values.tolist()
+
         self.driver = webdriver.Chrome(executable_path="./chromedriver")
         self.driver.maximize_window()
 
