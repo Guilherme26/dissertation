@@ -1,5 +1,7 @@
 # Dissertation
 
+## Overview
+
 This project explores Machine Learning (ML) biases against demographic groups. Historically speaking, predominating demographics have been perpetrating discriminating behavior against some peoples/races (e.g. Black, Gays, Latinos, Muslims, etc.) for no reason. Since these benefited groups ruled most of the business and relevant parts of society, their actions manifested their cognitive process which was further incorporated in the data generated on the decision processes controlled by them.
 
 As we know, a necessary component to build high-quality ML models is reliable data. Sometimes the available datasets may seem taintless at first, but still comprise elaborated biases that are only brought up in the lights of quantitative analysis on those groups.
