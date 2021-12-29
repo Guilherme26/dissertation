@@ -17,7 +17,7 @@ To better explore possible biases towards some demographic groups, I've followed
 - Segment the sentences based on semantics:
 	- Extract subtitles from TED Talk videos;
 	- Pre-process these subtitles to indentify punctuations, and remove unnecessary characters;
-	- Download and incorporate GloVe embeddings on a more complex model in order to allow fine-tuning on the task of punctuating sentences;
+	- Download and incorporate [GloVe embeddings](https://nlp.stanford.edu/projects/glove/) on a more complex model in order to allow fine-tuning on the task of punctuating sentences;
 	- Fine-tune the complex model with the TED Talk sentences.
 - Present each sentence to Perspective API, and save their respective toxicity scores;
 - Analyze the data;
@@ -25,7 +25,7 @@ To better explore possible biases towards some demographic groups, I've followed
 ## Directories Description:
 
 ### `data/`
-Stores all data from YouTube, TEDTalks, as well as their download descriptions (e.g. video name, link, etc.).
+Stores all data from Word Embeddings, YouTube/TEDTalks subtitles, as well as their download descriptions (e.g. video name, link, etc.).
 
 ### `notebooks/`
 Stores the pre-processing and analysis notebooks.
