@@ -1,0 +1,12 @@
+download_descriptions: "/data/download_descriptions.csv"
+bad_words_raw: "/data/bad_words.txt"
+bad_words_scored: "/data/bad_words_scored.json"
+
+raw_data: "/data/00_raw/"
+preprocessed_data: "/data/01_preprocessed/without_curse_words/"
+fixed_size_segmentated_data: "/data/02_segmented/fixed_size_context/without_curse_words/"
+scored_data: "/data/03_scored/without_inputation/normal_toxicity/"
+imgs: "/data/imgs/"
+
+fine_tunning_raw_data: "/data/TED_Talks/01_raw/subtitles.json"
+fine_tunning_preprocessed: "/data/TED_Talks/02_preprocessed/"
