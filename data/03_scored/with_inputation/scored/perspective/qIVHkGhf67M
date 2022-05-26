@@ -1,0 +1,59 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+"The Favourite, directed by Yorgos Lanthimos is an exquisite, funny, moving, dark comedy",0.03839648,0.0001095271906391,0.3166666666666666,0.0,False
+"It is tragic and at times bizarre, but it is beautifully shot and directed, and at once you are transported to 18th century England",0.15130237,0.0,0.4166666666666667,0.123,False
+"The story centers around two women who jockey for position at any means to be the Queen's ""favourite",0.08689302,0.0944854266547517,0.5,0.0,False
+""" It is the early 1700's and England's Queen Anne is in power",0.028439116,0.0484315825513737,0.45,0.0,False
+",",,0.1713949430685113,0.5,0.0,False
+or is she? This delightful story highlights the dynamics and longtime friendship between Queen Anne and Sarah Churchill,0.029469188,0.0003249455672215,0.0,0.0,False
+"The name Churchill will ring a bell, as her descendants include relatives that are famous like the late Princess Diana, and former Prime Minister, Winston Churchill",0.09548495,0.0041293390053417,0.4666666666666667,0.0,False
+"Olivia Colman as the Queen brings layers of emotion, despair, humor, and complexity to the role, not to mention the 35 pounds she gained to accurately look like the portly Queen Anne, who was plagued with poor health throughout her life",0.15684792,9.122795389021508e-05,0.5,0.111,False
+"Because of Colman's brilliant performance, the Queen comes across as sympathetic, funny, sometimes outlandish, unpredictable, and always compelling",0.14193995,0.0001628751283926,0.3216666666666666,0.0,False
+"Even when the Queen is lonely, and depressed, and ever so dependent on Lady Sarah, she still manages to carry herself regally",0.13251819,0.0022129559073035,0.55,0.225,False
+"In other words,, you never forget she is still the Queen",0.03616466,0.0169153197156811,0.5625,0.0,False
+"Sarah, who is married to the Duke of Marlborough,, the commander and Generalcy, wields a lot of influence on Queen Anne",0.082104236,0.0022159660423388,0.375,0.0,False
+"She is cunning, and played by the captivating, and ever so talented, Rachel Weisz",0.055333257,0.0001269025245555,0.3,0.0,False
+You get the feeling that Sarah is the real power behind the throne,0.10461388,0.0030289409283947,0.55,0.0,False
+"Sarah is not only determined to preserve her husband's position, but their personal interests",0.03616466,0.0049935159903141,0.5,0.095,False
+She wants to double the landowner's taxes and pushes the Queen for war against France,0.13565879,0.9711455906349872,0.45,0.218,False
+We are also treated to the two very bewigged political parties on opposing sides in Parliament,0.024490505,0.0211737964943669,0.45,0.0,False
+"Because of the Queen's many ailments, we often see Sarah take care of affairs of the State or manipulate them",0.15217799,0.1602390845946892,0.25,0.0,False
+And the Queen completely trusts her,0.04165838,0.0024593399304366,0.45,0.0,False
+And why not? These two women met as young girls and forged a friendship long before Anne became Queen,0.08689302,0.0065085080125622,0.4875,0.0,False
+When the film begins we see Sarah is already her most trusted adviser and confidant,0.023632111,0.0006109680022049,0.25,0.0,False
+We are given a glimpse of the Queen's tragic history,0.062925026,0.0014783637454329,0.875,0.25,False
+She has had 17 pregnancies,0.11665283,0.9982612148690418,0.5,0.0,False
+The few who survived did not live past the age of eleven,0.043718524,0.7907387205173665,0.5863636363636364,0.0,False
+Queen Anne has no heir,0.27045983,0.9909222076199214,0.5,0.355,False
+Instead she keeps 17 rabbits which roam freely around the Queen's bedroom,0.1019289,0.9789792137360388,0.3,0.0,False
+The rabbits represent her 17 babies,0.13745339,0.0837163258279838,0.5,0.0,False
+"The Queen, despite her frailty, is intelligent and aware of duty to country and responsibility to her people",0.09279997,0.0021308179651534,0.2375,0.0,False
+"But she lacks confidence and perhaps relies too much on her friend Lady Sarah, who is self-assured, unintimidated, strong, and able to maneuver politicians and people with finesse",0.12695669,0.9819903024774423,0.3111111111111111,0.0,False
+"The Queen, however, does have the final word",0.027752401,0.9039949022022028,0.5,0.0,False
+"And although the Queen indulges in whims such as duck races, lobster races inside the palace,, you also get the sense that she genuinely cares for her people",0.17759849,0.0039957903410548,0.4,0.0,False
+"When Abigail Hill arrives on the scene, played by Emma Stone, things really get cooking",0.12244874,0.0043319121522191,0.4,0.0,False
+Stone is really good in her role,0.029984225,0.0018954015627428,0.15,0.0,False
+I for one completely forgot she wasn't English,0.07211506,0.981128092511404,0.475,0.0,False
+I didn't even realize she was speaking with a British accent until the end of the film,0.05852979,0.9971350071194164,0.5,0.0,False
+She is simply flawless,0.3905958,0.0002974073021465,0.0,0.0,False
+"And you easily get absorbed in the story of Abigail, Lady Sarah's second cousin, who comes to the palace to seek work",0.074912034,0.0021479548725324,0.3777777777777777,0.0,False
+"Abigail came from means, but her husband has burned their lavish home to the ground and has killed himself",0.40326482,0.2268094726386474,0.6,0.258,False
+"Therefore, Abigail has no money, no title and comes to get help from her second cousin Sarah, who takes pity on Abigail and sends her to the kitchen to work as a scullery maid",0.32044756,0.9993040031338783,0.525,0.113,False
+"It isn't long before Abigail finds herself at the Queen's bedroom chamber, applying healing herbs to the suffering queen's legs, and begins to work upstairs as Lady of the bedchamber",0.20009461,0.0058736973566126,0.525,0.097,False
+Much more prestigious work,0.023288755,0.0034650826720175,0.25,0.0,False
+Abigail gains the Queen's confidence,0.061726328,0.019356062376197,0.5,0.0,False
+"Colman's performance as the Queen is sublime, and it wasn't surprising she was nominated for Best Actress, as were both Weisz and Stone for Best Supporting Actress",0.020963646,0.0001247566857185,0.1312499999999999,0.05,False
+"The set design is incredible, as is Sandy Powell in creating authentic costume design for the period",0.027580723,0.0001091099441986,0.15,0.0,False
+"In all the film, ""The Favourite,"" garnerd 10 Academy Award nominations, including one for Robbie Ryan for his cinematography, and Deborah Davis and Tony Mcnamara for Best Original Screenplay",0.0076010567,0.0001289887567582,0.15625,0.0,False
+Beware to the viewer: There are some scenes in the film that border on the absurd,0.18746567,0.9992364092105124,0.75,0.0,False
+"And you'll come away asking yourself questions like, 'Did they really do that for entertainment?"" (laughs) The Favourite is a really good film with only a few moments of slow pacing",0.094410956,0.0017095480768038,0.46,0.0,False
+I liked the movie very much,0.04165838,0.0034633242763039,0.285,0.0,False
+But I couldn't help but wonder if the close friendship between the Queen and Lady Sarah and the Queen and Abigail was as intimate as portrayed in the film,0.027065687,0.0108520434584818,0.4,0.086,False
+"Or was this also embellishment and creative license from the writer or director? But from my research, I found there are letters from all three women in existence, and they point to very affectionate and intense letters with declarations of love and longing",0.02193547,0.000550139431839,0.325,0.022,False
+"Still, they do not reveal if the close relationship they shared was physically intimate",0.046465382,0.9637615803769236,0.4,0.0,False
+"These ardent letters, however, do exist, and are kept in the British Library in London",0.018464668,0.2176887634818285,0.5,0.0,False
+This film may not be everyone's cup of tea,0.1464265,0.9873574328519342,0.5,0.0,False
+"I did, however,, enormously enjoyed it, and appreciated the film score, including the incessant plucking of the violin, over and over again at the beginning to build tension",0.09118898,0.0080034125990304,0.325,0.067,False
+"There are wonderful performances as well as the direction, and I love the look of the film! You come away with some questions, wanting to know even more about these very interesting people who actually existed in history",0.018881164,0.000118736415648,0.2225,0.0,False
+There are some very unforgettable and moving scenes,0.055732824,0.0002515101936881,0.0,0.0,False
+The movie is captivating,0.065721996,0.0006771313663461,0.25,0.0,False
+"I give The Favourite, and A-",0.0717155,0.0019737246802938,0.5,0.0,False

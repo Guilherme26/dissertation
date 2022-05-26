@@ -1,0 +1,63 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+"Good morning, Youtube",0.024833864,0.088284119286778,0.0555555555555556,0.0,False
+"How you guys doing man? I just wanted to give you guys a review of the movie Moon Light, real quick as I take a break",0.11794081,0.1073623025479918,0.1944444444444444,0.0,False
+"Um, so first and foremost, I just saw the trailer",0.04268845,0.8389814172107547,0.3055555555555556,0.0,False
+"Guess I really didn't pay attention and I, um, I wanted to see it",0.07091636,0.9983517166377224,0.3333333333333333,0.0,False
+You know what? I mean,0.089041,0.9888398356157362,0.6180555555555556,0.0,False
+It was black people,0.40016344,0.9927603985206728,0.5370370370370371,0.0,False
+It looked interesting,0.023117077,0.1437330511139212,0.1666666666666666,0.0,False
+It looked like it was a good movie,0.036336336,0.0220219061791328,0.0555555555555556,0.0,False
+Didn't know,0.014438537,0.9833793549267744,0.4444444444444445,0.0,False
+it was about,0.020824814,0.911513991706874,0.4444444444444445,0.0,False
+"My wife wanted to go, and I was like",0.03358948,0.0034519026414556,0.4444444444444445,0.0,False
+"Okay, For sure",0.019714156,0.8031600666287367,0.1666666666666666,0.0,False
+You know that mean you had an opportunity to spend some time with her and just be around her,0.0495556,0.0012249244406401,0.6180555555555556,0.0,False
+So we went last night right and it started off pretty good like,0.03616466,0.027301568946407,0.2728174603174603,0.0,False
+"First of all, the cinematography is great",0.02792408,0.0007391569599103,0.1527777777777778,0.0,False
+"Um, the writing is great",0.032902762,0.0116812788330374,0.0,0.0,False
+It starts off where this this little kid is,0.101391904,0.9306151534776678,0.5486111111111112,0.0,False
+It's basically homeless and his mom is a crackhead and he's just like wandering around in Liberty City and he's taken in by this couple And that's the guy who I don't know his name,0.41665444,0.9981458637639632,0.4444444444444445,0.0,False
+But that's why I was inserted in the movie Because he looks familiar,0.057331093,0.889659164029304,0.2361111111111111,0.0,False
+If you know his name,0.018048171,0.0177568742550984,0.4444444444444445,0.0,False
+leave it in the comment box,0.039254878,0.9463036340319178,0.4444444444444445,0.194,False
+"And um, you know they took him in and he basically was a father figure to the little boy and Um, the little boy was getting bullied in school",0.22977416,0.9523977970434316,0.5486111111111112,0.128,False
+He was having a hard time making friends,0.09709594,0.998649215318172,0.6064814814814815,0.133,False
+"really, And then he finally decided this guy befriended him and he was telling him, You know if you're gonna be, If you don't want to get picked on all the time, you got to stand up for yourself",0.052935857,0.0434399037465699,0.3888888888888889,0.031,False
+so he kind of tried to teach him how to fight and how to stand up for himself,0.1250247,0.997396990858368,0.1111111111111111,0.133,False
+"And the movie is broken into like stages of the kid's life, So there's a stage when he's a youth, you know, maybe eight or nine years old",0.07211506,0.9927235613769104,0.5277777777777778,0.098,False
+"and then he's like in high school and in high school, That same guy who taught him how to fight",0.10300289,0.0627297515668452,0.3851851851851852,0.113,False
+It's still his friend,0.02517722,0.0011951507297837,0.4444444444444445,0.0,False
+"He still tries to like, include him and stuff",0.060527626,0.0009388703097091,0.5000000000000001,0.0,False
+And basically they end up,0.037194733,0.9530120176710998,0.4444444444444445,0.0,False
+The guy has a question about his sexuality,0.22157386,0.0367261554748012,0.4444444444444445,0.0,False
+Now this is the part that throw me and I had no idea,0.1731117,0.002684432342893,0.4444444444444445,0.155,False
+That's what this movie was about,0.04680874,0.9999544602300414,0.4444444444444445,0.0,False
+So the guy was questioning his sexuality,0.21539254,0.9171024784900584,0.4444444444444445,0.189,False
+"He actually asked his mentor, his father figure",0.050242316,0.180219735350753,0.4444444444444445,0.0,False
+"You know a lot of poignant questions, and the guy said, You know you'll know when you know you'll just know so fast-forward they're in high school, Him and the guy who taught him how to fight, get closer and they form some sort of a bond and this one really crazy scene",0.1894391,0.1554366825827368,0.525925925925926,0.094,False
+"Probably the most climatic scene in the movie was that after these two young men discovered each other, they played a game like a knockout game, so to speak, and his friend had to punch him in the face like three or four times, you know, And that part of the movie was crazy because that was supposed to be his friend, but he couldn't really let his other friends",0.23716165,0.9827415001122104,0.5034722222222222,0.022,False
+He was a pretty popular guy,0.043031808,0.0014489574581655,0.2083333333333333,0.0,False
+"He could let his other friends see him be a punk, so to speak, So he punches the guy like three or four times, you know in the face, and then the next day the the guy, the main character, Charan comes into the school and like busts the instigator in the head with a chair",0.43791756,0.9534204748355516,0.4367283950617284,0.0,False
+he gets exported out and goes to jail,0.18549223,0.9991170410832504,0.5000000000000001,0.0,False
+"So seeing three, Act three, the Charan guy has totally transformed his life, but he works out, he gets buff and basically he moves to Georgia and becomes like a dope boy, kind of like his mentor",0.31089294,0.0745644290883492,0.2777777777777778,0.0,False
+"The guy who kind of raised him so dope, so dope to his mom, So I won't tell you guys the end of the movie just because I don't want to be a spoiler, but you know, go check it out, man like, I was surprised at the the plot of the movie, but it was very well written for me",0.33859563,0.0,0.2777777777777778,0.017,False
+I was,0.020408317,0.0318117645796557,0.4444444444444445,0.0,False
+"I was uncomfortable, threw in some scenes",0.1689685,0.9994615399058626,0.7222222222222222,0.302,False
+"you know what I mean, but overall Man Iii, it wasn't a bad flick",0.105704986,0.000376477993532,0.6319444444444444,0.0,False
+You know what? I'm saying? I like movies,0.06771983,0.0226869119952886,0.4444444444444445,0.0,False
+I watch a lot of movies and the the,0.034962907,0.0007387993177379,0.4444444444444445,0.0,False
+The cinematography was great,0.021657806,0.0007638938768381,0.0,0.0,False
+The writing was great and it basically gave me a perspective that,0.022213135,0.0022315083349998,0.0,0.0,False
+I never,0.02054715,0.9890775484463576,0.4444444444444445,0.0,False
+really,0.016451603,0.0654830300279348,0.3333333333333333,0.0,False
+I never really had,0.019575324,0.8878611776143419,0.5000000000000001,0.0,False
+"you know what I'm saying like, I don't think I think people are born gay",0.36805952,0.965276879119032,0.2129629629629629,0.0,True
+I don't think people choose to be gay because people don't choose to get mistreated,0.37647265,0.8212866832831194,0.2129629629629629,0.0,True
+"You know what I'm saying, People don't choose to be bullied people If you had a choice to be straight or get your ass whupped",0.78018236,0.203879285037533,0.3333333333333333,0.241,True
+"I think you would choose to be straight, So overall man, I'll give it like a",0.24418297,0.922244150985796,0.3888888888888889,0.0,False
+"I don't know, maybe a three just because I think they should probably be more honest about the content, but check it out, man",0.06252546,0.006761195466647,0.1388888888888889,0.0,False
+"Really, it's a",0.019019997,0.0759016233676242,0.3333333333333333,0.0,False
+it's a,0.020685982,0.0848978439839669,0.4444444444444445,0.0,False
+"It's A gives you a different perspective on sexuality, So to speak, man, so you guys have a good day",0.18549223,0.0010849373336405,0.25,0.0,False
+I'm gonna go back to my job,0.03753809,0.9985841840498147,0.4444444444444445,0.0,False
+"I wouldn't take my shirt off, but I want you",0.4151741,0.0148415242828603,0.4444444444444445,0.0,False

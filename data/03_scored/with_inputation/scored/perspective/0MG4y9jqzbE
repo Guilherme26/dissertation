@@ -1,0 +1,110 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+"Hi, welcome to movie review, Mom today, the movie I'm reviewing is book smart",0.04131502,0.0643339023777728,0.1469002695417789,0.0,False
+It is rated R,0.09494796,0.2439809080513877,0.4339622641509433,0.0,False
+It's 105 minutes and the grade that I gave it is a D for disgusting teenagers,0.56268007,0.9998970855939682,1.0,0.185,False
+This movie is garbage from a mom's perspective,0.7007861,0.9999667383500922,0.4339622641509433,0.0,False
+This coming-of-age movie is just trash,0.6769488,0.999965605784952,0.4339622641509433,0.0,False
+Every single Gen Z teenager featured in this film lives in the gutter,0.31682462,0.9999869456965416,0.4743935309973045,0.0,False
+"Seriously, I mean, I know I'm a mom right, so this is my perspective",0.04165838,0.0024747144400922,0.4415431266846361,0.116,False
+"But other than wanting to get into a good college, none of these teenagers seem to have any moral or good behavior at all",0.2299237,0.9999726992192514,0.2535377358490566,0.0,False
+their language is filthy,0.5535644,0.9999528495249516,0.8867924528301887,0.0,False
+"They do drugs, they engage in underage drinking",0.42390585,0.9116592037578272,0.4339622641509433,0.0,False
+they're disrespectful to adults and to each other,0.22510603,0.9990065615459442,0.5047169811320754,0.0,False
+"they trash talk everything and everybody, and are constantly looking to hook up with someone",0.4945446,0.9995299556624592,0.4339622641509433,0.0,False
+"That's not not my idea of a fun, insightful comedy even of teenagers today",0.1464265,0.9991761482735206,0.2641509433962263,0.0,False
+"So beautiful, Olivia Wilde has her directorial debut and she gives us a wild movie",0.22978203,0.0001420773164071,0.1650943396226415,0.0,False
+Indeed,0.016451603,0.0183986697247515,0.4339622641509433,0.0,False
+"She said that some of the teen flicks from the 80s and 90s were her inspirations, such as The Breakfast Club Fast Times at Ridgemont High and Clueless And I guess she just decided to turn these carefree movies into rated R garbage",0.5026305,0.9994530306459608,0.3830188679245283,0.052,False
+"This movie actually would make me really worried for the future if I thought every teenager was like this, except that I know many good teens who are not like the type of teens that are represented in this movie and it frustrated me because they didn't even have like in movies like this, they'll often have like the token Christian goodie two-shoe kids that everybody makes fun of who was such a dork",0.50743616,0.999971864697569,0.3710691823899371,0.139,False
+right,0.016521018,0.0051372856717336,0.2722371967654986,0.0,False
+They didn't even offer that,0.032387726,0.9990422671522072,0.4339622641509433,0.0,False
+it just made it seem like every teenager sleeping around and doing all of these horrible things and that they're just jerks like,0.7509647,0.9999880782616818,1.0,0.189,False
+I didn't really like any of the character,0.049212243,0.999993443043925,0.320754716981132,0.249,False
+"Well, there were there were a couple that I liked, but even still it just seemed to me to paint a very sideways picture of teenagers today",0.09494796,0.9999497498729888,0.2075471698113207,0.0,False
+I just think that there's so much better than what this movie portrayed,0.14373457,0.9445642446681664,0.150943396226415,0.0,False
+So some tips for parents,0.02929751,0.8479144438833942,0.4339622641509433,0.0,False
+"First of all, it's rated R",0.15159425,0.0003448660851997,0.2924528301886792,0.0,False
+There are no role models in this movie,0.067320265,0.9930498351909092,0.4339622641509433,0.239,False
+"Even the teachers at the school are not necessarily good role models because they sleep with their students and they drink and they swear and they're disrespectful and you know, and I'm like, Give me at least a good teacher",0.36439645,0.9906532975498384,0.4245283018867924,0.08,False
+"Even nothing in this movie and I recognize it's comedy or it's supposed to be a comedy, but come on anyway, Back to the tips for parents, So there's lots of profanity, crude language and so many f-bombs Now I know teenagers drop f-bombs like crazy, but you know it",0.355017,0.9998064207740582,0.5471698113207547,0.175,False
+I don't know,0.017770508,0.9871417197238664,0.4339622641509433,0.0,False
+"I just I don't need to hear it and I know a lot of teenagers who don't use language like that, So again it just seemed very stilted anyway",0.1024659,0.9999929661743924,0.320754716981132,0.07,False
+We never see Molly's parents in the movie ever,0.022351967,0.99846763936527,0.4339622641509433,0.0,False
+"Amy's parents appear a couple of times, but they're so afraid of parenting her that she basically does anything that she wants with no discipline, no restrictions, no consequences for her behavior, And the parents are trying so hard to be cool and hip and liked that they're not parenting",0.0825038,0.9913154905047228,0.4047169811320755,0.084,False
+"And so again, no good parenting role models either",0.050242316,0.9994014095190432,0.6320754716981133,0.244,False
+"I mean, they're nice and I like both of the actors, but just terrible role models",0.29045674,0.9999599429592508,0.5683962264150944,0.2,False
+There are a couple of gay guys,0.46128514,0.9852610058954784,0.1981132075471697,0.0,True
+There are some lesbians who actually go at it in the bathroom at a party,0.4827802,0.9957729986575526,0.4339622641509433,0.0,False
+There's talk of other things that people do,0.0224908,0.9954820784382428,0.5047169811320754,0.0,False
+"There's lots of premarital sex, Hege, pinky, talk of masturbation All that kind of stuff",0.6221407,0.9967558267645052,0.0943396226415094,0.0,False
+It's just super awkward,0.15188612,0.9999139846580342,0.5094339622641509,0.213,False
+There's drugs and alcohol to girls,0.43791756,0.9380343807434836,0.4339622641509433,0.0,False
+Watch porn So funny right? I just think that's so stupid,0.7699882,0.9912143941637844,0.4838274932614554,0.255,False
+A bunch of teens swim in their underwear at a party,0.34388447,0.0103932522484249,0.4339622641509433,0.0,False
+"nobody seems to bat, And I, even these like shy kids are just like ripping off their clothes",0.38965073,0.9999753220016814,0.7169811320754716,0.091,False
+"Okay, you could not never have paid me money to do that as a teenager",0.19239926,0.9845150925332544,0.150943396226415,0.0,False
+"Now Social Justice warriors will think that this movie is bold and brilliant because everybody is trying to be so politically correct to give equal time to everybody, which is great",0.09172598,0.0012761028695802,0.2389937106918239,0.0,False
+"But you can do it in a better way, I think anyway",0.042001735,0.9662368323655168,0.150943396226415,0.0,False
+"And this is yet one more movie about female empowerment And it, it shows just that men are dismissed as useless or sexual objects",0.49981686,0.9496910988188716,0.3632075471698113,0.109,False
+There's no good strong male role models,0.1710401,0.9999359802652312,0.4182389937106918,0.505,False
+either,0.016729267,0.8044870979073355,0.4339622641509433,0.0,False
+I do like the dad,0.06971766,0.0059870969834008,0.4339622641509433,0.0,False
+He's very sweet,0.06492286,0.0001337320995844,0.1764150943396226,0.0,False
+"He tries to communicate, which is great, but again, he's also a little afraid of his daughter",0.13969667,0.9971846516918108,0.4463443396226415,0.0,False
+"In that regard, the bad behavior is portrayed just as though everybody does it and nobody bats an eye",0.11600884,0.9919295792454934,0.8301886792452828,0.163,False
+Nobody thinks it's wrong,0.0186035,0.0142947305260937,0.7169811320754716,0.508,False
+"Even the premise of the movies that Molly and Amy worked hard all throughout their high school years to get into a good college with their good grades, but then they learn that they could have partied all those years like everybody else at the high school, and that would have been a better use of their time",0.031529333,0.9854669837292712,0.2520440251572327,0.018,False
+So now they're trying to make up for lost time and it's just ridiculous,0.41665444,0.9977697706084684,0.6226415094339622,0.286,False
+"Not everybody parties in high school either, and not every party has to be filled with alcohol and drugs and sex",0.31540272,0.9953276621226762,0.2754716981132075,0.192,False
+I am just saying there's also a scene where guys and girls are all in one bathroom at a high school and I'm I'm thinking,0.09924392,0.9596300434243358,0.3433962264150943,0.0,False
+Is that a thing at high school? now? I mean the unisex bathroom thing? I don't know,0.2015616,0.9977799338903846,0.4771226415094339,0.0,False
+"I used to teach at high school and we didn't have that, so I don't know what's going on",0.024490505,0.990767179955123,0.3433962264150943,0.0,False
+Some themes,0.02262963,0.0022000077848951,0.4339622641509433,0.0,False
+Positive themes are,0.017354012,0.0016855847764647,0.3053173241852487,0.0,False
+I really like the very beginning of the movie Because Molly wakes up and she hears these recordings,0.062925026,0.0001385604036032,0.320754716981132,0.0,False
+That are these positive affirmations And so one is greatness takes sacrifice,0.09548495,0.0082530915898871,0.3053173241852487,0.0,False
+And so that's her mantra,0.036336336,0.203289064541132,0.4339622641509433,0.0,False
+Really throughout high school is that she's sacrificing her young free-wheeling days and she's putting her nose to the grindstone and she's studying hard so that she can get into a good college right,0.1539292,0.7666456824202702,0.3250898472596586,0.039,False
+"So she hears that kind of talk at the beginning of her day, and she's committed to it",0.044405237,0.0009667933689145,0.0943396226415094,0.0,False
+"That's impressive behavior actually, and then certainly friendship between these two girls and some other people",0.09870692,0.0004243542754363,0.2798180592991913,0.0,False
+"Although they, they're kind of, I mean, they're very, very tight and almost exclusive",0.10956893,0.2454704696455553,0.4235175202156334,0.0,False
+while they are exclusive to other people,0.04543531,0.8042881240948048,0.5047169811320754,0.0,False
+They,0.02054715,0.0582765565513319,0.4339622641509433,0.0,False
+"yeah, they want to around, but nobody can really crack that deep friendship that they have it",0.15451296,0.9810347794660218,0.3773584905660377,0.0,False
+"I think that's great to have a best friend, but I think friendships should allow more people into their circle",0.04818217,0.0014947475503361,0.0,0.0,False
+In that sense that you know everybody needs to feel loved and wanted,0.021102477,0.0,0.0377358490566037,0.0,False
+anyway,0.017284594,0.8340895490644207,0.4339622641509433,0.0,False
+"Some things that I did like our Beanie Feldstein and Katelyn Deaver, They're the two teenage girls and they both really did a fantastic job",0.031357653,0.0039533676436988,0.320754716981132,0.0,False
+I think beanie did,0.03753809,0.0632080134110018,0.4339622641509433,0.0,False
+She was just the highlight of all of the scenes when she was on scene,0.040284947,0.0037452438970088,0.4339622641509433,0.0,False
+"Katelyn was a little bit more shy and subdued, although she's the lesbian, wanting to have sex with various girls, But anyway they did a good job with the material",0.61826205,0.0030800108988531,0.375943396226415,0.045,False
+I laughed when Molly corrected the grammar on the bathroom graffiti,0.18253209,0.0163481605383666,0.0377358490566037,0.0,False
+"I've never done that, but I've always wanted to you because I'm a little bit of a grammar nazi, so I thought that was kind of funny",0.26132804,0.1650806681442866,0.3089622641509433,0.0,False
+"And then the adults in the movie include comedians and funny man, Jason Sudeikis, Lisa Kudrow and Will Forte",0.045778666,0.0004769887501112,0.2924528301886792,0.0,False
+There's a reference to Malala in the movie,0.019714156,0.1513473024712511,0.4339622641509433,0.0,False
+"In fact, it's a code word that the two girls use, and they think it's really clever And everyone should see that the movie He named me Malala, and be inspired, or at least read the book",0.086087525,1.1444868785473503e-05,0.4716981132075471,0.0,False
+"And so I loved that there was some intelligence behind and some thought, mind that the code word that the girls had with each other",0.22598907,0.0072207882689141,0.400943396226415,0.0,False
+"However, so much of the rest of the humor was not intelligent or clever humor, and I thought with a name like Brain smart, I'd be book smart that they should have been a little smarter, especially in their choices",0.17034957,0.9999388414824276,0.4171640354254909,0.096,False
+Anyway,0.016590435,0.8340895490644207,0.4339622641509433,0.0,False
+I liked watching everyone get a water balloon in the face during the closing credits,0.42390585,0.048742176135696,0.0943396226415094,0.0,False
+"I thought that was a cute way to have the closing credits play And it, if it weren't for the constant flood of f-bombs which were just so annoying, I mean, I get one every now and then for emphasis, but it's just a constant onslaught",0.23365098,0.9998165840559744,0.5033018867924528,0.045,False
+"Some of the dialogue is actually amusing and even quotable, - all the profanity that's in almost every sentence in the movie, So annoying, and producer Dan, the Automator, composed the score for this music and they thought that they",0.19239926,0.9998846869861172,0.4905660377358491,0.079,False
+they did a really good job matching the lyrics for the moment just to kind of illustrate it and emphasize what was happening either to these two girls in particular or other characters,0.035306264,0.0001536414025758,0.2441037735849056,0.0,False
+So I did thought I did think that that was good,0.024833864,0.997629749791921,0.0377358490566037,0.0,False
+Some other things that I didn't like,0.0717155,0.9518878877344208,0.5047169811320754,0.26,False
+"Is that like I said, it's just not that funny and it seemed like this script was written more for shock value, more for than for actual clever humor, And Billie Lourd, who plays Gigi is just her characters, just a total psycho who's really more pathetic than funny, and you know I, I, just anyway, she says, Bug me",0.44805592,0.9999943371742988,0.360587002096436,0.123,False
+"I mean, she did a good job with the role, but she also looked like she was in her 20s and not a high school",0.07451247,0.9560489916683144,0.375943396226415,0.0,False
+"In fact, almost all of the teenagers look like it had been maybe years since they were in high school",0.050585672,0.9928099698159468,0.3433962264150943,0.0,False
+Some of the teachers that we meet at the high school have potty mouths and they act done professionally,0.41523102,0.7631585143535047,0.360377358490566,0.0,False
+"I mentioned that before, and you know, one movie that I thought that had a better cast because they looked younger, is the movie Eighth grade",0.0717155,0.999279420331702,0.2924528301886792,0.0,False
+It's also filled with a lot of profanity and some of the things that I didn't really like,0.17518331,0.9996389203506876,0.2641509433962263,0.12,False
+"But if you're if you like this movie, I think that you'll really like that movie and I thought that that one was actually well better done, but still good for Olivia Wilde for going from being beautiful actress to now directing a movie",0.024147147,0.0029717317105781,0.1792452830188679,0.0,False
+So kudos to her,0.013397297,0.0071309877750322,0.4339622641509433,0.0,False
+"Alright, that's it for today",0.031357653,0.901193854796923,0.4339622641509433,0.0,False
+Be sure to hit the subscribe button and thanks for visiting the site,0.021796638,0.9856377030219878,0.2358490566037735,0.0,False
+I love it when you guys comment and tell me what you thought of the movie,0.044405237,0.0019958480161959,0.150943396226415,0.0,False
+I recognize,0.019852988,0.0101006927900962,0.4339622641509433,0.0,False
+"Not everybody's going to agree, and of course I'm talking from a mom's perspective",0.05773066,0.9995360059446556,0.4339622641509433,0.0,False
+I would not want my kids to see this movie and certainly not act like any of the teenagers in this movie,0.17518331,0.9999961254350466,0.4946091644204852,0.135,False
+"Anyway, that's my two cents",0.02637897,0.9431270791139073,0.4339622641509433,0.0,False
+"Bye for now, you",0.16482529,0.0126895876789311,0.4339622641509433,0.0,False

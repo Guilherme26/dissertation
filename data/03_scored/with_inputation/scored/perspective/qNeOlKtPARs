@@ -1,0 +1,61 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+Screw Anatomy,0.19338597,0.9992894310906713,0.5,0.583,False
+I think I prefer that this is what actually goes on inside,0.028782474,0.0241482859141888,0.5,0.0,False
+Everyone's heads inside out,0.16151784,0.9814754667456016,0.5,0.0,False
+So inside out is the newest movie from Pixar Animation Studios,0.03599298,0.0032692964968434,0.5,0.0,False
+"Everyone loves them, or at least we used to love them before cars, too",0.08170467,0.0004907997986254,0.45,0.0,False
+"Let's face it, Pixar has kind of fallen from grace ever since Cars 2 and Brave",0.09978092,0.9984021885593936,0.15,0.127,False
+I really liked Monsters University,0.085282035,0.0212876812826934,0.2,0.0,False
+"I thought it was right up there with all the other great Pixar films, So I thought All right, If Pixar can get another one right, then they can remain immortal and we can forget all about Cars 2 and brave",0.060927194,0.0300687894602382,0.3056547619047619,0.039,False
+"So this movie revolves around this 11 year old girl, Riley, or rather, more specifically all the personified emotions inside her head",0.12695669,0.0007984288684221,0.35,0.0,False
+Riley's family is moving from Minnesota where she grew up to San Francisco to start a new life,0.016104523,0.0022802460889502,0.4318181818181818,0.0,False
+"So this is really the story of how she deals with it, and how all these emotions deal with it",0.059328925,0.0018543875558825,0.4,0.0,False
+"There's joy, sadness, disgust, fear and anger, And I will say this about them",0.22985287,0.0041131455069406,0.475,0.517,False
+All these characters were portrayed wonderfully,0.027409043,0.0021032446313332,0.0,0.0,False
+I love these emotion characters,0.030670939,0.0020004532477129,0.25,0.0,False
+"If fix our excels at one thing, it's making relatable characters",0.02397547,0.0235778220481765,0.5,0.0,False
+"I mean, given that these characters are emotions, it's really a no-brainer that they're all relatable",0.2286382,0.0001106594396585,0.528125,0.0,False
+"You have joy, voiced by Amy Poehler, Who's always hilarious",0.12116077,5.781829058376088e-06,0.175,0.0,False
+It's funny,0.043031808,0.0003813324886697,0.375,0.0,False
+"The guys at Pixar must be huge fans of Saturday Night Live In the office, got Amy Poehler, and Fear is voiced by Bill Hader and Sadness and discuss their voice by Phyllis Smith and Mindy Kaling respectively, Plus anger is voiced by the always hilarious Lewis Black",0.15276173,0.0,0.4858585858585859,0.166,False
+All the voice acting in this movie was perfect,0.043718524,0.0003934028019101,0.25,0.0,False
+These were excellent casting decisions,0.09602194,0.000419748868341,0.0,0.0,False
+I bought them all,0.04165838,0.0037830447922469,0.5,0.0,False
+I empathize with them,0.050585672,0.0003369256572419,0.5,0.0,False
+I laugh with them,0.062925026,0.0003776368865911,0.35,0.0,False
+"I gotta say, though the funniest out of all of them was definitely fear",0.15071863,0.9291294687428956,0.5,0.156,False
+Just the way he moved and reacted to everything made me laugh out loud,0.104076885,0.0001608779033871,0.4,0.0,False
+"So props to Bill Hader, The movie has a really good story, but with the story comes the movies biggest flaw",0.14687516,0.9995903544308898,0.15,0.0,False
+"Also, you see as the story's going along and you're seeing more of this world that Pixar has created",0.025520578,0.0003045295325695,0.25,0.0,False
+At a point It feels like that becomes the point that Pic stars trying to get across like it felt like Pixar,0.036851373,0.9991591313141596,0.5,0.0,False
+"What's going? Hey, look what we can do",0.055732824,0.8634573084643951,0.5,0.0,False
+We can make all sorts of cool stuff That shouldn't really be the point of a movie,0.054534122,0.9974199630940488,0.3625,0.0,False
+"The point of a movie should be to tell a good story, but the movie did have a really good story, so I'd say it feels like half and half at the time it felt like they were showing this big world just for the sake of doing it, and the other half of the time it felt like it was more focused on the story",0.023288755,0.999990939814259,0.4203125,0.0,False
+"And don't get me wrong, I like seeing this big world that Pixar has brought to us",0.04131502,0.0002958567889819,0.625,0.0,False
+They've never failed at that,0.03444787,0.0006212485913497,0.375,0.0,False
+They've never disappointed us with our animation ever,0.12888865,0.0005758284496746,0.3125,0.0,False
+And it's also really cool to see how these emotions interact with Riley's consciousness,0.0186035,0.000118229463271,0.325,0.0,False
+I wouldn't say they really control her thoughts,0.060927194,0.9654541376378116,0.4,0.0,False
+It's more like they help her out,0.06132676,0.0027166549698873,0.25,0.0,False
+I love how that was illustrated and it sure as hell take it over whatever science our anatomy tells us,0.2459383,0.0001676432394503,0.25,0.164,True
+"this is what I believe now as good as a story of this movie is, it is also a tat predictable, which was very shocking to me because I don't remember Pixar movies being predictable at all, but when I think back to all the great Pixar movies we've gotten, they do follow a pretty basic formula",0.04406188,0.9839402247092962,0.478125,0.03,False
+There's always that one point,0.019852988,0.9108105480589804,0.5,0.0,False
+"I think back to the first Toy story where Woody and Buzz are on the street and they're trying to catch up to the moving van, and Woody gets out the match to light the rocket, and the car drives by and blows out the match",0.043718524,0.0623205472256817,0.3916666666666666,0.0,False
+Hope just doesn't seem lost,0.043031808,0.003860890861837,0.5,0.0,False
+hope is lost,0.10763696,0.9884813745827696,0.5,0.371,False
+"There is just absolutely no hope for these characters that we have grown to love over the course of an hour and a half they've lost, and then by some glimmer of hope they actually managed to pull through the situation and it's a happy ending",0.07690986,0.0072343794947015,0.3966666666666666,0.087,False
+I'm just saying the pics are formulas getting kind of tired,0.11536485,0.999987899883517,0.45,0.242,False
+"They're still pulling it off very well, but I think next time they should try something new",0.060927194,0.837078696892559,0.4439393939393939,0.0,False
+"that being said, I'll be damned if the movie didn't give me the feels quite a few times",0.39230084,0.9924239859357308,0.6,0.133,False
+I swear there were a couple of scenes in this movie where I wanted to dear up,0.08050597,0.1906240131401304,0.5,0.064,False
+"I didn't, but I wanted to, so inside out was very enjoyable",0.06612156,0.0130419585546571,0.175,0.0,False
+The characters were perfect,0.022074303,0.0007231458776929,0.0,0.0,False
+The story was good,0.023288755,0.7952139628429862,0.15,0.0,False
+"It kind of lacked focus from time to time, but I still like what I was watching",0.06332459,0.0657154047834681,0.2,0.0,False
+"It's not Pixar's best movie, but it is a lot better than Cars To and Brave, and it is a solid animated movie 4 2015, so I will say go see this movie while it's in",0.055732824,0.0007605191438744,0.2125,0.049,False
+And the scourge of this movie was great,0.17759849,0.9296496843419366,0.0999999999999999,0.0,False
+"once again, it's Michael Giacchino",0.033761155,5.552344090595181e-05,0.5,0.0,False
+This guy is on a roll,0.2088965,0.0001957178939502,0.5,0.0,False
+So what is your favorite Pixar movie? You gotta have one,0.043375164,7.391204157099329e-06,0.25,0.0,False
+whatever it is,0.036851373,0.0049301119922406,0.5,0.0,False
+Go ahead and leave a comment and don't forget to subscribe,0.073313765,0.8340883289429183,0.5,0.101,False

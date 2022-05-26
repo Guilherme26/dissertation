@@ -1,0 +1,145 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+"When the movie Selma came out, it was a hit and a critical darling, but there was significant controversy surrounding it, and that was the historical accuracy",0.06771983,0.9632708838113658,0.4078947368421053,0.055,False
+Given that this shows intent is to analyze history in film,0.018464668,0.0010004676121299,0.4736842105263158,0.0,False
+I thought it was about time to tackle that problem head-on after having watched the movie,0.057331093,0.8701823305801671,0.4736842105263158,0.153,False
+"Though I think the fact checkers have actually gone too far, We'll get into that and more, because this film shows you what I've been saying all along on these episodes, then it is a good historical movie",0.040284947,0.0017095606189576,0.3368421052631579,0.0,False
+"If the inaccuracies do not affect the narrative, and Selma is just that a good historical movie, an inspirational one at that, but it only slips into that category",0.044748597,0.9953067109657802,0.3157894736842105,0.0,False
+"I had a difficult decision in proclaiming this one good, because there are some problems, but I don't think they affect the narrative",0.04131502,0.1977998415620778,0.4210526315789474,0.141,False
+The civil rights movement had been producing significant results since the end of World War Two,0.028782474,0.0006983035625642,0.2763157894736842,0.198,False
+"In the fight to end segregation, it kind of officially achieved that with the 1964 Civil Rights Act, but enforcement was poor at best, especially where voting rights were concerned",0.029984225,0.9998181889226324,0.3157894736842105,0.154,False
+"Several states used coercive measures to keep black people from registering to vote, ensuring that they would stay in an inferior legal position to white people",0.40636617,0.9945838182001292,0.4692982456140351,0.092,False
+"If a Negro tries to register, I mean, actually musters up the courage to go in that coat house that their name and address",0.5851118,0.0590699123500718,0.5460526315789475,0.0,False
+It's published in the paper,0.0186035,0.0705090182616113,0.4736842105263158,0.0,False
+But the poll taxes gotta focus first,0.010481823,0.1858505916505021,0.3421052631578947,0.0,False
+"Oh, and they expected to pay for every year",0.020269485,0.0947012472925424,0.5263157894736842,0.149,False
+They weren't legally registered before they can register,0.02193547,0.9988265436185192,0.368421052631579,0.156,False
+"Now, what the hell is that voting? But if your Negro, the only way you can vote is if an approve registered vote of vouchers for you, many of those laws survived the Civil Rights Act because they were technically not racially selective, even though in practice they really were a group called the Dallas County Voters League, later joined by the Student Nonviolent Coordinating Committee",0.5042868,0.9970981759848372,0.3771929824561403,0.039,True
+"Snick for short, had launched a campaign in Selma to get black voters registered in 1963",0.2088965,0.9991001245823152,0.5175438596491228,0.0,False
+"By getting black voters registered they could find in discriminatory cases that were able to be tried in court, And that is precisely what happened with several people",0.31714454,0.9910823454856952,0.3771929824561403,0.0,False
+"Now that there were actual cases to be made, the Dc Vl brought in a larger organization than Snick to fight for voter registration",0.038224805,0.0088449896935472,0.4736842105263158,0.102,False
+"The Southern Christian Leadership Conference with Martin Luther King as its head pivoted to the new primary issue of voting rights and used Selma as the battleground after some local protests were broken up violently, ultimately leaving a man named Jimmie Lee Jackson, mortally wounded in a cafe by a malicious policeman",0.2088965,0.1976983552147932,0.4634313055365687,0.193,False
+"the Sclc proposed a long protest march they started on the 50 mile walk from Selma to the state's capital in Montgomery on March 7th, 1965, but didn't get very far as soon as they crossed the bridge that separated Selma along the county line, coincidentally named after a Confederate officer, and high-ranking Kkk member, police, state troopers and vigilantes attacked the procession in a coordinated and brutal fashion",0.043718524,0.9899398864026504,0.6131578947368421,0.145,False
+It was so horrendous that newspapers called the event Bloody Sunday because it was well publicized,0.2818683,0.9925557007295482,0.8947368421052633,0.34,False
+Thousands of people came from across the country to take part in another march,0.050585672,0.0028879050359611,0.4736842105263158,0.0,False
+"A second march was staged, this time with King and the front of it",0.09709594,0.0046095665233468,0.4736842105263158,0.0,False
+"A court order had mandated that the March could not cross the county line at the bridge, but when they came to the top of the bridge again the troopers actually made way for the marchers",0.027580723,0.2203977960801591,0.3859649122807018,0.0,False
+"The entire procession kneeled in prayer, and then King turned them around, keeping in line with the court order, but confusing the rest of the marchers",0.0813051,0.9072544139929436,0.5526315789473684,0.086,False
+"Because of this, the second March became known as Turn Around Tuesday",0.016104523,0.0883792588611515,0.4736842105263158,0.0,False
+"During the night the Kkk assaulted three white protesters, beating one of them so badly that he died within hours",0.36211988,0.9992537102350486,0.6578947368421053,0.514,False
+"several protests were organized in Montgomery because of the failure of Turn around Tuesday, one of which ended in violence by state troopers and protesters even rioted",0.059328925,0.9694124918099326,0.5570175438596493,0.327,False
+in response,0.017423427,0.8658020248448712,0.4736842105263158,0.0,False
+a sit-in was staged at the White House to try to get Lyndon B Johnson to sponsor federal legislation,0.023288755,0.9812562614915404,0.4736842105263158,0.0,False
+"He did just that four days later on March 15th, though he had been working on it since Bloody Sunday",0.1334155,0.9893447978828608,0.6842105263157894,0.132,False
+"With perhaps his most famous speech of his career, It's not just Negroes, but really it's all of us who must overcome the crippling legacy of bigotry and injustice, and we shall overcome",0.45120096,0.001663571357912,0.2631578947368422,0.136,False
+"Two days later, a federal court ruled in favor of the Sclc",0.017909339,0.8721311068887889,0.4736842105263158,0.0,False
+"S proposed march on Alabama's capital, And that's just what they did",0.12051678,0.0234728234613544,0.4736842105263158,0.0,False
+"Beginning on the 21st, After five days of marching, they arrived in Montgomery, where King gave a speech and a petition for voting rights legislation was handed off to Governor George Wallace's secretary",0.019714156,0.9482819911269638,0.4736842105263158,0.0,False
+though his racism meant that he wouldn't see hide nor tail of it,0.24418297,0.950141530982202,0.4736842105263158,0.247,False
+"Later that night, a white protester by the name of Viola Liuzzo was gunned down by some Kkk members driving past her car",0.30788645,0.991422600446224,0.5270467836257311,0.0,False
+She was the final victim of the violence related to this Alma voting rights protests,0.089577995,0.9981477623929508,0.4868421052631579,0.403,False
+This movie goes out of its way,0.14328592,0.9885794626624276,0.4736842105263158,0.0,False
+To be accurate,0.012425472,0.0005454928422916,0.263157894736842,0.0,False
+The marchers are staged to match archival footage and the general Vince line up perfectly,0.0717155,0.0,0.1973684210526315,0.0,False
+"The film could not procure the rights to King's actual speeches, which are technically still copyrighted, even though they could have claimed fair use and used the actual words",0.037881445,0.9994984696723176,0.3815789473684211,0.0,False
+They instead paraphrased quite succinctly to the point that I thought I was listening to an actual speech,0.02929751,0.9994146577461608,0.4736842105263158,0.0,False
+"At one point, the Lbj speech, on the other hand, had no qualms with simply quoting him",0.05253629,0.996324763583754,0.5065789473684211,0.108,False
+"for the most part, Actors just nail mannerisms of these folks",0.1689685,0.0664295353466217,0.2105263157894737,0.0,False
+"This recreation of Selma has been done before, so they were retreading some ground, But the story is more involved than Selma, Lord Selma, and far superior in fidelity and quality",0.062125895,0.0013774126441735,0.2456140350877193,0.0,False
+The best part is where the movie shows the way that the whole thing was organized,0.03753809,0.0065528288894582,0.1578947368421052,0.0,False
+"We really get to see the ideology behind Selma, and what made it tick We do is negotiate, demonstrate resist, and a big part of that is raising fight consciousness, and in particular the consciousness of whichever white man happens to be sitting in the Oval Office",0.2885035,0.0159893006863427,0.4771929824561403,0.053,False
+"This is important work because too often do we get the X happened, which caused Y approach to the civil rights movement",0.02929751,0.0001230354307168,0.2631578947368421,0.0,False
+But here we get to see the Internet' scene fights among civil rights leaders,0.043718524,0.174889470041871,0.4736842105263158,0.215,False
+"You want us to bring our people in, but you're not giving anything in return",0.101391904,0.9791381326351152,0.4736842105263158,0.153,False
+Now we are asking for some kind of commitment,0.03221605,0.0305667638441907,0.1578947368421052,0.0,False
+"The motivation for selecting Soma, we don't fight, and the reason for so much momentum being necessary in obtaining voting rights",0.043718524,0.0038534410771608,0.4210526315789474,0.0,False
+"there have been thousands of racially motivated murders in the South, including those for girls",0.34388447,0.9870321609787468,0.4736842105263158,0.2,False
+"No, the astounding fact that not one of these criminals who murder us when and why they want has ever been convicted one conviction, Because they are protected by flight officials chosen by an all-white electorate, and on the rare occasions that they face trial, they are freed by all-white juries",0.42631236,0.1502925474357768,0.2368421052631579,0.133,False
+"Oh, for instance, just listen to the speech, dismantling your own legacy",0.14911842,0.9906334211500708,0.1578947368421052,0.0,False
+"With each passing day, no one will remember the Civil Rights Act, but they will remember the standoff in summer when you never even set foot in this state",0.020685982,0.9794682836685576,0.4736842105263158,0.054,False
+"They will remember you saying, Wait and I can't unless you act sir",0.07251463,0.9971921812533644,0.4736842105263158,0.0,False
+That's incredible,0.03856816,0.0006775592166875,0.0,0.0,False
+You really get a sense of what this fight was all about,0.08330294,0.1874979192318297,0.368421052631579,0.214,False
+"There are so many other clips I could show, but I'll just say if you haven't watched this movie, just go watch it",0.08581903,0.0064198087520335,0.375,0.0,False
+"There's not much here, but I'll just run through them real quickly",0.42616197,0.9947845853176944,0.368421052631579,0.0,False
+"The church bombing that took out the girls in the beginning was a year earlier than King getting the Nobel Peace Prize, but the movie is showing it to illustrate the speech he made for receiving the award",0.15918289,0.1572324550894598,0.4736842105263158,0.0,False
+Not to show the chronology,0.013327881,0.9987686919298028,0.4736842105263158,0.0,False
+The person who attacked King in the hotel actually punched him twice and kicked him while he was on the ground,0.35756677,0.9954898632724068,0.4736842105263158,0.13,False
+"The Kkk member was sent to jail for a month because of it, and fined $100 Some of the Sclc leadership was in on the turn around Tuesday secret",0.112788886,0.9984169620078334,0.6052631578947368,0.0,False
+"It was understood by them as part of complying with the core order and avoiding another Bloody Sunday, but the movie is correct in saying that it was a surprise to everyone else",0.124380715,0.8714509844339615,0.8947368421052633,0.101,False
+"Both of people killed in the movie took a while to die of their wounds, rather than dying on the spot",0.21036349,0.9974193258796952,0.5789473684210527,0.307,False
+But that's alright,0.023460433,0.8629844300271903,0.4736842105263158,0.0,False
+since the movie needs to save time,0.044748597,0.99937337769007,0.4736842105263158,0.0,False
+"There is one thing that this movie has been going back and forth over, but I think it's unwarranted",0.09978092,0.0596329603931125,0.4736842105263158,0.0,False
+It is implied that Johnson ordered a blackmail package sent to King to stop the first Selma March,0.11794081,0.9668935738457434,0.3421052631578947,0.115,False
+Get me,0.046122026,0.0069794292091894,0.4736842105263158,0.0,False
+J,0.019575324,0.1635395111684309,0.4736842105263158,0.0,False
+Edgar Hoover,0.022213135,0.0406365342922069,0.4736842105263158,0.0,False
+Historians are correct in pointing out that there is no evidence to show that Johnson did this,0.023460433,0.9693992583479076,0.4736842105263158,0.121,False
+But here's the thing,0.026035614,0.1951052821751138,0.4736842105263158,0.0,False
+The blackmail thing really did happen,0.19042583,0.9960240897889208,0.368421052631579,0.0,False
+They go ruin me,0.22983712,0.9953090357631628,0.4736842105263158,0.559,False
+"Yeah, because J",0.019852988,0.0034467207555615,0.4736842105263158,0.0,False
+"Edgar Hoover, the unjustifiably powerful director of the Fbi had been monitoring King for years and had caught him cheating on his wife on several occasions",0.22977416,0.9673602322126846,0.3947368421052631,0.118,False
+"The Black Mantle incident happened sometime in early 1965, though we don't know when, but it never caused much of an effect on King or his wife, because he had already confessed his wrongdoings to her beforehand, So yeah, the implication is incorrect, but it is only implied through montage",0.05133759,0.9997809027492248,0.456140350877193,0.0,False
+Nor does it make a big difference for the narrative,0.020130653,0.9894747779006312,0.4736842105263158,0.0,False
+"Instead we see the differing stances on what needs to be accomplished first between Mlk and Lbj, Which is quite accurate",0.05093802,0.8898643036631266,0.3245614035087719,0.0,False
+"What the movie gets wrong on this front, was that it does not show the stress that Lbj was under because of Vietnam",0.13296685,0.8718969282601208,0.7368421052631579,0.117,False
+It keeps talking about the Great Society legislation that he proposed almost a year prior,0.015132698,0.7528728162067945,0.2631578947368421,0.0,False
+I'll call it the war on poverty,0.12244874,0.9973835895712092,0.4736842105263158,0.59,False
+"Instead, the Vietnam War was escalating exactly during these few weeks",0.04783881,0.7828012741439522,0.4605263157894737,0.281,False
+"The official ground war began on March 8th, a day after Bloody Sunday",0.112788886,0.9814938379009988,0.8947368421052633,0.382,False
+"That was what was preoccupying Lbj when he said to King, something along the lines of this, You've got one big issue",0.14687516,0.9907478429084337,0.4736842105263158,0.0,False
+"Now you demanded more, and put me on the spot with this visit",0.08170467,0.0013500217621898,0.2105263157894737,0.137,False
+That's okay,0.022351967,0.9509978611566028,0.2105263157894737,0.0,False
+That's your job,0.027752401,0.0307553704831385,0.4736842105263158,0.0,False
+That's what you do,0.03221605,0.9623428425792364,0.4736842105263158,0.0,False
+but I am sick and tired of you demanding and telling me what I can and what I can't do,0.30053464,0.8113116652878333,0.7669172932330828,0.385,False
+"Now, historians have been saying that the moving unnecessarily it demonizes Lbj, but I would argue it's easy to see it the other way around",0.08796701,0.924851818756054,0.489766081871345,0.104,False
+He was more preoccupied with a spurious war than helping people at home,0.12309273,0.9991177095881588,0.2105263157894737,0.228,False
+Yet the movie makes him out to be more preoccupied with domestic problems in general and political necessity,0.039254878,0.9891283234804148,0.4013157894736842,0.137,False
+What he needs to do is get on board with what we're doing instead of the other way around for once,0.038053125,0.0007555889544822,0.5394736842105263,0.0,False
+But here's the thing,0.026035614,0.1951052821751138,0.4736842105263158,0.0,False
+Despite it not showing the correct preoccupation of Lbj's,0.036679696,0.9973306855282048,0.4736842105263158,0.0,False
+it does show that he was preoccupied,0.044748597,0.9963587115865606,0.4736842105263158,0.0,False
+and then it was Soma that pushed him to act,0.1019289,0.750205915947666,0.4736842105263158,0.0,False
+"You see, the movie doesn't alter the narrative",0.032559406,0.99942708647063,0.4736842105263158,0.0,False
+Just tweak some things to not have to get bogged down in others,0.06652113,0.0085618710994631,0.5672514619883042,0.0,False
+All movies necessarily cut stuff,0.0729142,0.9988832031034496,0.4736842105263158,0.344,False
+"This could easily have been a three-hour snorefest, like so many other movies, but instead the narrative stays intact and what is cut is not necessary",0.11472086,0.9664970468665144,0.3673245614035088,0.087,False
+"Sure, I would like to have seen other civil rights leaders depicted in this like we could have seen a legion of people trying to register to vote, And not just one but one is all it takes",0.019436494,0.9990744325907264,0.375,0.0,False
+"That is why the movie is still good historically, despite its inaccuracies",0.08050597,0.0005284145230569,0.2894736842105263,0.0,False
+"Now you know that I research this stuff prior to watching, although I didn't use to, so I get really deep into the way that filmmakers react to fact-checkers I always see the typical Pablum of you got this wrong",0.10515087,0.893021587144538,0.5614035087719299,0.085,False
+So everything's wrong or it's just a movie,0.11794081,0.9879277146577076,0.7368421052631579,0.326,False
+"You know, the platitudinous argument that is between slender and artistic license",0.089577995,0.0064472294391119,0.2982456140350877,0.185,False
+Things like this or this,0.025692256,0.015650983056966,0.4736842105263158,0.0,False
+"I've been doing this series for a while now, and I had to develop a mode of critiquing based on the true stories, but this movie in particular made me have to kind of reassess",0.037023053,0.9999521926281808,0.2777777777777778,0.0,False
+"that being said, I think my original assertion from last year is still correct",0.013536129,0.0107795787771154,0.375,0.0,False
+You don't get to have artistic license when dealing with the truth,0.085282035,0.995657457319626,0.2982456140350877,0.0,False
+Not at least if you're changing the narrative,0.017909339,0.9943234110881688,0.6315789473684211,0.0,False
+What really set me off on this is when I saw the director of this movie wrote an editorial saying it's not a documentary,0.092262976,0.9990697233857716,0.4210526315789474,0.0,False
+I'm not a historian,0.021380141,0.9012142029263774,0.4736842105263158,0.0,False
+I'm a storyteller,0.028439116,0.0010010041038336,0.4736842105263158,0.0,False
+Now that's just idiotic,0.67902285,0.9978749563616158,0.8245614035087718,0.545,False
+Historians are also storytellers,0.06252546,0.0008320688273552,0.4736842105263158,0.0,False
+They're just forced to use evidence to show that their story is true,0.043031808,0.9984605072511176,0.4605263157894738,0.179,False
+Besides no worthwhile historian claims to be a hundred percent accurate,0.13146462,0.9994677704248278,0.4342105263157895,0.169,False
+We make mistakes as I do all the time on this channel,0.23101798,0.9990652824266688,0.4736842105263158,0.185,False
+"Why do you think we're arguing all the time amongst each other? Just as historians are allowed to make errors, Artists are allowed to purposely flub stuff as long as it does not affect the narrative",0.07011723,0.9979875898142996,0.5197368421052632,0.137,False
+"Furthermore, there is a difference between facts and interpretation when historians are angry about what",0.04234509,0.0079551585927596,0.7368421052631579,0.191,False
+This is,0.027237365,0.0199774309862288,0.4736842105263158,0.0,False
+"The vilification of Lbj And funny enough, most of those historians are from the Lbj library, so they have a vested interest in their particular narrative",0.1539292,0.0003121785613682,0.3530701754385965,0.0,False
+"But as I showed earlier, that is an interpretation, not a fact",0.014091457,0.9359874789989576,0.4736842105263158,0.0,False
+"If you can't differentiate between the two, then you should make fiction, not based on a true story movies",0.043718524,0.9972699427453072,0.2894736842105263,0.0,False
+This is a competent movie,0.04783881,0.0006889149577493,0.2105263157894737,0.0,False
+"But if the director is going to be this kind of foolish, then maybe she should stay away from these kinds of movies from now on with real people and true stories",0.53430706,0.9994000234446876,0.2719298245614035,0.084,False
+You don't get to take artistic license to the point of changing the actual narrative without incurring the ire of the historical community,0.04131502,0.9883827788428298,0.4152046783625731,0.0,False
+That's simply falsifying the past,0.16151784,0.9981690134254366,0.5394736842105263,0.0,False
+"Instead of arguing whether it's right to fact-check movies, which it undoubtedly is, we should be trying to find out if the narrative of the movie diverges enough from reality to be inaccurate",0.039598234,0.9978558811010396,0.3984962406015038,0.086,False
+"History is the story of us, and Selma is an important component of that story",0.018464668,0.0008756140706394,0.2631578947368421,0.0,False
+So telling it correctly is vital to understanding ourselves,0.018325835,0.0001512012451614,0.4210526315789474,0.0,False
+"It is a building block to reality, and to be inaccurate, as in to get the overall narrative incorrect is simply to breed ignorant",0.46128514,0.9998502592044765,0.4736842105263158,0.185,False
+"So how does this movie stack up to this measure? Does it actually help us understand reality? Does the movie Selma misrepresent the actual Vence narrative? No, it actually strengthens it and gives it new life",0.07131593,0.1063623713541327,0.4557416267942584,0.0,False
+"It has its faults, but none too great to affect the narrative",0.089577995,0.9748348730694903,0.0526315789473684,0.394,False
+And that's what counts,0.028439116,0.0122669722205489,0.4736842105263158,0.0,False
+"Selma is a good, based on a true story movie",0.037194733,0.0087170364222131,0.1973684210526316,0.0,False
+things like this or this,0.025692256,0.015650983056966,0.4736842105263158,0.0,False

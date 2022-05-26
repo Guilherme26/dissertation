@@ -1,0 +1,72 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+"Hey, y'all! It's me, Evelyn",0.015410362,0.0004834320006294,0.5,0.0,False
+"Welcome to Watch & Go, the show where we review things that we watched while we do our wash and goes, our haircare routines",0.024833864,0.0013923890678384,0.0999999999999999,0.0,False
+I'm gonna review Oscar winning film Moonlight,0.04680874,9.688905949363768e-05,0.25,0.0,False
+🎶 classical music,0.06012806,0.0009641519420728,0.5,0.0,False
+"🎶, Who is you, man? I ain't seen you in like, a decade? Not what I expected",0.13206954,0.9999789591891718,0.55,0.0,False
+"Well, what did you expect? Before we get to that, let's go through the product I'm going to be using in this video",0.09978092,0.9958333532018988,0.5,0.0,False
+I'm using a complete brand,0.024662184,0.9859647360778976,0.45,0.0,False
+"Uh, I'm using Inahsi Naturals",0.024147147,0.999560318580526,0.5,0.0,False
+"""loving the you that you were born into",0.05493369,0.0033834577502902,0.2,0.0,False
+""" I already shampooed my hair with the soothing mint sulfate free clarifying shampoo",0.14911842,0.0049616675766469,0.3,0.0,False
+I'm going to condition and detangle my hair with the soothing mint moisturizing conditioner,0.28972426,0.0008233930900308,0.5,0.0,False
+"Then I'm gonna use the aloe hibiscus leave-in and style with the coconut avocado curl defining custard, natural styling gel",0.062125895,8.401422907184394e-05,0.45,0.0,False
+Moonlight,0.025863936,0.0008622560040817,0.5,0.0,False
+"First of all, there's going to be spoilers",0.11021292,0.9934081166268898,0.375,0.0,False
+"I don't wanna hear it from you, okay? If you have not seen this film yet, where have you been? So Moonlight is a film written and directed by Barry Jenkins, loosely based on the semi-autobiographical play by Tarell Alvin Mccraney",0.12631269,0.9284915526807066,0.3942307692307692,0.0,False
+"And the play is called ""In Moonlight, Black Boys Look Blue""",0.38953075,0.8037707755654793,0.5416666666666666,0.0,False
+Moonlight is a coming of age drama about Chiron living in Miami,0.06012806,0.0,0.5,0.0,False
+His mother is like a crack addict and he's all alone in the world,0.6887467,0.0482160909153766,0.5,0.121,False
+The movie is really divided into three different sections,0.026035614,0.88068244946033,0.45,0.0,False
+The three stages of his life,0.02655065,0.040828352283971,0.5,0.0,False
+So Act one is childhood,0.083939545,0.1225508317378875,0.5,0.0,False
+Act two is his adolescence,0.09333697,0.0234673885313871,0.5,0.0,False
+Act three is Chiron as an adult,0.0813051,0.7533217658545192,0.45,0.0,False
+"And adult Chiron is played by Trevante Rhodes, who is",0.036336336,0.0041768393721851,0.45,0.0,False
+FINE,0.022945397,0.075971245019944,0.2916666666666666,0.0,False
+"Fun fact,, we actually went to the same university at the same time",0.018881164,0.0011862427668487,0.4625,0.0,False
+I didn't know who he was,0.019714156,0.991738501465108,0.5,0.0,False
+"That's a failure on my part, okay? Because, uh, he coulda been Bae, and my life would be a lot different right now",0.1668969,0.9988716045615048,0.4413690476190476,0.126,False
+Let's go back to the beginning though,0.035649624,0.2474950408060597,0.5,0.0,False
+"In Act one, we see baby Chiron, and you know, it's that innocent age where kids just want to be accepted",0.058929358,0.0251986061803954,0.25,0.0,False
+"And you see him running away from bullies and he runs into an abandoned house, and that's where he meets Mahershala Ali",0.17034957,0.8099954878487827,0.5,0.125,False
+"He plays the character Juan, and he is a drug dealer, right? But he is the most loving, tender character that Chiron ever comes in contact with",0.24991328,0.0001088698044694,0.2690476190476191,0.0,False
+"Juan, Mahershala Ali, kinda takes Chiron under his wing",0.08290337,0.0103989290048471,0.5,0.0,False
+"Chiron goes home with Mahershala Ali, and I don't know if it's his girlfriend or his wife, is played by Janelle Monae, who is also my wife - Would ya look at that! Basically Chiron's been called the ""F-word"", right? ""F"" being the slur for gay people",0.49981686,0.9995591860722944,0.3244047619047619,0.0,True
+"And so at the dinner table, Baby Chiron asks what does the ""F-word"" mean? And everybody goes silent",0.086087525,0.9974099238716044,0.578125,0.0,False
+"And so Mahershala Ali basically says, ""the F-word is what people say to make gay people feel bad",0.45045215,0.999810453885457,0.5708333333333333,0.171,True
+"It's okay to be gay, don't ever let anybody call you the F-word",0.4151741,0.9991123817721012,0.2708333333333333,0.0,False
+""" Now we transition to Act two, which is Chiron's adolescence",0.031185975,0.0210961249144658,0.5,0.0,False
+"His mother is still a drug addict, right, and so he still hangs out with Janelle Monae",0.5026305,0.004145307958791,0.3571428571428571,0.0,False
+"She is still like the only adult who is really looking out for this child, right? His adolescence is full of turmoil",0.22988434,0.0052839853799147,0.4064285714285714,0.1,False
+The bullying has gone to like even more violent levels,0.15159425,0.9982353137524648,0.575,0.46,False
+"So then, we meet Kevin",0.03187269,0.010531879510661,0.5,0.0,False
+Who is this boy in school? That's really Chiron's only friend,0.11021292,0.0083042656220569,0.45,0.0,False
+"But they have like a ""thing"", right? And at this point, you don't know necessarily that Chiron is questioning his sexuality, but as he gets into his adolescence, and like meets Kevin and hangs out with Kevin, you realize ""oh he feels a little something something in his heart, Chakra"", you know what I'm saying? Then we fast forward to Act three, which is adult Chiron, played by Trevante Rhodes",0.13206954,0.0097806689189672,0.4601785714285714,0.019,False
+And we find out that now he is a drug dealer in Atlanta,0.3123962,0.0968076679152073,0.5,0.0,False
+"Very attractive one, but still",0.068918526,0.0018171094575166,0.0,0.0,False
+That's not the point,0.04234509,0.9979844929820252,0.5,0.0,False
+That's not the point,0.04234509,0.9979844929820252,0.5,0.0,False
+And guess who calls him out of nowhere,0.06412373,0.1477087868333401,0.5,0.0,False
+Girl,0.0717155,0.0481445044740035,0.5,0.0,False
+Kevin,0.0129808,0.0413080291257274,0.5,0.0,False
+They start to like rekindle at least their friendship,0.0729142,0.1329023742140989,0.65,0.0,False
+Chiron goes to Kevin's house and he admits that he's never been intimate with anybody since that day on the beach when they were like 15,0.16758743,0.9256263068548936,0.4,0.0,False
+", Adult Chiron like, leans over and like, they kinda hug each other",0.1256687,0.0011023477491696,0.50625,0.0,False
+And then the movie ends!! So I'm gonna go rinse this out,0.18549223,0.0002181568488137,0.5,0.0,False
+Style my hair in the sink 'cause I need soaking wet hair,0.16344422,0.957936736898072,0.55,0.0,False
+And I'll be back with my final review,0.019436494,0.907947406317727,0.5,0.0,False
+"🎶bouncy Music🎶, I'm back!! So",0.043031808,0.0699113424871788,0.5,0.0,False
+I give Moonlight a smooth seven out of five stars,0.07011723,1.4722607010106742e-05,0.3,0.0,False
+This rocked my whole entire world,0.111500904,0.0028585103821201,0.45,0.0,False
+It was an all-Black cast,0.31671798,0.0001210889722308,0.5,0.0,False
+Oscar winner,0.02809576,6.866576224956667e-05,0.5,0.0,False
+The woman who won the editing Oscar was the first Black woman to win an Oscar for editing a movie,0.24242763,0.0095041878962288,0.3527777777777777,0.0,False
+What??! Nothing but good things to say,0.11085691,0.1328894099751325,0.15,0.385,False
+Janelle Monae is my wife,0.015410362,0.0008997777899638,0.5,0.0,False
+Watch Moonlight,0.023117077,0.0008025012934436,0.5,0.0,False
+"In the comments below, tell me what you thought about Moonlight",0.028782474,0.0775713897425749,0.5,0.0,False
+"If you didn't like it, we might not be able to be friends, but I respect you as a human being",0.064523295,0.0074001664191043,0.375,0.06,False
+Let me know if you've used these products,0.020685982,0.0027439184307965,0.5,0.0,False
+"We post these videos every week, so give this video a like,, share it, comment, and subscribe! And we'll see you next week",0.05093802,0.0672926258216645,0.5,0.0,False
+Bye!,0.048868883,0.0036816948522136,0.5,0.0,False

@@ -1,0 +1,51 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+"Greetings, and welcome to Earthing Cinema",0.019019997,0.0001451957971733,0.0,0.0,False
+"I am your host, Garyx Wormuloid",0.10634898,0.9234544211434652,0.4444444444444445,0.0,False
+"This week's artifact is Max Max: Fury Road, the fourth film in the series and the first one that doesn't have a problem with Jews",0.27045983,0.0006537536899212,0.375,0.128,False
+The film takes place on Earth after the nuclear holocaust that we all know turned it into a barren desert wasteland,0.1609341,0.95269392156619,0.4444444444444445,0.0,False
+"Our protagonist is Madison Maxwell, or Mad Max, for short",0.10699297,0.9141528284281388,0.6180555555555556,0.262,False
+"Max likes to sit around, eat organic food, and monologue to himself, but these skinheads put a stop to that",0.33859563,0.955832636789956,0.4444444444444445,0.123,False
+"They bring him back to their boss, a fat guy named Joe",0.53430706,0.0736646748521803,0.4444444444444445,0.0,False
+"Imperator Furiosa, one of Joe's trusted lackeys, goes truckin' off to the gas station",0.31629145,0.9950032495421534,0.4444444444444445,0.0,False
+But soon Joe realizes she took all his sex puppets and sends his army of war puppets to chase her down,0.5535644,0.9863231878403484,0.5308641975308642,0.211,False
+"One such soldier is Nux, who brings along Max as his Lucky Hood ornament",0.13879937,0.0059115644622093,0.3518518518518519,0.0,False
+"Furiosa drives into a sandstorm to escape Joe's army, and Nux is the only one psychotic enough to follow suit",0.36944604,0.9987369962796072,0.5370370370370371,0.0,False
+"But being psychotic also has its downsides, specifically an upside-downside",0.27359754,0.9616534650570112,0.7222222222222222,0.0,False
+"When Max comes to, he conveniently finds Furiosa and the wives making repairs on their truck like fifty feet away",0.10892494,0.0245357646818183,0.4444444444444445,0.0,False
+Which I guess means she was only able to drive for one second after losing her tail,0.12244874,0.9997185210608276,0.3518518518518519,0.14,False
+Tough break,0.090114996,0.2265113456162837,0.6604938271604938,0.6,False
+"Max tries to steal the truck, but Furiosa babyproofed it, so Max reluctantly agrees to let her steal her own truck with him",0.32563272,0.8989505810559338,0.3055555555555556,0.28,False
+"Joe and his goons catch up, and just like the proverbial ""another one,"" the pregnant wife bites the dust",0.3511902,0.8452026500811395,0.2592592592592593,0.0,False
+"Furiosa tells Max they are going to the Green Place, her alma mater",0.06532243,0.0688192010666093,0.5555555555555556,0.0,False
+"Nux stows away on the truck, but only to find somewhere to cry about his daddy issues",0.26132804,0.1183820889850819,0.4444444444444445,0.206,False
+"The redhead wife makes googly eyes at him, because let's face it, there aren't a ton of fish in the sea when the sea's all dried up",0.23891698,0.098338123661928,0.5555555555555556,0.0,False
+"Later that night, the truck becomes a real stick in the mud, but then they push it, push it real good",0.13386416,0.0,0.2222222222222223,0.0,False
+"They keep driving until they reach a tribe of biker grannies, who reveal that the swamp they passed is all that's left of the Green Place",0.16275369,0.8967522850900251,0.5000000000000001,0.0,False
+This bad news is more than Furiosa can handle,0.16482529,0.9999242275269112,0.4999999999999999,0.304,False
+"You know, like hand",0.09387396,0.0017255973513377,0.4444444444444445,0.0,False
+"Cuz she ain't got none! After briefly considering letting his friends die in the desert, Max suggests they go back to Joe's house, since it's unprotected and has lots of water, and sometimes your glasses have been on your head the whole time",0.123736724,0.9988286565293112,0.4074074074074074,0.134,False
+"Face glasses, not water glasses",0.035477944,0.99368876704087,0.4444444444444445,0.0,False
+"So our heroes retrace their steps, and before Joe can even open his mouth, Furiosa rips it off",0.2712817,0.9997103834191468,0.4444444444444445,0.0,False
+"Nux commits suicide for a good cause, and Max donates blood one last time, despite not receiving a complimentary Nutter Butter",0.42750368,0.9969993862191214,0.2592592592592593,0.247,False
+"They return to the Citadel as heroes, but Max heads off to start work on the sequel",0.0729142,0.0743253440471198,0.4444444444444445,0.0,False
+"The stylized machinery, weapons, and artillery of Mad Max are characteristic of Dieselpunk, a genre that featured the technology and aesthetic of pre-war 1940's Earth",0.060527626,0.002730163879882,0.6365740740740741,0.21,False
+Which is also post-war if you think about it,0.103539884,0.0222588346545375,0.4444444444444445,0.0,False
+"But unlike the gleaming chrome traditionally used in Dieselpunk to reflect the optimism of that era, Mad Max depicts grimy contraptions in disrepair that embody a post-apocalyptic society with little hope and lots of sand all up in people's crevices",0.14866976,0.998917693656422,0.5949074074074073,0.153,False
+"Here, all that remains of the glory days are petroleum-based machines which, ironically, contributed heavily to society's collapse in the first place, along with diet soda and listicles",0.08635602,0.9995676318952988,0.4305555555555556,0.098,False
+These gas-powered machines are so integral to the survival of Joe's power structure that the people have come to worship them like they would a Samsung Galaxy Note,0.085282035,8.69207441095323e-05,0.4444444444444445,0.0,False
+"Their belief system appropriates the vocabulary of pagan religions, which typically worshipped Nature's bounty",0.25676212,0.0017829781580629,0.5370370370370371,0.0,False
+"They refer to bullet manufacturers as ""farmers,"" and to bulletss as the ""anti-seed""",0.0765103,0.9908336173310665,0.4444444444444445,0.0,False
+"""Anti-seed"" is also something my wife has called me during more than one doctor's appointment",0.019019997,0.924935501737625,0.1666666666666666,0.0,False
+Joe uses this ideology an D,0.090114996,0.159456105068937,0.4444444444444445,0.0,False
+"its derision of all things organic to justify hoarding resources, enslaving workers, and waging war",0.19716066,0.9978417662700596,0.4444444444444445,0.319,False
+The film examines themes of objectification,0.022074303,0.000525161066434,0.4444444444444445,0.0,False
+"Joe maintains a group of concubines to serve as ""breeders"" of future warlords, storing them inside a giant bank vault like he would jewels, or a government-issued savings bond",0.15859914,0.0038041835407224,0.4444444444444445,0.0,False
+"He dehumanizes other women by milking them like cows to provide ""mother's milk"" to put in his Immortan Toast Crunch",0.42631236,0.9988984673601428,0.513888888888889,0.109,False
+"But under Joe's totally totalitarian regime, it's not just the women who are used for their fluids",0.2712817,0.9535650069245966,0.4444444444444445,0.223,False
+Men such as Max are reduced to nothing more than a source of free blood,0.35642847,0.9956316960606928,0.2777777777777778,0.0,False
+"Even the War Boys are objectified, made into expendable chess pieces powered by cake frosting",0.17587385,0.8588912662924604,0.4444444444444445,0.218,False
+"Ultimately, the film espouses an egalitarian message: it takes a man and a woman, both of whom understand the indignity of oppression, to make the baby that is justice",0.065721996,0.1304417460660538,0.4444444444444445,0.0,False
+"Then again, justice is blind",0.15684792,0.9663639970700914,0.7222222222222222,0.297,False
+So maybe this guy is justice,0.10634898,0.0005648059874442,0.4444444444444445,0.0,False
+I don't know,0.017770508,0.9871400520624256,0.4444444444444445,0.0,False
+"For Earthling Cinema, I'm Garyx Wormuloid",0.045091953,0.0483469811719116,0.4444444444444445,0.0,False

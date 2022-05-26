@@ -1,0 +1,82 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+"Hey, guys, so I'm gonna do something different for my channel",0.11085691,0.0031882360596004,0.4444444444444445,0.0,False
+I am going to do some movie reviews,0.04783881,0.0125819782204911,0.4444444444444445,0.0,False
+Now that's pretty common for most people to do me,0.03856816,0.0039377920948901,0.3611111111111111,0.0,False
+not so much,0.018881164,0.9142224502166538,0.3333333333333333,0.0,False
+"I'm not very good at movie reviews, but I want to try my hand at movie reviews",0.03444787,0.9927909925230086,0.594017094017094,0.084,False
+"Picked up this copy of 101 horror movies to see before you die by Stephen Jay Schneider, So it's a pretty big book here of 101 horror movies to see before you die, And it does movies by decades",0.07251463,0.0031569399789159,0.375,0.289,False
+Beginning in the 1910s,0.02054715,0.012245530450237,0.4444444444444445,0.0,False
+"it goes 1910s, 20s, 30s, 40s, all the way up to present time, And I was looking through the book and I'm like Wow, there's a lot of movies I haven't seen that I probably should see",0.039598234,0.0772602171047864,0.4166666666666666,0.0,False
+"You know some that I probably won't watch, but for the most part I'm gonna watch all the movies in here and I want to try to do movie reviews",0.028439116,0.0051007842589179,0.1666666666666666,0.0,False
+Watch this quick opening scene from the movie,0.032731086,0.0012837056180965,0.2592592592592593,0.0,False
+What movie? God? I can't even remember what movie I'm reviewing,0.09709594,0.9996687086316112,0.4444444444444445,0.0,False
+The Cabinet of Dr,0.016590435,0.0039999073636011,0.4444444444444445,0.0,False
+Caligari Caligari,0.008850546,0.0011319643354633,0.4444444444444445,0.0,False
+"It's from Germany, so I'm gonna butcher all the names but watch this opening scene",0.2022951,0.9815649095467264,0.4444444444444445,0.0,False
+Boom,0.05493369,0.0037122516734237,0.4444444444444445,0.0,False
+"So the Cabinet is directed by Robert Wiene, produced by Rudolf Mine Art and Eric Palmer",0.025692256,0.8816091622048142,0.4444444444444445,0.0,False
+"Probably like I said, but during those names it was released in 1920 and Germany",0.035649624,0.8717790334560169,0.4444444444444445,0.0,False
+"A quick plot synopsis For you, a guy named Francis is sitting on a bench like you just saw, talking to another man about how the spirits have driven him away from his home, and as he is talking, you saw the woman she like appears to be in a trance, kinda like a zombie",0.25676212,0.9992665987035018,0.2592592592592593,0.0,False
+She walks by,0.049212243,0.004961919078052,0.4444444444444445,0.0,False
+"Then he begins telling the old man next to him about his story, so it's basically a flash back up point of view, So Francis and his friend Alan have plans to go to the fair, and Dr",0.040284947,0.0460459831227092,0.3333333333333333,0.0,False
+Caligari is trying to get a permit from the town clerk to present his,0.021796638,0.9986872933471358,0.4444444444444445,0.0,False
+It's like a long word for a sleepwalker that I can't pronounce,0.15743166,0.9999656637286204,0.4722222222222222,0.0,False
+It starts with an S,0.070516795,0.9648978092057988,0.4444444444444445,0.0,False
+I don't know,0.017770508,0.9871410961741376,0.4444444444444445,0.0,False
+We'll just call the sleepwalker I don't know,0.07451247,0.9998237881628508,0.4444444444444445,0.0,False
+"his name is Caesar, so the clerk makes fun of him or whatever, Buddy, and ends up giving him the permit later",0.13655609,0.9520378621772468,0.3611111111111111,0.0,False
+The clerk is found stabbed to death,0.2712817,0.9986879490745406,0.4444444444444445,0.576,False
+"The next day, Francis is ill and decided to go to the fair to see Dr",0.14463188,0.8956460505076418,0.4074074074074074,0.147,False
+"Caligari and Caesar, So I guess one of the things about Caesar is, you know, he's a sleepwalker, but he can actually like Tell the future or whatever",0.11794081,0.0638347051895786,0.4444444444444445,0.0,False
+"So Ellen asked him how long he has to live, and Caesar tells him until dawn",0.05133759,0.9220465001935736,0.4204545454545454,0.0,False
+"And what do you know? Ellen ends up stabbed to death just like the clerk, So Francis is all upset, devastated and decides to investigate with the help of his friend Jane and her father, So Caesar ends up kidnapping Jane",0.28517663,0.9558166999880509,0.4444444444444445,0.24,False
+I'm like giving you the rush through story,0.2088965,0.0084457391682699,0.4444444444444445,0.0,False
+"So Jane gets kidnapped and gets followed by an angry mob from the town, which makes him decide to just you know",0.2590451,0.8132992367005144,0.7222222222222222,0.136,False
+drop her and leave her,0.39206567,0.9876725036241608,0.4444444444444445,0.524,False
+"He randomly collapses and dies So during all of the confusion, Dr",0.30337667,0.999979970508362,0.7222222222222222,0.306,False
+Caligari escapes and Francis follows him and watches him enter the entrance into the entrance of an insane asylum,0.2712817,0.0673804915195519,1.0,0.127,False
+He finds out that Dr,0.026894007,0.247288664049897,0.4444444444444445,0.0,False
+"Caligari is the director of the insane asylum, and with the help of a staff, he studies up on their records, reads the guy's diary, and while he's sleeping, so it turns out that the doctor is obsessed with 28th century Story of Man who used a sleepwalker named Caesar to commit murders in Italian towns",0.3282253,2.2413954928338383e-05,0.7222222222222222,0.131,False
+"The director, he experiments on a guy in the asylum, who becomes his version of Caesar, So they call the police and he becomes an inmate of his own asylum",0.15568043,0.8031004401212536,0.1111111111111111,0.0,False
+"Then we return to prison time and we find out that not everything is as it seems, and that Francis's story is not what",0.035134587,0.9984627663225676,0.4444444444444445,0.125,False
+it appears to be,0.021657806,0.0132740686904858,0.4444444444444445,0.0,False
+"One thing I really loved about this movie is the the background, so the effects, the cinematography",0.037194733,0.0002213079991262,0.0555555555555556,0.0,False
+"It's actually, you know, it's a super old movie",0.047495455,0.9998775280042546,0.3641975308641975,0.0,False
+"Sorry, I'm all like this super old movie",0.06612156,0.9999381827892004,0.4567901234567901,0.097,False
+"But like the backgrounds were weird and creepy lines, jagged edges",0.21109697,0.9994591441141892,0.7222222222222222,0.143,False
+"the buildings, buildings on the streets were like just jagged edges with narrow windy paths, super dark and creepy",0.13969667,0.9999240548442055,0.5162037037037037,0.0,False
+It almost reminded me of an old old Tim Burton movie,0.043375164,0.9906229788879324,0.3888888888888889,0.0,False
+In some kind of way,0.019019997,0.0351623388806977,0.1111111111111111,0.0,False
+It made it super creepy,0.31089294,0.99970408810568,0.4907407407407407,0.0,False
+"I really liked it because it was so old, It's kind of hard to follow the movie to follow the plot basically because it's a silent movie",0.053335425,0.9921034027274744,0.3324074074074074,0.057,False
+"so eh, they don't speak Be you occasionally get a shot of",0.06412373,0.989258618799043,0.4444444444444445,0.0,False
+It'll be like a caption,0.02809576,0.996407269549,0.4444444444444445,0.0,False
+"So you read what they're saying or whatever, And because they can't speak, of course, silent movie actors had to exaggerate their words, Their acting, which I love about old movies",0.089577995,0.9998742493672303,0.3611111111111111,0.046,False
+I really do,0.02124131,0.0019942160670084,0.3333333333333333,0.0,False
+"Also, I love the music because you know again, no words",0.06771983,0.0017298983112843,0.1666666666666666,0.143,False
+"So they use Jacobs over here, falling asleep",0.101391904,0.947434983659124,0.4444444444444445,0.186,False
+You probably are too sorry,0.1024659,0.9999422363767936,0.7222222222222222,0.245,False
+not sorry,0.02792408,0.9945733192208872,0.3055555555555556,0.0,False
+The music plays a big role in setting the tone of the movie,0.023117077,7.639224266134478e-05,0.4444444444444445,0.0,False
+"So if something exciting happens, you get loud music",0.14597784,0.9429368426910254,0.3333333333333333,0.0,False
+"If something scary happens, you get creepy music",0.3437808,0.952821963124454,0.7222222222222222,0.314,False
+They had to pick music to match the mood of the situation in The,0.043031808,0.9961829809707607,0.4444444444444445,0.0,False
+And I love that,0.026894007,0.0022643757577936,0.1666666666666666,0.0,False
+I really do like I said,0.0224908,0.0079166267641637,0.3333333333333333,0.0,False
+"I did have a hard time following the movie completely, but the story of the movie is fantastic",0.04268845,0.014145411188325,0.4155092592592592,0.054,False
+"It's super unique, creepy, really creepy",0.34388447,0.0,0.4849537037037038,0.0,False
+"Actually, I mean, honestly, I'd never heard of that movie till I open this book",0.028439116,0.8334766842857639,0.5578703703703703,0.0,False
+so I would totally watch a remake of that movie and I think you guys would love it too,0.062925026,0.0616160217095844,0.3055555555555556,0.0,False
+You might even love the original,0.068918526,0.0217727429437993,0.2013888888888889,0.0,False
+I actually do recommend this,0.022773718,0.0011497583927668,0.4444444444444445,0.0,False
+"Have you seen this movie? What did you think? Do you like it? You think it was creepy? What did you think of the buildings? Pretty cool? Huh, Are there any movies from the 1910s that you loved? I'm curious because I still have a few more from that decade to watch",0.089577995,0.0010230539746812,0.3650793650793651,0.0,False
+So look forward to doing those reviews,0.030842619,0.023559957791423,0.4444444444444445,0.0,False
+Watch him wait for them,0.09978092,0.9903462619230988,0.4444444444444445,0.0,False
+Just pop up on my channel because they'll be there soon,0.1019289,0.0031293696221224,0.4444444444444445,0.0,False
+Thanks for watching everyone leave a comment down below,0.033932835,0.1290157677702052,0.4320987654320987,0.108,False
+"hit like hit, Subscribe, and give me a shout",0.31540272,0.0783780236894639,0.4444444444444445,0.0,False
+Thanks for watching,0.018464668,0.0284359765794438,0.3333333333333333,0.0,False
+I love you,0.040284947,0.0050511576166895,0.1666666666666666,0.0,False
+guys,0.05493369,0.0007159351028971,0.4444444444444445,0.0,False
+Have a great day,0.023117077,0.0042141811960211,0.0,0.0,False
+"Bye, Adios",0.08290337,0.0003147193485217,0.4444444444444445,0.0,False

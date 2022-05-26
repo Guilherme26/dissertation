@@ -1,0 +1,121 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+"Dunkirk is a true story of 400,000 soldiers stranded on a beach desperately awaiting evacuation as the enemy slowly closes in Dunkirk, as directed by the savior of Batman himself, Christopher Nolan",0.074912034,0.0032656311514079,0.5196078431372549,0.161,False
+"Either guys, how are you? So before we dive into Dunkirk, there's a few things I need to let you know about myself",0.083939545,0.0040125694731913,0.5294117647058824,0.0,False
+The first thing is it's four o'clock in the morning,0.038911518,0.8495271397325709,0.2647058823529412,0.0,False
+"I'm drinking a Red Bull And did you know I'm utterly insane and the other thing is going into this film? I wasn't as excited as I wanted to be, and the last thing I wanted to let you know is I am by no means a Christopher Nolan fanboy",0.27856,0.9999942183284352,0.4999999999999999,0.133,False
+"And if you're asking yourself right now, John, don't you love the Dark Knight Trilogy? Maybe more than you should",0.060927194,0.0069210482945409,0.2447478991596638,0.151,False
+"And that, I would say you're absolutely right",0.018325835,0.0002722452048633,0.2436974789915966,0.0,False
+"I do enjoy that trilogy along with Inception and a prestige, but I do have issues with a lot of other Christopher Nolan films",0.10828095,0.0079632691001543,0.3308823529411764,0.0,False
+"I could probably sit around for 12 hours talking about my issues with the film Interstellar, but I'm not going to do that",0.09333697,0.9999628661712908,0.4117647058823529,0.0,False
+I just wanted to let you guys know those things,0.044748597,0.0371279576304802,0.4117647058823529,0.0,False
+so now let's talk about the film Dunkirk,0.048525527,0.9723457284623048,0.4117647058823529,0.0,False
+"Now, the film Dunkirk is based on true events, and when you make a film like this, interjecting as much realism into it as possible, will always make for a better story",0.0495556,0.9979134424161904,0.2573529411764706,0.0,False
+"And going into this movie, I wanted to see a great War film where you got to see Christopher Nolan utilize his talents that separate him from other directors",0.067320265,0.000186444006746,0.213235294117647,0.105,False
+"and in many ways I feel like I got the film I didn't know I wanted to see, but I got it and it was told, and only a way that Christopher Nolan could have made it",0.046122026,0.0005919358794742,0.2647058823529412,0.0,False
+"This movie by no means is total with that standard Hollywood storytelling structure and neither is the character development, and we'll talk about both those things in just one second",0.050242316,0.9998749191981596,0.4117647058823529,0.071,False
+"and when it comes to Christopher Nolan, he likes to bring a level of practicality and realism to his films, and when you combine those realistic filmmaking techniques along with a true story, The level of realism for me, At least, it definitely impacted me",0.0495556,0.0005688687980769,0.3799019607843137,0.0,False
+It felt real,0.021796638,0.0014497690460629,0.2941176470588235,0.0,False
+I could feel the explosions,0.059328925,0.0214276794843941,0.4117647058823529,0.0,False
+I could see the despair,0.08290337,0.9947380828275116,0.4117647058823529,0.365,False
+"and when people were trying to survive and doing anything that it took, I emotionally was invested just based on that, because any time a filmmaker can utilize practicality in a film, it will always go further telling the story, then green screens or digital explosions ever could",0.04234509,0.0002519497495254,0.4411764705882353,0.0,False
+"My point is whenever a film can utilize practical effects, you don't feel like there's this wall of Cg in front of you and the film",0.056931525,0.9970011900110596,0.4117647058823529,0.078,False
+What's that gone? You feel like you're immersed into the movie and you buy into everything that you're seeing up on the big screen,0.08501353,0.0002808283049182,0.4117647058823529,0.0,False
+Now let's talk about the story of Dunkirk itself,0.033246122,0.0723070151047659,0.4117647058823529,0.0,False
+"This is a fascinating story, and going into the movie, I knew a little bit about it, but I had no clue of all the elements that the film was going to include",0.028954152,0.992964391161672,0.2610294117647059,0.078,False
+"I thought the movie was going to be just about Soldier, stuck on a beach waiting for fisherman to come pick them up",0.079307266,0.9998070292609206,0.4117647058823529,0.083,False
+"But there's so much more to this movie Now when I tell you this story, Try to put yourself in this situation because that's what I do when I watch movies like this and it just really, it sends chills down my spine because it scares me and it makes me question what I would do in these situations",0.09978092,0.0026205575379139,0.3050108932461873,0.049,False
+"400,000 soldiers are stranded on a beach, desperately trying to get evacuated while the enemy surrounds them and slowly closes in, and overhead there's enemy bomber planes dropping bombs on them, and there's nowhere to hide, and the only way out of this deathtrap is to get on one of these boats where there's not enough for everyone",0.29261994,0.9995377046942704,0.5441176470588236,0.147,False
+It's almost like the Titanic,0.025692256,0.9780259227503114,0.4117647058823529,0.0,False
+"There's only so many lifeboats for the passengers on board and everyone left behind is going to die And it's not like the movie Titanic, where if you pull it around on a door, watching your boyfriend slowly freeze to death, you're going to survive Now",0.2298686,0.9961006499612122,0.4352941176470588,0.187,False
+this movie's an hour and 26 minutes long,0.036851373,0.231269723621198,0.4411764705882353,0.0,False
+"and for a Nolan film that seems rather short, and going into the movie, I thought that might have been a weak point, but after watching the movie, I understand it, because this movie has no filler, it has no fluff",0.1473238,0.9142212431130308,0.4754901960784314,0.166,False
+It gets straight to the point and it never stops,0.05093802,0.9629390084314056,0.2941176470588235,0.0,False
+and in many ways this film is one big action sequence where you never get a chance to breathe or relax And I think that's what's so pivotal about this film Is it makes you feel like you're in the situation,0.08555053,0.0007937877429158,0.2499999999999999,0.039,False
+You can feel the suspense,0.09709594,0.0003670169346352,0.4117647058823529,0.0,False
+You can feel the desperation of the characters,0.0741129,0.9786065933109636,0.4117647058823529,0.3,False
+"Now, let's talk about the characters in this film and most importantly the character development in this movie, which seems to be everyone's biggest issue with this film",0.09816993,0.206338470378321,0.1470588235294117,0.0,False
+"The film Dunkirk doesn't contain a lot of those other war film cliches that you've come to known over the last thirty years of war, and most other war films to get to know the characters, there is always that one scene where they're sitting down, bullets are flying overhead and they're talking to each other about their lives Back home, there's always the intellectual guy, the guy from the south who likes to go hunting, and there's also always that other guy from Brooklyn who says something like this",0.14059398,0.9946092469193972,0.4023238925199709,0.115,False
+You know what I'm going to do when this was over,0.09816993,0.0491026935138883,0.4117647058823529,0.0,False
+I'm going to go back home to Coney Island and get a hot dog this big,0.38567963,0.0131697239490247,0.3627450980392157,0.0,False
+"Yeah, they always say something like that, and in the film Dunkirk, there are no scenes like that because in reality, which was what Dunkirk was trying to go for, there is no time to sit around talking about eating hotdogs when you're trying to claw your way to survive",0.09870692,0.1216313194936805,0.4117647058823529,0.116,False
+"There is no point where the characters have time to relax and share stories like that, nor do they care too",0.064523295,0.999893158285776,0.4117647058823529,0.17,False
+"so when it comes to the characters and the development of the characters in this movie, I learned a lot about all the main characters in this film because their actions speak louder than words",0.051737156,0.0193246411563819,0.3137254901960784,0.0,False
+"One of the main characters in this film is a young soldier named Tommy, and throughout the film his character is doing everything he can possibly think of to get aboard one of these ships just for a chance to survive",0.039254878,0.0034212892471935,0.3594771241830065,0.0,False
+His character is always thinking outside of the box,0.044748597,0.1344120621166103,0.4117647058823529,0.0,False
+He refuses to wait in a line with 20 other thousand guys to get aboard a ship he knows he'll never get on,0.052935857,0.999230739657588,0.4852941176470588,0.0,False
+"and the way that he thought his mindset, it kind of resonated with me because I thought to myself I would probably be doing the same things he's doing to get off this Beach",0.080905534,0.0003015409942865,0.2352941176470587,0.0,False
+I understood his motivations,0.023288755,0.0085790469242252,0.4117647058823529,0.0,False
+I got him as a person,0.070516795,0.0009896195153469,0.4117647058823529,0.0,False
+True,0.014855034,0.0011296313349909,0.2058823529411764,0.0,False
+"I didn't understand his hobbies or where he was from, or if he had a girlfriend or not, but those things weren't relevant to the situation that he was in",0.04543531,0.9999843835262892,0.176470588235294,0.0,False
+I learned everything about him as a man that I needed to know he was a good person,0.031529333,0.0037714976108881,0.0,0.0,False
+"He wanted to help other people, and on the flip side of that in the film Dunkirk, you see cowards, you see men that will kill and call their way to survive while they step on the heads of others to do it",0.4497033,0.1482861963187441,0.4852941176470588,0.097,False
+"So as far as the character development goes in the film Dunkirk, it could be considered its weakest element, but for me it was one of my biggest positives with the film because I understood who these characters were in this situation, and in some other films, that way of storytelling you might not quite pan out",0.07690986,0.0001242463337794,0.4191176470588235,0.035,False
+"but with this situation that they're in and the events happening around them, it's all you needed to know as a viewer to root for them",0.043375164,0.2300494928967396,0.4117647058823529,0.0,False
+And I was rooting for this character,0.06971766,0.0003192138357188,0.4117647058823529,0.0,False
+Tommy,0.022213135,0.0134043286838561,0.4117647058823529,0.0,False
+I wanted to see him make it off of this beach and back home,0.1580154,0.0007250931400466,0.4117647058823529,0.0,False
+"Now this film has a lot of characters in it, but I want to talk about one more main character and that's played by Tom Hart and Tom Hardy",0.032731086,0.000918779137464,0.2156862745098039,0.0,False
+"In this film plays a British fighter pilot protecting these soldiers from the sky against enemy planes and aerial attacks, and every scene throughout this movie with Tom Hardy and his fighter plane having dogfights with enemy planes and protecting boats in the ocean down below were some of the best scenes in the film",0.077709,0.0,0.2461873638344226,0.143,False
+During some of these aerial dogfight scenes you get a POV shot of what Tom Hardy sees in his cockpit as he lines up the enemy plane in his sights before he takes it down,0.12695669,0.0013782134098421,0.5032679738562092,0.089,False
+"and when I was watching it, it almost gave me an adrenaline rush like I have a fear of heights and I just felt tingly all over",0.15626417,0.9992423924080096,0.4117647058823529,0.104,False
+Just I really enjoyed watching that,0.04680874,0.0075000201166407,0.1176470588235293,0.0,False
+it felt like I was there,0.028954152,0.003619654226238,0.4117647058823529,0.0,False
+It was intense,0.036851373,0.0024606078921008,0.2941176470588235,0.0,False
+It was amazing to watch,0.022773718,0.0024672240317264,0.0588235294117646,0.0,False
+I really enjoyed it and I really haven't seen a film capture dog fighting like that with a sense of realism,0.15976663,0.0010391809576772,0.2058823529411764,0.094,False
+"Well, I guess ever",0.019158829,0.8897118730797922,0.4117647058823529,0.0,False
+"I mean, Top Gun was pretty good, but I bought into this movie a little bit more",0.11343288,0.1224504691051611,0.2696078431372549,0.084,False
+Also,0.019714156,0.0138104464076298,0.4117647058823529,0.0,False
+One other quick thing I wanted to mention about this movie is it's a Pg-13 movie and it's one of those movies that definitely lends itself to be rated R because there are gruesome events happening,0.14193995,0.0026892223383523,0.5281862745098039,0.0,False
+"There's bombs, there's bullets, there's explosions",0.2286382,0.909767687072093,0.4117647058823529,0.0,False
+I thought the movie did a good job at showcasing how violent these events were without the blood guts and gore,0.20963,0.0004317478142152,0.4411764705882353,0.151,False
+"Not to say that those things don't work in other war movies, like Saving Private Ryan, where the shock value is truly there",0.0495556,0.1147923470934136,0.4485294117647058,0.201,False
+But in this film I didn't think it was necessary,0.05133759,0.9995505793443524,0.4117647058823529,0.0,False
+Throughout this film there are multiple storylines being told at once,0.053335425,0.2125206866122414,0.4117647058823529,0.0,False
+"Some of those storylines span the course of five days, some an hour, and they mix all those things together where you might be confused a few times throughout the movie and during the first half of the movie, I had to think for a few seconds when they jump to another storyline",0.03221605,0.1279134632778918,0.496078431372549,0.042,False
+"I was like, wait, Wait where",0.028782474,0.9999666212775646,0.4117647058823529,0.0,False
+what's happening? What are we doing? So that element might be confusing to some people,0.040971663,0.9968897289200702,0.5882352941176471,0.139,False
+"Me personally, I like the way the movie was told",0.021518974,0.0005258042856491,0.4117647058823529,0.0,False
+It made it more suspenseful with that method,0.092262976,0.0028867826517666,0.2647058823529412,0.0,False
+"Now here, my final flicking thoughts on the film Dunkirk, I really didn't think I would enjoyed this movie as much as I did",0.118584804,0.9999724625539907,0.2794117647058823,0.0,False
+It felt like a true cinematic experience and it made me feel something as a viewer as a guy who just likes movies,0.038911518,0.0006931747367178,0.3088235294117646,0.0,False
+I really enjoyed the experience of watching this movie,0.03049926,0.003532869547906,0.1176470588235293,0.0,False
+I was glued to it,0.0741129,0.0002042360579013,0.4117647058823529,0.0,False
+I was very interested,0.039598234,0.0132262293577188,0.2205882352941176,0.0,False
+Now,0.018742332,0.0841212052937461,0.4117647058823529,0.0,False
+"Does that mean that this is a perfect movie? in every sense? No, it's not",0.09172598,0.977675118338002,0.2095588235294117,0.0,False
+There are a few things throughout this film that I thought could have been explained more or expanded on,0.040971663,0.9254723461754988,0.3235294117647058,0.0,False
+I also didn't enjoy one storyline,0.03221605,0.9998593027244488,0.176470588235294,0.345,False
+"It's not that it's bad, but it has to do with this family on a yacht, and I understand why this storyline was in the film, Because you need a perspective from the fishermen who are coming to save these soldiers, but at the same time, I guess it was the weakest part of the film, or at least the slowest part, in my opinion, But as far as the overall tone and pacing of the film goes, I enjoyed it",0.09709594,0.9264526971348838,0.4509803921568627,0.048,False
+"It felt like an adrenalin ride for an hour and 46 minutes, And also, when you have Hans Zimmer's score playing throughout this film and you see airplanes and bombs and people just trying to survive, it feels like a ticking clock counting down and you're just waiting for something bad to happen and it does over and over and over, And I might just say this is probably one of Christopher Nolan's best looking films that he's ever directed",0.08635602,0.8811475485563554,0.3834422657952069,0.039,False
+"And don't get me wrong, I love the Dark Knight",0.036508016,0.0003308665861404,0.4411764705882353,0.0,False
+"I love Inception, but from a visual standpoint I feel like this movie does more than either one of those films did",0.049212243,0.1507559833595147,0.2156862745098039,0.0,False
+"I'm really surprised I'm doing this because going into this film I had reservations, but I'm going to get the film Dunkirk",0.0669207,0.0034176533506425,0.3529411764705882,0.0,False
+"Oh, an A+ whoa, an A+ I guess I really like that movie",0.040628307,0.000340999412594,0.2941176470588235,0.0,False
+I can't remember the last movie I gave an A+ for,0.0717155,0.9541560532760172,0.4117647058823529,0.0,False
+"But as far as this film goes, it's not because I'm a Nolan fanboy",0.07850813,0.0756297179110522,0.3529411764705882,0.0,False
+That's not the reason I loved it,0.070516795,0.2122655182001954,0.0,0.0,False
+There was no blind love towards this movie going into it,0.16275369,0.005422492669347,0.1911764705882352,0.23,False
+"Once again, I wasn't that excited to see the movie",0.050242316,0.9999611972351689,0.1911764705882352,0.184,False
+and the reason I gave this film an A+ is this movie met every single expectation I wanted from a war film and then went beyond those and surprised me with different elements of telling this story That made it unique,0.076110736,1.895434595436473e-05,0.3524159663865546,0.087,False
+"That made it original in many ways where it could have been cliche and it could have played it safe, but it took a chance it did something new",0.040971663,0.0937524270354538,0.1895053475935829,0.0,False
+"It took out all the filler, all the fluff, and it made it about the event and it made you feel like you were part of it",0.18450552,0.9425649640836006,0.4705882352941177,0.0,False
+"Alright, guys, That's my take on the film Dunkirk",0.07571117,0.0741457654769238,0.4117647058823529,0.0,False
+"Now, here's my question to you",0.020130653,0.0709519283811826,0.4117647058823529,0.0,False
+"By the way, I feel like I've been talking about this movie for like two hours in this room because there were so which I wanted to cover",0.033761155,0.9972490270251422,0.4117647058823529,0.0,False
+"But anyway, my question to you guys is and let me know down below, what did you guys think about the movie Dunkirk, if you've seen it, Or what is your favorite war film of all time? And I have one more question for you",0.079307266,0.8053904550562953,0.2461873638344226,0.102,False
+Do you like popcorn? Do you like movies? Stick around? Because I wanted to let you know about this free app that you can download called Popcorn trivia,0.059328925,0.9993033681813156,0.176470588235294,0.0,False
+"If you like movies, definitely check it out",0.042001735,0.0002644369680079,0.4117647058823529,0.0,False
+You can download it on an Android or Ios,0.0186035,0.245427606766463,0.4117647058823529,0.0,False
+"and you can pick and choose hundreds of movies to answer trivia questions about, and along the way they give you factoids images, and they also reference scenes and specific movies to give you more insight on the questions that they're asking",0.043375164,0.0022789024718434,0.2647058823529412,0.0,False
+And also in the app you can play by yourself or compete against other people who also have the app to see who's smarter about movies,0.08170467,0.081129637295477,0.4852941176470588,0.0,False
+And it makes you feel better about yourself,0.062925026,0.0009738242270516,0.1176470588235293,0.0,False
+I use the app,0.013258465,0.0426596762085109,0.4117647058823529,0.0,False
+"I play it when I have some downtime, so once again it's completely free",0.049898956,0.9962642057011454,0.176470588235294,0.0,False
+It's called popcorn trivia,0.0471521,0.0825128575136845,0.4117647058823529,0.0,False
+I'll put all the links down below,0.124380715,0.9916004233137264,0.5032679738562092,0.0,False
+Check it out,0.043031808,0.0012371585051219,0.4117647058823529,0.0,False
+"as always, guys",0.035134587,0.0007934897186084,0.4117647058823529,0.0,False
+thanks for watching,0.017423427,0.0285455132291499,0.2941176470588235,0.0,False
+Make sure you subscribe by clicking that button down below that way I can see you next time you,0.09172598,0.9990747537350642,0.3442265795206971,0.0,False

@@ -1,0 +1,51 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
+"- I mean, I don't know if like my fellow Youtubers ever feel this, but is your outfit ever just like so good, but you're like, ""I can't pan down so they can see it",0.13969667,0.1281289988324333,0.4014917695473251,0.035,False
+"""So ll they can see is my shirt",0.09494796,0.1943900173406421,0.4444444444444445,0.0,False
+"""And it just doesn't have the same effect",0.02124131,0.998722519445338,0.4444444444444445,0.0,False
+""" Yeah, I dunno what tangent that was on, but it's just a thought I've been having",0.06612156,0.9998899371106672,0.4444444444444445,0.0,False
+"I dunno, let me know if you have that thought",0.03994159,0.9992158503435584,0.4444444444444445,0.0,False
+"So I asked you for movie reviews and they are a comin'! First one I'm going to do is my ""Inside Out"" movie review",0.04165838,0.0394640578056374,0.3055555555555556,0.0,False
+"I'll go step by step through the movie and its problems and things I liked, and then I'll have an overview of it, and you know, give it a rating",0.05133759,2.19946959999218e-05,0.1111111111111111,0.081,False
+"As movie reviews generally go, I think you know how it works",0.025005542,0.0013767249146617,0.4166666666666666,0.0,False
+"So ""Inside Out"" is Pixar's latest family feature",0.017909339,0.0339624631007681,0.1666666666666666,0.0,False
+"It's about a pre-teen girl named Riley, who is experiencing the emotions that go up and down when you make a major move across the United States",0.031357653,0.0035280326870985,0.4702932098765432,0.0,False
+It's also about her dealing with the turmoils in of growing up in general,0.050585672,0.0008298676288859,0.4166666666666666,0.0,False
+"So, plot: most Pixar movies are relatively like short, so it never really felt like it dragged on or anything",0.09172598,0.9975963194826752,0.3888888888888889,0.153,False
+"It was a decent length, I didn't feel like it needed to be any shorter or longer, really",0.03599298,0.993034178446247,0.3425925925925926,0.11,False
+"I think the concepts, especially within her brain, were super thought out and well constructed",0.13476147,0.0002432827959991,0.3518518518518519,0.0,False
+"Now I will mention that this film does touch on some, you know, deep-ish issues",0.12953265,0.0019400931239931,0.4444444444444445,0.0,False
+But I also think they could've gone just a little further and it still had been passable as a family film,0.04268845,0.1282776269475439,0.4965277777777778,0.0,False
+"So characters: I mean, my preteen years are kind of an embarrassing blur of me wearing Ed Hardy and Bobby Jack shirts",0.22980565,0.999645581402668,0.3645833333333333,0.103,False
+But I'm pretty sure Riley was relatively relatable,0.0253489,0.1942675861601981,0.3055555555555556,0.0,False
+"No spoilers, but the parents also had some pretty funny material too",0.09816993,0.0709537567775255,0.3055555555555556,0.085,False
+Even if it kinda fed into the whole family unit type joke system,0.119872786,0.9987881160928932,0.3333333333333333,0.0,False
+You'll know what I mean when you see it,0.062125895,0.0570674442020193,0.6180555555555556,0.0,False
+"The emotions were all well acted, none of them stuck out like a sore thumb",0.1539292,0.0023314675791028,0.4444444444444445,0.126,False
+"There was none of them that when they would start talking, I would be like, ""Ughh just go back to the other one",0.1019289,0.9999566662764446,0.4791666666666667,0.0,False
+""" None of that, they were all cool",0.039254878,0.8044363361438065,0.25,0.0,False
+"Although if an ""Inside Out"" fandom on Tumblr exists, I do see some ethical debates between the characters and the stands of them",0.059328925,0.856941490293842,0.3333333333333333,0.0,False
+"If that exists, but I mean it's Tumblr, so everything exists on Tumblr",0.028439116,0.0019383943466597,0.6180555555555556,0.0,False
+"The animation: it's Pixar, so of course the animation looked great",0.04234509,0.0005169647653314,0.0,0.0,False
+"Again, the world building inside her head, and even outside was fantastic",0.1008549,0.0008872386177746,0.3333333333333333,0.0,False
+"I do wish they had made it seem a bit larger scale, if that makes sense",0.039598234,0.9994867308204464,0.4444444444444445,0.0,False
+", The writing: I really do like that this film touched on some issues of growing up",0.040284947,0.0009735782306632,0.3333333333333333,0.0,False
+"And especially how sometimes you pretend to be happy when you're really not, and you're just trying to force yourself to be happy and it doesn't work",0.050242316,0.9912191689795868,0.2361111111111111,0.043,False
+"Sometimes you just gotta let yourself not be happy, essentially",0.11600884,0.9238448552558264,0.2222222222222222,0.25,False
+This also seemed more like a preteen slash adult movie to me than it did a kids movie,0.2297899,0.9999957679582222,0.2777777777777778,0.101,False
+"And I don't know if that works or doesn't work in the movie's favor, but I think that made it more enjoyable for me, at least",0.040284947,0.1475458449336976,0.3148148148148149,0.0,False
+"I was also pleased to find that this movie has the same director as my favorite Pixar movie, and one of my favorite all time movies, ""Up""",0.029812546,7.391171555529276e-06,0.2361111111111111,0.0,False
+Which probably explains why this movie isn't nearly as awful as some Pixar movies of recent have been,0.23014031,0.999018434535559,0.7222222222222222,0.0,False
+I mean it was just a slippery slope for some time,0.089041,0.9999757998737778,0.6180555555555556,0.0,False
+"Representation: This, unfortunately was a sore spot of the movie for me",0.0801064,0.9994362145471132,0.7222222222222222,0.329,False
+"I dunno if it's because I've become more socially aware or what, but I just think there were so many missed opportunities where they could've slid in some diversity, be it racially, or from the Lgbt plus community, into this movie",0.094410956,0.9999961852017778,0.2129629629629629,0.07,False
+"Where this movie left off, a sequel would definitely be intriguing to me, but really only if they added some representation because that's definitely an area where kinds movie nowadays are slack in",0.06012806,0.9812418622605112,0.4027777777777778,0.0,False
+"Overall: this movie had great concepts, designs, and final pay off, in terms of characters and world building",0.018325835,0.0003209795066655,0.2962962962962963,0.065,False
+"Like its Pixar predecessors, this movie is definitely severely lacking in diversity, and I hope if there is a sequel, it amends that",0.09387396,0.999909547557778,0.4444444444444445,0.1,False
+"I recommend this movie to hardcore Pixar fans, if you need to see a movie with family, or someone who can't go into movies that are Pg13 or over",0.048525527,0.0,0.4444444444444445,0.0,False
+"Or if you enjoy crying over things like emotions and imaginary friends, like me",0.11472086,0.1293909221630955,0.3888888888888889,0.132,False
+"For an animated family feature, I give ""Inside Out"" a B+",0.104076885,0.0016164015342164,0.4444444444444445,0.0,False
+"Also, for all my movie reviews, I will be putting trigger warnings down in my comments section so that you can be forewarned before you see the movie",0.1550967,0.9838113970911688,0.5308641975308642,0.075,False
+"So you can go check those out down below, as well as my other links",0.04234509,0.0140656676981722,0.5223765432098765,0.0,False
+"blah, blah, blah,",0.14911842,0.9999521362035556,0.4444444444444445,1.0,False
+You get it by now,0.036508016,0.0118734998604022,0.4444444444444445,0.0,False
+"As always, I'm The Filminist and I'll see you soon",0.060527626,0.0013601245817729,0.4444444444444445,0.0,False
