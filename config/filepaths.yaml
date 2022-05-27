@@ -7,7 +7,7 @@ preprocessed_data: "/home/guilherme/Desktop/dissertation/data/01_preprocessed/wi
 inputation_schema: "/home/guilherme/Desktop/dissertation/data/01_preprocessed/"
 fixed_size_segmentated_data: "/home/guilherme/Desktop/dissertation/data/02_segmented/fixed_size_context/without_curse_words/"
 model_based_segmentated_data: "/home/guilherme/Desktop/dissertation/data/02_segmented/model_based/with_curse_words/"
-scored_data: "/home/guilherme/Desktop/dissertation/data/03_scored/with_inputation/normal_toxicity/scored"
+scored_data: "/home/guilherme/Desktop/dissertation/data/03_scored/with_inputation/scored"
 imgs: "/home/guilherme/Desktop/dissertation/data/imgs/"
 
 fine_tunning_raw_data: "/home/guilherme/Desktop/dissertation/data/TED_Talks/01_raw/subtitles.json"
