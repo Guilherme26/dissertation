@@ -1,215 +1,215 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello, everybody, I am Tiffany and today I am doing another movie review",0.024490505,0.033933747386093,0.5,0.0,False
-Let's go,0.02655065,0.9154512740559462,0.5,0.0,False
-I'm kind of dressed up right,0.05613239,0.191269504501049,0.2785714285714286,0.0,False
-Not really nice,0.08796701,0.999869852272942,0.65,0.56,False
-"No stuff, as I would like to be you",0.11021292,0.9888529231739784,0.5,0.188,False
-Because I was really trying to get specific items,0.0142302895,0.9634563242765178,0.45,0.0,False
-"I kind of find anywhere, but I really need to do this movie review before",0.035477944,0.0133604822624473,0.3,0.0,False
-Is I completely escape to my head? This is just going to have to do,0.073313765,0.0311246784230565,0.45,0.0,False
-"It's not really an outfit at all, but the color kind of fits it",0.035134587,0.9997872992150189,0.375,0.0,False
-I guess I don't know,0.019297661,0.9953417425394836,0.5,0.0,False
-"Maybe it doesn't, but to me it does",0.02124131,0.1074177409442126,0.5,0.0,False
-"so That's what's important is that, in my heart, I meant for it to match this movie",0.027237365,0.005052247144901,0.3,0.0,False
-"the movie I am discussing and reviewing today is Logan, the new X-men movie that came out a little while ago",0.03770977,0.0001370619181909,0.5127840909090909,0.0,False
-"I didn't see it where he was actually in theaters, which is really sad because I work at the movie theatres and it was in theaters while I've been working there, But did I go see it? No, I didn't good job'",0.044405237,0.9999853371463904,0.4666666666666667,0.117,False
-"But I saw it on on-demand and decided to watch it with me, Familia And you have a really fun time",0.032731086,0.0032157545328632,0.35,0.0,False
-I was super excited,0.16035037,0.0025222492412122,0.3229166666666667,0.0,False
-I love superhero movies,0.036851373,0.0055852061105475,0.25,0.0,False
-"I'm not like super up-to-date on comics or anything like that, so I don't pretend to be like the super duper fans who like read the comics along with it and they know exactly what comic is Face office",0.09655894,0.8868884524603762,0.3541666666666667,0.105,False
-"I'm not that, but I do enjoy superhero movies and I have people who have read the comics and they kind of catch me up on the backstory of stuff that they don't live in the movies",0.050242316,0.0937497261890903,0.3106060606060606,0.0,False
-"So in the excellent franchise, this was a very special movie because I believe in a huge Ackman Last movie Is Wolverine",0.048868883,0.0004811323346976,0.2669642857142856,0.0,False
-It kind of makes sense that it would be if you've seen it,0.022351967,0.9867014474322692,0.2,0.0,False
-"You know what I mean, and then will be lived up to the epicness like it should, Because Hugh Jackman is awesome and is, there's an awesome final last movie of Wolverine, because he's done an excellent job with that role",0.044405237,0.0007260496740525,0.2760416666666666,0.0,False
-So Hugh Jackman fabulous job,0.01999182,0.0011957676328712,0.3,0.0,False
-"If you couldn't tell by that, I loved this movie",0.043718524,0.0025043081073242,0.15,0.0,False
-It was so good,0.040971663,0.0126919217034611,0.15,0.0,False
-Very intense,0.03839648,0.0003654090408651,0.37,0.0,False
-It is definitely a darker take on the comics,0.0825038,0.0424492592248869,0.5,0.0,False
-Marvel is usually very light and fun and has a little bit of humor in,0.06771983,0.0093638413672359,0.3945833333333333,0.0,False
-"It has dramatic moments, but is known more for their lighter side and the more action side and does have plenty of action",0.09279997,0.0063634102435768,0.4233333333333333,0.0,False
-"Trust me, it has a lot of action sequences in there, but it also has a more soul and darker tone",0.035477944,0.0027184394146088,0.35,0.0,False
-There aren't a lot of funny moments,0.060927194,0.9997179188833056,0.375,0.0,False
-"Really, very very few",0.018464668,0.9992248953319612,0.63,0.0,False
-There's very few in this,0.045778666,0.9021715566985428,0.63,0.0,False
-it's kind of like Dark night A little bit,0.06532243,0.980437637304064,0.45625,0.0,False
-You're not going in there to have a happy-go-lucky time,0.0741129,0.053983292333968,0.5,0.0,False
-It was definitely a very intense movie it's at,0.05773066,0.0003736047415615,0.37,0.0,False
-"I can definitely see people crying in this, so bring tissues just in case",0.15451296,0.0128863833290745,0.55,0.174,False
+"hello, everybody, i am tiffany and today i am doing another movie review",0.024490505,0.033933747386093,0.5,0.0,False
+let's go,0.02655065,0.9154512740559462,0.5,0.0,False
+i'm kind of dressed up right,0.05613239,0.191269504501049,0.2785714285714286,0.0,False
+not really nice,0.08796701,0.999869852272942,0.65,0.56,False
+"no stuff, as i would like to be you",0.11021292,0.9888529231739784,0.5,0.188,False
+because i was really trying to get specific items,0.0142302895,0.9634563242765178,0.45,0.0,False
+"i kind of find anywhere, but i really need to do this movie review before",0.035477944,0.0133604822624473,0.3,0.0,False
+is i completely escape to my head? this is just going to have to do,0.073313765,0.0311246784230565,0.45,0.0,False
+"it's not really an outfit at all, but the color kind of fits it",0.035134587,0.9997872992150189,0.375,0.0,False
+i guess i don't know,0.019297661,0.9953417425394836,0.5,0.0,False
+"maybe it doesn't, but to me it does",0.02124131,0.1074177409442126,0.5,0.0,False
+"so that's what's important is that, in my heart, i meant for it to match this movie",0.027237365,0.005052247144901,0.3,0.0,False
+"the movie i am discussing and reviewing today is logan, the new x-men movie that came out a little while ago",0.03770977,0.0001370619181909,0.5127840909090909,0.0,False
+"i didn't see it where he was actually in theaters, which is really sad because i work at the movie theatres and it was in theaters while i've been working there, but did i go see it? no, i didn't good job'",0.044405237,0.9999853371463904,0.4666666666666667,0.117,False
+"but i saw it on on-demand and decided to watch it with me, familia and you have a really fun time",0.032731086,0.0032157545328632,0.35,0.0,False
+i was super excited,0.16035037,0.0025222492412122,0.3229166666666667,0.0,False
+i love superhero movies,0.036851373,0.0055852061105475,0.25,0.0,False
+"i'm not like super up-to-date on comics or anything like that, so i don't pretend to be like the super duper fans who like read the comics along with it and they know exactly what comic is face office",0.09655894,0.8868884524603762,0.3541666666666667,0.105,False
+"i'm not that, but i do enjoy superhero movies and i have people who have read the comics and they kind of catch me up on the backstory of stuff that they don't live in the movies",0.050242316,0.0937497261890903,0.3106060606060606,0.0,False
+"so in the excellent franchise, this was a very special movie because i believe in a huge ackman last movie is wolverine",0.048868883,0.0004811323346976,0.2669642857142856,0.0,False
+it kind of makes sense that it would be if you've seen it,0.022351967,0.9867014474322692,0.2,0.0,False
+"you know what i mean, and then will be lived up to the epicness like it should, because hugh jackman is awesome and is, there's an awesome final last movie of wolverine, because he's done an excellent job with that role",0.044405237,0.0007260496740525,0.2760416666666666,0.0,False
+so hugh jackman fabulous job,0.01999182,0.0011957676328712,0.3,0.0,False
+"if you couldn't tell by that, i loved this movie",0.043718524,0.0025043081073242,0.15,0.0,False
+it was so good,0.040971663,0.0126919217034611,0.15,0.0,False
+very intense,0.03839648,0.0003654090408651,0.37,0.0,False
+it is definitely a darker take on the comics,0.0825038,0.0424492592248869,0.5,0.0,False
+marvel is usually very light and fun and has a little bit of humor in,0.06771983,0.0093638413672359,0.3945833333333333,0.0,False
+"it has dramatic moments, but is known more for their lighter side and the more action side and does have plenty of action",0.09279997,0.0063634102435768,0.4233333333333333,0.0,False
+"trust me, it has a lot of action sequences in there, but it also has a more soul and darker tone",0.035477944,0.0027184394146088,0.35,0.0,False
+there aren't a lot of funny moments,0.060927194,0.9997179188833056,0.375,0.0,False
+"really, very very few",0.018464668,0.9992248953319612,0.63,0.0,False
+there's very few in this,0.045778666,0.9021715566985428,0.63,0.0,False
+it's kind of like dark night a little bit,0.06532243,0.980437637304064,0.45625,0.0,False
+you're not going in there to have a happy-go-lucky time,0.0741129,0.053983292333968,0.5,0.0,False
+it was definitely a very intense movie it's at,0.05773066,0.0003736047415615,0.37,0.0,False
+"i can definitely see people crying in this, so bring tissues just in case",0.15451296,0.0128863833290745,0.55,0.174,False
 and all the characters are just so awesome,0.033246122,0.0061422455349673,0.0,0.0,False
-You have a couple returning,0.08581903,0.9964843424267464,0.5,0.0,False
-You have new ones,0.043031808,0.0003659454867289,0.4318181818181818,0.0,False
+you have a couple returning,0.08581903,0.9964843424267464,0.5,0.0,False
+you have new ones,0.043031808,0.0003659454867289,0.4318181818181818,0.0,False
 a lot of new ones,0.033074442,0.0008184375728113,0.4318181818181818,0.0,False
-"for those of you who won sophistic, It has an eight point three out of ten on Imdb",0.15217799,0.0702206145535736,0.5,0.0,False
-Do you know how insane that is? It is on Imdb Top 250 movies,0.22980565,0.0001626027018155,0.625,0.164,False
-Now you know how hard that is to do,0.077709,0.9998475301645,0.6458333333333334,0.149,False
-"Oh, my gosh, that means that there is another movie out there that was on that list that was 250, And it's up, folks",0.09870692,0.0528599448927045,0.5,0.0,False
-I'm sorry,0.023117077,0.999928473884832,0.75,0.565,False
-I'm so sorry to that movie,0.07451247,0.999995291197418,0.75,0.242,False
-I'm pretty sure you are fantastic,0.047495455,0.0013113419139637,0.3083333333333333,0.0,False
-I have a lot of superhero movies on that list,0.04818217,0.0048246152833784,0.5,0.0,False
-A whole lot,0.023803791,0.0123682660323253,0.4,0.0,False
-There's a couple,0.024147147,0.0174435505468201,0.5,0.0,False
-"There's blogan, now, Big Avengers, Dark Knight, I just know those three for sure that are on that list",0.092262976,0.0727372609157643,0.4416666666666666,0.0,False
-For those of you who want to know the actors,0.039598234,0.0103334374634359,0.5,0.0,False
+"for those of you who won sophistic, it has an eight point three out of ten on imdb",0.15217799,0.0702206145535736,0.5,0.0,False
+do you know how insane that is? it is on imdb top 250 movies,0.22980565,0.0001626027018155,0.625,0.164,False
+now you know how hard that is to do,0.077709,0.9998475301645,0.6458333333333334,0.149,False
+"oh, my gosh, that means that there is another movie out there that was on that list that was 250, and it's up, folks",0.09870692,0.0528599448927045,0.5,0.0,False
+i'm sorry,0.023117077,0.999928473884832,0.75,0.565,False
+i'm so sorry to that movie,0.07451247,0.999995291197418,0.75,0.242,False
+i'm pretty sure you are fantastic,0.047495455,0.0013113419139637,0.3083333333333333,0.0,False
+i have a lot of superhero movies on that list,0.04818217,0.0048246152833784,0.5,0.0,False
+a whole lot,0.023803791,0.0123682660323253,0.4,0.0,False
+there's a couple,0.024147147,0.0174435505468201,0.5,0.0,False
+"there's blogan, now, big avengers, dark knight, i just know those three for sure that are on that list",0.092262976,0.0727372609157643,0.4416666666666666,0.0,False
+for those of you who want to know the actors,0.039598234,0.0103334374634359,0.5,0.0,False
 it starts,0.026722329,0.0290957507586685,0.5,0.0,False
-"Of course, Hugh Jackman as Wolverine, Who else DA has? Patrick Stewart as Charles Xavier, as you always is, And it also introduces a new actress, Daphne King, soon, amazing job",0.037881445,1.7523898216192334e-05,0.3159090909090909,0.0,False
-"Oh, my gosh, love her so young",0.11085691,0.0061554480637254,0.35,0.0,False
-She's so awesome,0.052935857,0.0035876307266415,0.0,0.0,False
-Has a lot of awesome other people in it too,0.05093802,0.0025303555342646,0.28125,0.0,False
-I would HIGHLY highly highly recommend this again,0.044405237,0.0005348961312656,0.42,0.0,False
-If you are looking for a happier movie,0.08170467,0.9934569996022552,0.5,0.0,False
-This is not the best route to go,0.07131593,0.9998011872023804,0.0,0.325,False
-"It's not going to make you feel happy and warm and bubbly After you leave, It's going to make you feel kind of depressed",0.15130237,0.9990611303307744,0.1666666666666666,0.158,False
-"I feel like super duper, like bawling your eyes out half an hour later, but still depressed and potentially a couple tears",0.17759849,0.9795466007243568,0.4791666666666667,0.229,False
-"Well, the plot of the Thurible, If you see in the X-men movies, it follows",0.08170467,0.0916918304480592,0.5,0.0,False
-"Of course, The Wolverine On the story, You had a couple standalone movies as well before this one",0.090114996,0.7816029348118735,0.5,0.0,False
-"This one cuts to many, many, many years in the future when stuff has gone awry I don't really want to spoil you too much",0.13969667,0.0001902892688952,0.3416666666666667,0.137,False
-"You should really go into this blind and not really what's happening, But the main thing you should know is that it is many, many, many, many, many years into the future, So that's why things seem really different",0.06132676,0.99166872751286,0.396969696969697,0.051,False
-It's not like this has happened a year or two From the last movie is action drama,0.056931525,0.9999740717832516,0.475,0.117,False
-Sci Fi has been born at a time,0.017770508,0.0057182148822122,0.5,0.0,False
-"It's not bad or really at all, so don't worry about that",0.043375164,0.249088623181292,0.3625,0.0,False
-"So if you like action, Yes, you'll love it if you don't like action",0.05493369,0.0030082095886837,0.3833333333333333,0.097,False
-"Well, just watch it anyways, for the story because the story is amazing",0.03049926,0.0064680767921061,0.1999999999999999,0.0,False
-"It's really all I can tell you without completely spoiling you, So I'm going to go ahead and jump into the spoilery section",0.28683078,0.0082971485696952,0.425,0.0,False
-"Okay, thank you for joining me today",0.03187269,0.1364081993008441,0.25,0.0,False
-"non spoilery people, go watch Logan and then come back and we can talk about all the fields and everything on it together",0.1550967,0.001384626379463,0.5,0.0,False
-Have a good day goodbye,0.051737156,0.1436946838632136,0.15,0.0,False
-"I know it's not supposed, but you know why I made up one",0.039598234,0.1020441031218228,0.5,0.0,False
-So I don't have the clause,0.017701091,0.9907723562770632,0.5,0.0,False
-I really want a clause,0.031357653,0.9388461848178788,0.4,0.0,False
-So I went into this expecting it to be bad because I have been warned at least of that that it is very dark and depressing compared to the other X-men movies,0.24769363,0.9999489780378468,0.692,0.226,False
-And that's totally fine,0.029640866,0.0025020133111292,0.2916666666666666,0.0,False
-"You need those dark night moments, especially in comic book movies, because those are so bright, so deep If you're not expected to be as depressing as it was, I gotta say, and the engine shocked me",0.11794081,0.0006637623487602,0.5142857142857142,0.115,False
-I got a bit hit,0.18746567,0.0390349601173362,0.5,0.0,False
-"Hope that says automatically at the beginning is just that, this very curious depressing town, because the very opening scene is, of course, Wolverine is getting attacked by these guys who are trying to steal his car, which is a very dumb move and he's fighting them, But just something seems off",0.35870504,0.9998217807630394,0.6271875,0.171,False
-He's not healing as fast and he seems to be hurting more than usual when the guys hit him for,0.20816301,0.9999675152226944,0.425,0.124,False
-just kind of wondering the whole time what exactly happened to the X-men And why isn't he at the school teaching? Why is he a driver now and everything like that? It's really really confusing,0.104076885,0.9999771116431462,0.40625,0.064,False
-"It was just so depressing because I was kind of excited because I was really hoping that I would see some of the other X-men in this movie, But you basically find out right at the beginning that all the rest of them are dead And it's really Wolverine and Charles Xavier and the creepy guy who can hunt down mutants",0.28923595,0.9999564882799394,0.4959920634920635,0.118,False
-"Calvin, Calvin, Gus's name, Calvin, And you find out there hasn't either, then mutant children in the 25 years, or something like that",0.2298686,0.0037692772566206,0.5,0.0,False
-And you're just like,0.02809576,0.0077899390055092,0.5,0.0,False
-What's going on? What happened? Where's Magneto and Sore and Cyclops? We just goes back and but it's really there,0.039254878,0.0545955260772592,0.45,0.108,False
-What if he cycle? but he's dead again,0.2712817,0.9613131336431489,0.6,0.459,False
-Oh gosh,0.049212243,0.0038816328625305,0.5,0.0,False
-"Oh, I was really sad, and on top of that you find out Professor X is having these seizures that basically can kill everybody",0.36439645,0.9982122941590164,0.5083333333333333,0.262,False
-"So that's really fun, too",0.04680874,0.0007533190054603,0.35,0.0,False
-"I did find out information that was interesting because you know, I have friends who read the comics and everything",0.03770977,0.0068447213935623,0.25,0.0,False
-"And so I was actually informed that in the comics, I mean they hand shattered",0.14687516,0.9995026848817457,0.578125,0.161,False
-"They never fully said it, but it was Professor X in one of the comments that actually kill are the X-men Because he had one of those seizures, and the Wolverine could heal himself, so he was okay, but the rest of them couldn't so they all ended up dying and I wasn't thinking into that, but I did hear that in the actual comics that Wolverine is the one that kills them all",0.2712817,0.999665436596301,0.44375,0.133,False
-"I don't know if any of you guys have read the comics, but if you have, you can talk about it below a little bit, because I'd like to know that in more detail, because I'm not going to hunt down those comics and figure out exactly what happened",0.052935857,0.1125325436373378,0.4491319444444444,0.0,False
-"So it's that stuff I like, but like lip spoiler can't email",0.12631269,0.9632477362431588,0.5,0.0,False
-People don't want to read about the comics themselves and don't want to be spoiled for them,0.08367105,0.0300154573895387,0.5,0.14,False
-And then you find out that there are other mutant children out there,0.33341047,0.8707979077896052,0.5625,0.0,False
-"You come across Laura, who is played by Daphne Was amazing",0.040971663,0.0541846979532623,0.1999999999999999,0.0,False
-"Amazing, Wolverine, takes her in and promises to get her to this place called Eden, But you're kind of wondering this whole time what is her power exactly? And I was like shocked when I found out that she basically is Wolverine Junior girl version and she's more enhanced in a way because she had claws coming out of her feet",0.12180476,0.24857691343236,0.3791666666666666,0.044,False
-Wolverine only has at hand,0.032902762,0.0253035851451941,0.5,0.0,False
-She has them in her feet too,0.10763696,0.0149526833886379,0.5,0.0,False
-"I was like, wait a second",0.029812546,0.9999588128786824,0.5,0.0,False
-Did Wolverine have a kick? I was really confused,0.14866976,0.9999740121781556,0.7,0.245,False
-"I did not expect that to be her power out of everything, so I was freaking out and thinking it was awesome and she was awesome, like those fight sequences that she had, especially at the beginning when they attack them in Mexico",0.17518331,0.0001858188866972,0.1666666666666666,0.155,False
-"Oh my God, that was so good",0.059328925,0.0061920753952011,0.15,0.0,False
-Almost time to watch her because she's just a little little spunky thing and she's gonna grow little new,0.27359754,0.0007496830946059,0.5532670454545454,0.0,False
-"It's really cool and I wish I had those girls a little bit, but I don't And then the whole time I was like Okay, So she's gotta be boring kid",0.31389946,0.7684535141942681,0.51375,0.077,False
-"healthy, sorta miss, but isn't she's like a clone Actually did not, But I was",0.08635602,0.98992700700342,0.375,0.216,False
-Ed said that he had a kid and I was like this is gene,0.08330294,0.0018424233190871,0.5,0.0,False
+"of course, hugh jackman as wolverine, who else da has? patrick stewart as charles xavier, as you always is, and it also introduces a new actress, daphne king, soon, amazing job",0.037881445,1.7523898216192334e-05,0.3159090909090909,0.0,False
+"oh, my gosh, love her so young",0.11085691,0.0061554480637254,0.35,0.0,False
+she's so awesome,0.052935857,0.0035876307266415,0.0,0.0,False
+has a lot of awesome other people in it too,0.05093802,0.0025303555342646,0.28125,0.0,False
+i would highly highly highly recommend this again,0.044405237,0.0005348961312656,0.42,0.0,False
+if you are looking for a happier movie,0.08170467,0.9934569996022552,0.5,0.0,False
+this is not the best route to go,0.07131593,0.9998011872023804,0.0,0.325,False
+"it's not going to make you feel happy and warm and bubbly after you leave, it's going to make you feel kind of depressed",0.15130237,0.9990611303307744,0.1666666666666666,0.158,False
+"i feel like super duper, like bawling your eyes out half an hour later, but still depressed and potentially a couple tears",0.17759849,0.9795466007243568,0.4791666666666667,0.229,False
+"well, the plot of the thurible, if you see in the x-men movies, it follows",0.08170467,0.0916918304480592,0.5,0.0,False
+"of course, the wolverine on the story, you had a couple standalone movies as well before this one",0.090114996,0.7816029348118735,0.5,0.0,False
+"this one cuts to many, many, many years in the future when stuff has gone awry i don't really want to spoil you too much",0.13969667,0.0001902892688952,0.3416666666666667,0.137,False
+"you should really go into this blind and not really what's happening, but the main thing you should know is that it is many, many, many, many, many years into the future, so that's why things seem really different",0.06132676,0.99166872751286,0.396969696969697,0.051,False
+it's not like this has happened a year or two from the last movie is action drama,0.056931525,0.9999740717832516,0.475,0.117,False
+sci fi has been born at a time,0.017770508,0.0057182148822122,0.5,0.0,False
+"it's not bad or really at all, so don't worry about that",0.043375164,0.249088623181292,0.3625,0.0,False
+"so if you like action, yes, you'll love it if you don't like action",0.05493369,0.0030082095886837,0.3833333333333333,0.097,False
+"well, just watch it anyways, for the story because the story is amazing",0.03049926,0.0064680767921061,0.1999999999999999,0.0,False
+"it's really all i can tell you without completely spoiling you, so i'm going to go ahead and jump into the spoilery section",0.28683078,0.0082971485696952,0.425,0.0,False
+"okay, thank you for joining me today",0.03187269,0.1364081993008441,0.25,0.0,False
+"non spoilery people, go watch logan and then come back and we can talk about all the fields and everything on it together",0.1550967,0.001384626379463,0.5,0.0,False
+have a good day goodbye,0.051737156,0.1436946838632136,0.15,0.0,False
+"i know it's not supposed, but you know why i made up one",0.039598234,0.1020441031218228,0.5,0.0,False
+so i don't have the clause,0.017701091,0.9907723562770632,0.5,0.0,False
+i really want a clause,0.031357653,0.9388461848178788,0.4,0.0,False
+so i went into this expecting it to be bad because i have been warned at least of that that it is very dark and depressing compared to the other x-men movies,0.24769363,0.9999489780378468,0.692,0.226,False
+and that's totally fine,0.029640866,0.0025020133111292,0.2916666666666666,0.0,False
+"you need those dark night moments, especially in comic book movies, because those are so bright, so deep if you're not expected to be as depressing as it was, i gotta say, and the engine shocked me",0.11794081,0.0006637623487602,0.5142857142857142,0.115,False
+i got a bit hit,0.18746567,0.0390349601173362,0.5,0.0,False
+"hope that says automatically at the beginning is just that, this very curious depressing town, because the very opening scene is, of course, wolverine is getting attacked by these guys who are trying to steal his car, which is a very dumb move and he's fighting them, but just something seems off",0.35870504,0.9998217807630394,0.6271875,0.171,False
+he's not healing as fast and he seems to be hurting more than usual when the guys hit him for,0.20816301,0.9999675152226944,0.425,0.124,False
+just kind of wondering the whole time what exactly happened to the x-men and why isn't he at the school teaching? why is he a driver now and everything like that? it's really really confusing,0.104076885,0.9999771116431462,0.40625,0.064,False
+"it was just so depressing because i was kind of excited because i was really hoping that i would see some of the other x-men in this movie, but you basically find out right at the beginning that all the rest of them are dead and it's really wolverine and charles xavier and the creepy guy who can hunt down mutants",0.28923595,0.9999564882799394,0.4959920634920635,0.118,False
+"calvin, calvin, gus's name, calvin, and you find out there hasn't either, then mutant children in the 25 years, or something like that",0.2298686,0.0037692772566206,0.5,0.0,False
+and you're just like,0.02809576,0.0077899390055092,0.5,0.0,False
+what's going on? what happened? where's magneto and sore and cyclops? we just goes back and but it's really there,0.039254878,0.0545955260772592,0.45,0.108,False
+what if he cycle? but he's dead again,0.2712817,0.9613131336431489,0.6,0.459,False
+oh gosh,0.049212243,0.0038816328625305,0.5,0.0,False
+"oh, i was really sad, and on top of that you find out professor x is having these seizures that basically can kill everybody",0.36439645,0.9982122941590164,0.5083333333333333,0.262,False
+"so that's really fun, too",0.04680874,0.0007533190054603,0.35,0.0,False
+"i did find out information that was interesting because you know, i have friends who read the comics and everything",0.03770977,0.0068447213935623,0.25,0.0,False
+"and so i was actually informed that in the comics, i mean they hand shattered",0.14687516,0.9995026848817457,0.578125,0.161,False
+"they never fully said it, but it was professor x in one of the comments that actually kill are the x-men because he had one of those seizures, and the wolverine could heal himself, so he was okay, but the rest of them couldn't so they all ended up dying and i wasn't thinking into that, but i did hear that in the actual comics that wolverine is the one that kills them all",0.2712817,0.999665436596301,0.44375,0.133,False
+"i don't know if any of you guys have read the comics, but if you have, you can talk about it below a little bit, because i'd like to know that in more detail, because i'm not going to hunt down those comics and figure out exactly what happened",0.052935857,0.1125325436373378,0.4491319444444444,0.0,False
+"so it's that stuff i like, but like lip spoiler can't email",0.12631269,0.9632477362431588,0.5,0.0,False
+people don't want to read about the comics themselves and don't want to be spoiled for them,0.08367105,0.0300154573895387,0.5,0.14,False
+and then you find out that there are other mutant children out there,0.33341047,0.8707979077896052,0.5625,0.0,False
+"you come across laura, who is played by daphne was amazing",0.040971663,0.0541846979532623,0.1999999999999999,0.0,False
+"amazing, wolverine, takes her in and promises to get her to this place called eden, but you're kind of wondering this whole time what is her power exactly? and i was like shocked when i found out that she basically is wolverine junior girl version and she's more enhanced in a way because she had claws coming out of her feet",0.12180476,0.24857691343236,0.3791666666666666,0.044,False
+wolverine only has at hand,0.032902762,0.0253035851451941,0.5,0.0,False
+she has them in her feet too,0.10763696,0.0149526833886379,0.5,0.0,False
+"i was like, wait a second",0.029812546,0.9999588128786824,0.5,0.0,False
+did wolverine have a kick? i was really confused,0.14866976,0.9999740121781556,0.7,0.245,False
+"i did not expect that to be her power out of everything, so i was freaking out and thinking it was awesome and she was awesome, like those fight sequences that she had, especially at the beginning when they attack them in mexico",0.17518331,0.0001858188866972,0.1666666666666666,0.155,False
+"oh my god, that was so good",0.059328925,0.0061920753952011,0.15,0.0,False
+almost time to watch her because she's just a little little spunky thing and she's gonna grow little new,0.27359754,0.0007496830946059,0.5532670454545454,0.0,False
+"it's really cool and i wish i had those girls a little bit, but i don't and then the whole time i was like okay, so she's gotta be boring kid",0.31389946,0.7684535141942681,0.51375,0.077,False
+"healthy, sorta miss, but isn't she's like a clone actually did not, but i was",0.08635602,0.98992700700342,0.375,0.216,False
+ed said that he had a kid and i was like this is gene,0.08330294,0.0018424233190871,0.5,0.0,False
 great kid,0.050242316,0.0089337607972396,0.0999999999999999,0.0,False
-I'm gonna cut up,0.42750368,0.999968886139902,0.5,0.412,False
-"I have these psychic powers along with the claws like I was determined for life to happen, Because if you don't know who she and Gray is, because you haven't left me other X-men movies",0.12824467,0.0,0.53125,0.0,False
-"For some reason, she's the main love interest for Loking",0.068918526,0.004093856806744,0.3333333333333333,0.0,False
-"He's with Cyclops, Technically, and she never breaks up",0.044405237,3.16503059618984e-05,0.5,0.0,False
-"The Cyclops never will, But Logan has a crush on her and wants to be with her",0.18549223,0.0027107503572282,0.4,0.106,False
-There's been a gap since the last movie and this one and she was alive last time I saw because they revs arrested her And everything,0.101391904,0.0077411224319069,0.4833333333333333,0.104,False
+i'm gonna cut up,0.42750368,0.999968886139902,0.5,0.412,False
+"i have these psychic powers along with the claws like i was determined for life to happen, because if you don't know who she and gray is, because you haven't left me other x-men movies",0.12824467,0.0,0.53125,0.0,False
+"for some reason, she's the main love interest for loking",0.068918526,0.004093856806744,0.3333333333333333,0.0,False
+"he's with cyclops, technically, and she never breaks up",0.044405237,3.16503059618984e-05,0.5,0.0,False
+"the cyclops never will, but logan has a crush on her and wants to be with her",0.18549223,0.0027107503572282,0.4,0.106,False
+there's been a gap since the last movie and this one and she was alive last time i saw because they revs arrested her and everything,0.101391904,0.0077411224319069,0.4833333333333333,0.104,False
 does that mean that they had a kid and he didn't know about and the kid got captured,0.04268845,0.9936988174766196,0.65625,0.0,False
-I was going down that hole and I erupted,0.38953075,0.0485476652117658,0.5777777777777778,0.0,False
-"That is not true, family, but I really wanted it to be true, which is bad because I love Cyclops At the same time I wanted her to actually be Logan daughter",0.14418322,0.9961629219467096,0.4875,0.146,False
-"That's why I just really wanted to actually be looking sorry and Professor X didn't help Because he's like That's your daughter, Logan, and I'm like, Oh, I'm right, I'm right, but no, find out that you have all of these young mutant kids that were in this facility and being tortured and basically turned into weapons",0.3437808,0.9996986366347582,0.469047619047619,0.175,False
-And then they escaped and are heading off to eat in Logan,0.039254878,0.0002294796194977,0.5,0.0,False
-"Task now is to bring Laura to eating, and he has to bring Professor X with him, which is scary in itself, because his seizures and everything, and I loved how the movie didn't because I didn't know when they were going to happen, but he did it so well in moments where you were just not expecting it at all, like the main one was when they were in that hotel",0.08050597,0.0003308678877485,0.4604166666666667,0.026,False
-"He has the seizure all of a sudden, and you see, everybody's like frozen, and the whole time you're just watching Logan struggle to try and get to that hotel room so he can stop Professor Eggs from killing everybody",0.355017,0.9894655741529416,0.45,0.192,False
-That's being probably tortured Me out of all the other scene,0.18450552,0.9981200552729976,0.5625,0.265,False
-You're just walking,0.08635602,0.9653183576721802,0.5,0.0,False
-"You move in and you're like, Can you move just a little bit faster? He couldn't move faster",0.09118898,0.9990268872031376,0.59375,0.0,False
-Not like everybody's gonna die,0.22991583,0.999861030718738,0.5,0.667,False
-There's gonna be a whole scene,0.05133759,0.0116884997152962,0.4,0.0,False
-This is not okay,0.0741129,0.9997929020940404,0.625,0.357,False
-"And then the action sequence was really cool Because he comes in and he's like Boom, like that could have guys, and then they fall under dead and I was just like this is so cool",0.20596254,0.0014458408130278,0.425,0.091,False
-"Oh my gosh, stop the seizure from happening, please",0.16413476,0.8523918243504579,0.5,0.191,False
-"He just had a sense of dread everywhere they went, because when they hope that one family on the side of the road, I was kind of what Wolverine and I was like",0.11343288,0.1779191253023692,0.2,0.078,False
-We should really move on because I was gonna happen to the family the way this movie is going,0.05653196,0.1373697487090877,0.4,0.0,False
-"And what do you know? I was right, Though, I did think for a second that the kid was actually going to be another mutant",0.34684154,0.9723208835573324,0.4523809523809524,0.0,False
-"You would see Laura's like powers, and then human be like, Oh my gosh, look what I can do and then he joins them or something like that",0.15626417,0.0005101004113407,0.5,0.0,False
-"I'm not sure, but I do not think all of them would survive",0.30187345,0.9997297802974044,0.625,0.11,False
-I was clearly right,0.017354012,0.0001662982177659,0.3571428571428571,0.0,False
-I did not expect to be their clone of Logan,0.04680874,0.9348682599228032,0.5,0.0,False
-"That is stronger, and how he should be, in the sense, and I was just terrified at that thing because asking was just plain unstoppable",0.123736724,0.0718988556358019,0.6071428571428571,0.191,False
-It was,0.020130653,0.7726335301672418,0.5,0.0,False
-It was scary,0.07011723,0.1361052265980111,0.75,0.615,False
-"Okay, you're not going to beat yourself",0.21186037,0.001032390064808,0.25,0.0,False
-I'm sorry,0.023117077,0.999928473884832,0.75,0.565,False
+i was going down that hole and i erupted,0.38953075,0.0485476652117658,0.5777777777777778,0.0,False
+"that is not true, family, but i really wanted it to be true, which is bad because i love cyclops at the same time i wanted her to actually be logan daughter",0.14418322,0.9961629219467096,0.4875,0.146,False
+"that's why i just really wanted to actually be looking sorry and professor x didn't help because he's like that's your daughter, logan, and i'm like, oh, i'm right, i'm right, but no, find out that you have all of these young mutant kids that were in this facility and being tortured and basically turned into weapons",0.3437808,0.9996986366347582,0.469047619047619,0.175,False
+and then they escaped and are heading off to eat in logan,0.039254878,0.0002294796194977,0.5,0.0,False
+"task now is to bring laura to eating, and he has to bring professor x with him, which is scary in itself, because his seizures and everything, and i loved how the movie didn't because i didn't know when they were going to happen, but he did it so well in moments where you were just not expecting it at all, like the main one was when they were in that hotel",0.08050597,0.0003308678877485,0.4604166666666667,0.026,False
+"he has the seizure all of a sudden, and you see, everybody's like frozen, and the whole time you're just watching logan struggle to try and get to that hotel room so he can stop professor eggs from killing everybody",0.355017,0.9894655741529416,0.45,0.192,False
+that's being probably tortured me out of all the other scene,0.18450552,0.9981200552729976,0.5625,0.265,False
+you're just walking,0.08635602,0.9653183576721802,0.5,0.0,False
+"you move in and you're like, can you move just a little bit faster? he couldn't move faster",0.09118898,0.9990268872031376,0.59375,0.0,False
+not like everybody's gonna die,0.22991583,0.999861030718738,0.5,0.667,False
+there's gonna be a whole scene,0.05133759,0.0116884997152962,0.4,0.0,False
+this is not okay,0.0741129,0.9997929020940404,0.625,0.357,False
+"and then the action sequence was really cool because he comes in and he's like boom, like that could have guys, and then they fall under dead and i was just like this is so cool",0.20596254,0.0014458408130278,0.425,0.091,False
+"oh my gosh, stop the seizure from happening, please",0.16413476,0.8523918243504579,0.5,0.191,False
+"he just had a sense of dread everywhere they went, because when they hope that one family on the side of the road, i was kind of what wolverine and i was like",0.11343288,0.1779191253023692,0.2,0.078,False
+we should really move on because i was gonna happen to the family the way this movie is going,0.05653196,0.1373697487090877,0.4,0.0,False
+"and what do you know? i was right, though, i did think for a second that the kid was actually going to be another mutant",0.34684154,0.9723208835573324,0.4523809523809524,0.0,False
+"you would see laura's like powers, and then human be like, oh my gosh, look what i can do and then he joins them or something like that",0.15626417,0.0005101004113407,0.5,0.0,False
+"i'm not sure, but i do not think all of them would survive",0.30187345,0.9997297802974044,0.625,0.11,False
+i was clearly right,0.017354012,0.0001662982177659,0.3571428571428571,0.0,False
+i did not expect to be their clone of logan,0.04680874,0.9348682599228032,0.5,0.0,False
+"that is stronger, and how he should be, in the sense, and i was just terrified at that thing because asking was just plain unstoppable",0.123736724,0.0718988556358019,0.6071428571428571,0.191,False
+it was,0.020130653,0.7726335301672418,0.5,0.0,False
+it was scary,0.07011723,0.1361052265980111,0.75,0.615,False
+"okay, you're not going to beat yourself",0.21186037,0.001032390064808,0.25,0.0,False
+i'm sorry,0.023117077,0.999928473884832,0.75,0.565,False
 that other self is way stronger than you,0.355017,0.8654030207505009,0.5625,0.0,False
-And then a shock came for me at that moment,0.0813051,0.1875028498686512,0.5,0.224,False
-Though that thing that duplicate kills Professor X and I was so mad,0.42465788,0.9918290652210284,0.8125,0.409,False
-I was like,0.020269485,0.0246293024969945,0.5,0.0,False
-"No, we only have two people that are left in this mutant world",0.22981352,0.8409604312166431,0.5,0.0,False
-"Well three now, but still I'll be original",0.04268845,0.008789188636956,0.3125,0.0,False
-You're going to kill one of those right now,0.5026305,0.9652282943721644,0.3571428571428571,0.37,False
-There is not okay,0.05852979,0.9985917998050794,0.625,0.357,False
-"And who is Professor X? Out of all the people that you just killed, I was so pissed and I was really sad because he was dying and Logan was trying to save them",0.37360558,0.7660546475017209,0.675,0.285,True
-But there was nothing that Logan to do,0.042001735,0.9786069561888836,0.5,0.0,False
-"You know, I'm like now it's just human, Laura, and then Logan also knows that evening is actually a thing from the comics, which was frustrating",0.11536485,0.9607277221930456,0.5666666666666667,0.099,False
-I was like there's no such thing as hidden,0.046465382,0.9328918443479676,0.5416666666666666,0.188,False
-"You gotta be kidding me, and I'm just panicking Whew the whole entire time because I'm like they're gonna get Laura and he's going to have to try down and this is not going to be good",0.16965903,0.99916526043344,0.4069444444444444,0.068,False
-Ha is a better than that was me,0.09763293,0.0090223339698561,0.25,0.0,False
-That was me during the whole movie,0.039598234,0.9599559554103814,0.4,0.0,False
-"Basically okay, This was one comedic part for me was when Laura finally speaks Logan Gibson, Because he's like you can't show off this whole entire time",0.087430015,0.9989028788009648,0.4125,0.0,False
-And then she just goes on a rant in Spanish and I was laughing hysterically,0.22982138,0.9668424599762212,0.75,0.129,False
-- me / Laura,0.007496933,0.0003344441935069,0.5,0.0,False
-You are awesome and kicking butt,0.78524166,0.000361355894339,0.0,0.0,False
-"Yes, I loved it, and then also during all of the sudden happening, you have this impending genome with Wolverine, because he's not healing well and that's really scary, But you don't know exactly what is going on with him and you don't know if they're going to make it, but of course they were able to get him to the Eden, which was kind of Eden, but not really",0.087430015,0.0240035085943693,0.3964285714285714,0.049,False
-And the kids are the ones who end up nurturing him back to health,0.038911518,0.0028663196577189,0.5,0.0,False
-"In a sense, and you're just like Yes, Okay, everything's gonna be okay",0.023460433,0.0011384573330927,0.25,0.0,False
-Wolverines going to go let them protect them,0.05852979,0.0976293026758098,0.5,0.0,False
-Everything's going to be good and there's going to be a whole new little Mutants game,0.089041,0.0002707561484593,0.4551136363636364,0.0,False
-"But then the last sequence came up, and Oh my gosh, I was super intense and heartbreaking and intense again, Laureen, who wakes up and realizes that that these kids are going to get captured, and so Wolverine takes the medicine all at once, which he was not supposed to do",0.08581903,0.0031317113475406,0.4083333333333333,0.068,False
-"And you have this moment of old Wolverine, where he's so strong and unstoppable And it's this really nice battle sequence Because you have him and then you have Laura, both kicking butt together and working together",0.46457416,0.0001686228165088,0.3111111111111111,0.109,False
-"And I know she's not his daughter in a sense, but it was like father and daughter working together",0.023803791,0.0163123352328881,0.5,0.0,False
-Then the medicine starts to wear off and let's do the Logan clothes,0.10461388,0.965976368129179,0.5,0.0,False
-Dylan is dead and he's beating him to a pulp and got run,0.34388447,0.9898668058564868,0.6,0.399,False
-"Oh my gosh, thought Run was so pitiful at the end and I was just like This is so fast",0.22978203,0.0176074347581991,0.4,0.167,False
-"I paced, disintegrating, basically back to where he was at the beginning, but work is so painful to watch, and so emotional Because you see him fighting and you have all the other mutants coming together",0.23891698,0.9687241630535548,0.603125,0.19,False
-"They're so young, but they're fighting for Wolverine to protect him and for each other, and they come together and finally repeat that stupid Logan clones",0.650189,0.016808637064511,0.603125,0.229,False
-"But the real low game is so injured that they cannot do anything for him and you just have this such emotional tender moment between him and Laura, where she's crying and not wanting him to go away, because he is her guy",0.123736724,0.7552209742703279,0.56,0.22,False
-"In a sense, you just don't realize fully what's going to happen until it does, Because I don't know about you, but in superhero movies I don't expect my main character to die and so I'm like he's going to be okay",0.08367105,0.001640481253929,0.3333333333333333,0.106,False
-"They're going to have one of the mutants like heal him or something, and he's going to be fine and he's going to lead them to the border and everything's going to be fine, But it wasn't okay",0.20522906,0.9998818925023286,0.2777777777777778,0.049,False
-I cried,0.039254878,0.9902331983814356,0.5,0.722,False
-I literally cried because Wolverine died,0.15859914,0.9931748290779168,0.5,0.608,False
-"He's going to be resurrected or something, because that's what they did in Superman",0.05773066,0.0193834281978238,0.5,0.0,False
-"So what you'll be doing with Wolverine? But no, they ended with him dying and I was just sitting there in silence for a good ten minutes afterwards and hearing my mom go like that did that was funny",0.16413476,0.9978917081503234,0.3416666666666667,0.0,False
-That saw me out of it That that was funny,0.11729682,0.012523894937912,0.375,0.0,False
-She literally was really upset that he died in that with it and I tried to explain her,0.1464265,0.9998032733807396,0.4,0.289,False
-It was hit the last movie,0.111500904,0.987439716150996,0.5,0.0,False
-but she was like That's not okay That he died and she walked away pretty angry that night That that was how it ended with him,0.20376207,0.997542511695563,0.5833333333333334,0.284,False
+and then a shock came for me at that moment,0.0813051,0.1875028498686512,0.5,0.224,False
+though that thing that duplicate kills professor x and i was so mad,0.42465788,0.9918290652210284,0.8125,0.409,False
+i was like,0.020269485,0.0246293024969945,0.5,0.0,False
+"no, we only have two people that are left in this mutant world",0.22981352,0.8409604312166431,0.5,0.0,False
+"well three now, but still i'll be original",0.04268845,0.008789188636956,0.3125,0.0,False
+you're going to kill one of those right now,0.5026305,0.9652282943721644,0.3571428571428571,0.37,False
+there is not okay,0.05852979,0.9985917998050794,0.625,0.357,False
+"and who is professor x? out of all the people that you just killed, i was so pissed and i was really sad because he was dying and logan was trying to save them",0.37360558,0.7660546475017209,0.675,0.285,True
+but there was nothing that logan to do,0.042001735,0.9786069561888836,0.5,0.0,False
+"you know, i'm like now it's just human, laura, and then logan also knows that evening is actually a thing from the comics, which was frustrating",0.11536485,0.9607277221930456,0.5666666666666667,0.099,False
+i was like there's no such thing as hidden,0.046465382,0.9328918443479676,0.5416666666666666,0.188,False
+"you gotta be kidding me, and i'm just panicking whew the whole entire time because i'm like they're gonna get laura and he's going to have to try down and this is not going to be good",0.16965903,0.99916526043344,0.4069444444444444,0.068,False
+ha is a better than that was me,0.09763293,0.0090223339698561,0.25,0.0,False
+that was me during the whole movie,0.039598234,0.9599559554103814,0.4,0.0,False
+"basically okay, this was one comedic part for me was when laura finally speaks logan gibson, because he's like you can't show off this whole entire time",0.087430015,0.9989028788009648,0.4125,0.0,False
+and then she just goes on a rant in spanish and i was laughing hysterically,0.22982138,0.9668424599762212,0.75,0.129,False
+- me / laura,0.007496933,0.0003344441935069,0.5,0.0,False
+you are awesome and kicking butt,0.78524166,0.000361355894339,0.0,0.0,False
+"yes, i loved it, and then also during all of the sudden happening, you have this impending genome with wolverine, because he's not healing well and that's really scary, but you don't know exactly what is going on with him and you don't know if they're going to make it, but of course they were able to get him to the eden, which was kind of eden, but not really",0.087430015,0.0240035085943693,0.3964285714285714,0.049,False
+and the kids are the ones who end up nurturing him back to health,0.038911518,0.0028663196577189,0.5,0.0,False
+"in a sense, and you're just like yes, okay, everything's gonna be okay",0.023460433,0.0011384573330927,0.25,0.0,False
+wolverines going to go let them protect them,0.05852979,0.0976293026758098,0.5,0.0,False
+everything's going to be good and there's going to be a whole new little mutants game,0.089041,0.0002707561484593,0.4551136363636364,0.0,False
+"but then the last sequence came up, and oh my gosh, i was super intense and heartbreaking and intense again, laureen, who wakes up and realizes that that these kids are going to get captured, and so wolverine takes the medicine all at once, which he was not supposed to do",0.08581903,0.0031317113475406,0.4083333333333333,0.068,False
+"and you have this moment of old wolverine, where he's so strong and unstoppable and it's this really nice battle sequence because you have him and then you have laura, both kicking butt together and working together",0.46457416,0.0001686228165088,0.3111111111111111,0.109,False
+"and i know she's not his daughter in a sense, but it was like father and daughter working together",0.023803791,0.0163123352328881,0.5,0.0,False
+then the medicine starts to wear off and let's do the logan clothes,0.10461388,0.965976368129179,0.5,0.0,False
+dylan is dead and he's beating him to a pulp and got run,0.34388447,0.9898668058564868,0.6,0.399,False
+"oh my gosh, thought run was so pitiful at the end and i was just like this is so fast",0.22978203,0.0176074347581991,0.4,0.167,False
+"i paced, disintegrating, basically back to where he was at the beginning, but work is so painful to watch, and so emotional because you see him fighting and you have all the other mutants coming together",0.23891698,0.9687241630535548,0.603125,0.19,False
+"they're so young, but they're fighting for wolverine to protect him and for each other, and they come together and finally repeat that stupid logan clones",0.650189,0.016808637064511,0.603125,0.229,True
+"but the real low game is so injured that they cannot do anything for him and you just have this such emotional tender moment between him and laura, where she's crying and not wanting him to go away, because he is her guy",0.123736724,0.7552209742703279,0.56,0.22,False
+"in a sense, you just don't realize fully what's going to happen until it does, because i don't know about you, but in superhero movies i don't expect my main character to die and so i'm like he's going to be okay",0.08367105,0.001640481253929,0.3333333333333333,0.106,False
+"they're going to have one of the mutants like heal him or something, and he's going to be fine and he's going to lead them to the border and everything's going to be fine, but it wasn't okay",0.20522906,0.9998818925023286,0.2777777777777778,0.049,False
+i cried,0.039254878,0.9902331983814356,0.5,0.722,False
+i literally cried because wolverine died,0.15859914,0.9931748290779168,0.5,0.608,False
+"he's going to be resurrected or something, because that's what they did in superman",0.05773066,0.0193834281978238,0.5,0.0,False
+"so what you'll be doing with wolverine? but no, they ended with him dying and i was just sitting there in silence for a good ten minutes afterwards and hearing my mom go like that did that was funny",0.16413476,0.9978917081503234,0.3416666666666667,0.0,False
+that saw me out of it that that was funny,0.11729682,0.012523894937912,0.375,0.0,False
+she literally was really upset that he died in that with it and i tried to explain her,0.1464265,0.9998032733807396,0.4,0.289,False
+it was hit the last movie,0.111500904,0.987439716150996,0.5,0.0,False
+but she was like that's not okay that he died and she walked away pretty angry that night that that was how it ended with him,0.20376207,0.997542511695563,0.5833333333333334,0.284,False
 suck all of them,0.8795294,0.1437412354431689,0.5,0.492,False
-"It's more than just him dying by himself, because a Wolverine has been a central figure of the X-men franchise for such a long time, and so that in itself is really hurtful, but also knowing that he was the last original X-men and the last original guys, and this the stars, these whole new mutants, which is cool and giving white to future X-men possibilities, and new mutants and everything",0.22990796,0.0048828792646924,0.4259090909090909,0.029,False
-But it's still so sad that all of the originals are dead now,0.13082063,0.947850339233463,0.675,0.51,False
-"Ah, I'm going to miss them",0.040284947,0.249369184368039,0.5,0.242,False
-And the thing about that character is that it's such an iconic character,0.05613239,0.003146553016438,0.375,0.0,False
-There's not really anybody else,0.036508016,0.994375633341398,0.55,0.0,False
-I feel like that can take Hugh Jackman's place as Wolverine,0.053335425,0.0226371809793701,0.5,0.0,False
-I don't,0.018325835,0.9947237569044308,0.5,0.0,False
-"they are going to, because I know they're doing younger versions of some of the X-men people now like Cyclops and Jean Grey, Sansa Stark is Jean Grey People",0.12953265,0.0010337013769194,0.5375,0.0,False
-"I don't know if they're actually going to do a younger Wolverine look Out of all the characters, Hugh Jackman has been the central figure of that and he's done so much with Wolverine, and you've come to his close, but I'm guessing they're going to fill that gap basically between that time, and go back and refer a very, and fill in some other time places that they can, because we're doing younger versions of everybody",0.038053125,0.7799817358064918,0.4828125,0.0,False
-"I will say, I was really sad that Wolverine died and that broke my heart, But it was still a really good send-off Makes me want to go back to the beginning of X-men and see everything he's done",0.1473238,0.0025435580630227,0.4666666666666667,0.134,False
+"it's more than just him dying by himself, because a wolverine has been a central figure of the x-men franchise for such a long time, and so that in itself is really hurtful, but also knowing that he was the last original x-men and the last original guys, and this the stars, these whole new mutants, which is cool and giving white to future x-men possibilities, and new mutants and everything",0.22990796,0.0048828792646924,0.4259090909090909,0.029,False
+but it's still so sad that all of the originals are dead now,0.13082063,0.947850339233463,0.675,0.51,False
+"ah, i'm going to miss them",0.040284947,0.249369184368039,0.5,0.242,False
+and the thing about that character is that it's such an iconic character,0.05613239,0.003146553016438,0.375,0.0,False
+there's not really anybody else,0.036508016,0.994375633341398,0.55,0.0,False
+i feel like that can take hugh jackman's place as wolverine,0.053335425,0.0226371809793701,0.5,0.0,False
+i don't,0.018325835,0.9947237569044308,0.5,0.0,False
+"they are going to, because i know they're doing younger versions of some of the x-men people now like cyclops and jean grey, sansa stark is jean grey people",0.12953265,0.0010337013769194,0.5375,0.0,False
+"i don't know if they're actually going to do a younger wolverine look out of all the characters, hugh jackman has been the central figure of that and he's done so much with wolverine, and you've come to his close, but i'm guessing they're going to fill that gap basically between that time, and go back and refer a very, and fill in some other time places that they can, because we're doing younger versions of everybody",0.038053125,0.7799817358064918,0.4828125,0.0,False
+"i will say, i was really sad that wolverine died and that broke my heart, but it was still a really good send-off makes me want to go back to the beginning of x-men and see everything he's done",0.1473238,0.0025435580630227,0.4666666666666667,0.134,False
 the best,0.030155903,0.0005119481693159,0.0,0.0,False
-"Thank you, Hugh Jackman",0.011870144,0.0076006332206975,0.5,0.0,False
-"From being an awesome awesome Wolverine, That is really all I have to say about this movie",0.052935857,0.0005333463987703,0.1333333333333333,0.0,False
-"It was so incredible, Very emotional intense has little cute moments, has very very depressing moments, But it's still so good, and a great send-off to Wolverine, and what Hugh Jackman has done with that character",0.047495455,0.0002628882757908,0.36671875,0.044,False
-Thank you so much for watching this,0.023117077,0.0325439353632802,0.4,0.0,False
-"If you have any other book or movie recommendations, you can leave them in the comments below and I'll write them down",0.06372416,0.8722721802334124,0.5701388888888889,0.054,False
-Check them out and make sure I do review on them for you,0.1024659,0.0546053907206428,0.25,0.0,False
-Thank you so much for everything,0.031014297,0.0596222026359876,0.4,0.0,False
-"Have a wonderful day, evening night afternoon",0.0224908,0.0041507796733986,0.0,0.0,False
-"whatever time of the day you are watching this end, Don't forget to be awesome and watch Wolverine, And if you have Wolverine claws, Oh my gosh, show me them because I want some like to put on the hip",0.22986074,0.000123412351213,0.0,0.0,False
-That'd be so much fun,0.042001735,0.0023418842207965,0.35,0.0,False
-"Alright, Have a good day",0.026207292,0.1749093063760942,0.15,0.0,False
-"goodbye, Whew",0.10763696,0.8641214515819758,0.5,0.0,False
+"thank you, hugh jackman",0.011870144,0.0076006332206975,0.5,0.0,False
+"from being an awesome awesome wolverine, that is really all i have to say about this movie",0.052935857,0.0005333463987703,0.1333333333333333,0.0,False
+"it was so incredible, very emotional intense has little cute moments, has very very depressing moments, but it's still so good, and a great send-off to wolverine, and what hugh jackman has done with that character",0.047495455,0.0002628882757908,0.36671875,0.044,False
+thank you so much for watching this,0.023117077,0.0325439353632802,0.4,0.0,False
+"if you have any other book or movie recommendations, you can leave them in the comments below and i'll write them down",0.06372416,0.8722721802334124,0.5701388888888889,0.054,False
+check them out and make sure i do review on them for you,0.1024659,0.0546053907206428,0.25,0.0,False
+thank you so much for everything,0.031014297,0.0596222026359876,0.4,0.0,False
+"have a wonderful day, evening night afternoon",0.0224908,0.0041507796733986,0.0,0.0,False
+"whatever time of the day you are watching this end, don't forget to be awesome and watch wolverine, and if you have wolverine claws, oh my gosh, show me them because i want some like to put on the hip",0.22986074,0.000123412351213,0.0,0.0,False
+that'd be so much fun,0.042001735,0.0023418842207965,0.35,0.0,False
+"alright, have a good day",0.026207292,0.1749093063760942,0.15,0.0,False
+"goodbye, whew",0.10763696,0.8641214515819758,0.5,0.0,False

@@ -1,66 +1,66 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"The farewell was directed by Lulu Wang and stars Aquafina as Billy, a young woman who learns that her grandmother has a very short time left to live",0.033761155,0.9423234870748596,0.4116161616161616,0.0,False
-"Much to her surprise, she discovers her entire family has decided not to tell her grandmother that she's going to die",0.23628397,0.1173680777464131,0.3888888888888889,0.156,False
-"Instead, they arrange a wedding ceremony as an excuse for everyone to come to China to see her one last time before she passes, and since some of them are having a very hard time figuring out whether or not they want to approach her about this illness, or at least trying to hide it, it creates for an extremely entertaining movie and one that really touched me",0.13251819,0.0024475320852256,0.4471450617283951,0.103,False
-"To be honest, and I don't experience that too much in the theaters",0.04268845,0.8479125342719166,0.2222222222222222,0.0,False
-Nowadays movies have kind of forgotten how to grab you by the heart,0.09333697,0.0081972743883092,0.1111111111111111,0.126,False
-There's only a few that come out a year that really know how to do it without being too sappy or sentimental to the point of unbelievab ility,0.06132676,0.9087659928408152,0.4791666666666667,0.0,False
-But this film is able to approach this subject from a well of knowledge about this culture,0.035306264,0.0005687422953941,0.3518518518518518,0.0,False
-"Since this is a true story, the film opens with text that says based on an actual lie, Because the director of this film went through this exact scenario and she's written about it and made a beautiful movie, and one that consistently kept my interest with complex characters that felt like they were real people that didn't seem like movie characters",0.08555053,1.0729299708741238e-06,0.3174603174603175,0.03,False
-"The film was comfortable enough to have long sequences with people just having conversations, and some of these conversations are really fascinating",0.049898956,0.0001358448557567,0.2986111111111111,0.0,False
-Oftentimes,0.019158829,0.0305031010358483,0.4444444444444445,0.0,False
-"one of the biggest notes that screenwriters get especially SPECT writers, is that all people are talking too much right now",0.073313765,0.9702380551451432,0.3650793650793651,0.0,False
+"the farewell was directed by lulu wang and stars aquafina as billy, a young woman who learns that her grandmother has a very short time left to live",0.033761155,0.9423234870748596,0.4116161616161616,0.0,False
+"much to her surprise, she discovers her entire family has decided not to tell her grandmother that she's going to die",0.23628397,0.1173680777464131,0.3888888888888889,0.156,False
+"instead, they arrange a wedding ceremony as an excuse for everyone to come to china to see her one last time before she passes, and since some of them are having a very hard time figuring out whether or not they want to approach her about this illness, or at least trying to hide it, it creates for an extremely entertaining movie and one that really touched me",0.13251819,0.0024475320852256,0.4471450617283951,0.103,False
+"to be honest, and i don't experience that too much in the theaters",0.04268845,0.8479125342719166,0.2222222222222222,0.0,False
+nowadays movies have kind of forgotten how to grab you by the heart,0.09333697,0.0081972743883092,0.1111111111111111,0.126,False
+there's only a few that come out a year that really know how to do it without being too sappy or sentimental to the point of unbelievab ility,0.06132676,0.9087659928408152,0.4791666666666667,0.0,False
+but this film is able to approach this subject from a well of knowledge about this culture,0.035306264,0.0005687422953941,0.3518518518518518,0.0,False
+"since this is a true story, the film opens with text that says based on an actual lie, because the director of this film went through this exact scenario and she's written about it and made a beautiful movie, and one that consistently kept my interest with complex characters that felt like they were real people that didn't seem like movie characters",0.08555053,1.0729299708741238e-06,0.3174603174603175,0.03,False
+"the film was comfortable enough to have long sequences with people just having conversations, and some of these conversations are really fascinating",0.049898956,0.0001358448557567,0.2986111111111111,0.0,False
+oftentimes,0.019158829,0.0305031010358483,0.4444444444444445,0.0,False
+"one of the biggest notes that screenwriters get especially spect writers, is that all people are talking too much right now",0.073313765,0.9702380551451432,0.3650793650793651,0.0,False
 people are saying too much,0.12051678,0.9982848022271164,0.3333333333333333,0.0,False
-Let's get things moving,0.036679696,0.0141510224039103,0.4444444444444445,0.0,False
-Let's have something happen,0.12695669,0.0030912602641398,0.4444444444444445,0.0,False
-This film is perfectly content to show an entire sequence in which people just have an argument over dinner about whether or not moving to America from China was really worth,0.06612156,8.20493391615684e-05,0.2037037037037037,0.068,False
-"It Is the American dream Really everything that is cooked up to be, And it was one of the most fascinating scenes in the entire film, And this movie has a lot of sequences like that, but I don't want to make it seem like it's a total drag",0.11729682,0.0042421564795641,0.3412698412698413,0.074,False
-"This movie is actually really funny and similar to 5050 in tone, specifically in that, it's a film that's also about a terrible illness and a very sad thing, but it's able to find the levity in these moments and able to find the entertainment value in the moments",0.12180476,5.901114839807681e-06,0.4814814814814815,0.105,False
+let's get things moving,0.036679696,0.0141510224039103,0.4444444444444445,0.0,False
+let's have something happen,0.12695669,0.0030912602641398,0.4444444444444445,0.0,False
+this film is perfectly content to show an entire sequence in which people just have an argument over dinner about whether or not moving to america from china was really worth,0.06612156,8.20493391615684e-05,0.2037037037037037,0.068,False
+"it is the american dream really everything that is cooked up to be, and it was one of the most fascinating scenes in the entire film, and this movie has a lot of sequences like that, but i don't want to make it seem like it's a total drag",0.11729682,0.0042421564795641,0.3412698412698413,0.074,False
+"this movie is actually really funny and similar to 5050 in tone, specifically in that, it's a film that's also about a terrible illness and a very sad thing, but it's able to find the levity in these moments and able to find the entertainment value in the moments",0.12180476,5.901114839807681e-06,0.4814814814814815,0.105,False
 both films were also written as a form of catharsis for the person who went through the event,0.07131593,0.1436579020010799,0.4444444444444445,0.0,False
-But one of the reasons this movie stands out so much is awkwafina and her honestly show-stopping performance,0.24242763,0.0017568632200857,0.2222222222222222,0.0,False
-I really did not expect this from someone who in the past has mostly been a comedic supporting role,0.1008549,0.9996816676383636,0.3472222222222222,0.0,False
-Someone who kind of comes in gets some laughs and then disappears and then comes back,0.15918289,0.8609098589210342,0.2777777777777778,0.122,False
-"Get some laughs and disappears And he or she is front and center for most of the movie And she's marvelous, such an incredible actress",0.1621016,0.0005595329798108,0.1888888888888889,0.076,False
-She has shown so much range in this film and I can't wait to see what else she does as a writer and a director,0.054534122,0.0,0.3333333333333333,0.0,False
-She's very smart with her choices,0.034962907,0.001149882892674,0.2896825396825397,0.0,False
-She sets up certain things early on in the movie that at first get a laugh and they're very cute and it's just a great scene,0.0681194,0.0020614859209831,0.2301587301587302,0.0,False
+but one of the reasons this movie stands out so much is awkwafina and her honestly show-stopping performance,0.24242763,0.0017568632200857,0.2222222222222222,0.0,False
+i really did not expect this from someone who in the past has mostly been a comedic supporting role,0.1008549,0.9996816676383636,0.3472222222222222,0.0,False
+someone who kind of comes in gets some laughs and then disappears and then comes back,0.15918289,0.8609098589210342,0.2777777777777778,0.122,False
+"get some laughs and disappears and he or she is front and center for most of the movie and she's marvelous, such an incredible actress",0.1621016,0.0005595329798108,0.1888888888888889,0.076,False
+she has shown so much range in this film and i can't wait to see what else she does as a writer and a director,0.054534122,0.0,0.3333333333333333,0.0,False
+she's very smart with her choices,0.034962907,0.001149882892674,0.2896825396825397,0.0,False
+she sets up certain things early on in the movie that at first get a laugh and they're very cute and it's just a great scene,0.0681194,0.0020614859209831,0.2301587301587302,0.0,False
 but later on in the film you find there's a much deeper meaning to some of these things that you learned earlier and thought we're just there for a laugh,0.043031808,0.0048900869675309,0.375,0.0,False
-Sometimes that can be called hidden exposition,0.036679696,0.0525120241175583,0.5370370370370371,0.0,False
-"The idea of showing us a scene with something, and then as an audience we think Okay, That has now served its purpose in the story",0.030155903,0.0241682542553147,0.1666666666666666,0.0,False
-And then later you realized that was actually just set up for something more important and something more impactful,0.0224908,0.104661874762726,0.2888888888888889,0.0,False
-"And without getting into it, I thought the ending in particular was really beautiful",0.04406188,0.9995207281427326,0.162037037037037,0.0,False
-"It made me think for the entire drive home, which was like 30 minutes",0.020963646,0.9963660755994802,0.4444444444444445,0.0,False
-so I had a lot of time to toss it around in my head,0.263611,0.9994943817512256,0.4444444444444445,0.0,False
-There are so many great themes woven throughout this story that is somehow able to approach them with comedy and equal parts drama,0.04406188,0.0002019492634067,0.1944444444444444,0.0,False
-And this doesn't happen often with movies,0.031185975,0.9949270380796555,0.4444444444444445,0.0,False
-But I learned something while watching this movie,0.043031808,0.1887448930768657,0.4444444444444445,0.0,False
-I had no idea that this was a common practice in China,0.040284947,0.996279615325994,0.6111111111111112,0.167,False
-The idea of being uncomfortable with telling a loved one that they are going to pass soon and I had no idea that that it was so widely accepted,0.05852979,0.9972343441784102,0.4259259259259259,0.133,False
-"And so it's interesting because you get to see Awkwafina's character, Billy",0.04783881,0.0004290825775187,0.1666666666666666,0.0,False
-"She's struggling with that because she's lived in America for a long time now, and it's really hard for her to accept this at first",0.043031808,0.9993252760663716,0.4614197530864197,0.154,False
-And it's something that she just has to,0.036679696,0.0009386050992427,0.4444444444444445,0.0,False
-This movie wasn't mindless,0.16965903,0.9288108580036196,0.5555555555555556,0.0,False
-You know,0.03994159,0.0418729101335911,0.4444444444444445,0.0,False
+sometimes that can be called hidden exposition,0.036679696,0.0525120241175583,0.5370370370370371,0.0,False
+"the idea of showing us a scene with something, and then as an audience we think okay, that has now served its purpose in the story",0.030155903,0.0241682542553147,0.1666666666666666,0.0,False
+and then later you realized that was actually just set up for something more important and something more impactful,0.0224908,0.104661874762726,0.2888888888888889,0.0,False
+"and without getting into it, i thought the ending in particular was really beautiful",0.04406188,0.9995207281427326,0.162037037037037,0.0,False
+"it made me think for the entire drive home, which was like 30 minutes",0.020963646,0.9963660755994802,0.4444444444444445,0.0,False
+so i had a lot of time to toss it around in my head,0.263611,0.9994943817512256,0.4444444444444445,0.0,False
+there are so many great themes woven throughout this story that is somehow able to approach them with comedy and equal parts drama,0.04406188,0.0002019492634067,0.1944444444444444,0.0,False
+and this doesn't happen often with movies,0.031185975,0.9949270380796555,0.4444444444444445,0.0,False
+but i learned something while watching this movie,0.043031808,0.1887448930768657,0.4444444444444445,0.0,False
+i had no idea that this was a common practice in china,0.040284947,0.996279615325994,0.6111111111111112,0.167,False
+the idea of being uncomfortable with telling a loved one that they are going to pass soon and i had no idea that that it was so widely accepted,0.05852979,0.9972343441784102,0.4259259259259259,0.133,False
+"and so it's interesting because you get to see awkwafina's character, billy",0.04783881,0.0004290825775187,0.1666666666666666,0.0,False
+"she's struggling with that because she's lived in america for a long time now, and it's really hard for her to accept this at first",0.043031808,0.9993252760663716,0.4614197530864197,0.154,False
+and it's something that she just has to,0.036679696,0.0009386050992427,0.4444444444444445,0.0,False
+this movie wasn't mindless,0.16965903,0.9288108580036196,0.5555555555555556,0.0,False
+you know,0.03994159,0.0418729101335911,0.4444444444444445,0.0,False
 it felt like it had something to say,0.034791227,0.1490187369933319,0.4444444444444445,0.0,False
-It felt like it meant something which is so rare anymore,0.05133759,0.9884292549616008,0.2777777777777778,0.0,False
-With films this movie came with weight,0.11407687,0.9997210084039624,0.4444444444444445,0.0,False
-"It had meaning very early on, and it always felt relevant",0.01631277,0.0021575429569866,0.2972222222222222,0.0,False
-Every single minute felt really important to this filmmaker,0.06851897,6.184249137677241e-05,0.3531746031746031,0.0,False
-"And I'm seeing movies where you can tell the story means something to this director like they're telling this story because they have to get it off their chests like it's important to them, and I felt that there almost every minute of the farewell",0.059728492,0.9973618440232824,0.2222222222222222,0.0,False
-"If I were to get really nitpicky about the film, There are times where the pacing drags a little bit",0.13082063,0.9998606085146172,0.4409722222222222,0.082,False
-"There are some sequences that feel stretched on a little bit too long, particularly a third act ceremony that kind of goes and goes and goes",0.04234509,0.997354214299045,0.4097222222222222,0.0,False
-There's a karaoke scene,0.04165838,0.7634046058857004,0.4444444444444445,0.0,False
-"There's like a lot of speeches, and sometimes the speeches don't really feel like they add much to the story",0.02809576,0.9991143261126536,0.3333333333333333,0.102,False
-They just kind of feel like,0.024833864,0.999141983863014,0.1111111111111111,0.0,False
-"Well, we have to have this bit where the character says a speech because they're the lead character and they have to say a speech",0.04543531,0.9935308581514454,0.4444444444444445,0.0,False
-But then the speech doesn't really say much,0.037023053,0.9997267903043612,0.3333333333333333,0.0,False
+it felt like it meant something which is so rare anymore,0.05133759,0.9884292549616008,0.2777777777777778,0.0,False
+with films this movie came with weight,0.11407687,0.9997210084039624,0.4444444444444445,0.0,False
+"it had meaning very early on, and it always felt relevant",0.01631277,0.0021575429569866,0.2972222222222222,0.0,False
+every single minute felt really important to this filmmaker,0.06851897,6.184249137677241e-05,0.3531746031746031,0.0,False
+"and i'm seeing movies where you can tell the story means something to this director like they're telling this story because they have to get it off their chests like it's important to them, and i felt that there almost every minute of the farewell",0.059728492,0.9973618440232824,0.2222222222222222,0.0,False
+"if i were to get really nitpicky about the film, there are times where the pacing drags a little bit",0.13082063,0.9998606085146172,0.4409722222222222,0.082,False
+"there are some sequences that feel stretched on a little bit too long, particularly a third act ceremony that kind of goes and goes and goes",0.04234509,0.997354214299045,0.4097222222222222,0.0,False
+there's a karaoke scene,0.04165838,0.7634046058857004,0.4444444444444445,0.0,False
+"there's like a lot of speeches, and sometimes the speeches don't really feel like they add much to the story",0.02809576,0.9991143261126536,0.3333333333333333,0.102,False
+they just kind of feel like,0.024833864,0.999141983863014,0.1111111111111111,0.0,False
+"well, we have to have this bit where the character says a speech because they're the lead character and they have to say a speech",0.04543531,0.9935308581514454,0.4444444444444445,0.0,False
+but then the speech doesn't really say much,0.037023053,0.9997267903043612,0.3333333333333333,0.0,False
 and so it kind of feels like wasted time,0.24242763,0.9999324054118348,0.3333333333333333,0.252,False
-There's just a few scenes like that where it feels as if maybe a little bit could have been cut and that's about it honestly,0.08555053,0.9970888429529154,0.4050925925925926,0.071,False
+there's just a few scenes like that where it feels as if maybe a little bit could have been cut and that's about it honestly,0.08555053,0.9970888429529154,0.4050925925925926,0.071,False
 it's also kind of remarkable,0.025863936,0.0010147831271748,0.0694444444444444,0.0,False
-This movie is rated Pg,0.2145095,0.0176161689592895,0.4444444444444445,0.0,False
+this movie is rated pg,0.2145095,0.0176161689592895,0.4444444444444445,0.0,False
 like,0.022945397,0.0033461705430533,0.4444444444444445,0.0,False
-I can't even remember the last time I saw a Pg movie in the theaters that wasn't like a cartoon or like a family animated film like it's It's very strange,0.06412373,0.9981122989306882,0.4625,0.116,False
-"I'm not used to that, but it's welcome",0.023632111,0.0067017292233518,0.0,0.0,False
-I'm gonna give the farewell and a - guys,0.16620636,0.9487983810202026,0.4444444444444445,0.0,False
-Thank you so much as always for watching,0.02637897,0.0164083180445779,0.3333333333333333,0.0,False
-"Look forward to more reviews very soon, and if you like this, you can click right here and get stuck, mine eyes you",0.31629145,0.0069337801331637,0.261904761904762,0.078,False
+i can't even remember the last time i saw a pg movie in the theaters that wasn't like a cartoon or like a family animated film like it's it's very strange,0.06412373,0.9981122989306882,0.4625,0.116,False
+"i'm not used to that, but it's welcome",0.023632111,0.0067017292233518,0.0,0.0,False
+i'm gonna give the farewell and a - guys,0.16620636,0.9487983810202026,0.4444444444444445,0.0,False
+thank you so much as always for watching,0.02637897,0.0164083180445779,0.3333333333333333,0.0,False
+"look forward to more reviews very soon, and if you like this, you can click right here and get stuck, mine eyes you",0.31629145,0.0069337801331637,0.261904761904762,0.078,False

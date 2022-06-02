@@ -1,140 +1,140 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-Irishman is a new Netflix film that is also out in limited theatres release,0.032387726,0.1453723015515994,0.4837662337662338,0.128,False
-It is a mob drama,0.14508054,0.9094464104841818,0.5,0.0,False
-I don't really want to call it a mob drama,0.089041,0.7759409606720988,0.4,0.138,False
-Let's call it a mob,0.14508054,0.9979322060912984,0.5,0.0,False
+irishman is a new netflix film that is also out in limited theatres release,0.032387726,0.1453723015515994,0.4837662337662338,0.128,False
+it is a mob drama,0.14508054,0.9094464104841818,0.5,0.0,False
+i don't really want to call it a mob drama,0.089041,0.7759409606720988,0.4,0.138,False
+let's call it a mob,0.14508054,0.9979322060912984,0.5,0.0,False
 epic,0.033246122,0.0004460619675353,0.45,0.0,False
-Mob epic sounds a lot better,0.11600884,0.9310205863245692,0.35,0.0,False
-This is directed by the one and the only Martin Scorsese,0.03736641,0.0064484222483919,0.5,0.0,False
-"Martin Scorsese, and my humble opinion, is one of the greatest filmmakers of all time, This guy that's giving us classic after classic",0.03856816,0.0001434717920568,0.3583333333333333,0.0,False
-He has transcended a bunch of different genres,0.12180476,0.000223701551969,0.5,0.0,False
-"Probably saying that genre that he's most well-known for is gangster and mob movies, which is basically what the story of this movie is all about",0.14283726,0.9800922904505665,0.25,0.0,False
-Look at the talent for this movie,0.039254878,0.0003952477993888,0.5,0.0,False
-"Holy, you've got Robert De Niro you've got Al Pacino, you've got joke",0.20449556,0.0005585386071744,0.5,0.0,False
-Has you don't matter? You came out of retirement for this movie,0.29261994,0.0004907367112605,0.5,0.089,False
-"Somehow, this is the first time in history that Al Pacino and Martin Scorsese have worked together in a movie",0.029640866,0.0354384863350419,0.375,0.0,False
-"I don't know how that happened, but it is what it is",0.028782474,0.0023434123409702,0.5,0.0,False
-A bunch of other great actors and actresses in this movie that I'm not even remembering at the moment,0.047495455,0.0005718009560454,0.33125,0.0,False
-"I mean, you got an ax pack",0.16758743,0.9559250124740588,0.65625,0.0,False
-"Okay, I'm sorry, I call her Sookie, I know her",0.09924392,0.9938897825493358,0.5,0.116,False
-a sucky-suck He's in this movie,0.5958905,0.9992146603256148,0.5,0.0,False
-Ray Romano's in this movie,0.026722329,0.0003651467379062,0.5,0.0,False
-"Ultimately, what this movie is is, it is a mob story, But that's not really the point",0.1008549,0.9868287887982564,0.525,0.0,False
-The point of this movie is a journey,0.10031791,0.0882376555695874,0.5,0.0,False
-It's about one man's journey,0.037194733,0.0011974261863856,0.5,0.0,False
-"Robert De Niro's character, Robert De Niro plays a character named Frank, and I guess he's the Irishman in the title, and this movie is all about his life's journey",0.054534122,0.0029068088422255,0.5,0.0,False
-It's about taking him through his upbringing through the mobs,0.21715863,0.206130727896716,0.5,0.0,False
+mob epic sounds a lot better,0.11600884,0.9310205863245692,0.35,0.0,False
+this is directed by the one and the only martin scorsese,0.03736641,0.0064484222483919,0.5,0.0,False
+"martin scorsese, and my humble opinion, is one of the greatest filmmakers of all time, this guy that's giving us classic after classic",0.03856816,0.0001434717920568,0.3583333333333333,0.0,False
+he has transcended a bunch of different genres,0.12180476,0.000223701551969,0.5,0.0,False
+"probably saying that genre that he's most well-known for is gangster and mob movies, which is basically what the story of this movie is all about",0.14283726,0.9800922904505665,0.25,0.0,False
+look at the talent for this movie,0.039254878,0.0003952477993888,0.5,0.0,False
+"holy, you've got robert de niro you've got al pacino, you've got joke",0.20449556,0.0005585386071744,0.5,0.0,False
+has you don't matter? you came out of retirement for this movie,0.29261994,0.0004907367112605,0.5,0.089,False
+"somehow, this is the first time in history that al pacino and martin scorsese have worked together in a movie",0.029640866,0.0354384863350419,0.375,0.0,False
+"i don't know how that happened, but it is what it is",0.028782474,0.0023434123409702,0.5,0.0,False
+a bunch of other great actors and actresses in this movie that i'm not even remembering at the moment,0.047495455,0.0005718009560454,0.33125,0.0,False
+"i mean, you got an ax pack",0.16758743,0.9559250124740588,0.65625,0.0,False
+"okay, i'm sorry, i call her sookie, i know her",0.09924392,0.9938897825493358,0.5,0.116,False
+a sucky-suck he's in this movie,0.5958905,0.9992146603256148,0.5,0.0,False
+ray romano's in this movie,0.026722329,0.0003651467379062,0.5,0.0,False
+"ultimately, what this movie is is, it is a mob story, but that's not really the point",0.1008549,0.9868287887982564,0.525,0.0,False
+the point of this movie is a journey,0.10031791,0.0882376555695874,0.5,0.0,False
+it's about one man's journey,0.037194733,0.0011974261863856,0.5,0.0,False
+"robert de niro's character, robert de niro plays a character named frank, and i guess he's the irishman in the title, and this movie is all about his life's journey",0.054534122,0.0029068088422255,0.5,0.0,False
+it's about taking him through his upbringing through the mobs,0.21715863,0.206130727896716,0.5,0.0,False
 about these two key relationships that impact his life in a very big way,0.024490505,0.0002024519907441,0.5,0.0,False
-"One is Joe Pesci's character, who is kind of like the boss of bosses within the mob",0.0825038,0.1121111054617809,0.2,0.0,False
-"The other one is Al Pacino's character, who is playing the infamous Jimmy Hoffa",0.15918289,0.0653977449953707,0.65625,0.0,False
-"If you don't know who Jimmy Hoffa is, look up Teamsters, look up his disappearance",0.07690986,0.2477512867905753,0.5,0.0,False
-It's all out there on the Internet,0.032731086,0.9954659456558416,0.5,0.0,False
-The point is Jimmy Hoffa was a very big deal in the area that they're trying to depict here,0.030155903,0.994807298666964,0.5,0.0,False
-It's a live story,0.017006932,0.000783044840985,0.4318181818181818,0.0,False
-"It's a life journey, and it's about Robert De Niro his character, and you're following him through it",0.036336336,0.0002410767191416,0.5,0.0,False
-All you guys,0.040628307,0.001144317184839,0.5,0.0,False
+"one is joe pesci's character, who is kind of like the boss of bosses within the mob",0.0825038,0.1121111054617809,0.2,0.0,False
+"the other one is al pacino's character, who is playing the infamous jimmy hoffa",0.15918289,0.0653977449953707,0.65625,0.0,False
+"if you don't know who jimmy hoffa is, look up teamsters, look up his disappearance",0.07690986,0.2477512867905753,0.5,0.0,False
+it's all out there on the internet,0.032731086,0.9954659456558416,0.5,0.0,False
+the point is jimmy hoffa was a very big deal in the area that they're trying to depict here,0.030155903,0.994807298666964,0.5,0.0,False
+it's a live story,0.017006932,0.000783044840985,0.4318181818181818,0.0,False
+"it's a life journey, and it's about robert de niro his character, and you're following him through it",0.036336336,0.0002410767191416,0.5,0.0,False
+all you guys,0.040628307,0.001144317184839,0.5,0.0,False
 you got smoked up,0.24769363,0.7671093986421859,0.5,0.0,False
-I was like Cinema got some bad bars,0.20816301,0.999827023207084,0.8499999999999999,0.292,False
-You got some tan tours,0.23452865,0.999222885962218,0.5,0.0,False
-You got some Dumbo's,0.34388447,0.9991145817469428,0.5,0.0,False
-You got some elephants in the room that I kind of want to get out of the way before I get to the real meat and potatoes of this review,0.28972426,0.9908638211884888,0.3,0.0,False
-First one is Martin Scorsese's opinion about cinema and about Marvel movies,0.026722329,0.001407418344016,0.375,0.0,False
-Guys,0.0495556,0.0008084668265738,0.5,0.0,False
-I don't care,0.06771983,0.9998690156780038,0.5,0.568,False
-I don't really give a about Martin Scorsese,0.036851373,0.99725928345049,0.4,0.0,False
-"In his opinion, on all that To one man, he's entitled to his opinion",0.027752401,0.0004332168611006,0.5,0.0,False
-You're entitled to disagree with him,0.062925026,0.0575153499021894,0.5,0.299,False
-I'm not gonna really be focusing on that drama in this review,0.045091953,0.9999577393017997,0.4,0.0,False
-I don't really see why that would have my approach with this lubing the other elephant in the room,0.31639808,0.9993639735117812,0.48125,0.0,False
-Let's call it The tantor of the situation is the run time,0.052935857,0.9520682022102286,0.5,0.0,False
-This is a very long movie,0.07211506,0.0397097673533662,0.5325,0.0,False
-Like an exceedingly long movie,0.033932835,0.0224622465632187,0.525,0.0,False
-"This is a three and a half hour movie and it definitely earns every single second of that run time and my humble opinion, if you don't like long movies, if you don't like mob movies, if you don't like long movies that have a lot of scenes where characters are just sitting and talking",0.09709594,0.0,0.5384353741496599,0.105,False
-I feel like this is not going to be your cup of tea,0.05493369,0.9992118290376536,0.5,0.0,False
-You guys know me,0.04165838,0.0005110325754879,0.5,0.0,False
-I don't really care about how long a movie is,0.09065199,0.9999955295453244,0.4625,0.24,False
-I care about how long it feels,0.06412373,0.0004476713312185,0.525,0.0,False
-It's all about the execution,0.13296685,0.9501868262615012,0.5,0.0,False
-It's all about the journey,0.02124131,0.008451454170359,0.5,0.0,False
-"and like, I'm going to be using the word journey a lot",0.03358948,0.0255751731690224,0.5,0.0,False
-"in this review, The other elephant in the room is obviously the Cgi D aging, because obviously you're depicting these actors in a certain era of their lives where they have to be younger",0.22687212,0.1040474185299869,0.4910714285714285,0.0,False
+i was like cinema got some bad bars,0.20816301,0.999827023207084,0.8499999999999999,0.292,False
+you got some tan tours,0.23452865,0.999222885962218,0.5,0.0,False
+you got some dumbo's,0.34388447,0.9991145817469428,0.5,0.0,False
+you got some elephants in the room that i kind of want to get out of the way before i get to the real meat and potatoes of this review,0.28972426,0.9908638211884888,0.3,0.0,False
+first one is martin scorsese's opinion about cinema and about marvel movies,0.026722329,0.001407418344016,0.375,0.0,False
+guys,0.0495556,0.0008084668265738,0.5,0.0,False
+i don't care,0.06771983,0.9998690156780038,0.5,0.568,False
+i don't really give a about martin scorsese,0.036851373,0.99725928345049,0.4,0.0,False
+"in his opinion, on all that to one man, he's entitled to his opinion",0.027752401,0.0004332168611006,0.5,0.0,False
+you're entitled to disagree with him,0.062925026,0.0575153499021894,0.5,0.299,False
+i'm not gonna really be focusing on that drama in this review,0.045091953,0.9999577393017997,0.4,0.0,False
+i don't really see why that would have my approach with this lubing the other elephant in the room,0.31639808,0.9993639735117812,0.48125,0.0,False
+let's call it the tantor of the situation is the run time,0.052935857,0.9520682022102286,0.5,0.0,False
+this is a very long movie,0.07211506,0.0397097673533662,0.5325,0.0,False
+like an exceedingly long movie,0.033932835,0.0224622465632187,0.525,0.0,False
+"this is a three and a half hour movie and it definitely earns every single second of that run time and my humble opinion, if you don't like long movies, if you don't like mob movies, if you don't like long movies that have a lot of scenes where characters are just sitting and talking",0.09709594,0.0,0.5384353741496599,0.105,False
+i feel like this is not going to be your cup of tea,0.05493369,0.9992118290376536,0.5,0.0,False
+you guys know me,0.04165838,0.0005110325754879,0.5,0.0,False
+i don't really care about how long a movie is,0.09065199,0.9999955295453244,0.4625,0.24,False
+i care about how long it feels,0.06412373,0.0004476713312185,0.525,0.0,False
+it's all about the execution,0.13296685,0.9501868262615012,0.5,0.0,False
+it's all about the journey,0.02124131,0.008451454170359,0.5,0.0,False
+"and like, i'm going to be using the word journey a lot",0.03358948,0.0255751731690224,0.5,0.0,False
+"in this review, the other elephant in the room is obviously the cgi d aging, because obviously you're depicting these actors in a certain era of their lives where they have to be younger",0.22687212,0.1040474185299869,0.4910714285714285,0.0,False
 and obviously all of these actors are older,0.1731117,0.95889840128792,0.4583333333333333,0.0,False
-"Now is the Cgi D aging noticeable? Yeah, it's noticeable",0.030327583,0.2095946746036509,0.5,0.0,False
-I mean you can't not notice it,0.039254878,0.0750153023663547,0.65625,0.0,False
-I think our eyes are trained to notice these things,0.021380141,0.0010369666665613,0.5,0.0,False
-We're all in general,0.019158829,0.000912598617485,0.475,0.0,False
-"After a few minutes, I didn't even really care about it",0.14508054,0.999994754666514,0.5,0.221,False
-I was so engaged and engrossed in what was going on with the story,0.08689302,0.0022137989584079,0.5,0.0,False
-"The characters, the dialogue",0.013952625,0.0002693597957228,0.5,0.0,False
-"After a while, I didn't really think about it, but it is one of those things that is gonna be kind of glaring when you first start watching the movie",0.05373499,0.9999771112720608,0.3249999999999999,0.0,False
-I don't think it's that big a deal on Schwartz,0.03753809,0.9831536280094132,0.5,0.0,False
-Ac is an absolute master of his craft,0.03856816,0.0009679428463694,0.4,0.0,False
-"Obviously, I believe that because I called him one of the best filmmakers of all time, one of those movies where you can tell that there's a master behind the camera",0.04406188,0.0001561082772733,0.4,0.0,False
-That there's somebody who has decades worth of putting out great art,0.12631269,0.0008809477983815,0.2249999999999999,0.0,False
-That's that's what this movie is,0.05613239,0.1837632251695896,0.5,0.0,False
-This movie has great are,0.04268845,0.0050480374197322,0.0999999999999999,0.0,False
+"now is the cgi d aging noticeable? yeah, it's noticeable",0.030327583,0.2095946746036509,0.5,0.0,False
+i mean you can't not notice it,0.039254878,0.0750153023663547,0.65625,0.0,False
+i think our eyes are trained to notice these things,0.021380141,0.0010369666665613,0.5,0.0,False
+we're all in general,0.019158829,0.000912598617485,0.475,0.0,False
+"after a few minutes, i didn't even really care about it",0.14508054,0.999994754666514,0.5,0.221,False
+i was so engaged and engrossed in what was going on with the story,0.08689302,0.0022137989584079,0.5,0.0,False
+"the characters, the dialogue",0.013952625,0.0002693597957228,0.5,0.0,False
+"after a while, i didn't really think about it, but it is one of those things that is gonna be kind of glaring when you first start watching the movie",0.05373499,0.9999771112720608,0.3249999999999999,0.0,False
+i don't think it's that big a deal on schwartz,0.03753809,0.9831536280094132,0.5,0.0,False
+ac is an absolute master of his craft,0.03856816,0.0009679428463694,0.4,0.0,False
+"obviously, i believe that because i called him one of the best filmmakers of all time, one of those movies where you can tell that there's a master behind the camera",0.04406188,0.0001561082772733,0.4,0.0,False
+that there's somebody who has decades worth of putting out great art,0.12631269,0.0008809477983815,0.2249999999999999,0.0,False
+that's that's what this movie is,0.05613239,0.1837632251695896,0.5,0.0,False
+this movie has great are,0.04268845,0.0050480374197322,0.0999999999999999,0.0,False
 "in terms of the camerawork, there is not a single movement, not a single angle, not a single shot that feels wasted",0.13745339,0.9998336394800038,0.5116071428571428,0.132,False
-There's not a single frame that feels out of place,0.04131502,0.9999918935755217,0.4821428571428571,0.0,False
-Movie is eggs on the 10th omelet cities,0.13835071,0.8790696411601796,0.5,0.0,False
-"whatever you want to call it, It's a gorgeous, beautiful looking movie with great lights",0.034791227,0.0014924463919466,0.1083333333333333,0.0,False
-Those movies where the camerawork has a bunch of different shots that elevate scenes that you didn't think that it would elevate the same because you didn't think that you would go for that type of shot,0.07251463,0.9955982115081782,0.5,0.0,False
-"A lot of shots in this movie where Scorsese obviously wants the scene to breathe a little bit, and he wants things to marinate",0.1609341,0.040147722896423,0.4645833333333333,0.0,False
-"You wants things to wrap, so it lingers and there are a lot of really great lingering moments and lingering shots in this movie in regards to the editing for this movie, I mean, good God, it's just it's it's It's amazing",0.1024659,4.70887892500705e-05,0.30125,0.0,False
-It's it's Oscar worthy,0.03461955,8.878322985820255e-05,0.3333333333333333,0.0,False
-Just like everything else,0.017492844,0.0022238723829436,0.5,0.0,False
-I don't even remember who did the editing for this movie,0.036336336,0.9998407326014226,0.5,0.0,False
-I can't remember their name,0.02655065,0.9987119725988548,0.5,0.0,False
-"I'm sorry that I can't remember your name, but I feel like I want to send you flowers",0.042001735,0.004917231915923,0.75,0.055,False
-That's of course your adieu,0.052136723,0.0024841422541594,0.5,0.0,False
-That would be weird,0.05413456,0.9858276453751628,0.75,0.362,False
-"but then again, I guess I could send you the flowers",0.042001735,0.1788390491474038,0.5,0.0,False
-You could just give it to your wife or your girlfriend or something,0.124380715,0.9831465348879944,0.5,0.0,False
-All right,0.02054715,0.0010845621073413,0.3571428571428571,0.0,False
-"Well, when the this movie is flawless, it is seamless",0.23101798,0.0019857759669191,0.2249999999999999,0.0,False
-"The transitions are great, the way that the scenes are cut together, the way the music flows",0.06132676,0.0002330000976943,0.0999999999999999,0.099,False
+there's not a single frame that feels out of place,0.04131502,0.9999918935755217,0.4821428571428571,0.0,False
+movie is eggs on the 10th omelet cities,0.13835071,0.8790696411601796,0.5,0.0,False
+"whatever you want to call it, it's a gorgeous, beautiful looking movie with great lights",0.034791227,0.0014924463919466,0.1083333333333333,0.0,False
+those movies where the camerawork has a bunch of different shots that elevate scenes that you didn't think that it would elevate the same because you didn't think that you would go for that type of shot,0.07251463,0.9955982115081782,0.5,0.0,False
+"a lot of shots in this movie where scorsese obviously wants the scene to breathe a little bit, and he wants things to marinate",0.1609341,0.040147722896423,0.4645833333333333,0.0,False
+"you wants things to wrap, so it lingers and there are a lot of really great lingering moments and lingering shots in this movie in regards to the editing for this movie, i mean, good god, it's just it's it's it's amazing",0.1024659,4.70887892500705e-05,0.30125,0.0,False
+it's it's oscar worthy,0.03461955,8.878322985820255e-05,0.3333333333333333,0.0,False
+just like everything else,0.017492844,0.0022238723829436,0.5,0.0,False
+i don't even remember who did the editing for this movie,0.036336336,0.9998407326014226,0.5,0.0,False
+i can't remember their name,0.02655065,0.9987119725988548,0.5,0.0,False
+"i'm sorry that i can't remember your name, but i feel like i want to send you flowers",0.042001735,0.004917231915923,0.75,0.055,False
+that's of course your adieu,0.052136723,0.0024841422541594,0.5,0.0,False
+that would be weird,0.05413456,0.9858276453751628,0.75,0.362,False
+"but then again, i guess i could send you the flowers",0.042001735,0.1788390491474038,0.5,0.0,False
+you could just give it to your wife or your girlfriend or something,0.124380715,0.9831465348879944,0.5,0.0,False
+all right,0.02054715,0.0010845621073413,0.3571428571428571,0.0,False
+"well, when the this movie is flawless, it is seamless",0.23101798,0.0019857759669191,0.2249999999999999,0.0,False
+"the transitions are great, the way that the scenes are cut together, the way the music flows",0.06132676,0.0002330000976943,0.0999999999999999,0.099,False
 even though the movie is definitely jumping around to different locations in different eras,0.03753809,0.1408571423292034,0.5,0.0,False
-Never get lost in it and you never feel like you're out of a scene,0.057331093,7.161668390374646e-05,0.5,0.124,False
-You always know exactly where you're supposed to be,0.028610796,4.410848613297743e-05,0.375,0.0,False
-Every single actor in this movie is at the top of their game,0.061726328,0.000594212835486,0.4952380952380952,0.0,False
-They bring their a plus plus a game,0.049898956,0.0005934975627379,0.7,0.0,False
-Robert De Niro This is one of the best performances that you've seen from him in a really long time,0.033074442,0.0001513397922859,0.2625,0.0,False
-"His character is so restrained, so held back",0.20376207,0.8908128699263991,0.5,0.0,False
-"He has to do a lot of acting in this movie with his eyes, with his facial expressions",0.19634613,0.0010181013478301,0.5,0.0,False
+never get lost in it and you never feel like you're out of a scene,0.057331093,7.161668390374646e-05,0.5,0.124,False
+you always know exactly where you're supposed to be,0.028610796,4.410848613297743e-05,0.375,0.0,False
+every single actor in this movie is at the top of their game,0.061726328,0.000594212835486,0.4952380952380952,0.0,False
+they bring their a plus plus a game,0.049898956,0.0005934975627379,0.7,0.0,False
+robert de niro this is one of the best performances that you've seen from him in a really long time,0.033074442,0.0001513397922859,0.2625,0.0,False
+"his character is so restrained, so held back",0.20376207,0.8908128699263991,0.5,0.0,False
+"he has to do a lot of acting in this movie with his eyes, with his facial expressions",0.19634613,0.0010181013478301,0.5,0.0,False
 a lot of unsaid morality and turmoil going on with his character,0.18549223,0.9284878651296012,0.5,0.185,False
-"Like every single scene, Robert De Niro is killing it",0.38965073,0.987547548501006,0.5357142857142857,0.295,False
-"I think with Joe Pesci, he came out of retirement",0.0495556,0.8526022248439618,0.5,0.0,False
-He is so cold,0.2224569,0.9999835487267936,0.8,0.0,False
-He is so in control in this role,0.087430015,0.04012295657752,0.5,0.0,False
-"If you're gonna come out of retirement, you better be like Michael Jordan",0.09709594,0.0081505627676572,0.25,0.0,False
-"Drop to 55 at the garden, because that's what Pesci was in",0.13700475,0.9880795624104382,0.5,0.16,False
-It's Louie,0.010898319,3.588284952980056e-05,0.5,0.0,False
-"Hard to say which actor stole the show, But I guess for me, maybe Al Pacino, because he's playing Jimmy Hoffa and he is the perfect type of over-the-top that Jimmy Hoffa's character deserves",0.21109697,0.9977076700544568,0.4652777777777778,0.03,False
-And that's one of the best things about this movie is how well-written it is,0.029984225,0.0007346149153322,0.0,0.0,False
-how good the script is dialogue in this movie and the acting blends so great together that you just watch scenes where characters are talking and I was hanging on to almost every word,0.087430015,0.0005715029257337,0.25,0.0,False
-"You know, it is a mob story",0.13146462,0.9862016436133266,0.5,0.0,False
-I wouldn't necessarily call it your standard-issue mob story,0.13251819,0.9848661101804947,0.5,0.0,False
-"This is a mob story that has a lot more in its mind than just the high life and about money and women, crime and illegal stuff",0.15042676,0.0399727194973873,0.4733333333333333,0.221,False
-"I mean, Yeah, that stuff's in there, but it's not the point feels a lot more reflective, a lot more meditative course--a",0.021657806,0.9783379350206896,0.3854166666666667,0.0,False
-She definitely wants you to sit here with these characters,0.15130237,0.001407239525829,0.4,0.0,False
-He wants you to appreciate their thought process,0.029125832,0.0015028774528565,0.4,0.0,False
-"He wants to have some thought-provoking conversations about mortality and about loneliness, and about the impact of a life's worth of decisions that maybe you didn't realize it at the time how it would affect you at the end If other mob stories are about living fast and dying young",0.073313765,0.946881848922832,0.4104166666666666,0.053,False
-This movie definitely addresses the consequences of living,0.043718524,8.079601750439312e-05,0.5,0.0,False
-"Oh, some of the impact that this kind of life can have on somebody",0.04234509,0.0072284569832287,0.2,0.0,False
-It's possible to just give Oscars to everybody,0.047495455,0.016377391492081,0.5,0.0,False
-"like, just give Oscars to every single person involved with this movie Like just clean sweep, It, Retire the King",0.16035037,0.963021233407982,0.4261904761904762,0.0,False
-That shit's nothing else I could say about,0.8086813,0.9955887043412348,0.6,0.0,False
-It's just just give them the Oscar even though it is a long movie,0.060527626,0.8479813542700024,0.525,0.0,False
-"Definitely, I feel like there was only one section of the movie that dragged just a tiny bit, one of the six thousand middles of this movie where they're focusing more on Jimmy Hoffa's legal issues",0.042001735,0.9999652496656548,0.43,0.03,False
-He dragged for just a second,0.09870692,0.9999628058170988,0.5,0.194,False
-But it's just it's just a second,0.021796638,0.9236046980783064,0.5,0.0,False
-It's like an main issue I have in this movie is that there is a relationship,0.06931809,0.0354710312450806,0.4166666666666667,0.0,False
-There's a conflict and attention of an emotional nature between Robert De Niro's character and between one of his daughters,0.065721996,0.0103933600753945,0.5,0.105,False
-"Older version of his daughter is played by Anna Paquin, And she's not really given that much to do the way that they hinted and built this up",0.10956893,0.9857900041467936,0.4555555555555555,0.0,False
-"I thought that would be more of an emotional payoff, but there really isn't don't have any more words",0.046122026,0.9950169629912516,0.35,0.0,False
-"I, I can't say enough about how amazing this movie is",0.038911518,0.000509482817867,0.35,0.0,False
-The Irishman is one of the masterpieces of 2019,0.092262976,0.0001118507759845,0.5,0.0,False
-I absolutely loved it,0.04165838,0.0023180201584126,0.15,0.0,False
-This one deserves the highest praise of Superman Prime,0.05773066,0.0001125660487326,0.5,0.0,False
-"What is your favorite Scorsese film that he's ever made? Let me know in the comment section down below, please like subscribe to the Superfan show",0.028439116,0.0116144200654987,0.4138888888888888,0.0,False
+"like every single scene, robert de niro is killing it",0.38965073,0.987547548501006,0.5357142857142857,0.295,False
+"i think with joe pesci, he came out of retirement",0.0495556,0.8526022248439618,0.5,0.0,False
+he is so cold,0.2224569,0.9999835487267936,0.8,0.0,False
+he is so in control in this role,0.087430015,0.04012295657752,0.5,0.0,False
+"if you're gonna come out of retirement, you better be like michael jordan",0.09709594,0.0081505627676572,0.25,0.0,False
+"drop to 55 at the garden, because that's what pesci was in",0.13700475,0.9880795624104382,0.5,0.16,False
+it's louie,0.010898319,3.588284952980056e-05,0.5,0.0,False
+"hard to say which actor stole the show, but i guess for me, maybe al pacino, because he's playing jimmy hoffa and he is the perfect type of over-the-top that jimmy hoffa's character deserves",0.21109697,0.9977076700544568,0.4652777777777778,0.03,False
+and that's one of the best things about this movie is how well-written it is,0.029984225,0.0007346149153322,0.0,0.0,False
+how good the script is dialogue in this movie and the acting blends so great together that you just watch scenes where characters are talking and i was hanging on to almost every word,0.087430015,0.0005715029257337,0.25,0.0,False
+"you know, it is a mob story",0.13146462,0.9862016436133266,0.5,0.0,False
+i wouldn't necessarily call it your standard-issue mob story,0.13251819,0.9848661101804947,0.5,0.0,False
+"this is a mob story that has a lot more in its mind than just the high life and about money and women, crime and illegal stuff",0.15042676,0.0399727194973873,0.4733333333333333,0.221,False
+"i mean, yeah, that stuff's in there, but it's not the point feels a lot more reflective, a lot more meditative course--a",0.021657806,0.9783379350206896,0.3854166666666667,0.0,False
+she definitely wants you to sit here with these characters,0.15130237,0.001407239525829,0.4,0.0,False
+he wants you to appreciate their thought process,0.029125832,0.0015028774528565,0.4,0.0,False
+"he wants to have some thought-provoking conversations about mortality and about loneliness, and about the impact of a life's worth of decisions that maybe you didn't realize it at the time how it would affect you at the end if other mob stories are about living fast and dying young",0.073313765,0.946881848922832,0.4104166666666666,0.053,False
+this movie definitely addresses the consequences of living,0.043718524,8.079601750439312e-05,0.5,0.0,False
+"oh, some of the impact that this kind of life can have on somebody",0.04234509,0.0072284569832287,0.2,0.0,False
+it's possible to just give oscars to everybody,0.047495455,0.016377391492081,0.5,0.0,False
+"like, just give oscars to every single person involved with this movie like just clean sweep, it, retire the king",0.16035037,0.963021233407982,0.4261904761904762,0.0,False
+that shit's nothing else i could say about,0.8086813,0.9955887043412348,0.6,0.0,False
+it's just just give them the oscar even though it is a long movie,0.060527626,0.8479813542700024,0.525,0.0,False
+"definitely, i feel like there was only one section of the movie that dragged just a tiny bit, one of the six thousand middles of this movie where they're focusing more on jimmy hoffa's legal issues",0.042001735,0.9999652496656548,0.43,0.03,False
+he dragged for just a second,0.09870692,0.9999628058170988,0.5,0.194,False
+but it's just it's just a second,0.021796638,0.9236046980783064,0.5,0.0,False
+it's like an main issue i have in this movie is that there is a relationship,0.06931809,0.0354710312450806,0.4166666666666667,0.0,False
+there's a conflict and attention of an emotional nature between robert de niro's character and between one of his daughters,0.065721996,0.0103933600753945,0.5,0.105,False
+"older version of his daughter is played by anna paquin, and she's not really given that much to do the way that they hinted and built this up",0.10956893,0.9857900041467936,0.4555555555555555,0.0,False
+"i thought that would be more of an emotional payoff, but there really isn't don't have any more words",0.046122026,0.9950169629912516,0.35,0.0,False
+"i, i can't say enough about how amazing this movie is",0.038911518,0.000509482817867,0.35,0.0,False
+the irishman is one of the masterpieces of 2019,0.092262976,0.0001118507759845,0.5,0.0,False
+i absolutely loved it,0.04165838,0.0023180201584126,0.15,0.0,False
+this one deserves the highest praise of superman prime,0.05773066,0.0001125660487326,0.5,0.0,False
+"what is your favorite scorsese film that he's ever made? let me know in the comment section down below, please like subscribe to the superfan show",0.028439116,0.0116144200654987,0.4138888888888888,0.0,False
 "and as always, if you like what you see, tell me how you feel",0.049898956,0.0003835352081387,0.5,0.0,False
-I'll stay tuned to hear more from the Man of Steel,0.053335425,0.0002975236601794,0.25,0.0,False
+i'll stay tuned to hear more from the man of steel,0.053335425,0.0002975236601794,0.25,0.0,False

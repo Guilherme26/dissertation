@@ -1,87 +1,87 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello, everybody, Its Josie here today",0.029640866,0.0177604273079743,0.5,0.0,False
-I'm gonna do something a little bit different,0.1019289,0.1495647057824186,0.546875,0.0,False
-I am NOT reviewing a book,0.027409043,0.8546805063090427,0.5,0.0,False
-"I am reviewing a film, but it's got a book in the title",0.032559406,0.9678413552680072,0.5,0.0,False
-"Um, So the film I'm gonna be reviewing is a one called book smart, Um, I just went to see it and I loved it",0.05133759,0.0159627402038868,0.2714285714285714,0.0,False
-"I thought it was fantastic, so I thought I would share my thoughts in my review with all of you and seniors",0.018464668,0.2338991956978306,0.3,0.0,False
-"You know, booktube",0.14687516,0.8847527729431623,0.5,0.0,False
-I saw the word book in the title and I figured it might be something that I would enjoy and turns out I did so book,0.03599298,0.9803168537152424,0.3,0.0,False
+"hello, everybody, its josie here today",0.029640866,0.0177604273079743,0.5,0.0,False
+i'm gonna do something a little bit different,0.1019289,0.1495647057824186,0.546875,0.0,False
+i am not reviewing a book,0.027409043,0.8546805063090427,0.5,0.0,False
+"i am reviewing a film, but it's got a book in the title",0.032559406,0.9678413552680072,0.5,0.0,False
+"um, so the film i'm gonna be reviewing is a one called book smart, um, i just went to see it and i loved it",0.05133759,0.0159627402038868,0.2714285714285714,0.0,False
+"i thought it was fantastic, so i thought i would share my thoughts in my review with all of you and seniors",0.018464668,0.2338991956978306,0.3,0.0,False
+"you know, booktube",0.14687516,0.8847527729431623,0.5,0.0,False
+i saw the word book in the title and i figured it might be something that i would enjoy and turns out i did so book,0.03599298,0.9803168537152424,0.3,0.0,False
 smart,0.029125832,0.0024913979114759,0.3928571428571428,0.0,False
-"Um, it is a film about",0.03221605,0.8592547057213185,0.5,0.0,False
-So you've got Molly and Amy and they're the two main characters and they are very studious,0.048868883,0.001599185966506,0.4083333333333333,0.0,False
-"They're very serious young women, and the film starts on the second last day of school, so technically it's the last day of high school and the following day is gonna be graduation, and everybody's gonna be going off to, you know, their respective lives, colleges, universities, whatever they're gonna be doing after school, and Molly and Amy have spent all of their school career",0.031014297,0.0018603371628256,0.5136666666666667,0.024,False
-"You know, studying hard",0.08850401,0.9855186266940216,0.6458333333333334,0.318,False
-"Be very serious about it, not being distracted by parties by anything that was going on that other people were getting up to, because they wanted to get the best grades and they wanted to get into the best universities and kind of set themselves up for you know, their adult life, which is really cool and they're very happy with this",0.033074442,0.0005690962043512,0.2817708333333333,0.021,False
-They're their best friends,0.0253489,5.496037503004714e-05,0.0,0.0,False
-They have a really kind of sweet friendship,0.043718524,0.0008650596121865,0.2625,0.0,False
-"They kind of do everything together and they've been very happy with this, and in fact, I would say Molly, Um, kind of Lords a little bit over other people And she",0.084745035,0.0027405973125747,0.3112499999999999,0.0,False
+"um, it is a film about",0.03221605,0.8592547057213185,0.5,0.0,False
+so you've got molly and amy and they're the two main characters and they are very studious,0.048868883,0.001599185966506,0.4083333333333333,0.0,False
+"they're very serious young women, and the film starts on the second last day of school, so technically it's the last day of high school and the following day is gonna be graduation, and everybody's gonna be going off to, you know, their respective lives, colleges, universities, whatever they're gonna be doing after school, and molly and amy have spent all of their school career",0.031014297,0.0018603371628256,0.5136666666666667,0.024,False
+"you know, studying hard",0.08850401,0.9855186266940216,0.6458333333333334,0.318,False
+"be very serious about it, not being distracted by parties by anything that was going on that other people were getting up to, because they wanted to get the best grades and they wanted to get into the best universities and kind of set themselves up for you know, their adult life, which is really cool and they're very happy with this",0.033074442,0.0005690962043512,0.2817708333333333,0.021,False
+they're their best friends,0.0253489,5.496037503004714e-05,0.0,0.0,False
+they have a really kind of sweet friendship,0.043718524,0.0008650596121865,0.2625,0.0,False
+"they kind of do everything together and they've been very happy with this, and in fact, i would say molly, um, kind of lords a little bit over other people and she",0.084745035,0.0027405973125747,0.3112499999999999,0.0,False
 she's off,0.1731117,0.9738604402880412,0.5,0.0,False
-"You know, I think it's Yale that she's off to, and she kind of just",0.044748597,0.9374998602891768,0.2,0.0,False
+"you know, i think it's yale that she's off to, and she kind of just",0.044748597,0.9374998602891768,0.2,0.0,False
 she's very kind of proud as you should be for getting into a good university,0.05093802,0.0063744795492414,0.1199999999999999,0.0,False
-"And you know she kind of looks down a little bit on some of her so-called like slacker or party kids in the school and this is all fine and dandy until on the last day, Uh, they kind of make a shocking discovery, so they discover that in spite of the fact that some of their classmates have had a great time, they've partied, they've done what they want",0.17380224,0.0132538553853641,0.4328993055555555,0.074,False
-"They've also gotten good grades and gotten into good universities, And this is just a shock and a revelation to them, Molly, and Amy, particularly Molly, and they decide that what they're gonna do is gonna have one night, and they are going to kind of make up this four years of where they've not gone to parties",0.038053125,0.0001811546417747,0.2291666666666666,0.075,False
-They've not had this sort of kind of teen high school experience,0.04818217,0.9997723794012447,0.3733333333333333,0.0,False
-"They're gonna make it up in one night, and they're gonna go into the coolest party and they're just gonna you know, be teenagers for one night now",0.09387396,0.0020232809645009,0.5,0.0,False
-"Kind of as you can imagine, hilarity ensues on this night because nothing really goes to plan and it is a",0.09548495,0.847245565727497,0.3,0.0,False
-It is a very funny film,0.055333257,7.573444303218535e-05,0.3375,0.0,False
-"I laughed out loud, and there were people in the in the theater with me just laughing out loud",0.085282035,0.1953032127230287,0.35,0.0,False
-At lots of points,0.018187003,0.0002700926890034,0.5,0.0,False
-Some of them are hilarious,0.1530536,0.0001606786235287,0.25,0.0,False
-It's they're very kind of,0.042001735,0.0030948294477331,0.1099999999999999,0.0,False
-It's very high and I love kind of teen,0.263611,0.0249632467394474,0.3365,0.0,False
-I'm gonna put my hands up,0.22510603,0.9729474840800448,0.5,0.0,False
-"I love kind of teen American high school films anyway, But this one is very funny",0.11729682,4.458824351678445e-05,0.3679166666666666,0.0,False
-"What I love about this one as well, is that the main character Molly, she isn't your stick-thin model type, And then Amy, she is a lesbian",0.5550837,0.0003675251542817,0.3333333333333333,0.0,True
-She's out,0.09763293,0.1560345314486455,0.5,0.0,False
-She's proud,0.037194733,0.0035788026417342,0.0999999999999999,0.0,False
-She's been out for two years,0.021102477,0.1420737616516963,0.5,0.0,False
-She's trying to find a girlfriend,0.087430015,0.9735070128872244,0.5,0.0,False
-"Um, and the block does not hinge on coming out either, And then you've got",0.21539254,0.998597258627758,0.5,0.172,False
+"and you know she kind of looks down a little bit on some of her so-called like slacker or party kids in the school and this is all fine and dandy until on the last day, uh, they kind of make a shocking discovery, so they discover that in spite of the fact that some of their classmates have had a great time, they've partied, they've done what they want",0.17380224,0.0132538553853641,0.4328993055555555,0.074,False
+"they've also gotten good grades and gotten into good universities, and this is just a shock and a revelation to them, molly, and amy, particularly molly, and they decide that what they're gonna do is gonna have one night, and they are going to kind of make up this four years of where they've not gone to parties",0.038053125,0.0001811546417747,0.2291666666666666,0.075,False
+they've not had this sort of kind of teen high school experience,0.04818217,0.9997723794012447,0.3733333333333333,0.0,False
+"they're gonna make it up in one night, and they're gonna go into the coolest party and they're just gonna you know, be teenagers for one night now",0.09387396,0.0020232809645009,0.5,0.0,False
+"kind of as you can imagine, hilarity ensues on this night because nothing really goes to plan and it is a",0.09548495,0.847245565727497,0.3,0.0,False
+it is a very funny film,0.055333257,7.573444303218535e-05,0.3375,0.0,False
+"i laughed out loud, and there were people in the in the theater with me just laughing out loud",0.085282035,0.1953032127230287,0.35,0.0,False
+at lots of points,0.018187003,0.0002700926890034,0.5,0.0,False
+some of them are hilarious,0.1530536,0.0001606786235287,0.25,0.0,False
+it's they're very kind of,0.042001735,0.0030948294477331,0.1099999999999999,0.0,False
+it's very high and i love kind of teen,0.263611,0.0249632467394474,0.3365,0.0,False
+i'm gonna put my hands up,0.22510603,0.9729474840800448,0.5,0.0,False
+"i love kind of teen american high school films anyway, but this one is very funny",0.11729682,4.458824351678445e-05,0.3679166666666666,0.0,False
+"what i love about this one as well, is that the main character molly, she isn't your stick-thin model type, and then amy, she is a lesbian",0.5550837,0.0003675251542817,0.3333333333333333,0.0,True
+she's out,0.09763293,0.1560345314486455,0.5,0.0,False
+she's proud,0.037194733,0.0035788026417342,0.0999999999999999,0.0,False
+she's been out for two years,0.021102477,0.1420737616516963,0.5,0.0,False
+she's trying to find a girlfriend,0.087430015,0.9735070128872244,0.5,0.0,False
+"um, and the block does not hinge on coming out either, and then you've got",0.21539254,0.998597258627758,0.5,0.172,False
 you've got some great queer up in this book,0.29558796,0.006472508114032,0.0999999999999999,0.0,True
-So you've got Amy and then you've got Amy's kind of love interest,0.045091953,0.000367882813989,0.2249999999999999,0.0,False
-Then you've got two side characters,0.030670939,0.7541488302515734,0.5,0.0,False
-"They're gay guys, they're fabulous",0.34684154,0.0010038613836155,0.2958333333333333,0.0,True
-They're kind of theatre and they're interested of doing these theater performances very flamboyant dresses,0.13431281,0.0074249261097398,0.3249999999999999,0.0,False
-So there's some really great queer rep as well,0.29756662,0.0004187002974089,0.0999999999999999,0.0,True
-"The parents are hilarious, Lisa Kudrow",0.12051678,0.0001333474608917,0.25,0.0,False
-"as Amy's mother is hysterical, It's like a really small cameo, but it's very funny and I just kind of I loved the film",0.15918289,0.0008496206348191,0.4625,0.032,False
-I just thought it was fun,0.02792408,0.0223520328260079,0.35,0.0,False
-It was sweeted at heart to it,0.019436494,0.0018837638736573,0.5,0.0,False
+so you've got amy and then you've got amy's kind of love interest,0.045091953,0.000367882813989,0.2249999999999999,0.0,False
+then you've got two side characters,0.030670939,0.7541488302515734,0.5,0.0,False
+"they're gay guys, they're fabulous",0.34684154,0.0010038613836155,0.2958333333333333,0.0,True
+they're kind of theatre and they're interested of doing these theater performances very flamboyant dresses,0.13431281,0.0074249261097398,0.3249999999999999,0.0,False
+so there's some really great queer rep as well,0.29756662,0.0004187002974089,0.0999999999999999,0.0,True
+"the parents are hilarious, lisa kudrow",0.12051678,0.0001333474608917,0.25,0.0,False
+"as amy's mother is hysterical, it's like a really small cameo, but it's very funny and i just kind of i loved the film",0.15918289,0.0008496206348191,0.4625,0.032,False
+i just thought it was fun,0.02792408,0.0223520328260079,0.35,0.0,False
+it was sweeted at heart to it,0.019436494,0.0018837638736573,0.5,0.0,False
 it just it was,0.020685982,0.9185914347355232,0.5,0.0,False
-It kind of talks about friendship and first love and there's just so many wonderful wonderful elements of it and I highly recommend it,0.019575324,0.0004341094698007,0.2135714285714285,0.0,False
-"The other thing I love about this film is that you've got two female leads, which is fantastic, and most of the storyline focuses on female characters as well as well as the director",0.05133759,0.0032685626505803,0.39375,0.0,False
-"So I'm trying to make a conscious effort to not only watch films that have queer representation, but also films that have female directors, because unbelievably Um, it's not good Hollywood",0.18647896,0.9997957465021252,0.53125,0.094,True
-You still have to actually look for films And this is,0.04680874,0.0036506922429123,0.5,0.0,False
-This is slightly more of an indie film And Olivia Wilde is the director,0.07970683,0.9875037870947138,0.375,0.0,False
-She doesn't awesome job,0.2712817,0.9982347705143548,0.0,0.523,False
-I think she's really created a gorgeous kind of,0.06612156,0.0002654729177834,0.25,0.0,False
-"I think like a cult classic teen film that I love and it honestly is, And the reason why I'm actually sitting down and talking about it is because it's it's my favorite film that I've possibly seen all year on in a very long time",0.07371333,0.0,0.4141049382716049,0.0,False
+it kind of talks about friendship and first love and there's just so many wonderful wonderful elements of it and i highly recommend it,0.019575324,0.0004341094698007,0.2135714285714285,0.0,False
+"the other thing i love about this film is that you've got two female leads, which is fantastic, and most of the storyline focuses on female characters as well as well as the director",0.05133759,0.0032685626505803,0.39375,0.0,False
+"so i'm trying to make a conscious effort to not only watch films that have queer representation, but also films that have female directors, because unbelievably um, it's not good hollywood",0.18647896,0.9997957465021252,0.53125,0.094,True
+you still have to actually look for films and this is,0.04680874,0.0036506922429123,0.5,0.0,False
+this is slightly more of an indie film and olivia wilde is the director,0.07970683,0.9875037870947138,0.375,0.0,False
+she doesn't awesome job,0.2712817,0.9982347705143548,0.0,0.523,False
+i think she's really created a gorgeous kind of,0.06612156,0.0002654729177834,0.25,0.0,False
+"i think like a cult classic teen film that i love and it honestly is, and the reason why i'm actually sitting down and talking about it is because it's it's my favorite film that i've possibly seen all year on in a very long time",0.07371333,0.0,0.4141049382716049,0.0,False
 really really really enjoyed,0.04268845,0.0056936742962933,0.25,0.0,False
 it,0.023117077,0.1409106522833815,0.5,0.0,False
-"loved this film and I would say so as if you like this, You might like that if you like book-smart Watch it please",0.079307266,0.0021206836248036,0.15,0.0,False
-"If you do and you like it, you might enjoy it slightly older film Crumbled 83, And I probably do a separate video batch of Cat3 because it's one of my all-time favorite films, but you know, look it up online",0.08581903,0.0032924066310705,0.3222222222222222,0.0,False
-It's kind of got that same vibe that friendship that finding your way there's a queer element and that as well,0.1689685,0.0188848200129681,0.35,0.0,True
-"so yeah, I definitely think if you enjoyed book smart, you'll enjoy Gypsy 83",0.2145095,0.0059376280216843,0.3607142857142857,0.0,False
-So kind of those are my thoughts,0.02262963,0.0088083538577846,0.2,0.0,False
-So what I'm gonna do with my film reviews is I'm gonna give you three of my favorite things about the film and then I'm just gonna tell you what the film makes me feel,0.061726328,0.0028159442909239,0.25,0.0,False
-So my three favorite films About the favorite things about this film is that it was directed by a woman,0.11794081,0.0005729112412296,0.25,0.0,False
-"You've got an out-and-proud lesbian main character, and the story's not about coming out or her being a lesbian",0.42234805,0.8942897094298025,0.4166666666666667,0.0,True
-"She just is, And then you've got a very strong female lead cast and a beautiful friendship and very positive female friendships",0.048868883,0.0008268794384265,0.3291212121212121,0.0,False
-Kind of Pro women,0.12824467,0.1463401352758428,0.2,0.0,False
-"Um, Which is awesome to see",0.027237365,0.0009236561942414,0.0,0.0,False
-"And then for me, this film kind of looks like a",0.046122026,0.9967355206310786,0.2,0.0,False
-It's kind of a Mardi Gras meets Clueless and this beautiful cinematography,0.08689302,0.0001899769145561,0.1375,0.152,False
-The colors are lovely and then the outfits and some of the clothes are just really cool and quirky and fun,0.09279997,0.0046962507874101,0.35625,0.0,False
-Then it kind of it tastes like,0.11407687,0.9987641366862142,0.2,0.0,False
-"Uh, I would say it kind of tastes like an ice cream sundae, but one that you've put all the toppings on, just fun and ever Vicent and gorgeous, And it feels like summer like sunshine, and just like proper high school nostalgia for that time in your life",0.08581903,0.0004178061481405,0.324,0.0,False
-So I loved it,0.03444787,0.0114729186775711,0.15,0.0,False
-I would give this to the easiest five out of five stars,0.08796701,0.9783426317406,0.5,0.0,False
-for films I've seen this year,0.025692256,0.0009457416811705,0.5,0.0,False
-Please go check it out,0.03427619,0.0283717437505299,0.5,0.0,False
-"book-smart directed by Olivia Wilde, Awesome film",0.021796638,0.0005852505011334,0.0,0.0,False
-Loved it,0.031357653,0.0067063579526902,0.15,0.0,False
-"Um, thanks for listening to me today",0.023632111,0.7869448245820709,0.4,0.0,False
-"If you do want to have more film reviews or even music reviews as well, please let me know",0.03616466,0.8033705552771274,0.25,0.0,False
-"Please let me know if you've seen book-smart and what you thought of it, and I will do a trip Cat3 video as well, So see you speak to you again very soon",0.19042583,0.0123042390573639,0.4,0.0,False
+"loved this film and i would say so as if you like this, you might like that if you like book-smart watch it please",0.079307266,0.0021206836248036,0.15,0.0,False
+"if you do and you like it, you might enjoy it slightly older film crumbled 83, and i probably do a separate video batch of cat3 because it's one of my all-time favorite films, but you know, look it up online",0.08581903,0.0032924066310705,0.3222222222222222,0.0,False
+it's kind of got that same vibe that friendship that finding your way there's a queer element and that as well,0.1689685,0.0188848200129681,0.35,0.0,True
+"so yeah, i definitely think if you enjoyed book smart, you'll enjoy gypsy 83",0.2145095,0.0059376280216843,0.3607142857142857,0.0,False
+so kind of those are my thoughts,0.02262963,0.0088083538577846,0.2,0.0,False
+so what i'm gonna do with my film reviews is i'm gonna give you three of my favorite things about the film and then i'm just gonna tell you what the film makes me feel,0.061726328,0.0028159442909239,0.25,0.0,False
+so my three favorite films about the favorite things about this film is that it was directed by a woman,0.11794081,0.0005729112412296,0.25,0.0,False
+"you've got an out-and-proud lesbian main character, and the story's not about coming out or her being a lesbian",0.42234805,0.8942897094298025,0.4166666666666667,0.0,True
+"she just is, and then you've got a very strong female lead cast and a beautiful friendship and very positive female friendships",0.048868883,0.0008268794384265,0.3291212121212121,0.0,False
+kind of pro women,0.12824467,0.1463401352758428,0.2,0.0,False
+"um, which is awesome to see",0.027237365,0.0009236561942414,0.0,0.0,False
+"and then for me, this film kind of looks like a",0.046122026,0.9967355206310786,0.2,0.0,False
+it's kind of a mardi gras meets clueless and this beautiful cinematography,0.08689302,0.0001899769145561,0.1375,0.152,False
+the colors are lovely and then the outfits and some of the clothes are just really cool and quirky and fun,0.09279997,0.0046962507874101,0.35625,0.0,False
+then it kind of it tastes like,0.11407687,0.9987641366862142,0.2,0.0,False
+"uh, i would say it kind of tastes like an ice cream sundae, but one that you've put all the toppings on, just fun and ever vicent and gorgeous, and it feels like summer like sunshine, and just like proper high school nostalgia for that time in your life",0.08581903,0.0004178061481405,0.324,0.0,False
+so i loved it,0.03444787,0.0114729186775711,0.15,0.0,False
+i would give this to the easiest five out of five stars,0.08796701,0.9783426317406,0.5,0.0,False
+for films i've seen this year,0.025692256,0.0009457416811705,0.5,0.0,False
+please go check it out,0.03427619,0.0283717437505299,0.5,0.0,False
+"book-smart directed by olivia wilde, awesome film",0.021796638,0.0005852505011334,0.0,0.0,False
+loved it,0.031357653,0.0067063579526902,0.15,0.0,False
+"um, thanks for listening to me today",0.023632111,0.7869448245820709,0.4,0.0,False
+"if you do want to have more film reviews or even music reviews as well, please let me know",0.03616466,0.8033705552771274,0.25,0.0,False
+"please let me know if you've seen book-smart and what you thought of it, and i will do a trip cat3 video as well, so see you speak to you again very soon",0.19042583,0.0123042390573639,0.4,0.0,False
 bye bye,0.08581903,0.0159556168147154,0.5,0.0,False

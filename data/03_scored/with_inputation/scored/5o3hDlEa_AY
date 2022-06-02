@@ -1,50 +1,50 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Roma is Mexican director of Fonczek Warren's new film, which chronicles a year in the life of a middle-class family in Mexico City from 1970 to 1971",0.031185975,0.0001307761217107,0.4659090909090909,0.0,False
-"First, the positive things about Roma, Roma is epic",0.0729142,0.0301668742653156,0.4037878787878788,0.0,False
-It is a gigantic and majestic film and it has to be seen in the cinema,0.0358213,0.0004529181225245,0.5,0.0,False
-"This thumb was shot on the digital equivalent of 70 millimeter film, which is just incredibly wide and big and just epic",0.12180476,0.9527578115039236,0.5,0.0,False
-and watching Roma was really an epic and awesome experience Cinema,0.030155903,0.0018196001219067,0.2249999999999999,0.0,False
+"roma is mexican director of fonczek warren's new film, which chronicles a year in the life of a middle-class family in mexico city from 1970 to 1971",0.031185975,0.0001307761217107,0.4659090909090909,0.0,False
+"first, the positive things about roma, roma is epic",0.0729142,0.0301668742653156,0.4037878787878788,0.0,False
+it is a gigantic and majestic film and it has to be seen in the cinema,0.0358213,0.0004529181225245,0.5,0.0,False
+"this thumb was shot on the digital equivalent of 70 millimeter film, which is just incredibly wide and big and just epic",0.12180476,0.9527578115039236,0.5,0.0,False
+and watching roma was really an epic and awesome experience cinema,0.030155903,0.0018196001219067,0.2249999999999999,0.0,False
 graphically,0.020408317,0.0030757423228783,0.5,0.0,False
 this film had some beautiful and captivating moments,0.040971663,0.0002856629732446,0.1624999999999999,0.0,False
 due to the epic scope of the shooting format,0.13146462,0.0002226889656842,0.50625,0.0,False
-Some bits were really beautiful and captivating in terms of staging and Scimitar fee and direction,0.043375164,0.0001731859715727,0.1624999999999999,0.0,False
-They were really awesome,0.053335425,0.0061574154680494,0.0,0.0,False
-"Like this party scene in particular, and another scene in the fields where the camera is panning",0.044748597,0.0006123648525046,0.4166666666666667,0.0,False
-"Some shots were very, very beautiful, but not old",0.25447917,0.8292444138359706,0.2625,0.0,False
-"Alfonso Cuarón shot this film himself, and the cinematography at certain parts was really beautiful, as I just mentioned, but it's mainly panning shots or static shots and it's really no Lubezki cinematography, so the cinematography isn't particularly incredible or innovative as Lubezki would shoot",0.08050597,0.9986709891532712,0.2835034013605442,0.115,False
-But some bits were really powerful and really beautiful,0.07571117,0.0014976667429825,0.2125,0.0,False
-Apart from the epic nature of the film itself,0.028782474,0.0059819942619443,0.45,0.0,False
-The other best thing about this film is the sound work,0.055732824,0.9982541030114092,0.2875,0.0,False
-"There's this one scene that happens in the ocean, where the audience is just fully captivated and taken over by the incredible sound work of the waves and of the sea, which makes that moment such a real and visceral and scary experience, really really amazing sound work",0.027580723,1.4543926024346887e-05,0.3571428571428571,0.058,False
-Roma is not entirely an autobiographical film,0.032559406,0.9950750332468784,0.5,0.0,False
-"The film is based on Afonso Korins, childhood memories of Mexico City in 1970 and 71, and Fonzo had every last detail reconstructed to as it actually was in those years",0.02262963,0.0014280466380791,0.5,0.0,False
-"However, there is one moment",0.0186035,0.1955054440478178,0.5,0.0,False
-"I think it's the hospital moment, but I'm not quite sure that apparently is actually, Um, a digital special effect",0.020685982,0.9200874149560316,0.3571428571428571,0.114,False
-It wasn't actually built,0.02262963,0.9998338773695498,0.5,0.0,False
+some bits were really beautiful and captivating in terms of staging and scimitar fee and direction,0.043375164,0.0001731859715727,0.1624999999999999,0.0,False
+they were really awesome,0.053335425,0.0061574154680494,0.0,0.0,False
+"like this party scene in particular, and another scene in the fields where the camera is panning",0.044748597,0.0006123648525046,0.4166666666666667,0.0,False
+"some shots were very, very beautiful, but not old",0.25447917,0.8292444138359706,0.2625,0.0,False
+"alfonso cuarón shot this film himself, and the cinematography at certain parts was really beautiful, as i just mentioned, but it's mainly panning shots or static shots and it's really no lubezki cinematography, so the cinematography isn't particularly incredible or innovative as lubezki would shoot",0.08050597,0.9986709891532712,0.2835034013605442,0.115,False
+but some bits were really powerful and really beautiful,0.07571117,0.0014976667429825,0.2125,0.0,False
+apart from the epic nature of the film itself,0.028782474,0.0059819942619443,0.45,0.0,False
+the other best thing about this film is the sound work,0.055732824,0.9982541030114092,0.2875,0.0,False
+"there's this one scene that happens in the ocean, where the audience is just fully captivated and taken over by the incredible sound work of the waves and of the sea, which makes that moment such a real and visceral and scary experience, really really amazing sound work",0.027580723,1.4543926024346887e-05,0.3571428571428571,0.058,False
+roma is not entirely an autobiographical film,0.032559406,0.9950750332468784,0.5,0.0,False
+"the film is based on afonso korins, childhood memories of mexico city in 1970 and 71, and fonzo had every last detail reconstructed to as it actually was in those years",0.02262963,0.0014280466380791,0.5,0.0,False
+"however, there is one moment",0.0186035,0.1955054440478178,0.5,0.0,False
+"i think it's the hospital moment, but i'm not quite sure that apparently is actually, um, a digital special effect",0.020685982,0.9200874149560316,0.3571428571428571,0.114,False
+it wasn't actually built,0.02262963,0.9998338773695498,0.5,0.0,False
 "so it was digitally reconstructed, but everything else is apparently real and actually reconstructed too",0.017909339,0.1326976485273112,0.4666666666666667,0.0,False
-"as it was at that time, Romo isn't fully an autobiographical film because, although there are scenes with supposedly young Alfonso Cuaron, but no child in this family is actually called Alfonso, so we just have to assume that one of the children is Alfonso, So there aren't many scenes with a young Alfonso",0.032902762,0.9883670348088008,0.43,0.05,False
-"However, the film's plot is really about the Indian Servant of Alfonso's family, and most of the film is about her story",0.016382186,0.0601034597675368,0.325,0.0,False
-"So because Romo is mainly about the story of this Indian servant, except for Cleo, which is her name, we don't really connect that well to the rest of the family",0.045778666,0.993309674816292,0.4083333333333333,0.0,False
-And it's really only Cleo who I actually connected with the other characters,0.026035614,0.9804345152876036,0.5208333333333334,0.0,False
-I sort of observed them from a distance,0.027409043,0.999707273685633,0.5,0.0,False
-Really,0.015757442,0.0654951732941569,0.4,0.0,False
-So my main problem I had with Romo is that the film itself is not that interesting,0.15071863,0.9993203992927598,0.3333333333333333,0.258,False
-"I mean, it does captivate you and you want to keep watching",0.1024659,0.0012750969898066,0.65625,0.0,False
-But just the story is not the most interesting ever,0.04268845,0.9990012674077832,0.25,0.263,False
-"But some bits, cinema too graphically or narrative Lee were really powerful",0.04406188,0.75689171981508,0.35,0.0,False
-Especially at the end,0.026035614,0.0020791555558125,0.5,0.0,False
+"as it was at that time, romo isn't fully an autobiographical film because, although there are scenes with supposedly young alfonso cuaron, but no child in this family is actually called alfonso, so we just have to assume that one of the children is alfonso, so there aren't many scenes with a young alfonso",0.032902762,0.9883670348088008,0.43,0.05,False
+"however, the film's plot is really about the indian servant of alfonso's family, and most of the film is about her story",0.016382186,0.0601034597675368,0.325,0.0,False
+"so because romo is mainly about the story of this indian servant, except for cleo, which is her name, we don't really connect that well to the rest of the family",0.045778666,0.993309674816292,0.4083333333333333,0.0,False
+and it's really only cleo who i actually connected with the other characters,0.026035614,0.9804345152876036,0.5208333333333334,0.0,False
+i sort of observed them from a distance,0.027409043,0.999707273685633,0.5,0.0,False
+really,0.015757442,0.0654951732941569,0.4,0.0,False
+so my main problem i had with romo is that the film itself is not that interesting,0.15071863,0.9993203992927598,0.3333333333333333,0.258,False
+"i mean, it does captivate you and you want to keep watching",0.1024659,0.0012750969898066,0.65625,0.0,False
+but just the story is not the most interesting ever,0.04268845,0.9990012674077832,0.25,0.263,False
+"but some bits, cinema too graphically or narrative lee were really powerful",0.04406188,0.75689171981508,0.35,0.0,False
+especially at the end,0.026035614,0.0020791555558125,0.5,0.0,False
 it's really powerful,0.032559406,0.0004780719617962,0.35,0.0,False
 "but overall, as a full product, it's not that interesting of a film to watch",0.043031808,0.9995991181373904,0.3583333333333333,0.171,False
-"In my opinion, One of the biggest faults of Romo was that it was shot digitally, Romo, which is all based on memories, should have been shot on film to have that warmth and that vintage magic feel which the film completely needed, and it, being digital, it just felt cold",0.19239926,0.9999924300057168,0.5,0.056,False
-"Had it been shot on film, Romo would have been a completely different and breathtakingly beautiful experience",0.15188612,0.0018917832957406,0.2875,0.0,False
-"The Russian critic Anton Dolan compared this film to Amarcord, and said that it's as good as a Marc Ord for me",0.055732824,0.0001362598970969,0.325,0.084,False
-That is not so where Mr,0.022074303,0.995360070354454,0.5,0.0,False
-Cord is fully perfect and brilliant in every way in every shot in every scene,0.04783881,0.0,0.025,0.0,False
-Roma is really not like that,0.07850813,0.9997202976521752,0.55,0.323,False
-"Roma is just a film that contains great moments, but overall is not that amazing",0.09548495,0.997781693643762,0.2666666666666666,0.209,False
-"So Roma has no time, our court, or even no murmur of the heart, and no, the squid and the Whale",0.11021292,0.999426647440868,0.5,0.174,False
-"However, it is closer to Louis Malle's Aurevoir Ellis on phone",0.006455692,0.8236114737986107,0.5,0.0,False
-"In terms of power, those movies are quite similar, so in my personal opinion, Roma is not Alfonso Cuaron's masterpiece",0.043375164,0.9982842339729064,0.5,0.148,False
-"His masterpiece remains Children of Men, which is just absolutely perfect in every way and one of the greatest things that the cinema has ever given us",0.050585672,0.0003354341955,0.0,0.0,False
-"so overall, Roma is a great and epic product and a really interesting time capsule of Mexico City in 1970 and 71",0.034962907,0.0009651444679763,0.325,0.0,False
-Thank you for watching and see you next Friday,0.024662184,0.0082427700742986,0.5,0.0,False
+"in my opinion, one of the biggest faults of romo was that it was shot digitally, romo, which is all based on memories, should have been shot on film to have that warmth and that vintage magic feel which the film completely needed, and it, being digital, it just felt cold",0.19239926,0.9999924300057168,0.5,0.056,False
+"had it been shot on film, romo would have been a completely different and breathtakingly beautiful experience",0.15188612,0.0018917832957406,0.2875,0.0,False
+"the russian critic anton dolan compared this film to amarcord, and said that it's as good as a marc ord for me",0.055732824,0.0001362598970969,0.325,0.084,False
+that is not so where mr,0.022074303,0.995360070354454,0.5,0.0,False
+cord is fully perfect and brilliant in every way in every shot in every scene,0.04783881,0.0,0.025,0.0,False
+roma is really not like that,0.07850813,0.9997202976521752,0.55,0.323,False
+"roma is just a film that contains great moments, but overall is not that amazing",0.09548495,0.997781693643762,0.2666666666666666,0.209,False
+"so roma has no time, our court, or even no murmur of the heart, and no, the squid and the whale",0.11021292,0.999426647440868,0.5,0.174,False
+"however, it is closer to louis malle's aurevoir ellis on phone",0.006455692,0.8236114737986107,0.5,0.0,False
+"in terms of power, those movies are quite similar, so in my personal opinion, roma is not alfonso cuaron's masterpiece",0.043375164,0.9982842339729064,0.5,0.148,False
+"his masterpiece remains children of men, which is just absolutely perfect in every way and one of the greatest things that the cinema has ever given us",0.050585672,0.0003354341955,0.0,0.0,False
+"so overall, roma is a great and epic product and a really interesting time capsule of mexico city in 1970 and 71",0.034962907,0.0009651444679763,0.325,0.0,False
+thank you for watching and see you next friday,0.024662184,0.0082427700742986,0.5,0.0,False

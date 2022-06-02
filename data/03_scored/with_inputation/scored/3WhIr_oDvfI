@@ -1,133 +1,133 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hi, I'm Andre Time, a black nerd with a review for you",0.43100753,0.0003535058896686,0.5833333333333334,0.167,False
-"better reviews, Mad Max Fury Road, I'm gonna tell you the good Imma, take the bad",0.27045983,0.9996660455700416,0.515625,0.382,False
-"I'm gonna take the nerdy plot of Mad Max Fury Road, Mad Max and Furiosa are Mr",0.2889918,0.0265632211649796,0.8125,0.465,False
-and Mr,0.015132698,0.0202948026318887,0.5,0.0,False
+"hi, i'm andre time, a black nerd with a review for you",0.43100753,0.0003535058896686,0.5833333333333334,0.167,False
+"better reviews, mad max fury road, i'm gonna tell you the good imma, take the bad",0.27045983,0.9996660455700416,0.515625,0.382,False
+"i'm gonna take the nerdy plot of mad max fury road, mad max and furiosa are mr",0.2889918,0.0265632211649796,0.8125,0.465,False
+and mr,0.015132698,0.0202948026318887,0.5,0.0,False
 your girl's best knives ever,0.14373457,8.345135242155855e-06,0.0,0.0,False
-This will be pretty much spoiler free,0.11472086,0.9748823648873428,0.3583333333333333,0.0,False
-"I might hit a couple of plot points, but I won't give any major things away",0.067320265,0.986569726793982,0.46875,0.0,False
-"Promise first, the good, this movie is action pack",0.076110736,0.0027280843187696,0.3249999999999999,0.0,False
-It starts off with action,0.035306264,0.0013736092608588,0.45,0.0,False
-"You get like, maybe two scenes where people just sit around and talk, and the rest of the time you are on the fury road",0.077709,0.9998188509571364,0.5,0.127,False
+this will be pretty much spoiler free,0.11472086,0.9748823648873428,0.3583333333333333,0.0,False
+"i might hit a couple of plot points, but i won't give any major things away",0.067320265,0.986569726793982,0.46875,0.0,False
+"promise first, the good, this movie is action pack",0.076110736,0.0027280843187696,0.3249999999999999,0.0,False
+it starts off with action,0.035306264,0.0013736092608588,0.45,0.0,False
+"you get like, maybe two scenes where people just sit around and talk, and the rest of the time you are on the fury road",0.077709,0.9998188509571364,0.5,0.127,False
 you are seeing fight - you're seeing cars,0.07251463,0.1434018204674098,0.5,0.271,False
 you're seeing explosions,0.053335425,0.0137618433116214,0.5,0.0,False
-Good stunts to the practical effects,0.039254878,0.0034102693207614,0.15,0.0,False
-"Yes, you're gonna get that big Cgi scene with the tornado",0.094410956,0.0287838914569717,0.5,0.0,False
-I've got no problem with Cgi fights,0.10515087,0.0010788769665385,0.5,0.271,False
-"I got no problems with characters fighting multiple robots and creatures or whatever else, but sometimes you lose a little bit of the gravitas with it you start feeling you're watching the cartoon with this the whole time I'm watching the movies Going",0.076110736,2.80754192789672e-05,0.4979166666666667,0.111,False
-"Did I really get hurt Once you have a giant truck with speakers on it and a dude playing guitar with a mask on his face and the guitar is spitting fire, And you accept that you know you in the right place",0.28874767,0.9978595026144416,0.419047619047619,0.123,False
-This,0.028439116,0.0228823906380457,0.5,0.0,False
-"Imagine, if like, Fast and Furious had a nuclear explosion fallout in Borderlands For that to pot, Dr",0.14059398,0.9930016801737648,0.4,0.167,False
-"Dre California video, which of course, was inspired by Mad Max",0.13969667,0.9107221039564226,0.8125,0.208,False
-That is what this world is and I love it,0.028782474,0.0021020203512813,0.25,0.0,False
+good stunts to the practical effects,0.039254878,0.0034102693207614,0.15,0.0,False
+"yes, you're gonna get that big cgi scene with the tornado",0.094410956,0.0287838914569717,0.5,0.0,False
+i've got no problem with cgi fights,0.10515087,0.0010788769665385,0.5,0.271,False
+"i got no problems with characters fighting multiple robots and creatures or whatever else, but sometimes you lose a little bit of the gravitas with it you start feeling you're watching the cartoon with this the whole time i'm watching the movies going",0.076110736,2.80754192789672e-05,0.4979166666666667,0.111,False
+"did i really get hurt once you have a giant truck with speakers on it and a dude playing guitar with a mask on his face and the guitar is spitting fire, and you accept that you know you in the right place",0.28874767,0.9978595026144416,0.419047619047619,0.123,False
+this,0.028439116,0.0228823906380457,0.5,0.0,False
+"imagine, if like, fast and furious had a nuclear explosion fallout in borderlands for that to pot, dr",0.14059398,0.9930016801737648,0.4,0.167,False
+"dre california video, which of course, was inspired by mad max",0.13969667,0.9107221039564226,0.8125,0.208,False
+that is what this world is and i love it,0.028782474,0.0021020203512813,0.25,0.0,False
 and even what the action scenes,0.026035614,0.0007109459145228,0.45,0.0,False
-They're not all crazy in your face,0.40946755,0.917874004075168,0.8,0.0,False
-"Some are just very simplified action, but still just good",0.038911518,0.0011974672991404,0.3333333333333333,0.0,False
-It's just such a good movie,0.04165838,0.002389271827938,0.325,0.0,False
-"There's not a lot of dialogue in this, and yet you can still follow the story",0.029469188,0.9321256174133408,0.5,0.0,False
-The actions and the emotions of people really speak for themselves,0.02193547,2.94166017285994e-05,0.4,0.0,False
-"Get a little prologue, a little voiceover I'd máximos a compliment or breath",0.09655894,0.1027122822091075,0.59375,0.0,False
-"Other than that, you just figure stuff out just from the way people are, and that's cool",0.036336336,0.003136846925363,0.44375,0.0,False
-"Even with it being based on a franchise, especially one from 30 years ago",0.012703137,0.9542377222644812,0.5,0.0,False
-It's a self-contained story,0.0495556,0.0410926380945528,0.5,0.0,False
-"Yeah, you can make a sequel out of it, and trust me, I'm sure they're gonna try whether we get or not get another Mad Max",0.1510105,0.0421909473045839,0.53125,0.0,False
-This is a beginning Middle,0.044748597,0.1344868317044324,0.5,0.0,False
-"In here, there's no random scene thrown in to set up some other movie",0.059328925,0.9985513143260162,0.46875,0.145,False
-There's no random character that we see for five minutes because they're gonna show up as a major character later,0.053335425,0.8472845913455821,0.4479166666666667,0.104,False
-Or maybe who knows some money out of this might get their own movie,0.12180476,0.998786647139845,0.2,0.0,False
-I'm just saying Charlie's Throne as Furiosa is freaking A,0.29163063,0.9100616163060604,0.5,0.237,False
-In this film she fights,0.14911842,0.0174202611896192,0.5,0.403,False
-She's badass,0.54959583,0.0003390807273214,0.5,0.0,False
-She's so great,0.06612156,0.0032183312101918,0.0999999999999999,0.0,False
-Now I know there's been some criticism that people are like,0.037881445,0.9641088847018828,0.5,0.201,False
-"Is this a Mad Max film? Cuz, I'm pretty much seen like",0.12760067,0.2313300995139495,0.5291666666666667,0.179,False
+they're not all crazy in your face,0.40946755,0.917874004075168,0.8,0.0,False
+"some are just very simplified action, but still just good",0.038911518,0.0011974672991404,0.3333333333333333,0.0,False
+it's just such a good movie,0.04165838,0.002389271827938,0.325,0.0,False
+"there's not a lot of dialogue in this, and yet you can still follow the story",0.029469188,0.9321256174133408,0.5,0.0,False
+the actions and the emotions of people really speak for themselves,0.02193547,2.94166017285994e-05,0.4,0.0,False
+"get a little prologue, a little voiceover i'd máximos a compliment or breath",0.09655894,0.1027122822091075,0.59375,0.0,False
+"other than that, you just figure stuff out just from the way people are, and that's cool",0.036336336,0.003136846925363,0.44375,0.0,False
+"even with it being based on a franchise, especially one from 30 years ago",0.012703137,0.9542377222644812,0.5,0.0,False
+it's a self-contained story,0.0495556,0.0410926380945528,0.5,0.0,False
+"yeah, you can make a sequel out of it, and trust me, i'm sure they're gonna try whether we get or not get another mad max",0.1510105,0.0421909473045839,0.53125,0.0,False
+this is a beginning middle,0.044748597,0.1344868317044324,0.5,0.0,False
+"in here, there's no random scene thrown in to set up some other movie",0.059328925,0.9985513143260162,0.46875,0.145,False
+there's no random character that we see for five minutes because they're gonna show up as a major character later,0.053335425,0.8472845913455821,0.4479166666666667,0.104,False
+or maybe who knows some money out of this might get their own movie,0.12180476,0.998786647139845,0.2,0.0,False
+i'm just saying charlie's throne as furiosa is freaking a,0.29163063,0.9100616163060604,0.5,0.237,False
+in this film she fights,0.14911842,0.0174202611896192,0.5,0.403,False
+she's badass,0.54959583,0.0003390807273214,0.5,0.0,False
+she's so great,0.06612156,0.0032183312101918,0.0999999999999999,0.0,False
+now i know there's been some criticism that people are like,0.037881445,0.9641088847018828,0.5,0.201,False
+"is this a mad max film? cuz, i'm pretty much seen like",0.12760067,0.2313300995139495,0.5291666666666667,0.179,False
 "there's one part of the movie where he's not heavily involved for a reason, but once he is, is there the entire time",0.043718524,0.000942076356676,0.475,0.0,False
-"it's just that he has a really good person beside him, but as far as the setup of the movie, it's the same as the Mad Max movies, Particularly last two Mad Max movies",0.061726328,0.759161453391138,0.5375,0.214,False
-He's on his own,0.040284947,0.0044756152465859,0.2,0.0,False
+"it's just that he has a really good person beside him, but as far as the setup of the movie, it's the same as the mad max movies, particularly last two mad max movies",0.061726328,0.759161453391138,0.5375,0.214,False
+he's on his own,0.040284947,0.0044756152465859,0.2,0.0,False
 he's drifting,0.104076885,0.995822991574811,0.5,0.0,False
-He's lost everything,0.1024659,0.9966176868822998,0.5,0.535,False
-"he wants to just get out of Dodge, But he meets some people who need his help",0.08367105,0.148167935832586,0.4,0.0,False
-He don't want to help,0.065721996,0.9998798598565674,0.5,0.537,False
-"They bargain with him to get him to help, and then he reluctantly helps, but then of course, gets close to the people, helps him out, and then once everything is said and done, he's out of there",0.090114996,0.0120164284716701,0.5,0.028,False
-That's what happened in Road warrior,0.03358948,0.9316679463534172,0.5,0.0,False
-That's what happened Beyond Thunderdome But that's what happens in this,0.087430015,0.978788037200944,0.5,0.0,False
-It's just this time there's a person along the way,0.02792408,0.915470873361917,0.5,0.0,False
-"Charli's their own furiosa, who's just is awesome",0.15276173,0.0028473601446235,0.0999999999999999,0.0,False
-"It's not the same as you know, going to see a movie about Transformers, but most of the movie is starting shot Labeouf",0.0789077,0.9925883277427882,0.4166666666666667,0.0,False
-"We're going to see Move About Ninja Turtles with Mosul movie in April, Milk the Smurfs The most time is Neil Patrick Harris, but that being said, Charlie's the Road is amazing, Charlie's the Road, Daniel, You rock this movie",0.06971766,0.0,0.2249999999999999,0.0,False
-"Oh my gosh, you are amazing",0.0801064,0.0004405337286225,0.1999999999999999,0.0,False
-Shave your head,0.2712817,0.998024319035474,0.5,0.0,False
-We're off,0.07211506,0.9992186271048444,0.5,0.0,False
-"- geez - She's amazing in this movie, But Max is good to Mexican, So if you want a badass dude, you got it",0.36553472,0.1302900929952067,0.2833333333333333,0.0,False
-If you want a badass chick you got if you want action,0.4945446,0.0751551256327326,0.45,0.0,False
-You got it,0.040628307,0.0007315107120838,0.5,0.0,False
-"If you want explosions, you got it bad guys",0.32304016,0.999119826664388,0.8499999999999999,0.297,False
-You got it racing,0.112788886,0.0023994350105008,0.5,0.0,False
-You got this movie has everything,0.087430015,0.0008721262409141,0.5,0.0,False
-"If you all hot chicks, you're good - they're saving these women",0.44129625,0.0003079652944899,0.2625,0.0,False
-"the breeders that this evil man, amoral Joe has",0.45353866,0.9916001743179536,1.0,0.529,False
-He's basically like the leader of a religious cult,0.08635602,0.9996273599073832,0.5,0.0,False
-He has access to water,0.046122026,0.0022622767519851,0.5,0.0,False
-He's got access to gas,0.18450552,0.9974221281155892,0.5,0.0,False
-"Get access to food, so everybody follows him",0.090114996,0.0071139893615023,0.5,0.0,False
-"They paint their selves white when they want to do something for more, Tony, like spray paints Chrome on their face on the mouse like spray-on grills",0.3093897,0.0371977846527121,0.375,0.0,False
-Because he's movie,0.04543531,0.0024700110114059,0.5,0.0,False
-"I promise, I'm sorry",0.021380141,0.9996669396916746,0.75,0.232,False
-"Maybe it's just because I just watched this on Netflix, But the whole hey, immoral Joe, being the leader of this cold and he has these women trapped",0.2995453,0.9980677435427876,0.6,0.249,False
-Did anyone else get it unbreakable? Kimmy Schmitt vibe from this break,0.07571117,0.9360143312199676,0.5,0.0,False
-"It's Zoe Kravitz, It's a miracle and I never thought I'd say this, but Rosie Huntington-whiteley Remember the girl that replaced Megan Fox in third Transformers film? She was like some Island, Michael Bay said, I must have her",0.05852979,0.000193130272747,0.5,0.0,False
-He was pretty much Immortal Joke,0.27359754,0.0942770493103908,0.3875,0.0,False
-"You will be Min, my movie, you will be mine",0.06851897,0.0002006408944649,0.5,0.0,False
-I'm immortal Bae,0.057331093,0.0002010283471726,0.5,0.0,False
-I was very impressed by her kudos to Rosie,0.017423427,0.00041317360665,0.0,0.0,False
-"I take back everything I said about dark and moon, No, no, no, I'm sorry",0.0789077,0.9999684077022976,0.4833333333333333,0.085,False
-"Yeah, you",0.0253489,0.0001513747924818,0.5,0.0,False
-"you redeemed yourself, but I'm not taking anything back",0.10300289,0.1869268270526156,0.5,0.0,False
-The character I kind of identify with the most is Nicholas Hoult,0.026207292,0.0706147759799111,0.2249999999999999,0.0,False
-He plays nuts,0.27045983,0.0028515029081902,0.5,0.434,False
-It means nothing more to him than to have a mortal Joe recognize him and one day take him to the Gates of Valhalla,0.0681194,0.0003545788356283,0.25,0.0,False
-There's a particular scene that I felt bad for this dude,0.12309273,0.9999610759049062,0.6333333333333333,0.259,False
-Even with him being on the bad side,0.11085691,0.8968913238668901,0.8499999999999999,0.333,False
-You just want to do this one thing right,0.037023053,0.0048807417585381,0.3571428571428571,0.0,False
-You finally get the opportunity to do it,0.03599298,0.0013506601389429,0.5,0.0,False
-"He does something wrong and you just are like, Oh man, oh man, that was so much fun",0.22980565,0.0160752340169648,0.55,0.128,False
-Non-stop Can't say enough good things about this movie,0.06652113,0.0008129055847492,0.325,0.231,False
-But it's a Black Bear review,0.14911842,0.0381863553343088,0.5833333333333334,0.0,False
-"So you know, if I got to give you the good and I got to give you the back, Ok, 3d, You gotta stop",0.16827796,0.9987365167202832,0.3,0.081,False
-I'm sorry,0.023117077,0.9999284702693528,0.75,0.565,False
+he's lost everything,0.1024659,0.9966176868822998,0.5,0.535,False
+"he wants to just get out of dodge, but he meets some people who need his help",0.08367105,0.148167935832586,0.4,0.0,False
+he don't want to help,0.065721996,0.9998798598565674,0.5,0.537,False
+"they bargain with him to get him to help, and then he reluctantly helps, but then of course, gets close to the people, helps him out, and then once everything is said and done, he's out of there",0.090114996,0.0120164284716701,0.5,0.028,False
+that's what happened in road warrior,0.03358948,0.9316679463534172,0.5,0.0,False
+that's what happened beyond thunderdome but that's what happens in this,0.087430015,0.978788037200944,0.5,0.0,False
+it's just this time there's a person along the way,0.02792408,0.915470873361917,0.5,0.0,False
+"charli's their own furiosa, who's just is awesome",0.15276173,0.0028473601446235,0.0999999999999999,0.0,False
+"it's not the same as you know, going to see a movie about transformers, but most of the movie is starting shot labeouf",0.0789077,0.9925883277427882,0.4166666666666667,0.0,False
+"we're going to see move about ninja turtles with mosul movie in april, milk the smurfs the most time is neil patrick harris, but that being said, charlie's the road is amazing, charlie's the road, daniel, you rock this movie",0.06971766,0.0,0.2249999999999999,0.0,False
+"oh my gosh, you are amazing",0.0801064,0.0004405337286225,0.1999999999999999,0.0,False
+shave your head,0.2712817,0.998024319035474,0.5,0.0,False
+we're off,0.07211506,0.9992186271048444,0.5,0.0,False
+"- geez - she's amazing in this movie, but max is good to mexican, so if you want a badass dude, you got it",0.36553472,0.1302900929952067,0.2833333333333333,0.0,False
+if you want a badass chick you got if you want action,0.4945446,0.0751551256327326,0.45,0.0,False
+you got it,0.040628307,0.0007315107120838,0.5,0.0,False
+"if you want explosions, you got it bad guys",0.32304016,0.999119826664388,0.8499999999999999,0.297,False
+you got it racing,0.112788886,0.0023994350105008,0.5,0.0,False
+you got this movie has everything,0.087430015,0.0008721262409141,0.5,0.0,False
+"if you all hot chicks, you're good - they're saving these women",0.44129625,0.0003079652944899,0.2625,0.0,False
+"the breeders that this evil man, amoral joe has",0.45353866,0.9916001743179536,1.0,0.529,False
+he's basically like the leader of a religious cult,0.08635602,0.9996273599073832,0.5,0.0,False
+he has access to water,0.046122026,0.0022622767519851,0.5,0.0,False
+he's got access to gas,0.18450552,0.9974221281155892,0.5,0.0,False
+"get access to food, so everybody follows him",0.090114996,0.0071139893615023,0.5,0.0,False
+"they paint their selves white when they want to do something for more, tony, like spray paints chrome on their face on the mouse like spray-on grills",0.3093897,0.0371977846527121,0.375,0.0,False
+because he's movie,0.04543531,0.0024700110114059,0.5,0.0,False
+"i promise, i'm sorry",0.021380141,0.9996669396916746,0.75,0.232,False
+"maybe it's just because i just watched this on netflix, but the whole hey, immoral joe, being the leader of this cold and he has these women trapped",0.2995453,0.9980677435427876,0.6,0.249,False
+did anyone else get it unbreakable? kimmy schmitt vibe from this break,0.07571117,0.9360143312199676,0.5,0.0,False
+"it's zoe kravitz, it's a miracle and i never thought i'd say this, but rosie huntington-whiteley remember the girl that replaced megan fox in third transformers film? she was like some island, michael bay said, i must have her",0.05852979,0.000193130272747,0.5,0.0,False
+he was pretty much immortal joke,0.27359754,0.0942770493103908,0.3875,0.0,False
+"you will be min, my movie, you will be mine",0.06851897,0.0002006408944649,0.5,0.0,False
+i'm immortal bae,0.057331093,0.0002010283471726,0.5,0.0,False
+i was very impressed by her kudos to rosie,0.017423427,0.00041317360665,0.0,0.0,False
+"i take back everything i said about dark and moon, no, no, no, i'm sorry",0.0789077,0.9999684077022976,0.4833333333333333,0.085,False
+"yeah, you",0.0253489,0.0001513747924818,0.5,0.0,False
+"you redeemed yourself, but i'm not taking anything back",0.10300289,0.1869268270526156,0.5,0.0,False
+the character i kind of identify with the most is nicholas hoult,0.026207292,0.0706147759799111,0.2249999999999999,0.0,False
+he plays nuts,0.27045983,0.0028515029081902,0.5,0.434,False
+it means nothing more to him than to have a mortal joe recognize him and one day take him to the gates of valhalla,0.0681194,0.0003545788356283,0.25,0.0,False
+there's a particular scene that i felt bad for this dude,0.12309273,0.9999610759049062,0.6333333333333333,0.259,False
+even with him being on the bad side,0.11085691,0.8968913238668901,0.8499999999999999,0.333,False
+you just want to do this one thing right,0.037023053,0.0048807417585381,0.3571428571428571,0.0,False
+you finally get the opportunity to do it,0.03599298,0.0013506601389429,0.5,0.0,False
+"he does something wrong and you just are like, oh man, oh man, that was so much fun",0.22980565,0.0160752340169648,0.55,0.128,False
+non-stop can't say enough good things about this movie,0.06652113,0.0008129055847492,0.325,0.231,False
+but it's a black bear review,0.14911842,0.0381863553343088,0.5833333333333334,0.0,False
+"so you know, if i got to give you the good and i got to give you the back, ok, 3d, you gotta stop",0.16827796,0.9987365167202832,0.3,0.081,False
+i'm sorry,0.023117077,0.9999284702693528,0.75,0.565,False
 this was my limit,0.030327583,0.8412664374575926,0.5,0.0,False
-"I'm cool with Imax, I'm cool with big screen, but the 3d gimmick has got to go",0.056931525,0.9072480539591676,0.3833333333333333,0.0,False
-This movie is going so good,0.05613239,0.0060196142866569,0.15,0.0,False
-I've enjoying myself and then there's just one little mask or one little guy running across or one little guitar,0.18055865,0.8064498775381207,0.5078125,0.0,False
-"Just something that just just shooting directly at the screen, And I don't watch it in 3d, but I knew",0.17759849,0.9999529095939907,0.45,0.0,False
-"Oh, this is for the 3d screen",0.040628307,0.8735824074058068,0.5,0.0,False
-Stop doing that,0.08330294,0.9999239400530786,0.5,0.524,False
-It just takes you out of a movie,0.12051678,0.996931136122806,0.5,0.0,False
-"When things do that, make a 3d gimmicky, complete film, or just make a film in a 3d environment",0.089577995,0.9930673385056878,0.525,0.0,False
-"I'm so sick of seeing scenes in movies where I know they are deliberately there, just so they can have that 3d effect so they can say hey, let's make people pay $3 more for 3d If you don't need it, Don't do it",0.18253209,0.9705683770279648,0.5535714285714286,0.106,False
-"It doesn't know if it's a sequel or a reboot, and I think it would have helped to decide they explained generically who Max is",0.030155903,0.9620409005807676,0.5,0.0,False
-In the beginning,0.019575324,0.0243774514207324,0.5,0.0,False
-You're gonna be able to follow it,0.04165838,0.0011690640352627,0.25,0.0,False
-Even if you know nothing about the Mad Max franchise,0.14777246,0.0326787747028669,0.8125,0.0,False
-"It's a whole new story, but yes, there aren't time",0.031014297,0.8933261628752234,0.4159090909090909,0.0,False
-"That's kind of referencing something that happened in earlier Mad Max films, but you don't really get too much detail to it",0.06931809,0.9724969675864814,0.4625,0.091,False
-The biggest part of that are these flashbacks,0.087430015,0.0238723323061465,0.5,0.0,False
-There's time when Max has these just weird flashbacks where something happened in the past,0.07730943,0.999356530464721,0.6875,0.108,False
-You can leave it to interpretation,0.02397547,0.0656020618683291,0.5,0.194,False
-"If you've seen some of those earlier films, you might have a better understanding of what that's trying to reference",0.055732824,0.9961274399908776,0.375,0.0,False
-"So I think if they would have just decided it was a sequel, decided was a reboot and just gave some kind of context to some of those things that would just made it absolutely perfect for the nerdy immortal Joe",0.24991328,0.9927253071769772,0.0999999999999999,0.027,False
-"The main bad guy in this film is played by the same actor who played Toecutter, the main bad guy in the very first Mad Max Bill from over 30 years ago",0.22687212,0.0017496768197357,0.5976190476190476,0.248,False
-That is an amazing thing,0.03049926,0.0012265858603247,0.1999999999999999,0.0,False
-And obviously the director George Miller has been with Mad Max since the beginning,0.08796701,0.0010516956688926,0.65625,0.198,False
-But did you know that George Miller was also the director of Babe Pig in the City and the Happy Feet movies,0.119872786,0.8327650097539729,0.0999999999999999,0.0,False
-"Now the next time they do a Mad Max film, I just want your pig on a motorcycle, like a talking pig Mohawk, And then in the back is just a penguin dancing",0.49981686,0.998206302591862,0.6041666666666666,0.086,False
-"Okay, I have to dress criticism on the internet Of what is this movie trying to convey? Is it trying to teach us something to preach something to blow? It's a movie",0.2015616,0.998812397842878,0.25,0.093,False
-Enjoy the movie,0.042001735,0.0037075349597087,0.3,0.0,False
-For what it is,0.020685982,0.0008154091253219,0.5,0.0,False
-It's fun,0.03187269,0.0035970811339679,0.35,0.0,False
-"Are there some themed attic elements you can platter alike? Sure, what movie doesn't have? that um soul plane? It is just a movie to enjoy and I enjoyed it, Man, I can't recommend this movie enough",0.08170467,0.0188689170595486,0.325,0.047,False
-Mad Max cannot be beat well except by female Acapella group,0.34388447,8.497135919780838e-05,0.65625,0.358,False
-Gangs can't stop them,0.15276173,0.921814845173004,0.5,0.0,False
+"i'm cool with imax, i'm cool with big screen, but the 3d gimmick has got to go",0.056931525,0.9072480539591676,0.3833333333333333,0.0,False
+this movie is going so good,0.05613239,0.0060196142866569,0.15,0.0,False
+i've enjoying myself and then there's just one little mask or one little guy running across or one little guitar,0.18055865,0.8064498775381207,0.5078125,0.0,False
+"just something that just just shooting directly at the screen, and i don't watch it in 3d, but i knew",0.17759849,0.9999529095939907,0.45,0.0,False
+"oh, this is for the 3d screen",0.040628307,0.8735824074058068,0.5,0.0,False
+stop doing that,0.08330294,0.9999239400530786,0.5,0.524,False
+it just takes you out of a movie,0.12051678,0.996931136122806,0.5,0.0,False
+"when things do that, make a 3d gimmicky, complete film, or just make a film in a 3d environment",0.089577995,0.9930673385056878,0.525,0.0,False
+"i'm so sick of seeing scenes in movies where i know they are deliberately there, just so they can have that 3d effect so they can say hey, let's make people pay $3 more for 3d if you don't need it, don't do it",0.18253209,0.9705683770279648,0.5535714285714286,0.106,False
+"it doesn't know if it's a sequel or a reboot, and i think it would have helped to decide they explained generically who max is",0.030155903,0.9620409005807676,0.5,0.0,False
+in the beginning,0.019575324,0.0243774514207324,0.5,0.0,False
+you're gonna be able to follow it,0.04165838,0.0011690640352627,0.25,0.0,False
+even if you know nothing about the mad max franchise,0.14777246,0.0326787747028669,0.8125,0.0,False
+"it's a whole new story, but yes, there aren't time",0.031014297,0.8933261628752234,0.4159090909090909,0.0,False
+"that's kind of referencing something that happened in earlier mad max films, but you don't really get too much detail to it",0.06931809,0.9724969675864814,0.4625,0.091,False
+the biggest part of that are these flashbacks,0.087430015,0.0238723323061465,0.5,0.0,False
+there's time when max has these just weird flashbacks where something happened in the past,0.07730943,0.999356530464721,0.6875,0.108,False
+you can leave it to interpretation,0.02397547,0.0656020618683291,0.5,0.194,False
+"if you've seen some of those earlier films, you might have a better understanding of what that's trying to reference",0.055732824,0.9961274399908776,0.375,0.0,False
+"so i think if they would have just decided it was a sequel, decided was a reboot and just gave some kind of context to some of those things that would just made it absolutely perfect for the nerdy immortal joe",0.24991328,0.9927253071769772,0.0999999999999999,0.027,False
+"the main bad guy in this film is played by the same actor who played toecutter, the main bad guy in the very first mad max bill from over 30 years ago",0.22687212,0.0017496768197357,0.5976190476190476,0.248,False
+that is an amazing thing,0.03049926,0.0012265858603247,0.1999999999999999,0.0,False
+and obviously the director george miller has been with mad max since the beginning,0.08796701,0.0010516956688926,0.65625,0.198,False
+but did you know that george miller was also the director of babe pig in the city and the happy feet movies,0.119872786,0.8327650097539729,0.0999999999999999,0.0,False
+"now the next time they do a mad max film, i just want your pig on a motorcycle, like a talking pig mohawk, and then in the back is just a penguin dancing",0.49981686,0.998206302591862,0.6041666666666666,0.086,False
+"okay, i have to dress criticism on the internet of what is this movie trying to convey? is it trying to teach us something to preach something to blow? it's a movie",0.2015616,0.998812397842878,0.25,0.093,False
+enjoy the movie,0.042001735,0.0037075349597087,0.3,0.0,False
+for what it is,0.020685982,0.0008154091253219,0.5,0.0,False
+it's fun,0.03187269,0.0035970811339679,0.35,0.0,False
+"are there some themed attic elements you can platter alike? sure, what movie doesn't have? that um soul plane? it is just a movie to enjoy and i enjoyed it, man, i can't recommend this movie enough",0.08170467,0.0188689170595486,0.325,0.047,False
+mad max cannot be beat well except by female acapella group,0.34388447,8.497135919780838e-05,0.65625,0.358,False
+gangs can't stop them,0.15276173,0.921814845173004,0.5,0.0,False
 cars can't stop them,0.04234509,0.8004948784414816,0.5,0.0,False
-Guns can't stop them Acapella singing 90s hip-hop jams Too much for Max,0.12888865,0.9855931373422688,0.4,0.0,False
-"Let me know what you thought of Mad Max Fury Road, I love you like a blade, doesn't about a 5000?",0.12760067,0.0039904350444178,0.53125,0.225,False
+guns can't stop them acapella singing 90s hip-hop jams too much for max,0.12888865,0.9855931373422688,0.4,0.0,False
+"let me know what you thought of mad max fury road, i love you like a blade, doesn't about a 5000?",0.12760067,0.0039904350444178,0.53125,0.225,False

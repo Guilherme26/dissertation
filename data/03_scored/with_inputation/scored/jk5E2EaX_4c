@@ -1,145 +1,145 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Without beeps, Tony Baker here back for another movie review",0.05413456,0.0820213735668556,0.4444444444444445,0.0,False
-"and this time we're reviewing A Quiet Place co-written and directed by John Krasinski from the office, Jim, from the offices, making horror movies out here, Man and he got his wife, and there's the coast on man, Emily Blunt, How cool is it to make a movie with your spouse? And the reviews have been great about it",0.054534122,0.8118411118792882,0.2314814814814815,0.056,False
-Made fifty million dollars opening weekend way over expectations,0.0136749605,0.0005501841285069,0.4444444444444445,0.0,False
-They were expecting it to do,0.024147147,0.9875247977081434,0.4444444444444445,0.0,False
+"without beeps, tony baker here back for another movie review",0.05413456,0.0820213735668556,0.4444444444444445,0.0,False
+"and this time we're reviewing a quiet place co-written and directed by john krasinski from the office, jim, from the offices, making horror movies out here, man and he got his wife, and there's the coast on man, emily blunt, how cool is it to make a movie with your spouse? and the reviews have been great about it",0.054534122,0.8118411118792882,0.2314814814814815,0.056,False
+made fifty million dollars opening weekend way over expectations,0.0136749605,0.0005501841285069,0.4444444444444445,0.0,False
+they were expecting it to do,0.024147147,0.9875247977081434,0.4444444444444445,0.0,False
 30,,0.1298891216671226,0.4444444444444445,0.0,False
 48 kept climbing throughout the weekend,0.027752401,0.0041358453112475,0.4444444444444445,0.0,False
-Fifty million dollars,0.014160873,0.0345497866557232,0.4444444444444445,0.0,False
-A good premise and a good review goes a long way back,0.014855034,0.0107102132769085,0.2569444444444445,0.0,False
-The story is about,0.018048171,0.1401076956293285,0.4444444444444445,0.0,False
-"They don't really give too much on the origin of these creatures, but apparently they",0.16275369,0.9855459591543804,0.3611111111111111,0.0,False
-I don't know how much of the population they wiped out,0.17380224,0.9997618859609626,0.3333333333333333,0.0,False
-"They leave that pretty vague, but these creatures are extremely sensitive to sound, so if you make a noise, they're coming for you and these creatures come for you fast",0.119228795,0.970606181169788,0.3944444444444445,0.073,False
-You make a noise,0.17380224,0.9902947066635056,0.4444444444444445,0.0,False
+fifty million dollars,0.014160873,0.0345497866557232,0.4444444444444445,0.0,False
+a good premise and a good review goes a long way back,0.014855034,0.0107102132769085,0.2569444444444445,0.0,False
+the story is about,0.018048171,0.1401076956293285,0.4444444444444445,0.0,False
+"they don't really give too much on the origin of these creatures, but apparently they",0.16275369,0.9855459591543804,0.3611111111111111,0.0,False
+i don't know how much of the population they wiped out,0.17380224,0.9997618859609626,0.3333333333333333,0.0,False
+"they leave that pretty vague, but these creatures are extremely sensitive to sound, so if you make a noise, they're coming for you and these creatures come for you fast",0.119228795,0.970606181169788,0.3944444444444445,0.073,False
+you make a noise,0.17380224,0.9902947066635056,0.4444444444444445,0.0,False
 "you better run, hide and just lay down",0.21362646,0.9982073482624396,0.3487654320987654,0.16,False
-"Is it looking for you? You know, horror movies have been doing that lately, and like they've been doing the less is more approach",0.04543531,0.9797613798046804,0.4382716049382716,0.131,False
-Let's terrify the audience by not really showing them too much,0.2712817,0.9931278404407006,0.4166666666666666,0.248,False
-I'm done with that,0.032731086,0.9997147579820296,0.4444444444444445,0.0,False
-Let me know how it happened when it happened and what they look like,0.031529333,0.0966777874984823,0.4444444444444445,0.0,False
-Stop hiding these creatures,0.1785852,0.9996619066811764,0.4444444444444445,0.688,False
-I hate when they hide the creatures,0.30053464,0.9971564032749206,0.888888888888889,0.519,False
-I'm done with that,0.032731086,0.9997147579820296,0.4444444444444445,0.0,False
-Just because it worked for Jaws doesn't mean it's gonna work for every horror movie Jaws isn't working,0.10634898,0.9998616565779704,0.6180555555555556,0.179,False
-I know why they did it for Jaws,0.20816301,0.966242178014926,0.4444444444444445,0.0,False
-"It's cuz, it was too complicated to show you this mechanical shark they had brewing, so they kept everything under the surface, Cuz I watched the first 10 minutes of the Steven Spielberg documentary and he told us that's why you see less of the shark, And luckily it paid off a lot of filmmakers",0.12760067,0.8372440166022838,0.4537037037037036,0.0,False
+"is it looking for you? you know, horror movies have been doing that lately, and like they've been doing the less is more approach",0.04543531,0.9797613798046804,0.4382716049382716,0.131,False
+let's terrify the audience by not really showing them too much,0.2712817,0.9931278404407006,0.4166666666666666,0.248,False
+i'm done with that,0.032731086,0.9997147579820296,0.4444444444444445,0.0,False
+let me know how it happened when it happened and what they look like,0.031529333,0.0966777874984823,0.4444444444444445,0.0,False
+stop hiding these creatures,0.1785852,0.9996619066811764,0.4444444444444445,0.688,False
+i hate when they hide the creatures,0.30053464,0.9971564032749206,0.888888888888889,0.519,False
+i'm done with that,0.032731086,0.9997147579820296,0.4444444444444445,0.0,False
+just because it worked for jaws doesn't mean it's gonna work for every horror movie jaws isn't working,0.10634898,0.9998616565779704,0.6180555555555556,0.179,False
+i know why they did it for jaws,0.20816301,0.966242178014926,0.4444444444444445,0.0,False
+"it's cuz, it was too complicated to show you this mechanical shark they had brewing, so they kept everything under the surface, cuz i watched the first 10 minutes of the steven spielberg documentary and he told us that's why you see less of the shark, and luckily it paid off a lot of filmmakers",0.12760067,0.8372440166022838,0.4537037037037036,0.0,False
 like let's do,0.026207292,0.0570183561540361,0.4444444444444445,0.0,False
-"Let's do the Jaws approach it, just terrifying with anticipation",0.23189566,0.0027297562750188,1.0,0.282,False
-I'm done with it,0.03358948,0.9998521773260408,0.4444444444444445,0.0,False
-Show me these monsters,0.355017,0.1692501354295953,0.4444444444444445,0.0,False
+"let's do the jaws approach it, just terrifying with anticipation",0.23189566,0.0027297562750188,1.0,0.282,False
+i'm done with it,0.03358948,0.9998521773260408,0.4444444444444445,0.0,False
+show me these monsters,0.355017,0.1692501354295953,0.4444444444444445,0.0,False
 show me the money,0.03599298,0.9620918157361008,0.4444444444444445,0.0,False
-"Yeah, a quiet place",0.028439116,0.0617978963274486,0.4444444444444445,0.0,False
-They show you the monster,0.36439645,0.0878230036464416,0.4444444444444445,0.0,False
-They show you the money,0.03994159,0.7915433208818292,0.4444444444444445,0.0,False
-"Yeah, there's some anticipation they'll do right away, but they show you the monsters, which I unlike, thank God, And it's just about the family",0.16551583,0.2269260774250393,0.2857142857142857,0.0,False
-"you know, Jim and Pam",0.012911384,0.0019336481577714,0.4444444444444445,0.0,False
-"I'm calling Emily Blunt, Pam",0.026035614,0.9993782445385276,0.4444444444444445,0.0,False
-"In this situation, it's like the office spin-off",0.056931525,0.9976051772931614,0.4444444444444445,0.0,False
-"They said, Different actresses playing Pam",0.0681194,0.999357914822125,0.4444444444444445,0.0,False
-"Now they got kids and they living kind of like you know, in a nice home in like a little country house the Dayton set up for themselves",0.027409043,0.0062732675765377,0.2569444444444445,0.0,False
-You got a family,0.14193995,0.0028190937531103,0.4444444444444445,0.0,False
-You're just trying to stay alive,0.13476147,0.2146552454200681,0.3888888888888889,0.0,False
-You're just trying to stay quiet,0.105704986,0.9983074169691308,0.4444444444444445,0.0,False
-Stay alive so these creatures won't get you and your family,0.22775516,0.9602186201661068,0.3888888888888889,0.0,False
-"He did a good job and just creating tension, creating that",0.09279997,0.0004532155545223,0.0555555555555556,0.139,False
-"if we were in that situation, what would we do? And there's not a lot of dialogue as you could expect",0.037023053,0.9992283054278168,0.4444444444444445,0.0,False
-They can't talk,0.16620636,0.995902787111711,0.4444444444444445,0.0,False
-I appreciated that I appreciate a movie that's quiet,0.07690986,0.8394247512985606,0.3888888888888889,0.0,False
-The only thing is you can hear people snacking,0.18450552,0.9297057428557368,0.4444444444444445,0.0,False
-People were snagging to do,0.12244874,0.9820360127512036,0.4444444444444445,0.0,False
+"yeah, a quiet place",0.028439116,0.0617978963274486,0.4444444444444445,0.0,False
+they show you the monster,0.36439645,0.0878230036464416,0.4444444444444445,0.0,False
+they show you the money,0.03994159,0.7915433208818292,0.4444444444444445,0.0,False
+"yeah, there's some anticipation they'll do right away, but they show you the monsters, which i unlike, thank god, and it's just about the family",0.16551583,0.2269260774250393,0.2857142857142857,0.0,False
+"you know, jim and pam",0.012911384,0.0019336481577714,0.4444444444444445,0.0,False
+"i'm calling emily blunt, pam",0.026035614,0.9993782445385276,0.4444444444444445,0.0,False
+"in this situation, it's like the office spin-off",0.056931525,0.9976051772931614,0.4444444444444445,0.0,False
+"they said, different actresses playing pam",0.0681194,0.999357914822125,0.4444444444444445,0.0,False
+"now they got kids and they living kind of like you know, in a nice home in like a little country house the dayton set up for themselves",0.027409043,0.0062732675765377,0.2569444444444445,0.0,False
+you got a family,0.14193995,0.0028190937531103,0.4444444444444445,0.0,False
+you're just trying to stay alive,0.13476147,0.2146552454200681,0.3888888888888889,0.0,False
+you're just trying to stay quiet,0.105704986,0.9983074169691308,0.4444444444444445,0.0,False
+stay alive so these creatures won't get you and your family,0.22775516,0.9602186201661068,0.3888888888888889,0.0,False
+"he did a good job and just creating tension, creating that",0.09279997,0.0004532155545223,0.0555555555555556,0.139,False
+"if we were in that situation, what would we do? and there's not a lot of dialogue as you could expect",0.037023053,0.9992283054278168,0.4444444444444445,0.0,False
+they can't talk,0.16620636,0.995902787111711,0.4444444444444445,0.0,False
+i appreciated that i appreciate a movie that's quiet,0.07690986,0.8394247512985606,0.3888888888888889,0.0,False
+the only thing is you can hear people snacking,0.18450552,0.9297057428557368,0.4444444444444445,0.0,False
+people were snagging to do,0.12244874,0.9820360127512036,0.4444444444444445,0.0,False
 "but whoever was behind us was really digging in that popcorn like if the monsters that it truly existed and they couldn't hit a movie screen, but they could hear the audience",0.14418322,0.9768599834900048,0.5000000000000001,0.0,False
-"Oh, he would have got scooped up mid port of popcorn in your hand",0.1621016,0.9973820571651952,0.4444444444444445,0.0,False
+"oh, he would have got scooped up mid port of popcorn in your hand",0.1621016,0.9973820571651952,0.4444444444444445,0.0,False
 if the movie is mad silent,0.19936113,0.9582790400236372,0.6180555555555556,0.39,False
-"Okay, we heard every crunch every bag did, or just that one person",0.123736724,0.99978856498762,0.1666666666666666,0.0,False
-"everybody else on the would they were doing, But it was the guy behind it",0.04783881,0.0836959817898204,0.6666666666666666,0.0,False
-"God, I think he was nervous",0.101391904,0.9921453964624088,0.4444444444444445,0.256,False
-"even though I got a dig at this bag, Me and my girlfriend",0.2590451,0.1070422167427376,0.4444444444444445,0.0,False
-we snug Anja Poulet,,0.9921966380789716,0.4444444444444445,0.0,False
-"Hopefully, Afc's not watching this review",0.05493369,0.9939763825332444,0.4444444444444445,0.0,False
-We snuck in some Chipotle,0.22985287,0.7571770382351588,0.4444444444444445,0.0,False
-I ate it fast in the beginning because I knew it was gonna be quiet,0.10515087,0.0292542532404807,0.3888888888888889,0.0,False
-"So you know when the trailers started and then in the theater, God am I gonna get my rice beans and guacamole",0.1835188,0.1746468106743888,0.4444444444444445,0.0,False
-I ate it fast,0.13017663,0.0015742116176221,0.3333333333333333,0.0,False
-"And plus, you know I didn't want",0.05253629,0.9984219132164946,0.4444444444444445,0.169,False
-I don't want people looking,0.23891698,0.999247442785486,0.4444444444444445,0.234,False
-Is that that's not regular movie? Tomato Chipotle Ain't well,0.10461388,0.999948132395102,0.4444444444444445,0.168,False
+"okay, we heard every crunch every bag did, or just that one person",0.123736724,0.99978856498762,0.1666666666666666,0.0,False
+"everybody else on the would they were doing, but it was the guy behind it",0.04783881,0.0836959817898204,0.6666666666666666,0.0,False
+"god, i think he was nervous",0.101391904,0.9921453964624088,0.4444444444444445,0.256,False
+"even though i got a dig at this bag, me and my girlfriend",0.2590451,0.1070422167427376,0.4444444444444445,0.0,False
+we snug anja poulet,,0.9921966380789716,0.4444444444444445,0.0,False
+"hopefully, afc's not watching this review",0.05493369,0.9939763825332444,0.4444444444444445,0.0,False
+we snuck in some chipotle,0.22985287,0.7571770382351588,0.4444444444444445,0.0,False
+i ate it fast in the beginning because i knew it was gonna be quiet,0.10515087,0.0292542532404807,0.3888888888888889,0.0,False
+"so you know when the trailers started and then in the theater, god am i gonna get my rice beans and guacamole",0.1835188,0.1746468106743888,0.4444444444444445,0.0,False
+i ate it fast,0.13017663,0.0015742116176221,0.3333333333333333,0.0,False
+"and plus, you know i didn't want",0.05253629,0.9984219132164946,0.4444444444444445,0.169,False
+i don't want people looking,0.23891698,0.999247442785486,0.4444444444444445,0.234,False
+is that that's not regular movie? tomato chipotle ain't well,0.10461388,0.999948132395102,0.4444444444444445,0.168,False
 nobody seeing nothing,0.0358213,0.9973003209740284,0.4444444444444445,0.0,False
-You know,0.03994159,0.0417006600689284,0.4444444444444445,0.0,False
-I was looking at the person next to me the old time like that,0.05133759,0.9989056233456208,0.4166666666666666,0.0,False
-He doesn't see,0.038053125,0.999855158222874,0.4444444444444445,0.0,False
-"Here Ain't nothing to see here, but back to a quiet place",0.10763696,0.8947781871443399,0.4444444444444445,0.0,False
-You cared about the family,0.048868883,0.0023603039215098,0.4444444444444445,0.0,False
-That's all I ask,0.019714156,0.034767660405263,0.4444444444444445,0.0,False
-"Man, let me care about the people in peril",0.11343288,0.003615678813851,0.4444444444444445,0.209,False
-Then we? good to go,0.01999182,9.03807919831522e-05,0.0555555555555556,0.0,False
-"Yeah, I got an order",0.024833864,0.0721438142023696,0.4444444444444445,0.0,False
+you know,0.03994159,0.0417006600689284,0.4444444444444445,0.0,False
+i was looking at the person next to me the old time like that,0.05133759,0.9989056233456208,0.4166666666666666,0.0,False
+he doesn't see,0.038053125,0.999855158222874,0.4444444444444445,0.0,False
+"here ain't nothing to see here, but back to a quiet place",0.10763696,0.8947781871443399,0.4444444444444445,0.0,False
+you cared about the family,0.048868883,0.0023603039215098,0.4444444444444445,0.0,False
+that's all i ask,0.019714156,0.034767660405263,0.4444444444444445,0.0,False
+"man, let me care about the people in peril",0.11343288,0.003615678813851,0.4444444444444445,0.209,False
+then we? good to go,0.01999182,9.03807919831522e-05,0.0555555555555556,0.0,False
+"yeah, i got an order",0.024833864,0.0721438142023696,0.4444444444444445,0.0,False
 "the couple characters, but you know this, it comes with the territory",0.05133759,0.1325640592493785,0.4444444444444445,0.0,False
-The monsters that they do show they were scared like the monsters were scared,0.25447917,0.9946844647670068,0.4444444444444445,0.301,False
-"And if you're gonna have a movie, you gotta be scared of the creature And hey and I was like man, these preachers are scary to look at",0.22978203,0.0080961754169551,0.7222222222222222,0.182,False
-"Alright Now, The question is a lot of times when when horror movie set up this this lovely premise in this awesome world and they run out of steam at the end",0.07690986,0.9320452699263192,0.0277777777777778,0.086,False
-"Is that the case for quiet, please? I was satisfied with the end because they explained the situation, and then you know you got to figure out how to do what you got to do to survive",0.04165838,0.0076741102343399,0.3055555555555556,0.0,False
-"Once they figured it out, everything else made sense",0.045091953,0.0027232579199224,0.4444444444444445,0.0,False
-"The question is we don't know how big the world is, so there's room for you know more, but I don't know, but I was satisfied with it",0.04543531,0.004302000500731,0.2592592592592593,0.0,False
-"They didn't run out of steam at the end, Takeaways from the film",0.05373499,0.8850810018472319,0.4444444444444445,0.0,False
-I don't need a lot of dialogue to enjoy a movie,0.050585672,0.999536589778308,0.2222222222222222,0.0,False
-"I don't need a lot of talking man, So movies they over, talk and when characters talk too much, you start not to like them and then you don't care if they live or die",0.2936093,0.9986390715507946,0.351010101010101,0.213,False
-If everybody is pretty much quiet,0.06612156,0.9844025765560632,0.375,0.0,False
-You're kind of kid,0.12116077,0.8361935783672263,0.1111111111111111,0.0,False
-You can't feel sorry for them,0.060527626,0.0022053867130875,0.7222222222222222,0.0,False
-It's like how you feel sorry for your dog,0.2406723,0.9991006634254184,0.7222222222222222,0.12,False
+the monsters that they do show they were scared like the monsters were scared,0.25447917,0.9946844647670068,0.4444444444444445,0.301,False
+"and if you're gonna have a movie, you gotta be scared of the creature and hey and i was like man, these preachers are scary to look at",0.22978203,0.0080961754169551,0.7222222222222222,0.182,False
+"alright now, the question is a lot of times when when horror movie set up this this lovely premise in this awesome world and they run out of steam at the end",0.07690986,0.9320452699263192,0.0277777777777778,0.086,False
+"is that the case for quiet, please? i was satisfied with the end because they explained the situation, and then you know you got to figure out how to do what you got to do to survive",0.04165838,0.0076741102343399,0.3055555555555556,0.0,False
+"once they figured it out, everything else made sense",0.045091953,0.0027232579199224,0.4444444444444445,0.0,False
+"the question is we don't know how big the world is, so there's room for you know more, but i don't know, but i was satisfied with it",0.04543531,0.004302000500731,0.2592592592592593,0.0,False
+"they didn't run out of steam at the end, takeaways from the film",0.05373499,0.8850810018472319,0.4444444444444445,0.0,False
+i don't need a lot of dialogue to enjoy a movie,0.050585672,0.999536589778308,0.2222222222222222,0.0,False
+"i don't need a lot of talking man, so movies they over, talk and when characters talk too much, you start not to like them and then you don't care if they live or die",0.2936093,0.9986390715507946,0.351010101010101,0.213,False
+if everybody is pretty much quiet,0.06612156,0.9844025765560632,0.375,0.0,False
+you're kind of kid,0.12116077,0.8361935783672263,0.1111111111111111,0.0,False
+you can't feel sorry for them,0.060527626,0.0022053867130875,0.7222222222222222,0.0,False
+it's like how you feel sorry for your dog,0.2406723,0.9991006634254184,0.7222222222222222,0.12,False
 you can't,0.024490505,0.884094861556867,0.4444444444444445,0.0,False
-They don't talk,0.14687516,0.998139890567104,0.4444444444444445,0.0,False
-"I mean, dogs bark annoying with your life, but they don't talk",0.36805952,0.8395236872644551,0.7534722222222222,0.144,False
+they don't talk,0.14687516,0.998139890567104,0.4444444444444445,0.0,False
+"i mean, dogs bark annoying with your life, but they don't talk",0.36805952,0.8395236872644551,0.7534722222222222,0.144,False
 so you always kind of like them,0.03599298,0.0024063289686147,0.1111111111111111,0.0,False
-"Yeah, I like these creatures because they don't talk",0.22986074,0.0005060668553753,0.4444444444444445,0.0,False
-"They don't say the wrong thing, Then they'll say racist stuff",0.2712817,0.9994715168004388,0.7222222222222222,0.257,False
-"They don't say sexist things to you know, Really piss you all",0.5023275,0.9930946034410102,0.3333333333333333,0.214,True
-They don't diss your religion,0.20742953,0.0018313735874237,0.4444444444444445,0.0,False
-"It's just your companions, and this was silent movie characters",0.092262976,0.0116683927549779,0.4444444444444445,0.0,False
-The light didn't like pets,0.08290337,0.9997390224822518,0.2222222222222222,0.345,False
-"Like man, I really hate for something happen to you guys",0.37647265,0.998601869958316,0.888888888888889,0.258,False
-"then with some happy, you like my dog, Another take away",0.2936093,0.0010586655103171,0.0,0.0,False
+"yeah, i like these creatures because they don't talk",0.22986074,0.0005060668553753,0.4444444444444445,0.0,False
+"they don't say the wrong thing, then they'll say racist stuff",0.2712817,0.9994715168004388,0.7222222222222222,0.257,False
+"they don't say sexist things to you know, really piss you all",0.5023275,0.9930946034410102,0.3333333333333333,0.214,True
+they don't diss your religion,0.20742953,0.0018313735874237,0.4444444444444445,0.0,False
+"it's just your companions, and this was silent movie characters",0.092262976,0.0116683927549779,0.4444444444444445,0.0,False
+the light didn't like pets,0.08290337,0.9997390224822518,0.2222222222222222,0.345,False
+"like man, i really hate for something happen to you guys",0.37647265,0.998601869958316,0.888888888888889,0.258,False
+"then with some happy, you like my dog, another take away",0.2936093,0.0010586655103171,0.0,0.0,False
 show us the goods,0.061726328,0.0025446127727077,0.4444444444444445,0.0,False
-Show us these monsters and we'll like it,0.31725118,0.0004077270688474,0.4444444444444445,0.0,False
-"You don't have to do the Jaws and the Jaws approach doesn't work for every movie, Especially if you're gonna hide the creatures, like say signs, or like even they were doing with the latest Godzilla movie",0.16758743,0.9999923689041068,0.3055555555555556,0.042,False
-Hide,0.0471521,0.9777604528053832,0.4444444444444445,1.0,False
-"If you're gonna reveal the monster, the payoff better be huge",0.1668969,0.9995345329594932,0.1944444444444444,0.0,False
-Don't wait and reveal them,0.045778666,0.0049883519965793,0.4444444444444445,0.0,False
-And then they look like some Cgi a middle school kid created for his computer class,0.12888865,0.9999826511804308,0.4444444444444445,0.0,False
-It better be worth the review,0.02262963,0.0932625441876968,0.2222222222222222,0.0,False
-I'm just glad that Paczynski shoulder Steve monster so much,0.28874767,0.0146892037967921,0.25,0.0,False
-"Yes, thank you",0.014855034,0.0105320152642187,0.4444444444444445,0.0,False
-"Put us in that situation in situations man, I'm like",0.05133759,0.0047898838854237,0.4444444444444445,0.0,False
-"Are you gonna be pregnant? First of all, how you gonna be pregnant? And you gotta",0.15246986,0.0165760220653137,0.2746913580246913,0.0,False
-You gotta have a baby in this environment,0.09816993,0.0024225450473874,0.4444444444444445,0.0,False
-Do you know how loud babies are? I'm sorry,0.25676212,0.999981697293444,0.5555555555555556,0.14,False
-I'm not having sex,0.34388447,0.9996330217908626,0.4444444444444445,0.0,False
-If this creatures out here that'd get you when you make noise,0.23014031,0.9910366816942618,0.4444444444444445,0.0,False
-It's about a quiet sex - you can't really enjoy yourself in the sexual capacity,0.4945446,0.9798567685033432,0.2777777777777778,0.169,False
-You gotta have a quiet sense,0.23189566,0.7522024877909173,0.4444444444444445,0.0,False
-I want to be like,0.032559406,0.0035195448909798,0.4444444444444445,0.0,False
-Hmm,0.040628307,0.9468648581505962,0.4444444444444445,0.0,False
-"Oh man, monsters coming right",0.28825936,0.8899008139368612,0.2857142857142857,0.0,False
-Just you gotta have quiet climaxes,0.11600884,0.1149548285327033,0.4444444444444445,0.0,False
-Oh the quiet climax,0.030842619,0.0081244939368707,0.4444444444444445,0.0,False
-"Oh, that's what sex is like when you get monsters killing you For saying, anyway, that's neither here",0.5535644,0.9979353414264086,0.4444444444444445,0.192,False
-"No, there",0.016937515,0.9809531125496324,0.4444444444444445,0.0,False
-Y'all wanted a smooth jazz review of a quiet place We,0.06012806,0.092040227441236,0.3333333333333333,0.0,False
-I'm given a quiet place for saxophone,0.08689302,0.7658938363727898,0.4444444444444445,0.0,False
-Turn the saxophones all,0.10892494,0.0,0.4444444444444445,0.0,False
+show us these monsters and we'll like it,0.31725118,0.0004077270688474,0.4444444444444445,0.0,False
+"you don't have to do the jaws and the jaws approach doesn't work for every movie, especially if you're gonna hide the creatures, like say signs, or like even they were doing with the latest godzilla movie",0.16758743,0.9999923689041068,0.3055555555555556,0.042,False
+hide,0.0471521,0.9777604528053832,0.4444444444444445,1.0,False
+"if you're gonna reveal the monster, the payoff better be huge",0.1668969,0.9995345329594932,0.1944444444444444,0.0,False
+don't wait and reveal them,0.045778666,0.0049883519965793,0.4444444444444445,0.0,False
+and then they look like some cgi a middle school kid created for his computer class,0.12888865,0.9999826511804308,0.4444444444444445,0.0,False
+it better be worth the review,0.02262963,0.0932625441876968,0.2222222222222222,0.0,False
+i'm just glad that paczynski shoulder steve monster so much,0.28874767,0.0146892037967921,0.25,0.0,False
+"yes, thank you",0.014855034,0.0105320152642187,0.4444444444444445,0.0,False
+"put us in that situation in situations man, i'm like",0.05133759,0.0047898838854237,0.4444444444444445,0.0,False
+"are you gonna be pregnant? first of all, how you gonna be pregnant? and you gotta",0.15246986,0.0165760220653137,0.2746913580246913,0.0,False
+you gotta have a baby in this environment,0.09816993,0.0024225450473874,0.4444444444444445,0.0,False
+do you know how loud babies are? i'm sorry,0.25676212,0.999981697293444,0.5555555555555556,0.14,False
+i'm not having sex,0.34388447,0.9996330217908626,0.4444444444444445,0.0,False
+if this creatures out here that'd get you when you make noise,0.23014031,0.9910366816942618,0.4444444444444445,0.0,False
+it's about a quiet sex - you can't really enjoy yourself in the sexual capacity,0.4945446,0.9798567685033432,0.2777777777777778,0.169,False
+you gotta have a quiet sense,0.23189566,0.7522024877909173,0.4444444444444445,0.0,False
+i want to be like,0.032559406,0.0035195448909798,0.4444444444444445,0.0,False
+hmm,0.040628307,0.9468648581505962,0.4444444444444445,0.0,False
+"oh man, monsters coming right",0.28825936,0.8899008139368612,0.2857142857142857,0.0,False
+just you gotta have quiet climaxes,0.11600884,0.1149548285327033,0.4444444444444445,0.0,False
+oh the quiet climax,0.030842619,0.0081244939368707,0.4444444444444445,0.0,False
+"oh, that's what sex is like when you get monsters killing you for saying, anyway, that's neither here",0.5535644,0.9979353414264086,0.4444444444444445,0.192,False
+"no, there",0.016937515,0.9809531125496324,0.4444444444444445,0.0,False
+y'all wanted a smooth jazz review of a quiet place we,0.06012806,0.092040227441236,0.3333333333333333,0.0,False
+i'm given a quiet place for saxophone,0.08689302,0.7658938363727898,0.4444444444444445,0.0,False
+turn the saxophones all,0.10892494,0.0,0.4444444444444445,0.0,False
 here's this chair squeaks,0.17449278,0.9998989774063224,0.4444444444444445,0.0,False
-I'm a dead man,0.24242763,0.9977950306124692,0.5555555555555556,0.589,False
-"All right, peeps, thanks for watching my view of a quiet place",0.048525527,0.0113362910387891,0.3544973544973545,0.0,False
-Movies similar to a quiet place,0.09065199,0.9027115757852332,0.4444444444444445,0.0,False
-"I just think of movies where if you did a certain thing, the monsters came for you",0.1256687,0.9898921067372114,0.3253968253968254,0.0,False
-"So only things I can think I was like a nightmare on Elm Street, where if you go to sleep they come for you",0.14822112,0.9968692236740084,0.4444444444444445,0.0,False
-"Well, Freddy, Coastal Candyman If you say his name in the mirror, he comes for the ring",0.09494796,0.0218272593536145,0.4444444444444445,0.0,False
-"If you watch the tape, she comes for you",0.118584804,0.0146456528940588,0.4444444444444445,0.0,False
-The grudge,0.10031791,0.992604961327186,0.4444444444444445,0.0,False
-"If you go in this house, she comes for you and shout out to at Rachael by Robin For this jacket",0.11794081,0.0003003253559466,0.4444444444444445,0.0,False
-I don't super appreciate you for this,0.1894391,0.999685545193064,0.2592592592592593,0.519,False
-Let me know what you thought of a quiet place in the comments section below,0.030327583,0.9252490934272984,0.4444444444444445,0.0,False
-I know you guys probably all have the same question I have about where this family could have lived,0.046122026,0.9995586186059054,0.4444444444444445,0.0,False
-Don't try not to spoil it for people in the comment section,0.11665283,0.0555221844155076,0.4444444444444445,0.0,False
-"Man, okay, but let me know what you throw in the comment section below",0.1550967,0.9882614369335682,0.1666666666666666,0.0,False
-"Don't forget to Like, share and subscribe, and as usual we are",0.020963646,0.0022702510281783,0.5833333333333334,0.141,False
+i'm a dead man,0.24242763,0.9977950306124692,0.5555555555555556,0.589,False
+"all right, peeps, thanks for watching my view of a quiet place",0.048525527,0.0113362910387891,0.3544973544973545,0.0,False
+movies similar to a quiet place,0.09065199,0.9027115757852332,0.4444444444444445,0.0,False
+"i just think of movies where if you did a certain thing, the monsters came for you",0.1256687,0.9898921067372114,0.3253968253968254,0.0,False
+"so only things i can think i was like a nightmare on elm street, where if you go to sleep they come for you",0.14822112,0.9968692236740084,0.4444444444444445,0.0,False
+"well, freddy, coastal candyman if you say his name in the mirror, he comes for the ring",0.09494796,0.0218272593536145,0.4444444444444445,0.0,False
+"if you watch the tape, she comes for you",0.118584804,0.0146456528940588,0.4444444444444445,0.0,False
+the grudge,0.10031791,0.992604961327186,0.4444444444444445,0.0,False
+"if you go in this house, she comes for you and shout out to at rachael by robin for this jacket",0.11794081,0.0003003253559466,0.4444444444444445,0.0,False
+i don't super appreciate you for this,0.1894391,0.999685545193064,0.2592592592592593,0.519,False
+let me know what you thought of a quiet place in the comments section below,0.030327583,0.9252490934272984,0.4444444444444445,0.0,False
+i know you guys probably all have the same question i have about where this family could have lived,0.046122026,0.9995586186059054,0.4444444444444445,0.0,False
+don't try not to spoil it for people in the comment section,0.11665283,0.0555221844155076,0.4444444444444445,0.0,False
+"man, okay, but let me know what you throw in the comment section below",0.1550967,0.9882614369335682,0.1666666666666666,0.0,False
+"don't forget to like, share and subscribe, and as usual we are",0.020963646,0.0022702510281783,0.5833333333333334,0.141,False

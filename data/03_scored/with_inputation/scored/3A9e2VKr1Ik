@@ -1,63 +1,63 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Tails is Oh less time song, as old as rhyme, The mute in the bees, The shape of water",0.18154536,0.999453096350892,0.5166666666666666,0.0,False
-"So the shape of water is a movie directed by Guillermo del Toro and the stars Sally Hawkins of T Bo Spencer, Michael Shannon, Richard Hacking",0.03427619,0.8131402796236397,0.5,0.0,False
-"In this movie takes place in somewhere in Baltimore, in the early 1960s, and Sally Hawkins plays this female worker who worked for this, an unknown factory",0.022351967,0.0007957373584488,0.5,0.0,False
+"tails is oh less time song, as old as rhyme, the mute in the bees, the shape of water",0.18154536,0.999453096350892,0.5166666666666666,0.0,False
+"so the shape of water is a movie directed by guillermo del toro and the stars sally hawkins of t bo spencer, michael shannon, richard hacking",0.03427619,0.8131402796236397,0.5,0.0,False
+"in this movie takes place in somewhere in baltimore, in the early 1960s, and sally hawkins plays this female worker who worked for this, an unknown factory",0.022351967,0.0007957373584488,0.5,0.0,False
 for the government,0.01596569,0.0837608421040584,0.5,0.0,False
-"She's a mute and she is like, Do money, her own business, until Scientist brings in a mysterious creature, So she goes into the factory secretly and starts to understand the creature and she gains a connection with the creature and we have the movie",0.27856,0.0,0.4666666666666667,0.0,False
-"Yes, Shape of Water",0.025863936,0.0010910951329807,0.5,0.0,False
-"I guess guys say, like General Del Toro, You know, he, definitely I got is a guy who definitely brings in this the fantasy in the mythology to a world, and it just makes you want to ponder and makes you thinking things",0.087430015,2.527380351191421e-05,0.4916666666666666,0.0,False
-"How considered? This movie was very, very delightful to watch Sally Hawkins",0.022074303,0.0007007817711976,0.0,0.0,False
-"She plays a main character, Eliza, and I gotta say that sigh, Hawkins",0.07251463,0.0085928249579286,0.4166666666666667,0.0,False
-She did one hell of a job for performance,0.37221906,0.002227909622786,0.5,0.365,True
-She plays a mute and she has a connection with the sea creature who's being played by Doug Jones,0.22982138,0.9202552189212092,0.5,0.0,False
-And you get the chemistry of one another,0.03736641,2.497576337616051e-05,0.5,0.0,False
-And the point of this movie is you,0.062125895,0.9990543186492536,0.5,0.0,False
-There's a lot of words,0.029125832,0.014393997376293,0.5,0.0,False
-That's that that can be said without actually saying words,0.036851373,0.011053950986942,0.5,0.0,False
-How every scene is build up with her character,0.03736641,0.0016453305694283,0.5,0.0,False
-Basically a picture can can give you a million words,0.03221605,0.7907543658111246,0.5,0.0,False
-And that's exactly what this movie was doing,0.055732824,0.9953602303826408,0.375,0.0,False
-"It was given us a vivid imagination of love through by language of each person, so everything has to be expressed with words insanely Oh, I, I'm in love",0.101391904,0.00031935000546,0.3125,0.0,False
-"Oh, I feel this way",0.026207292,0.0022303833559128,0.5,0.0,False
-"Oh, I feel that way",0.024833864,0.0044227069864899,0.5,0.0,False
-"It touched my heart, because I really felt the Miss Free with those two characters and another performance",0.057331093,0.0026759831628782,0.35,0.076,False
-I want to praise this Octavia Spencer,0.03444787,0.0009981066106255,0.5,0.0,False
-"She plays the friend named Zelda of Sally Hawkins character, And I think that Octavia Spencer was was like the comic relief",0.07091636,0.0069275853074319,0.375,0.0,False
-She was the source of the humor in this movie and I thought that that was pretty cool to have her on-screen Michael Shannon obviously did a great job with his performance as a villain,0.13082063,0.000152864785628,0.325,0.079,False
-"The leader of this operation that's doing experiments on this sea creature, And you know he did a great job of showing us how sly, mean, how grimy and dirty this this guy is",0.5818954,0.0044550443412192,0.51875,0.14,False
-"I mean, every time he's on screen, he, he, just he knows how to play the villain to to the core, and he really did a good job of bringing that home screen to the poor",0.1609341,0.975674351571959,0.4765625,0.151,False
-I'm thinking to myself that this man needs an award,0.03856816,0.0355652188115303,0.5,0.0,False
-"Well, I'll tell you that there's some beautiful shots and some beautiful symbolic scenes that was in those add interest film That actually makes you think about about the meaning of some scenes here",0.030155903,0.0016385054503195,0.2166666666666666,0.0,False
-Some scenes a touch base on,0.04680874,8.616340324639622e-05,0.9,0.0,False
-"you know, prejudice, racism, acceptance, also a touch base on homosexuality and things, And it is it touch based on so many things that's going on with our life that the movie did a good job of presenting that on the screen, so I kind of understand the parallel there, and I just say that Doug Jones, who plays this amphibian man that don't did a good job to discard to sea creatures",0.29163063,0.0041128942653739,0.3583333333333334,0.138,False
-A sea creature was a sentiment being,0.06652113,0.7737913816806888,0.5,0.0,False
-"actually, And if you're nice to him, he'll be nice to you",0.043718524,0.0487691419257589,0.3,0.0,False
+"she's a mute and she is like, do money, her own business, until scientist brings in a mysterious creature, so she goes into the factory secretly and starts to understand the creature and she gains a connection with the creature and we have the movie",0.27856,0.0,0.4666666666666667,0.0,False
+"yes, shape of water",0.025863936,0.0010910951329807,0.5,0.0,False
+"i guess guys say, like general del toro, you know, he, definitely i got is a guy who definitely brings in this the fantasy in the mythology to a world, and it just makes you want to ponder and makes you thinking things",0.087430015,2.527380351191421e-05,0.4916666666666666,0.0,False
+"how considered? this movie was very, very delightful to watch sally hawkins",0.022074303,0.0007007817711976,0.0,0.0,False
+"she plays a main character, eliza, and i gotta say that sigh, hawkins",0.07251463,0.0085928249579286,0.4166666666666667,0.0,False
+she did one hell of a job for performance,0.37221906,0.002227909622786,0.5,0.365,True
+she plays a mute and she has a connection with the sea creature who's being played by doug jones,0.22982138,0.9202552189212092,0.5,0.0,False
+and you get the chemistry of one another,0.03736641,2.497576337616051e-05,0.5,0.0,False
+and the point of this movie is you,0.062125895,0.9990543186492536,0.5,0.0,False
+there's a lot of words,0.029125832,0.014393997376293,0.5,0.0,False
+that's that that can be said without actually saying words,0.036851373,0.011053950986942,0.5,0.0,False
+how every scene is build up with her character,0.03736641,0.0016453305694283,0.5,0.0,False
+basically a picture can can give you a million words,0.03221605,0.7907543658111246,0.5,0.0,False
+and that's exactly what this movie was doing,0.055732824,0.9953602303826408,0.375,0.0,False
+"it was given us a vivid imagination of love through by language of each person, so everything has to be expressed with words insanely oh, i, i'm in love",0.101391904,0.00031935000546,0.3125,0.0,False
+"oh, i feel this way",0.026207292,0.0022303833559128,0.5,0.0,False
+"oh, i feel that way",0.024833864,0.0044227069864899,0.5,0.0,False
+"it touched my heart, because i really felt the miss free with those two characters and another performance",0.057331093,0.0026759831628782,0.35,0.076,False
+i want to praise this octavia spencer,0.03444787,0.0009981066106255,0.5,0.0,False
+"she plays the friend named zelda of sally hawkins character, and i think that octavia spencer was was like the comic relief",0.07091636,0.0069275853074319,0.375,0.0,False
+she was the source of the humor in this movie and i thought that that was pretty cool to have her on-screen michael shannon obviously did a great job with his performance as a villain,0.13082063,0.000152864785628,0.325,0.079,False
+"the leader of this operation that's doing experiments on this sea creature, and you know he did a great job of showing us how sly, mean, how grimy and dirty this this guy is",0.5818954,0.0044550443412192,0.51875,0.14,False
+"i mean, every time he's on screen, he, he, just he knows how to play the villain to to the core, and he really did a good job of bringing that home screen to the poor",0.1609341,0.975674351571959,0.4765625,0.151,False
+i'm thinking to myself that this man needs an award,0.03856816,0.0355652188115303,0.5,0.0,False
+"well, i'll tell you that there's some beautiful shots and some beautiful symbolic scenes that was in those add interest film that actually makes you think about about the meaning of some scenes here",0.030155903,0.0016385054503195,0.2166666666666666,0.0,False
+some scenes a touch base on,0.04680874,8.616340324639622e-05,0.9,0.0,False
+"you know, prejudice, racism, acceptance, also a touch base on homosexuality and things, and it is it touch based on so many things that's going on with our life that the movie did a good job of presenting that on the screen, so i kind of understand the parallel there, and i just say that doug jones, who plays this amphibian man that don't did a good job to discard to sea creatures",0.29163063,0.0041128942653739,0.3583333333333334,0.138,False
+a sea creature was a sentiment being,0.06652113,0.7737913816806888,0.5,0.0,False
+"actually, and if you're nice to him, he'll be nice to you",0.043718524,0.0487691419257589,0.3,0.0,False
 but people want to like you know,0.03616466,0.0244525837218584,0.5,0.0,False
-Wanna shock it,0.17957193,0.1267226719846564,0.5,0.565,False
-"Do experiments on this creature that he's just them, Wants to like",0.1024659,0.0594241065829674,0.4,0.0,False
+wanna shock it,0.17957193,0.1267226719846564,0.5,0.565,False
+"do experiments on this creature that he's just them, wants to like",0.1024659,0.0594241065829674,0.4,0.0,False
 kill people only to defend himself,0.62792164,0.9951018891929692,0.5,0.485,False
-You can really feel this creature on the screen like the pain he is feeling,0.14911842,0.8791027907047719,0.4,0.171,False
-You can feel his pain as well,0.068918526,0.998994054933804,0.5,0.317,False
-"The film does a good job of connecting with his audience to certain characters, especially with Sally Hawkins character and Doug Jones character",0.017423427,1.0133364615625982e-05,0.3476190476190476,0.0,False
-"Don't feel like those two were the Central audience characters and I, and every time he felt pain, I thought the pain - every time - something Hopkins felt pain",0.052136723,0.9999546978993654,0.5,0.316,False
-"I felt the pain too, and every time they felt love for one another, I felt love to Nature of this film is definitely rated R",0.10699297,0.0008541830290701,0.3333333333333333,0.091,False
-There are so few scenes that way that had a few scenes of blood and S had a few scenes of gore,0.1580154,0.9999656657763611,0.6,0.0,False
+you can really feel this creature on the screen like the pain he is feeling,0.14911842,0.8791027907047719,0.4,0.171,False
+you can feel his pain as well,0.068918526,0.998994054933804,0.5,0.317,False
+"the film does a good job of connecting with his audience to certain characters, especially with sally hawkins character and doug jones character",0.017423427,1.0133364615625982e-05,0.3476190476190476,0.0,False
+"don't feel like those two were the central audience characters and i, and every time he felt pain, i thought the pain - every time - something hopkins felt pain",0.052136723,0.9999546978993654,0.5,0.316,False
+"i felt the pain too, and every time they felt love for one another, i felt love to nature of this film is definitely rated r",0.10699297,0.0008541830290701,0.3333333333333333,0.091,False
+there are so few scenes that way that had a few scenes of blood and s had a few scenes of gore,0.1580154,0.9999656657763611,0.6,0.0,False
 but on that it didn't take away from the movie itself,0.033761155,0.9946048178545592,0.5,0.0,False
-It fit,0.029125832,0.2181919645518215,0.3,0.0,False
-"it fit right in, and added that realism layer into this film that I'd really add",0.020824814,2.086280950275937e-05,0.3523809523809523,0.0,False
-Not really had to admire,0.07690986,0.7872382373095702,0.55,0.0,False
-Where the guy said,0.021102477,0.7507984197196707,0.5,0.0,False
-"I said, The Shape of Water is definitely one of those films that I consider",0.03599298,3.3380495204415e-06,0.5,0.0,False
-It's like one of the best films of the year is definitely gonna be in somewhere in my top 10,0.059328925,0.0006791142533283,0.25,0.0,False
-I just gotta say this movie was directed very well,0.043031808,0.0003944263156564,0.4,0.0,False
-The performances was outstanding oscar-worthy performance for Sally Hawkins,0.012564304,0.000141002788225,0.25,0.0,False
-"She's definitely brought the character to life with her acting ability, and she did a phenomenal job with the with the sign language In things in a direction of style from Giro del Toro",0.040971663,1.734593590086565e-05,0.4166666666666667,0.0,False
-He definitely delivered,0.044748597,0.0007794643670366,0.5,0.0,False
-and I gotta say his film is phenomenal,0.0471521,0.0005788833556744,0.25,0.0,False
-"I gotta give this film the Shape of water, a Ben Affleck, Batman, Batman Tastic, Please do me a favor, guys and just check your calendar and check",0.11729682,0.9769366409589167,0.5,0.0,False
-going Internet and see when this film is in,0.033761155,0.0962758454444922,0.5,0.0,False
-Is gonna be in your finger nearby theater And this is a must see and go check it out,0.123736724,0.0002642721883728,0.5,0.0,False
-Thank you for watching,0.019714156,0.0344223839109828,0.5,0.0,False
-"If you like everything you see and you agree, Click right here",0.030155903,0.0071988614389949,0.3571428571428571,0.0,False
-join me in a Batman family,0.020685982,0.0002190893037925,0.5,0.0,False
-"I'll have more Batman tasks of use in the way you have been warned, and stay tuned for my review for Star Wars Until then, child",0.3411882,0.1572340838222383,0.25,0.192,False
+it fit,0.029125832,0.2181919645518215,0.3,0.0,False
+"it fit right in, and added that realism layer into this film that i'd really add",0.020824814,2.086280950275937e-05,0.3523809523809523,0.0,False
+not really had to admire,0.07690986,0.7872382373095702,0.55,0.0,False
+where the guy said,0.021102477,0.7507984197196707,0.5,0.0,False
+"i said, the shape of water is definitely one of those films that i consider",0.03599298,3.3380495204415e-06,0.5,0.0,False
+it's like one of the best films of the year is definitely gonna be in somewhere in my top 10,0.059328925,0.0006791142533283,0.25,0.0,False
+i just gotta say this movie was directed very well,0.043031808,0.0003944263156564,0.4,0.0,False
+the performances was outstanding oscar-worthy performance for sally hawkins,0.012564304,0.000141002788225,0.25,0.0,False
+"she's definitely brought the character to life with her acting ability, and she did a phenomenal job with the with the sign language in things in a direction of style from giro del toro",0.040971663,1.734593590086565e-05,0.4166666666666667,0.0,False
+he definitely delivered,0.044748597,0.0007794643670366,0.5,0.0,False
+and i gotta say his film is phenomenal,0.0471521,0.0005788833556744,0.25,0.0,False
+"i gotta give this film the shape of water, a ben affleck, batman, batman tastic, please do me a favor, guys and just check your calendar and check",0.11729682,0.9769366409589167,0.5,0.0,False
+going internet and see when this film is in,0.033761155,0.0962758454444922,0.5,0.0,False
+is gonna be in your finger nearby theater and this is a must see and go check it out,0.123736724,0.0002642721883728,0.5,0.0,False
+thank you for watching,0.019714156,0.0344223839109828,0.5,0.0,False
+"if you like everything you see and you agree, click right here",0.030155903,0.0071988614389949,0.3571428571428571,0.0,False
+join me in a batman family,0.020685982,0.0002190893037925,0.5,0.0,False
+"i'll have more batman tasks of use in the way you have been warned, and stay tuned for my review for star wars until then, child",0.3411882,0.1572340838222383,0.25,0.192,False

@@ -1,154 +1,154 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-There's nothing that says I love you more than giving your boyfriend an old-fashioned on the beach,0.355017,0.0010586133845568,0.25,0.0,False
-It's true love in its purest form,0.02929751,0.0005390225696254,0.2875,0.0,False
-"Moonlight, released in 2016 and is directed by Barry Jenkins, who has also directed such films like Medicine for Melancholy and If Beale Street could talk, And this film is starring Travante Rhodes, Andre Holland, Janelle Monae, Ashton Sanders, Jerrell, Jerome, Naomi Harris, and Mahershala Ali, Moonlight follows a young African-american man who grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and the begrudging adulthood, and this film is the recipient of three Academy awards including Best picture, officially, best supporting actor and best adapted screenplay, Which I'm gonna be honest",1.6269386e-06,0.0027720947842845,0.265625,0.046,False
-"I gotta call Cockmonkey on that adapted screenplay thing, because this is based on a play that was never published",0.45120096,0.9978873331365125,0.5,0.0,False
-"I, I believe it, the work has to be published in order for it to be adapted and fall under that category, So if anything, this should have won best original screenplay, in my opinion, and then films like Arrival or Fences should have won for best adaptive screenplay that year",0.024147147,0.9409161404744196,0.1041666666666666,0.0,False
-Just my opinion,0.017492844,0.0137311871854372,0.5,0.0,False
-"This is also the movie that was part of the big, like once in a lifetime controversy at the Oscars where the best picture winner was announced as la La Land, and then for like two minutes it was the best picture until it wasn't and they realized like Oh no, it's actually moonlight",0.06771983,0.990417462638428,0.25,0.0,False
-We had the wrong card,0.034791227,0.9923868948193094,0.75,0.437,False
-We read off the wrong card,0.03187269,0.996238435498168,0.75,0.383,False
-"I remember when it happened too, and when all of it happened and they said la la land",0.02262963,0.1016838390328279,0.5,0.0,False
-I was super happy because that was my pick for best picture that year,0.045778666,0.0008376814864791,0.1444444444444444,0.0,False
+there's nothing that says i love you more than giving your boyfriend an old-fashioned on the beach,0.355017,0.0010586133845568,0.25,0.0,False
+it's true love in its purest form,0.02929751,0.0005390225696254,0.2875,0.0,False
+"moonlight, released in 2016 and is directed by barry jenkins, who has also directed such films like medicine for melancholy and if beale street could talk, and this film is starring travante rhodes, andre holland, janelle monae, ashton sanders, jerrell, jerome, naomi harris, and mahershala ali, moonlight follows a young african-american man who grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and the begrudging adulthood, and this film is the recipient of three academy awards including best picture, officially, best supporting actor and best adapted screenplay, which i'm gonna be honest",1.6269386e-06,0.0027720947842845,0.265625,0.046,False
+"i gotta call cockmonkey on that adapted screenplay thing, because this is based on a play that was never published",0.45120096,0.9978873331365125,0.5,0.0,True
+"i, i believe it, the work has to be published in order for it to be adapted and fall under that category, so if anything, this should have won best original screenplay, in my opinion, and then films like arrival or fences should have won for best adaptive screenplay that year",0.024147147,0.9409161404744196,0.1041666666666666,0.0,False
+just my opinion,0.017492844,0.0137311871854372,0.5,0.0,False
+"this is also the movie that was part of the big, like once in a lifetime controversy at the oscars where the best picture winner was announced as la la land, and then for like two minutes it was the best picture until it wasn't and they realized like oh no, it's actually moonlight",0.06771983,0.990417462638428,0.25,0.0,False
+we had the wrong card,0.034791227,0.9923868948193094,0.75,0.437,False
+we read off the wrong card,0.03187269,0.996238435498168,0.75,0.383,False
+"i remember when it happened too, and when all of it happened and they said la la land",0.02262963,0.1016838390328279,0.5,0.0,False
+i was super happy because that was my pick for best picture that year,0.045778666,0.0008376814864791,0.1444444444444444,0.0,False
 but there was,0.017562259,0.2446254359403893,0.5,0.0,False
-I remember having this gut feeling like something was gonna happen or something,0.1710401,0.953887701028506,0.5,0.0,False
-Something like this was gonna happen,0.094410956,0.0487436327474659,0.5,0.0,False
-And then all of a sudden here it was,0.028610796,0.1549425532360041,0.5,0.0,False
-"Did they ever announce who was fired over that? I mean, that's that's something that's like Okay, someone's gonna be fired over this",0.118584804,0.9988965028384964,0.453125,0.235,False
-"It's nothing against you as a person, but this was a humongous mistake",0.19936113,0.9999594675055462,0.5,0.205,False
-Someone needs to lose their job over this,0.2145095,0.99606787118511,0.5,0.278,False
-"Oh, whatever, though, I'm not going to look it up instead",0.032731086,0.9455553526943946,0.5,0.0,False
-"I'm going to talk about this movie which is a beautiful look at a very difficult time in a very difficult subject for a lot of people, especially of a younger age",0.028610796,0.0,0.5616666666666666,0.145,False
-Now I have my own baggage,0.08501353,0.0827282219354349,0.2,0.0,False
-"I am a straight white male, So that's the experience",0.16551583,0.8566506640802166,0.4666666666666667,0.0,False
-That's the privilege that I have So looking at this film that just examines the black experience and especially someone of the black experience coming up confused about their sexual identity,0.2945986,0.0001835585539269,0.5233333333333333,0.068,False
-"I can only pull so much from my own baggage, so take that for whatever you will",0.1835188,0.0088033001556984,0.3666666666666667,0.0,False
-"Hey, it's a white boy talking about moonlight",0.31629145,0.0225788942652063,0.5,0.0,False
-"You can find it credible if you want, or you can pass over this review",0.0471521,0.1090036498915189,0.3,0.0,False
-"It's definitely your prerogative, but I'm just laying it out there for you",0.078108564,0.0968586243879369,0.5,0.0,False
-I remember watching this the first time and I was kind of lukewarm on it,0.049212243,0.9998409695658784,0.2875,0.0,False
-There were things about the film that I absolutely loved and I thought were perfect,0.038911518,0.0010964635815835,0.075,0.0,False
-They were beautiful,0.03187269,0.0017559511089899,0.075,0.0,False
-They were heart-wrenching and there were some aspects of the film where I was like this,0.09333697,0.0008021559472226,0.5,0.0,False
-What the storytelling device just doesn't really make sense Here and watching it a second time,0.0729142,0.999907043492499,0.45,0.0,False
-For this review I still feel the same way the story structure or the storytelling device that this film implements is this is three different separate chapters in Chiron's life,0.019019997,0.0101263284599565,0.5,0.0,False
-The first chapter deals when he was very very young as a kid,0.13082063,0.012427024373083,0.405,0.0,False
-"chapter two deals with when he was a teenager, and chapter three deals with when he is an adult, which sounds good on paper, I think, but in execution it just felt like you hit a wall between each chapter",0.101391904,0.9916644925155856,0.3,0.0,False
+i remember having this gut feeling like something was gonna happen or something,0.1710401,0.953887701028506,0.5,0.0,False
+something like this was gonna happen,0.094410956,0.0487436327474659,0.5,0.0,False
+and then all of a sudden here it was,0.028610796,0.1549425532360041,0.5,0.0,False
+"did they ever announce who was fired over that? i mean, that's that's something that's like okay, someone's gonna be fired over this",0.118584804,0.9988965028384964,0.453125,0.235,False
+"it's nothing against you as a person, but this was a humongous mistake",0.19936113,0.9999594675055462,0.5,0.205,False
+someone needs to lose their job over this,0.2145095,0.99606787118511,0.5,0.278,False
+"oh, whatever, though, i'm not going to look it up instead",0.032731086,0.9455553526943946,0.5,0.0,False
+"i'm going to talk about this movie which is a beautiful look at a very difficult time in a very difficult subject for a lot of people, especially of a younger age",0.028610796,0.0,0.5616666666666666,0.145,False
+now i have my own baggage,0.08501353,0.0827282219354349,0.2,0.0,False
+"i am a straight white male, so that's the experience",0.16551583,0.8566506640802166,0.4666666666666667,0.0,False
+that's the privilege that i have so looking at this film that just examines the black experience and especially someone of the black experience coming up confused about their sexual identity,0.2945986,0.0001835585539269,0.5233333333333333,0.068,False
+"i can only pull so much from my own baggage, so take that for whatever you will",0.1835188,0.0088033001556984,0.3666666666666667,0.0,False
+"hey, it's a white boy talking about moonlight",0.31629145,0.0225788942652063,0.5,0.0,False
+"you can find it credible if you want, or you can pass over this review",0.0471521,0.1090036498915189,0.3,0.0,False
+"it's definitely your prerogative, but i'm just laying it out there for you",0.078108564,0.0968586243879369,0.5,0.0,False
+i remember watching this the first time and i was kind of lukewarm on it,0.049212243,0.9998409695658784,0.2875,0.0,False
+there were things about the film that i absolutely loved and i thought were perfect,0.038911518,0.0010964635815835,0.075,0.0,False
+they were beautiful,0.03187269,0.0017559511089899,0.075,0.0,False
+they were heart-wrenching and there were some aspects of the film where i was like this,0.09333697,0.0008021559472226,0.5,0.0,False
+what the storytelling device just doesn't really make sense here and watching it a second time,0.0729142,0.999907043492499,0.45,0.0,False
+for this review i still feel the same way the story structure or the storytelling device that this film implements is this is three different separate chapters in chiron's life,0.019019997,0.0101263284599565,0.5,0.0,False
+the first chapter deals when he was very very young as a kid,0.13082063,0.012427024373083,0.405,0.0,False
+"chapter two deals with when he was a teenager, and chapter three deals with when he is an adult, which sounds good on paper, i think, but in execution it just felt like you hit a wall between each chapter",0.101391904,0.9916644925155856,0.3,0.0,False
 "in particular, the first two chapters",0.012008976,0.0081317720931749,0.3958333333333333,0.0,False
-"This is when Shiron is figuring out himself and figuring out where he wants to go with his life, And then when the screen pops up, he's aged 10 years and I go",0.0801064,0.0622517720001885,0.475,0.0,False
-"No, no, no, I was",0.02809576,0.9995698190993048,0.5,0.0,False
-I was liking what was happening with the kid,0.1539292,0.0274001748738709,0.5,0.0,False
-"I was liking what was happening with Mahershala, Ali",0.034791227,0.002197725495231,0.5,0.0,False
-I want to see that connection more so in terms of satisfying the audience in the term of storytelling,0.020685982,0.0061677343104525,0.25,0.0,False
-"The plot structure here, It doesn't make sense",0.083939545,0.9999485594960096,0.5,0.0,False
-Why would you do this? It's terrible,0.23189566,0.99999648321004,1.0,0.341,False
-"There's a part of me for like the first, like five or ten minutes of the next chapter",0.038053125,0.8073709592902951,0.4583333333333333,0.0,False
-That's just so angered inside because I was being,0.14552918,0.9958247954316064,0.875,0.346,False
-"I was being groomed for what was happening in the one part of his life and I wanted to see it and then nope, it happened and now we're over here in this chapter of his life",0.06332459,0.9958586221824924,0.5,0.0,False
-It almost felt a little pretentious like,0.118584804,0.9974506253120778,0.621875,0.0,False
-"Oh yes, this is my storytelling device",0.024147147,0.0004378999566242,0.5,0.0,False
-It's so unique to this film,0.06971766,7.280947349303017e-05,0.3125,0.0,False
-"Come on, that's That's not cool",0.09655894,0.99834591658663,0.5875,0.282,False
-but I have a sense that I'm definitely in the minority with that viewpoint on this film because this film is paled by many people by many publications as one of the best films in the last decade,0.03856816,0.791222992319748,0.3,0.0,False
-"Do I agree with that sentiment? No, it's good",0.04268845,0.0976344938203741,0.15,0.0,False
-It's just not one of the best that I've seen,0.0729142,0.99977465721282,0.0,0.0,False
-Sorry,0.020963646,0.9990517184496106,0.75,1.0,False
-"Well, let me talk about the things that I love about this film",0.03753809,0.0008259687877142,0.25,0.0,False
-"Jerrell Jerome, who plays the adolescent version of Chiron is magnificent",0.033246122,0.0002223922600102,0.0,0.0,False
-"Oh my God, I felt it felt so hard for this kid, this poor adolescent teenager who is hiding just this, what to himself, feels like this dark secret inside",0.17587385,0.9913438387598296,0.6552083333333334,0.206,False
-"He doesn't want to let that out, because if he lets that out, he's going to be bullied and beaten to an inch of his life, and just the obvious depression and sadness",0.31389946,0.9997648519255588,0.5,0.345,False
-"Just with his facial reactions alone, he doesn't have that many lines, and it makes sense because he's a quiet teenager",0.23540631,0.9659760704497672,0.4166666666666667,0.091,False
-He is struggling with his sexuality and how that has implications on the culture that he is in,0.20742953,0.9840617290816416,0.5,0.141,False
-"There have been articles and there have been interviews of the directors saying that The the black culture, the black adolescent culture, When you are a man, you're supposed to promote masculinity, and to do that, you need to promote toughness, and you need to show up your muscles and show aggression That makes you manly",0.36325815,0.1808128052640742,0.5833333333333334,0.056,False
-"That makes you tough, and to some degree that's kind of how my adolescence was too",0.08635602,0.204276410630648,0.4472222222222222,0.091,False
-"If you had any feminine or homosexual tendencies as a young boy, as a teenager you were made fun of and picked on",0.44298556,0.005903229980837,0.4,0.0,False
-"It definitely happened to me a few times growing up, and it happened to a couple other people in my school growing up as well, Needs to say, I connected with this character so much and I felt so bad for him",0.111500904,0.9256018911508206,0.5825,0.09,False
-He barely has any lines,0.119228795,0.999901202044769,0.475,0.0,False
-He just he tells the emotion,0.02637897,0.0017202169466001,0.5,0.0,False
+"this is when shiron is figuring out himself and figuring out where he wants to go with his life, and then when the screen pops up, he's aged 10 years and i go",0.0801064,0.0622517720001885,0.475,0.0,False
+"no, no, no, i was",0.02809576,0.9995698190993048,0.5,0.0,False
+i was liking what was happening with the kid,0.1539292,0.0274001748738709,0.5,0.0,False
+"i was liking what was happening with mahershala, ali",0.034791227,0.002197725495231,0.5,0.0,False
+i want to see that connection more so in terms of satisfying the audience in the term of storytelling,0.020685982,0.0061677343104525,0.25,0.0,False
+"the plot structure here, it doesn't make sense",0.083939545,0.9999485594960096,0.5,0.0,False
+why would you do this? it's terrible,0.23189566,0.99999648321004,1.0,0.341,False
+"there's a part of me for like the first, like five or ten minutes of the next chapter",0.038053125,0.8073709592902951,0.4583333333333333,0.0,False
+that's just so angered inside because i was being,0.14552918,0.9958247954316064,0.875,0.346,False
+"i was being groomed for what was happening in the one part of his life and i wanted to see it and then nope, it happened and now we're over here in this chapter of his life",0.06332459,0.9958586221824924,0.5,0.0,False
+it almost felt a little pretentious like,0.118584804,0.9974506253120778,0.621875,0.0,False
+"oh yes, this is my storytelling device",0.024147147,0.0004378999566242,0.5,0.0,False
+it's so unique to this film,0.06971766,7.280947349303017e-05,0.3125,0.0,False
+"come on, that's that's not cool",0.09655894,0.99834591658663,0.5875,0.282,False
+but i have a sense that i'm definitely in the minority with that viewpoint on this film because this film is paled by many people by many publications as one of the best films in the last decade,0.03856816,0.791222992319748,0.3,0.0,False
+"do i agree with that sentiment? no, it's good",0.04268845,0.0976344938203741,0.15,0.0,False
+it's just not one of the best that i've seen,0.0729142,0.99977465721282,0.0,0.0,False
+sorry,0.020963646,0.9990517184496106,0.75,1.0,False
+"well, let me talk about the things that i love about this film",0.03753809,0.0008259687877142,0.25,0.0,False
+"jerrell jerome, who plays the adolescent version of chiron is magnificent",0.033246122,0.0002223922600102,0.0,0.0,False
+"oh my god, i felt it felt so hard for this kid, this poor adolescent teenager who is hiding just this, what to himself, feels like this dark secret inside",0.17587385,0.9913438387598296,0.6552083333333334,0.206,False
+"he doesn't want to let that out, because if he lets that out, he's going to be bullied and beaten to an inch of his life, and just the obvious depression and sadness",0.31389946,0.9997648519255588,0.5,0.345,False
+"just with his facial reactions alone, he doesn't have that many lines, and it makes sense because he's a quiet teenager",0.23540631,0.9659760704497672,0.4166666666666667,0.091,False
+he is struggling with his sexuality and how that has implications on the culture that he is in,0.20742953,0.9840617290816416,0.5,0.141,False
+"there have been articles and there have been interviews of the directors saying that the the black culture, the black adolescent culture, when you are a man, you're supposed to promote masculinity, and to do that, you need to promote toughness, and you need to show up your muscles and show aggression that makes you manly",0.36325815,0.1808128052640742,0.5833333333333334,0.056,False
+"that makes you tough, and to some degree that's kind of how my adolescence was too",0.08635602,0.204276410630648,0.4472222222222222,0.091,False
+"if you had any feminine or homosexual tendencies as a young boy, as a teenager you were made fun of and picked on",0.44298556,0.005903229980837,0.4,0.0,False
+"it definitely happened to me a few times growing up, and it happened to a couple other people in my school growing up as well, needs to say, i connected with this character so much and i felt so bad for him",0.111500904,0.9256018911508206,0.5825,0.09,False
+he barely has any lines,0.119228795,0.999901202044769,0.475,0.0,False
+he just he tells the emotion,0.02637897,0.0017202169466001,0.5,0.0,False
 "he tells the story with his physicality and with his facial expressions, this actor is exceptional",0.04543531,0.0002319591208335,0.3333333333333333,0.0,False
-I want to see him go on to do many other things,0.0765103,0.0051728403914413,0.40625,0.0,False
-He,0.023460433,0.1741216653156828,0.5,0.0,False
-"He was great here and heck, even when we get to Young Chiron, this little kid has the same tendencies",0.28874767,0.2420455426684079,0.4109375,0.0,False
-"He's seen as an outcast, and he's constantly bullied on by kids at school, And I'll be honest, the first time that I watch this movie, I didn't watch any trailers",0.21892473,0.9999878998582734,0.3583333333333333,0.113,False
-I didn't read anything about it,0.02809576,0.999800049628463,0.5,0.0,False
-"I just watched it and it took me a while to realize like, Oh no, this is about a kid who's discovering their sexuality for the very first time and asking themselves questions",0.1580154,0.9084305383019258,0.3375,0.0,False
-Am I gay? Am I straight? What? what do I find attractive? How would I know what I find attractive? And that's where Mahershala Ali's character comes in,0.30053464,0.8090359805165067,0.2229166666666666,0.0,False
-One,0.018464668,0.0237781792481615,0.5,0.0,False
-"Hershali, of course, won the best supporting actor in this role and he absolutely deserved it, but it's annoying because he's barely in this movie",0.17661177,0.9940801099718104,0.43,0.113,False
-He's only in the first chapter,0.024318827,0.9329558267934452,0.4375,0.0,False
-You have such a great supporting character,0.040628307,0.0019585241713444,0.3249999999999999,0.0,False
-"I wanted to see where that relationship was going, and then we go to chapter two and he is",0.029984225,5.623883605458368e-05,0.5,0.0,False
-"Oh again, that's the storytelling here and I hate it because it leaves the characters to tell us about things that happen, or maybe ambiguously tell us things that may have happened to certain characters that we don't see again anymore",0.29261994,0.9998891019030424,0.6464285714285715,0.083,False
-I hate it,0.46292964,0.999996006357164,0.9,0.649,False
-I hate the storytelling here,0.36667302,0.9999851579542368,0.9,0.481,False
-I can't get over it,0.03736641,0.9996569043557708,0.5,0.0,False
-I love the child actor,0.13206954,0.0076688969671739,0.25,0.0,False
-"Mahershan Ali is fantastic in his role as one Janelle Monae who plays his wife, is a stellar actor",0.024318827,0.0002814922133203,0.3375,0.0,False
-"I've loved everything that I've seen her in, and she's such a kind-hearted warm spirited character that I I want to reach through the screen and give her a hug and say thank you for helping this kid out",0.02517722,0.0026501098579616,0.275,0.0,False
-Because this kid is being bullied,0.28683078,0.9975845315602988,0.5,0.451,False
-He is such a what seems to be a terrible life,0.5835036,0.9999110371353348,0.75,0.237,False
-Thank you for helping him,0.014438537,0.0369633102840535,0.5,0.0,False
-"And then we get to Naomi Harris's character who plays Chiron's mother, And she plays a character that you just love to hate",0.2712817,0.0480259989725012,0.575,0.12,False
-I hate this mother so much,0.8742253,0.9999293661677534,0.65,0.425,False
-She's one of the worst mothers in all of cinema,0.54375964,0.9999795549329448,1.0,0.313,False
-Putting my foot down on that and kudos goes to Naomi Harris,0.15684792,0.0164615573430783,0.5777777777777778,0.0,False
-"She is a brilliant actress and she does an amazing job here what she does and the way she portrays this drug addict of a mother who doesn't give two shits about her kid, just is looking for that next score to make herself feel good",0.5810591,1.0967616146309909e-05,0.2249999999999999,0.0,False
-The way she portrays her is so brilliantly done,0.065721996,5.683490214949183e-05,0.0499999999999999,0.0,False
-It was such a tight race with her and Viola Davis for best supporting actress that year At the Academy Awards,0.051737156,0.0492378013434495,0.3660714285714286,0.0,False
-"I would have given it to Viola Davis too, but God damn it, Naomi Harris is a close second",0.5535644,0.0066384179022967,0.5,0.153,True
-It's a character that you just love to hate,0.28517663,0.9963296336106888,0.575,0.248,False
-"There's nothing redeeming about her at all, and she tries to make her son and sequentially the audience feel bad for her in the final chapter When you see that she's in rehab and she's trying to make herself better and have a better life, You just see what she did to Shyron in the first two chapters that you go",0.065721996,0.9999858136269412,0.4321428571428571,0.052,False
-"No, you don't deserve forgiveness",0.31389946,0.9804789546049772,0.5,0.312,False
-You were a terrible mother,0.7007861,0.999840313893174,1.0,0.437,False
-No mother should ever do that to a child,0.09172598,0.9917566443338582,0.5,0.216,False
-I just hated her so much,0.6357597,0.9999740711248716,0.675,0.457,False
-She was that damn good,0.5535644,0.0026142564823528,0.15,0.314,True
-So good where I think this film falls short,0.13700475,0.0062208437995088,0.325,0.0,False
-"Other than the storytelling device is our final two lead actors in the final chapter of Chiron's life, Andre Holland and Trevontae Rhodes",0.010620655,0.0056220656038688,0.5208333333333334,0.0,False
-"they play the adult versions of the adolescent versions of their characters, and when they were teenagers they did have a kind of hidden sexual relationship and here they are as adults and they're trying to rekindle that spark because they hadn't seen each other in almost 10 years, and personally, I felt no sexual or romantic tension between the two",0.2835225,0.0110969624889049,0.4588541666666667,0.101,False
-"in particular, on Chiron's part, This this kid, your former friend from high school",0.051737156,0.0011178921576954,0.4455555555555555,0.0,False
-"He's the only one that's ever touched you or lit that flame in you in a sexual or desired manner, and here you are",0.45045215,8.95589307599491e-05,0.375,0.0,False
+i want to see him go on to do many other things,0.0765103,0.0051728403914413,0.40625,0.0,False
+he,0.023460433,0.1741216653156828,0.5,0.0,False
+"he was great here and heck, even when we get to young chiron, this little kid has the same tendencies",0.28874767,0.2420455426684079,0.4109375,0.0,False
+"he's seen as an outcast, and he's constantly bullied on by kids at school, and i'll be honest, the first time that i watch this movie, i didn't watch any trailers",0.21892473,0.9999878998582734,0.3583333333333333,0.113,False
+i didn't read anything about it,0.02809576,0.999800049628463,0.5,0.0,False
+"i just watched it and it took me a while to realize like, oh no, this is about a kid who's discovering their sexuality for the very first time and asking themselves questions",0.1580154,0.9084305383019258,0.3375,0.0,False
+am i gay? am i straight? what? what do i find attractive? how would i know what i find attractive? and that's where mahershala ali's character comes in,0.30053464,0.8090359805165067,0.2229166666666666,0.0,True
+one,0.018464668,0.0237781792481615,0.5,0.0,False
+"hershali, of course, won the best supporting actor in this role and he absolutely deserved it, but it's annoying because he's barely in this movie",0.17661177,0.9940801099718104,0.43,0.113,False
+he's only in the first chapter,0.024318827,0.9329558267934452,0.4375,0.0,False
+you have such a great supporting character,0.040628307,0.0019585241713444,0.3249999999999999,0.0,False
+"i wanted to see where that relationship was going, and then we go to chapter two and he is",0.029984225,5.623883605458368e-05,0.5,0.0,False
+"oh again, that's the storytelling here and i hate it because it leaves the characters to tell us about things that happen, or maybe ambiguously tell us things that may have happened to certain characters that we don't see again anymore",0.29261994,0.9998891019030424,0.6464285714285715,0.083,False
+i hate it,0.46292964,0.999996006357164,0.9,0.649,False
+i hate the storytelling here,0.36667302,0.9999851579542368,0.9,0.481,False
+i can't get over it,0.03736641,0.9996569043557708,0.5,0.0,False
+i love the child actor,0.13206954,0.0076688969671739,0.25,0.0,False
+"mahershan ali is fantastic in his role as one janelle monae who plays his wife, is a stellar actor",0.024318827,0.0002814922133203,0.3375,0.0,False
+"i've loved everything that i've seen her in, and she's such a kind-hearted warm spirited character that i i want to reach through the screen and give her a hug and say thank you for helping this kid out",0.02517722,0.0026501098579616,0.275,0.0,False
+because this kid is being bullied,0.28683078,0.9975845315602988,0.5,0.451,False
+he is such a what seems to be a terrible life,0.5835036,0.9999110371353348,0.75,0.237,False
+thank you for helping him,0.014438537,0.0369633102840535,0.5,0.0,False
+"and then we get to naomi harris's character who plays chiron's mother, and she plays a character that you just love to hate",0.2712817,0.0480259989725012,0.575,0.12,False
+i hate this mother so much,0.8742253,0.9999293661677534,0.65,0.425,False
+she's one of the worst mothers in all of cinema,0.54375964,0.9999795549329448,1.0,0.313,False
+putting my foot down on that and kudos goes to naomi harris,0.15684792,0.0164615573430783,0.5777777777777778,0.0,False
+"she is a brilliant actress and she does an amazing job here what she does and the way she portrays this drug addict of a mother who doesn't give two shits about her kid, just is looking for that next score to make herself feel good",0.5810591,1.0967616146309909e-05,0.2249999999999999,0.0,False
+the way she portrays her is so brilliantly done,0.065721996,5.683490214949183e-05,0.0499999999999999,0.0,False
+it was such a tight race with her and viola davis for best supporting actress that year at the academy awards,0.051737156,0.0492378013434495,0.3660714285714286,0.0,False
+"i would have given it to viola davis too, but god damn it, naomi harris is a close second",0.5535644,0.0066384179022967,0.5,0.153,True
+it's a character that you just love to hate,0.28517663,0.9963296336106888,0.575,0.248,False
+"there's nothing redeeming about her at all, and she tries to make her son and sequentially the audience feel bad for her in the final chapter when you see that she's in rehab and she's trying to make herself better and have a better life, you just see what she did to shyron in the first two chapters that you go",0.065721996,0.9999858136269412,0.4321428571428571,0.052,False
+"no, you don't deserve forgiveness",0.31389946,0.9804789546049772,0.5,0.312,False
+you were a terrible mother,0.7007861,0.999840313893174,1.0,0.437,False
+no mother should ever do that to a child,0.09172598,0.9917566443338582,0.5,0.216,False
+i just hated her so much,0.6357597,0.9999740711248716,0.675,0.457,False
+she was that damn good,0.5535644,0.0026142564823528,0.15,0.314,True
+so good where i think this film falls short,0.13700475,0.0062208437995088,0.325,0.0,False
+"other than the storytelling device is our final two lead actors in the final chapter of chiron's life, andre holland and trevontae rhodes",0.010620655,0.0056220656038688,0.5208333333333334,0.0,False
+"they play the adult versions of the adolescent versions of their characters, and when they were teenagers they did have a kind of hidden sexual relationship and here they are as adults and they're trying to rekindle that spark because they hadn't seen each other in almost 10 years, and personally, i felt no sexual or romantic tension between the two",0.2835225,0.0110969624889049,0.4588541666666667,0.101,False
+"in particular, on chiron's part, this this kid, your former friend from high school",0.051737156,0.0011178921576954,0.4455555555555555,0.0,False
+"he's the only one that's ever touched you or lit that flame in you in a sexual or desired manner, and here you are",0.45045215,8.95589307599491e-05,0.375,0.0,False
 as an adult,0.09333697,0.1449103138091287,0.45,0.0,False
 "you are on your own fruition, and you're seeing him for the very first time",0.064523295,0.0005056726716153,0.26875,0.0,False
-I do not feel any type of sexual or romantic tension between you and Kevin,0.23716165,0.999587134819362,0.375,0.128,False
-I just don't as an audience member,0.040971663,0.998352801150026,0.5,0.0,False
-"It's absent for me, Needless to say, I think this film is",0.09816993,0.99983846608828,0.75,0.0,False
-It's a good two-thirds of a film,0.049898956,0.0015051562995573,0.15,0.0,False
-"But then when we get to that final chapter, just kind of halts and all the energy at least that was supposed to be happening throughout the entire movie",0.04131502,0.999619888651277,0.4625,0.0,False
-I think we just come to an abrupt wall,0.12309273,0.9973352567194084,0.5625,0.0,False
-We never keep going,0.03839648,0.9995094376038904,0.5,0.0,False
-After that,0.02655065,0.1876661944034996,0.5,0.0,False
-"The cinematography here is beautiful, the use of colors, the use of water throughout Chiron's entire life is exceptional",0.0471521,4.61951223553814e-05,0.2472222222222222,0.0,False
-I love the little details and the layers upon layers that everything that you see in each shot is telling you as an audience member,0.07970683,0.0002018279797358,0.421875,0.0,False
-"But again, the final chapter and the way that the story is told it",0.019714156,0.008745392334578,0.5,0.0,False
-"Just why would you ever do that as a storyteller, You stop the energy, you stop the pacing abruptly, and it takes a while to get that going again, and then when you get it going again, all of a sudden we're stopping and we're fast forwarding another 10 years in this kid's life",0.089577995,0.0012135607659282,0.4875,0.103,False
-I don't want to do that,0.03358948,0.9999658454127618,0.5,0.196,False
-I want to see the transition,0.031701013,0.0006074509573208,0.5,0.0,False
-"I want to see the progression of this character as opposed to being told, Hey, here he is and hey, here he is again",0.062925026,4.685079505978036e-05,0.5,0.0,False
-here he is again as an adult There you go,0.14552918,0.0004561693824332,0.45,0.0,False
-give me the Oscar again,0.06971766,0.0013046694685349,0.5,0.0,False
-"There are great things about this film, but there are also things that I I hate about this movie and I know I'm in the minority with that, but this is my personal opinion",0.22983712,0.0081228311017512,0.5,0.128,False
-This is my channel,0.03049926,0.0004294656213813,0.5,0.0,False
-This is my review,0.021657806,0.00565353789368,0.5,0.0,False
-"If you disagree, That's totally fine",0.10515087,0.0037431758628041,0.2916666666666666,0.299,False
-"Actually, I welcome you to tell me why you disagree with me",0.07251463,0.196156470449457,0.0999999999999999,0.167,False
-"If you do, I'm gonna give moonlight three out of five blu-rays",0.07251463,0.7777980638938745,0.5,0.0,False
-"not exactly what I had in mind, but not bad",0.02637897,0.9933621483604934,0.44375,0.0,False
-"All right, guys, Now comes my favorite part of my videos where I pick which movie I'm gonna be watching next",0.084745035,4.857938673501399e-05,0.369047619047619,0.0,False
-The next one comes as a screener that I received through Gingernutsuphore,0.1731117,0.9987942178966104,0.5,0.0,False
+i do not feel any type of sexual or romantic tension between you and kevin,0.23716165,0.999587134819362,0.375,0.128,False
+i just don't as an audience member,0.040971663,0.998352801150026,0.5,0.0,False
+"it's absent for me, needless to say, i think this film is",0.09816993,0.99983846608828,0.75,0.0,False
+it's a good two-thirds of a film,0.049898956,0.0015051562995573,0.15,0.0,False
+"but then when we get to that final chapter, just kind of halts and all the energy at least that was supposed to be happening throughout the entire movie",0.04131502,0.999619888651277,0.4625,0.0,False
+i think we just come to an abrupt wall,0.12309273,0.9973352567194084,0.5625,0.0,False
+we never keep going,0.03839648,0.9995094376038904,0.5,0.0,False
+after that,0.02655065,0.1876661944034996,0.5,0.0,False
+"the cinematography here is beautiful, the use of colors, the use of water throughout chiron's entire life is exceptional",0.0471521,4.61951223553814e-05,0.2472222222222222,0.0,False
+i love the little details and the layers upon layers that everything that you see in each shot is telling you as an audience member,0.07970683,0.0002018279797358,0.421875,0.0,False
+"but again, the final chapter and the way that the story is told it",0.019714156,0.008745392334578,0.5,0.0,False
+"just why would you ever do that as a storyteller, you stop the energy, you stop the pacing abruptly, and it takes a while to get that going again, and then when you get it going again, all of a sudden we're stopping and we're fast forwarding another 10 years in this kid's life",0.089577995,0.0012135607659282,0.4875,0.103,False
+i don't want to do that,0.03358948,0.9999658454127618,0.5,0.196,False
+i want to see the transition,0.031701013,0.0006074509573208,0.5,0.0,False
+"i want to see the progression of this character as opposed to being told, hey, here he is and hey, here he is again",0.062925026,4.685079505978036e-05,0.5,0.0,False
+here he is again as an adult there you go,0.14552918,0.0004561693824332,0.45,0.0,False
+give me the oscar again,0.06971766,0.0013046694685349,0.5,0.0,False
+"there are great things about this film, but there are also things that i i hate about this movie and i know i'm in the minority with that, but this is my personal opinion",0.22983712,0.0081228311017512,0.5,0.128,False
+this is my channel,0.03049926,0.0004294656213813,0.5,0.0,False
+this is my review,0.021657806,0.00565353789368,0.5,0.0,False
+"if you disagree, that's totally fine",0.10515087,0.0037431758628041,0.2916666666666666,0.299,False
+"actually, i welcome you to tell me why you disagree with me",0.07251463,0.196156470449457,0.0999999999999999,0.167,False
+"if you do, i'm gonna give moonlight three out of five blu-rays",0.07251463,0.7777980638938745,0.5,0.0,False
+"not exactly what i had in mind, but not bad",0.02637897,0.9933621483604934,0.44375,0.0,False
+"all right, guys, now comes my favorite part of my videos where i pick which movie i'm gonna be watching next",0.084745035,4.857938673501399e-05,0.369047619047619,0.0,False
+the next one comes as a screener that i received through gingernutsuphore,0.1731117,0.9987942178966104,0.5,0.0,False
 com a great website where you can go to see reviews and talks about everything that is horror video games films,0.033246122,0.0795530374544687,0.0999999999999999,0.138,False
-Tv shows anything horror head over there,0.15042676,0.9920245760435196,0.5,0.381,False
-"If you want to check them out, It's really really cool website",0.039598234,0.0161592624230456,0.325,0.0,False
-"You got a lot of great people on there, But they gave me the screener for a film called Anti-life and it looks like Bruce Willis is here, and I'm fairly certain that this is like a direct Dvd movie for Bruce Willis, which is what he's been loving to do in the last decade, because it's a nice little steady income for him",0.09602194,0.9915434612950144,0.3566592261904762,0.0,False
+tv shows anything horror head over there,0.15042676,0.9920245760435196,0.5,0.381,False
+"if you want to check them out, it's really really cool website",0.039598234,0.0161592624230456,0.325,0.0,False
+"you got a lot of great people on there, but they gave me the screener for a film called anti-life and it looks like bruce willis is here, and i'm fairly certain that this is like a direct dvd movie for bruce willis, which is what he's been loving to do in the last decade, because it's a nice little steady income for him",0.09602194,0.9915434612950144,0.3566592261904762,0.0,False
 but we'll see if he actually cares in this movie,0.0669207,0.982685948927984,0.5,0.0,False
-"If any of you have recommendations of films that you want me to review on here, you can leave a recommendation below this video, or go to my Facebook page, my Instagram or my Twitter",0.0334178,0.9987545795012988,0.5,0.034,False
-"leave your recommendation there, and if I have access to it, I will watch review it and give you a shout on the channel",0.16758743,0.2093728949553317,0.5,0.05,False
-"and if you want me to do your recommendation as quickly as I possibly can, and bypass the whole random generator that I have here",0.0729142,0.0395782820457202,0.55,0.0,False
-you can make a Paypal donation on the main page of my Youtube channel,0.023460433,0.9665960685983858,0.4166666666666667,0.0,False
-Any size donation will do,0.020963646,0.0138878333551791,0.5,0.0,False
-"Just attach your movie with the donation, and if I have access to it, I will watch it and publish my review of it as quickly as I possibly can",0.048868883,0.0996522371582477,0.5,0.0,False
-"So guys, have you seen Moonlight? What did you think about it? Do you feel it deserves to win best picture at the Academy Awards? Whatever you thought, Comment below, let me know what you thought about it",0.07011723,0.0169685413601024,0.0499999999999999,0.0,False
+"if any of you have recommendations of films that you want me to review on here, you can leave a recommendation below this video, or go to my facebook page, my instagram or my twitter",0.0334178,0.9987545795012988,0.5,0.034,False
+"leave your recommendation there, and if i have access to it, i will watch review it and give you a shout on the channel",0.16758743,0.2093728949553317,0.5,0.05,False
+"and if you want me to do your recommendation as quickly as i possibly can, and bypass the whole random generator that i have here",0.0729142,0.0395782820457202,0.55,0.0,False
+you can make a paypal donation on the main page of my youtube channel,0.023460433,0.9665960685983858,0.4166666666666667,0.0,False
+any size donation will do,0.020963646,0.0138878333551791,0.5,0.0,False
+"just attach your movie with the donation, and if i have access to it, i will watch it and publish my review of it as quickly as i possibly can",0.048868883,0.0996522371582477,0.5,0.0,False
+"so guys, have you seen moonlight? what did you think about it? do you feel it deserves to win best picture at the academy awards? whatever you thought, comment below, let me know what you thought about it",0.07011723,0.0169685413601024,0.0499999999999999,0.0,False
 "and as always, if you like what you see here, if you like my take on movies, then hit the subscribe button",0.055333257,0.0127272032584787,0.5,0.0,False
-Make sure you hit that bell,0.22982925,0.0004195709242058,0.25,0.0,False
-So you know the next time I'm released my next movie review,0.03599298,0.0291935291303163,0.5,0.0,False
-"So guys, I will see you next time with my review of Anti Life, So in the meantime be well, be good to each other and go watch a movie, Take care, guys",0.16151784,0.7895051000309179,0.4041666666666667,0.058,False
+make sure you hit that bell,0.22982925,0.0004195709242058,0.25,0.0,False
+so you know the next time i'm released my next movie review,0.03599298,0.0291935291303163,0.5,0.0,False
+"so guys, i will see you next time with my review of anti life, so in the meantime be well, be good to each other and go watch a movie, take care, guys",0.16151784,0.7895051000309179,0.4041666666666667,0.058,False

@@ -1,32 +1,32 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-Fasten your seat belts,0.085282035,0.9971138450438782,0.5,0.0,False
-It's going to be a bumpy night,0.1256687,0.010746814351331,0.5,0.0,False
-"All about Eve, released in 1950, directed by Joseph L",0.018325835,0.0005771415812195,0.5,0.0,False
-Mankowitz,0.033074442,0.025935815776288,0.5,0.0,False
-this movie was nominated for 14 Academy Awards and won six,0.029125832,0.0,0.5,0.0,False
-"Hello anyone, Betty Davis plays this aging Broadway star Margo Channing, one of the best performances of her entire career",0.019019997,5.546400633356632e-05,0.25,0.0,False
-She's kind of freaking out,0.2712817,0.9975501956708152,0.2,0.436,False
-She is in the depths of despair,0.1621016,0.9926618526730552,0.5,0.277,False
-"Just turn 40, and that is just I mean, please",0.03753809,0.9674632819933138,0.65625,0.0,False
-You might as well just kick the bucket,0.29855597,0.9978496297770126,0.5,0.0,False
-"Now, did she not know the 40 was the new 30",0.024662184,0.1954133144372242,0.4318181818181818,0.0,False
-"But that's a whole new story, Anne Baxter",0.0136749605,0.0018430680363643,0.4159090909090909,0.0,False
-"as Eve Harrington, she was like this robot, almost like a barbie doll",0.2712817,0.8671320238860616,0.5,0.0,False
-"Like that was creepy, very stiff, and her eyes were like this every time she talked to you because she really wanted you to get her point",0.25219622,0.9998902343173958,0.5964285714285714,0.0,False
-"This woman was the most calculated human being on the face of the earth, Celeste Home, as Karen Richards, she was sassy, Thelma Ritter as Birdie one of my favorite character actors of all time, George Sanders as Addison Dewitt, incredible Marilyn Monroe, stunning, one of her first performances, Hugh Marlowe as Lloyd Richards and Gary Merrill as Bill Sampson, I love this movie",0.024318827,9.754631527660536e-05,0.275,0.0,False
-All about Eve is about these two couples and how their relationships are affected by one woman's desperate and calculated attempt for fame,0.09172598,0.001711456509245,0.8,0.146,False
-"Eve Harrington is obsessed with Margot Channing, Eve has got something up her sleeve, and it's not so pretty, totally weasels her way into Margo's heart, and little by little all the characters start to basically adopt her",0.14552918,0.7751523755105758,0.5625,0.111,False
-Eve comes in and manipulates all of them,0.1943727,0.067968382953303,0.5,0.0,False
-"She totally hits on Bill Sampson, which is Margot Channing's boyfriend",0.15859914,0.0003892315543881,0.5,0.0,False
-Margot Channing's best friend,0.014577369,5.337777288738166e-05,0.0,0.0,False
-Karen Richards is married to the playwright of all the plays that Margot Channing stars in,0.031701013,0.0011086840599724,0.375,0.0,False
-Then she's going to try to steal Lloyd from Karen so that Lloyd will only write her these award-winning plays,0.15188612,0.0117357188081574,0.5,0.138,False
-Is everybody getting that? It's kind of confusing,0.039598234,0.9999581561177364,0.425,0.239,False
-Basically she's slowly trying to claw her way into the theater world and become a superstar,0.08689302,0.9934319112413768,0.65,0.0,False
-I love this movie,0.032559406,0.001714764679424,0.25,0.0,False
-"There's conspiracy, plodding, cheating, stealing, paranoia",0.30337667,0.9988956672269296,0.65,0.864,False
-It's so good and dramatic,0.13521013,0.0024477777024084,0.4333333333333333,0.0,False
-I am just saying you have to see this movie,0.030670939,0.0010450837431987,0.5,0.0,False
-It is so worth it,0.060527626,0.0023416778300024,0.35,0.0,False
-Oh so good,0.036336336,0.0009627371287443,0.15,0.0,False
-"She's got Betty Davis eyes, Betty Davis, nominated for 10 Academy Awards in her career and she wanted to Hello, like share, Comment subscribe below",0.02054715,0.0477407105091208,0.5,0.0,False
+fasten your seat belts,0.085282035,0.9971138450438782,0.5,0.0,False
+it's going to be a bumpy night,0.1256687,0.010746814351331,0.5,0.0,False
+"all about eve, released in 1950, directed by joseph l",0.018325835,0.0005771415812195,0.5,0.0,False
+mankowitz,0.033074442,0.025935815776288,0.5,0.0,False
+this movie was nominated for 14 academy awards and won six,0.029125832,0.0,0.5,0.0,False
+"hello anyone, betty davis plays this aging broadway star margo channing, one of the best performances of her entire career",0.019019997,5.546400633356632e-05,0.25,0.0,False
+she's kind of freaking out,0.2712817,0.9975501956708152,0.2,0.436,False
+she is in the depths of despair,0.1621016,0.9926618526730552,0.5,0.277,False
+"just turn 40, and that is just i mean, please",0.03753809,0.9674632819933138,0.65625,0.0,False
+you might as well just kick the bucket,0.29855597,0.9978496297770126,0.5,0.0,False
+"now, did she not know the 40 was the new 30",0.024662184,0.1954133144372242,0.4318181818181818,0.0,False
+"but that's a whole new story, anne baxter",0.0136749605,0.0018430680363643,0.4159090909090909,0.0,False
+"as eve harrington, she was like this robot, almost like a barbie doll",0.2712817,0.8671320238860616,0.5,0.0,False
+"like that was creepy, very stiff, and her eyes were like this every time she talked to you because she really wanted you to get her point",0.25219622,0.9998902343173958,0.5964285714285714,0.0,False
+"this woman was the most calculated human being on the face of the earth, celeste home, as karen richards, she was sassy, thelma ritter as birdie one of my favorite character actors of all time, george sanders as addison dewitt, incredible marilyn monroe, stunning, one of her first performances, hugh marlowe as lloyd richards and gary merrill as bill sampson, i love this movie",0.024318827,9.754631527660536e-05,0.275,0.0,False
+all about eve is about these two couples and how their relationships are affected by one woman's desperate and calculated attempt for fame,0.09172598,0.001711456509245,0.8,0.146,False
+"eve harrington is obsessed with margot channing, eve has got something up her sleeve, and it's not so pretty, totally weasels her way into margo's heart, and little by little all the characters start to basically adopt her",0.14552918,0.7751523755105758,0.5625,0.111,False
+eve comes in and manipulates all of them,0.1943727,0.067968382953303,0.5,0.0,False
+"she totally hits on bill sampson, which is margot channing's boyfriend",0.15859914,0.0003892315543881,0.5,0.0,False
+margot channing's best friend,0.014577369,5.337777288738166e-05,0.0,0.0,False
+karen richards is married to the playwright of all the plays that margot channing stars in,0.031701013,0.0011086840599724,0.375,0.0,False
+then she's going to try to steal lloyd from karen so that lloyd will only write her these award-winning plays,0.15188612,0.0117357188081574,0.5,0.138,False
+is everybody getting that? it's kind of confusing,0.039598234,0.9999581561177364,0.425,0.239,False
+basically she's slowly trying to claw her way into the theater world and become a superstar,0.08689302,0.9934319112413768,0.65,0.0,False
+i love this movie,0.032559406,0.001714764679424,0.25,0.0,False
+"there's conspiracy, plodding, cheating, stealing, paranoia",0.30337667,0.9988956672269296,0.65,0.864,False
+it's so good and dramatic,0.13521013,0.0024477777024084,0.4333333333333333,0.0,False
+i am just saying you have to see this movie,0.030670939,0.0010450837431987,0.5,0.0,False
+it is so worth it,0.060527626,0.0023416778300024,0.35,0.0,False
+oh so good,0.036336336,0.0009627371287443,0.15,0.0,False
+"she's got betty davis eyes, betty davis, nominated for 10 academy awards in her career and she wanted to hello, like share, comment subscribe below",0.02054715,0.0477407105091208,0.5,0.0,False

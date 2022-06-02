@@ -1,72 +1,72 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-Knives Out is the new mystery thriller from Rian Johnson,0.082104236,9.585468715560604e-05,0.4318181818181818,0.0,False
-"It's Agatha Christie meets Clue, but definitely more Hercule Poirot than Colonel Mustard",0.08581903,0.0089907583384412,0.25,0.0,False
+knives out is the new mystery thriller from rian johnson,0.082104236,9.585468715560604e-05,0.4318181818181818,0.0,False
+"it's agatha christie meets clue, but definitely more hercule poirot than colonel mustard",0.08581903,0.0089907583384412,0.25,0.0,False
 "the father of a wealthy and eccentric family, dies and a quirky detective is hired to investigate",0.15976663,0.0108573316540879,0.4166666666666667,0.0,False
-"Christopher Plummer plays author, Harlan Trombe Ii",0.029125832,0.004590920897976,0.5,0.0,False
-He is a mystery writer who has done very very well for himself,0.024662184,0.0014476561427698,0.37,0.0,False
-He is the patriarch of the family,0.11407687,0.0008172387024625,0.5,0.0,False
-He is the one who dies,0.355017,0.9987810121283304,0.5,0.0,False
-"We learned that in the trailer all of his progeny are defective, or at least less than desirable in one way or another",0.2712817,0.999991117942546,0.6166666666666667,0.112,False
-Rian Johnson wrote and directed this whodunit that combines comedy with intrigue in a way that feels both familiar and new,0.046122026,7.868668348594526e-06,0.3721590909090909,0.0,False
-"The ensemble cast that they have assembled is awesome, but they don't all share the same screen time",0.0669207,0.1105500512134067,0.25,0.112,False
-"We have Jamie Lee Curtis, who's playing the daughter of Christopher Plummer, Don Johnson is her husband, and then their son, Chris Evans, who is doing his best to break away from his Captain America role",0.034962907,0.0006667206147337,0.0,0.0,False
-"There's Michael Shannon playing a son, and Toni Collette, who is the wife of a deceased son",0.08447654,0.0015329596610034,0.5,0.0,False
-"So she's a sister-in-law to Jamie Lee Curtis and Michael Shannon, But she really she has no blood ties to the family anymore",0.09172598,0.9924074801826543,0.4,0.127,False
-"Although Christopher Plummer has been taken care of her, Kathryn Langford and Jaden Martell are also in this, and they star as grandchildren to Christopher Plummer and rounding out the household cast as Ana de Armas and she is plumbers nurse",0.076110736,0.0001870895122126,0.5,0.0,False
-"Now there are three cops, are really, rather, two cops and one private investigator",0.021102477,0.0622396763592863,0.45,0.0,False
-Likitha Stanfeld is the detective in charge,0.014993866,0.0001937659580841,0.5,0.0,False
-"I mean, he's the one leading the entire investigation, calling all a family doing the questioning",0.021380141,0.0268151997039711,0.578125,0.085,False
-"There is a straight trooper, Noah Siegen, And then there is Daniel Craig, who is the private investigator who is hired",0.11665283,0.0124256109059743,0.45,0.0,False
-"He has a wonderfully forced and awkward southern accent that adds to the charm, and I'm not saying it as a bad thing, because it really does just round out his character",0.13017663,0.0004344160650786,0.6333333333333333,0.194,False
-At one point it's in one of the trail,0.029125832,0.9233950263756868,0.5,0.0,False
-"Chris Evans is like Csi Kfc, And that's kind of what it is",0.09118898,0.0300004008848079,0.2,0.0,False
-He's got this just this Southern drawl to him,0.14552918,0.0049684679508989,0.5,0.0,False
+"christopher plummer plays author, harlan trombe ii",0.029125832,0.004590920897976,0.5,0.0,False
+he is a mystery writer who has done very very well for himself,0.024662184,0.0014476561427698,0.37,0.0,False
+he is the patriarch of the family,0.11407687,0.0008172387024625,0.5,0.0,False
+he is the one who dies,0.355017,0.9987810121283304,0.5,0.0,False
+"we learned that in the trailer all of his progeny are defective, or at least less than desirable in one way or another",0.2712817,0.999991117942546,0.6166666666666667,0.112,False
+rian johnson wrote and directed this whodunit that combines comedy with intrigue in a way that feels both familiar and new,0.046122026,7.868668348594526e-06,0.3721590909090909,0.0,False
+"the ensemble cast that they have assembled is awesome, but they don't all share the same screen time",0.0669207,0.1105500512134067,0.25,0.112,False
+"we have jamie lee curtis, who's playing the daughter of christopher plummer, don johnson is her husband, and then their son, chris evans, who is doing his best to break away from his captain america role",0.034962907,0.0006667206147337,0.0,0.0,False
+"there's michael shannon playing a son, and toni collette, who is the wife of a deceased son",0.08447654,0.0015329596610034,0.5,0.0,False
+"so she's a sister-in-law to jamie lee curtis and michael shannon, but she really she has no blood ties to the family anymore",0.09172598,0.9924074801826543,0.4,0.127,False
+"although christopher plummer has been taken care of her, kathryn langford and jaden martell are also in this, and they star as grandchildren to christopher plummer and rounding out the household cast as ana de armas and she is plumbers nurse",0.076110736,0.0001870895122126,0.5,0.0,False
+"now there are three cops, are really, rather, two cops and one private investigator",0.021102477,0.0622396763592863,0.45,0.0,False
+likitha stanfeld is the detective in charge,0.014993866,0.0001937659580841,0.5,0.0,False
+"i mean, he's the one leading the entire investigation, calling all a family doing the questioning",0.021380141,0.0268151997039711,0.578125,0.085,False
+"there is a straight trooper, noah siegen, and then there is daniel craig, who is the private investigator who is hired",0.11665283,0.0124256109059743,0.45,0.0,False
+"he has a wonderfully forced and awkward southern accent that adds to the charm, and i'm not saying it as a bad thing, because it really does just round out his character",0.13017663,0.0004344160650786,0.6333333333333333,0.194,False
+at one point it's in one of the trail,0.029125832,0.9233950263756868,0.5,0.0,False
+"chris evans is like csi kfc, and that's kind of what it is",0.09118898,0.0300004008848079,0.2,0.0,False
+he's got this just this southern drawl to him,0.14552918,0.0049684679508989,0.5,0.0,False
 "that is just exaggerated, but it really works",0.043031808,0.0212103532003796,0.575,0.146,False
-It's like molasses rolling off your tongue,0.3955794,0.9998879012815944,0.5,0.0,False
-"The chemistry of the cast is wonderful, especially in their dysfunction as a family, and I love how the story unfolds at the beginning",0.10828095,0.0005289891130714,0.25,0.096,False
-All of their stories,0.021518974,0.0009716911243656,0.5,0.0,False
+it's like molasses rolling off your tongue,0.3955794,0.9998879012815944,0.5,0.0,False
+"the chemistry of the cast is wonderful, especially in their dysfunction as a family, and i love how the story unfolds at the beginning",0.10828095,0.0005289891130714,0.25,0.096,False
+all of their stories,0.021518974,0.0009716911243656,0.5,0.0,False
 their accounts are cut together in a very entertaining way,0.05653196,0.0002406203014325,0.175,0.158,False
-"There are a lot of twists and turns of this, and, despite finding out a lot that happens about halfway through the film, they still hold back enough to keep it very entertaining, and to just keep giving you misdirection so that you have to keep guessing",0.10031791,9.406635344001638e-05,0.3916666666666666,0.0,False
+"there are a lot of twists and turns of this, and, despite finding out a lot that happens about halfway through the film, they still hold back enough to keep it very entertaining, and to just keep giving you misdirection so that you have to keep guessing",0.10031791,9.406635344001638e-05,0.3916666666666666,0.0,False
 "the movie does have comedy and it is funny, but it's not overly so, which allows it to stay away from the goofiness",0.23101798,0.810747796214008,0.375,0.0,False
-"I mean, there are goofy moments in there, but they're very small and and far between",0.2945986,0.999244548227411,0.5046875,0.0,False
-"So that's why I said like, at the very beginning of this in my intro that it's a little like clue, but more along the lines towards Agatha Christie",0.055333257,0.151755525243299,0.4145833333333333,0.0,False
-"I mean, there's a lot more mystery to it with just a tiny bit of you know goofiness thrown in the comedy though is still there, especially from La, Keith Stanfield",0.29756662,0.8485652422141539,0.4765625,0.0,False
-He does some amazing looks and emotions with his eyes and he doesn't talk,0.15001574,0.0003902740278655,0.1999999999999999,0.0,False
+"i mean, there are goofy moments in there, but they're very small and and far between",0.2945986,0.999244548227411,0.5046875,0.0,False
+"so that's why i said like, at the very beginning of this in my intro that it's a little like clue, but more along the lines towards agatha christie",0.055333257,0.151755525243299,0.4145833333333333,0.0,False
+"i mean, there's a lot more mystery to it with just a tiny bit of you know goofiness thrown in the comedy though is still there, especially from la, keith stanfield",0.29756662,0.8485652422141539,0.4765625,0.0,False
+he does some amazing looks and emotions with his eyes and he doesn't talk,0.15001574,0.0003902740278655,0.1999999999999999,0.0,False
 "but he conveys so much in these moments and it was just awesome to watch because you know exactly what he's thinking, because we were thinking it also, and he is just confirming it for us",0.029812546,0.000257877721788,0.2583333333333333,0.0,False
-"Daniel Craig and Honored Armas end up being the leads in this, which was surprising to me",0.04406188,1.627383681186595e-05,0.15,0.0,False
-I didn't realize they would have as much screen time as they did,0.03736641,0.995352269700992,0.4,0.0,False
-They work really great together,0.039254878,0.0026208030601966,0.0999999999999999,0.0,False
+"daniel craig and honored armas end up being the leads in this, which was surprising to me",0.04406188,1.627383681186595e-05,0.15,0.0,False
+i didn't realize they would have as much screen time as they did,0.03736641,0.995352269700992,0.4,0.0,False
+they work really great together,0.039254878,0.0026208030601966,0.0999999999999999,0.0,False
 especially when you factor into our mice's character oddity,0.06851897,0.0492161658810665,0.5,0.0,False
-"It's brilliant and awesome and a great addition to her character, and something that I don't think I've ever seen before",0.020685982,0.0009147028899621,0.0499999999999999,0.0,False
-And so it was really,0.019852988,0.9409969990269974,0.4,0.0,False
-"It was funny, but it added a whole new level to her character and what she could or couldn't do",0.040284947,0.0001200866090018,0.4022727272727273,0.0,False
-"as great that they work well together, because they are both in the 25th James Bond film No Time to Die",0.06412373,0.0002881005615814,0.0999999999999999,0.208,False
-That's coming out in 2020,0.0186035,0.0506633153292836,0.5,0.0,False
-"Surprisingly, Jayden Martell is barely in this",0.07730943,0.7554262292223565,0.3125,0.0,False
-"I mean, he's more seen than heard, even though he is the punchline to some really funny quips",0.13700475,0.0604286009999468,0.4270833333333333,0.0,False
-"The story balance the characters very well, but like I said, they don't all have equal screen time, which I guess is kind of a problem",0.064523295,0.9966002881899784,0.3666666666666667,0.111,False
-Just when you have such a large ensemble cast that some are gonna take the forefront,0.14014533,0.0051509077954509,0.4464285714285714,0.0,False
-"Some are gonna have to fall back, and you just you trust the story",0.111500904,0.0005780788735643,0.5,0.0,False
-"And if it works, then it works and in this it works because it doesn't feel like it's missing anything",0.040284947,0.039125820752033,0.6,0.193,False
-And then one thing that I really loved is that I didn't guess the outcome,0.034791227,0.0049665305893736,0.15,0.0,False
-"That's a huge thing for me, especially in a mystery",0.026207292,0.0012473925721857,0.3999999999999999,0.0,False
-"because if I can guess it right off the bat or even partway through, and then that's what it ends up being",0.0801064,0.9446874640936122,0.3571428571428571,0.0,False
-I just kind of been bored and a little disappointed,0.1550967,0.9999804475513764,0.6046875,0.38,False
-"I mean, yay, me, but come on, I just sat through a long movie and if I guessed it, then you need to write a better mystery",0.08635602,0.9999078710080852,0.4770833333333333,0.0,False
-"I mean, take some cues from Agatha Christie",0.10515087,0.8962343802089877,0.65625,0.0,False
-She was really good and very innovative in the way that she would tell a mystery,0.062125895,0.0021015305603132,0.1624999999999999,0.0,False
-There are a few moments that dragged a little bit,0.0765103,0.988175150000216,0.596875,0.118,False
-"I mean, the movie is 2 hours and 10 minutes long, but for the most part it seemed to move at an efficient pace",0.034791227,0.0795736672033158,0.4770833333333333,0.0,False
-"Now one thing that has me curious, like any good mystery is, will it hold up to multiple viewings? I mean, once you know who did it, can you watch it again and can you still be entertained? I mean, I think back to some of the movies where there's a big twist or a big reveal and maybe it is watchable again",0.050242316,0.0,0.5015625,0.0,False
-"You know, I well, usual suspects, I love that one",0.04406188,0.0017707782396149,0.4375,0.153,False
-I love the twist at the end and I do watch that one over and over again,0.1710401,0.0009698431795262,0.25,0.0,False
-even though I know what the twist is,0.06652113,0.1234609264731063,0.5,0.0,False
-"I guess I'll find out with knives out, because I'm seeing it in two days from this date of this recording",0.1414913,0.0005044293300439,0.5,0.0,False
-"Even though I had high hopes for this film, it ended up surpassing what I thought and was a ton of fun",0.09602194,0.0024640556100252,0.385,0.0,False
-"If you enjoy mysteries with comedy and a great ensemble cast, and I don't think you're gonna go wrong with this one",0.047495455,0.0021452553196594,0.3833333333333333,0.1,False
-"There's no sex or nudity, Some violence and a lot of profanity",0.38261065,0.9995891303288432,0.5,0.387,False
-I give knives out four and a half out of five couches,0.17759849,0.132833881532131,0.5833333333333334,0.0,False
-So what's your favorite whodunit movie? Let me know in the comments below,0.05493369,0.997589385762509,0.25,0.0,False
-"If you enjoyed this review, please give it a like",0.035306264,0.0169151034767144,0.25,0.0,False
-"Also, don't forget to share and subscribe, I'm Chris, This is movies of munchies",0.12695669,0.9988298932498896,0.5,0.121,False
-Thanks for catching with me,0.03358948,0.0249274346337947,0.3,0.0,False
+"it's brilliant and awesome and a great addition to her character, and something that i don't think i've ever seen before",0.020685982,0.0009147028899621,0.0499999999999999,0.0,False
+and so it was really,0.019852988,0.9409969990269974,0.4,0.0,False
+"it was funny, but it added a whole new level to her character and what she could or couldn't do",0.040284947,0.0001200866090018,0.4022727272727273,0.0,False
+"as great that they work well together, because they are both in the 25th james bond film no time to die",0.06412373,0.0002881005615814,0.0999999999999999,0.208,False
+that's coming out in 2020,0.0186035,0.0506633153292836,0.5,0.0,False
+"surprisingly, jayden martell is barely in this",0.07730943,0.7554262292223565,0.3125,0.0,False
+"i mean, he's more seen than heard, even though he is the punchline to some really funny quips",0.13700475,0.0604286009999468,0.4270833333333333,0.0,False
+"the story balance the characters very well, but like i said, they don't all have equal screen time, which i guess is kind of a problem",0.064523295,0.9966002881899784,0.3666666666666667,0.111,False
+just when you have such a large ensemble cast that some are gonna take the forefront,0.14014533,0.0051509077954509,0.4464285714285714,0.0,False
+"some are gonna have to fall back, and you just you trust the story",0.111500904,0.0005780788735643,0.5,0.0,False
+"and if it works, then it works and in this it works because it doesn't feel like it's missing anything",0.040284947,0.039125820752033,0.6,0.193,False
+and then one thing that i really loved is that i didn't guess the outcome,0.034791227,0.0049665305893736,0.15,0.0,False
+"that's a huge thing for me, especially in a mystery",0.026207292,0.0012473925721857,0.3999999999999999,0.0,False
+"because if i can guess it right off the bat or even partway through, and then that's what it ends up being",0.0801064,0.9446874640936122,0.3571428571428571,0.0,False
+i just kind of been bored and a little disappointed,0.1550967,0.9999804475513764,0.6046875,0.38,False
+"i mean, yay, me, but come on, i just sat through a long movie and if i guessed it, then you need to write a better mystery",0.08635602,0.9999078710080852,0.4770833333333333,0.0,False
+"i mean, take some cues from agatha christie",0.10515087,0.8962343802089877,0.65625,0.0,False
+she was really good and very innovative in the way that she would tell a mystery,0.062125895,0.0021015305603132,0.1624999999999999,0.0,False
+there are a few moments that dragged a little bit,0.0765103,0.988175150000216,0.596875,0.118,False
+"i mean, the movie is 2 hours and 10 minutes long, but for the most part it seemed to move at an efficient pace",0.034791227,0.0795736672033158,0.4770833333333333,0.0,False
+"now one thing that has me curious, like any good mystery is, will it hold up to multiple viewings? i mean, once you know who did it, can you watch it again and can you still be entertained? i mean, i think back to some of the movies where there's a big twist or a big reveal and maybe it is watchable again",0.050242316,0.0,0.5015625,0.0,False
+"you know, i well, usual suspects, i love that one",0.04406188,0.0017707782396149,0.4375,0.153,False
+i love the twist at the end and i do watch that one over and over again,0.1710401,0.0009698431795262,0.25,0.0,False
+even though i know what the twist is,0.06652113,0.1234609264731063,0.5,0.0,False
+"i guess i'll find out with knives out, because i'm seeing it in two days from this date of this recording",0.1414913,0.0005044293300439,0.5,0.0,False
+"even though i had high hopes for this film, it ended up surpassing what i thought and was a ton of fun",0.09602194,0.0024640556100252,0.385,0.0,False
+"if you enjoy mysteries with comedy and a great ensemble cast, and i don't think you're gonna go wrong with this one",0.047495455,0.0021452553196594,0.3833333333333333,0.1,False
+"there's no sex or nudity, some violence and a lot of profanity",0.38261065,0.9995891303288432,0.5,0.387,False
+i give knives out four and a half out of five couches,0.17759849,0.132833881532131,0.5833333333333334,0.0,False
+so what's your favorite whodunit movie? let me know in the comments below,0.05493369,0.997589385762509,0.25,0.0,False
+"if you enjoyed this review, please give it a like",0.035306264,0.0169151034767144,0.25,0.0,False
+"also, don't forget to share and subscribe, i'm chris, this is movies of munchies",0.12695669,0.9988298932498896,0.5,0.121,False
+thanks for catching with me,0.03358948,0.0249274346337947,0.3,0.0,False

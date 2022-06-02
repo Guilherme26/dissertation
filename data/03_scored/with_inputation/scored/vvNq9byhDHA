@@ -1,99 +1,99 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-There has been a crime,0.1019289,0.9997863233788364,0.5,0.467,False
-"I paid to see one movie, but discovered another",0.051737156,0.9167635523778506,0.5,0.0,False
-"The old switcharoo, Mr",0.1024659,0.0478130127780646,0.45,0.0,False
-Ron Johnson continues to subvert expectations,0.14956708,0.9971634868173684,0.5,0.0,False
-"Indeed, Who gets the most screen time? Why? this little later, right here back of the poster before the plot thickens",0.07011723,0.928941122806413,0.4401785714285714,0.0,False
-This must be how this low-budget movie could afford all these actors who actually have very little screen time,0.13700475,0.9999081688283156,0.5609375,0.0,False
-She also appears very little in the trailer,0.13296685,0.9953941049037458,0.621875,0.0,False
-A trailer for whoever cut it should be paid most handsomely,0.15130237,0.9780246009181508,0.25,0.147,False
-"Yes, that voice is fun to do",0.055732824,0.001266352155584,0.35,0.0,False
-"I see you, Daniel Craig, I wish she done it more",0.053335425,0.0002970429915633,0.25,0.0,False
-Everyone has so little screen time and clinic,0.14866976,0.9988818116725378,0.59375,0.0,False
-"Take a quick place, the detective",0.059728492,0.0007810567523496,0.3333333333333333,0.0,False
-"Anyway, how did I like the movie? We actually got Well",0.037194733,0.0023729162840988,0.5,0.0,False
-"It's hard for me to tell, because I really couldn't get over my disappointment and not getting the all-star ensemble murder mystery I had been promised from the trailers",0.16965903,0.993422879207375,0.6152777777777778,0.255,False
-I didn't live,0.119228795,0.9999276319101428,0.4318181818181818,0.0,False
-"Other trailer started out, but I thought the last couple of trailers were amazing and they've been playing it so often",0.08330294,0.000805825237799,0.4208333333333333,0.0,False
-"I've seen it in front of so many movies, and every time it played I'd be like I can't wait to see this movie",0.04680874,0.0004908094463247,0.25,0.0,False
-So they whipped me up into a frenzy,0.14104263,0.0065562270401579,0.5,0.247,False
-"And then, and typical Rian Johnson, you know, but playbook then he switched it on me, wasn't what I wanted",0.09118898,0.9999669157414576,0.5833333333333334,0.0,False
-"Speaking of being blindsided blindsided, this film's strong political commentary was also a surprise, and it must be why Lionsgate is trying to float it in as an awards contender",0.15743166,0.0024495167745983,0.3916666666666666,0.0,False
-It's been on the festival circuit,0.02929751,0.0011062958777699,0.5,0.0,False
-I'm gonna invite you to award screenings and I've been like not knives out,0.15918289,0.01350976323921,0.5,0.0,False
-Really,0.015757442,0.0654164314132471,0.4,0.0,False
-"Now that I've seen it, I get it and I also suspect that's why it's getting such overwhelmingly strong reviews",0.038911518,0.0040999145800211,0.3916666666666666,0.154,False
-Now I don't mind political films at all,0.036679696,0.0214646198578455,0.5,0.0,False
-"In fact, I quite enjoy them, but again, I did not appreciate the bait-and-switch and also this movie is very aggressive, and I'd say somewhat mean-spirited in its commentary",0.22978203,0.995995463462624,0.35,0.156,False
-"I mean, I kind of liked what",0.021380141,0.9974565656590344,0.3520833333333333,0.0,False
+there has been a crime,0.1019289,0.9997863233788364,0.5,0.467,False
+"i paid to see one movie, but discovered another",0.051737156,0.9167635523778506,0.5,0.0,False
+"the old switcharoo, mr",0.1024659,0.0478130127780646,0.45,0.0,False
+ron johnson continues to subvert expectations,0.14956708,0.9971634868173684,0.5,0.0,False
+"indeed, who gets the most screen time? why? this little later, right here back of the poster before the plot thickens",0.07011723,0.928941122806413,0.4401785714285714,0.0,False
+this must be how this low-budget movie could afford all these actors who actually have very little screen time,0.13700475,0.9999081688283156,0.5609375,0.0,False
+she also appears very little in the trailer,0.13296685,0.9953941049037458,0.621875,0.0,False
+a trailer for whoever cut it should be paid most handsomely,0.15130237,0.9780246009181508,0.25,0.147,False
+"yes, that voice is fun to do",0.055732824,0.001266352155584,0.35,0.0,False
+"i see you, daniel craig, i wish she done it more",0.053335425,0.0002970429915633,0.25,0.0,False
+everyone has so little screen time and clinic,0.14866976,0.9988818116725378,0.59375,0.0,False
+"take a quick place, the detective",0.059728492,0.0007810567523496,0.3333333333333333,0.0,False
+"anyway, how did i like the movie? we actually got well",0.037194733,0.0023729162840988,0.5,0.0,False
+"it's hard for me to tell, because i really couldn't get over my disappointment and not getting the all-star ensemble murder mystery i had been promised from the trailers",0.16965903,0.993422879207375,0.6152777777777778,0.255,False
+i didn't live,0.119228795,0.9999276319101428,0.4318181818181818,0.0,False
+"other trailer started out, but i thought the last couple of trailers were amazing and they've been playing it so often",0.08330294,0.000805825237799,0.4208333333333333,0.0,False
+"i've seen it in front of so many movies, and every time it played i'd be like i can't wait to see this movie",0.04680874,0.0004908094463247,0.25,0.0,False
+so they whipped me up into a frenzy,0.14104263,0.0065562270401579,0.5,0.247,False
+"and then, and typical rian johnson, you know, but playbook then he switched it on me, wasn't what i wanted",0.09118898,0.9999669157414576,0.5833333333333334,0.0,False
+"speaking of being blindsided blindsided, this film's strong political commentary was also a surprise, and it must be why lionsgate is trying to float it in as an awards contender",0.15743166,0.0024495167745983,0.3916666666666666,0.0,False
+it's been on the festival circuit,0.02929751,0.0011062958777699,0.5,0.0,False
+i'm gonna invite you to award screenings and i've been like not knives out,0.15918289,0.01350976323921,0.5,0.0,False
+really,0.015757442,0.0654164314132471,0.4,0.0,False
+"now that i've seen it, i get it and i also suspect that's why it's getting such overwhelmingly strong reviews",0.038911518,0.0040999145800211,0.3916666666666666,0.154,False
+now i don't mind political films at all,0.036679696,0.0214646198578455,0.5,0.0,False
+"in fact, i quite enjoy them, but again, i did not appreciate the bait-and-switch and also this movie is very aggressive, and i'd say somewhat mean-spirited in its commentary",0.22978203,0.995995463462624,0.35,0.156,False
+"i mean, i kind of liked what",0.021380141,0.9974565656590344,0.3520833333333333,0.0,False
 some of what it was saying,0.021380141,0.7699475650268867,0.5,0.0,False
-"I'm still not totally sure by the way what it is saying, but I thought it's like you don't have to insult me while you're making your point, Ryan",0.14014533,0.9811195885963508,0.625,0.046,False
-"right, I mean, after what happened with how he dealt with the Star Wars fans who are unhappy with the Last Jedi, you would think he would have learned his lesson, but instead he seems to have doubled down",0.119228795,0.9999908198633954,0.578234126984127,0.102,False
-You know how he tweets about Star Wars,0.032731086,0.994234069460073,0.5,0.34,False
-"Well, that's how he deals with this situation as well, and I even like the Last Jedi, But he made so many people upset and I don't like",0.13565879,0.9966419179522906,0.375,0.188,False
-"I don't think he handled himself very well and in that in that situation, and I don't like how he's handling himself here",0.06931809,0.9997957419605475,0.4,0.083,False
-To be honest with you now,0.03427619,0.0066599208558963,0.2,0.0,False
-"speaking of Star Wars, Yes, Johnson really does continue to love to subvert expectations, but not just with the trailer, but the mystery and the movie itself",0.10300289,0.0864102414080851,0.325,0.075,False
-Don't worry,0.023632111,0.0054265337363015,0.5,0.0,False
-"No spoilers, but I wouldn't even call this a murder mystery to be honest with you, and I discovered that I would say halfway through it when the movie wants you to, and I was really disappointed in that revelation",0.22979778,0.9999887334687124,0.4916666666666666,0.24,False
-I was like it's not even a murder mystery,0.1510105,0.9999570798808096,0.5,0.0,False
-Are you kidding me? I'd say it's more of a political thriller,0.22981352,0.9930261065499708,0.375,0.0,False
-"well thriller with like political straw very strong, not at all, hidden undertones and Johnson's choices and twists, I'd say are a little too clever",0.2459383,0.8007327060458561,0.4624166666666666,0.0,False
-"So much so that I had not only found them disappointing, but I think they stuck a lot of energy out of the film",0.1884524,0.9856633091310556,0.5666666666666667,0.163,False
-You're like,0.03856816,0.0002069107412635,0.5,0.0,False
-I don't even know what this is anymore,0.043375164,0.9937588781682312,0.5,0.0,False
-"In fact, it's one the film, which starts out very strong by the way, So when you start watching this movie, you'll be like Oh Grace Iran, but then you'll be like Moomin, God, But when it switches for my ensemble and turns more into a film about honored to are Mrs",0.08367105,0.995422599093986,0.2341666666666666,0.0,False
-"Marta, that's when it slows down considerably and loses its energy And it's really unfair to De Armas By the way, I've been a fan of her since War dogs",0.13835071,0.9999656639046476,0.6069444444444445,0.251,False
-She was so good in that movie,0.07451247,0.0013947846511334,0.15,0.0,False
-"I thought she really stood out and what's usually a typical girlfriend role And I thought she did a great job, Blade Runner 2049 movie I had problems with, but I thought she was very good",0.09978092,0.0035296134962791,0.2820833333333333,0.044,False
-The acting was not one of the problems with that movie,0.052935857,0.0013334148418189,0.5,0.213,False
-"Some of you really liked Blade Runner 2049 Some of you really liked this movie, So I'll be curious to hear your thoughts about it down below, But anyway, I think Ana de Armas is very talented and very likable",0.03994159,0.0023486544945009,0.2912962962962963,0.0,False
+"i'm still not totally sure by the way what it is saying, but i thought it's like you don't have to insult me while you're making your point, ryan",0.14014533,0.9811195885963508,0.625,0.046,False
+"right, i mean, after what happened with how he dealt with the star wars fans who are unhappy with the last jedi, you would think he would have learned his lesson, but instead he seems to have doubled down",0.119228795,0.9999908198633954,0.578234126984127,0.102,False
+you know how he tweets about star wars,0.032731086,0.994234069460073,0.5,0.34,False
+"well, that's how he deals with this situation as well, and i even like the last jedi, but he made so many people upset and i don't like",0.13565879,0.9966419179522906,0.375,0.188,False
+"i don't think he handled himself very well and in that in that situation, and i don't like how he's handling himself here",0.06931809,0.9997957419605475,0.4,0.083,False
+to be honest with you now,0.03427619,0.0066599208558963,0.2,0.0,False
+"speaking of star wars, yes, johnson really does continue to love to subvert expectations, but not just with the trailer, but the mystery and the movie itself",0.10300289,0.0864102414080851,0.325,0.075,False
+don't worry,0.023632111,0.0054265337363015,0.5,0.0,False
+"no spoilers, but i wouldn't even call this a murder mystery to be honest with you, and i discovered that i would say halfway through it when the movie wants you to, and i was really disappointed in that revelation",0.22979778,0.9999887334687124,0.4916666666666666,0.24,False
+i was like it's not even a murder mystery,0.1510105,0.9999570798808096,0.5,0.0,False
+are you kidding me? i'd say it's more of a political thriller,0.22981352,0.9930261065499708,0.375,0.0,False
+"well thriller with like political straw very strong, not at all, hidden undertones and johnson's choices and twists, i'd say are a little too clever",0.2459383,0.8007327060458561,0.4624166666666666,0.0,False
+"so much so that i had not only found them disappointing, but i think they stuck a lot of energy out of the film",0.1884524,0.9856633091310556,0.5666666666666667,0.163,False
+you're like,0.03856816,0.0002069107412635,0.5,0.0,False
+i don't even know what this is anymore,0.043375164,0.9937588781682312,0.5,0.0,False
+"in fact, it's one the film, which starts out very strong by the way, so when you start watching this movie, you'll be like oh grace iran, but then you'll be like moomin, god, but when it switches for my ensemble and turns more into a film about honored to are mrs",0.08367105,0.995422599093986,0.2341666666666666,0.0,False
+"marta, that's when it slows down considerably and loses its energy and it's really unfair to de armas by the way, i've been a fan of her since war dogs",0.13835071,0.9999656639046476,0.6069444444444445,0.251,False
+she was so good in that movie,0.07451247,0.0013947846511334,0.15,0.0,False
+"i thought she really stood out and what's usually a typical girlfriend role and i thought she did a great job, blade runner 2049 movie i had problems with, but i thought she was very good",0.09978092,0.0035296134962791,0.2820833333333333,0.044,False
+the acting was not one of the problems with that movie,0.052935857,0.0013334148418189,0.5,0.213,False
+"some of you really liked blade runner 2049 some of you really liked this movie, so i'll be curious to hear your thoughts about it down below, but anyway, i think ana de armas is very talented and very likable",0.03994159,0.0023486544945009,0.2912962962962963,0.0,False
 but here she plays a character with so little agency,0.13386416,0.995007406552096,0.59375,0.0,False
-"Well, it's the type of female character we're trying to get away from, you know, in entertainment, you know like I don't want to give too much away, but I found it frustrating the type of woman she was playing also to make her the face of such harsh commentary",0.23540631,0.9999693001925236,0.54,0.149,False
-I mean it's not,0.014577369,0.959015935852782,0.65625,0.0,False
-It's not doing her any favors,0.05773066,0.9998494219151738,0.5,0.0,False
-"I would say strikingly similar when think about it, - how Ryan Johnson hung poor Kelly Marie melt",0.18647896,0.1393207634809635,0.6,0.154,False
-Tell him a reet ran out to dry in the last Jedi,0.32563272,0.99995564921017,0.5166666666666666,0.0,False
-"I mean, she's already looking better with Jj Abrams the stewardship, you know, I think telling Miri Tran, you know, also didn't handle the situation as well as she could have",0.06971766,0.9999497476937812,0.453125,0.0,False
-"Although it was new to her, I think she was unexpected",0.04818217,0.0667514557595357,0.4409090909090909,0.0,False
-"I think think it's understandable and she already looked so much better here, I said, in my commentary in The Last Jedi, The Kelly Marie Tran was given very poor lines",0.12888865,0.9999799109997678,0.5033333333333333,0.095,False
-"She was given very unfortunate, you know, hairstyle and costume design, and she was made the face of something that was very aggressively trying to change what Star Wars lives",0.22978203,0.9999116262823616,0.6125,0.26,False
-And that was you know,0.018881164,0.7841996078829833,0.5,0.0,False
-it was unfortunate and I feel come bad because I think Anand Armas is like in the same situation here,0.19141254,0.9999546954297436,0.7,0.25,False
-Now as for the rest of the cast,0.03753809,0.0016639593708613,0.5,0.0,False
-"they're clearly all having a great time right, and for the little for the little time that they're on screen, and Johnson has assembled such a strong group of personalities here who are all very talented actors that they're limited scenes can't help but be enjoyable, but I will say that you've seen most of their best moments in the trailer",0.042001735,0.0,0.329890873015873,0.041,False
-"In the trailers, a Frank Oz, though he shows up briefly and is a delight, but he's like he's got two scenes, and like a handful of wines, But the production design, They, that team also deserves a shout out because they do",0.078108564,0.0320213000629286,0.5,0.0,False
-I think maybe even the best work here,0.027409043,0.0002304870011799,0.0,0.0,False
+"well, it's the type of female character we're trying to get away from, you know, in entertainment, you know like i don't want to give too much away, but i found it frustrating the type of woman she was playing also to make her the face of such harsh commentary",0.23540631,0.9999693001925236,0.54,0.149,False
+i mean it's not,0.014577369,0.959015935852782,0.65625,0.0,False
+it's not doing her any favors,0.05773066,0.9998494219151738,0.5,0.0,False
+"i would say strikingly similar when think about it, - how ryan johnson hung poor kelly marie melt",0.18647896,0.1393207634809635,0.6,0.154,False
+tell him a reet ran out to dry in the last jedi,0.32563272,0.99995564921017,0.5166666666666666,0.0,False
+"i mean, she's already looking better with jj abrams the stewardship, you know, i think telling miri tran, you know, also didn't handle the situation as well as she could have",0.06971766,0.9999497476937812,0.453125,0.0,False
+"although it was new to her, i think she was unexpected",0.04818217,0.0667514557595357,0.4409090909090909,0.0,False
+"i think think it's understandable and she already looked so much better here, i said, in my commentary in the last jedi, the kelly marie tran was given very poor lines",0.12888865,0.9999799109997678,0.5033333333333333,0.095,False
+"she was given very unfortunate, you know, hairstyle and costume design, and she was made the face of something that was very aggressively trying to change what star wars lives",0.22978203,0.9999116262823616,0.6125,0.26,False
+and that was you know,0.018881164,0.7841996078829833,0.5,0.0,False
+it was unfortunate and i feel come bad because i think anand armas is like in the same situation here,0.19141254,0.9999546954297436,0.7,0.25,False
+now as for the rest of the cast,0.03753809,0.0016639593708613,0.5,0.0,False
+"they're clearly all having a great time right, and for the little for the little time that they're on screen, and johnson has assembled such a strong group of personalities here who are all very talented actors that they're limited scenes can't help but be enjoyable, but i will say that you've seen most of their best moments in the trailer",0.042001735,0.0,0.329890873015873,0.041,False
+"in the trailers, a frank oz, though he shows up briefly and is a delight, but he's like he's got two scenes, and like a handful of wines, but the production design, they, that team also deserves a shout out because they do",0.078108564,0.0320213000629286,0.5,0.0,False
+i think maybe even the best work here,0.027409043,0.0002304870011799,0.0,0.0,False
 "the costume design - it's a beautiful, stunning",0.036508016,6.977499932266687e-05,0.1624999999999999,0.0,False
 "and really, you know a film with so much dimension",0.08420804,0.0030452420678329,0.4,0.0,False
-I guess I would say the thrombi of State and the thrombi family are really,0.14193995,0.1806659229365087,0.4,0.0,False
-"They're an amazing, amazingly well realized murder mystery setting and cast of characters",0.13476147,1.5498931929853384e-06,0.1999999999999999,0.235,False
-"I mean, one point, Lee Keith Stanfield has a great line when he says, It's like a living clue board And it really is",0.043718524,0.0012472169357782,0.3854166666666667,0.0,False
-"It's so cool and it's unfortunate that it never lives up to that, but it's still even the promise of that Throughout the film is enjoyable to watch",0.044748597,0.0011149097072463,0.4416666666666666,0.058,False
-You're like any minute now it never happens,0.08635602,0.0928085283707502,0.5,0.0,False
-but I was still coldest,0.10515087,0.9949082729990216,0.5,0.0,False
-It was still a cool place to be,0.017284594,0.0117024685536357,0.325,0.0,False
-"Are so so yes, this is a political thriller and murder mystery clothing only, but that clothing again makes the film somewhat enjoyable throughout",0.2297899,0.0021877636588137,0.4166666666666667,0.095,False
-I still maintained by the way that this is a fun movie to see for the Thanksgiving holiday,0.039254878,0.0038813200285335,0.35,0.0,False
-"Even with its problems, it's still",0.038911518,0.0026147294278429,0.5,0.351,False
-It's still so Thanksgiving,0.034104515,0.9573878326648276,0.5,0.0,False
-You and so much about like family fighting that,0.09172598,0.9728079584869452,0.4,0.204,False
-I think it's a fun choice,0.0224908,0.0477647276439754,0.35,0.0,False
-"But if you don't see it during the Thanksgiving holiday, or if you're in a country where they don't have Thanksgiving, I don't necessarily know if it's worth paying to see it in theaters when there are so many other great choices out there",0.040284947,0.9742079889304244,0.3525,0.0,False
-Go see Ford versus Ferrari,0.015340946,0.1265917887433582,0.5,0.0,False
-"Ah, the good parts, Though here are good enough good enough that I would not",0.07091636,0.214611355787252,0.29,0.0,False
-I would not skip it all together,0.07131593,0.0010707079456079,0.5,0.0,False
-"You should see it at some point, but I'm telling you, I'm curious how all of you felt, you know, and Mark your comments to such spoilery down below how you felt when the movie switched gears so incredibly, I mean, were you as disappointed as I was? I mean, I see again",0.1668969,0.9998879606055302,0.6358796296296296,0.071,False
-"I've seen some people say they really enjoyed the film, so I'm curious",0.036851373,0.0073270306529232,0.4,0.0,False
-"Did you not see most of the trailers? I mean, did you like the political commentary so much that you were rooting for that when that change happened? I'm just very curious",0.045778666,0.998406799214526,0.47425,0.0,False
-"so and again, because I know so many of you enjoyed it",0.0495556,0.0573415772947085,0.25,0.0,False
-I want to be respectful of that,0.02262963,0.9691979889897376,0.25,0.0,False
-So and that's my review of Knives out,0.067320265,0.2193393943893687,0.5,0.0,False
-Share those thoughts down below again,0.053335425,0.0008930067299044,0.5777777777777778,0.0,False
-Mark spoilers as such,0.09924392,0.2034284293152879,0.5,0.0,False
-I know people are upset with Ryan Johnson,0.14552918,0.9857277489211178,0.5,0.271,False
-Don't ruin this movie for anybody,0.15451296,0.995131785480833,0.5,0.0,False
-I think that's really really in poor form,0.15276173,0.9999884354123292,0.7,0.342,False
-You know two wrongs do not make a right,0.05613239,0.9981986664420912,0.3571428571428571,0.0,False
-"So again, share those thoughts down below",0.04131502,0.0113858134520535,0.5777777777777778,0.0,False
-"Subscribe today, and of course, as always, you can check out some more videos right now",0.06532243,0.7716442807942689,0.3035714285714286,0.0,False
+i guess i would say the thrombi of state and the thrombi family are really,0.14193995,0.1806659229365087,0.4,0.0,False
+"they're an amazing, amazingly well realized murder mystery setting and cast of characters",0.13476147,1.5498931929853384e-06,0.1999999999999999,0.235,False
+"i mean, one point, lee keith stanfield has a great line when he says, it's like a living clue board and it really is",0.043718524,0.0012472169357782,0.3854166666666667,0.0,False
+"it's so cool and it's unfortunate that it never lives up to that, but it's still even the promise of that throughout the film is enjoyable to watch",0.044748597,0.0011149097072463,0.4416666666666666,0.058,False
+you're like any minute now it never happens,0.08635602,0.0928085283707502,0.5,0.0,False
+but i was still coldest,0.10515087,0.9949082729990216,0.5,0.0,False
+it was still a cool place to be,0.017284594,0.0117024685536357,0.325,0.0,False
+"are so so yes, this is a political thriller and murder mystery clothing only, but that clothing again makes the film somewhat enjoyable throughout",0.2297899,0.0021877636588137,0.4166666666666667,0.095,False
+i still maintained by the way that this is a fun movie to see for the thanksgiving holiday,0.039254878,0.0038813200285335,0.35,0.0,False
+"even with its problems, it's still",0.038911518,0.0026147294278429,0.5,0.351,False
+it's still so thanksgiving,0.034104515,0.9573878326648276,0.5,0.0,False
+you and so much about like family fighting that,0.09172598,0.9728079584869452,0.4,0.204,False
+i think it's a fun choice,0.0224908,0.0477647276439754,0.35,0.0,False
+"but if you don't see it during the thanksgiving holiday, or if you're in a country where they don't have thanksgiving, i don't necessarily know if it's worth paying to see it in theaters when there are so many other great choices out there",0.040284947,0.9742079889304244,0.3525,0.0,False
+go see ford versus ferrari,0.015340946,0.1265917887433582,0.5,0.0,False
+"ah, the good parts, though here are good enough good enough that i would not",0.07091636,0.214611355787252,0.29,0.0,False
+i would not skip it all together,0.07131593,0.0010707079456079,0.5,0.0,False
+"you should see it at some point, but i'm telling you, i'm curious how all of you felt, you know, and mark your comments to such spoilery down below how you felt when the movie switched gears so incredibly, i mean, were you as disappointed as i was? i mean, i see again",0.1668969,0.9998879606055302,0.6358796296296296,0.071,False
+"i've seen some people say they really enjoyed the film, so i'm curious",0.036851373,0.0073270306529232,0.4,0.0,False
+"did you not see most of the trailers? i mean, did you like the political commentary so much that you were rooting for that when that change happened? i'm just very curious",0.045778666,0.998406799214526,0.47425,0.0,False
+"so and again, because i know so many of you enjoyed it",0.0495556,0.0573415772947085,0.25,0.0,False
+i want to be respectful of that,0.02262963,0.9691979889897376,0.25,0.0,False
+so and that's my review of knives out,0.067320265,0.2193393943893687,0.5,0.0,False
+share those thoughts down below again,0.053335425,0.0008930067299044,0.5777777777777778,0.0,False
+mark spoilers as such,0.09924392,0.2034284293152879,0.5,0.0,False
+i know people are upset with ryan johnson,0.14552918,0.9857277489211178,0.5,0.271,False
+don't ruin this movie for anybody,0.15451296,0.995131785480833,0.5,0.0,False
+i think that's really really in poor form,0.15276173,0.9999884354123292,0.7,0.342,False
+you know two wrongs do not make a right,0.05613239,0.9981986664420912,0.3571428571428571,0.0,False
+"so again, share those thoughts down below",0.04131502,0.0113858134520535,0.5777777777777778,0.0,False
+"subscribe today, and of course, as always, you can check out some more videos right now",0.06532243,0.7716442807942689,0.3035714285714286,0.0,False

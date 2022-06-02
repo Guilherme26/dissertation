@@ -1,78 +1,78 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Who knew Jimmy Hoffa was such a big ice cream fan? Hey, everybody, welcome to Mainely Movies",0.0789077,0.0009169097821691,0.3666666666666667,0.0,False
-"Today, Iím, gonna be talking about the 2019 gangster crime drama: The Irishman",0.15042676,0.0472240128676125,0.5,0.226,False
-"If youíre new here, please consider subscribing for a variety of movie-related content like reviews, ranked lists, and trailer reactions",0.011661896,0.9961436501926296,0.4318181818181818,0.0,False
-"All of my reviews include a breakdown of the pros and cons, my rating, and some tailored film recommendations, so be sure to watch through to the end of this video for all of that extra content",0.067320265,0.9097524558167563,0.375,0.0,False
-"The Irishman stars Robert De Niro, Al Pacino, and Joe Pesci, and was directed by Martin Scorsese",0.043375164,0.0012971623957911,0.5,0.0,False
-"Based on Charles Brandtís 2004 nonfiction book, I Heard You Paint Houses, The Irishman tells the story of Frank Sheeran, played by Robert De Niro",0.011314815,0.0321986850453939,0.5,0.0,False
-"It follows Frank over the course of several decades as he becomes involved with the Bufalino crime family, The Teamsters, and eventually, Jimmy Hoffa",0.12631269,0.0007081418882571,0.5,0.132,False
-The recent trend of Netflix Original Movies getting limited theatrical releases is an interesting one,0.026035614,0.0684695212286102,0.4196428571428571,0.101,False
-"As convenient as the streaming platform can be, thereís just nothing quite like watching a movie on the big screen",0.03736641,0.9987399717649248,0.5,0.109,False
-"And so, despite the fact that The Irishman will be making its Netflix debut in mere days, I was presented with the opportunity to catch it in the theater, and I took it",0.056931525,0.0021354526627368,0.75,0.0,False
-"I actually didnít anticipate on seeing it on the big screen, but despite the fact that itís not my favorite film of the year, Iím really glad I did",0.068918526,0.0009874527664502,0.375,0.093,False
-"While I think a Netflix-viewing will be more than adequate to enjoy the movie, Itíll definitely be a different experience",0.02054715,0.951999626870231,0.3458333333333333,0.0,False
-"Iíll be perfectly honest, I wasnít all that hyped for this movie",0.11407687,0.9995467009755316,0.2,0.0,False
-"Scorseseís a great director and this movie has a fantastic cast, but gangster movies have just never been my thing",0.12631269,0.192594625798824,0.1999999999999999,0.0,False
-"I donít dislike the genre, but I often have difficulty staying invested in the stories for some reason, so I have a tendency to drift a bit and honestly get a little bored",0.112788886,0.9997987423857834,0.5145833333333334,0.177,False
-"So, the prospect of Scorsese directing yet another gangster film starring the proverbial whoís who of gangster movie actors Ñ, while beyond exciting for many ñ was a little ìehî to me",0.29070088,0.999180097997229,0.3979166666666666,0.0,False
-"Iím, Not sure if it was my own low personal-enjoyment expectations, the quality of the film, or a combination of both,, but I was surprised by how much I liked this film",0.054534122,0.0002404481610394,0.395,0.082,False
-"I had no doubt that this would be a well-made movie, but I didnít anticipate being particularly interested in the story",0.035649624,0.9872921299123412,0.375,0.0,False
-"So, I was really surprised by just how invested in it I was, especially considering the huge number of characters, expansive complexity, and the length",0.02792408,5.948618361858985e-05,0.4166666666666666,0.0,False
-I think part of my heightened interest stems from the fact that this is based (however loosely) on a true story,0.03839648,0.0070910451537685,0.325,0.0,False
-"Even though I was aware of the very general story of Jimmy Hoffa, Iíll admit that my knowledge of the subject was very minimal and basic",0.027237365,0.9982311205128688,0.4981666666666666,0.0,False
-"Iím, sure, quite a few creative liberties were taken, and that there was some fictionalization around certain unknown events, but I found the story to be quite interesting and compelling",0.04165838,0.0006515465662673,0.3775510204081632,0.0,False
-"Iím, curious if I wouldíve felt differently about it all had I already had a better historical base of information",0.051737156,0.9709150709557516,0.54,0.0,False
-"The Irishman is an ambitious and huge film, tackling a complex and layered, decade-long story",0.09978092,3.594205282766501e-05,0.4416666666666666,0.0,False
-"One of the most interesting aspects for me was not only just how well the different time periods were used, but how they were integrated with one another",0.044405237,0.0001840316552328,0.375,0.0,False
-"We follow Frankís story through three distinct time periods: as an old man in the late 90s or early 2000s, recounting the story, as a middle-aged man in the mid-70s, and as a young man just getting his start with the Bufalino crime family in the late 50s and 60s",0.042001735,0.0002170828464317,0.5,0.067,False
-"All three time periods are presented within the first few minutes of the film, and the story is told in a semi-nonlinear way, frequently cutting between the time periods",0.018048171,0.022004732072262,0.5916666666666667,0.051,False
-"Dates are never listed on screen, but old-man Frankís narration provides context to most of the transitions and, remarkably, it never gets confusing",0.03856816,0.0006658220582279,0.5291666666666667,0.0,False
-"The temporal context certainly helps with that,, but the distinct visuals donít hurt either",0.0717155,0.0068176054069245,0.3714285714285714,0.241,False
-"The story spans nearly fifty years of Frankís life, so both deaging effects and old-age makeup are used quite effectively to show the passage of time",0.036336336,8.463966005851462e-06,0.325,0.0,False
-"Speaking of time,, I should probably mention the aspect of this film thatís garnered the most attention in the months prior to its release: its length",0.033932835,0.7854084802382785,0.375,0.0,False
-The Irishman is three and a half hours long,0.068918526,0.9927677198641832,0.5541666666666667,0.0,False
-"Iíd be lying if I said I didnít start to feel that length a bit, but it was never really to the detriment of the film",0.13521013,0.2236404829109844,0.55,0.081,False
-"Keep in mind, gangster movies arenít my thing, so the fact that I only felt the length a bit is pretty amazing and a testament to how engaging a movie it really is",0.10763696,6.353935043829336e-05,0.355,0.0,False
-"There were a few dialogue-heavy scenes that got a little slow for me, but that was more a pacing issue than a consequence of the length",0.062925026,0.9981297615396788,0.5234375,0.0,False
-"As big of a film as this is, it never feels bloated, and instead, seems rather deserving of its three and a half hour long runtime",0.12760067,0.0007106453148222,0.4520833333333333,0.0,False
-"It comes as no surprise, but the performances in this film are top notch across the board",0.09709594,0.0013796860643481,0.25,0.076,False
-"Robert De Niro is the clear standout for me, but Al Pacino and Joe Pesci were also very good in their roles",0.042001735,0.0005607079451904,0.2475,0.0,False
-"They all imbued this sense of reality to their characters, which was an especially difficult feat considering the multi-decade time span of the film",0.07211506,0.8786398108601625,1.0,0.108,False
-"The performances (and the film itself) are what youíd expect from a gangster movie like this,, but I was struck by the degree of humor present throughout",0.22983712,0.0032158898444627,0.5,0.081,False
-"Itís certainly not a comedy, but it does have some entertaining moments thanks to the editing style as well as Frankís narration",0.037023053,0.0044368765462011,0.4011904761904762,0.051,False
-"The Irishman was never gonna be a film for me, but I have no doubt that Itís gonna go down as one of the greats of the genre",0.112144895,0.0032436659582565,0.5777777777777778,0.0,False
-"Alright, letís talk about the pros and cons",0.0095794145,0.1982055497986679,0.5,0.0,False
-Pro number one is the utilization of the time periods,0.02517722,0.0001791738155886,0.5,0.0,False
-A story as involved as this one requires a lot of information,0.018187003,0.9835723658662556,0.5,0.0,False
-"So much backstory and build-up is necessary for us to understand not only the events, but also the characters and their motivations",0.019297661,0.0006936279747189,0.4666666666666667,0.0,False
-"The multi-decade approach was the best way to tackle that, but it was also a risky move",0.023288755,0.808458035269108,0.0,0.111,False
-"Nonlinear stories can be tough to get right, and the need to age and deage actors only further complicates things",0.04680874,0.9967553505527356,0.5128968253968254,0.073,False
-"But, I really think this film pulls it off, not only from a technical standpoint, but also from a storytelling one, maintaining the audienceís interest and understanding from one time period transition to the next",0.028439116,0.000280324169898,0.475,0.0,False
-The second pro has gotta be the performances,0.037881445,0.0011985154680468,0.5,0.0,False
-"Iím, Sure, this comes as no surprise given the stacked cast, but the acting was pretty phenomenal",0.090114996,0.0018554265198108,0.34375,0.066,False
-"Other than maybe Ray Romano, I never once felt like I was watching a group of recognizable actors",0.1256687,0.0116801240745889,0.46875,0.11,False
-"They all melded into their roles and truly made this feel real, which I guess was the intent considering Itís based on a true story",0.040628307,0.0001957143125367,0.3625,0.0,False
-"Robert De Niro is the clear standout for me, but the whole cast really did an excellent job",0.062925026,0.0006621265237746,0.3125,0.0,False
-"On the con side, the only substantive issue I had was the pacing",0.07091636,0.9084211097272724,0.5,0.0,False
-"Iím, sure, many people will point to the filmís runtime, but I donít think it was so much a problem with the overall length as the length of certain scenes",0.06652113,0.999603355902916,0.3585714285714286,0.112,False
-"Itís a common thing in films of this genre, but there are quite a few long, dialogue-heavy conversation scenes that are fairly slow and did drag out the end of the second act for me",0.09118898,0.9994839961006152,0.5791666666666667,0.065,False
-"Watching this in the theater was a bit of a marathon, but I think this might actually be a con Thatíll disappear for Netflix viewers who have the option to pause and take short breaks if necessary",0.08555053,0.989520477582262,0.5,0.061,False
-Iím gonna give The Irishman 3,0.08050597,0.0249465861159366,0.5,0.0,False
+"who knew jimmy hoffa was such a big ice cream fan? hey, everybody, welcome to mainely movies",0.0789077,0.0009169097821691,0.3666666666666667,0.0,False
+"today, iím, gonna be talking about the 2019 gangster crime drama: the irishman",0.15042676,0.0472240128676125,0.5,0.226,False
+"if youíre new here, please consider subscribing for a variety of movie-related content like reviews, ranked lists, and trailer reactions",0.011661896,0.9961436501926296,0.4318181818181818,0.0,False
+"all of my reviews include a breakdown of the pros and cons, my rating, and some tailored film recommendations, so be sure to watch through to the end of this video for all of that extra content",0.067320265,0.9097524558167563,0.375,0.0,False
+"the irishman stars robert de niro, al pacino, and joe pesci, and was directed by martin scorsese",0.043375164,0.0012971623957911,0.5,0.0,False
+"based on charles brandtís 2004 nonfiction book, i heard you paint houses, the irishman tells the story of frank sheeran, played by robert de niro",0.011314815,0.0321986850453939,0.5,0.0,False
+"it follows frank over the course of several decades as he becomes involved with the bufalino crime family, the teamsters, and eventually, jimmy hoffa",0.12631269,0.0007081418882571,0.5,0.132,False
+the recent trend of netflix original movies getting limited theatrical releases is an interesting one,0.026035614,0.0684695212286102,0.4196428571428571,0.101,False
+"as convenient as the streaming platform can be, thereís just nothing quite like watching a movie on the big screen",0.03736641,0.9987399717649248,0.5,0.109,False
+"and so, despite the fact that the irishman will be making its netflix debut in mere days, i was presented with the opportunity to catch it in the theater, and i took it",0.056931525,0.0021354526627368,0.75,0.0,False
+"i actually didnít anticipate on seeing it on the big screen, but despite the fact that itís not my favorite film of the year, iím really glad i did",0.068918526,0.0009874527664502,0.375,0.093,False
+"while i think a netflix-viewing will be more than adequate to enjoy the movie, itíll definitely be a different experience",0.02054715,0.951999626870231,0.3458333333333333,0.0,False
+"iíll be perfectly honest, i wasnít all that hyped for this movie",0.11407687,0.9995467009755316,0.2,0.0,False
+"scorseseís a great director and this movie has a fantastic cast, but gangster movies have just never been my thing",0.12631269,0.192594625798824,0.1999999999999999,0.0,False
+"i donít dislike the genre, but i often have difficulty staying invested in the stories for some reason, so i have a tendency to drift a bit and honestly get a little bored",0.112788886,0.9997987423857834,0.5145833333333334,0.177,False
+"so, the prospect of scorsese directing yet another gangster film starring the proverbial whoís who of gangster movie actors ñ, while beyond exciting for many ñ was a little ìehî to me",0.29070088,0.999180097997229,0.3979166666666666,0.0,False
+"iím, not sure if it was my own low personal-enjoyment expectations, the quality of the film, or a combination of both,, but i was surprised by how much i liked this film",0.054534122,0.0002404481610394,0.395,0.082,False
+"i had no doubt that this would be a well-made movie, but i didnít anticipate being particularly interested in the story",0.035649624,0.9872921299123412,0.375,0.0,False
+"so, i was really surprised by just how invested in it i was, especially considering the huge number of characters, expansive complexity, and the length",0.02792408,5.948618361858985e-05,0.4166666666666666,0.0,False
+i think part of my heightened interest stems from the fact that this is based (however loosely) on a true story,0.03839648,0.0070910451537685,0.325,0.0,False
+"even though i was aware of the very general story of jimmy hoffa, iíll admit that my knowledge of the subject was very minimal and basic",0.027237365,0.9982311205128688,0.4981666666666666,0.0,False
+"iím, sure, quite a few creative liberties were taken, and that there was some fictionalization around certain unknown events, but i found the story to be quite interesting and compelling",0.04165838,0.0006515465662673,0.3775510204081632,0.0,False
+"iím, curious if i wouldíve felt differently about it all had i already had a better historical base of information",0.051737156,0.9709150709557516,0.54,0.0,False
+"the irishman is an ambitious and huge film, tackling a complex and layered, decade-long story",0.09978092,3.594205282766501e-05,0.4416666666666666,0.0,False
+"one of the most interesting aspects for me was not only just how well the different time periods were used, but how they were integrated with one another",0.044405237,0.0001840316552328,0.375,0.0,False
+"we follow frankís story through three distinct time periods: as an old man in the late 90s or early 2000s, recounting the story, as a middle-aged man in the mid-70s, and as a young man just getting his start with the bufalino crime family in the late 50s and 60s",0.042001735,0.0002170828464317,0.5,0.067,False
+"all three time periods are presented within the first few minutes of the film, and the story is told in a semi-nonlinear way, frequently cutting between the time periods",0.018048171,0.022004732072262,0.5916666666666667,0.051,False
+"dates are never listed on screen, but old-man frankís narration provides context to most of the transitions and, remarkably, it never gets confusing",0.03856816,0.0006658220582279,0.5291666666666667,0.0,False
+"the temporal context certainly helps with that,, but the distinct visuals donít hurt either",0.0717155,0.0068176054069245,0.3714285714285714,0.241,False
+"the story spans nearly fifty years of frankís life, so both deaging effects and old-age makeup are used quite effectively to show the passage of time",0.036336336,8.463966005851462e-06,0.325,0.0,False
+"speaking of time,, i should probably mention the aspect of this film thatís garnered the most attention in the months prior to its release: its length",0.033932835,0.7854084802382785,0.375,0.0,False
+the irishman is three and a half hours long,0.068918526,0.9927677198641832,0.5541666666666667,0.0,False
+"iíd be lying if i said i didnít start to feel that length a bit, but it was never really to the detriment of the film",0.13521013,0.2236404829109844,0.55,0.081,False
+"keep in mind, gangster movies arenít my thing, so the fact that i only felt the length a bit is pretty amazing and a testament to how engaging a movie it really is",0.10763696,6.353935043829336e-05,0.355,0.0,False
+"there were a few dialogue-heavy scenes that got a little slow for me, but that was more a pacing issue than a consequence of the length",0.062925026,0.9981297615396788,0.5234375,0.0,False
+"as big of a film as this is, it never feels bloated, and instead, seems rather deserving of its three and a half hour long runtime",0.12760067,0.0007106453148222,0.4520833333333333,0.0,False
+"it comes as no surprise, but the performances in this film are top notch across the board",0.09709594,0.0013796860643481,0.25,0.076,False
+"robert de niro is the clear standout for me, but al pacino and joe pesci were also very good in their roles",0.042001735,0.0005607079451904,0.2475,0.0,False
+"they all imbued this sense of reality to their characters, which was an especially difficult feat considering the multi-decade time span of the film",0.07211506,0.8786398108601625,1.0,0.108,False
+"the performances (and the film itself) are what youíd expect from a gangster movie like this,, but i was struck by the degree of humor present throughout",0.22983712,0.0032158898444627,0.5,0.081,False
+"itís certainly not a comedy, but it does have some entertaining moments thanks to the editing style as well as frankís narration",0.037023053,0.0044368765462011,0.4011904761904762,0.051,False
+"the irishman was never gonna be a film for me, but i have no doubt that itís gonna go down as one of the greats of the genre",0.112144895,0.0032436659582565,0.5777777777777778,0.0,False
+"alright, letís talk about the pros and cons",0.0095794145,0.1982055497986679,0.5,0.0,False
+pro number one is the utilization of the time periods,0.02517722,0.0001791738155886,0.5,0.0,False
+a story as involved as this one requires a lot of information,0.018187003,0.9835723658662556,0.5,0.0,False
+"so much backstory and build-up is necessary for us to understand not only the events, but also the characters and their motivations",0.019297661,0.0006936279747189,0.4666666666666667,0.0,False
+"the multi-decade approach was the best way to tackle that, but it was also a risky move",0.023288755,0.808458035269108,0.0,0.111,False
+"nonlinear stories can be tough to get right, and the need to age and deage actors only further complicates things",0.04680874,0.9967553505527356,0.5128968253968254,0.073,False
+"but, i really think this film pulls it off, not only from a technical standpoint, but also from a storytelling one, maintaining the audienceís interest and understanding from one time period transition to the next",0.028439116,0.000280324169898,0.475,0.0,False
+the second pro has gotta be the performances,0.037881445,0.0011985154680468,0.5,0.0,False
+"iím, sure, this comes as no surprise given the stacked cast, but the acting was pretty phenomenal",0.090114996,0.0018554265198108,0.34375,0.066,False
+"other than maybe ray romano, i never once felt like i was watching a group of recognizable actors",0.1256687,0.0116801240745889,0.46875,0.11,False
+"they all melded into their roles and truly made this feel real, which i guess was the intent considering itís based on a true story",0.040628307,0.0001957143125367,0.3625,0.0,False
+"robert de niro is the clear standout for me, but the whole cast really did an excellent job",0.062925026,0.0006621265237746,0.3125,0.0,False
+"on the con side, the only substantive issue i had was the pacing",0.07091636,0.9084211097272724,0.5,0.0,False
+"iím, sure, many people will point to the filmís runtime, but i donít think it was so much a problem with the overall length as the length of certain scenes",0.06652113,0.999603355902916,0.3585714285714286,0.112,False
+"itís a common thing in films of this genre, but there are quite a few long, dialogue-heavy conversation scenes that are fairly slow and did drag out the end of the second act for me",0.09118898,0.9994839961006152,0.5791666666666667,0.065,False
+"watching this in the theater was a bit of a marathon, but i think this might actually be a con thatíll disappear for netflix viewers who have the option to pause and take short breaks if necessary",0.08555053,0.989520477582262,0.5,0.061,False
+iím gonna give the irishman 3,0.08050597,0.0249465861159366,0.5,0.0,False
 5 out of 5 paws,0.1414913,0.0878105776328969,0.5,0.0,False
-Itís a very well-made and surprisingly interesting film that many will surely love,0.03616466,0.0003374857431347,0.2875,0.0,False
-"Gangster movies just arenít my thing, unfortunately, so I canít go exceptionally high with my rating",0.1710401,0.94445468663805,0.585,0.138,False
-"I would recommend The Irishman to fans of crime dramas broadly, but especially to those who like the gangster subgenre",0.355017,0.019601382964361,0.484375,0.093,False
-"Itís very much in-line with Scorseseís, previous gangster movies, as well as the non-Scorsese gangster films members of this cast have starred in over the years",0.10031791,0.0005375810521603,0.4766666666666667,0.0,False
-"Itís a very well-made film that explores the real life of Frank Sheeran and his interactions with Jimmy Hoffa, but ultimately, Itíll provide you with what you expect from a gangster movie",0.17380224,6.079750229555275e-06,0.4333333333333333,0.0,False
-"If you liked The Irishman, I would recommend The Godfather Part Ii",0.06412373,0.0011295222240203,0.2,0.0,False
-"Not only is it widely regarded as one of the best films of the genre, but it also shares a multiple-time period structure, as well as a focus on historical events of the 1960s as they relate to the mob",0.02655065,0.0,0.3875,0.0,False
-"Plus, it also stars both Robert De Niro and Al Pacino",0.032559406,6.64600147642562e-05,0.5,0.0,False
-I would also make the obvious recommendation of Goodfellas,0.02655065,0.0357917578256667,0.5,0.0,False
-"It too focuses on the mob over a series of decades, and shares a number of crew and castmembers, including De Niro, Pesci, and Scorsese",0.039254878,0.0004604218690999,0.5,0.0,False
-"If you want to see another movie featuring De Niro and Pacino, but are maybe burnt out on gangster movies, you should check out Heat",0.17518331,0.0730715345200171,0.5,0.0,False
-"Itís still a crime movie, but features the two leads on opposite sides of the law this time",0.15684792,0.1341184257857704,0.5,0.117,False
-"Alright, a couple questions for you guys",0.042001735,0.8733718562997388,0.5,0.0,False
-"Number one: Have you seen The Irishman? If so,, whatíd you think of it? And number two: What do you think of Netflix distributing big-name movies like this? Be sure to leave your answers in the comments below so we can get a discussion going",0.056931525,0.983897960333206,0.25,0.024,False
-"Alright, so if you got some enjoyment, insight, or information out of this review, Iíd appreciate it if youíd hit that like button",0.09548495,0.9567981889496964,0.5,0.0,False
-"And, if you havenít done so already, please hit subscribe while youíre at it, to see more videos like this",0.14193995,0.9984113374228596,0.25,0.0,False
-"Till next time, this has been Alyssa with Mainely Movies: The way life should be",0.02397547,0.0999895988586759,0.5,0.0,False
+itís a very well-made and surprisingly interesting film that many will surely love,0.03616466,0.0003374857431347,0.2875,0.0,False
+"gangster movies just arenít my thing, unfortunately, so i canít go exceptionally high with my rating",0.1710401,0.94445468663805,0.585,0.138,False
+"i would recommend the irishman to fans of crime dramas broadly, but especially to those who like the gangster subgenre",0.355017,0.019601382964361,0.484375,0.093,False
+"itís very much in-line with scorseseís, previous gangster movies, as well as the non-scorsese gangster films members of this cast have starred in over the years",0.10031791,0.0005375810521603,0.4766666666666667,0.0,False
+"itís a very well-made film that explores the real life of frank sheeran and his interactions with jimmy hoffa, but ultimately, itíll provide you with what you expect from a gangster movie",0.17380224,6.079750229555275e-06,0.4333333333333333,0.0,False
+"if you liked the irishman, i would recommend the godfather part ii",0.06412373,0.0011295222240203,0.2,0.0,False
+"not only is it widely regarded as one of the best films of the genre, but it also shares a multiple-time period structure, as well as a focus on historical events of the 1960s as they relate to the mob",0.02655065,0.0,0.3875,0.0,False
+"plus, it also stars both robert de niro and al pacino",0.032559406,6.64600147642562e-05,0.5,0.0,False
+i would also make the obvious recommendation of goodfellas,0.02655065,0.0357917578256667,0.5,0.0,False
+"it too focuses on the mob over a series of decades, and shares a number of crew and castmembers, including de niro, pesci, and scorsese",0.039254878,0.0004604218690999,0.5,0.0,False
+"if you want to see another movie featuring de niro and pacino, but are maybe burnt out on gangster movies, you should check out heat",0.17518331,0.0730715345200171,0.5,0.0,False
+"itís still a crime movie, but features the two leads on opposite sides of the law this time",0.15684792,0.1341184257857704,0.5,0.117,False
+"alright, a couple questions for you guys",0.042001735,0.8733718562997388,0.5,0.0,False
+"number one: have you seen the irishman? if so,, whatíd you think of it? and number two: what do you think of netflix distributing big-name movies like this? be sure to leave your answers in the comments below so we can get a discussion going",0.056931525,0.983897960333206,0.25,0.024,False
+"alright, so if you got some enjoyment, insight, or information out of this review, iíd appreciate it if youíd hit that like button",0.09548495,0.9567981889496964,0.5,0.0,False
+"and, if you havenít done so already, please hit subscribe while youíre at it, to see more videos like this",0.14193995,0.9984113374228596,0.25,0.0,False
+"till next time, this has been alyssa with mainely movies: the way life should be",0.02397547,0.0999895988586759,0.5,0.0,False

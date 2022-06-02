@@ -1,58 +1,58 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-Let me have been in a quiet place because I would have been the first one dead,0.1550967,0.972195571069196,0.4916666666666667,0.212,False
-"Okay because I can't go that long without talking and also too, I have zero survival skills, guys",0.123736724,0.9988926540307812,0.3875,0.0,False
-I'm a goner,0.19634613,0.06429334158085,0.5,0.0,False
-"Hey, everyone is Chartres from paperweights and today I'm gonna be reviewing A quiet place, which is directed by John Krasinski and it also starred Jack Rosinski, Emily Blunt, And so this is actually John Krasinski's fourth I'm directing credit And I thought that he did a really good job with this film",0.08689302,0.0005923034119609,0.4125,0.0,False
-So the movie centers around this family who is basically dealing with this new post world of film with creatures who will basically kill you and rip you to shreds if you make a sound okay,0.35227737,0.0413192362478361,0.3272727272727272,0.116,False
-And so it basically goes through the conflicts that they're dealing with,0.0358213,0.8876805719115539,0.5,0.191,False
-"How are they surviving and how they're kids dealing with, the higher the parents dealing with it, and then what happens when they actually have to come in contact with these creatures? And so the movie doesn't really give you that much of a backstory as to how these creatures got here",0.118584804,0.9996872902674812,0.41875,0.0,False
-What happened? How'd everybody disappear Or if everyone disappeared? Basically it starts off from date 89,0.078108564,0.999851588813439,0.5,0.229,False
-And what I appreciate about this movie is it didn't waste time letting you know what the consequences are,0.229845,0.0048687155657133,0.6,0.0,False
-If you make a sound,0.030155903,0.7683981881375734,0.3,0.0,False
-"If you make that one poor mistake, how you're gonna have to deal with the consequences and they won't be pretty",0.11085691,0.9882998093159184,0.5375,0.311,False
-"And so I thought everyone did an amazing job in this movie Emily Blunt, John Krasinski they are",0.03221605,0.0002458516703665,0.1999999999999999,0.0,False
-"They are awesome in this movie, but I have to talk about these kids",0.07571117,0.0011992720787497,0.0,0.0,False
-"Yeah, so first of all, kudos to for the casting on actually casting a young deaf woman by the name of Millicent Simmons",0.24242763,0.1095148769471851,0.4416666666666666,0.0,False
-I really enjoyed her character,0.04165838,0.0121697769128589,0.25,0.0,False
-"Okay, cuz, you see that in order for them to communicate, they have to sign to one another",0.048868883,0.9983823508546564,0.25,0.0,False
-You're kind of wondering,0.050242316,0.9678647007435522,0.2,0.0,False
-"like how do they all know the sign language? Something you see that their daughter is actually deaf, So it's almost as if with them dealing with having a deaf child, it actually made them more successful in trying to survive what they're going through right now, and so also to this little no joke, and you know him using Wonder, He was also the young man in suburban hi-yah",0.15042676,0.80069015523828,0.4094866071428571,0.038,False
+let me have been in a quiet place because i would have been the first one dead,0.1550967,0.972195571069196,0.4916666666666667,0.212,False
+"okay because i can't go that long without talking and also too, i have zero survival skills, guys",0.123736724,0.9988926540307812,0.3875,0.0,False
+i'm a goner,0.19634613,0.06429334158085,0.5,0.0,False
+"hey, everyone is chartres from paperweights and today i'm gonna be reviewing a quiet place, which is directed by john krasinski and it also starred jack rosinski, emily blunt, and so this is actually john krasinski's fourth i'm directing credit and i thought that he did a really good job with this film",0.08689302,0.0005923034119609,0.4125,0.0,False
+so the movie centers around this family who is basically dealing with this new post world of film with creatures who will basically kill you and rip you to shreds if you make a sound okay,0.35227737,0.0413192362478361,0.3272727272727272,0.116,False
+and so it basically goes through the conflicts that they're dealing with,0.0358213,0.8876805719115539,0.5,0.191,False
+"how are they surviving and how they're kids dealing with, the higher the parents dealing with it, and then what happens when they actually have to come in contact with these creatures? and so the movie doesn't really give you that much of a backstory as to how these creatures got here",0.118584804,0.9996872902674812,0.41875,0.0,False
+what happened? how'd everybody disappear or if everyone disappeared? basically it starts off from date 89,0.078108564,0.999851588813439,0.5,0.229,False
+and what i appreciate about this movie is it didn't waste time letting you know what the consequences are,0.229845,0.0048687155657133,0.6,0.0,False
+if you make a sound,0.030155903,0.7683981881375734,0.3,0.0,False
+"if you make that one poor mistake, how you're gonna have to deal with the consequences and they won't be pretty",0.11085691,0.9882998093159184,0.5375,0.311,False
+"and so i thought everyone did an amazing job in this movie emily blunt, john krasinski they are",0.03221605,0.0002458516703665,0.1999999999999999,0.0,False
+"they are awesome in this movie, but i have to talk about these kids",0.07571117,0.0011992720787497,0.0,0.0,False
+"yeah, so first of all, kudos to for the casting on actually casting a young deaf woman by the name of millicent simmons",0.24242763,0.1095148769471851,0.4416666666666666,0.0,False
+i really enjoyed her character,0.04165838,0.0121697769128589,0.25,0.0,False
+"okay, cuz, you see that in order for them to communicate, they have to sign to one another",0.048868883,0.9983823508546564,0.25,0.0,False
+you're kind of wondering,0.050242316,0.9678647007435522,0.2,0.0,False
+"like how do they all know the sign language? something you see that their daughter is actually deaf, so it's almost as if with them dealing with having a deaf child, it actually made them more successful in trying to survive what they're going through right now, and so also to this little no joke, and you know him using wonder, he was also the young man in suburban hi-yah",0.15042676,0.80069015523828,0.4094866071428571,0.038,False
 "these faces that he makes, and this was makes the movie so good because they cannot make noise",0.20522906,0.0036813962657968,0.15,0.0,False
 they have to rely a lot on their facial expressions to show their emotions,0.059728492,0.9996224591104677,0.5,0.0,False
-"This one can't have me dying with the faces that he was making, and when you watch you, you'll know exactly what I'm talking about, But I thought the kids were really good, And then it also gave a different point of view from films like this, because it is a horror movie, but it's not like a horror",0.16551583,0.1526858698838976,0.3416666666666667,0.105,False
+"this one can't have me dying with the faces that he was making, and when you watch you, you'll know exactly what i'm talking about, but i thought the kids were really good, and then it also gave a different point of view from films like this, because it is a horror movie, but it's not like a horror",0.16551583,0.1526858698838976,0.3416666666666667,0.105,False
 "like, really gory",0.15976663,0.9383963019234972,0.75,0.0,False
-It's just horrible,0.2712817,0.9999928462171572,1.0,0.636,False
-This is a really like crappy situation to have to deal with and to see how parents especially will have to navigate through this with young children,0.39694545,0.9999927269874432,0.45,0.122,False
-And so that's what I found more terrifying in this movie and I felt as though there is like that one,0.24769363,0.1775710486885268,0.625,0.157,False
-Like family,0.018464668,0.0011017123652301,0.5,0.0,False
-"Remember they got on my damn nerves in the movie and you'll know exactly who I'm talking about when you watch it, because I'll just like get it together",0.5026305,2.801898280123298e-06,0.375,0.126,True
-"Okay, cuz, you're starting to make me mad and we got a lot of stuff that stick right now for you to be acting like this, but I thought that it was handled very well",0.1894391,0.0127757023196498,0.4699404761904762,0.053,False
-"It gets you invested with the characters, and I think that's what made the movie more enjoyable",0.04818217,0.0005660728748704,0.25,0.0,False
-"I would have to say, this is kind of like a Walking Dead - the zombies mix with a little bit of signs, Because why say Walking Dead is just because hearing the silence, and basically is just you surviving with your family and nobody else is around",0.14866976,0.9995530376094632,0.4984375,0.151,False
-And so that's why I kind of gave me the Turner The Walking Dead feel mixed with the science that they have the creatures that come,0.13790205,0.2450914915172231,0.4333333333333333,0.147,False
-And so I just thought it was a really enjoyable movie,0.040628307,0.004867880957715,0.25,0.0,False
-Now there are some points where I kind of just like free acid,0.16827796,0.153032321625492,0.25,0.0,False
-Be so smart,0.0729142,0.0353317286603552,0.3928571428571428,0.0,False
-You're making a lot of dumb important decisions,0.6221407,0.9997935835575548,0.49375,0.297,False
-"But if they didn't make them before decisions, I guess you wouldn't have a movie",0.046465382,0.990890730617034,0.5,0.0,False
-"Okay, but it was still annoying at times because I was just like you guys were like, so smart, and and Mckinney, And now it's just like What are you doing These things? And then there's also kind of a I would say a conflict, but in new situations they're kind of getting into and I think every one of the movies kind of just like",0.15743166,0.9966806447609092,0.3678107606679035,0.078,False
-"Like, Why didn't you think this was a good idea? How did you even let this happen? You'll know when you see it",0.052935857,0.9974616590027794,0.15,0.0,False
-I'm not gonna spoil anything for you,0.1835188,0.0042747429377557,0.5,0.0,False
-but for me I love this movie,0.03736641,0.0025622465548872,0.25,0.0,False
-I thought it was great,0.0224908,0.0256807092641845,0.0999999999999999,0.0,False
-I thought Presidency did a very good job,0.022945397,0.0109889258249295,0.045,0.0,False
-I love the story,0.020963646,0.0229522564879147,0.25,0.0,False
-I love the family,0.022213135,0.0047935710384347,0.25,0.0,False
-That acting was strong from everyone,0.08501353,0.0030365721647978,0.3916666666666666,0.0,False
-I feel like the little creatures that they came up with so fur me,0.23365098,0.8979789192327187,0.59375,0.0,False
-"I'm definitely to say, pay to see this movie",0.07211506,0.0,0.5,0.126,False
-I don't think anyone will leave this theater,0.082104236,0.9588131087347568,0.5,0.146,False
-Disappointed,0.19535941,0.9999207122401582,0.875,1.0,False
-"I will have to tell you, make sure you eat beforehand or don't bring anything that makes noise, Because since the movie is silent, you're gonna hear everything",0.10956893,0.0120811296204643,0.375,0.0,False
-It took me like an hour to finish my chips and the movie is only an hour and 35 minutes,0.059728492,0.9995303839637942,0.5,0.0,False
-but I was suffering,0.09279997,0.9997855355518566,0.5,0.58,False
-y'all I was trying to choose slow,0.09816993,0.999810424754664,0.65,0.0,False
-Like can they hear me like it's so high in here? I don't have no moments to chill real quick,0.09279997,0.0179293769019374,0.3349999999999999,0.0,False
-"so yeah, so just make sure you eat before I don't bring anything that makes any noise, and just sit back and relax and enjoy a good movie",0.11472086,0.034672924875384,0.3,0.0,False
-"So my name is Shawna from Pay or wait, and those are my thoughts on a quiet place, And if you liked what you saw today, make sure you hit the like button",0.11021292,0.1917087418391732,0.3166666666666666,0.037,False
-"hit, subscribe, share this video with your friends and I will see you soon",0.21980777,0.0985311376148167,0.5,0.0,False
+it's just horrible,0.2712817,0.9999928462171572,1.0,0.636,False
+this is a really like crappy situation to have to deal with and to see how parents especially will have to navigate through this with young children,0.39694545,0.9999927269874432,0.45,0.122,False
+and so that's what i found more terrifying in this movie and i felt as though there is like that one,0.24769363,0.1775710486885268,0.625,0.157,False
+like family,0.018464668,0.0011017123652301,0.5,0.0,False
+"remember they got on my damn nerves in the movie and you'll know exactly who i'm talking about when you watch it, because i'll just like get it together",0.5026305,2.801898280123298e-06,0.375,0.126,True
+"okay, cuz, you're starting to make me mad and we got a lot of stuff that stick right now for you to be acting like this, but i thought that it was handled very well",0.1894391,0.0127757023196498,0.4699404761904762,0.053,False
+"it gets you invested with the characters, and i think that's what made the movie more enjoyable",0.04818217,0.0005660728748704,0.25,0.0,False
+"i would have to say, this is kind of like a walking dead - the zombies mix with a little bit of signs, because why say walking dead is just because hearing the silence, and basically is just you surviving with your family and nobody else is around",0.14866976,0.9995530376094632,0.4984375,0.151,False
+and so that's why i kind of gave me the turner the walking dead feel mixed with the science that they have the creatures that come,0.13790205,0.2450914915172231,0.4333333333333333,0.147,False
+and so i just thought it was a really enjoyable movie,0.040628307,0.004867880957715,0.25,0.0,False
+now there are some points where i kind of just like free acid,0.16827796,0.153032321625492,0.25,0.0,False
+be so smart,0.0729142,0.0353317286603552,0.3928571428571428,0.0,False
+you're making a lot of dumb important decisions,0.6221407,0.9997935835575548,0.49375,0.297,False
+"but if they didn't make them before decisions, i guess you wouldn't have a movie",0.046465382,0.990890730617034,0.5,0.0,False
+"okay, but it was still annoying at times because i was just like you guys were like, so smart, and and mckinney, and now it's just like what are you doing these things? and then there's also kind of a i would say a conflict, but in new situations they're kind of getting into and i think every one of the movies kind of just like",0.15743166,0.9966806447609092,0.3678107606679035,0.078,False
+"like, why didn't you think this was a good idea? how did you even let this happen? you'll know when you see it",0.052935857,0.9974616590027794,0.15,0.0,False
+i'm not gonna spoil anything for you,0.1835188,0.0042747429377557,0.5,0.0,False
+but for me i love this movie,0.03736641,0.0025622465548872,0.25,0.0,False
+i thought it was great,0.0224908,0.0256807092641845,0.0999999999999999,0.0,False
+i thought presidency did a very good job,0.022945397,0.0109889258249295,0.045,0.0,False
+i love the story,0.020963646,0.0229522564879147,0.25,0.0,False
+i love the family,0.022213135,0.0047935710384347,0.25,0.0,False
+that acting was strong from everyone,0.08501353,0.0030365721647978,0.3916666666666666,0.0,False
+i feel like the little creatures that they came up with so fur me,0.23365098,0.8979789192327187,0.59375,0.0,False
+"i'm definitely to say, pay to see this movie",0.07211506,0.0,0.5,0.126,False
+i don't think anyone will leave this theater,0.082104236,0.9588131087347568,0.5,0.146,False
+disappointed,0.19535941,0.9999207122401582,0.875,1.0,False
+"i will have to tell you, make sure you eat beforehand or don't bring anything that makes noise, because since the movie is silent, you're gonna hear everything",0.10956893,0.0120811296204643,0.375,0.0,False
+it took me like an hour to finish my chips and the movie is only an hour and 35 minutes,0.059728492,0.9995303839637942,0.5,0.0,False
+but i was suffering,0.09279997,0.9997855355518566,0.5,0.58,False
+y'all i was trying to choose slow,0.09816993,0.999810424754664,0.65,0.0,False
+like can they hear me like it's so high in here? i don't have no moments to chill real quick,0.09279997,0.0179293769019374,0.3349999999999999,0.0,False
+"so yeah, so just make sure you eat before i don't bring anything that makes any noise, and just sit back and relax and enjoy a good movie",0.11472086,0.034672924875384,0.3,0.0,False
+"so my name is shawna from pay or wait, and those are my thoughts on a quiet place, and if you liked what you saw today, make sure you hit the like button",0.11021292,0.1917087418391732,0.3166666666666666,0.037,False
+"hit, subscribe, share this video with your friends and i will see you soon",0.21980777,0.0985311376148167,0.5,0.0,False

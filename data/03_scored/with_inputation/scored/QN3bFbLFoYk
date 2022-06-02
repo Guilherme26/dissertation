@@ -1,86 +1,86 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello, everyone, my name is Danny",0.018464668,0.0021997432043317,0.4117647058823529,0.0,False
-This review is for the movie called Portrait of a Lady on fire,0.09387396,0.8227923904574589,0.4117647058823529,0.167,False
-This is a 2019 film,0.030670939,0.0106127684476398,0.4117647058823529,0.0,False
-It is rated R,0.09494796,0.2439591634144471,0.4117647058823529,0.0,False
-It runs two hours and its stars probably not gonna saying these names right,0.07131593,0.9980509781635458,0.2436974789915966,0.0,False
-"No, Emmy, Merle, aunt Adele, hen, L",0.004251733,0.998770356543847,0.4117647058823529,0.0,False
-Luana Boz Rami will give those a shot,0.2459383,5.3619560248669576e-05,0.4117647058823529,0.0,False
-There you go,0.03770977,0.0025798191533539,0.4117647058823529,0.0,False
-The description of this is on an isolated island in Brittany,0.0186035,0.809799944794803,0.4117647058823529,0.187,False
-"At the end of the 18th century, a female painter is obliged to paint a wedding portrait of a young woman",0.036679696,0.0542205225573376,0.3823529411764705,0.0,False
-This is Portrait of a lady on fire,0.22333995,0.0006243593930456,0.4117647058823529,0.255,False
-"Well, I am doing a review of this movie, but that doesn't exactly mean that I liked this movie or any movies like this",0.048868883,0.9989855203045114,0.3272058823529411,0.0,False
-I am usually against watching movies with subtitles I usually don't have the patience for it,0.10956893,0.9998868296441,0.5588235294117647,0.0,False
-"I, you know, I can't just sit and watch two hours of reading a movie",0.027409043,0.9969639227986824,0.4117647058823529,0.0,False
-It's not what I watch movies for,0.031185975,0.9999686449264138,0.4117647058823529,0.0,False
+"hello, everyone, my name is danny",0.018464668,0.0021997432043317,0.4117647058823529,0.0,False
+this review is for the movie called portrait of a lady on fire,0.09387396,0.8227923904574589,0.4117647058823529,0.167,False
+this is a 2019 film,0.030670939,0.0106127684476398,0.4117647058823529,0.0,False
+it is rated r,0.09494796,0.2439591634144471,0.4117647058823529,0.0,False
+it runs two hours and its stars probably not gonna saying these names right,0.07131593,0.9980509781635458,0.2436974789915966,0.0,False
+"no, emmy, merle, aunt adele, hen, l",0.004251733,0.998770356543847,0.4117647058823529,0.0,False
+luana boz rami will give those a shot,0.2459383,5.3619560248669576e-05,0.4117647058823529,0.0,False
+there you go,0.03770977,0.0025798191533539,0.4117647058823529,0.0,False
+the description of this is on an isolated island in brittany,0.0186035,0.809799944794803,0.4117647058823529,0.187,False
+"at the end of the 18th century, a female painter is obliged to paint a wedding portrait of a young woman",0.036679696,0.0542205225573376,0.3823529411764705,0.0,False
+this is portrait of a lady on fire,0.22333995,0.0006243593930456,0.4117647058823529,0.255,False
+"well, i am doing a review of this movie, but that doesn't exactly mean that i liked this movie or any movies like this",0.048868883,0.9989855203045114,0.3272058823529411,0.0,False
+i am usually against watching movies with subtitles i usually don't have the patience for it,0.10956893,0.9998868296441,0.5588235294117647,0.0,False
+"i, you know, i can't just sit and watch two hours of reading a movie",0.027409043,0.9969639227986824,0.4117647058823529,0.0,False
+it's not what i watch movies for,0.031185975,0.9999686449264138,0.4117647058823529,0.0,False
 "it's for entertainments, for to be interested in something you know, it's to be invested in an idea or watch a cartoon or watch an action scene or something",0.029125832,0.9963644507501656,0.3088235294117646,0.0,False
-I don't watch movies to read subtitles,0.049212243,0.9999362764759246,0.4117647058823529,0.0,False
-It's just not what I do,0.024490505,0.9999036397786082,0.4117647058823529,0.0,False
-"So when I sat down and I started reading this movie last week or last night, I'm sorry when I started into it and I was reading the subtitles",0.039254878,0.999056724934547,0.508169934640523,0.044,False
-"I was like, You know what",0.03461955,0.8666071715073943,0.4117647058823529,0.0,False
-"I've been meaning to watch this movie for a while, because it's been on my list",0.028439116,0.0004254096628289,0.4117647058823529,0.0,False
-I know people have you know been suggesting it? I know what it's about,0.022213135,0.0191399774237509,0.4117647058823529,0.0,False
-It sounds interesting,0.020824814,0.013940042482548,0.1176470588235293,0.0,False
-Now,0.018742332,0.0840360083811038,0.4117647058823529,0.0,False
-"Maybe there won't be so much talking because it's about a lady painting, and I thought maybe it'll be fine",0.083939545,0.9993790384000996,0.230392156862745,0.0,False
-"So that's my overall opinion about this movie after watching it is that, Yes, it has sometimes the whole time, but there is a lot going on with the painting with interactions that you can kind of tell what's going on even if you weren't to watch the subtitles whatsoever, But honestly you know, for future use of this video in this times of the virus, I just kind of felt like toughing my way out through this movie because it has been on my list and I wanted to watch the whole thing - people say I've seen it and that's another reason why I decided to tough it out last night - so as you get going in this, I don't know",0.17242117,0.9998403633325782,0.2933914306463325,0.027,False
-Maybe other people are like me where they don't really like the subtitle Movies,0.07371333,0.9998563091161984,0.3897058823529412,0.138,False
-"As you go through this, it gets more interesting and you kind of know what's coming",0.02929751,0.0034485216008291,0.0980392156862745,0.0,False
-"It's pretty predictable and it's of an olden time and it's of a story, one person's story in history, and it's a nice love story, I guess, And it has some other things happen that are of intrigue, and it has pretty dry characters",0.033074442,0.99989106198293,0.3102240896358543,0.0,False
-You know,0.03994159,0.0418217071234047,0.4117647058823529,0.0,False
-"I mean they're talking what French or I think there's a little bit of Italian than in this also, But it's it's fine",0.09333697,0.0086038083478949,0.4215686274509803,0.0,False
-It's a fine movie,0.032902762,0.0032224491358562,0.1666666666666666,0.0,False
-"If this were made in English like I would have preferred, it probably would be a little bit of",0.055732824,0.9989573245824462,0.4669117647058823,0.0,False
+i don't watch movies to read subtitles,0.049212243,0.9999362764759246,0.4117647058823529,0.0,False
+it's just not what i do,0.024490505,0.9999036397786082,0.4117647058823529,0.0,False
+"so when i sat down and i started reading this movie last week or last night, i'm sorry when i started into it and i was reading the subtitles",0.039254878,0.999056724934547,0.508169934640523,0.044,False
+"i was like, you know what",0.03461955,0.8666071715073943,0.4117647058823529,0.0,False
+"i've been meaning to watch this movie for a while, because it's been on my list",0.028439116,0.0004254096628289,0.4117647058823529,0.0,False
+i know people have you know been suggesting it? i know what it's about,0.022213135,0.0191399774237509,0.4117647058823529,0.0,False
+it sounds interesting,0.020824814,0.013940042482548,0.1176470588235293,0.0,False
+now,0.018742332,0.0840360083811038,0.4117647058823529,0.0,False
+"maybe there won't be so much talking because it's about a lady painting, and i thought maybe it'll be fine",0.083939545,0.9993790384000996,0.230392156862745,0.0,False
+"so that's my overall opinion about this movie after watching it is that, yes, it has sometimes the whole time, but there is a lot going on with the painting with interactions that you can kind of tell what's going on even if you weren't to watch the subtitles whatsoever, but honestly you know, for future use of this video in this times of the virus, i just kind of felt like toughing my way out through this movie because it has been on my list and i wanted to watch the whole thing - people say i've seen it and that's another reason why i decided to tough it out last night - so as you get going in this, i don't know",0.17242117,0.9998403633325782,0.2933914306463325,0.027,False
+maybe other people are like me where they don't really like the subtitle movies,0.07371333,0.9998563091161984,0.3897058823529412,0.138,False
+"as you go through this, it gets more interesting and you kind of know what's coming",0.02929751,0.0034485216008291,0.0980392156862745,0.0,False
+"it's pretty predictable and it's of an olden time and it's of a story, one person's story in history, and it's a nice love story, i guess, and it has some other things happen that are of intrigue, and it has pretty dry characters",0.033074442,0.99989106198293,0.3102240896358543,0.0,False
+you know,0.03994159,0.0418217071234047,0.4117647058823529,0.0,False
+"i mean they're talking what french or i think there's a little bit of italian than in this also, but it's it's fine",0.09333697,0.0086038083478949,0.4215686274509803,0.0,False
+it's a fine movie,0.032902762,0.0032224491358562,0.1666666666666666,0.0,False
+"if this were made in english like i would have preferred, it probably would be a little bit of",0.055732824,0.9989573245824462,0.4669117647058823,0.0,False
 "you know, maybe a high school movie where people are",0.0669207,0.9993878905453992,0.3176470588235294,0.0,False
-"You know, they only have the summer to really enjoy themselves and they just are meaning to talk to each other, but they are getting around to it in the last couple months that they have available",0.04131502,0.0083987783562603,0.3323529411764706,0.0,False
-"So I mean, it's a very generic movie",0.06252546,0.9999642933667716,0.5036764705882353,0.0,False
-In that sense that the reason why it was made was because of one person's experience in history,0.018187003,0.994670203789201,0.4117647058823529,0.0,False
-They had this person that they liked while they were doing a job,0.043375164,0.0012229670906744,0.0588235294117646,0.0,False
-And then that's it,0.022773718,0.0599832691473318,0.4117647058823529,0.0,False
-You know,0.03994159,0.0418217071234047,0.4117647058823529,0.0,False
-That's that's the end of movie,0.045778666,0.9992084334179632,0.4117647058823529,0.0,False
-So it's it,0.024147147,0.0092884934718706,0.4117647058823529,0.0,False
-"I don't know why we keep making movies like this and why people think this is interesting, but you know, I guess it's a kind of a life lesson you know, for people to stop waiting until the last second to tell somebody that they like them",0.084745035,0.9977962927036654,0.2499999999999999,0.053,False
-"It's at the reason why we keep getting movie after movie after movie of this idea where you know, I don't know",0.045778666,0.9965074263090944,0.4117647058823529,0.0,False
+"you know, they only have the summer to really enjoy themselves and they just are meaning to talk to each other, but they are getting around to it in the last couple months that they have available",0.04131502,0.0083987783562603,0.3323529411764706,0.0,False
+"so i mean, it's a very generic movie",0.06252546,0.9999642933667716,0.5036764705882353,0.0,False
+in that sense that the reason why it was made was because of one person's experience in history,0.018187003,0.994670203789201,0.4117647058823529,0.0,False
+they had this person that they liked while they were doing a job,0.043375164,0.0012229670906744,0.0588235294117646,0.0,False
+and then that's it,0.022773718,0.0599832691473318,0.4117647058823529,0.0,False
+you know,0.03994159,0.0418217071234047,0.4117647058823529,0.0,False
+that's that's the end of movie,0.045778666,0.9992084334179632,0.4117647058823529,0.0,False
+so it's it,0.024147147,0.0092884934718706,0.4117647058823529,0.0,False
+"i don't know why we keep making movies like this and why people think this is interesting, but you know, i guess it's a kind of a life lesson you know, for people to stop waiting until the last second to tell somebody that they like them",0.084745035,0.9977962927036654,0.2499999999999999,0.053,False
+"it's at the reason why we keep getting movie after movie after movie of this idea where you know, i don't know",0.045778666,0.9965074263090944,0.4117647058823529,0.0,False
 you know,0.043718524,0.0418217071234047,0.4117647058823529,0.0,False
-"I, Netflix and theatres alike get the same movie just in different forms, So Portrait of a Lady on fire, It has four main characters and maybe a cast of thirty people",0.06132676,0.1437578858978738,0.3790849673202614,0.072,False
+"i, netflix and theatres alike get the same movie just in different forms, so portrait of a lady on fire, it has four main characters and maybe a cast of thirty people",0.06132676,0.1437578858978738,0.3790849673202614,0.072,False
 you know,0.043718524,0.0418217071234047,0.4117647058823529,0.0,False
-Not too bad,0.046122026,0.8583356911732696,0.8235294117647057,0.0,False
+not too bad,0.046122026,0.8583356911732696,0.8235294117647057,0.0,False
 "not too big of a main, necessary people that are around",0.040628307,0.9811537528520972,0.3790849673202614,0.0,False
-It's a little slow because it's only these three to four ladies in this house at a time,0.14911842,0.0216603053918595,0.5073529411764707,0.0,False
-"There's some nice walks on the beach, where in the ocean where it's very pretty scenery",0.026722329,0.0184257553435736,0.1397058823529411,0.0,False
-"The painting by this lady, that is the main character of the movie which is doing the painting",0.038911518,0.0329571330542115,0.3137254901960784,0.0,False
-She has some nice artwork,0.05093802,0.0068559716318846,0.0588235294117646,0.0,False
-She gives some nice lesson,0.13206954,0.0219764789855882,0.0588235294117646,0.0,False
-She knows what she's doing,0.042001735,0.0008998786898431,0.4117647058823529,0.0,False
-She shows her expertise,0.037194733,0.0004852287053075,0.4117647058823529,0.0,False
-"You know, there's good interaction between her and the housemaid",0.16482529,0.0069011861248792,0.0,0.0,False
-That's nice,0.029125832,0.0085041099437638,0.0588235294117646,0.0,False
+it's a little slow because it's only these three to four ladies in this house at a time,0.14911842,0.0216603053918595,0.5073529411764707,0.0,False
+"there's some nice walks on the beach, where in the ocean where it's very pretty scenery",0.026722329,0.0184257553435736,0.1397058823529411,0.0,False
+"the painting by this lady, that is the main character of the movie which is doing the painting",0.038911518,0.0329571330542115,0.3137254901960784,0.0,False
+she has some nice artwork,0.05093802,0.0068559716318846,0.0588235294117646,0.0,False
+she gives some nice lesson,0.13206954,0.0219764789855882,0.0588235294117646,0.0,False
+she knows what she's doing,0.042001735,0.0008998786898431,0.4117647058823529,0.0,False
+she shows her expertise,0.037194733,0.0004852287053075,0.4117647058823529,0.0,False
+"you know, there's good interaction between her and the housemaid",0.16482529,0.0069011861248792,0.0,0.0,False
+that's nice,0.029125832,0.0085041099437638,0.0588235294117646,0.0,False
 you know to paint out,0.118584804,0.0160132626000229,0.4117647058823529,0.0,False
-"Kind of you know, some human characteristics",0.062925026,0.0003001383944992,0.2352941176470587,0.0,False
-They weren't just completely stuck-up They addressed the issue of being a woman versus a man,0.19789414,0.9980246601692716,0.3529411764705882,0.0,False
-You know,0.03994159,0.0418217071234047,0.4117647058823529,0.0,False
-There's there's some nice elements to it,0.033932835,0.0062116725580127,0.0588235294117646,0.0,False
-"As far as that goes, it's not why I watch the movie, but it kind of came out",0.055732824,0.9999298385520704,0.2058823529411764,0.0,False
-"So can I suggest it? Sure you know, go ahead and go watch it",0.07091636,0.0007994053504333,0.1176470588235293,0.0,False
-A lot of people watch these subtitle movies,0.04543531,0.7778367556511931,0.4117647058823529,0.0,False
-A lot of people are interested in this kind of a movie with the painting and the scenery and all this stuff,0.037023053,0.0047733032650497,0.1617647058823529,0.0,False
-And sure you know it's It's worth the watch if you're up for that and you have two hours to waste and you want to get involved And you know this movie was out in theaters somewhere,0.14059398,0.9993443153385712,0.2941176470588235,0.068,False
-I think I might have seen it at one of the smaller theaters while the while they were still open and everything,0.025863936,0.998597963249529,0.4117647058823529,0.0,False
-"but I just didn't have the urge to go see it in theatres for sure, and I'm just kind of happy I saw",0.034104515,0.0073333019583896,0.0392156862745097,0.0,False
-"I'm not really excited that I saw it or anything like that, but I'm just glad I saw it",0.05613239,0.003200452896021,0.3198529411764705,0.07,False
+"kind of you know, some human characteristics",0.062925026,0.0003001383944992,0.2352941176470587,0.0,False
+they weren't just completely stuck-up they addressed the issue of being a woman versus a man,0.19789414,0.9980246601692716,0.3529411764705882,0.0,False
+you know,0.03994159,0.0418217071234047,0.4117647058823529,0.0,False
+there's there's some nice elements to it,0.033932835,0.0062116725580127,0.0588235294117646,0.0,False
+"as far as that goes, it's not why i watch the movie, but it kind of came out",0.055732824,0.9999298385520704,0.2058823529411764,0.0,False
+"so can i suggest it? sure you know, go ahead and go watch it",0.07091636,0.0007994053504333,0.1176470588235293,0.0,False
+a lot of people watch these subtitle movies,0.04543531,0.7778367556511931,0.4117647058823529,0.0,False
+a lot of people are interested in this kind of a movie with the painting and the scenery and all this stuff,0.037023053,0.0047733032650497,0.1617647058823529,0.0,False
+and sure you know it's it's worth the watch if you're up for that and you have two hours to waste and you want to get involved and you know this movie was out in theaters somewhere,0.14059398,0.9993443153385712,0.2941176470588235,0.068,False
+i think i might have seen it at one of the smaller theaters while the while they were still open and everything,0.025863936,0.998597963249529,0.4117647058823529,0.0,False
+"but i just didn't have the urge to go see it in theatres for sure, and i'm just kind of happy i saw",0.034104515,0.0073333019583896,0.0392156862745097,0.0,False
+"i'm not really excited that i saw it or anything like that, but i'm just glad i saw it",0.05613239,0.003200452896021,0.3198529411764705,0.07,False
 so it's out of the way,0.050585672,0.939823712357854,0.4117647058823529,0.0,False
-I'm gonna get Portrait of a lady on fire on See rating and I just can't get that excited about it for you,0.34388447,0.9996300876252106,0.1911764705882352,0.174,False
-You're gonna have to see yourself and kind of see what I mean,0.078108564,0.0,0.3272058823529411,0.0,False
-That is kind of a bland movie,0.14508054,0.9999448007639908,0.284313725490196,0.0,False
-It's kind of a bland story,0.09387396,0.9991627420417202,0.284313725490196,0.0,False
+i'm gonna get portrait of a lady on fire on see rating and i just can't get that excited about it for you,0.34388447,0.9996300876252106,0.1911764705882352,0.174,False
+you're gonna have to see yourself and kind of see what i mean,0.078108564,0.0,0.3272058823529411,0.0,False
+that is kind of a bland movie,0.14508054,0.9999448007639908,0.284313725490196,0.0,False
+it's kind of a bland story,0.09387396,0.9991627420417202,0.284313725490196,0.0,False
 and reading some titles is no but no fun for anybody,0.14193995,0.9999654855748928,0.4999999999999999,0.333,False
-"So if there is a subtitle movie out there that I have to watch, let me know maybe I can tough my way through it if I can find it",0.08689302,0.9898455461593328,0.6405228758169934,0.049,False
-"I'll give it a try, but this is probably one of the better ones that I have seen since I sat through the whole thing",0.067320265,0.026377276823185,0.2058823529411764,0.0,False
-I enjoyed it,0.039598234,0.0088579573141208,0.1176470588235293,0.0,False
-"You know, I'd say it was fine, so I think I could give a lot of subtitled movies a really low grade because I just don't care and I can't get invested in them and a lot of them",0.14687516,0.9994206762687308,0.2892156862745098,0.117,False
-"I just stopped it after half an hour, If I think it's completely boring after a half an hour, So I see for Portrait of a lady on fire",0.23628397,0.999309055783388,0.6732026143790849,0.21,False
-"Thanks a lot, guys",0.045778666,0.0020169180889535,0.2941176470588235,0.0,False
-"My name is Danny, If you like this area, My other videos try and give some of them",0.14866976,0.0318459950853008,0.4852941176470588,0.0,False
-"watch like it, subscribe to my channel If you would enjoy your movies, thanks",0.030155903,0.0133023303585455,0.2352941176470587,0.0,False
+"so if there is a subtitle movie out there that i have to watch, let me know maybe i can tough my way through it if i can find it",0.08689302,0.9898455461593328,0.6405228758169934,0.049,False
+"i'll give it a try, but this is probably one of the better ones that i have seen since i sat through the whole thing",0.067320265,0.026377276823185,0.2058823529411764,0.0,False
+i enjoyed it,0.039598234,0.0088579573141208,0.1176470588235293,0.0,False
+"you know, i'd say it was fine, so i think i could give a lot of subtitled movies a really low grade because i just don't care and i can't get invested in them and a lot of them",0.14687516,0.9994206762687308,0.2892156862745098,0.117,False
+"i just stopped it after half an hour, if i think it's completely boring after a half an hour, so i see for portrait of a lady on fire",0.23628397,0.999309055783388,0.6732026143790849,0.21,False
+"thanks a lot, guys",0.045778666,0.0020169180889535,0.2941176470588235,0.0,False
+"my name is danny, if you like this area, my other videos try and give some of them",0.14866976,0.0318459950853008,0.4852941176470588,0.0,False
+"watch like it, subscribe to my channel if you would enjoy your movies, thanks",0.030155903,0.0133023303585455,0.2352941176470587,0.0,False

@@ -1,64 +1,64 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hey, everyone, I'm Mariana, and let's talk about one of my most anticipated films of the year, Christopher Nolan's Dunkirk",0.057331093,0.0045971366744758,0.25,0.0,False
-I don't think there's a point in me describing the plot,0.02517722,0.9991251936596464,0.5,0.0,False
-It's exactly what it sounds like,0.020408317,0.0032595201389342,0.375,0.0,False
-"World War Ii, Dunkirk evacuation",0.076110736,0.9715401383906496,0.5,0.494,False
-That's the whole movie,0.04131502,0.0028796813896477,0.4,0.0,False
-And Christopher Nolan really takes a different approach to a war film here,0.064523295,0.0003994192952481,0.45,0.245,False
+"hey, everyone, i'm mariana, and let's talk about one of my most anticipated films of the year, christopher nolan's dunkirk",0.057331093,0.0045971366744758,0.25,0.0,False
+i don't think there's a point in me describing the plot,0.02517722,0.9991251936596464,0.5,0.0,False
+it's exactly what it sounds like,0.020408317,0.0032595201389342,0.375,0.0,False
+"world war ii, dunkirk evacuation",0.076110736,0.9715401383906496,0.5,0.494,False
+that's the whole movie,0.04131502,0.0028796813896477,0.4,0.0,False
+and christopher nolan really takes a different approach to a war film here,0.064523295,0.0003994192952481,0.45,0.245,False
 compared to what we're used to seeing from movies like this,0.03221605,0.9965593672616608,0.5,0.0,False
-"It's not a story of one person's heroism or a story of a smaller group of people getting personal during the war, or a story that involves strategic planning",0.031701013,0.1951797762345936,0.5,0.112,False
-It's none of these things,0.026894007,0.934403323244832,0.5,0.0,False
-This is about survival in a very specific situation,0.021102477,0.0499947069939683,0.5,0.0,False
+"it's not a story of one person's heroism or a story of a smaller group of people getting personal during the war, or a story that involves strategic planning",0.031701013,0.1951797762345936,0.5,0.112,False
+it's none of these things,0.026894007,0.934403323244832,0.5,0.0,False
+this is about survival in a very specific situation,0.021102477,0.0499947069939683,0.5,0.0,False
 there is very little dialogue,0.048525527,0.999637864210076,0.621875,0.0,False
-"There is essentially no exposition or backstory From the beginning, You are thrown right into the action and you are just stressed as hell for an hour and 46 minutes Now",0.2712817,0.9613702948871946,0.4357142857142857,0.247,True
-"If you're like me, you were probably a little surprised by the Pg-13 rating When I heard that that's what it was earlier this year",0.015896274,0.1737354722481971,0.5145833333333333,0.0,False
-I was a little skeptical,0.040971663,0.9923975624515106,0.671875,0.334,False
-"How is Nolan going to pull off a war film without an R-rating Well he does, and it is one of the best war films I've ever seen",0.12051678,0.0001008234200734,0.0,0.254,False
-He does it with tension,0.12244874,0.8630113711412913,0.5,0.365,False
-"He doesn't was sound, he doesn't with scale, and to be quite honest, I was blown away by this film",0.22977416,0.999981581769552,0.25,0.0,False
-"What's interesting is that no one makes a very conscious choice not to get the audience familiar with the characters, Because Dunkirk is not about any one person's story",0.04406188,0.9971327464454603,0.3325,0.069,False
-You don't get to find out what their friends and family situation is,0.017006932,0.9387164376924974,0.5,0.0,False
-You don't know what their hopes and dreams are,0.03461955,0.9083476665711382,0.5,0.0,False
-Because that's really not the point where other directors may take an approach that is more personal,0.019019997,0.9880040098097044,0.465625,0.0,False
-"Nolan really wants this audience to understand that on this beach, while they may all be different people, they're also all the same waiting for ships hoping to get home, trying to survive another day",0.02809576,0.0078112669024518,0.4666666666666667,0.0,False
-"He challenges the audience to root for all of these soldiers, because it's a terrible situation, and because war is more than one person's story, we get three different perspectives, beach, water and air, which helps us piece together the overall picture",0.10634898,3.683646089589134e-05,0.5625,0.143,False
-"And while each of these perspectives has their own set of characters, the dialogue is very minimal because there's no reason for them to explain anything",0.07251463,0.976844022503382,0.3825,0.081,False
-They know what the situation is,0.037194733,0.0714786787226402,0.5,0.0,False
-They're only going to talk when it's necessary,0.048868883,0.8673366750003696,0.5,0.0,False
-"And yet, even though we know very little about these people, we still get a sense of what kind of people they are",0.030327583,0.005260699620954,0.4109375,0.0,False
-The cast is perfect and I really liked that Nolan used his stars sparingly while giving a lot of attention to less familiar faces,0.10699297,0.0007002205896027,0.2739583333333333,0.0,False
-"Tom Hardy and Mark Rylance are probably the biggest names here, but they're not there to show off",0.0729142,0.9922055121650922,0.5,0.0,False
-Their performances are beautifully subtle,0.16275369,4.410838359702199e-05,0.6666666666666666,0.0,False
-I really appreciated that personally,0.023803791,0.0016824964105312,0.45,0.0,False
-"I'm a big fan of Killian Murphy, and he has some great moments here, too, Finn Whitehead place, Tommy, who's our lead character on the beach, And though I haven't seen him in anything else, I'm definitely hoping to see more of him in future films",0.101391904,0.0,0.37,0.0,False
-He did really really well,0.037881445,0.0154504216999895,0.4,0.0,False
-And guess what who knew Harry Styles could act,0.05653196,0.178691734613446,0.5,0.0,False
-"To be honest, I would not know that that's who it was",0.028610796,0.9826835254471994,0.2,0.0,False
-"that the internet wasn't buzzing about it for months now, because I know next to nothing about one direction",0.05093802,0.999972104427671,0.5,0.0,False
-but you know if you are going into this film and you're afraid that you're going to I roll throughout the whole thing,0.14059398,0.9904175132694708,0.6,0.0,False
-Because of Harry Styles,0.022945397,0.0013442327930811,0.5,0.0,False
-He's actually pretty good in it,0.040284947,0.0019988548509923,0.2625,0.0,False
-"Obviously, this is a visually stunning film",0.05613239,5.7698534218807146e-05,0.375,0.0,False
-I don't think we would expect anything less from Christopher Nolan,0.16482529,0.0002539510382636,0.5833333333333334,0.0,False
-"At this point, he knows what he's doing",0.02809576,0.0013218507687018,0.5,0.0,False
-You absolutely must see Dunkirk on the biggest screen,0.07251463,0.8455247812820232,0.4,0.0,False
-You can,0.028267438,0.0023039775748209,0.5,0.0,False
-I saw it at Imax and that was some experience,0.025005542,0.0061060606349604,0.5,0.0,False
-Also the wonderful Hans Zimmer score is going to play a really big role in how stressed out you're going to be while watching this movie,0.080905534,2.652463608199296e-05,0.25,0.076,False
-It's the ticking bomb type of score,0.123736724,0.9289762932935706,0.5,0.348,False
-"That's the best way I can describe it, and it just builds and builds as things are escalating on screen, and as you would expect, it gets loud, which along the fact that every shot and explosion you hear sounds very crisp, just adds to the overall tension",0.08555053,0.000635726980073,0.321875,0.044,False
-"This movie is all tension, no extraneous movie, just tension",0.22983712,0.004427110776894,0.5,0.493,False
-"I could talk about this movie for much longer, but I don't want to get into spoilers",0.06412373,0.9989376436204732,0.4,0.077,False
-"There were moments that were terrifying to me, Despite the lack of graphic violence",0.1539292,0.0951632117483752,0.75,0.376,False
-There were moments that had me tearing up,0.10461388,0.993003158637113,0.5,0.0,False
-"There was some beautiful, powerful writing and there, despite the very minimal amount of dialogue, I was rooting for all these characters and I was consistently stressed from the beginning to the end of the film, and I really do appreciate the different kind of approach Nolan took with this",0.024490505,1.6868476429671924e-05,0.3521428571428571,0.041,False
-Dunkirk was a very memorable and impactful experience for me,0.0669207,0.0029186338608378,0.175,0.0,False
-So here we go,0.03049926,0.0128591435725501,0.5,0.0,False
-"Are you ready for this? This is my first 5 out of 5 film of 2017, Cozied and theaters, obviously preferably an Imax So that's it for this video",0.07371333,0.9804069367943552,0.425,0.0,False
-Thank you guys so much for watching,0.036336336,0.0203605490802329,0.4,0.0,False
-Let me know what you thought of the movie,0.02655065,0.9985160509215792,0.5,0.0,False
-"If you've seen it already, and if you haven't seen it, I obviously highly recommend it",0.024147147,0.0003141828242431,0.42,0.0,False
-"I hope you enjoyed the video and if you did, please don't forget to give it a thumbs up",0.08501353,0.0018138976695037,0.25,0.0,False
-Share it and subscribe to my channel,0.025005542,0.1610679915235608,0.5,0.0,False
-"If you haven't already, I hope you're having an awesome day and I will see you soon in my next video",0.09548495,0.0006990284711271,0.25,0.094,False
-Bye,0.055732824,0.0100051523360515,0.5,0.0,False
+"there is essentially no exposition or backstory from the beginning, you are thrown right into the action and you are just stressed as hell for an hour and 46 minutes now",0.2712817,0.9613702948871946,0.4357142857142857,0.247,True
+"if you're like me, you were probably a little surprised by the pg-13 rating when i heard that that's what it was earlier this year",0.015896274,0.1737354722481971,0.5145833333333333,0.0,False
+i was a little skeptical,0.040971663,0.9923975624515106,0.671875,0.334,False
+"how is nolan going to pull off a war film without an r-rating well he does, and it is one of the best war films i've ever seen",0.12051678,0.0001008234200734,0.0,0.254,False
+he does it with tension,0.12244874,0.8630113711412913,0.5,0.365,False
+"he doesn't was sound, he doesn't with scale, and to be quite honest, i was blown away by this film",0.22977416,0.999981581769552,0.25,0.0,False
+"what's interesting is that no one makes a very conscious choice not to get the audience familiar with the characters, because dunkirk is not about any one person's story",0.04406188,0.9971327464454603,0.3325,0.069,False
+you don't get to find out what their friends and family situation is,0.017006932,0.9387164376924974,0.5,0.0,False
+you don't know what their hopes and dreams are,0.03461955,0.9083476665711382,0.5,0.0,False
+because that's really not the point where other directors may take an approach that is more personal,0.019019997,0.9880040098097044,0.465625,0.0,False
+"nolan really wants this audience to understand that on this beach, while they may all be different people, they're also all the same waiting for ships hoping to get home, trying to survive another day",0.02809576,0.0078112669024518,0.4666666666666667,0.0,False
+"he challenges the audience to root for all of these soldiers, because it's a terrible situation, and because war is more than one person's story, we get three different perspectives, beach, water and air, which helps us piece together the overall picture",0.10634898,3.683646089589134e-05,0.5625,0.143,False
+"and while each of these perspectives has their own set of characters, the dialogue is very minimal because there's no reason for them to explain anything",0.07251463,0.976844022503382,0.3825,0.081,False
+they know what the situation is,0.037194733,0.0714786787226402,0.5,0.0,False
+they're only going to talk when it's necessary,0.048868883,0.8673366750003696,0.5,0.0,False
+"and yet, even though we know very little about these people, we still get a sense of what kind of people they are",0.030327583,0.005260699620954,0.4109375,0.0,False
+the cast is perfect and i really liked that nolan used his stars sparingly while giving a lot of attention to less familiar faces,0.10699297,0.0007002205896027,0.2739583333333333,0.0,False
+"tom hardy and mark rylance are probably the biggest names here, but they're not there to show off",0.0729142,0.9922055121650922,0.5,0.0,False
+their performances are beautifully subtle,0.16275369,4.410838359702199e-05,0.6666666666666666,0.0,False
+i really appreciated that personally,0.023803791,0.0016824964105312,0.45,0.0,False
+"i'm a big fan of killian murphy, and he has some great moments here, too, finn whitehead place, tommy, who's our lead character on the beach, and though i haven't seen him in anything else, i'm definitely hoping to see more of him in future films",0.101391904,0.0,0.37,0.0,False
+he did really really well,0.037881445,0.0154504216999895,0.4,0.0,False
+and guess what who knew harry styles could act,0.05653196,0.178691734613446,0.5,0.0,False
+"to be honest, i would not know that that's who it was",0.028610796,0.9826835254471994,0.2,0.0,False
+"that the internet wasn't buzzing about it for months now, because i know next to nothing about one direction",0.05093802,0.999972104427671,0.5,0.0,False
+but you know if you are going into this film and you're afraid that you're going to i roll throughout the whole thing,0.14059398,0.9904175132694708,0.6,0.0,False
+because of harry styles,0.022945397,0.0013442327930811,0.5,0.0,False
+he's actually pretty good in it,0.040284947,0.0019988548509923,0.2625,0.0,False
+"obviously, this is a visually stunning film",0.05613239,5.7698534218807146e-05,0.375,0.0,False
+i don't think we would expect anything less from christopher nolan,0.16482529,0.0002539510382636,0.5833333333333334,0.0,False
+"at this point, he knows what he's doing",0.02809576,0.0013218507687018,0.5,0.0,False
+you absolutely must see dunkirk on the biggest screen,0.07251463,0.8455247812820232,0.4,0.0,False
+you can,0.028267438,0.0023039775748209,0.5,0.0,False
+i saw it at imax and that was some experience,0.025005542,0.0061060606349604,0.5,0.0,False
+also the wonderful hans zimmer score is going to play a really big role in how stressed out you're going to be while watching this movie,0.080905534,2.652463608199296e-05,0.25,0.076,False
+it's the ticking bomb type of score,0.123736724,0.9289762932935706,0.5,0.348,False
+"that's the best way i can describe it, and it just builds and builds as things are escalating on screen, and as you would expect, it gets loud, which along the fact that every shot and explosion you hear sounds very crisp, just adds to the overall tension",0.08555053,0.000635726980073,0.321875,0.044,False
+"this movie is all tension, no extraneous movie, just tension",0.22983712,0.004427110776894,0.5,0.493,False
+"i could talk about this movie for much longer, but i don't want to get into spoilers",0.06412373,0.9989376436204732,0.4,0.077,False
+"there were moments that were terrifying to me, despite the lack of graphic violence",0.1539292,0.0951632117483752,0.75,0.376,False
+there were moments that had me tearing up,0.10461388,0.993003158637113,0.5,0.0,False
+"there was some beautiful, powerful writing and there, despite the very minimal amount of dialogue, i was rooting for all these characters and i was consistently stressed from the beginning to the end of the film, and i really do appreciate the different kind of approach nolan took with this",0.024490505,1.6868476429671924e-05,0.3521428571428571,0.041,False
+dunkirk was a very memorable and impactful experience for me,0.0669207,0.0029186338608378,0.175,0.0,False
+so here we go,0.03049926,0.0128591435725501,0.5,0.0,False
+"are you ready for this? this is my first 5 out of 5 film of 2017, cozied and theaters, obviously preferably an imax so that's it for this video",0.07371333,0.9804069367943552,0.425,0.0,False
+thank you guys so much for watching,0.036336336,0.0203605490802329,0.4,0.0,False
+let me know what you thought of the movie,0.02655065,0.9985160509215792,0.5,0.0,False
+"if you've seen it already, and if you haven't seen it, i obviously highly recommend it",0.024147147,0.0003141828242431,0.42,0.0,False
+"i hope you enjoyed the video and if you did, please don't forget to give it a thumbs up",0.08501353,0.0018138976695037,0.25,0.0,False
+share it and subscribe to my channel,0.025005542,0.1610679915235608,0.5,0.0,False
+"if you haven't already, i hope you're having an awesome day and i will see you soon in my next video",0.09548495,0.0006990284711271,0.25,0.094,False
+bye,0.055732824,0.0100051523360515,0.5,0.0,False

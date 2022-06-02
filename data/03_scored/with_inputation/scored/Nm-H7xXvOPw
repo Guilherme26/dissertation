@@ -1,28 +1,28 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello, everyone, I'm Paul Mcguire Grimes, this is Paul's trip to the movies and I implore you to get lead to a theater and go see book",0.031357653,0.003297110586798,0.3749999999999999,0.071,False
+"hello, everyone, i'm paul mcguire grimes, this is paul's trip to the movies and i implore you to get lead to a theater and go see book",0.031357653,0.003297110586798,0.3749999999999999,0.071,False
 smart,0.029125832,0.002547080440748,0.2410714285714285,0.0,False
-"You know, I love a good coming-of-age high school movie and while there may seem to be a lot of them, it's really hard to find a good one that really stands out from the pack",0.08581903,0.9937514078339436,0.1699652777777777,0.039,False
-Too Often they turn to these teen soap movies with cheesy dialogue and generic characters,0.20449556,0.9999577985104184,0.4791666666666667,0.0,False
-"You won't find that, though here in a book, smart sirs, Beanie Feldstein and Kaitlyn Dever as Molly and Amy, two high school seniors who have spent their whole high school, stuck in the books, really trying to prepare them academically, but on this final day of school they decided to go to a big party to show and prove that they are both smart and fun",0.011870144,0.0443110276009067,0.2907142857142857,0.02,False
-It also shares Mason Gooding and Skylar Kazan Doe,0.032902762,0.0183846199651551,0.3749999999999999,0.0,False
-So this marks Olivia Wilde's directorial debut and she only has the voice and vision to make book-smart a relatable and realistic teen story,0.050242316,0.0351639441440634,0.3402777777777777,0.0,False
-"It was written by Emily Halpern and Sara Hoskins, Susanna Fobel and Katy Silberman, and it really reminded me of Dazed and Confused and Lady Bird, with its wholly original characters",0.03221605,0.0002268330065002,0.42578125,0.117,False
-"They've written fantastic banter with Molly and Amy really creating the rapport, the inside jokes and the references that feel authentic for these two strong-willed feminist characters with big personalities",0.10031791,0.0001834989910684,0.2031249999999999,0.0,False
-Beanie Feldstein and Kaitlyn Dever have fantastic chemistry together,0.0789077,0.0005078484339462,0.1249999999999999,0.0,False
-"There's no question, the friendship throughout the movie and the supporting cast is just as strong with Billie Lourd as the wild and crazy classmate who continuously pops up when you least expect it, and then you have Jason Sudeikis, Will Forte and Lisa Cujo are all memorable as the adults in the movie",0.15918289,0.0003003279735255,0.3350694444444444,0.073,False
-"So like any good teen movie, it's filled with fantastic music and the soundtrack has the likes of Liz O Anis, Alanis Morissette themed karaoke scene",0.047495455,0.0005690644364888,0.1406249999999999,0.0,False
-"It's a very deliberate soundtrack, as the musical really drives whole scenes, and then smaller moments",0.105704986,3.7492566308941486e-05,0.3,0.0,False
-"But then the antithesis is also true, as Olivia Wilde knows that the silence is the key to some of the film's more emotional moments",0.03736641,0.001898083521874,0.2421874999999999,0.0,False
-"Book-smart is that reminder of the masks that we all wore in high school, trying to fit in and trying to create that image that we wanted to others to see in us",0.03994159,0.0039009256849054,0.1999999999999999,0.0,False
-The beauty in this movie is when we see those masks come off,0.1250247,0.0080518117463077,0.3749999999999999,0.0,False
-The vulnerability come through with both Amy and Molly as a director,0.051737156,0.1216183150649959,0.3749999999999999,0.147,False
-It's clear that Olivia Wilde knew the movie that she wanted to make while allowing her cast to really play with these characters to make them as authentic as possible,0.043718524,0.0029752944254276,0.25,0.0,False
-I'm really excited to see what other stores she has to tell with her next movies,0.049898956,0.0004821579791304,0.3229166666666666,0.0,False
-"I'm giving a book a smart, four out of five ticket stubs",0.22986074,0.0023823873394577,0.2410714285714285,0.0,False
-"If you liked my review today, Click subscribe on my Youtube channel",0.017492844,0.8561773235064264,0.0,0.0,False
-I've new reviews,0.0253489,0.8765624013696648,0.2897727272727272,0.0,False
-"The movies like Aladdin and John Wick, Three, and my appearances on Twin Cities Live",0.0495556,0.0019461562638902,0.2897727272727272,0.0,False
-"Don't forget, Follow me on Instagram and Twitter At Paul's a movie trip and then go to my website",0.016104523,0.8309651820425032,0.3749999999999999,0.0,False
-Paul's trip to the movies,0.023288755,0.0,0.3749999999999999,0.0,False
-Calm for even more reviews as well as trailers for Downton Abbey and Terminator Dark Fate,0.05852979,0.7823310946476292,0.2395833333333333,0.0,False
-Thank you so much for watching Paul's trip to the movies,0.015202113,0.0065051390744724,0.25,0.0,False
+"you know, i love a good coming-of-age high school movie and while there may seem to be a lot of them, it's really hard to find a good one that really stands out from the pack",0.08581903,0.9937514078339436,0.1699652777777777,0.039,False
+too often they turn to these teen soap movies with cheesy dialogue and generic characters,0.20449556,0.9999577985104184,0.4791666666666667,0.0,False
+"you won't find that, though here in a book, smart sirs, beanie feldstein and kaitlyn dever as molly and amy, two high school seniors who have spent their whole high school, stuck in the books, really trying to prepare them academically, but on this final day of school they decided to go to a big party to show and prove that they are both smart and fun",0.011870144,0.0443110276009067,0.2907142857142857,0.02,False
+it also shares mason gooding and skylar kazan doe,0.032902762,0.0183846199651551,0.3749999999999999,0.0,False
+so this marks olivia wilde's directorial debut and she only has the voice and vision to make book-smart a relatable and realistic teen story,0.050242316,0.0351639441440634,0.3402777777777777,0.0,False
+"it was written by emily halpern and sara hoskins, susanna fobel and katy silberman, and it really reminded me of dazed and confused and lady bird, with its wholly original characters",0.03221605,0.0002268330065002,0.42578125,0.117,False
+"they've written fantastic banter with molly and amy really creating the rapport, the inside jokes and the references that feel authentic for these two strong-willed feminist characters with big personalities",0.10031791,0.0001834989910684,0.2031249999999999,0.0,False
+beanie feldstein and kaitlyn dever have fantastic chemistry together,0.0789077,0.0005078484339462,0.1249999999999999,0.0,False
+"there's no question, the friendship throughout the movie and the supporting cast is just as strong with billie lourd as the wild and crazy classmate who continuously pops up when you least expect it, and then you have jason sudeikis, will forte and lisa cujo are all memorable as the adults in the movie",0.15918289,0.0003003279735255,0.3350694444444444,0.073,False
+"so like any good teen movie, it's filled with fantastic music and the soundtrack has the likes of liz o anis, alanis morissette themed karaoke scene",0.047495455,0.0005690644364888,0.1406249999999999,0.0,False
+"it's a very deliberate soundtrack, as the musical really drives whole scenes, and then smaller moments",0.105704986,3.7492566308941486e-05,0.3,0.0,False
+"but then the antithesis is also true, as olivia wilde knows that the silence is the key to some of the film's more emotional moments",0.03736641,0.001898083521874,0.2421874999999999,0.0,False
+"book-smart is that reminder of the masks that we all wore in high school, trying to fit in and trying to create that image that we wanted to others to see in us",0.03994159,0.0039009256849054,0.1999999999999999,0.0,False
+the beauty in this movie is when we see those masks come off,0.1250247,0.0080518117463077,0.3749999999999999,0.0,False
+the vulnerability come through with both amy and molly as a director,0.051737156,0.1216183150649959,0.3749999999999999,0.147,False
+it's clear that olivia wilde knew the movie that she wanted to make while allowing her cast to really play with these characters to make them as authentic as possible,0.043718524,0.0029752944254276,0.25,0.0,False
+i'm really excited to see what other stores she has to tell with her next movies,0.049898956,0.0004821579791304,0.3229166666666666,0.0,False
+"i'm giving a book a smart, four out of five ticket stubs",0.22986074,0.0023823873394577,0.2410714285714285,0.0,False
+"if you liked my review today, click subscribe on my youtube channel",0.017492844,0.8561773235064264,0.0,0.0,False
+i've new reviews,0.0253489,0.8765624013696648,0.2897727272727272,0.0,False
+"the movies like aladdin and john wick, three, and my appearances on twin cities live",0.0495556,0.0019461562638902,0.2897727272727272,0.0,False
+"don't forget, follow me on instagram and twitter at paul's a movie trip and then go to my website",0.016104523,0.8309651820425032,0.3749999999999999,0.0,False
+paul's trip to the movies,0.023288755,0.0,0.3749999999999999,0.0,False
+calm for even more reviews as well as trailers for downton abbey and terminator dark fate,0.05852979,0.7823310946476292,0.2395833333333333,0.0,False
+thank you so much for watching paul's trip to the movies,0.015202113,0.0065051390744724,0.25,0.0,False

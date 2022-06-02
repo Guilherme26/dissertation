@@ -1,140 +1,140 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello, and welcome to Episode 235 of the Epic Film Challenge To a thousand one Movies you must see before you die from 1950",0.06771983,0.0009177099239098,0.275,0.134,False
-All About Eve,0.020408317,0.0006510876525634,0.5,0.0,False
-I really wished I'd made this review,0.03204437,0.041991368543567,0.4,0.0,False
-"In fact, I think they did film a version of this many many weeks ago",0.025692256,0.9630969860715644,0.25,0.0,False
-I've sold this film for the first time six weeks ago,0.046122026,0.2241211434322315,0.375,0.0,False
+"hello, and welcome to episode 235 of the epic film challenge to a thousand one movies you must see before you die from 1950",0.06771983,0.0009177099239098,0.275,0.134,False
+all about eve,0.020408317,0.0006510876525634,0.5,0.0,False
+i really wished i'd made this review,0.03204437,0.041991368543567,0.4,0.0,False
+"in fact, i think they did film a version of this many many weeks ago",0.025692256,0.9630969860715644,0.25,0.0,False
+i've sold this film for the first time six weeks ago,0.046122026,0.2241211434322315,0.375,0.0,False
 and the heatwave hit,0.09065199,0.0013934932840454,0.5,0.0,False
-It was just impossible to film a video,0.08635602,0.9999393200375072,0.8333333333333333,0.0,False
-"I tried, and it was just a terrible video",0.49309984,0.9999803892852062,1.0,0.279,False
-"And there have been so many reviews and videos in this series where I thought you know, I'm really happy and proud of that review",0.026894007,0.0014056829228763,0.1499999999999999,0.0,False
-"What I said about the film I articulated myself on why I liked it, Why I didn't like",0.054534122,0.0013616035198669,0.2,0.101,False
-It Had never been plenty of videos where I feel like I've done a really bad job and this is a film,0.22979778,0.999978124217844,0.8499999999999999,0.144,False
-I feel like I need to do at least a decent job,0.06492286,0.1078193224909327,0.5333333333333333,0.0,False
-Well because it's it's worth it,0.025863936,0.0021142913650327,0.35,0.0,False
-"It's one of those films that's really special and I need to try and convey that in the best way I possibly can, so hopefully I can still do that even though it's many many weeks since I've saw it, but I will say that you know what, Six weeks ago",0.053335425,3.814850294247152e-05,0.2642857142857143,0.0,False
-"since then, I've probably seen twenty thirty films, maybe more than that, and it's more fresh in my mind than most of the films I've seen Since then",0.049898956,0.0003728122057088,0.275,0.0,False
-It has that impact,0.031185975,0.000695077645019,0.5,0.0,False
-It has that staying power,0.04680874,0.0001606707651272,0.5,0.0,False
-I've never seen it before,0.024318827,0.1616603313328616,0.5,0.0,False
-Had heard about it,0.022213135,0.0315414504644967,0.5,0.0,False
-"One of those classic titles all about Eve, Bette Davis, and I was assuming that Eve was going to be a character played by Bette Davis, But it's not, and this film was hugely successful when it came out in 1951",0.04680874,0.0002777985905677,0.2708333333333333,0.0,False
-"the Academy Award for Best Picture, Best Director, Best script, Best Supporting Actor for George Sanders, It's it really just swept the board and was nominated and one other kind of awards as well",0.02397547,0.0198126932348338,0.1921875,0.0,False
-"And it's interesting to me that this film came out in 1950, the same year as a little movie called Sunset Boulevard, Which they can draw a lot of parallels between those two movies",0.028267438,0.0015570549904113,0.4479166666666667,0.0,False
-"They're both about an aging actress, And you know that there's similar themes",0.06612156,0.9022632970332446,0.5,0.0,False
-They're very different films,0.058929358,0.99962131650126,0.5,0.0,False
+it was just impossible to film a video,0.08635602,0.9999393200375072,0.8333333333333333,0.0,False
+"i tried, and it was just a terrible video",0.49309984,0.9999803892852062,1.0,0.279,False
+"and there have been so many reviews and videos in this series where i thought you know, i'm really happy and proud of that review",0.026894007,0.0014056829228763,0.1499999999999999,0.0,False
+"what i said about the film i articulated myself on why i liked it, why i didn't like",0.054534122,0.0013616035198669,0.2,0.101,False
+it had never been plenty of videos where i feel like i've done a really bad job and this is a film,0.22979778,0.999978124217844,0.8499999999999999,0.144,False
+i feel like i need to do at least a decent job,0.06492286,0.1078193224909327,0.5333333333333333,0.0,False
+well because it's it's worth it,0.025863936,0.0021142913650327,0.35,0.0,False
+"it's one of those films that's really special and i need to try and convey that in the best way i possibly can, so hopefully i can still do that even though it's many many weeks since i've saw it, but i will say that you know what, six weeks ago",0.053335425,3.814850294247152e-05,0.2642857142857143,0.0,False
+"since then, i've probably seen twenty thirty films, maybe more than that, and it's more fresh in my mind than most of the films i've seen since then",0.049898956,0.0003728122057088,0.275,0.0,False
+it has that impact,0.031185975,0.000695077645019,0.5,0.0,False
+it has that staying power,0.04680874,0.0001606707651272,0.5,0.0,False
+i've never seen it before,0.024318827,0.1616603313328616,0.5,0.0,False
+had heard about it,0.022213135,0.0315414504644967,0.5,0.0,False
+"one of those classic titles all about eve, bette davis, and i was assuming that eve was going to be a character played by bette davis, but it's not, and this film was hugely successful when it came out in 1951",0.04680874,0.0002777985905677,0.2708333333333333,0.0,False
+"the academy award for best picture, best director, best script, best supporting actor for george sanders, it's it really just swept the board and was nominated and one other kind of awards as well",0.02397547,0.0198126932348338,0.1921875,0.0,False
+"and it's interesting to me that this film came out in 1950, the same year as a little movie called sunset boulevard, which they can draw a lot of parallels between those two movies",0.028267438,0.0015570549904113,0.4479166666666667,0.0,False
+"they're both about an aging actress, and you know that there's similar themes",0.06612156,0.9022632970332446,0.5,0.0,False
+they're very different films,0.058929358,0.99962131650126,0.5,0.0,False
 but there's a,0.017701091,0.1947353814191636,0.5,0.0,False
 there's a thread of similarity that that kind of joins them together,0.06492286,0.0027762871051562,0.2,0.0,False
 at least of all the fact that they came out in the same year,0.01999182,0.9679925417292466,0.575,0.0,False
 anyway,0.017284594,0.8340941575388923,0.5,0.0,False
-"Bette Davis stars as Margo Channing, a theatre actress, a very famous stage actress, who's in her forties now and she's kind of feeling it",0.02792408,0.0002111281209722,0.1875,0.0,False
-You know,0.03994159,0.0418758799116123,0.5,0.0,False
-She's one of those women who are kind of her presence fills up the entire room,0.1580154,0.0016000614667753,0.35,0.0,False
-"She's a very boisterous, very kind of a strong, strong-willed a strong personality, one of those types of people, and, but at the same time, she does have that kind of sensitivity to her, and she does have that kind of jacked out of",0.20522906,0.0433009053176211,0.2823809523809524,0.0,False
-"you know, Am I getting too old to play these same parts over and over again? You know she's still successful, but as far as her own eyes are concerned, and what she sees in the mirror, she can tell that she's getting old or getting older at least, and Eve is a young doe-eyed woman who is besotted with Margo, Eve Harrington",0.09978092,0.2079208451943884,0.4101851851851852,0.0,False
-She goes to see Margo at the play that she's currently performing in every single day multiple times a day,0.019019997,0.0009712668456189,0.5119047619047619,0.0,False
-"You know, she'll see all the performances and she gets taken in",0.04406188,0.0010019644690804,0.5,0.0,False
-She's outside of the theater at the beginning of the movie,0.045778666,0.9931711497416364,0.5,0.0,False
-"She gets taken in by Margo's friend, Like come and meet her",0.08689302,0.0046770958713007,0.5,0.0,False
-"You know, if you're such a big fan, we'll come and see her backstage",0.3063832,0.0052838656927115,0.5,0.0,False
-"Oh no, no, I couldn't",0.028267438,0.9972508042926364,0.5,0.0,False
-"possibly you know, Eva's very meek, but she goes backstage and she meets Margo, who kind of takes takes a bit of a liking to it",0.22157386,0.0535598722573536,0.3666666666666667,0.0,False
-"We kind of get to hear Eve's backstory about losing her husband, and she kind of you know, tells him where she is now in her life, and it isn't a very nice story, so Margo takes pity on, even, says, come with me, and you can be my assistant",0.061726328,0.0113440236167844,0.265,0.139,False
-And so Eve is very happy and very glad to take on the the mantle of assisting Margo in any way she can,0.034104515,0.0027962554621652,0.0875,0.0,False
-"Now Margo already has an assistant, kind of called Birdy, played by Thalma Ritter, And Birdy doesn't really trust Eat when she comes into the fold, and you know very much takes a quick distrust stance to Eve, and everything that she seems to be standing for",0.09333697,0.9987246776645224,0.3258333333333333,0.11,False
-"She kind of comes into the you know in into the that, the family of actors, and this this theatre life",0.045778666,0.0219882606327179,0.2,0.0,False
-Thelma Ritter is an awesome actress,0.03994159,0.0017582883434328,0.0,0.0,False
-"I love her in everything I've seen her, and she has such character to us",0.034791227,0.0013879796332295,0.375,0.0,False
-"She has such a strong essence, and I see things in her that I've seen in women I've known growing up my life, and I'd be very surprised if they'll Maritza, and real life wasn't what you would call",0.044405237,0.000743567968681,0.4045833333333333,0.0,False
-Maybe a tough broad,0.11407687,0.9239288749774016,0.5815972222222222,0.333,False
+"bette davis stars as margo channing, a theatre actress, a very famous stage actress, who's in her forties now and she's kind of feeling it",0.02792408,0.0002111281209722,0.1875,0.0,False
+you know,0.03994159,0.0418758799116123,0.5,0.0,False
+she's one of those women who are kind of her presence fills up the entire room,0.1580154,0.0016000614667753,0.35,0.0,False
+"she's a very boisterous, very kind of a strong, strong-willed a strong personality, one of those types of people, and, but at the same time, she does have that kind of sensitivity to her, and she does have that kind of jacked out of",0.20522906,0.0433009053176211,0.2823809523809524,0.0,False
+"you know, am i getting too old to play these same parts over and over again? you know she's still successful, but as far as her own eyes are concerned, and what she sees in the mirror, she can tell that she's getting old or getting older at least, and eve is a young doe-eyed woman who is besotted with margo, eve harrington",0.09978092,0.2079208451943884,0.4101851851851852,0.0,False
+she goes to see margo at the play that she's currently performing in every single day multiple times a day,0.019019997,0.0009712668456189,0.5119047619047619,0.0,False
+"you know, she'll see all the performances and she gets taken in",0.04406188,0.0010019644690804,0.5,0.0,False
+she's outside of the theater at the beginning of the movie,0.045778666,0.9931711497416364,0.5,0.0,False
+"she gets taken in by margo's friend, like come and meet her",0.08689302,0.0046770958713007,0.5,0.0,False
+"you know, if you're such a big fan, we'll come and see her backstage",0.3063832,0.0052838656927115,0.5,0.0,False
+"oh no, no, i couldn't",0.028267438,0.9972508042926364,0.5,0.0,False
+"possibly you know, eva's very meek, but she goes backstage and she meets margo, who kind of takes takes a bit of a liking to it",0.22157386,0.0535598722573536,0.3666666666666667,0.0,False
+"we kind of get to hear eve's backstory about losing her husband, and she kind of you know, tells him where she is now in her life, and it isn't a very nice story, so margo takes pity on, even, says, come with me, and you can be my assistant",0.061726328,0.0113440236167844,0.265,0.139,False
+and so eve is very happy and very glad to take on the the mantle of assisting margo in any way she can,0.034104515,0.0027962554621652,0.0875,0.0,False
+"now margo already has an assistant, kind of called birdy, played by thalma ritter, and birdy doesn't really trust eat when she comes into the fold, and you know very much takes a quick distrust stance to eve, and everything that she seems to be standing for",0.09333697,0.9987246776645224,0.3258333333333333,0.11,False
+"she kind of comes into the you know in into the that, the family of actors, and this this theatre life",0.045778666,0.0219882606327179,0.2,0.0,False
+thelma ritter is an awesome actress,0.03994159,0.0017582883434328,0.0,0.0,False
+"i love her in everything i've seen her, and she has such character to us",0.034791227,0.0013879796332295,0.375,0.0,False
+"she has such a strong essence, and i see things in her that i've seen in women i've known growing up my life, and i'd be very surprised if they'll maritza, and real life wasn't what you would call",0.044405237,0.000743567968681,0.4045833333333333,0.0,False
+maybe a tough broad,0.11407687,0.9239288749774016,0.5815972222222222,0.333,False
 "you know, she",0.031529333,0.1156076374018175,0.5,0.0,False
-She just has such character to her and it's no different in this film to,0.03839648,0.0021397733728575,0.5,0.136,False
-She's such a joy to watch,0.084745035,0.0007685135131832,0.3,0.0,False
-"And I liked how birdies, Kind of you know, Kind of just looking around the corner, you know, kind of, so to speak, Even",0.1019289,0.8848506512932969,0.2,0.0,False
-"and what Eve is doing in the household anyway, So this, the story is about Margo and it's about Eve",0.030670939,0.0070237950691033,0.5,0.0,False
-What I love about this film,0.048868883,0.0005981268012128,0.25,0.0,False
-Such a great move,0.033761155,0.0009836949125931,0.3,0.0,False
-"We open with a scene at an award ceremony, A very kind of upper-class kind of posh kind of award ceremony for theater actors, You know very posh stuff and we see these people sad the tables, we see Margo, we see the character played by George Sanders",0.12953265,0.7937701766090904,0.36,0.055,False
-"I forget his name, and he's kind of a theater critic and he's a very, very vital character in the story, and we kind of hear this narration that's setting up what we're about to see, which is the this prestigious award being given to Eve Harrington",0.019852988,0.0014618625541626,0.2783333333333333,0.075,False
-So the film kind of spoils at the beginning,0.15568043,0.998204546669716,0.2,0.0,False
-The Eve goes on to being actress herself,0.11472086,0.0309307763822379,0.5,0.0,False
-"And so I think the real crux of this movie as it progresses, and as it goes on, is you thinking as the audience? What are Eve's motives? What is she really in this? For you know, it's Birdie right to distrust her, you know, or we just thinking the worst along with her - and I love that about it and I love that",0.18746567,0.0076348267935771,0.4428571428571428,0.09,False
-"Really, Eve isn't in the film that much",0.04234509,0.9957102902546728,0.4,0.0,False
-"I mean, she's in it plenty",0.050242316,0.0022007513705296,0.65625,0.0,False
-"But if you were to take that to our running time and really look at how many minutes she's on screen, it's not",0.049212243,0.9805445615345189,0.325,0.0,False
-I don't think as many as you would expect for someone whose name is in the title of the movie,0.03994159,0.9972328923783642,0.25,0.0,False
-"I'd say Margo gets the lion's share of screen credit of the screen time, and I guess screen credit, But it's more about it",0.07970683,0.148086766147233,0.25,0.0,False
-It's It's in the title All About Eve,0.022773718,0.0165376144537047,0.5,0.0,False
-Let me tell you all about Eve before she gets up to the stage to accept the award that they make the beginning of the film before we've even seen her on screen,0.06372416,0.9664542033480914,0.5,0.0,False
-"We flash back to to Eve outside the theater and being brought in to meet Margo, and we see the whole story progressed",0.028954152,9.08113191138365e-05,0.4666666666666667,0.0,False
-"At the very end of the film, We see Eve except the award, And so we get to see how that's that kind of that sequence",0.04268845,0.9966130984196208,0.3,0.0,False
-That that's that series of events leads us to her receiving this award,0.035306264,0.0046635054671275,0.5,0.0,False
-"Loves how they did it, a really cool framing device, but also just how we really get a feeling of Eve through other characters, perspectives and how they feel about how what they think about what she's doing",0.029469188,0.0002234965809106,0.4291666666666666,0.0,False
-"You know, she becomes an assistant to Margo, and then you know things progressed from that",0.031185975,0.0100722180964218,0.5,0.0,False
-"I don't to spoil too much more of what happens, even though I kind of told you what happens at the beginning, which, in, in effect, kind of tells you what happens at the end, But it's all about the journey to that destination and how it happens, why it happens and and what kind of gets destroyed in the process",0.1008549,0.7563398490380289,0.2124999999999999,0.067,False
-"Bette Davis is unbelievable as Margo Channing, I had one of my favorite performances",0.042001735,0.001550498216468,0.4375,0.0,False
-I think she's so full of fire in this film,0.2712817,0.0007710766157247,0.325,0.228,False
-"You know, there's some really great incredible writing in the film which only lends itself well to insanely quotable lines from the film",0.112788886,0.0841908848563139,0.4125,0.0,False
-"One that really stood out to me that actually, I noted down just so I got a completely ripes",0.2459383,0.00505679268965,0.4819444444444444,0.0,False
-I didn't want to paraphrase it and get it wrong,0.053335425,0.999581081752063,0.75,0.351,False
-I have it here on my phone,0.025863936,0.7516509807771482,0.5,0.0,False
-"When Margo is having a particularly kind of feisty back and forth with someone she says, everyone has a heart",0.08635602,0.001441357733831,0.35,0.0,False
-Except for some people,0.022074303,0.7978859530238143,0.5,0.0,False
-That's just a killer line,0.28948012,0.8924059623010533,0.5,0.518,False
-That's such a great line,0.02397547,0.0008855817315879,0.3,0.0,False
-And there's some really funny witty moments in the film,0.08796701,7.748914660189529e-06,0.3125,0.0,False
-"There's a character played by Marilyn Monroe, who's this kind of ditzy blonde, An aspiring actress",0.15976663,0.9998844517610094,0.35,0.0,False
-"She isn't very good, And you know, the George Sanders character says",0.20742953,0.9997907495006568,0.045,0.193,False
-"Well, you can just go to television, you know, and she says, Tell me, Did they have auditions for television and he replies, That's all television is, my dear",0.0471521,0.9944965717907438,0.5,0.0,False
-She's just fantastic line,0.033761155,0.0018718993537583,0.3,0.0,False
-"There's lots of kind of funny moments in the film, But you're still really invested in this story and what happens, and and, and and how the characters kind of combust and and into play and everything, And it's an incredible cast of characters and some great actors",0.02929751,5.927919715044989e-05,0.2208333333333333,0.0,False
-Obviously Marilyn Monroe,0.016035106,0.0927630620921127,0.5,0.0,False
-"I still haven't really seen anything in Maryland, where I haven't seen her most famous films",0.08420804,0.9837901944399392,0.3,0.0,False
-I don't know if she a good actress,0.13146462,0.9064686330193296,0.15,0.0,False
-"I couldn't tell you anything about her, but the seer in this film was fun, but she's a very small role, and Baxter as Eve, You know, knowing what happens throughout the whole course of the film and what her character is",0.047495455,0.0422302437397263,0.4708333333333333,0.0,False
-Where she's from,0.026722329,0.0297394403602696,0.5,0.0,False
-Why she's doing what she's doing,0.037881445,0.9797729484554716,0.5,0.0,False
-"Her performance gets even better once you can know all that backstory, You know, because again she seems so meek and innocent at the beginning",0.2712817,0.0019083788596971,0.25,0.0,False
-"and and then to see where her true, her true intentions lie, and how that manifests itself, I thought was was super bleep laid by Anne Baxter",0.2008281,0.988538073666309,0.3277777777777778,0.0,False
-"Now, apparently, Anne Baxter kind of put herself forward to be nominated for the the Best Actress Award and they were going to put her for Best Supporting, but Bette Davis was also at for Best Actress, And so the The general consensus, or the the belief is that by having both of them competing for the Best Actress Award kind of cancel each other out and neither of them won, which I think it's kind of a travesty",0.17242117,0.9999768724700911,0.2261363636363637,0.109,False
-"cuz, I think Bette Davis, her name was all over that Oscar",0.031701013,0.9646003649261948,0.5,0.0,False
-I think she did an amazing job in this film,0.032559406,0.0002794079805356,0.1999999999999999,0.0,False
-"She's so so good at being, you know, being angry and spiteful, but showing that vulnerability in a few moments",0.22952124,0.0020600489624113,0.5,0.258,False
-"You know, you really see the the hearts and the humanity of this woman",0.028267438,0.0003769548947002,0.4,0.0,False
-"I really thought the way the film was starting, she would be kind of a cold, uncaring character",0.10300289,0.9960605710008312,0.475,0.0,False
-"But there is there is a lot of heart to Margo, and I think that Bette Davis really made that character even better than it could have been if someone else had played it, I think, and another great kind of little bit trivia that I noted down as well, was that her boyfriend in the film Bill",0.050242316,0.0254607281130564,0.3535879629629629,0.0,False
-I think his name was the actor Gary Meryl,0.026207292,0.0128256160998126,0.5,0.0,False
-"I'm not sure if they kind of hooked up while making the film or if they were already together, but you know soon after this they got married and soon after the film came out All About Eve, Bette Davis implored Joseph L",0.10031791,0.0183682061316208,0.4,0.031,False
-"Mankiewicz to write a sequel to All About Eve, that would focus on the characters of Margo and Bill",0.04268845,0.8566315181858384,0.5,0.0,False
-"It was built and played by her lover on and off screen Gary Merrill many years later, after she and Meryl had married and divorced, Bette Davis, ran into Mankiewicz at a party and said to him, Joe, You can forget about that sequel",0.039254878,0.0332892479696204,0.375,0.037,False
-"I played it out and it doesn't, Which is another fantastic story, But you can really see the chemistry between the two",0.049212243,0.1456931860157364,0.35,0.0,False
-Celeste,0.009648831,0.0130356712941396,0.5,0.0,False
-"Home was very good in the film, too",0.039254878,0.0039037839917317,0.045,0.0,False
-"I think the only real weak link in the film is Hugh Malo, who plays Lloyd Richards, the the, The playwright who Rahu's who's written the play that Margo is currently starring in",0.13790205,0.8387903276616643,0.59375,0.078,False
-"He's okay, but he kind of really stands out like a sore thumb amidst all this amazing acting going on with everyone else around him, So he really does kind of stand out a bit as not being as great as the other members of the cast",0.16035037,0.9586732499061338,0.3125,0.126,False
-Great acting,0.13431281,0.0024152472890273,0.3,0.0,False
-"Fantastic writing are really tightly, kind of paced and plotted and edited and and shot story That just keeps you hooked throughout the entire duration",0.112788886,0.0002897199977373,0.3333333333333333,0.0,False
-I just was so intrigued to see how Eve Harrington got to that point where she was winning this award,0.033761155,0.0020346861686582,0.25,0.0,False
-"And and I just I loved it, I thought was an amazing film",0.04406188,0.0044186695673834,0.175,0.0,False
-"Is it fun we should see before you die? It absolutely is how you know criticism of art, but also how this character, but played by George Sanders",0.24418297,0.8273436309256323,0.375,0.131,False
-He,0.023460433,0.1741157579365427,0.5,0.0,False
-"He was using his kind of status as a critic of the theater in the wrong ways, you know, for the wrong reasons",0.077709,0.9999357436153564,0.5666666666666667,0.293,False
-"And and, and looking at something like that, and how people like that do have power in situations in circles like for that",0.04131502,0.006807987795817,0.5,0.0,False
-Because you're looking at these characters in the old,0.028782474,0.1052101735142931,0.45,0.0,False
+she just has such character to her and it's no different in this film to,0.03839648,0.0021397733728575,0.5,0.136,False
+she's such a joy to watch,0.084745035,0.0007685135131832,0.3,0.0,False
+"and i liked how birdies, kind of you know, kind of just looking around the corner, you know, kind of, so to speak, even",0.1019289,0.8848506512932969,0.2,0.0,False
+"and what eve is doing in the household anyway, so this, the story is about margo and it's about eve",0.030670939,0.0070237950691033,0.5,0.0,False
+what i love about this film,0.048868883,0.0005981268012128,0.25,0.0,False
+such a great move,0.033761155,0.0009836949125931,0.3,0.0,False
+"we open with a scene at an award ceremony, a very kind of upper-class kind of posh kind of award ceremony for theater actors, you know very posh stuff and we see these people sad the tables, we see margo, we see the character played by george sanders",0.12953265,0.7937701766090904,0.36,0.055,False
+"i forget his name, and he's kind of a theater critic and he's a very, very vital character in the story, and we kind of hear this narration that's setting up what we're about to see, which is the this prestigious award being given to eve harrington",0.019852988,0.0014618625541626,0.2783333333333333,0.075,False
+so the film kind of spoils at the beginning,0.15568043,0.998204546669716,0.2,0.0,False
+the eve goes on to being actress herself,0.11472086,0.0309307763822379,0.5,0.0,False
+"and so i think the real crux of this movie as it progresses, and as it goes on, is you thinking as the audience? what are eve's motives? what is she really in this? for you know, it's birdie right to distrust her, you know, or we just thinking the worst along with her - and i love that about it and i love that",0.18746567,0.0076348267935771,0.4428571428571428,0.09,False
+"really, eve isn't in the film that much",0.04234509,0.9957102902546728,0.4,0.0,False
+"i mean, she's in it plenty",0.050242316,0.0022007513705296,0.65625,0.0,False
+"but if you were to take that to our running time and really look at how many minutes she's on screen, it's not",0.049212243,0.9805445615345189,0.325,0.0,False
+i don't think as many as you would expect for someone whose name is in the title of the movie,0.03994159,0.9972328923783642,0.25,0.0,False
+"i'd say margo gets the lion's share of screen credit of the screen time, and i guess screen credit, but it's more about it",0.07970683,0.148086766147233,0.25,0.0,False
+it's it's in the title all about eve,0.022773718,0.0165376144537047,0.5,0.0,False
+let me tell you all about eve before she gets up to the stage to accept the award that they make the beginning of the film before we've even seen her on screen,0.06372416,0.9664542033480914,0.5,0.0,False
+"we flash back to to eve outside the theater and being brought in to meet margo, and we see the whole story progressed",0.028954152,9.08113191138365e-05,0.4666666666666667,0.0,False
+"at the very end of the film, we see eve except the award, and so we get to see how that's that kind of that sequence",0.04268845,0.9966130984196208,0.3,0.0,False
+that that's that series of events leads us to her receiving this award,0.035306264,0.0046635054671275,0.5,0.0,False
+"loves how they did it, a really cool framing device, but also just how we really get a feeling of eve through other characters, perspectives and how they feel about how what they think about what she's doing",0.029469188,0.0002234965809106,0.4291666666666666,0.0,False
+"you know, she becomes an assistant to margo, and then you know things progressed from that",0.031185975,0.0100722180964218,0.5,0.0,False
+"i don't to spoil too much more of what happens, even though i kind of told you what happens at the beginning, which, in, in effect, kind of tells you what happens at the end, but it's all about the journey to that destination and how it happens, why it happens and and what kind of gets destroyed in the process",0.1008549,0.7563398490380289,0.2124999999999999,0.067,False
+"bette davis is unbelievable as margo channing, i had one of my favorite performances",0.042001735,0.001550498216468,0.4375,0.0,False
+i think she's so full of fire in this film,0.2712817,0.0007710766157247,0.325,0.228,False
+"you know, there's some really great incredible writing in the film which only lends itself well to insanely quotable lines from the film",0.112788886,0.0841908848563139,0.4125,0.0,False
+"one that really stood out to me that actually, i noted down just so i got a completely ripes",0.2459383,0.00505679268965,0.4819444444444444,0.0,False
+i didn't want to paraphrase it and get it wrong,0.053335425,0.999581081752063,0.75,0.351,False
+i have it here on my phone,0.025863936,0.7516509807771482,0.5,0.0,False
+"when margo is having a particularly kind of feisty back and forth with someone she says, everyone has a heart",0.08635602,0.001441357733831,0.35,0.0,False
+except for some people,0.022074303,0.7978859530238143,0.5,0.0,False
+that's just a killer line,0.28948012,0.8924059623010533,0.5,0.518,False
+that's such a great line,0.02397547,0.0008855817315879,0.3,0.0,False
+and there's some really funny witty moments in the film,0.08796701,7.748914660189529e-06,0.3125,0.0,False
+"there's a character played by marilyn monroe, who's this kind of ditzy blonde, an aspiring actress",0.15976663,0.9998844517610094,0.35,0.0,False
+"she isn't very good, and you know, the george sanders character says",0.20742953,0.9997907495006568,0.045,0.193,False
+"well, you can just go to television, you know, and she says, tell me, did they have auditions for television and he replies, that's all television is, my dear",0.0471521,0.9944965717907438,0.5,0.0,False
+she's just fantastic line,0.033761155,0.0018718993537583,0.3,0.0,False
+"there's lots of kind of funny moments in the film, but you're still really invested in this story and what happens, and and, and and how the characters kind of combust and and into play and everything, and it's an incredible cast of characters and some great actors",0.02929751,5.927919715044989e-05,0.2208333333333333,0.0,False
+obviously marilyn monroe,0.016035106,0.0927630620921127,0.5,0.0,False
+"i still haven't really seen anything in maryland, where i haven't seen her most famous films",0.08420804,0.9837901944399392,0.3,0.0,False
+i don't know if she a good actress,0.13146462,0.9064686330193296,0.15,0.0,False
+"i couldn't tell you anything about her, but the seer in this film was fun, but she's a very small role, and baxter as eve, you know, knowing what happens throughout the whole course of the film and what her character is",0.047495455,0.0422302437397263,0.4708333333333333,0.0,False
+where she's from,0.026722329,0.0297394403602696,0.5,0.0,False
+why she's doing what she's doing,0.037881445,0.9797729484554716,0.5,0.0,False
+"her performance gets even better once you can know all that backstory, you know, because again she seems so meek and innocent at the beginning",0.2712817,0.0019083788596971,0.25,0.0,False
+"and and then to see where her true, her true intentions lie, and how that manifests itself, i thought was was super bleep laid by anne baxter",0.2008281,0.988538073666309,0.3277777777777778,0.0,False
+"now, apparently, anne baxter kind of put herself forward to be nominated for the the best actress award and they were going to put her for best supporting, but bette davis was also at for best actress, and so the the general consensus, or the the belief is that by having both of them competing for the best actress award kind of cancel each other out and neither of them won, which i think it's kind of a travesty",0.17242117,0.9999768724700911,0.2261363636363637,0.109,False
+"cuz, i think bette davis, her name was all over that oscar",0.031701013,0.9646003649261948,0.5,0.0,False
+i think she did an amazing job in this film,0.032559406,0.0002794079805356,0.1999999999999999,0.0,False
+"she's so so good at being, you know, being angry and spiteful, but showing that vulnerability in a few moments",0.22952124,0.0020600489624113,0.5,0.258,False
+"you know, you really see the the hearts and the humanity of this woman",0.028267438,0.0003769548947002,0.4,0.0,False
+"i really thought the way the film was starting, she would be kind of a cold, uncaring character",0.10300289,0.9960605710008312,0.475,0.0,False
+"but there is there is a lot of heart to margo, and i think that bette davis really made that character even better than it could have been if someone else had played it, i think, and another great kind of little bit trivia that i noted down as well, was that her boyfriend in the film bill",0.050242316,0.0254607281130564,0.3535879629629629,0.0,False
+i think his name was the actor gary meryl,0.026207292,0.0128256160998126,0.5,0.0,False
+"i'm not sure if they kind of hooked up while making the film or if they were already together, but you know soon after this they got married and soon after the film came out all about eve, bette davis implored joseph l",0.10031791,0.0183682061316208,0.4,0.031,False
+"mankiewicz to write a sequel to all about eve, that would focus on the characters of margo and bill",0.04268845,0.8566315181858384,0.5,0.0,False
+"it was built and played by her lover on and off screen gary merrill many years later, after she and meryl had married and divorced, bette davis, ran into mankiewicz at a party and said to him, joe, you can forget about that sequel",0.039254878,0.0332892479696204,0.375,0.037,False
+"i played it out and it doesn't, which is another fantastic story, but you can really see the chemistry between the two",0.049212243,0.1456931860157364,0.35,0.0,False
+celeste,0.009648831,0.0130356712941396,0.5,0.0,False
+"home was very good in the film, too",0.039254878,0.0039037839917317,0.045,0.0,False
+"i think the only real weak link in the film is hugh malo, who plays lloyd richards, the the, the playwright who rahu's who's written the play that margo is currently starring in",0.13790205,0.8387903276616643,0.59375,0.078,False
+"he's okay, but he kind of really stands out like a sore thumb amidst all this amazing acting going on with everyone else around him, so he really does kind of stand out a bit as not being as great as the other members of the cast",0.16035037,0.9586732499061338,0.3125,0.126,False
+great acting,0.13431281,0.0024152472890273,0.3,0.0,False
+"fantastic writing are really tightly, kind of paced and plotted and edited and and shot story that just keeps you hooked throughout the entire duration",0.112788886,0.0002897199977373,0.3333333333333333,0.0,False
+i just was so intrigued to see how eve harrington got to that point where she was winning this award,0.033761155,0.0020346861686582,0.25,0.0,False
+"and and i just i loved it, i thought was an amazing film",0.04406188,0.0044186695673834,0.175,0.0,False
+"is it fun we should see before you die? it absolutely is how you know criticism of art, but also how this character, but played by george sanders",0.24418297,0.8273436309256323,0.375,0.131,False
+he,0.023460433,0.1741157579365427,0.5,0.0,False
+"he was using his kind of status as a critic of the theater in the wrong ways, you know, for the wrong reasons",0.077709,0.9999357436153564,0.5666666666666667,0.293,False
+"and and, and looking at something like that, and how people like that do have power in situations in circles like for that",0.04131502,0.006807987795817,0.5,0.0,False
+because you're looking at these characters in the old,0.028782474,0.1052101735142931,0.45,0.0,False
 they all live in this bubble of the theater,0.0789077,0.001315408067085,0.4318181818181818,0.0,False
-"You know, you have George Sanders",0.1019289,0.0574462509946179,0.5,0.0,False
-He's a theater critic,0.19862764,0.0068582067235186,0.5,0.412,False
-"We have the playwright, you know, we have all these people who act as the actors, the assistants",0.056931525,0.0011745268378592,0.5,0.0,False
-So I liked seeing just that that world,0.033761155,0.0144401024692631,0.2,0.0,False
+"you know, you have george sanders",0.1019289,0.0574462509946179,0.5,0.0,False
+he's a theater critic,0.19862764,0.0068582067235186,0.5,0.412,False
+"we have the playwright, you know, we have all these people who act as the actors, the assistants",0.056931525,0.0011745268378592,0.5,0.0,False
+so i liked seeing just that that world,0.033761155,0.0144401024692631,0.2,0.0,False
 "even though it doesn't really look at the the actual theater stuff itself, we never really see stuff on stage",0.040628307,0.99991631172167,0.4833333333333333,0.0,False
-"As far as the actual play is concerned, there's a brilliant scene set on this a theatre stage, but it doesn't really delve into the craft of that, but more just the people who are involved in it and their lives outside of it",0.031357653,0.8647407573777267,0.3583333333333333,0.0,False
-"You know, but how it's still",0.023460433,0.997952736746778,0.5,0.0,False
-The theater is looming larger of everything they do,0.14956708,0.1324172685636128,0.5,0.158,False
-"It's it's their life, but I like how you know we saw the outside of that and just kind of that the human interactions outside of this performance, and also again, as I was saying, I love how everything is framed from other people's perspectives and remembrances of Eve, how they came in to how she came into their lives and how she ultimately got to the place that she is at the beginning and end of the film",0.022773718,0.0,0.4303571428571429,0.0,False
-So I think that's about as much as I can say,0.02637897,0.8292867010801928,0.4,0.0,False
-I hope it's been a right again,0.020130653,0.0007187714417684,0.3571428571428571,0.0,False
-I just feel like this film was so great that I just I really needed to do a good job of reviewing it And maybe I'm just overthinking that it doesn't really matter,0.079307266,0.8737544737315668,0.2625,0.032,False
-But you can tell I love the film obviously and I highly would highly recommend you seeing,0.040971663,0.0040590901236327,0.3974999999999999,0.0,False
-"I'll watch it on Netflix, So if it's still on Netflix, go check it out",0.040628307,0.0060953856822588,0.5,0.0,False
+"as far as the actual play is concerned, there's a brilliant scene set on this a theatre stage, but it doesn't really delve into the craft of that, but more just the people who are involved in it and their lives outside of it",0.031357653,0.8647407573777267,0.3583333333333333,0.0,False
+"you know, but how it's still",0.023460433,0.997952736746778,0.5,0.0,False
+the theater is looming larger of everything they do,0.14956708,0.1324172685636128,0.5,0.158,False
+"it's it's their life, but i like how you know we saw the outside of that and just kind of that the human interactions outside of this performance, and also again, as i was saying, i love how everything is framed from other people's perspectives and remembrances of eve, how they came in to how she came into their lives and how she ultimately got to the place that she is at the beginning and end of the film",0.022773718,0.0,0.4303571428571429,0.0,False
+so i think that's about as much as i can say,0.02637897,0.8292867010801928,0.4,0.0,False
+i hope it's been a right again,0.020130653,0.0007187714417684,0.3571428571428571,0.0,False
+i just feel like this film was so great that i just i really needed to do a good job of reviewing it and maybe i'm just overthinking that it doesn't really matter,0.079307266,0.8737544737315668,0.2625,0.032,False
+but you can tell i love the film obviously and i highly would highly recommend you seeing,0.040971663,0.0040590901236327,0.3974999999999999,0.0,False
+"i'll watch it on netflix, so if it's still on netflix, go check it out",0.040628307,0.0060953856822588,0.5,0.0,False
 you can,0.030327583,0.0022853635579153,0.5,0.0,False
-It's a click of a button away and it's a click you won't regret,0.08635602,0.0014063982073064,0.5,0.0,False
+it's a click of a button away and it's a click you won't regret,0.08635602,0.0014063982073064,0.5,0.0,False

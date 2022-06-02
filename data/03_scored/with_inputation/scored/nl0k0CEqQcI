@@ -1,170 +1,170 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hey, everybody today, I am going to be reviewing Portrait of a Lady on fire",0.12631269,0.035608876884232,0.5,0.146,False
-This film came out in 2019,0.035477944,0.0212264649992403,0.5,0.0,False
-It was written and directed by Celine Dion,0.013536129,0.2200828827563705,0.5,0.0,False
-"Sciama identifies very strongly as like a feminist artist, and I think her movies really reflect that notion",0.0801064,0.0010465397876748,0.3091666666666666,0.0,False
-A bit,0.12051678,0.8020122615267047,0.5,0.0,False
-She makes movies that tend to be about women,0.2299237,0.9272301689561536,0.5,0.0,False
+"hey, everybody today, i am going to be reviewing portrait of a lady on fire",0.12631269,0.035608876884232,0.5,0.146,False
+this film came out in 2019,0.035477944,0.0212264649992403,0.5,0.0,False
+it was written and directed by celine dion,0.013536129,0.2200828827563705,0.5,0.0,False
+"sciama identifies very strongly as like a feminist artist, and i think her movies really reflect that notion",0.0801064,0.0010465397876748,0.3091666666666666,0.0,False
+a bit,0.12051678,0.8020122615267047,0.5,0.0,False
+she makes movies that tend to be about women,0.2299237,0.9272301689561536,0.5,0.0,False
 movies that have to do with sexual identity and gender identity,0.14911842,0.0004948086369394,0.25,0.0,False
-"Portrait of a lady on fire seems to be her most ambitious film, particularly aesthetically and the film has received a lot of critical acclaim and it's considered an artistic triumph for me",0.045091953,1.734497540798392e-05,0.375,0.117,False
-"though admittedly I, I've struggled with my point of view on the film and I struggled with with how I was going to do this review",0.04131502,0.9996486301373536,0.5,0.167,False
-"I did have to see it twice, so that I kind of solidified my opinions a little bit, but I am still torn because the filmmaker and her point of view",0.062125895,0.9333575050367484,0.396875,0.077,False
-"To me, there are things about her that I think are very nuanced and very interesting, But then there are other aspects of her point of view that I think Mar the sophistication of the images and the ideas behind them",0.028267438,0.0017021023719522,0.459375,0.0,False
-"And when you really admire somebody artistically that you think has the ability to really go the full nine yards, it kind of it becomes frustrating and it makes it all the more frustrating that the film just wasn't quite doing it for me",0.17034957,0.9999852776325576,0.425,0.118,False
-"I liked bits of it, but as a whole it didn't come together for me, and my feelings on it are a little muddled",0.13745339,0.9997384246578078,0.3979166666666666,0.0,False
-I'm going to start talking about the things that I like about the film because I don't want to give people the impression that I like,0.06252546,0.0226748896552599,0.5,0.041,False
-I hate this movie or anything like that,0.44805592,0.9999969601589492,0.9,0.303,False
-"No, I'm just frustrated a little bit, but I do think that the film touches on some very interesting ideas and the premise itself is a wonderful setup used as the catalyst to propel a love story",0.08796701,0.0018117154639634,0.3737499999999999,0.044,False
-"You have a protagonist at the center name is Mary Ann, and she looks strikingly like Emma Watson",0.06652113,0.00100368398933,0.4,0.0,False
-"Like to a crazy degree, At least that's what I thought, but her features are a little bit harder",0.25447917,0.9813665194171636,0.6484375,0.083,False
-"She's a little bit harsher cheekbones and jawline, and I think that that works really well for her character because her character is meant to be a very rebellious artist who is defying conventions, and you would consider her maybe a modern woman for the time that this takes place, And this is her story",0.22977416,0.0005186207251713,0.4484375,0.091,False
-This is her retelling the story about how she fell in love with her subject,0.09387396,0.0165930617833388,0.4166666666666666,0.0,False
-She is an artist and she was paid to paint a wedding portrait of a woman,0.2835225,0.0003466610892537,0.5,0.0,False
-"That the woman's name is Elouise, and she is very alluring, great to turn a mysterious person who definitely rejects the idea of being married off to somebody that she doesn't know, and sending a portrait to see if you know he approves and you know naturally that's understandable",0.104076885,0.0003817086684286,0.3875,0.055,False
+"portrait of a lady on fire seems to be her most ambitious film, particularly aesthetically and the film has received a lot of critical acclaim and it's considered an artistic triumph for me",0.045091953,1.734497540798392e-05,0.375,0.117,False
+"though admittedly i, i've struggled with my point of view on the film and i struggled with with how i was going to do this review",0.04131502,0.9996486301373536,0.5,0.167,False
+"i did have to see it twice, so that i kind of solidified my opinions a little bit, but i am still torn because the filmmaker and her point of view",0.062125895,0.9333575050367484,0.396875,0.077,False
+"to me, there are things about her that i think are very nuanced and very interesting, but then there are other aspects of her point of view that i think mar the sophistication of the images and the ideas behind them",0.028267438,0.0017021023719522,0.459375,0.0,False
+"and when you really admire somebody artistically that you think has the ability to really go the full nine yards, it kind of it becomes frustrating and it makes it all the more frustrating that the film just wasn't quite doing it for me",0.17034957,0.9999852776325576,0.425,0.118,False
+"i liked bits of it, but as a whole it didn't come together for me, and my feelings on it are a little muddled",0.13745339,0.9997384246578078,0.3979166666666666,0.0,False
+i'm going to start talking about the things that i like about the film because i don't want to give people the impression that i like,0.06252546,0.0226748896552599,0.5,0.041,False
+i hate this movie or anything like that,0.44805592,0.9999969601589492,0.9,0.303,False
+"no, i'm just frustrated a little bit, but i do think that the film touches on some very interesting ideas and the premise itself is a wonderful setup used as the catalyst to propel a love story",0.08796701,0.0018117154639634,0.3737499999999999,0.044,False
+"you have a protagonist at the center name is mary ann, and she looks strikingly like emma watson",0.06652113,0.00100368398933,0.4,0.0,False
+"like to a crazy degree, at least that's what i thought, but her features are a little bit harder",0.25447917,0.9813665194171636,0.6484375,0.083,False
+"she's a little bit harsher cheekbones and jawline, and i think that that works really well for her character because her character is meant to be a very rebellious artist who is defying conventions, and you would consider her maybe a modern woman for the time that this takes place, and this is her story",0.22977416,0.0005186207251713,0.4484375,0.091,False
+this is her retelling the story about how she fell in love with her subject,0.09387396,0.0165930617833388,0.4166666666666666,0.0,False
+she is an artist and she was paid to paint a wedding portrait of a woman,0.2835225,0.0003466610892537,0.5,0.0,False
+"that the woman's name is elouise, and she is very alluring, great to turn a mysterious person who definitely rejects the idea of being married off to somebody that she doesn't know, and sending a portrait to see if you know he approves and you know naturally that's understandable",0.104076885,0.0003817086684286,0.3875,0.055,False
 "so while you're watching the film, you can never really take it at a literal level",0.050585672,0.9984668472252778,0.55,0.0,False
-"you always have to look at it as though it's being seen through a distorted filter through the eyes of an unreliable narrator, Because the person telling the story is telling it from the point of view of somebody who was in in love",0.08050597,0.988765760756284,0.25,0.055,False
-"It's like you know romance, so therefore it's going to be heightened and she is very creative and observant, and all of those things are going to kind of bleed in to the imagery",0.13017663,0.0515876225540231,0.1875,0.0,False
-The filmmaking really reflects this,0.039598234,0.0002730790544043,0.4,0.0,False
-"It's beautifully made film where it depends on its own minimalistic approach, as the crux of the the building tension throughout, especially the erotic tension building the relationship between these two women",0.21362646,4.482275431891378e-05,0.23125,0.129,False
-And this is done very effectively with very interesting camera shots,0.07970683,0.0003991430509263,0.1424999999999999,0.0,False
-I really enjoy the scenes,0.059728492,0.0022102624676249,0.3,0.0,False
-"It's particularly when Eloise is introduced and it's following her, so her face is obscured",0.13655609,0.9993965617490363,0.4583333333333333,0.0,False
-"All you can see are her eyes, but she's elusive and we are drawn to her",0.22510603,0.0005925901907428,0.5,0.0,False
-Because of the way she's framed,0.11407687,0.0010267212161176,0.5,0.0,False
-We were drawn to her in the same ways that Marianne is drawn to her,0.05413456,0.001197190733873,0.5,0.0,False
-"It uses a lot of empty space in the film, but I think that it that creates the mood and it heightens the sexuality",0.1785852,2.455714731302191e-05,0.55,0.054,False
-The film loves silence,0.08581903,0.0062157298899762,0.5,0.0,False
-"They love to take long pauses after a line is said and things like that, But yet at the same time, even in the midst of those silences, there's always that fire underneath both metaphorically and literally, because often you see you know a fireplace in the distance, and you can hear those those cracks and the snaps of the fire, which you know creates again more of that erotic tension",0.25447917,0.0045698645774653,0.3625,0.113,False
-The first half of the film kind of has a slow build to it,0.1550967,0.999524920527528,0.4520833333333333,0.0,False
-"It really takes its time, but then the second half of the film, It's kind of where everything's blossoming",0.085282035,0.8354042300163085,0.4208333333333333,0.0,False
-"It feels like everything is flourishing and that's where a lot of the surrealism comes into play And I like that I like that Marianne is the one telling the story, because I think that that just adds another layer of complexity to it",0.028610796,0.0001754763147804,0.5,0.0,False
-It makes the ideas of love being heightened and distorted,0.10634898,0.0154194447187917,0.25,0.181,False
-"All of that a compelling thesis, or at least one aspect of the thesis",0.03753809,0.0003248755617223,0.5,0.0,False
-"Yes, there is that complicated nature of romantic love and the immediacy of it being very visceral",0.08050597,0.0002267065771967,0.475,0.0,False
-"Of course, but then they add this whole nother idea where we're look at it through memory, the perceptions of memory, especially sensory memory",0.018742332,0.0434654652896941,0.45,0.0,False
-"when you're recalling a love story, it's the sensory moments that you tend to remember the most, and I think in the case of all kinds of love stories, we often choose the memories other than reality because it's easier",0.017562259,0.0022292465730113,0.328125,0.0,False
+"you always have to look at it as though it's being seen through a distorted filter through the eyes of an unreliable narrator, because the person telling the story is telling it from the point of view of somebody who was in in love",0.08050597,0.988765760756284,0.25,0.055,False
+"it's like you know romance, so therefore it's going to be heightened and she is very creative and observant, and all of those things are going to kind of bleed in to the imagery",0.13017663,0.0515876225540231,0.1875,0.0,False
+the filmmaking really reflects this,0.039598234,0.0002730790544043,0.4,0.0,False
+"it's beautifully made film where it depends on its own minimalistic approach, as the crux of the the building tension throughout, especially the erotic tension building the relationship between these two women",0.21362646,4.482275431891378e-05,0.23125,0.129,False
+and this is done very effectively with very interesting camera shots,0.07970683,0.0003991430509263,0.1424999999999999,0.0,False
+i really enjoy the scenes,0.059728492,0.0022102624676249,0.3,0.0,False
+"it's particularly when eloise is introduced and it's following her, so her face is obscured",0.13655609,0.9993965617490363,0.4583333333333333,0.0,False
+"all you can see are her eyes, but she's elusive and we are drawn to her",0.22510603,0.0005925901907428,0.5,0.0,False
+because of the way she's framed,0.11407687,0.0010267212161176,0.5,0.0,False
+we were drawn to her in the same ways that marianne is drawn to her,0.05413456,0.001197190733873,0.5,0.0,False
+"it uses a lot of empty space in the film, but i think that it that creates the mood and it heightens the sexuality",0.1785852,2.455714731302191e-05,0.55,0.054,False
+the film loves silence,0.08581903,0.0062157298899762,0.5,0.0,False
+"they love to take long pauses after a line is said and things like that, but yet at the same time, even in the midst of those silences, there's always that fire underneath both metaphorically and literally, because often you see you know a fireplace in the distance, and you can hear those those cracks and the snaps of the fire, which you know creates again more of that erotic tension",0.25447917,0.0045698645774653,0.3625,0.113,False
+the first half of the film kind of has a slow build to it,0.1550967,0.999524920527528,0.4520833333333333,0.0,False
+"it really takes its time, but then the second half of the film, it's kind of where everything's blossoming",0.085282035,0.8354042300163085,0.4208333333333333,0.0,False
+"it feels like everything is flourishing and that's where a lot of the surrealism comes into play and i like that i like that marianne is the one telling the story, because i think that that just adds another layer of complexity to it",0.028610796,0.0001754763147804,0.5,0.0,False
+it makes the ideas of love being heightened and distorted,0.10634898,0.0154194447187917,0.25,0.181,False
+"all of that a compelling thesis, or at least one aspect of the thesis",0.03753809,0.0003248755617223,0.5,0.0,False
+"yes, there is that complicated nature of romantic love and the immediacy of it being very visceral",0.08050597,0.0002267065771967,0.475,0.0,False
+"of course, but then they add this whole nother idea where we're look at it through memory, the perceptions of memory, especially sensory memory",0.018742332,0.0434654652896941,0.45,0.0,False
+"when you're recalling a love story, it's the sensory moments that you tend to remember the most, and i think in the case of all kinds of love stories, we often choose the memories other than reality because it's easier",0.017562259,0.0022292465730113,0.328125,0.0,False
 "we want to remember the person through our own filter through our own gaze, because it gives us that sort of control and that's also a really interesting idea that you can tie into the filmmaking process in general, because it mirrors that",0.02792408,2.568963711629233e-05,0.28125,0.0,False
-"filmmaking, of course, is a manipulative tool, as I always say, and its own right",0.17587385,0.0070555306838277,0.2785714285714286,0.0,False
-I actually wish that that point had been brought into play more,0.023803791,0.0239493877193878,0.375,0.0,False
-"I think that would have been very interesting, and I sort of like Mulholland Drive Sense",0.035477944,0.9996725614350386,0.175,0.0,False
-There are images in this film that reminded me a lot of Mahon Drive,0.04818217,0.0004661983682252,0.5,0.0,False
-"Especially you know, the profile shots where they're kind of overlapping",0.07131593,0.9943762642535018,0.35,0.0,False
-"In the beginning of the film, Aloise refuses to pose for the portrait, so her mother tells Marian",0.038053125,0.9384176482919402,0.5,0.0,False
-"Well, could you just maybe do it in secret? So basically what Marian's having to do is she's having to paint her just from memory",0.05613239,0.1301193232980034,0.7,0.0,False
-And let me tell you that's ridiculously hard to do,0.3983115,0.9992657293743954,0.6458333333333334,0.322,False
-I'm an artist myself and I don't,0.025692256,0.2028633156929171,0.5,0.0,False
-I don't think I could do that,0.02193547,0.9997178014224428,0.5,0.0,False
-I have to have a subject,0.032902762,0.0142460660731506,0.5833333333333334,0.0,False
-I have to have a reference point to make it seem realistic with shadows and the way that the light is hitting the face and all of that is very difficult to recreate on your own,0.0813051,0.999993145456454,0.4354166666666667,0.074,False
-It is a skill that I wish that I had so props to Mary Ann,0.03753809,0.0193209913005113,0.5,0.0,False
-"That skill works in the film because it's essential to the whole idea of what it means to perceive a person, the memory of a person, as your feelings are changing for them compared to the reality and how they would be if they were there in front of you, And that really can't affect your creative sensibilities, and I think Mary, Ann, you know, she's becoming inspired artistically as the film is going, So that point of view is reflected through the film",0.015063282,0.0,0.365,0.027,False
-"As I said, It becomes more surrealistic and more kind of beautiful and flourish as it goes",0.04268845,0.000520289657513,0.1937499999999999,0.0,False
-Art for her is a business,0.09924392,0.0071479776146105,0.5,0.0,False
-"She's there to do a job, but at the same time she's finding new ways to be inspired and to improve through her relationship with the subject",0.018881164,0.0008808386480384,0.5050505050505051,0.0,False
-"But in love, it's never about just one person, I mean, even in a love story",0.023460433,0.0756858134730881,0.3854166666666667,0.0,False
-"If one person is deeply in love with somebody who doesn't have the same feelings back, it's still going to affect both of them very deeply",0.03616466,0.992627789404342,0.4375,0.0,False
-"Typically, it's not just about the subject, it's how you see the subject and how you are translating",0.0168681,0.0647653335096043,0.5416666666666666,0.0,False
-"and that's a very personal thing, I think",0.029640866,0.0014262516977661,0.5,0.0,False
-"And even somebody who does realistic portraits, I'm as Merion does, there's a vulnerability to that and there's always a piece of the artistic thing in the artwork",0.04783881,0.0008988392754377,0.375,0.066,False
-Especially as you grow older,0.055732824,0.0115480879310382,0.4583333333333333,0.0,False
-There's a moment that captured that for me pretty early on,0.039254878,0.0220362250109419,0.4125,0.0,False
-"It's when she puts on Mary Ann, she puts on the green dress that Eloise is supposed to be wearing when she poses for the portrait, and because I, Louise is not there in the beginning of the film, she puts it on and has a mirror and she kind of sits in place, just kind of",0.15859914,0.967706606224295,0.3333333333333333,0.0,False
+"filmmaking, of course, is a manipulative tool, as i always say, and its own right",0.17587385,0.0070555306838277,0.2785714285714286,0.0,False
+i actually wish that that point had been brought into play more,0.023803791,0.0239493877193878,0.375,0.0,False
+"i think that would have been very interesting, and i sort of like mulholland drive sense",0.035477944,0.9996725614350386,0.175,0.0,False
+there are images in this film that reminded me a lot of mahon drive,0.04818217,0.0004661983682252,0.5,0.0,False
+"especially you know, the profile shots where they're kind of overlapping",0.07131593,0.9943762642535018,0.35,0.0,False
+"in the beginning of the film, aloise refuses to pose for the portrait, so her mother tells marian",0.038053125,0.9384176482919402,0.5,0.0,False
+"well, could you just maybe do it in secret? so basically what marian's having to do is she's having to paint her just from memory",0.05613239,0.1301193232980034,0.7,0.0,False
+and let me tell you that's ridiculously hard to do,0.3983115,0.9992657293743954,0.6458333333333334,0.322,False
+i'm an artist myself and i don't,0.025692256,0.2028633156929171,0.5,0.0,False
+i don't think i could do that,0.02193547,0.9997178014224428,0.5,0.0,False
+i have to have a subject,0.032902762,0.0142460660731506,0.5833333333333334,0.0,False
+i have to have a reference point to make it seem realistic with shadows and the way that the light is hitting the face and all of that is very difficult to recreate on your own,0.0813051,0.999993145456454,0.4354166666666667,0.074,False
+it is a skill that i wish that i had so props to mary ann,0.03753809,0.0193209913005113,0.5,0.0,False
+"that skill works in the film because it's essential to the whole idea of what it means to perceive a person, the memory of a person, as your feelings are changing for them compared to the reality and how they would be if they were there in front of you, and that really can't affect your creative sensibilities, and i think mary, ann, you know, she's becoming inspired artistically as the film is going, so that point of view is reflected through the film",0.015063282,0.0,0.365,0.027,False
+"as i said, it becomes more surrealistic and more kind of beautiful and flourish as it goes",0.04268845,0.000520289657513,0.1937499999999999,0.0,False
+art for her is a business,0.09924392,0.0071479776146105,0.5,0.0,False
+"she's there to do a job, but at the same time she's finding new ways to be inspired and to improve through her relationship with the subject",0.018881164,0.0008808386480384,0.5050505050505051,0.0,False
+"but in love, it's never about just one person, i mean, even in a love story",0.023460433,0.0756858134730881,0.3854166666666667,0.0,False
+"if one person is deeply in love with somebody who doesn't have the same feelings back, it's still going to affect both of them very deeply",0.03616466,0.992627789404342,0.4375,0.0,False
+"typically, it's not just about the subject, it's how you see the subject and how you are translating",0.0168681,0.0647653335096043,0.5416666666666666,0.0,False
+"and that's a very personal thing, i think",0.029640866,0.0014262516977661,0.5,0.0,False
+"and even somebody who does realistic portraits, i'm as merion does, there's a vulnerability to that and there's always a piece of the artistic thing in the artwork",0.04783881,0.0008988392754377,0.375,0.066,False
+especially as you grow older,0.055732824,0.0115480879310382,0.4583333333333333,0.0,False
+there's a moment that captured that for me pretty early on,0.039254878,0.0220362250109419,0.4125,0.0,False
+"it's when she puts on mary ann, she puts on the green dress that eloise is supposed to be wearing when she poses for the portrait, and because i, louise is not there in the beginning of the film, she puts it on and has a mirror and she kind of sits in place, just kind of",0.15859914,0.967706606224295,0.3333333333333333,0.0,False
 so there's a body,0.08170467,0.7578140157295681,0.5,0.0,False
-"There's a figure to work off of, but also there's a deeper idea to that",0.02397547,0.0022314817502546,0.5,0.0,False
-"It's the idea of the artist merging with their subject or their art on a less literal level, and how that's going to build through the film, And it's since through these moments she's discovering herself and she's growing as an artist until she",0.023803791,0.0034371363552889,0.5833333333333334,0.0,False
+"there's a figure to work off of, but also there's a deeper idea to that",0.02397547,0.0022314817502546,0.5,0.0,False
+"it's the idea of the artist merging with their subject or their art on a less literal level, and how that's going to build through the film, and it's since through these moments she's discovering herself and she's growing as an artist until she",0.023803791,0.0034371363552889,0.5833333333333334,0.0,False
 "finally, in the end of the film she draws herself",0.07451247,0.000582844817962,0.5,0.0,False
-"She draws a portrait of herself, but she's not doing it for a business",0.060527626,0.9672357288850404,0.5,0.0,False
-She's not doing it for herself,0.033246122,0.9995293908820146,0.5,0.0,False
-"Um, she's doing it for someone else",0.04406188,0.9948203790705632,0.5,0.0,False
-She's doing it for Eloise,0.035134587,0.0021387665982026,0.5,0.0,False
-"That's the moment when we realized that she's made her full evolution, her full arc as a character and her individuality has shifted",0.043375164,0.2118178231602867,0.325,0.0,False
+"she draws a portrait of herself, but she's not doing it for a business",0.060527626,0.9672357288850404,0.5,0.0,False
+she's not doing it for herself,0.033246122,0.9995293908820146,0.5,0.0,False
+"um, she's doing it for someone else",0.04406188,0.9948203790705632,0.5,0.0,False
+she's doing it for eloise,0.035134587,0.0021387665982026,0.5,0.0,False
+"that's the moment when we realized that she's made her full evolution, her full arc as a character and her individuality has shifted",0.043375164,0.2118178231602867,0.325,0.0,False
 as a result,0.021380141,0.9653325797706446,0.5,0.0,False
 artists and muses is the story here,0.023460433,0.0005080408862197,0.5,0.0,False
-"But as I mentioned before, there's always a mirroring of that in terms of the filmmaking process, and you can also look at this on a more subtextual sense",0.048868883,0.0079722513772119,0.25,0.0,False
-"You know there is muse and filmmaker, because I know that in real life, and I didn't know this until you know after seeing the movie that the the director did date to the actress who played Eloise for many years, they were together and I know that they are pretty sure they broke up prior to making the film",0.033761155,0.8525606756744111,0.355,0.042,False
-But even so there is a there is,0.017909339,0.861361551959258,0.5,0.0,False
-"you know something there, and even before knowing this information just the way that Eloise is framed in the film, you can tell that the filmmaker is enamored with her",0.0669207,0.0005613871164264,0.5,0.0,False
-"She's capturing that elusive muse in a very hypnotic way, and therefore we are hypnotized as well, and I really think that Adele had",0.14866976,0.0005370087832928,0.4,0.0,False
-Now,0.018742332,0.0841232797405382,0.5,0.0,False
-I think that's how you pronounce her name,0.022351967,0.1207932101633449,0.5,0.0,False
-Um,0.012811388,0.2300888175989869,0.5,0.0,False
-I think she's wonderful in the film,0.03753809,0.0004360383766223,0.0,0.0,False
-She gives by far the best performance for me,0.08447654,0.0009994222513861,0.2249999999999999,0.0,False
-"She has a hardness to her, but there is a sensuality and a playfulness as well in her eyes, and just very very striking",0.30053464,0.000139028024533,0.175,0.0,False
-There are images in the film that are just so stunning,0.0717155,0.0005384690990918,0.25,0.0,False
-Especially when you have that beautiful French backdrop,0.14463188,0.0001547338699626,0.3583333333333333,0.0,False
-There are a lot of images that stuck out,0.07850813,0.9999647140019192,0.5,0.2,False
-"I love the ones with three ladies, and you know you see their silhouettes as they're walking, and that in the backdrop is that gorgeous fiery sunset",0.09655894,0.0006434926271635,0.2,0.069,False
-The image of Eloise in the darkness and she's There's a long shot of her as her dress catches on fire,0.1550967,0.02902717397362,0.525,0.188,False
-That is another one that is very forgot,0.09494796,0.9912080644241262,0.4,0.0,False
-Very dynamic,0.034962907,0.0003214780923125,0.5,0.0,False
-"Sciama is very minimalistic, but there is kind of a impressionistic approach, Almost though it looks like a painting",0.061726328,0.7629750101819774,0.3,0.0,False
-"There are many intimate moments in the film off, and my favorite parts are the parts where characters are alone and nothing is being said, or just specific moments between the two women where they're very simple",0.08850401,3.1471295585620315e-05,0.38,0.05,False
-"There are no pretenses, It's just a love story",0.021657806,0.0882941204765302,0.25,0.164,False
-It's the moments person you can tell some,0.028782474,0.0006382176088693,0.5,0.0,False
-It isn't really trying to evoke something,0.033932835,0.99997776743702,0.4,0.0,False
-Those are the moments that really stick out to me as the most strong and the most the most human,0.05373499,0.0001581313393724,0.3222222222222222,0.0,False
-"However, that kind of segues into a lot of things that I don't like about the film, even though there are some gorgeous images in the film and it's beautifully composed, and and on all of that I think that you know, even if you have an amazing artistic is how it clearly does",0.050585672,0.0366848614067919,0.2347222222222222,0.032,False
-I think you have,0.03187269,0.0019908276670596,0.5,0.0,False
-"It's important as a viewer, or at least as a critic",0.028439116,0.000727237267879,0.475,0.163,False
-I should say it's important not to be just so intoxicated by the way something is designed and structured,0.09978092,0.0018862511744366,0.3,0.0,False
+"but as i mentioned before, there's always a mirroring of that in terms of the filmmaking process, and you can also look at this on a more subtextual sense",0.048868883,0.0079722513772119,0.25,0.0,False
+"you know there is muse and filmmaker, because i know that in real life, and i didn't know this until you know after seeing the movie that the the director did date to the actress who played eloise for many years, they were together and i know that they are pretty sure they broke up prior to making the film",0.033761155,0.8525606756744111,0.355,0.042,False
+but even so there is a there is,0.017909339,0.861361551959258,0.5,0.0,False
+"you know something there, and even before knowing this information just the way that eloise is framed in the film, you can tell that the filmmaker is enamored with her",0.0669207,0.0005613871164264,0.5,0.0,False
+"she's capturing that elusive muse in a very hypnotic way, and therefore we are hypnotized as well, and i really think that adele had",0.14866976,0.0005370087832928,0.4,0.0,False
+now,0.018742332,0.0841232797405382,0.5,0.0,False
+i think that's how you pronounce her name,0.022351967,0.1207932101633449,0.5,0.0,False
+um,0.012811388,0.2300888175989869,0.5,0.0,False
+i think she's wonderful in the film,0.03753809,0.0004360383766223,0.0,0.0,False
+she gives by far the best performance for me,0.08447654,0.0009994222513861,0.2249999999999999,0.0,False
+"she has a hardness to her, but there is a sensuality and a playfulness as well in her eyes, and just very very striking",0.30053464,0.000139028024533,0.175,0.0,False
+there are images in the film that are just so stunning,0.0717155,0.0005384690990918,0.25,0.0,False
+especially when you have that beautiful french backdrop,0.14463188,0.0001547338699626,0.3583333333333333,0.0,False
+there are a lot of images that stuck out,0.07850813,0.9999647140019192,0.5,0.2,False
+"i love the ones with three ladies, and you know you see their silhouettes as they're walking, and that in the backdrop is that gorgeous fiery sunset",0.09655894,0.0006434926271635,0.2,0.069,False
+the image of eloise in the darkness and she's there's a long shot of her as her dress catches on fire,0.1550967,0.02902717397362,0.525,0.188,False
+that is another one that is very forgot,0.09494796,0.9912080644241262,0.4,0.0,False
+very dynamic,0.034962907,0.0003214780923125,0.5,0.0,False
+"sciama is very minimalistic, but there is kind of a impressionistic approach, almost though it looks like a painting",0.061726328,0.7629750101819774,0.3,0.0,False
+"there are many intimate moments in the film off, and my favorite parts are the parts where characters are alone and nothing is being said, or just specific moments between the two women where they're very simple",0.08850401,3.1471295585620315e-05,0.38,0.05,False
+"there are no pretenses, it's just a love story",0.021657806,0.0882941204765302,0.25,0.164,False
+it's the moments person you can tell some,0.028782474,0.0006382176088693,0.5,0.0,False
+it isn't really trying to evoke something,0.033932835,0.99997776743702,0.4,0.0,False
+those are the moments that really stick out to me as the most strong and the most the most human,0.05373499,0.0001581313393724,0.3222222222222222,0.0,False
+"however, that kind of segues into a lot of things that i don't like about the film, even though there are some gorgeous images in the film and it's beautifully composed, and and on all of that i think that you know, even if you have an amazing artistic is how it clearly does",0.050585672,0.0366848614067919,0.2347222222222222,0.032,False
+i think you have,0.03187269,0.0019908276670596,0.5,0.0,False
+"it's important as a viewer, or at least as a critic",0.028439116,0.000727237267879,0.475,0.163,False
+i should say it's important not to be just so intoxicated by the way something is designed and structured,0.09978092,0.0018862511744366,0.3,0.0,False
 especially when something is so aesthetically driven,0.04131502,0.0347898781399248,0.5,0.0,False
-You have to be careful of that,0.031701013,0.9984648504669404,0.55,0.0,False
-"For me, I like to be also very home care of the filmmakers point of view, and what they're trying to say, and, and not being so intoxicated by the rest, and when I look at it from that point of view, it doesn't affect me as much, and I find myself realizing that there are moments that stick out to me and that I remember, and that I'm pleased by when I think back on it, But as a whole the film doesn't mean that much for me",0.06012806,0.214598383650948,0.4294642857142857,0.0,False
-"I found myself wishing that the story itself had more of that complexity, so that it matched the richness of those images",0.024147147,0.0082875305779697,0.25,0.0,False
-that the beauty of those images that Salma is is working so hard to create,0.089577995,0.9848326534718888,0.6458333333333334,0.093,False
-I don't mean to say that the film does not have passion behind it because I think it does,0.078108564,0.8924316183285249,0.678125,0.121,False
-"I do think it comes from a vulnerable place, coming from a place of having a break up and moving on",0.043031808,0.029854576984362,0.75,0.087,False
-And that's mirrored through the story for sure,0.019575324,0.0201615669558072,0.25,0.0,False
-"but I, you know, so I don't think that the intent is disingenuous",0.07091636,0.993499657541044,0.5,0.0,False
-It's it's more,0.03221605,0.0125305228353753,0.25,0.0,False
-"I don't think that Sciama quite has the confidence and the awareness yet as an artist to be able to to work on that next level, because as it stands, it does feel kind of already and very lofty, and I think that our house, filmmaking, when it's done really well, it's exploring all sorts of aspects of art and how it is tied to the human condition in a truly vulnerable way",0.070516795,0.0001365246260205,0.4285714285714286,0.024,False
-"Well, a lot of the images are very symbolic",0.02637897,0.0012041346845089,0.4,0.0,False
-"I think that they're too conscious of their symbolism in a way that just kind of it puts me off a little bit, and I just don't think that the that Choma is quite trusting in the spontaneity of the moment and the integrity of the core story",0.08796701,0.9995583587790878,0.4145833333333333,0.0,False
-"Yes, I know that it's meant to be kind of artistically heightened and distorted, but there's something about it that does feel staged in a way that is",0.09816993,0.0067305359126523,0.2,0.062,False
-"You know that I don't think Sam is quite conscious of, and it doesn't give the film true fluidity, so I always felt a little bit removed from it",0.118584804,0.9998883305449248,0.45625,0.0,False
-I couldn't help but think about Persona directed by Ingmar Bergman while watching this film,0.02792408,0.1771515354207345,0.5,0.104,False
-"Just because there are so many similarities between the two films, you know, you have two women in that film, also in a house very secluded from everybody else, and they're very few cast members In the rest of the film",0.062125895,0.9978189736507174,0.4266666666666667,0.0,False
-It also relies on silence and emptiness and beautiful images and similar ways,0.045778666,0.0030751568513278,0.2875,0.163,False
-Yet persona to me excels in all the areas where this one does,0.036851373,0.0029284696194411,0.5,0.0,False
+you have to be careful of that,0.031701013,0.9984648504669404,0.55,0.0,False
+"for me, i like to be also very home care of the filmmakers point of view, and what they're trying to say, and, and not being so intoxicated by the rest, and when i look at it from that point of view, it doesn't affect me as much, and i find myself realizing that there are moments that stick out to me and that i remember, and that i'm pleased by when i think back on it, but as a whole the film doesn't mean that much for me",0.06012806,0.214598383650948,0.4294642857142857,0.0,False
+"i found myself wishing that the story itself had more of that complexity, so that it matched the richness of those images",0.024147147,0.0082875305779697,0.25,0.0,False
+that the beauty of those images that salma is is working so hard to create,0.089577995,0.9848326534718888,0.6458333333333334,0.093,False
+i don't mean to say that the film does not have passion behind it because i think it does,0.078108564,0.8924316183285249,0.678125,0.121,False
+"i do think it comes from a vulnerable place, coming from a place of having a break up and moving on",0.043031808,0.029854576984362,0.75,0.087,False
+and that's mirrored through the story for sure,0.019575324,0.0201615669558072,0.25,0.0,False
+"but i, you know, so i don't think that the intent is disingenuous",0.07091636,0.993499657541044,0.5,0.0,False
+it's it's more,0.03221605,0.0125305228353753,0.25,0.0,False
+"i don't think that sciama quite has the confidence and the awareness yet as an artist to be able to to work on that next level, because as it stands, it does feel kind of already and very lofty, and i think that our house, filmmaking, when it's done really well, it's exploring all sorts of aspects of art and how it is tied to the human condition in a truly vulnerable way",0.070516795,0.0001365246260205,0.4285714285714286,0.024,False
+"well, a lot of the images are very symbolic",0.02637897,0.0012041346845089,0.4,0.0,False
+"i think that they're too conscious of their symbolism in a way that just kind of it puts me off a little bit, and i just don't think that the that choma is quite trusting in the spontaneity of the moment and the integrity of the core story",0.08796701,0.9995583587790878,0.4145833333333333,0.0,False
+"yes, i know that it's meant to be kind of artistically heightened and distorted, but there's something about it that does feel staged in a way that is",0.09816993,0.0067305359126523,0.2,0.062,False
+"you know that i don't think sam is quite conscious of, and it doesn't give the film true fluidity, so i always felt a little bit removed from it",0.118584804,0.9998883305449248,0.45625,0.0,False
+i couldn't help but think about persona directed by ingmar bergman while watching this film,0.02792408,0.1771515354207345,0.5,0.104,False
+"just because there are so many similarities between the two films, you know, you have two women in that film, also in a house very secluded from everybody else, and they're very few cast members in the rest of the film",0.062125895,0.9978189736507174,0.4266666666666667,0.0,False
+it also relies on silence and emptiness and beautiful images and similar ways,0.045778666,0.0030751568513278,0.2875,0.163,False
+yet persona to me excels in all the areas where this one does,0.036851373,0.0029284696194411,0.5,0.0,False
 not,0.015896274,0.9618217421710532,0.5,0.0,False
-"It's about morality in a way that really cuts deeper, and it's much more multi-layered and it doesn't seem to be so concerned with political statements",0.043031808,0.000225514482667,0.3833333333333333,0.091,False
-It's simply just that aspect of it is just simply a part of the tapestry and part of exploring the psyche,0.036336336,0.0734517389172312,0.5,0.0,False
-"So Emma has been very vocal as an artist about how she does want to employ politics into the film, which is fine",0.042001735,0.0031428976229813,0.3458333333333333,0.0,False
-"I mean, there's typically going to be a political point of view, whether you're conscious of it or not, because of the society that we live in",0.0224908,0.9817691791469526,0.524280303030303,0.0,False
-"You know when you're making when you're writing a story as an artist, but I think if you're gonna do it really consciously, it's a tricky thing for it to not come off as a contrivance, because when that happens that it loses its authenticity, there are times when that aspect of things is very pointed and and not in some crazy overt way where they're just rubbing it in your face constantly, but enough for me to feel that it cheapens the overall effect of the film and the meaning of it",0.13745339,0.9999833106765834,0.5428571428571428,0.05,False
-"They talk about equality as a pleasing feeling, but it doesn't feel that equal to me",0.049212243,0.9978258281942636,0.5,0.0,False
-"It just seems like they're kind of dismissing males, and as not allowing women to do this or that, and that feels trite and not particularly well written to the story, it loses its sincerity to the thinness of those conceits, and while I don't want to use the word propaganda, because that's way too strong of a word, I think it does exist, especially when you look at",0.14373457,0.9999751448290546,0.4541666666666666,0.121,False
-There's another character in the film A young maid,0.040284947,0.0772215888557758,0.45,0.0,False
-It's like a subplot young girl where she's getting an abortion,0.35336453,0.9182930362665556,0.45,0.0,False
-And you know that's fine,0.024833864,0.0037049403913992,0.2916666666666666,0.0,False
-You know whatever,0.058929358,0.9536400993896892,0.5,0.0,False
-I think,0.021518974,0.0872427825083731,0.5,0.0,False
+"it's about morality in a way that really cuts deeper, and it's much more multi-layered and it doesn't seem to be so concerned with political statements",0.043031808,0.000225514482667,0.3833333333333333,0.091,False
+it's simply just that aspect of it is just simply a part of the tapestry and part of exploring the psyche,0.036336336,0.0734517389172312,0.5,0.0,False
+"so emma has been very vocal as an artist about how she does want to employ politics into the film, which is fine",0.042001735,0.0031428976229813,0.3458333333333333,0.0,False
+"i mean, there's typically going to be a political point of view, whether you're conscious of it or not, because of the society that we live in",0.0224908,0.9817691791469526,0.524280303030303,0.0,False
+"you know when you're making when you're writing a story as an artist, but i think if you're gonna do it really consciously, it's a tricky thing for it to not come off as a contrivance, because when that happens that it loses its authenticity, there are times when that aspect of things is very pointed and and not in some crazy overt way where they're just rubbing it in your face constantly, but enough for me to feel that it cheapens the overall effect of the film and the meaning of it",0.13745339,0.9999833106765834,0.5428571428571428,0.05,False
+"they talk about equality as a pleasing feeling, but it doesn't feel that equal to me",0.049212243,0.9978258281942636,0.5,0.0,False
+"it just seems like they're kind of dismissing males, and as not allowing women to do this or that, and that feels trite and not particularly well written to the story, it loses its sincerity to the thinness of those conceits, and while i don't want to use the word propaganda, because that's way too strong of a word, i think it does exist, especially when you look at",0.14373457,0.9999751448290546,0.4541666666666666,0.121,False
+there's another character in the film a young maid,0.040284947,0.0772215888557758,0.45,0.0,False
+it's like a subplot young girl where she's getting an abortion,0.35336453,0.9182930362665556,0.45,0.0,False
+and you know that's fine,0.024833864,0.0037049403913992,0.2916666666666666,0.0,False
+you know whatever,0.058929358,0.9536400993896892,0.5,0.0,False
+i think,0.021518974,0.0872427825083731,0.5,0.0,False
 "it's fine to make a movie about that, but it just it doesn't feel like it works",0.08689302,0.9997756180071362,0.2916666666666666,0.14,False
-It feels very disjointed like something that was inserted like a,0.09494796,0.9999868869601728,0.4,0.163,False
-"You know, I got a feminist agenda and it didn't really contribute to the overall story for me in a way that felt cohesive",0.1423886,0.9997555610166732,0.45,0.0,False
-"Maybe Sciama, I think, sees the world in quite an extraordinary way, but I, I want more confidence in there to where she can trust in just what she feels in her soul, and bringing that out so we can fill all those empty spaces, and that those silences to truly ripen to levels where it doesn't have to rely on on socio politics in a way that feels kind of uninspired at times",0.07571117,0.0913920463333765,0.4166666666666667,0.026,False
-And I really don't like to talk about politics,0.06851897,0.9970185715810744,0.4,0.23,False
-"Trust me, It's not something that I",0.06132676,0.9782314002109888,0.5,0.0,False
-"I uses the focal point of my reviews often, but when you have a director who is very vocal about that and who does see her film as political and as a feminist work, then you know, I kind of have to break that apart, much to my chagrin, and I like to think of it in the sense of like, What if you had a male director who only had males working on his set and it was an all-male cast for the most part, and they only talked about women in passing",0.10828095,0.9987065476328488,0.40625,0.038,False
-"In that way, I definitely don't think that would go over well in the liberal arts scene",0.06931809,0.9996967311516296,0.5,0.0,False
-You need to always think about that,0.022945397,0.007453690256767,0.5,0.0,False
-"And is this feminism that you are using as part of your thesis? Is it really a tool for equality, or is it more there to defy convention? And I think in this case it seems to be more that second one, not on like a completely rudimentary level, but just there enough where it to kind of annoy me",0.20009461,0.9894782458543572,0.3642857142857143,0.097,False
-"and I think she's better than that, So yes, a little muddled",0.29045674,0.9776419392683866,0.421875,0.0,False
-Still not quite sure what I think about it,0.021380141,0.9983781851946272,0.25,0.214,False
-"To be quite honest with you, I all I know is that there were moments that connected with me, but just overall, I didn't feel it in the way that a lot of people have, and a lot of people have spoken to me so highly about this film",0.06412373,0.9920205960556095,0.3733333333333333,0.0,False
-"The artistry of the film just feels a little bit on the nose for me, and not in the ways",0.14956708,0.9995932871488096,0.59375,0.0,False
-I think that Sama really intended for it to be at least for me,0.028782474,0.9995127909656878,0.525,0.0,False
-"And you know when I look at her and when I look at this movie, it looks like something that a very very talented and precocious art student may just after they got out of art college or whatever, And so yes, if it's very impressive and there's like you know, I'm interested to see what they do next for sure, but at the same time it's it is a little arty",0.11407687,0.0765810466625734,0.3233928571428571,0.0,False
+it feels very disjointed like something that was inserted like a,0.09494796,0.9999868869601728,0.4,0.163,False
+"you know, i got a feminist agenda and it didn't really contribute to the overall story for me in a way that felt cohesive",0.1423886,0.9997555610166732,0.45,0.0,False
+"maybe sciama, i think, sees the world in quite an extraordinary way, but i, i want more confidence in there to where she can trust in just what she feels in her soul, and bringing that out so we can fill all those empty spaces, and that those silences to truly ripen to levels where it doesn't have to rely on on socio politics in a way that feels kind of uninspired at times",0.07571117,0.0913920463333765,0.4166666666666667,0.026,False
+and i really don't like to talk about politics,0.06851897,0.9970185715810744,0.4,0.23,False
+"trust me, it's not something that i",0.06132676,0.9782314002109888,0.5,0.0,False
+"i uses the focal point of my reviews often, but when you have a director who is very vocal about that and who does see her film as political and as a feminist work, then you know, i kind of have to break that apart, much to my chagrin, and i like to think of it in the sense of like, what if you had a male director who only had males working on his set and it was an all-male cast for the most part, and they only talked about women in passing",0.10828095,0.9987065476328488,0.40625,0.038,False
+"in that way, i definitely don't think that would go over well in the liberal arts scene",0.06931809,0.9996967311516296,0.5,0.0,False
+you need to always think about that,0.022945397,0.007453690256767,0.5,0.0,False
+"and is this feminism that you are using as part of your thesis? is it really a tool for equality, or is it more there to defy convention? and i think in this case it seems to be more that second one, not on like a completely rudimentary level, but just there enough where it to kind of annoy me",0.20009461,0.9894782458543572,0.3642857142857143,0.097,False
+"and i think she's better than that, so yes, a little muddled",0.29045674,0.9776419392683866,0.421875,0.0,False
+still not quite sure what i think about it,0.021380141,0.9983781851946272,0.25,0.214,False
+"to be quite honest with you, i all i know is that there were moments that connected with me, but just overall, i didn't feel it in the way that a lot of people have, and a lot of people have spoken to me so highly about this film",0.06412373,0.9920205960556095,0.3733333333333333,0.0,False
+"the artistry of the film just feels a little bit on the nose for me, and not in the ways",0.14956708,0.9995932871488096,0.59375,0.0,False
+i think that sama really intended for it to be at least for me,0.028782474,0.9995127909656878,0.525,0.0,False
+"and you know when i look at her and when i look at this movie, it looks like something that a very very talented and precocious art student may just after they got out of art college or whatever, and so yes, if it's very impressive and there's like you know, i'm interested to see what they do next for sure, but at the same time it's it is a little arty",0.11407687,0.0765810466625734,0.3233928571428571,0.0,False
 it is a little embellished and it's lacking that sophistication in that maturity,0.18253209,0.9975137378463728,0.59375,0.0,False
-"So a lot of the the thematic elements, especially the political ones, and all of that they aren't into woven very well, But she does have a gift for sure, and I want to make that point",0.06971766,0.2193209555376754,0.43,0.0,False
-I don't want people again,0.2459383,0.99925190107785,0.5,0.234,False
-"I don't want people thinking that I I hate this film or anything like that, because I do think that the pieces are there",0.2712817,0.9991202938417648,0.9,0.173,False
-"I just want them to come together narrative ly, aesthetically all the way, and I am interested to see what she does next, because I think that she could just slowly get there and if she can get there, I think she does have a masterpiece Center",0.045091953,4.237896053290917e-05,0.51875,0.0,False
-I don't know,0.017770508,0.9871425750422016,0.5,0.0,False
-I don't know if I want to recommend this or not,0.0224908,0.1035473276131472,0.5,0.0,False
-"I think it's an interesting discussion to have, and I think that if you're really into films that are aesthetically driven, you're going to love this film",0.025005542,0.0001686217712343,0.3,0.0,False
-"so in that sense, I think I would recommend it, but yeah, that is my review",0.02397547,0.210677972173295,0.5,0.0,False
-"I guess, thank you all for listening",0.023460433,0.9867357131791952,0.5,0.0,False
-All of my social media information is below,0.032559406,0.9991708982545532,0.4833333333333333,0.0,False
-"You can watch more videos here, and you can subscribe if you want to catch you next time",0.14777246,0.8308126693184015,0.375,0.0,False
+"so a lot of the the thematic elements, especially the political ones, and all of that they aren't into woven very well, but she does have a gift for sure, and i want to make that point",0.06971766,0.2193209555376754,0.43,0.0,False
+i don't want people again,0.2459383,0.99925190107785,0.5,0.234,False
+"i don't want people thinking that i i hate this film or anything like that, because i do think that the pieces are there",0.2712817,0.9991202938417648,0.9,0.173,False
+"i just want them to come together narrative ly, aesthetically all the way, and i am interested to see what she does next, because i think that she could just slowly get there and if she can get there, i think she does have a masterpiece center",0.045091953,4.237896053290917e-05,0.51875,0.0,False
+i don't know,0.017770508,0.9871425750422016,0.5,0.0,False
+i don't know if i want to recommend this or not,0.0224908,0.1035473276131472,0.5,0.0,False
+"i think it's an interesting discussion to have, and i think that if you're really into films that are aesthetically driven, you're going to love this film",0.025005542,0.0001686217712343,0.3,0.0,False
+"so in that sense, i think i would recommend it, but yeah, that is my review",0.02397547,0.210677972173295,0.5,0.0,False
+"i guess, thank you all for listening",0.023460433,0.9867357131791952,0.5,0.0,False
+all of my social media information is below,0.032559406,0.9991708982545532,0.4833333333333333,0.0,False
+"you can watch more videos here, and you can subscribe if you want to catch you next time",0.14777246,0.8308126693184015,0.375,0.0,False

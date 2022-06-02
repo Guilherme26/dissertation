@@ -1,115 +1,115 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-What a lovely movie,0.0358213,0.0010705343235895,0.25,0.0,False
-What a lovely movie,0.0358213,0.0010705343235895,0.25,0.0,False
-It was pretty good,0.033932835,0.0238091363667006,0.2625,0.0,False
-"So I just saw Mad Max Fury Road and whoa, Holy hell, I'm still processing everything",0.35336453,0.966446617025108,0.8125,0.469,False
-"This film had so much time surrounding it, even when Rotten Tomatoes giving it a 98% Then I'm glad I'm reviewing this film the following day, because at first I wasn't sure how to feel about it",0.13835071,0.9998086628519642,0.355,0.121,False
-I watched the first two Mad Max films,0.07970683,0.0010647822878307,0.59375,0.314,False
-"I never got around to the third one, but watching this modern-day take on it was so kinetic, so fast paced",0.089577995,0.0002702562707769,0.45,0.0,False
-"It was so different that I wasn't entirely sure how to respond, but after thinking about it, Yeah, this film",0.0717155,0.0809043797669251,0.375,0.071,False
+what a lovely movie,0.0358213,0.0010705343235895,0.25,0.0,False
+what a lovely movie,0.0358213,0.0010705343235895,0.25,0.0,False
+it was pretty good,0.033932835,0.0238091363667006,0.2625,0.0,False
+"so i just saw mad max fury road and whoa, holy hell, i'm still processing everything",0.35336453,0.966446617025108,0.8125,0.469,True
+"this film had so much time surrounding it, even when rotten tomatoes giving it a 98% then i'm glad i'm reviewing this film the following day, because at first i wasn't sure how to feel about it",0.13835071,0.9998086628519642,0.355,0.121,False
+i watched the first two mad max films,0.07970683,0.0010647822878307,0.59375,0.314,False
+"i never got around to the third one, but watching this modern-day take on it was so kinetic, so fast paced",0.089577995,0.0002702562707769,0.45,0.0,False
+"it was so different that i wasn't entirely sure how to respond, but after thinking about it, yeah, this film",0.0717155,0.0809043797669251,0.375,0.071,False
 it's pretty cockmonkey,0.61826205,0.9776024072478272,0.375,0.0,True
 sweet,0.02809576,0.0007897574899999,0.325,0.0,False
-What everyone's saying about this film is that it's an amazing action film,0.040628307,0.0004884163834906,0.3249999999999999,0.0,False
-Some are saying that it's one of the best of years,0.024147147,0.0011451319686881,0.0,0.0,False
-Some are saying it's one of the best of all time,0.02809576,0.0004257698593207,0.0,0.0,False
-Some are even saying it is the best of all time,0.03427619,0.0009959366784908,0.0,0.0,False
-"Some are even saying God doesn't exist, but this movie exists",0.10699297,0.0023924594327992,0.5,0.0,False
-"Essentially this film was, I got 90 minutes, a two-hour car chase, but it's done like Mad Max style, Meaning you get the awesome production design to get the incredibly assembled vehicles",0.0741129,0.0195840723805184,0.340625,0.102,False
-"You get insane Road thrashing so serious, like brutal deaths",0.4458971,0.9989131036679568,0.8680555555555556,0.501,False
-Sometimes watching death in a movie is so cool,0.2712817,0.2040261687227661,0.325,0.281,False
-"It's never cool in real life, but sometimes you know, like watching people get killed",0.37647265,0.9747838799227666,0.5291666666666667,0.336,False
-You're sick,0.50743616,0.9999560103379282,0.8571428571428572,0.767,False
+what everyone's saying about this film is that it's an amazing action film,0.040628307,0.0004884163834906,0.3249999999999999,0.0,False
+some are saying that it's one of the best of years,0.024147147,0.0011451319686881,0.0,0.0,False
+some are saying it's one of the best of all time,0.02809576,0.0004257698593207,0.0,0.0,False
+some are even saying it is the best of all time,0.03427619,0.0009959366784908,0.0,0.0,False
+"some are even saying god doesn't exist, but this movie exists",0.10699297,0.0023924594327992,0.5,0.0,False
+"essentially this film was, i got 90 minutes, a two-hour car chase, but it's done like mad max style, meaning you get the awesome production design to get the incredibly assembled vehicles",0.0741129,0.0195840723805184,0.340625,0.102,False
+"you get insane road thrashing so serious, like brutal deaths",0.4458971,0.9989131036679568,0.8680555555555556,0.501,False
+sometimes watching death in a movie is so cool,0.2712817,0.2040261687227661,0.325,0.281,False
+"it's never cool in real life, but sometimes you know, like watching people get killed",0.37647265,0.9747838799227666,0.5291666666666667,0.336,False
+you're sick,0.50743616,0.9999560103379282,0.8571428571428572,0.767,False
 you're you're all sick,0.5958905,0.9998896384019974,0.8571428571428572,0.524,False
-But the movie was greedy,0.22069082,0.9866657081927288,0.5,0.424,False
-It was haunting,0.082104236,0.0010770612449944,0.5,0.512,False
-It was violent,0.14866976,0.9981173557158456,0.9,0.661,False
-"Yeah, it's like not grotesque",0.1473238,0.9172934448429544,0.3625,0.0,False
-That's actually something I greatly admire about this film,0.032387726,0.0001809954049877,0.3,0.0,False
-It like feels more disturbing and violent than it actually is showing you,0.23803931,0.9999705543454424,0.6,0.383,False
-There's really not much core in this film,0.10300289,0.9998997119153988,0.55,0.0,False
-When there is gore,0.06372416,0.9997064971598356,0.5,0.0,False
+but the movie was greedy,0.22069082,0.9866657081927288,0.5,0.424,False
+it was haunting,0.082104236,0.0010770612449944,0.5,0.512,False
+it was violent,0.14866976,0.9981173557158456,0.9,0.661,False
+"yeah, it's like not grotesque",0.1473238,0.9172934448429544,0.3625,0.0,False
+that's actually something i greatly admire about this film,0.032387726,0.0001809954049877,0.3,0.0,False
+it like feels more disturbing and violent than it actually is showing you,0.23803931,0.9999705543454424,0.6,0.383,False
+there's really not much core in this film,0.10300289,0.9998997119153988,0.55,0.0,False
+when there is gore,0.06372416,0.9997064971598356,0.5,0.0,False
 it's like so fast-paced that you don't even remember what it looked like,0.105704986,0.9991401749656024,0.5,0.0,False
-I loved it,0.03461955,0.0072174339256499,0.15,0.0,False
-"Because this whole plot, this whole story takes place in the middle of this adventure",0.018881164,0.0013310449172001,0.4333333333333333,0.0,False
-"Like the trailers, don't give away the plot for you, so I don't want to ruin it for you either",0.15071863,0.0129543594142555,0.5,0.062,False
-"Like a short synopsis for me, Charley's Theron is on the road to somewhere where people are trying to stop her and she gets the help of Mad Max and hence the chase ensues",0.09065199,0.006277944686159,0.65625,0.133,False
-"It's interesting because this movie is mainly, but it does take time for character in like little moments you learned about the characters like throughout the adventure through how they're responding to this adventure without having like expositional dialogue",0.02517722,0.1110473121929031,0.4201388888888889,0.053,False
-"You see, when I first walked out of this film, I was like that dude",0.089041,0.1009855114862193,0.375,0.0,False
-Did it have much character? But that's I thought about it more,0.046465382,0.9969167896201564,0.325,0.0,False
-I realized that it just didn't have like expositional dialogue,0.02397547,0.9998961355201084,0.5,0.19,False
-"George Miller, not Frank Miller, You say Frank Miller",0.010204159,0.9859229206942092,0.5,0.0,False
-A lot of people are gonna kill you,0.62792164,0.1254169704367416,0.5,0.402,False
-"Trust me, but George Miller has this like wonderful ability to like, come up with a story and it's like post-apocalyptic world driven by the power of fuel and water resources",0.030842619,0.0003771010800773,0.0,0.0,False
-"Rather than making his films like a big exploration of this world, he always focuses on the plot and he only allows his characters to say what they would say in that moment of time, so it actually wouldn't make sense for these like strangers coming together during this really high intense chase sequence to start giving a bunch of expositional dialogue",0.05653196,0.1800253971750888,0.464,0.0,False
-"But if you pay attention to story and the characters, all they're like",0.024147147,0.026162732304011,0.5,0.101,False
-This film has a pretty strong theme about redemption,0.052935857,0.0001303596083346,0.3291666666666666,0.0,False
-"They're about three main characters in this, and it's really targeted towards redemption And it's interesting because you actually understand more of the characters and how they respond to the violence",0.07850813,0.0014749352210501,0.3633333333333333,0.115,False
+i loved it,0.03461955,0.0072174339256499,0.15,0.0,False
+"because this whole plot, this whole story takes place in the middle of this adventure",0.018881164,0.0013310449172001,0.4333333333333333,0.0,False
+"like the trailers, don't give away the plot for you, so i don't want to ruin it for you either",0.15071863,0.0129543594142555,0.5,0.062,False
+"like a short synopsis for me, charley's theron is on the road to somewhere where people are trying to stop her and she gets the help of mad max and hence the chase ensues",0.09065199,0.006277944686159,0.65625,0.133,False
+"it's interesting because this movie is mainly, but it does take time for character in like little moments you learned about the characters like throughout the adventure through how they're responding to this adventure without having like expositional dialogue",0.02517722,0.1110473121929031,0.4201388888888889,0.053,False
+"you see, when i first walked out of this film, i was like that dude",0.089041,0.1009855114862193,0.375,0.0,False
+did it have much character? but that's i thought about it more,0.046465382,0.9969167896201564,0.325,0.0,False
+i realized that it just didn't have like expositional dialogue,0.02397547,0.9998961355201084,0.5,0.19,False
+"george miller, not frank miller, you say frank miller",0.010204159,0.9859229206942092,0.5,0.0,False
+a lot of people are gonna kill you,0.62792164,0.1254169704367416,0.5,0.402,False
+"trust me, but george miller has this like wonderful ability to like, come up with a story and it's like post-apocalyptic world driven by the power of fuel and water resources",0.030842619,0.0003771010800773,0.0,0.0,False
+"rather than making his films like a big exploration of this world, he always focuses on the plot and he only allows his characters to say what they would say in that moment of time, so it actually wouldn't make sense for these like strangers coming together during this really high intense chase sequence to start giving a bunch of expositional dialogue",0.05653196,0.1800253971750888,0.464,0.0,False
+"but if you pay attention to story and the characters, all they're like",0.024147147,0.026162732304011,0.5,0.101,False
+this film has a pretty strong theme about redemption,0.052935857,0.0001303596083346,0.3291666666666666,0.0,False
+"they're about three main characters in this, and it's really targeted towards redemption and it's interesting because you actually understand more of the characters and how they respond to the violence",0.07850813,0.0014749352210501,0.3633333333333333,0.115,False
 how they go about the violent moments,0.10634898,0.0010558711028989,0.9,0.394,False
-"and in between, George Miller really allows his actors to provide that depth without having to tell the audience exactly everything about someone's past or what they're currently thinking",0.017492844,3.0220540203779423e-05,0.475,0.0,False
-"Tom Hardy as Mad Max, Mel Gibson played the original Max and that was a legendary character",0.078108564,3.117424561454959e-05,0.375,0.136,False
-and I'm so glad that Tom Hardy wasn't trying to be Mel Gibson's Max,0.08689302,0.1548329707166542,0.25,0.0,False
-Tom Hardy's backs actually seems like you might be older,0.17034957,0.9983069046662362,0.4583333333333333,0.103,False
-He seems very haunted by the wasteland on to by his mistakes from the past,0.15159425,0.9997772203767028,0.5125,0.312,False
-He's like actually going a little insane,0.355017,0.9816681428238228,0.6979166666666666,0.243,False
-"At times, She sort of reminds me from that weird creepy boy from the Road Warrior, Because Tom Hardy's Max is sort of like an aggressive boy",0.31693128,0.9713430598171784,0.75,0.112,False
-Like he doesn't speak much,0.10461388,0.9999391416734752,0.4,0.0,False
-She doesn't,0.020685982,0.9901208338794788,0.5,0.0,False
-"There's a lot of grunting, a lot of that like you could tell",0.13655609,0.96738589764154,0.5,0.0,False
-"He's a really violent threat, but you can still so see that he has a heart, but similar to how I sort of perceived a road warrior, Max is sort of used more as a character device to support the bigger picture of other characters, like Charlize Theron character, The trailers didn't reveal who she really was, so I'm not going to",0.18746567,0.9999209616640824,0.51875,0.066,False
-She's fantastic in this film,0.038053125,0.0002937114632231,0.3,0.0,False
-She's someone who's also haunted by the demons of her past and some present-day mistakes too,0.16827796,0.9570516054170228,0.625,0.286,False
-She's a warrior,0.14866976,0.0004762268362092,0.5,0.0,False
+"and in between, george miller really allows his actors to provide that depth without having to tell the audience exactly everything about someone's past or what they're currently thinking",0.017492844,3.0220540203779423e-05,0.475,0.0,False
+"tom hardy as mad max, mel gibson played the original max and that was a legendary character",0.078108564,3.117424561454959e-05,0.375,0.136,False
+and i'm so glad that tom hardy wasn't trying to be mel gibson's max,0.08689302,0.1548329707166542,0.25,0.0,False
+tom hardy's backs actually seems like you might be older,0.17034957,0.9983069046662362,0.4583333333333333,0.103,False
+he seems very haunted by the wasteland on to by his mistakes from the past,0.15159425,0.9997772203767028,0.5125,0.312,False
+he's like actually going a little insane,0.355017,0.9816681428238228,0.6979166666666666,0.243,False
+"at times, she sort of reminds me from that weird creepy boy from the road warrior, because tom hardy's max is sort of like an aggressive boy",0.31693128,0.9713430598171784,0.75,0.112,False
+like he doesn't speak much,0.10461388,0.9999391416734752,0.4,0.0,False
+she doesn't,0.020685982,0.9901208338794788,0.5,0.0,False
+"there's a lot of grunting, a lot of that like you could tell",0.13655609,0.96738589764154,0.5,0.0,False
+"he's a really violent threat, but you can still so see that he has a heart, but similar to how i sort of perceived a road warrior, max is sort of used more as a character device to support the bigger picture of other characters, like charlize theron character, the trailers didn't reveal who she really was, so i'm not going to",0.18746567,0.9999209616640824,0.51875,0.066,False
+she's fantastic in this film,0.038053125,0.0002937114632231,0.3,0.0,False
+she's someone who's also haunted by the demons of her past and some present-day mistakes too,0.16827796,0.9570516054170228,0.625,0.286,False
+she's a warrior,0.14866976,0.0004762268362092,0.5,0.0,False
 a protector,0.020130653,0.8499956695813692,0.5,0.0,False
-"Just like that, Charlize Theron would be to me in real life",0.043375164,0.0001741406473478,0.4,0.0,False
-"if my girlfriend shaved her head like Charlize Theron, we would have serious relationship issues that would not be okay with that",0.2712817,0.9852248679401138,0.4583333333333333,0.121,False
-She only has one hand,0.08555053,0.9941115545642584,0.5,0.0,False
-The other is mechanical,0.018325835,0.9901704563641328,0.5625,0.0,False
-If I have a mechanical hand,0.015132698,0.116365680219357,0.5,0.0,False
-You know what I use that for,0.038911518,0.0002437015357458,0.5,0.0,False
-"I don't know where these jokes are coming from, but she kicked some serious ass in this film",0.7569718,0.1823728536338173,0.6666666666666666,0.273,True
-This film actually has a lot of badass females,0.5363433,0.1062783678929351,0.5,0.0,False
-"You got young badass females, middle-aged badass females, and even elderly badass females",0.46457416,0.9998920822721126,0.45,0.0,False
-"It's like the Fine Brothers show, except with kicking ass",0.83020335,0.8385847035546806,0.2916666666666666,0.236,True
-"instead of reacting with Charlize Theron, I really bought her as his character",0.1609341,0.003260003520365,0.4,0.0,False
-"You know, to see Charlize Theron on-screen I were usually like it's Charlize Theron",0.040284947,0.0013124774649842,0.625,0.0,False
-"She's really beautiful and yeah, she's a great actress, but I'm still aware, as you saw, at least there, and I really liked how she went all out with this",0.078108564,0.0032788690055218,0.28,0.0,False
-"She was not the most attractive in this film, but her ability to like transform into this badass one-handed lady was cockmonkey dope, but the true scene stealer for me was Nicholas Hoult, Like I keep saying, I'm not gonna give much away",0.5026305,0.0377942129036461,0.26875,0.092,True
-"They don't say whose characters in the trailer, But Nicholas Hoult performance man, That's the one you're gonna walk away thinking about like a plum introduction",0.16035037,0.9944198398382896,0.5,0.0,False
-He seems like,0.030155903,0.0804256196507185,0.5,0.0,False
-"Oh, okay, he's just another crazy Mad Max villain",0.50255704,0.9886450939694882,0.6208333333333333,0.571,False
-"With each scene he gets, they give him more and more to do, and you explored him",0.10892494,0.0010058313721275,0.25,0.0,False
-"Actually, more than you would even explore Max of this film",0.07091636,0.1566596146112199,0.25,0.0,False
-"The film was great, too, for doubt, The character's name",0.0669207,0.0038200074162517,0.0999999999999999,0.171,False
-Don't know the actor's name,0.023288755,0.9974637396732332,0.5,0.0,False
-But I like the villains,0.14328592,0.1024568703119791,0.5,0.494,False
-Motives in this film,0.031185975,0.0001817106840458,0.5,0.0,False
-It was different from the other villains,0.101391904,0.9994700676278468,0.53125,0.423,False
-That's That's actually what I like about this whole franchise,0.03444787,0.0006216669113517,0.45,0.0,False
-The first Mad Max,0.19535941,8.681699567417107e-05,0.59375,0.516,False
-The gangsters are like serial killers on wheels,0.4396069,0.2208102216238515,0.5,0.336,False
-The Road Warrior had villains that were like tribal territorial savages,0.2889918,0.9849703776119084,0.5,0.426,False
-"In a way, This one is more like a cult",0.06612156,0.8638197189203649,0.25,0.0,False
-It's like a civilization ruled by evil religious thinking,0.41665444,0.9934776683023312,0.75,0.317,False
-"So I like how the characters are always like cockmonkey crazy, but they always have a different type of thing about them",0.53837943,0.983537643855285,0.65,0.07,True
-The music of this film is wonderful,0.02809576,0.0007736935144872,0.0,0.0,False
-It really does get your heart going,0.062925026,0.0010777765240525,0.4,0.0,False
-I love the editing of this film I love,0.0224908,0.0018906911735577,0.25,0.0,False
+"just like that, charlize theron would be to me in real life",0.043375164,0.0001741406473478,0.4,0.0,False
+"if my girlfriend shaved her head like charlize theron, we would have serious relationship issues that would not be okay with that",0.2712817,0.9852248679401138,0.4583333333333333,0.121,False
+she only has one hand,0.08555053,0.9941115545642584,0.5,0.0,False
+the other is mechanical,0.018325835,0.9901704563641328,0.5625,0.0,False
+if i have a mechanical hand,0.015132698,0.116365680219357,0.5,0.0,False
+you know what i use that for,0.038911518,0.0002437015357458,0.5,0.0,False
+"i don't know where these jokes are coming from, but she kicked some serious ass in this film",0.7569718,0.1823728536338173,0.6666666666666666,0.273,True
+this film actually has a lot of badass females,0.5363433,0.1062783678929351,0.5,0.0,False
+"you got young badass females, middle-aged badass females, and even elderly badass females",0.46457416,0.9998920822721126,0.45,0.0,False
+"it's like the fine brothers show, except with kicking ass",0.83020335,0.8385847035546806,0.2916666666666666,0.236,True
+"instead of reacting with charlize theron, i really bought her as his character",0.1609341,0.003260003520365,0.4,0.0,False
+"you know, to see charlize theron on-screen i were usually like it's charlize theron",0.040284947,0.0013124774649842,0.625,0.0,False
+"she's really beautiful and yeah, she's a great actress, but i'm still aware, as you saw, at least there, and i really liked how she went all out with this",0.078108564,0.0032788690055218,0.28,0.0,False
+"she was not the most attractive in this film, but her ability to like transform into this badass one-handed lady was cockmonkey dope, but the true scene stealer for me was nicholas hoult, like i keep saying, i'm not gonna give much away",0.5026305,0.0377942129036461,0.26875,0.092,True
+"they don't say whose characters in the trailer, but nicholas hoult performance man, that's the one you're gonna walk away thinking about like a plum introduction",0.16035037,0.9944198398382896,0.5,0.0,False
+he seems like,0.030155903,0.0804256196507185,0.5,0.0,False
+"oh, okay, he's just another crazy mad max villain",0.50255704,0.9886450939694882,0.6208333333333333,0.571,False
+"with each scene he gets, they give him more and more to do, and you explored him",0.10892494,0.0010058313721275,0.25,0.0,False
+"actually, more than you would even explore max of this film",0.07091636,0.1566596146112199,0.25,0.0,False
+"the film was great, too, for doubt, the character's name",0.0669207,0.0038200074162517,0.0999999999999999,0.171,False
+don't know the actor's name,0.023288755,0.9974637396732332,0.5,0.0,False
+but i like the villains,0.14328592,0.1024568703119791,0.5,0.494,False
+motives in this film,0.031185975,0.0001817106840458,0.5,0.0,False
+it was different from the other villains,0.101391904,0.9994700676278468,0.53125,0.423,False
+that's that's actually what i like about this whole franchise,0.03444787,0.0006216669113517,0.45,0.0,False
+the first mad max,0.19535941,8.681699567417107e-05,0.59375,0.516,False
+the gangsters are like serial killers on wheels,0.4396069,0.2208102216238515,0.5,0.336,False
+the road warrior had villains that were like tribal territorial savages,0.2889918,0.9849703776119084,0.5,0.426,False
+"in a way, this one is more like a cult",0.06612156,0.8638197189203649,0.25,0.0,False
+it's like a civilization ruled by evil religious thinking,0.41665444,0.9934776683023312,0.75,0.317,False
+"so i like how the characters are always like cockmonkey crazy, but they always have a different type of thing about them",0.53837943,0.983537643855285,0.65,0.07,True
+the music of this film is wonderful,0.02809576,0.0007736935144872,0.0,0.0,False
+it really does get your heart going,0.062925026,0.0010777765240525,0.4,0.0,False
+i love the editing of this film i love,0.0224908,0.0018906911735577,0.25,0.0,False
 "like the man craziness, the kinetic energy that just the camera angles and the editing bring to the film",0.22982925,1.490164704328374e-05,0.5,0.112,False
-"I'll be honest, I strongly do prefer the first half over the last half",0.043375164,0.0895203630708813,0.4208333333333333,0.0,False
-That's not to say the last half is bad,0.09494796,0.9972191142353706,0.6444444444444444,0.304,False
-"It's just the last half had like one or two small moments that seemed to drag a little bit, and the actions started seeming a little repetitive",0.04406188,0.999996542817886,0.5815476190476191,0.12,False
-"But then again, there's just so much cockmonkey action that I don't even know",0.54375964,0.9936192637525364,0.425,0.0,True
-"Actually, if it was repetitive",0.018048171,0.9989255912481791,0.5625,0.333,False
+"i'll be honest, i strongly do prefer the first half over the last half",0.043375164,0.0895203630708813,0.4208333333333333,0.0,False
+that's not to say the last half is bad,0.09494796,0.9972191142353706,0.6444444444444444,0.304,False
+"it's just the last half had like one or two small moments that seemed to drag a little bit, and the actions started seeming a little repetitive",0.04406188,0.999996542817886,0.5815476190476191,0.12,False
+"but then again, there's just so much cockmonkey action that i don't even know",0.54375964,0.9936192637525364,0.425,0.0,True
+"actually, if it was repetitive",0.018048171,0.9989255912481791,0.5625,0.333,False
 it might have been different,0.020963646,0.9996774985546892,0.5,0.0,False
-It's just so much in your face that you know,0.29163063,0.9649191385965832,0.4,0.0,False
+it's just so much in your face that you know,0.29163063,0.9649191385965832,0.4,0.0,False
 it's like,0.024147147,0.1319130156290262,0.5,0.0,False
-"What was that different than what I saw, So yeah, if you don't walk away thinking about the characters necessarily, you will not forget the action in this film",0.05493369,0.0052653479662738,0.4833333333333333,0.0,False
-"It's so cool because it's from the same writer, director of the original Mad Max, But he like, really updated it like he's been paying attention to films over the last 30 years, and I feel like in a lot of ways this has some of the best moments of the entire franchise Because those action scenes are like cleverly choreographed at what school is that? Yes, there's some Cgi here and there, but it's mainly practical effects and like crazy stuntmen and at the end of the day it has just enough character to provide the emotional depth to support the action scenes",0.12309273,0.0,0.4588888888888889,0.039,False
-Let me get straight to the point here,0.059328925,0.8219039488708992,0.4,0.0,False
-"All in all, I gotta say, Mad Max Fury Road got it manically right, Alright, guys, checking out my interview for Mad Max Fury Road",0.17173064,0.0017893897769575,0.6607142857142857,0.385,False
-"You can go ahead and follow us on Facebook, Instagram and Twitter",0.027580723,0.0919852147050168,0.5,0.0,False
-"Last, but not least you want to get updated every time one of my reviews or videos is out doing to clear this button up my dick to subscribe",0.6430099,0.1580001369759396,0.4583333333333333,0.164,True
-"That's right, the dick",0.88651687,0.0028333991688099,0.3571428571428571,0.524,True
-Let me tell you something about this little road warrior,0.1019289,0.0009213688366862,0.59375,0.0,False
-"He goes by the name Max, and every time Max gets mad, his girlfriend gives him a furious road head",0.3897107,0.9685083493034284,0.8125,0.277,False
-"Huh, See what I did? I put a head after the word road",0.10892494,0.8941269271033481,0.5,0.0,False
+"what was that different than what i saw, so yeah, if you don't walk away thinking about the characters necessarily, you will not forget the action in this film",0.05493369,0.0052653479662738,0.4833333333333333,0.0,False
+"it's so cool because it's from the same writer, director of the original mad max, but he like, really updated it like he's been paying attention to films over the last 30 years, and i feel like in a lot of ways this has some of the best moments of the entire franchise because those action scenes are like cleverly choreographed at what school is that? yes, there's some cgi here and there, but it's mainly practical effects and like crazy stuntmen and at the end of the day it has just enough character to provide the emotional depth to support the action scenes",0.12309273,0.0,0.4588888888888889,0.039,False
+let me get straight to the point here,0.059328925,0.8219039488708992,0.4,0.0,False
+"all in all, i gotta say, mad max fury road got it manically right, alright, guys, checking out my interview for mad max fury road",0.17173064,0.0017893897769575,0.6607142857142857,0.385,False
+"you can go ahead and follow us on facebook, instagram and twitter",0.027580723,0.0919852147050168,0.5,0.0,False
+"last, but not least you want to get updated every time one of my reviews or videos is out doing to clear this button up my dick to subscribe",0.6430099,0.1580001369759396,0.4583333333333333,0.164,True
+"that's right, the dick",0.88651687,0.0028333991688099,0.3571428571428571,0.524,True
+let me tell you something about this little road warrior,0.1019289,0.0009213688366862,0.59375,0.0,False
+"he goes by the name max, and every time max gets mad, his girlfriend gives him a furious road head",0.3897107,0.9685083493034284,0.8125,0.277,False
+"huh, see what i did? i put a head after the word road",0.10892494,0.8941269271033481,0.5,0.0,False

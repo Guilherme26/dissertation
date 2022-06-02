@@ -1,51 +1,51 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hey, what's up, everybody? I hope you're all doing fantastic today",0.055333257,0.0005375819493583,0.3,0.0,False
-"I want to talk about the new thriller A quiet place, directed by John Krasinski who also stars in this one alongside his real-life wife Emily Blunt",0.032559406,0.0036473793818755,0.4659090909090909,0.0,False
-I was excited for this movie,0.07970683,0.0003238962537768,0.3125,0.0,False
-It definitely had my curiosity,0.026207292,0.0034293722879872,0.5,0.0,False
-I enjoy the blending of the horror genre with that of the suspense thriller,0.15626417,0.0034172425699814,0.3,0.192,False
-"I do think this blending of genres is really great for getting both satisfying elements of the horror and the McCobb, as well as much more potentially fleshed out characters than you get in your traditional can't be slasher flicks",0.11085691,3.069682935131877e-05,0.32,0.075,False
-"All things I think this film was able to pull off because I had a great time watching it, and despite my excitement to see it, it was really better than I was expecting",0.08581903,0.0060192906028302,0.2,0.064,False
-It was very well paced,0.060527626,0.0034768480638675,0.4,0.0,False
-"It provides just enough character development and has a strong collection of performances, as well as a story with an organized plan and a very well-crafted approach",0.0136749605,0.0007311507907533,0.3944444444444444,0.0,False
+"hey, what's up, everybody? i hope you're all doing fantastic today",0.055333257,0.0005375819493583,0.3,0.0,False
+"i want to talk about the new thriller a quiet place, directed by john krasinski who also stars in this one alongside his real-life wife emily blunt",0.032559406,0.0036473793818755,0.4659090909090909,0.0,False
+i was excited for this movie,0.07970683,0.0003238962537768,0.3125,0.0,False
+it definitely had my curiosity,0.026207292,0.0034293722879872,0.5,0.0,False
+i enjoy the blending of the horror genre with that of the suspense thriller,0.15626417,0.0034172425699814,0.3,0.192,False
+"i do think this blending of genres is really great for getting both satisfying elements of the horror and the mccobb, as well as much more potentially fleshed out characters than you get in your traditional can't be slasher flicks",0.11085691,3.069682935131877e-05,0.32,0.075,False
+"all things i think this film was able to pull off because i had a great time watching it, and despite my excitement to see it, it was really better than i was expecting",0.08581903,0.0060192906028302,0.2,0.064,False
+it was very well paced,0.060527626,0.0034768480638675,0.4,0.0,False
+"it provides just enough character development and has a strong collection of performances, as well as a story with an organized plan and a very well-crafted approach",0.0136749605,0.0007311507907533,0.3944444444444444,0.0,False
 so let's talk about the story a little more,0.025863936,0.7887510068112986,0.421875,0.0,False
-I thought it was very intriguing and has a short runtime,0.048868883,0.0008645180833233,0.4024999999999999,0.0,False
+i thought it was very intriguing and has a short runtime,0.048868883,0.0008645180833233,0.4024999999999999,0.0,False
 so things get going very quickly,0.0358213,0.7905690935858111,0.2833333333333333,0.0,False
-It's a very contained film,0.0681194,0.000313852728057,0.4,0.0,False
-"There are minimal subplots to pull your attention from the main issue facing these characters, which I thought was very effective in keeping the tension constantly high",0.043375164,0.0087707696088514,0.3741666666666666,0.075,False
-The plot keeps us focused on the specific family,0.018742332,0.0003283070603243,0.5,0.0,False
-You just enough substance to really understand the ramifications of all the threats that they face,0.09333697,0.004105894643594,0.45,0.157,False
-But there were some nicely placed tidbits that captured the fact that there is a world going on around them and I thought it was a nice added element of mystery,0.044748597,0.0005149616644285,0.2,0.0,False
-The storyline keeps a swift pace,0.050585672,0.0039080044038923,0.5,0.0,False
-It has a great overall focus,0.023803791,0.002332511989496,0.3,0.0,False
-"It spends the right amount of time developing the dynamics between all the various family members, really placing you into their lives in a very intimate way, but it also has the perfect amount of more tension filled moments to really switch gears, and it was a nice flow between the two of those which leads us into the character performances which I thought were all very good",0.032902762,9.656090009541052e-06,0.2822142857142857,0.042,False
-Krasinski and Blunt shared a strong believable chemistry with one another,0.03187269,0.0002152354384225,0.2666666666666666,0.0,False
-"They really had to rely on a lot of physical acting to capture emotions and moods, and I thought both were able to really do some great things without the use of dialogue",0.026035614,0.9933890354621098,0.3583333333333333,0.0,False
-You really grow to like these characters,0.1710401,0.000447220020627,0.4,0.0,False
-You can connect with them,0.04268845,0.007780722355404,0.5,0.0,False
+it's a very contained film,0.0681194,0.000313852728057,0.4,0.0,False
+"there are minimal subplots to pull your attention from the main issue facing these characters, which i thought was very effective in keeping the tension constantly high",0.043375164,0.0087707696088514,0.3741666666666666,0.075,False
+the plot keeps us focused on the specific family,0.018742332,0.0003283070603243,0.5,0.0,False
+you just enough substance to really understand the ramifications of all the threats that they face,0.09333697,0.004105894643594,0.45,0.157,False
+but there were some nicely placed tidbits that captured the fact that there is a world going on around them and i thought it was a nice added element of mystery,0.044748597,0.0005149616644285,0.2,0.0,False
+the storyline keeps a swift pace,0.050585672,0.0039080044038923,0.5,0.0,False
+it has a great overall focus,0.023803791,0.002332511989496,0.3,0.0,False
+"it spends the right amount of time developing the dynamics between all the various family members, really placing you into their lives in a very intimate way, but it also has the perfect amount of more tension filled moments to really switch gears, and it was a nice flow between the two of those which leads us into the character performances which i thought were all very good",0.032902762,9.656090009541052e-06,0.2822142857142857,0.042,False
+krasinski and blunt shared a strong believable chemistry with one another,0.03187269,0.0002152354384225,0.2666666666666666,0.0,False
+"they really had to rely on a lot of physical acting to capture emotions and moods, and i thought both were able to really do some great things without the use of dialogue",0.026035614,0.9933890354621098,0.3583333333333333,0.0,False
+you really grow to like these characters,0.1710401,0.000447220020627,0.4,0.0,False
+you can connect with them,0.04268845,0.007780722355404,0.5,0.0,False
 "you can put yourself in their position, and it really adds a nice intriguing dimension to this film",0.04268845,0.0001530669082993,0.3166666666666666,0.0,False
-"You really care about these characters through their performances and it makes those more intense moments hit that much harder, and the performances from the younger cast members were solid as well",0.103539884,0.0004965137640708,0.4333333333333333,0.0,False
-"I used to think that kid actors would either could break a film, but over the past handful of years there really has been a strong uptick in the quality of younger performers and this film was no different with Noah Joop and Millicent Simmons, both bringing some very natural performances to this storyline",0.0224908,0.0,0.4572222222222222,0.045,False
-"Now, let's talk direction and cinematography to more strong aspects",0.016521018,0.009708900477124,0.2666666666666666,0.0,False
+"you really care about these characters through their performances and it makes those more intense moments hit that much harder, and the performances from the younger cast members were solid as well",0.103539884,0.0004965137640708,0.4333333333333333,0.0,False
+"i used to think that kid actors would either could break a film, but over the past handful of years there really has been a strong uptick in the quality of younger performers and this film was no different with noah joop and millicent simmons, both bringing some very natural performances to this storyline",0.0224908,0.0,0.4572222222222222,0.045,False
+"now, let's talk direction and cinematography to more strong aspects",0.016521018,0.009708900477124,0.2666666666666666,0.0,False
 for this film,0.045091953,4.530017535340246e-05,0.5,0.0,False
-"The direction was simple, but I really thought it was effective in capturing all the implied tones",0.02397547,0.0005329327208352,0.3666666666666667,0.0,False
-The settings and backdrops were all perfectly selected for this plotline,0.08420804,7.51029222964304e-06,0.0,0.0,False
-"It felt very isolated and imposing, and with a nice use of lighting and camera angles, you really can feel the ominous routine of their lives and the intensity from that constant threat of attack",0.119228795,0.072902913319843,0.375,0.293,False
-"I thought the camerawork also used nice angles and very nicely times slow pans to build suspense instead of using cheap jump scares, which was fantastic",0.1008549,0.0009518699346133,0.312,0.071,False
-This movie also utilized sound or lack of it very nicely,0.1024659,0.9985576066534512,0.2049999999999999,0.159,False
-"There were some long bouts of silence, and when it would implement sounds from either the musical score or from nature or sound effects or some of the minimal bouts of dialogue, it really would stand out",0.031185975,0.9996787561907012,0.455,0.0,False
-"There was also some moments where the musical score really did a great job of amplifying the moves of specific scenes very effectively, and overall, for a film that relied on his characters to make no noise, it really did use sound to its advantage, so overall, I'm gonna give a quiet place 85 percent on the entertainment meter",0.030327583,0.0008545341630974,0.381,0.032,False
-I thought it was a great time and has strong horror elements as well as some very powerful tension that will have you locked in from start to finish,0.07211506,7.099014321829254e-05,0.2294444444444444,0.15,False
-"There are some things you have to overlook and some gaps in logic due to just lack of explanation overall, but there was more than enough here to connect with from a character aspect as well as on the story side, and I definitely recommend checking it out",0.04783881,2.0683106378461387e-05,0.4625,0.03,False
-I had fun with it,0.03994159,0.0031516702919721,0.35,0.0,False
-"That's it for today, guys",0.0495556,0.0432041183581523,0.5,0.0,False
+"the direction was simple, but i really thought it was effective in capturing all the implied tones",0.02397547,0.0005329327208352,0.3666666666666667,0.0,False
+the settings and backdrops were all perfectly selected for this plotline,0.08420804,7.51029222964304e-06,0.0,0.0,False
+"it felt very isolated and imposing, and with a nice use of lighting and camera angles, you really can feel the ominous routine of their lives and the intensity from that constant threat of attack",0.119228795,0.072902913319843,0.375,0.293,False
+"i thought the camerawork also used nice angles and very nicely times slow pans to build suspense instead of using cheap jump scares, which was fantastic",0.1008549,0.0009518699346133,0.312,0.071,False
+this movie also utilized sound or lack of it very nicely,0.1024659,0.9985576066534512,0.2049999999999999,0.159,False
+"there were some long bouts of silence, and when it would implement sounds from either the musical score or from nature or sound effects or some of the minimal bouts of dialogue, it really would stand out",0.031185975,0.9996787561907012,0.455,0.0,False
+"there was also some moments where the musical score really did a great job of amplifying the moves of specific scenes very effectively, and overall, for a film that relied on his characters to make no noise, it really did use sound to its advantage, so overall, i'm gonna give a quiet place 85 percent on the entertainment meter",0.030327583,0.0008545341630974,0.381,0.032,False
+i thought it was a great time and has strong horror elements as well as some very powerful tension that will have you locked in from start to finish,0.07211506,7.099014321829254e-05,0.2294444444444444,0.15,False
+"there are some things you have to overlook and some gaps in logic due to just lack of explanation overall, but there was more than enough here to connect with from a character aspect as well as on the story side, and i definitely recommend checking it out",0.04783881,2.0683106378461387e-05,0.4625,0.03,False
+i had fun with it,0.03994159,0.0031516702919721,0.35,0.0,False
+"that's it for today, guys",0.0495556,0.0432041183581523,0.5,0.0,False
 those are my thoughts on a quiet place,0.040628307,0.0101053962224541,0.5,0.0,False
-I hope you enjoyed this video,0.054534122,0.0020261397509217,0.25,0.0,False
-"If you did, don't forget to hit that like button",0.119228795,0.0042248374066436,0.5,0.0,False
-Make sure to subscribe to the channel so you can catch all the new content as its released,0.02792408,0.8096771247883334,0.3409090909090909,0.0,False
-"You can follow me on Twitter at your cinema guy, or visit Silver Screen analysis, Comm for all kinds of movie related content",0.020963646,0.7886022016958121,0.5,0.0,False
-Thanks for watching,0.018464668,0.028535206312794,0.4,0.0,False
+i hope you enjoyed this video,0.054534122,0.0020261397509217,0.25,0.0,False
+"if you did, don't forget to hit that like button",0.119228795,0.0042248374066436,0.5,0.0,False
+make sure to subscribe to the channel so you can catch all the new content as its released,0.02792408,0.8096771247883334,0.3409090909090909,0.0,False
+"you can follow me on twitter at your cinema guy, or visit silver screen analysis, comm for all kinds of movie related content",0.020963646,0.7886022016958121,0.5,0.0,False
+thanks for watching,0.018464668,0.028535206312794,0.4,0.0,False
 as always guys,0.032387726,0.0008236585172644,0.5,0.0,False
-You're all fantastic,0.044405237,0.00113196793439,0.3,0.0,False
-I'm Anthony,0.02124131,0.0002179772911413,0.5,0.0,False
-This is the Silver Screen analysis and I'll see you at the movies,0.059328925,0.0008433879357407,0.5,0.0,False
+you're all fantastic,0.044405237,0.00113196793439,0.3,0.0,False
+i'm anthony,0.02124131,0.0002179772911413,0.5,0.0,False
+this is the silver screen analysis and i'll see you at the movies,0.059328925,0.0008433879357407,0.5,0.0,False

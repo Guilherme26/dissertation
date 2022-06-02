@@ -1,61 +1,61 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello, everyone today, I'll be reviewing the Philadelphia Story",0.022945397,0.0970151935953307,0.4520547945205479,0.0,False
-"So the Philadelphia Story came out in 1940 and was directed by George Cucor, And this stars Catherine Hepburn, Cary Grant and James Stewart",0.02262963,0.0003104522911689,0.4520547945205479,0.0,False
-Right at the start of this film we see Cary Grant and Catherine Hepburn are a married couple who are actually just about to break up,0.07371333,0.007905849240648,0.3542074363992172,0.0,False
-"And then suddenly the film fast forwards two years later, where we see Catherine Hepburn is arranged to be married to another man",0.16551583,0.998491309749847,0.3904109589041095,0.0,False
+"hello, everyone today, i'll be reviewing the philadelphia story",0.022945397,0.0970151935953307,0.4520547945205479,0.0,False
+"so the philadelphia story came out in 1940 and was directed by george cucor, and this stars catherine hepburn, cary grant and james stewart",0.02262963,0.0003104522911689,0.4520547945205479,0.0,False
+right at the start of this film we see cary grant and catherine hepburn are a married couple who are actually just about to break up,0.07371333,0.007905849240648,0.3542074363992172,0.0,False
+"and then suddenly the film fast forwards two years later, where we see catherine hepburn is arranged to be married to another man",0.16551583,0.998491309749847,0.3904109589041095,0.0,False
 a rather rich man,0.064523295,0.0065098123130081,0.2465753424657534,0.0,False
-"In fact, However, Carrie Grant's character, He is very much still in love with Catherine Hepburn's character Tracy",0.021518974,0.1027556552414938,0.2438356164383561,0.0,False
-"It's very obvious, and then we're later introduced to James Stewart's character called Mike, and also this other character called Liz, And Mike and Liz are photographers, and they are arranged to go and go and see and photograph Tracy's wedding, So this film is one of those classic comedies of the 1930s 1940s, and a very innocent type of film, very light-hearted And what I really like about this film is the dialogue",0.032559406,0.0,0.3313763861709067,0.0,False
-Because the dialogue is very interesting in this film,0.024490505,0.0004547856353304,0.095890410958904,0.0,False
-"All of the characters whenever they're speaking, they are very witty and everything they're saying is very interesting And they actually do tend to talk quite quickly in this film and this film never really stops when it comes to the characters talking and everybody takes a break",0.065721996,0.0002683116038584,0.2840182648401826,0.0,False
-"Now, some people might not like that, and I think, particularly with modern audiences watching this film, it can seem that the characters talk, perhaps a bit too much, and maybe say quite a lot, and maybe maybe just talk and talk and talk and never really stop",0.080905534,0.9991841574857686,0.3881278538812785,0.042,False
+"in fact, however, carrie grant's character, he is very much still in love with catherine hepburn's character tracy",0.021518974,0.1027556552414938,0.2438356164383561,0.0,False
+"it's very obvious, and then we're later introduced to james stewart's character called mike, and also this other character called liz, and mike and liz are photographers, and they are arranged to go and go and see and photograph tracy's wedding, so this film is one of those classic comedies of the 1930s 1940s, and a very innocent type of film, very light-hearted and what i really like about this film is the dialogue",0.032559406,0.0,0.3313763861709067,0.0,False
+because the dialogue is very interesting in this film,0.024490505,0.0004547856353304,0.095890410958904,0.0,False
+"all of the characters whenever they're speaking, they are very witty and everything they're saying is very interesting and they actually do tend to talk quite quickly in this film and this film never really stops when it comes to the characters talking and everybody takes a break",0.065721996,0.0002683116038584,0.2840182648401826,0.0,False
+"now, some people might not like that, and i think, particularly with modern audiences watching this film, it can seem that the characters talk, perhaps a bit too much, and maybe say quite a lot, and maybe maybe just talk and talk and talk and never really stop",0.080905534,0.9991841574857686,0.3881278538812785,0.042,False
 and in some ways that is true,0.015826859,0.0007439291631139,0.2602739726027397,0.0,False
-"However, everything that these characters say is does come across as very intelligent on screen and very witty",0.09172598,0.0011318082616608,0.0,0.0,False
-"and just the the way these characters communicate with each other, The chemistry that I have on screen, Catherine Hepburn is particularly impressive in this films gives a fantastic performance and so does James Stewart, as well",0.021657806,7.587707913180647e-05,0.2191780821917807,0.0,False
-"In fact, James Stewart actually won the Oscar for best actor for this film, And he really gives a a very impressive and unique performance in this film",0.018742332,5.5372982335780215e-05,0.1698630136986301,0.0,False
-"We don't normally think of James Stewart as being an actor who woos the ladies, but in this film he really comes across in that way, as opposed to the sort of honest nice guy that he is in other films",0.1580154,0.000458779165811,0.2958904109589041,0.0,False
-"Although he still is a very likable character in this film, some people actually think that James Stewart won the Oscar for this film as consolation for not winning it for Mr",0.05133759,0.0148822489656309,0.3789954337899543,0.076,False
-"Smith goes to Washington, which came out the previous year, But really what the song focuses on is Catherine Hepburn",0.019575324,0.0009929883737598,0.4429223744292237,0.0,False
-"She's the main star and there's three men in this film who essentially have affection for Catherine Hepburn's character Tracy, or almost seem to fall in love with her",0.055333257,0.0013607508075723,0.3302891933028919,0.0,False
-"So I've got Cary Grant, James Stewart, and also Catherine Hepburn's future husband, or the man she is hoping to marry In this film draws kitterage",0.14328592,0.0008629900158757,0.4520547945205479,0.0,False
+"however, everything that these characters say is does come across as very intelligent on screen and very witty",0.09172598,0.0011318082616608,0.0,0.0,False
+"and just the the way these characters communicate with each other, the chemistry that i have on screen, catherine hepburn is particularly impressive in this films gives a fantastic performance and so does james stewart, as well",0.021657806,7.587707913180647e-05,0.2191780821917807,0.0,False
+"in fact, james stewart actually won the oscar for best actor for this film, and he really gives a a very impressive and unique performance in this film",0.018742332,5.5372982335780215e-05,0.1698630136986301,0.0,False
+"we don't normally think of james stewart as being an actor who woos the ladies, but in this film he really comes across in that way, as opposed to the sort of honest nice guy that he is in other films",0.1580154,0.000458779165811,0.2958904109589041,0.0,False
+"although he still is a very likable character in this film, some people actually think that james stewart won the oscar for this film as consolation for not winning it for mr",0.05133759,0.0148822489656309,0.3789954337899543,0.076,False
+"smith goes to washington, which came out the previous year, but really what the song focuses on is catherine hepburn",0.019575324,0.0009929883737598,0.4429223744292237,0.0,False
+"she's the main star and there's three men in this film who essentially have affection for catherine hepburn's character tracy, or almost seem to fall in love with her",0.055333257,0.0013607508075723,0.3302891933028919,0.0,False
+"so i've got cary grant, james stewart, and also catherine hepburn's future husband, or the man she is hoping to marry in this film draws kitterage",0.14328592,0.0008629900158757,0.4520547945205479,0.0,False
 and these three men are very different characters,0.07371333,0.16837794414839,0.4520547945205479,0.0,False
-But they all have something different to say and something different to put on screen,0.04131502,0.0186989316113865,0.4520547945205479,0.0,False
-And and all have a different input to this film,0.048525527,0.0004841708670759,0.4520547945205479,0.0,False
-This is one of those films that really doesn't take itself too seriously,0.15451296,0.0047053027826264,0.4885844748858447,0.124,False
-"There aren't really any dark or evil moments in this film, which is something I like",0.07451247,0.0007714368394842,0.6255707762557078,0.211,False
-"However, some people might find this film lacks a bit of energy, or maybe doesn't have many interesting scenes in it",0.09494796,0.9862646989488968,0.1780821917808219,0.097,False
-"But if you view this as a romantic comedy, then it really does the job extremely well",0.04783881,0.0088029034754742,0.4383561643835616,0.0,False
-"Everything about this film says romantic comedy, just the way that these characters are talking all the scenes",0.07091636,0.0005539384406217,0.4520547945205479,0.0,False
+but they all have something different to say and something different to put on screen,0.04131502,0.0186989316113865,0.4520547945205479,0.0,False
+and and all have a different input to this film,0.048525527,0.0004841708670759,0.4520547945205479,0.0,False
+this is one of those films that really doesn't take itself too seriously,0.15451296,0.0047053027826264,0.4885844748858447,0.124,False
+"there aren't really any dark or evil moments in this film, which is something i like",0.07451247,0.0007714368394842,0.6255707762557078,0.211,False
+"however, some people might find this film lacks a bit of energy, or maybe doesn't have many interesting scenes in it",0.09494796,0.9862646989488968,0.1780821917808219,0.097,False
+"but if you view this as a romantic comedy, then it really does the job extremely well",0.04783881,0.0088029034754742,0.4383561643835616,0.0,False
+"everything about this film says romantic comedy, just the way that these characters are talking all the scenes",0.07091636,0.0005539384406217,0.4520547945205479,0.0,False
 "and, although obviously this film came out in 1940, so it won't be as risque in terms of the sexual or nudity or things like that",0.2712817,0.7724397520792435,0.3150684931506849,0.0,False
-"Obviously there's none of that here, but it is often quite suggestive in quite a few scenes with the innuendos, which is very cleverly done, especially in films of this era",0.04818217,0.007064972654747,0.4497716894977169,0.0,False
-But obviously it doesn't show too much on screen,0.039254878,0.9225611226231416,0.3972602739726027,0.0,False
-There are a few scenes,0.0358213,0.23448482115689,0.5616438356164383,0.0,False
-Or perhaps it's it slightly makes reference to something which is all very cleverly done,0.023803791,0.2174743184697506,0.4383561643835616,0.0,False
-So this was the second time that I'd seen this film and I think I liked it quite a bit more this time than I did the first time,0.051737156,0.0029694879370047,0.2671232876712328,0.0,False
-And it was it was interesting how watching for a second time there were some bits I remembered in certain bits I didn't,0.049212243,0.9529686087642496,0.3215916503587736,0.0,False
-"However, this time I did spend much more time listening to the dialogue and I think the first time I watched it I found the dialogue a bit annoying",0.17518331,0.9999534485476812,0.4611872146118721,0.088,False
-This time,0.021657806,0.0053532978068067,0.4520547945205479,0.0,False
-I really appreciate it,0.026035614,0.0040899116565492,0.3424657534246575,0.0,False
-"I really appreciated all these different lines that these characters have all these different character moments, especially with James Stewart's character",0.019436494,0.0007118915118701,0.4246575342465753,0.0,False
-"But really Catherine Hepburn, Um, is the main star and we get a few scenes where she plays her character slightly different because she's a very rich, wealthy character and she tries to come across as slightly different in a few scenes, which is quite amusing, particularly with the photographers",0.035649624,0.074431480702754,0.3713158987131589,0.0,False
-When she's first meeting them,0.03839648,0.003973533025752,0.3150684931506849,0.0,False
-"She's trying to come across as something a bit different, And then we have these other",0.07011723,0.0120654390633442,0.4863013698630137,0.0,False
-"These other two characters known as Papa and Uncle Willie, and their identities get switched round, and that's a very funny scene as well",0.05093802,0.0004535935366795,0.4520547945205479,0.0,False
-"We also have a younger girl called Diner in this, and she is very good as well",0.08290337,0.0037788335135885,0.2027397260273972,0.0,False
-"Overall, I think the Philadelphia Story is a decent romantic comedy",0.031701013,0.1652482679551663,0.4216133942161339,0.0,False
-"Unfortunately, it's not going to appeal to everyone, especially with the dialogue the way the characters speak in this film",0.052136723,0.9998385302377312,0.3835616438356164,0.112,False
-I've read some other reviews,0.021102477,0.980051659595038,0.5205479452054794,0.0,False
-Some people might get slightly annoyed by a dialogue in this film and feel like their characters talk too much,0.1539292,0.995729217175638,0.5068493150684932,0.101,False
-"I can see that, but I personally don't really agree",0.022945397,0.9979845784158022,0.3424657534246575,0.249,False
-I think it's an enjoyable film,0.0334178,0.0010505667385998,0.1780821917808219,0.0,False
-"I don't necessarily think it's one of the best romantic comedies of all time, but I can certainly see why it is regarded as a classic, particularly with stars like Catherine Hepburn, Cary Grant and James Stewart all in one film together, and I personally did find the ending to be a little bit tacky, a little bit cheesy, but at the same time it was believable so I can forgive it for that, and I suppose in these type of films you want to have an ending like this If the ending was different, I, I don't know how I would end the film, otherwise, come to think of it, so overall, a very enjoyable film",0.09548495,8.285085623975727e-06,0.3854751032833224,0.0,False
-"If you like romantic comedies, Um, especially classic ones in this era, then this is probably one of the best ones to watch",0.05373499,0.0002118061278043,0.2085235920852359,0.0,False
-So I'm gonna give the Philadelphia Story a rating of eight out of ten,0.037881445,0.7849412310266324,0.4520547945205479,0.0,False
-It's an excellent romantic comedy,0.03187269,0.0009213730473051,0.1780821917808219,0.0,False
-"However, I myself, I don't always enjoy romantic comedies that much, so that's probably why I haven't rated it higher",0.09494796,0.1440452139176325,0.3356164383561643,0.199,False
-So there we go,0.028954152,0.0117000310243673,0.4520547945205479,0.0,False
-So that is my review of the Philadelphia story,0.023460433,0.845728546620147,0.4520547945205479,0.0,False
-So what do you guys think? Have you seen the Philadelphia story? Do you like it? Do you dislike it? Please let me know down in the comment section what your thoughts are anyway,0.11536485,0.2218802256761956,0.5372907153729072,0.066,False
-Thank you all very much for watching,0.0334178,0.0254417992106518,0.3095890410958904,0.0,False
-I'll see you all in the next video,0.10515087,0.0016592821122319,0.4520547945205479,0.0,False
-Take care,0.036851373,0.7617667438451201,0.4520547945205479,0.0,False
+"obviously there's none of that here, but it is often quite suggestive in quite a few scenes with the innuendos, which is very cleverly done, especially in films of this era",0.04818217,0.007064972654747,0.4497716894977169,0.0,False
+but obviously it doesn't show too much on screen,0.039254878,0.9225611226231416,0.3972602739726027,0.0,False
+there are a few scenes,0.0358213,0.23448482115689,0.5616438356164383,0.0,False
+or perhaps it's it slightly makes reference to something which is all very cleverly done,0.023803791,0.2174743184697506,0.4383561643835616,0.0,False
+so this was the second time that i'd seen this film and i think i liked it quite a bit more this time than i did the first time,0.051737156,0.0029694879370047,0.2671232876712328,0.0,False
+and it was it was interesting how watching for a second time there were some bits i remembered in certain bits i didn't,0.049212243,0.9529686087642496,0.3215916503587736,0.0,False
+"however, this time i did spend much more time listening to the dialogue and i think the first time i watched it i found the dialogue a bit annoying",0.17518331,0.9999534485476812,0.4611872146118721,0.088,False
+this time,0.021657806,0.0053532978068067,0.4520547945205479,0.0,False
+i really appreciate it,0.026035614,0.0040899116565492,0.3424657534246575,0.0,False
+"i really appreciated all these different lines that these characters have all these different character moments, especially with james stewart's character",0.019436494,0.0007118915118701,0.4246575342465753,0.0,False
+"but really catherine hepburn, um, is the main star and we get a few scenes where she plays her character slightly different because she's a very rich, wealthy character and she tries to come across as slightly different in a few scenes, which is quite amusing, particularly with the photographers",0.035649624,0.074431480702754,0.3713158987131589,0.0,False
+when she's first meeting them,0.03839648,0.003973533025752,0.3150684931506849,0.0,False
+"she's trying to come across as something a bit different, and then we have these other",0.07011723,0.0120654390633442,0.4863013698630137,0.0,False
+"these other two characters known as papa and uncle willie, and their identities get switched round, and that's a very funny scene as well",0.05093802,0.0004535935366795,0.4520547945205479,0.0,False
+"we also have a younger girl called diner in this, and she is very good as well",0.08290337,0.0037788335135885,0.2027397260273972,0.0,False
+"overall, i think the philadelphia story is a decent romantic comedy",0.031701013,0.1652482679551663,0.4216133942161339,0.0,False
+"unfortunately, it's not going to appeal to everyone, especially with the dialogue the way the characters speak in this film",0.052136723,0.9998385302377312,0.3835616438356164,0.112,False
+i've read some other reviews,0.021102477,0.980051659595038,0.5205479452054794,0.0,False
+some people might get slightly annoyed by a dialogue in this film and feel like their characters talk too much,0.1539292,0.995729217175638,0.5068493150684932,0.101,False
+"i can see that, but i personally don't really agree",0.022945397,0.9979845784158022,0.3424657534246575,0.249,False
+i think it's an enjoyable film,0.0334178,0.0010505667385998,0.1780821917808219,0.0,False
+"i don't necessarily think it's one of the best romantic comedies of all time, but i can certainly see why it is regarded as a classic, particularly with stars like catherine hepburn, cary grant and james stewart all in one film together, and i personally did find the ending to be a little bit tacky, a little bit cheesy, but at the same time it was believable so i can forgive it for that, and i suppose in these type of films you want to have an ending like this if the ending was different, i, i don't know how i would end the film, otherwise, come to think of it, so overall, a very enjoyable film",0.09548495,8.285085623975727e-06,0.3854751032833224,0.0,False
+"if you like romantic comedies, um, especially classic ones in this era, then this is probably one of the best ones to watch",0.05373499,0.0002118061278043,0.2085235920852359,0.0,False
+so i'm gonna give the philadelphia story a rating of eight out of ten,0.037881445,0.7849412310266324,0.4520547945205479,0.0,False
+it's an excellent romantic comedy,0.03187269,0.0009213730473051,0.1780821917808219,0.0,False
+"however, i myself, i don't always enjoy romantic comedies that much, so that's probably why i haven't rated it higher",0.09494796,0.1440452139176325,0.3356164383561643,0.199,False
+so there we go,0.028954152,0.0117000310243673,0.4520547945205479,0.0,False
+so that is my review of the philadelphia story,0.023460433,0.845728546620147,0.4520547945205479,0.0,False
+so what do you guys think? have you seen the philadelphia story? do you like it? do you dislike it? please let me know down in the comment section what your thoughts are anyway,0.11536485,0.2218802256761956,0.5372907153729072,0.066,False
+thank you all very much for watching,0.0334178,0.0254417992106518,0.3095890410958904,0.0,False
+i'll see you all in the next video,0.10515087,0.0016592821122319,0.4520547945205479,0.0,False
+take care,0.036851373,0.7617667438451201,0.4520547945205479,0.0,False

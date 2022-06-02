@@ -1,69 +1,69 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Inside out is Pixar's latest film and it's directed by Pete Docter, who made up as well as Monsters, Inc",0.04818217,0.0019551516197698,0.25,0.0,False
-"Two films like clearly enjoyed, and it tells the tale of a young girl named Riley who's in a very hard spot in her life",0.04783881,0.0029494172395245,0.4631944444444444,0.054,False
-She's moved from Minnesota to San Francisco,0.023803791,0.0353878807184057,0.5,0.0,False
-She has no friends,0.2835225,0.9998823666436506,0.5,0.46,False
-It's a new school and she's starting to go through that period in which she questions herself,0.035306264,0.1556355467677083,0.4659090909090909,0.0,False
-"She gets snippy with her parents, and while all of these emotions are affecting her, we go inside of her brain and see these emotions personified as actual characters",0.19716066,0.0175859334467604,0.5,0.0,False
-We get to see how joy and sadness and anger and disgust and fear all interact as actual characters inside her brain controlling Riley,0.21109697,0.0007564656323435,0.4833333333333333,0.375,False
-And that's all I'm going to say,0.029640866,0.0226852068201239,0.5,0.0,False
-I don't really want to actually let you know the plot of this movie,0.048525527,0.9999427181882686,0.45,0.1,False
-"What actually happens, The things that take place, because I think this is Pixar's best film since Toy Story 3",0.039598234,1.4722796563615831e-05,0.25,0.0,False
-"This movie reminded me of the old days of Pixar, clever, original, fresh, unique ideas that are actually very mature, surprisingly mature, and surprisingly making me cry a lot",0.07730943,1.4484370708334603e-05,0.3595833333333333,0.073,False
+"inside out is pixar's latest film and it's directed by pete docter, who made up as well as monsters, inc",0.04818217,0.0019551516197698,0.25,0.0,False
+"two films like clearly enjoyed, and it tells the tale of a young girl named riley who's in a very hard spot in her life",0.04783881,0.0029494172395245,0.4631944444444444,0.054,False
+she's moved from minnesota to san francisco,0.023803791,0.0353878807184057,0.5,0.0,False
+she has no friends,0.2835225,0.9998823666436506,0.5,0.46,False
+it's a new school and she's starting to go through that period in which she questions herself,0.035306264,0.1556355467677083,0.4659090909090909,0.0,False
+"she gets snippy with her parents, and while all of these emotions are affecting her, we go inside of her brain and see these emotions personified as actual characters",0.19716066,0.0175859334467604,0.5,0.0,False
+we get to see how joy and sadness and anger and disgust and fear all interact as actual characters inside her brain controlling riley,0.21109697,0.0007564656323435,0.4833333333333333,0.375,False
+and that's all i'm going to say,0.029640866,0.0226852068201239,0.5,0.0,False
+i don't really want to actually let you know the plot of this movie,0.048525527,0.9999427181882686,0.45,0.1,False
+"what actually happens, the things that take place, because i think this is pixar's best film since toy story 3",0.039598234,1.4722796563615831e-05,0.25,0.0,False
+"this movie reminded me of the old days of pixar, clever, original, fresh, unique ideas that are actually very mature, surprisingly mature, and surprisingly making me cry a lot",0.07730943,1.4484370708334603e-05,0.3595833333333333,0.073,False
 in all seriousness,0.02517722,0.0021035419114505,0.5,0.375,False
-"Though this film actually goes very deep, it really gets underneath the psyche of what it's like to be a kid in that strange period where you're starting to question things and you're starting to figure out that youth is just youth and that could float away some day, and those weird and awkward phases you go through in that strange period of adolescence leading into puberty, and all of the hardships that come with that, and I expected it to go in those directions",0.05373499,0.012020924968337,0.555,0.077,False
-"You know, cuz, the main characters are emotions, so I figured okay, it's gonna be emotional",0.035306264,0.8228304558511612,0.3888888888888889,0.0,False
-I may cry,0.082104236,0.1695149714747306,0.5,0.608,False
-It might be intense,0.02792408,0.2436477987571337,0.4,0.0,False
-It could be a little like boy,0.12116077,0.9946364017628254,0.59375,0.0,False
-"That's a lot for a kid's movie, but I had no idea how mature this film was going to be",0.09279997,0.0691941337225715,0.45,0.114,False
-I was so pleased to see a kid's film,0.053335425,0.0021911634132663,0.25,0.0,False
+"though this film actually goes very deep, it really gets underneath the psyche of what it's like to be a kid in that strange period where you're starting to question things and you're starting to figure out that youth is just youth and that could float away some day, and those weird and awkward phases you go through in that strange period of adolescence leading into puberty, and all of the hardships that come with that, and i expected it to go in those directions",0.05373499,0.012020924968337,0.555,0.077,False
+"you know, cuz, the main characters are emotions, so i figured okay, it's gonna be emotional",0.035306264,0.8228304558511612,0.3888888888888889,0.0,False
+i may cry,0.082104236,0.1695149714747306,0.5,0.608,False
+it might be intense,0.02792408,0.2436477987571337,0.4,0.0,False
+it could be a little like boy,0.12116077,0.9946364017628254,0.59375,0.0,False
+"that's a lot for a kid's movie, but i had no idea how mature this film was going to be",0.09279997,0.0691941337225715,0.45,0.114,False
+i was so pleased to see a kid's film,0.053335425,0.0021911634132663,0.25,0.0,False
 a family film that doesn't pander to children,0.10699297,0.0011734724532303,0.5,0.0,False
-"There's no useless pooping, farting, burping jokes to make kids laugh, and to be like, Yeah, kids aren't gonna really like this movie unless we do something stupid every two minutes",0.7007861,0.9996328539860988,0.50625,0.135,False
-It's nothing like that,0.038911518,0.9306212054525131,0.5,0.413,False
-"This is a film that actually respects kids minds, and as the scroll experiences things throughout this movie, it gets really emotionally complex",0.040284947,0.0001717560254982,0.575,0.0,False
-"and the way the filmmakers chose to express these emotions and these thoughts and things within her memory, it's so clever that I don't even want to spoil it for you",0.101391904,1.7107055116428115e-05,0.4166666666666667,0.036,False
-I don't want to talk about it at all,0.08447654,0.9999809259315776,0.5,0.133,False
-I want you to just see it and be like that's awesome,0.12116077,0.0021779903847621,0.0,0.0,False
-"I'm so glad Chris didn't tell me that, because now I can just watch this movie and experience it without knowing too much, because it really benefits from it, not knowing, because I barely watched a single trailer for this movie and I'm so glad I didn't because I didn't really know what this movie was even about",0.111500904,0.0020910841605121,0.3872448979591837,0.0,False
-and it made the film so much better than if I would have watched the trailers,0.1580154,0.0008645321512497,0.25,0.0,False
-I can also tell it's a kind of movie worth,0.0471521,0.0005767819471572,0.275,0.0,False
-I was like six or seven years old Right now,0.036851373,0.9982318636604663,0.4035714285714286,0.0,False
-I would be really entertained by inside out,0.08501353,0.002297084099475,0.4,0.0,False
-I would think it's a lot of fun,0.040284947,0.0022859078875087,0.35,0.0,False
-"but then as I grow up and get older, I would start to recognize the more deeper elements of the film",0.031185975,0.0053248540356913,0.3333333333333333,0.0,False
-It would grow on me in a different way,0.045778666,0.202246937181463,0.5,0.0,False
-It wouldn't just be a fun experience,0.026722329,0.979772159060564,0.35,0.0,False
-"It would actually have a deep impact on me, And that's why Inside out is so special",0.0753116,0.0015169547009949,0.4404761904761904,0.0,False
-"It's a movie that adults can enjoy as well as kids, but a lot of people say that, Oh, adults and kids can have fun",0.08050597,0.8948488630424665,0.325,0.0,False
-"Please quote me in the trailer and on the blu-ray cover, but I really mean",0.035306264,0.9229078310018464,0.65625,0.0,False
+"there's no useless pooping, farting, burping jokes to make kids laugh, and to be like, yeah, kids aren't gonna really like this movie unless we do something stupid every two minutes",0.7007861,0.9996328539860988,0.50625,0.135,True
+it's nothing like that,0.038911518,0.9306212054525131,0.5,0.413,False
+"this is a film that actually respects kids minds, and as the scroll experiences things throughout this movie, it gets really emotionally complex",0.040284947,0.0001717560254982,0.575,0.0,False
+"and the way the filmmakers chose to express these emotions and these thoughts and things within her memory, it's so clever that i don't even want to spoil it for you",0.101391904,1.7107055116428115e-05,0.4166666666666667,0.036,False
+i don't want to talk about it at all,0.08447654,0.9999809259315776,0.5,0.133,False
+i want you to just see it and be like that's awesome,0.12116077,0.0021779903847621,0.0,0.0,False
+"i'm so glad chris didn't tell me that, because now i can just watch this movie and experience it without knowing too much, because it really benefits from it, not knowing, because i barely watched a single trailer for this movie and i'm so glad i didn't because i didn't really know what this movie was even about",0.111500904,0.0020910841605121,0.3872448979591837,0.0,False
+and it made the film so much better than if i would have watched the trailers,0.1580154,0.0008645321512497,0.25,0.0,False
+i can also tell it's a kind of movie worth,0.0471521,0.0005767819471572,0.275,0.0,False
+i was like six or seven years old right now,0.036851373,0.9982318636604663,0.4035714285714286,0.0,False
+i would be really entertained by inside out,0.08501353,0.002297084099475,0.4,0.0,False
+i would think it's a lot of fun,0.040284947,0.0022859078875087,0.35,0.0,False
+"but then as i grow up and get older, i would start to recognize the more deeper elements of the film",0.031185975,0.0053248540356913,0.3333333333333333,0.0,False
+it would grow on me in a different way,0.045778666,0.202246937181463,0.5,0.0,False
+it wouldn't just be a fun experience,0.026722329,0.979772159060564,0.35,0.0,False
+"it would actually have a deep impact on me, and that's why inside out is so special",0.0753116,0.0015169547009949,0.4404761904761904,0.0,False
+"it's a movie that adults can enjoy as well as kids, but a lot of people say that, oh, adults and kids can have fun",0.08050597,0.8948488630424665,0.325,0.0,False
+"please quote me in the trailer and on the blu-ray cover, but i really mean",0.035306264,0.9229078310018464,0.65625,0.0,False
 this movie is actually in some ways more aimed at adults than kids,0.11665283,0.9996622697759942,0.375,0.0,False
-"Kids can find a lot of enjoyment in this movie, But it also reminded me in a way of Toy Story, Like when I first saw Toy Story, I was like Oh Buzz Light beer",0.06372416,0.0018414224868007,0.3375,0.0,False
-That's funny,0.045091953,0.0002582152012695,0.375,0.0,False
-I don't know what that means,0.019575324,0.972218053081225,0.5,0.0,False
-"But then when I was like 15, I was like a ho, Buzz Light beer",0.15976663,0.9007510354834894,0.3,0.0,False
-I get it,0.03444787,0.004140413993118,0.5,0.0,False
-"Now it's a movie that kids as they grow older will continue to find things to appreciate, And it's not at all a movie just for kids",0.04165838,0.0007649595534379,0.4166666666666667,0.0,False
-If you're 45,0.015202113,0.0643289647358623,0.5,0.0,False
-"If you're 88, you'll probably really enjoy this film",0.16827796,0.0012912548257393,0.3,0.0,False
-I was shocked how good it was Now,0.043031808,0.0021985546147801,0.5,0.205,False
-this is a Pixar movie,0.058929358,0.0002030792222357,0.5,0.0,False
-"So you know, technically it's going to be gorgeous",0.024662184,0.00031376842555,0.325,0.0,False
-"The animation is beautiful, lush and breathtaking",0.065721996,6.172249328592791e-05,0.175,0.0,False
-"The 3d also, of course, looks great for an animated film",0.043031808,0.0009278342158268,0.0999999999999999,0.0,False
-"The depth of field is amazing, and as it stands out, everything looks really good, And of course those are the things you expect going to a Pixar movie",0.038911518,0.0,0.175,0.0,False
-"You expect state of the art technology, and where I used to expect back in the Finding Nemo and up days with some truly heartfelt emotion that really got you right here in the fields",0.025520578,0.0002231666005432,0.4392857142857143,0.0,False
-"And we haven't had that for a while, and inside out has reminded me what Pixar used to be and can still be",0.031529333,7.748840296639912e-07,0.5,0.0,False
-"And is, I really hope they continue to make movies like this, because Inside out is one of the best family films I've seen so far This year",0.05413456,0.000461711668752,0.2833333333333333,0.0,False
-"Two issues, I would say, the first 10 to 15 minutes were a little slow after the main plot, which I still don't want to divulge, because I think it's so interesting and so different and so much fun",0.06332459,0.98555127395703,0.4479166666666667,0.028,False
-"As soon as that main plot kicks in, the movie was non-stop fun",0.10300289,0.0115835923432874,0.3833333333333333,0.0,False
-"And yeah, I cried twice",0.047495455,0.927323000989944,0.5,0.333,False
-I'm gonna give inside out An A,0.31089294,0.9740887125385296,0.5,0.0,False
-I strongly recommend checking this movie out,0.049212243,0.0003075693533127,0.2833333333333333,0.0,False
-"It's by far Pixar's best movie in years, and don't get up right when the credits start",0.034962907,0.0001201070245979,0.2690476190476191,0.0,False
-"There's some cool stuff throughout there you can enjoy as well, guys",0.064523295,0.0040449542413098,0.3125,0.0,False
+"kids can find a lot of enjoyment in this movie, but it also reminded me in a way of toy story, like when i first saw toy story, i was like oh buzz light beer",0.06372416,0.0018414224868007,0.3375,0.0,False
+that's funny,0.045091953,0.0002582152012695,0.375,0.0,False
+i don't know what that means,0.019575324,0.972218053081225,0.5,0.0,False
+"but then when i was like 15, i was like a ho, buzz light beer",0.15976663,0.9007510354834894,0.3,0.0,True
+i get it,0.03444787,0.004140413993118,0.5,0.0,False
+"now it's a movie that kids as they grow older will continue to find things to appreciate, and it's not at all a movie just for kids",0.04165838,0.0007649595534379,0.4166666666666667,0.0,False
+if you're 45,0.015202113,0.0643289647358623,0.5,0.0,False
+"if you're 88, you'll probably really enjoy this film",0.16827796,0.0012912548257393,0.3,0.0,False
+i was shocked how good it was now,0.043031808,0.0021985546147801,0.5,0.205,False
+this is a pixar movie,0.058929358,0.0002030792222357,0.5,0.0,False
+"so you know, technically it's going to be gorgeous",0.024662184,0.00031376842555,0.325,0.0,False
+"the animation is beautiful, lush and breathtaking",0.065721996,6.172249328592791e-05,0.175,0.0,False
+"the 3d also, of course, looks great for an animated film",0.043031808,0.0009278342158268,0.0999999999999999,0.0,False
+"the depth of field is amazing, and as it stands out, everything looks really good, and of course those are the things you expect going to a pixar movie",0.038911518,0.0,0.175,0.0,False
+"you expect state of the art technology, and where i used to expect back in the finding nemo and up days with some truly heartfelt emotion that really got you right here in the fields",0.025520578,0.0002231666005432,0.4392857142857143,0.0,False
+"and we haven't had that for a while, and inside out has reminded me what pixar used to be and can still be",0.031529333,7.748840296639912e-07,0.5,0.0,False
+"and is, i really hope they continue to make movies like this, because inside out is one of the best family films i've seen so far this year",0.05413456,0.000461711668752,0.2833333333333333,0.0,False
+"two issues, i would say, the first 10 to 15 minutes were a little slow after the main plot, which i still don't want to divulge, because i think it's so interesting and so different and so much fun",0.06332459,0.98555127395703,0.4479166666666667,0.028,False
+"as soon as that main plot kicks in, the movie was non-stop fun",0.10300289,0.0115835923432874,0.3833333333333333,0.0,False
+"and yeah, i cried twice",0.047495455,0.927323000989944,0.5,0.333,False
+i'm gonna give inside out an a,0.31089294,0.9740887125385296,0.5,0.0,False
+i strongly recommend checking this movie out,0.049212243,0.0003075693533127,0.2833333333333333,0.0,False
+"it's by far pixar's best movie in years, and don't get up right when the credits start",0.034962907,0.0001201070245979,0.2690476190476191,0.0,False
+"there's some cool stuff throughout there you can enjoy as well, guys",0.064523295,0.0040449542413098,0.3125,0.0,False
 thank you so much as always for watching,0.0224908,0.0164208058984649,0.4,0.0,False
-"If you've already seen inside out, I'd like to know what you thought of it",0.034104515,0.9679122907574694,0.5,0.0,False
+"if you've already seen inside out, i'd like to know what you thought of it",0.034104515,0.9679122907574694,0.5,0.0,False
 "and if you're gonna see it, let me know",0.06372416,0.0156336429372539,0.5,0.0,False
-Start a discussion about the movie,0.030327583,0.0029093020893734,0.5,0.0,False
-"What do you think of Pixar movies in general? What's your favorite one? Let me know below, guys, and thank you so much as always for watching, And if you like this, you can click right here and get Steppen eyes",0.07251463,0.0029388072889645,0.3705357142857143,0.0,False
+start a discussion about the movie,0.030327583,0.0029093020893734,0.5,0.0,False
+"what do you think of pixar movies in general? what's your favorite one? let me know below, guys, and thank you so much as always for watching, and if you like this, you can click right here and get steppen eyes",0.07251463,0.0029388072889645,0.3705357142857143,0.0,False

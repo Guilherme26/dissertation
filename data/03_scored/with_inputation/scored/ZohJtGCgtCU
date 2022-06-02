@@ -1,38 +1,38 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello, everyone, look to the Freestyle",0.040628307,0.0013107499677379,0.5,0.0,False
-I'm Scott this week,0.038911518,0.0017184295677535,0.5,0.0,False
-We wouldn't saw history itself,0.023803791,0.999795996281738,0.5,0.0,False
-"Of course, talking about Salma, One dream can change the world",0.06332459,0.0103783203505108,0.5,0.0,False
-"Taglines Selma, directed by Ava Davern, Be starring David O Yellow, Wendell Pierce and Tim Roth, And basically, it's the story of Martin Luther King as he tried to go to Selma to fight for equal Rights And Add, chronicles his campaign to secure equal voting rights and the march that took place from Selma to Montgomery, Alabama in 1965",0.020130653,0.1581545010015405,0.45,0.041,False
-"This program I, trying to talk about things that I liked and didn't like about the movie And I'm just going to go right off and say there was nothing I didn't like about this movie",0.10031791,0.9999862904732796,0.2785714285714286,0.053,False
-"As far as likes, I mean, it's very powerful, was very emotional",0.05413456,0.0020742811961025,0.4778125,0.0,False
-The message is something that you can immediately get behind,0.1334155,0.0029351798675004,0.7,0.0,False
-The acting is perfect,0.2008281,0.0002494835829907,0.25,0.0,False
-The cinematographer work is perfect,0.019575324,0.0,0.0,0.0,False
-"It's honestly, maybe one of the best movies I've seen in a long time",0.04818217,0.0003142461950847,0.2416666666666666,0.0,False
-It's very powerfully,0.038911518,0.0002994935522009,0.305,0.0,False
-It moved me honestly like it's very good,0.038224805,0.0021350799667752,0.1225,0.0,False
-"I would say that I wish I had more to say, but there's not much to say about it",0.034104515,0.902730073426437,0.4,0.0,False
-"It's It's good, and this is the part where I would usually try and break this thing",0.090114996,0.0139781738373948,0.3875,0.0,False
-Usually doing a 1 through 5,0.037023053,0.1757562815710283,0.625,0.0,False
-I'm not going to rate this movie,0.10956893,0.9999970196681044,0.5,0.0,False
-It can't really be rated,0.10828095,0.999974965212076,0.4,0.0,False
-It's not something that was just some story,0.020130653,0.9997245875295164,0.5,0.0,False
-"They came from some humans mind, I mean, this was history",0.046122026,0.961715103517358,0.65625,0.0,False
-It was made by all humans and it it deserves to be heard,0.03358948,0.0061628793105657,0.5,0.0,False
-It demands to be seen,0.027065687,0.9711783427626068,0.5,0.0,False
-This is something that I think everyone should go out and see,0.10763696,0.0003193723659454,0.5,0.0,False
-See,0.019714156,0.1385642727945469,0.5,0.0,False
+"hello, everyone, look to the freestyle",0.040628307,0.0013107499677379,0.5,0.0,False
+i'm scott this week,0.038911518,0.0017184295677535,0.5,0.0,False
+we wouldn't saw history itself,0.023803791,0.999795996281738,0.5,0.0,False
+"of course, talking about salma, one dream can change the world",0.06332459,0.0103783203505108,0.5,0.0,False
+"taglines selma, directed by ava davern, be starring david o yellow, wendell pierce and tim roth, and basically, it's the story of martin luther king as he tried to go to selma to fight for equal rights and add, chronicles his campaign to secure equal voting rights and the march that took place from selma to montgomery, alabama in 1965",0.020130653,0.1581545010015405,0.45,0.041,False
+"this program i, trying to talk about things that i liked and didn't like about the movie and i'm just going to go right off and say there was nothing i didn't like about this movie",0.10031791,0.9999862904732796,0.2785714285714286,0.053,False
+"as far as likes, i mean, it's very powerful, was very emotional",0.05413456,0.0020742811961025,0.4778125,0.0,False
+the message is something that you can immediately get behind,0.1334155,0.0029351798675004,0.7,0.0,False
+the acting is perfect,0.2008281,0.0002494835829907,0.25,0.0,False
+the cinematographer work is perfect,0.019575324,0.0,0.0,0.0,False
+"it's honestly, maybe one of the best movies i've seen in a long time",0.04818217,0.0003142461950847,0.2416666666666666,0.0,False
+it's very powerfully,0.038911518,0.0002994935522009,0.305,0.0,False
+it moved me honestly like it's very good,0.038224805,0.0021350799667752,0.1225,0.0,False
+"i would say that i wish i had more to say, but there's not much to say about it",0.034104515,0.902730073426437,0.4,0.0,False
+"it's it's good, and this is the part where i would usually try and break this thing",0.090114996,0.0139781738373948,0.3875,0.0,False
+usually doing a 1 through 5,0.037023053,0.1757562815710283,0.625,0.0,False
+i'm not going to rate this movie,0.10956893,0.9999970196681044,0.5,0.0,False
+it can't really be rated,0.10828095,0.999974965212076,0.4,0.0,False
+it's not something that was just some story,0.020130653,0.9997245875295164,0.5,0.0,False
+"they came from some humans mind, i mean, this was history",0.046122026,0.961715103517358,0.65625,0.0,False
+it was made by all humans and it it deserves to be heard,0.03358948,0.0061628793105657,0.5,0.0,False
+it demands to be seen,0.027065687,0.9711783427626068,0.5,0.0,False
+this is something that i think everyone should go out and see,0.10763696,0.0003193723659454,0.5,0.0,False
+see,0.019714156,0.1385642727945469,0.5,0.0,False
 "however you can see it, you should see it",0.0334178,0.1632989711000196,0.5,0.0,False
-I was never taught any of this in school,0.07970683,0.9993344918876856,0.5,0.0,False
-The first time I ever heard the name Selma was what I saw,0.04268845,0.0931765003214288,0.375,0.0,False
-The trailer had no idea about any of this and I think a lot of people are going same boat as me and it's gonna,0.058130227,0.9978411667880158,0.5,0.084,False
-"It's gonna give you something to think about, though it",0.0669207,0.1863525237897542,0.5,0.0,False
-"definitely it's I give you something to think about, and the whole broad scope of everything",0.0495556,2.39618684415934e-05,0.45625,0.0,False
-"It's It's very powerful, very good",0.037881445,0.0010910697037043,0.175,0.0,False
+i was never taught any of this in school,0.07970683,0.9993344918876856,0.5,0.0,False
+the first time i ever heard the name selma was what i saw,0.04268845,0.0931765003214288,0.375,0.0,False
+the trailer had no idea about any of this and i think a lot of people are going same boat as me and it's gonna,0.058130227,0.9978411667880158,0.5,0.084,False
+"it's gonna give you something to think about, though it",0.0669207,0.1863525237897542,0.5,0.0,False
+"definitely it's i give you something to think about, and the whole broad scope of everything",0.0495556,2.39618684415934e-05,0.45625,0.0,False
+"it's it's very powerful, very good",0.037881445,0.0010910697037043,0.175,0.0,False
 but that's going to do it for our review this week,0.017909339,0.1748646556777855,0.5,0.0,False
-"Um, you know all the normal stuff",0.06612156,0.9866136604704572,0.425,0.0,False
-"I say, click stuff type stuff",0.048868883,0.9515921082003534,0.5,0.0,False
-"That kind of stuff next week groans The American Sniper, which also seems to be another great",0.14956708,0.9999376514567416,0.325,0.0,False
-We got all these great movies lined up,0.068918526,0.0027235763029042,0.0999999999999999,0.0,False
-"It's been a really good start to the New Year so far, and I hope to see you next weekend and have a good weekend",0.029469188,0.001402573993445,0.3363636363636363,0.0,False
+"um, you know all the normal stuff",0.06612156,0.9866136604704572,0.425,0.0,False
+"i say, click stuff type stuff",0.048868883,0.9515921082003534,0.5,0.0,False
+"that kind of stuff next week groans the american sniper, which also seems to be another great",0.14956708,0.9999376514567416,0.325,0.0,False
+we got all these great movies lined up,0.068918526,0.0027235763029042,0.0999999999999999,0.0,False
+"it's been a really good start to the new year so far, and i hope to see you next weekend and have a good weekend",0.029469188,0.001402573993445,0.3363636363636363,0.0,False

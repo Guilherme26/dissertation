@@ -1,65 +1,65 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-Citizen Kane came out in 1941 and has become one of the most talked-about and widely referenced films of all time,0.01999182,4.303492289953813e-05,0.3333333333333333,0.0,False
-It's so popular and so influential that it's essentially become a phrase,0.043718524,0.0004899245827877,0.2777777777777778,0.0,False
-"Well, you know, that movie was pretty good, but it wasn't Citizen Kane or anything",0.076110736,0.9993771261159278,0.1805555555555555,0.0,False
-"Or you know, I wasn't expecting it to be Citizen Kane",0.02655065,0.0607868882007539,0.4444444444444445,0.0,False
-"It was alright, or that film is the Citizen Kane of crime dramas",0.15451296,0.9988877975847036,0.4444444444444445,0.212,False
-It's so well known that it's become a part of our pop culture,0.044748597,0.0003695519694974,0.4444444444444445,0.0,False
-It's become a part of the way we speak,0.019436494,0.0014974305409191,0.4444444444444445,0.0,False
-Morrison Welles directed the film,0.028267438,0.0490018460909031,0.4444444444444445,0.0,False
-He stars in it,0.04680874,0.0001662983862738,0.4444444444444445,0.0,False
-He took part in the screenplay and the producing,0.043375164,0.0011097884064632,0.4444444444444445,0.0,False
-The production of the film was historic at the time because he was mostly known for his theater work and that's where he felt most comfortable and that's where he really wanted to maintain himself,0.022945397,0.0005083723786844,0.2666666666666667,0.0,False
-"But Hollywood kept trying to court him and get him to make films for them, and he took part in a very controversial contract that essentially gave him complete creative control",0.07571117,0.8889874824403209,0.2618055555555555,0.074,False
-Final cut,0.09763293,0.1159597157358566,0.4444444444444445,0.677,False
-"Everything, They couldn't have people on set",0.052136723,0.9792511470416292,0.4444444444444445,0.0,False
-"Despite the fact that Rko Pictures would sometimes try to get people on set to see what they were doing, he had so much control",0.062125895,0.1605408559968032,0.3333333333333333,0.0,False
+citizen kane came out in 1941 and has become one of the most talked-about and widely referenced films of all time,0.01999182,4.303492289953813e-05,0.3333333333333333,0.0,False
+it's so popular and so influential that it's essentially become a phrase,0.043718524,0.0004899245827877,0.2777777777777778,0.0,False
+"well, you know, that movie was pretty good, but it wasn't citizen kane or anything",0.076110736,0.9993771261159278,0.1805555555555555,0.0,False
+"or you know, i wasn't expecting it to be citizen kane",0.02655065,0.0607868882007539,0.4444444444444445,0.0,False
+"it was alright, or that film is the citizen kane of crime dramas",0.15451296,0.9988877975847036,0.4444444444444445,0.212,False
+it's so well known that it's become a part of our pop culture,0.044748597,0.0003695519694974,0.4444444444444445,0.0,False
+it's become a part of the way we speak,0.019436494,0.0014974305409191,0.4444444444444445,0.0,False
+morrison welles directed the film,0.028267438,0.0490018460909031,0.4444444444444445,0.0,False
+he stars in it,0.04680874,0.0001662983862738,0.4444444444444445,0.0,False
+he took part in the screenplay and the producing,0.043375164,0.0011097884064632,0.4444444444444445,0.0,False
+the production of the film was historic at the time because he was mostly known for his theater work and that's where he felt most comfortable and that's where he really wanted to maintain himself,0.022945397,0.0005083723786844,0.2666666666666667,0.0,False
+"but hollywood kept trying to court him and get him to make films for them, and he took part in a very controversial contract that essentially gave him complete creative control",0.07571117,0.8889874824403209,0.2618055555555555,0.074,False
+final cut,0.09763293,0.1159597157358566,0.4444444444444445,0.677,False
+"everything, they couldn't have people on set",0.052136723,0.9792511470416292,0.4444444444444445,0.0,False
+"despite the fact that rko pictures would sometimes try to get people on set to see what they were doing, he had so much control",0.062125895,0.1605408559968032,0.3333333333333333,0.0,False
 "something that was unprecedented at the time, especially for someone as young as he was",0.02637897,0.0051813272304011,0.3148148148148149,0.0,False
-This film in every way could have been a complete financial and critical disaster,0.2712817,0.99898081143122,0.4259259259259259,0.348,False
+this film in every way could have been a complete financial and critical disaster,0.2712817,0.99898081143122,0.4259259259259259,0.348,False
 and yet it has endured as a classic of our times,0.04680874,0.0057233467198567,0.3518518518518519,0.0,False
-"For some, though Citizen Kane can be a very daunting film to watch or talk about",0.104076885,0.0089104046284119,0.3333333333333333,0.0,False
-"In fact, for me sitting here, it's rather imposing just to just make a review of it",0.043375164,0.9979120313723396,0.4444444444444445,0.08,False
-"Because so many other people have analyzed this film from back to front for decades, There's really nothing new that I can say about the movie",0.035477944,0.8314958057043565,0.3654040404040404,0.0,False
-"I can simply tell you my experience with it and how I've come to really love the film Because when I was younger and I saw it for the first time, I just really didn't get it",0.039254878,0.9995355566215608,0.3388888888888889,0.0,False
-It didn't really mesh with me,0.06771983,0.9999939798792066,0.3333333333333333,0.0,False
-You hear so much about this film and so many people hype it up endlessly,0.17449278,0.9888717769107744,0.3379629629629629,0.0,False
-It's constantly on lists as one of the best films of time or the best film ever made,0.040971663,0.0001562251148472,0.0740740740740741,0.0,False
-Many well-known critics have named it their favorite film,0.026894007,0.0001159022265625,0.1666666666666666,0.18,False
-"And so you sit down, expecting to be transported away to a world in which you are so blown away that you can no longer speak and you're so hyped and you're so ready, and it's just a really technically well-made film that's masterfully directed and so impressive for what Orson Welles had going for him at the time in regards to what he had done before or what he had not done before on a technical level, Cinematography",0.077709,0.0,0.2551440329218107,0.026,False
-"music, This being Bernard Herrmann's first film score acting story structure, It's unprecedented for its time, and easily my favorite film of the 1940s",0.045091953,1.1026953928552014e-05,0.2569444444444445,0.0,False
-"It's such an incredibly well made movie, but I can totally understand how anyone would watch this and say, I mean it's good, but like why is everyone say this is the best movie ever made? It's kind of boring like I can totally see people thinking that, because it does not follow common story structure, it's not like a enthralling story, So to speak, it's not like you sit and watch like 12 Angry Men, and you get so invested in these characters, despite the fact that it is an excellent character study, and you can look at its story and its depiction of that excess and see it so many times today, a thousand times over, in various celebrities, As I was watching the film most recently a couple days ago",0.2088965,0.9946584541092748,0.3372395833333333,0.082,False
-"To prepare for this review, I thought a lot about Michael Jackson and his Neverland Ranch, filled with animals, his pet chimpanzee, All of the money and random things he would buy",0.28517663,0.999832688326068,0.4722222222222222,0.0,False
+"for some, though citizen kane can be a very daunting film to watch or talk about",0.104076885,0.0089104046284119,0.3333333333333333,0.0,False
+"in fact, for me sitting here, it's rather imposing just to just make a review of it",0.043375164,0.9979120313723396,0.4444444444444445,0.08,False
+"because so many other people have analyzed this film from back to front for decades, there's really nothing new that i can say about the movie",0.035477944,0.8314958057043565,0.3654040404040404,0.0,False
+"i can simply tell you my experience with it and how i've come to really love the film because when i was younger and i saw it for the first time, i just really didn't get it",0.039254878,0.9995355566215608,0.3388888888888889,0.0,False
+it didn't really mesh with me,0.06771983,0.9999939798792066,0.3333333333333333,0.0,False
+you hear so much about this film and so many people hype it up endlessly,0.17449278,0.9888717769107744,0.3379629629629629,0.0,False
+it's constantly on lists as one of the best films of time or the best film ever made,0.040971663,0.0001562251148472,0.0740740740740741,0.0,False
+many well-known critics have named it their favorite film,0.026894007,0.0001159022265625,0.1666666666666666,0.18,False
+"and so you sit down, expecting to be transported away to a world in which you are so blown away that you can no longer speak and you're so hyped and you're so ready, and it's just a really technically well-made film that's masterfully directed and so impressive for what orson welles had going for him at the time in regards to what he had done before or what he had not done before on a technical level, cinematography",0.077709,0.0,0.2551440329218107,0.026,False
+"music, this being bernard herrmann's first film score acting story structure, it's unprecedented for its time, and easily my favorite film of the 1940s",0.045091953,1.1026953928552014e-05,0.2569444444444445,0.0,False
+"it's such an incredibly well made movie, but i can totally understand how anyone would watch this and say, i mean it's good, but like why is everyone say this is the best movie ever made? it's kind of boring like i can totally see people thinking that, because it does not follow common story structure, it's not like a enthralling story, so to speak, it's not like you sit and watch like 12 angry men, and you get so invested in these characters, despite the fact that it is an excellent character study, and you can look at its story and its depiction of that excess and see it so many times today, a thousand times over, in various celebrities, as i was watching the film most recently a couple days ago",0.2088965,0.9946584541092748,0.3372395833333333,0.082,False
+"to prepare for this review, i thought a lot about michael jackson and his neverland ranch, filled with animals, his pet chimpanzee, all of the money and random things he would buy",0.28517663,0.999832688326068,0.4722222222222222,0.0,False
 he would buy statues,0.045778666,0.8341673386154628,0.4444444444444445,0.0,False
-"He essentially was a modern-day Citizen Kane, but it's understandable that anyone might watch this film and just not appreciate it because it's been hyped so much and it's very dangerous for a film to to gain such notoriety because you watch it expecting to be transported to another planet or something, and it's just a really damn great movie that was far ahead of its time in regards to what it was trying to do, Orson Welles later said, one of my favorite quotes about filmmaking ever when someone asked him how he was so audacious enough to make a film like this At that point in his life, he said, ignorant, sheer ignorance",0.20669603,0.0007188977909852,0.3929292929292929,0.121,True
-"You know, there's no confidence to equal it",0.03994159,0.9983670571360724,0.4444444444444445,0.278,False
-It's only when you know something about a profession,0.028267438,0.0117702600310709,0.4444444444444445,0.0,False
-"I think that you're timid or careful, which is so true",0.16413476,0.0009226282154597,0.375,0.131,False
-"When I was a kid making short films, we didn't think about the meaning",0.09709594,0.9998020810782716,0.4444444444444445,0.0,False
-We didn't wonder what people might think of what we were making because we just wanted to make it and we didn't care as much about like a response to it,0.07211506,0.9999471302262992,0.3333333333333333,0.077,False
-We weren't psychoanalyzing every little thing to make sure that what we were doing wouldn't potentially be awful,0.0729142,0.9998743821329492,0.5717592592592593,0.0,False
-"We just really wanted to get our vision out there even if it was really amateur and bad, Orson Welles",0.1414913,0.0013636169648672,0.5833333333333334,0.158,False
-"though, coming from that theater background, knew how to tell a story and knew how to put something together, and he knew how to make something different that Hollywood hadn't seen at the time",0.024662184,0.0083827499816416,0.4444444444444445,0.0,False
-"I mean just the fact that the film allows the audience to become a part of the narrative, like early on with the news on the March sequence, where we're learning about the life of Charles Foster Kane",0.019158829,0.0008527709721934,0.5034722222222222,0.0,False
-"We're hearing about his background, How he was raised, his Millions, his various relationships",0.019297661,0.0010277717112974,0.4444444444444445,0.0,False
-This was a very unorthodox approach to storytelling and story structure people,0.076110736,0.9991033596327178,0.3333333333333333,0.0,False
-I think at first were kind of confused by the movie and it took a long time for the world to realize how influential the movie actually was Now,0.029812546,0.9500923045451556,0.4,0.08,False
-"Yes, there's a major plot hole in the film that has been discussed a lot",0.06612156,0.9504579523769106,0.4097222222222222,0.0,False
-"The fact that the film opens with Charles Foster Kane dying and saying the word rosebud, and then starts the entire basic story of the movie, This reporter, who's attempting to figure out what Rosebud means, And so he's visiting all these figures that were integral to Kane's life, trying to figure out if he can get a great story to publish about what Rosebud means, the plot hole being that he died alone and no one was around, And so we're kind of left to believe that perhaps hit one of his maids or Butler's may have heard him say this, And there's elements to the movie that you can say",0.13969667,0.946890077124304,0.2888888888888889,0.065,False
-"Well, that's not good",0.076110736,0.9983166013712048,0.638888888888889,0.37,False
-That's not good,0.0825038,0.9998791505454588,0.638888888888889,0.546,False
-There's too much exposition for instance,0.036851373,0.9974702975584774,0.3333333333333333,0.0,False
-"Or maybe some of the performances are a little hammy at times, but you just cannot deny the fact that this movie was leaps and bounds ahead of every other film in its time",0.13386416,0.0001647486522082,0.53125,0.0,False
-This movie does not feel like a movie that was released in 1941,0.0717155,0.9995565674391812,0.4444444444444445,0.15,False
-"It feels like a film that could have been made today if you strip away the obvious technical stuff, the black and white and some of the sound and things that obviously identify the time period, the filmmaking, The precise cinematography, use of cross dissolves, the way everything flows so smoothly, the way he moves in the camera in someone when they're having an angry moment or pulls back when there's a softer moment on display, Orson Welles was ahead of his time",0.04818217,4.3630974463243645e-05,0.4175084175084175,0.038,False
-He was a perfectionist,0.049898956,0.0012579072200441,0.4444444444444445,0.0,False
+"he essentially was a modern-day citizen kane, but it's understandable that anyone might watch this film and just not appreciate it because it's been hyped so much and it's very dangerous for a film to to gain such notoriety because you watch it expecting to be transported to another planet or something, and it's just a really damn great movie that was far ahead of its time in regards to what it was trying to do, orson welles later said, one of my favorite quotes about filmmaking ever when someone asked him how he was so audacious enough to make a film like this at that point in his life, he said, ignorant, sheer ignorance",0.20669603,0.0007188977909852,0.3929292929292929,0.121,True
+"you know, there's no confidence to equal it",0.03994159,0.9983670571360724,0.4444444444444445,0.278,False
+it's only when you know something about a profession,0.028267438,0.0117702600310709,0.4444444444444445,0.0,False
+"i think that you're timid or careful, which is so true",0.16413476,0.0009226282154597,0.375,0.131,False
+"when i was a kid making short films, we didn't think about the meaning",0.09709594,0.9998020810782716,0.4444444444444445,0.0,False
+we didn't wonder what people might think of what we were making because we just wanted to make it and we didn't care as much about like a response to it,0.07211506,0.9999471302262992,0.3333333333333333,0.077,False
+we weren't psychoanalyzing every little thing to make sure that what we were doing wouldn't potentially be awful,0.0729142,0.9998743821329492,0.5717592592592593,0.0,False
+"we just really wanted to get our vision out there even if it was really amateur and bad, orson welles",0.1414913,0.0013636169648672,0.5833333333333334,0.158,False
+"though, coming from that theater background, knew how to tell a story and knew how to put something together, and he knew how to make something different that hollywood hadn't seen at the time",0.024662184,0.0083827499816416,0.4444444444444445,0.0,False
+"i mean just the fact that the film allows the audience to become a part of the narrative, like early on with the news on the march sequence, where we're learning about the life of charles foster kane",0.019158829,0.0008527709721934,0.5034722222222222,0.0,False
+"we're hearing about his background, how he was raised, his millions, his various relationships",0.019297661,0.0010277717112974,0.4444444444444445,0.0,False
+this was a very unorthodox approach to storytelling and story structure people,0.076110736,0.9991033596327178,0.3333333333333333,0.0,False
+i think at first were kind of confused by the movie and it took a long time for the world to realize how influential the movie actually was now,0.029812546,0.9500923045451556,0.4,0.08,False
+"yes, there's a major plot hole in the film that has been discussed a lot",0.06612156,0.9504579523769106,0.4097222222222222,0.0,False
+"the fact that the film opens with charles foster kane dying and saying the word rosebud, and then starts the entire basic story of the movie, this reporter, who's attempting to figure out what rosebud means, and so he's visiting all these figures that were integral to kane's life, trying to figure out if he can get a great story to publish about what rosebud means, the plot hole being that he died alone and no one was around, and so we're kind of left to believe that perhaps hit one of his maids or butler's may have heard him say this, and there's elements to the movie that you can say",0.13969667,0.946890077124304,0.2888888888888889,0.065,False
+"well, that's not good",0.076110736,0.9983166013712048,0.638888888888889,0.37,False
+that's not good,0.0825038,0.9998791505454588,0.638888888888889,0.546,False
+there's too much exposition for instance,0.036851373,0.9974702975584774,0.3333333333333333,0.0,False
+"or maybe some of the performances are a little hammy at times, but you just cannot deny the fact that this movie was leaps and bounds ahead of every other film in its time",0.13386416,0.0001647486522082,0.53125,0.0,False
+this movie does not feel like a movie that was released in 1941,0.0717155,0.9995565674391812,0.4444444444444445,0.15,False
+"it feels like a film that could have been made today if you strip away the obvious technical stuff, the black and white and some of the sound and things that obviously identify the time period, the filmmaking, the precise cinematography, use of cross dissolves, the way everything flows so smoothly, the way he moves in the camera in someone when they're having an angry moment or pulls back when there's a softer moment on display, orson welles was ahead of his time",0.04818217,4.3630974463243645e-05,0.4175084175084175,0.038,False
+he was a perfectionist,0.049898956,0.0012579072200441,0.4444444444444445,0.0,False
 like all great filmmakers,0.038053125,0.0015805499314779,0.0,0.0,False
-"One of his great annoyances with the movie was that during the snowy scenes early on, despite the fact they look really good, you couldn't see the actors breath because it was shot in a studio, and that pissed him off because he's a perfectionist",0.22990009,0.9983572222852712,0.1481481481481481,0.123,True
-"He wants it to be as good as it can be, which is a sign of an excellent filmmaker",0.05613239,0.0006040684572373,0.0925925925925926,0.0,False
-"And and you can watch this in Kane today and say Well, I didn't really appreciate that that wasn't for me, and I would understand that because the first time I saw it when I was younger, I didn't really get it",0.0825038,0.9999613162535156,0.3541666666666667,0.056,False
-"It just wasn't for me, but as I got older, I kept being drawn to it and I wanted to see it again",0.036851373,0.9898111541751744,0.3518518518518519,0.0,False
-"I had similar experiences with Blade Runner, For instance, didn't really appreciate the movie on first viewing, but it just kept festering in my mind, and Citizen Kane is one of those movies and you really can't deny the importance and the impact fulness of this film",0.08367105,0.1054063247746686,0.3541666666666667,0.086,False
-"I'm gonna give a Citizen Kane and A-plus guys, thank you so much as always for continuing to watch this series of pre-1970s reviews",0.023117077,0.0093441215487422,0.3333333333333333,0.0,False
-I have one more to do in December,0.038911518,0.1071598786725121,0.1666666666666666,0.0,False
-Look forward to that,0.02655065,0.0010382026136622,0.4444444444444445,0.0,False
+"one of his great annoyances with the movie was that during the snowy scenes early on, despite the fact they look really good, you couldn't see the actors breath because it was shot in a studio, and that pissed him off because he's a perfectionist",0.22990009,0.9983572222852712,0.1481481481481481,0.123,True
+"he wants it to be as good as it can be, which is a sign of an excellent filmmaker",0.05613239,0.0006040684572373,0.0925925925925926,0.0,False
+"and and you can watch this in kane today and say well, i didn't really appreciate that that wasn't for me, and i would understand that because the first time i saw it when i was younger, i didn't really get it",0.0825038,0.9999613162535156,0.3541666666666667,0.056,False
+"it just wasn't for me, but as i got older, i kept being drawn to it and i wanted to see it again",0.036851373,0.9898111541751744,0.3518518518518519,0.0,False
+"i had similar experiences with blade runner, for instance, didn't really appreciate the movie on first viewing, but it just kept festering in my mind, and citizen kane is one of those movies and you really can't deny the importance and the impact fulness of this film",0.08367105,0.1054063247746686,0.3541666666666667,0.086,False
+"i'm gonna give a citizen kane and a-plus guys, thank you so much as always for continuing to watch this series of pre-1970s reviews",0.023117077,0.0093441215487422,0.3333333333333333,0.0,False
+i have one more to do in december,0.038911518,0.1071598786725121,0.1666666666666666,0.0,False
+look forward to that,0.02655065,0.0010382026136622,0.4444444444444445,0.0,False
 as always,0.02517722,0.0031594905237338,0.4444444444444445,0.0,False
-"If you like this, you can click right here and get stuck mine eyes",0.34388447,0.0030593538610312,0.2857142857142857,0.121,False
+"if you like this, you can click right here and get stuck mine eyes",0.34388447,0.0030593538610312,0.2857142857142857,0.121,False

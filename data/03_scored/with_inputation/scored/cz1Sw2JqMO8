@@ -1,81 +1,81 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-Hello and welcome back to the next step of classic film reviews,0.038224805,0.0032363818543739,0.3464912280701754,0.0,False
-this is a film that I've loved,0.038911518,0.0008199811582856,0.1052631578947368,0.0,False
-I've watched it several times and I continue to enjoy it every time I see it,0.059328925,0.0007996552341787,0.368421052631579,0.0,False
-"Everyone I've spoken to about this film is it's a film that they've loved as well, and I expect it's a film that you're really going to enjoy",0.04131502,0.0001452022027102,0.2456140350877193,0.0,False
-"Also, it is the Third Man from 1949, As if in music from Anton Karras, an Austrian musician is really central",0.030155903,0.0012754070325909,0.4736842105263158,0.0,False
-It's an important part of the opening theme and it permeates through the rest of the film,0.021657806,0.0005165228602568,0.2631578947368421,0.0,False
-The look of this film was really engaging as well,0.0471521,0.0012423252499537,0.2631578947368421,0.0,False
-It's the first British production to use extensive location shooting,0.20596254,0.0493280672698677,0.4298245614035088,0.0,False
-It was also the first British film and started to try and create the neorealistic style of directors like Luchino Visconti and Roberto Rossellini,0.031185975,5.051677618922303e-05,0.4078947368421053,0.0,False
-Now Reed actually had three film units on this particular shoot,0.060927194,0.0026050264639359,0.4298245614035088,0.194,False
-There was a daytime unit,0.01631277,0.1630975396988842,0.4736842105263158,0.0,False
+hello and welcome back to the next step of classic film reviews,0.038224805,0.0032363818543739,0.3464912280701754,0.0,False
+this is a film that i've loved,0.038911518,0.0008199811582856,0.1052631578947368,0.0,False
+i've watched it several times and i continue to enjoy it every time i see it,0.059328925,0.0007996552341787,0.368421052631579,0.0,False
+"everyone i've spoken to about this film is it's a film that they've loved as well, and i expect it's a film that you're really going to enjoy",0.04131502,0.0001452022027102,0.2456140350877193,0.0,False
+"also, it is the third man from 1949, as if in music from anton karras, an austrian musician is really central",0.030155903,0.0012754070325909,0.4736842105263158,0.0,False
+it's an important part of the opening theme and it permeates through the rest of the film,0.021657806,0.0005165228602568,0.2631578947368421,0.0,False
+the look of this film was really engaging as well,0.0471521,0.0012423252499537,0.2631578947368421,0.0,False
+it's the first british production to use extensive location shooting,0.20596254,0.0493280672698677,0.4298245614035088,0.0,False
+it was also the first british film and started to try and create the neorealistic style of directors like luchino visconti and roberto rossellini,0.031185975,5.051677618922303e-05,0.4078947368421053,0.0,False
+now reed actually had three film units on this particular shoot,0.060927194,0.0026050264639359,0.4298245614035088,0.194,False
+there was a daytime unit,0.01631277,0.1630975396988842,0.4736842105263158,0.0,False
 "there was a nighttime unit, and interestingly there was a silly unit",0.35227737,0.9597645351964834,0.4736842105263158,0.0,False
-"Now he oversaw all three of those particular film units, which meant he was sometimes working up to about 20 hours a day",0.040628307,0.0019403508635984,0.3859649122807018,0.0,False
-"It showed how much he cared about this film and how much he exerted his control over how it was made, and I think the results speak for themselves",0.14687516,0.0029624885368642,0.368421052631579,0.0,False
-Reid was keen to give the film a very local feel,0.076110736,0.0016725374412761,0.4736842105263158,0.0,False
-Beyond the location shooting,0.27690583,0.0219753639070598,0.4736842105263158,0.0,False
-He'd used lots of locals in key extras roles,0.03736641,0.000956033714807,0.4736842105263158,0.0,False
-You'll see in some key scenes that balloon seller,0.10300289,0.0068678376822962,0.4736842105263158,0.0,False
-"He was a local from Vienna, police officers with Vienna sewer unit, so they were quite accustomed to working in those particular parts of the city, and the fire department played a really important role as well",0.022351967,0.0003600549694053,0.3742690058479532,0.057,False
-You'll notice a number of the nighttime scenes,0.04131502,0.0008136628358359,0.4736842105263158,0.0,False
-"the cobblestones, the sidewalks, the streets are wet, Carol reused his lighting and the reflection off those streets to really bring those nighttime scenes to life",0.023288755,0.0013173404273391,0.4473684210526316,0.0,False
+"now he oversaw all three of those particular film units, which meant he was sometimes working up to about 20 hours a day",0.040628307,0.0019403508635984,0.3859649122807018,0.0,False
+"it showed how much he cared about this film and how much he exerted his control over how it was made, and i think the results speak for themselves",0.14687516,0.0029624885368642,0.368421052631579,0.0,False
+reid was keen to give the film a very local feel,0.076110736,0.0016725374412761,0.4736842105263158,0.0,False
+beyond the location shooting,0.27690583,0.0219753639070598,0.4736842105263158,0.0,False
+he'd used lots of locals in key extras roles,0.03736641,0.000956033714807,0.4736842105263158,0.0,False
+you'll see in some key scenes that balloon seller,0.10300289,0.0068678376822962,0.4736842105263158,0.0,False
+"he was a local from vienna, police officers with vienna sewer unit, so they were quite accustomed to working in those particular parts of the city, and the fire department played a really important role as well",0.022351967,0.0003600549694053,0.3742690058479532,0.057,False
+you'll notice a number of the nighttime scenes,0.04131502,0.0008136628358359,0.4736842105263158,0.0,False
+"the cobblestones, the sidewalks, the streets are wet, carol reused his lighting and the reflection off those streets to really bring those nighttime scenes to life",0.023288755,0.0013173404273391,0.4473684210526316,0.0,False
 so all these people played a really important role in the look with a film and making it look as authentic as it actually is,0.04268845,0.000685448575561,0.3157894736842105,0.0,False
-"The Other important aspect of this film is the symbolism very early in the film, Holly Martin's, played by Joseph Cotten, walks under a ladder without hesitating",0.032731086,0.9712412016614804,0.4026315789473684,0.0,False
-It's a foreboding scene in which you sense that he's going to have no luck during the rest of the film,0.07251463,0.9999365783482416,0.4736842105263158,0.11,False
-"During a lot of key scenes in the film, Carol Reed uses what's what is called Dutch angles, so framing the shot in a way where things don't look square",0.076110736,0.8474783783727399,0.4736842105263158,0.0,False
+"the other important aspect of this film is the symbolism very early in the film, holly martin's, played by joseph cotten, walks under a ladder without hesitating",0.032731086,0.9712412016614804,0.4026315789473684,0.0,False
+it's a foreboding scene in which you sense that he's going to have no luck during the rest of the film,0.07251463,0.9999365783482416,0.4736842105263158,0.11,False
+"during a lot of key scenes in the film, carol reed uses what's what is called dutch angles, so framing the shot in a way where things don't look square",0.076110736,0.8474783783727399,0.4736842105263158,0.0,False
 "they look off-kilter a little bit, and that gives us a sense of unease that things aren't as they seem",0.16827796,0.8128876491995848,0.5723684210526315,0.124,False
-"Equally with all the nighttime shooting and the shooting in the sewers, there's lots of shadows and and and things are moving in ways where we can't be certain what's actually happening again",0.14014533,0.8038188894594586,0.4360902255639098,0.054,False
-That underlines the fact that I start,0.0224908,0.0047008915093369,0.4736842105263158,0.0,False
+"equally with all the nighttime shooting and the shooting in the sewers, there's lots of shadows and and and things are moving in ways where we can't be certain what's actually happening again",0.14014533,0.8038188894594586,0.4360902255639098,0.054,False
+that underlines the fact that i start,0.0224908,0.0047008915093369,0.4736842105263158,0.0,False
 "as the story goes, we're not entirely certain what's happening at all times over",0.020130653,0.9964116100963216,0.5300751879699248,0.135,False
-Now,0.018742332,0.0840911793536296,0.4736842105263158,0.0,False
+now,0.018742332,0.0840911793536296,0.4736842105263158,0.0,False
 this is also a great story,0.020130653,0.0030848911326218,0.0526315789473684,0.0,False
-It was written by Graham Greene,0.015340946,0.003325881487941,0.4736842105263158,0.0,False
-It was the only original screenplay he ever wrote,0.079307266,0.8267900448273057,0.375,0.0,False
-He was sent to Vienna in 1948 by one of the other producers,0.026035614,0.0787157473159796,0.5394736842105263,0.0,False
-Alexander Korda,,0.0028661639229152,0.4736842105263158,0.0,False
-"He wanted him to get a sense of the city, and and build a story for him around that",0.040628307,0.0003461367779714,0.4736842105263158,0.0,False
-"Now Greene did a number of tours around the city, including the sewers, some of the city and Nights plots",0.009162918,0.0002277278388565,0.4736842105263158,0.0,False
-"he spoke to a lot of people, and he got an understanding of how the black market worked in Vienna as well, and he incorporated a lot of those elements into the story",0.038224805,0.0001406720847275,0.5614035087719299,0.0,False
-"He also wrote a story, which it was incredibly well structured",0.023803791,0.0024245072230048,0.0,0.0,False
-It seems to be to me a story in two parts,0.016173938,0.0539514103121579,0.4736842105263158,0.0,False
-"We start out thinking we're dealing with the murder mystery, and then transitions into a crime drama again during the course of the storytelling, more and more as a real bet, each of the characters that none of them are what they seem, and as a result, we don't know who to trust",0.123736724,0.9848490502100992,0.2631578947368422,0.133,False
-We don't know he did who to cheer for,0.04818217,0.1572658174881032,0.4736842105263158,0.0,False
-In a lot of ways we don't know necessarily how things are going to turn out,0.02517722,0.9960791828859296,0.4736842105263158,0.0,False
-The central character is Holly Martin's played by Joseph Cotton,0.029125832,0.0005300834107973,0.4736842105263158,0.0,False
-Cotton was an actor who began his time in film with working with Orson Welles with his Mercury Players,0.024662184,0.0115947177632184,0.4736842105263158,0.0,False
-"He appeared in amazing films like Citizen Kane and The Magnificent Ambersons, and Interestingly, this is the first film that he also appeared in with Orson Welles, Since making The Magnificent Ambersons, Orson Welles of The is the other central character of the story, and despite his importance in the story, he doesn't appear for very long",0.02929751,0.997718578937753,0.2657894736842105,0.03,False
-He's only there for five minutes of actual screen time,0.033761155,0.9992225185012104,0.4736842105263158,0.0,False
-Was only there for a week of the shoot,0.09279997,0.9966035738458406,0.4736842105263158,0.231,False
-"He refused to do any of the scenes in the sewer, and as a result a lot of those scenes were recreated back in England on a set",0.06652113,0.9994327815431072,0.4736842105263158,0.075,False
-"For those scenes that were shot in the sewer, He was played by a body double Wells",0.14822112,0.9570666711173088,0.4736842105263158,0.0,False
-His greatest contribution to this particular film is his cuckoo-clock monologue,0.1710401,0.0002091603158088,0.1666666666666666,0.0,False
-It's very famous,0.036679696,0.0062703687665055,0.131578947368421,0.0,False
-"It's one of the key elements of the film and again, let's pause for a moment just to listen to that, Natalie",0.02054715,5.066579322812929e-06,0.4736842105263158,0.0,False
-"For 30 years under the Borgias, they had warfare, terror, murder and bloodshed",0.2712817,0.970877749103588,0.4736842105263158,0.507,False
-"but they produced Michelangelo, Leonardo da Vinci and the Renaissance in Switzerland",0.025005542,0.0087113870774212,0.4736842105263158,0.0,False
-"They had brotherly love at 500 years of democracy and peace, And what did that produce The Cuckoo clock? So long, Howard",0.09118898,0.2244058914184365,0.3552631578947369,0.0,False
-This was the most popular film in the Uk,0.0471521,0.0001361419667447,0.1842105263157894,0.0,False
+it was written by graham greene,0.015340946,0.003325881487941,0.4736842105263158,0.0,False
+it was the only original screenplay he ever wrote,0.079307266,0.8267900448273057,0.375,0.0,False
+he was sent to vienna in 1948 by one of the other producers,0.026035614,0.0787157473159796,0.5394736842105263,0.0,False
+alexander korda,,0.0028661639229152,0.4736842105263158,0.0,False
+"he wanted him to get a sense of the city, and and build a story for him around that",0.040628307,0.0003461367779714,0.4736842105263158,0.0,False
+"now greene did a number of tours around the city, including the sewers, some of the city and nights plots",0.009162918,0.0002277278388565,0.4736842105263158,0.0,False
+"he spoke to a lot of people, and he got an understanding of how the black market worked in vienna as well, and he incorporated a lot of those elements into the story",0.038224805,0.0001406720847275,0.5614035087719299,0.0,False
+"he also wrote a story, which it was incredibly well structured",0.023803791,0.0024245072230048,0.0,0.0,False
+it seems to be to me a story in two parts,0.016173938,0.0539514103121579,0.4736842105263158,0.0,False
+"we start out thinking we're dealing with the murder mystery, and then transitions into a crime drama again during the course of the storytelling, more and more as a real bet, each of the characters that none of them are what they seem, and as a result, we don't know who to trust",0.123736724,0.9848490502100992,0.2631578947368422,0.133,False
+we don't know he did who to cheer for,0.04818217,0.1572658174881032,0.4736842105263158,0.0,False
+in a lot of ways we don't know necessarily how things are going to turn out,0.02517722,0.9960791828859296,0.4736842105263158,0.0,False
+the central character is holly martin's played by joseph cotton,0.029125832,0.0005300834107973,0.4736842105263158,0.0,False
+cotton was an actor who began his time in film with working with orson welles with his mercury players,0.024662184,0.0115947177632184,0.4736842105263158,0.0,False
+"he appeared in amazing films like citizen kane and the magnificent ambersons, and interestingly, this is the first film that he also appeared in with orson welles, since making the magnificent ambersons, orson welles of the is the other central character of the story, and despite his importance in the story, he doesn't appear for very long",0.02929751,0.997718578937753,0.2657894736842105,0.03,False
+he's only there for five minutes of actual screen time,0.033761155,0.9992225185012104,0.4736842105263158,0.0,False
+was only there for a week of the shoot,0.09279997,0.9966035738458406,0.4736842105263158,0.231,False
+"he refused to do any of the scenes in the sewer, and as a result a lot of those scenes were recreated back in england on a set",0.06652113,0.9994327815431072,0.4736842105263158,0.075,False
+"for those scenes that were shot in the sewer, he was played by a body double wells",0.14822112,0.9570666711173088,0.4736842105263158,0.0,False
+his greatest contribution to this particular film is his cuckoo-clock monologue,0.1710401,0.0002091603158088,0.1666666666666666,0.0,False
+it's very famous,0.036679696,0.0062703687665055,0.131578947368421,0.0,False
+"it's one of the key elements of the film and again, let's pause for a moment just to listen to that, natalie",0.02054715,5.066579322812929e-06,0.4736842105263158,0.0,False
+"for 30 years under the borgias, they had warfare, terror, murder and bloodshed",0.2712817,0.970877749103588,0.4736842105263158,0.507,False
+"but they produced michelangelo, leonardo da vinci and the renaissance in switzerland",0.025005542,0.0087113870774212,0.4736842105263158,0.0,False
+"they had brotherly love at 500 years of democracy and peace, and what did that produce the cuckoo clock? so long, howard",0.09118898,0.2244058914184365,0.3552631578947369,0.0,False
+this was the most popular film in the uk,0.0471521,0.0001361419667447,0.1842105263157894,0.0,False
 in 1949,0.017423427,0.0418283377357933,0.4736842105263158,0.0,False
-"He didn't however, attract the same box office in the in Vienna",0.028610796,0.983769332353,0.4736842105263158,0.161,False
-"However, its reputation and its popularity has grown over time",0.02655065,0.0337779306361448,0.4736842105263158,0.0,False
-It's a film that currently spends three times a week in the Pokeno Cine the older cinema in Vienna,0.026035614,0.8451990435490375,0.4298245614035088,0.0,False
-The Sun was rated as the number one British film of all time by the British Film Institute,0.026207292,0.0,0.4736842105263158,0.0,False
-It's also ranked as the 57th best American film have made by the American Film Institute,0.025520578,0.0051148906468263,0.2982456140350877,0.0,False
-"Now it was a British American co-production But as we know, everyone loves a winner and everyone wants to claim a great film And this is a great film",0.06252546,0.0002764266071711,0.2842105263157895,0.0,False
-"film reviewer, Roger Ebert",,0.0003313840911197,0.4736842105263158,0.0,False
-"For him, this is his favorite film and film director",0.039254878,0.0006386572253444,0.2105263157894737,0.0,False
-Martin Scorsese,,0.0010931293906007,0.4736842105263158,0.0,False
-"When he was at film school, he wrote his major thesis on it",0.029984225,0.0093137437520881,0.4407894736842105,0.0,False
-He got a B+ for it and his tutor felt that this wasn't a very important film,0.12051678,0.9958246617834776,0.2,0.102,False
-Martin respectfully chose to disagree,0.026722329,0.8396779920609683,0.2105263157894737,0.313,False
-"Now, in addition to the great cuckoo clock monologue, The other great thing about this film is its ending",0.21715863,0.1748444634656416,0.2149122807017544,0.0,False
-It is one of the great endings in cinema history,0.04268845,0.001223340479197,0.0526315789473684,0.0,False
-"Graham Greene wanted the film to have a happy ending, which was unusual for him, whereas producers David Selznick and director Carol Reed wanted a sad ending",0.14014533,0.18482794939739,0.3859649122807018,0.097,False
-I'm not going to tell you which way the film went,0.058929358,0.9391913322153082,0.4736842105263158,0.0,False
-I'm going to encourage you to watch it yourself,0.15001574,0.0011236778835765,0.4736842105263158,0.0,False
-"However, Read in particular, felt insecure about the length of that final sequence",0.03856816,0.9933124133279648,0.5321637426900585,0.189,False
-"It runs close to two minutes, but again it's masterful and it is one of the great moments in cinema history",0.03616466,1.9670249135626666e-05,0.0,0.0,False
-"So as always, I'd encourage you to watch this particular film",0.03049926,0.0011703798235697,0.3859649122807018,0.0,False
-"You'll find a link on our website to it, and I also encourage you to",0.0131890485,0.0129817683613579,0.4736842105263158,0.0,False
-"Once you've seen the film, leave some comments at the bottom, let us know what you think and then hopefully we'll see you again in about a fortnight after our next review and our next great film for you to watch See you soon",0.029469188,9.891751042597712e-05,0.3333333333333333,0.024,False
+"he didn't however, attract the same box office in the in vienna",0.028610796,0.983769332353,0.4736842105263158,0.161,False
+"however, its reputation and its popularity has grown over time",0.02655065,0.0337779306361448,0.4736842105263158,0.0,False
+it's a film that currently spends three times a week in the pokeno cine the older cinema in vienna,0.026035614,0.8451990435490375,0.4298245614035088,0.0,False
+the sun was rated as the number one british film of all time by the british film institute,0.026207292,0.0,0.4736842105263158,0.0,False
+it's also ranked as the 57th best american film have made by the american film institute,0.025520578,0.0051148906468263,0.2982456140350877,0.0,False
+"now it was a british american co-production but as we know, everyone loves a winner and everyone wants to claim a great film and this is a great film",0.06252546,0.0002764266071711,0.2842105263157895,0.0,False
+"film reviewer, roger ebert",,0.0003313840911197,0.4736842105263158,0.0,False
+"for him, this is his favorite film and film director",0.039254878,0.0006386572253444,0.2105263157894737,0.0,False
+martin scorsese,,0.0010931293906007,0.4736842105263158,0.0,False
+"when he was at film school, he wrote his major thesis on it",0.029984225,0.0093137437520881,0.4407894736842105,0.0,False
+he got a b+ for it and his tutor felt that this wasn't a very important film,0.12051678,0.9958246617834776,0.2,0.102,False
+martin respectfully chose to disagree,0.026722329,0.8396779920609683,0.2105263157894737,0.313,False
+"now, in addition to the great cuckoo clock monologue, the other great thing about this film is its ending",0.21715863,0.1748444634656416,0.2149122807017544,0.0,False
+it is one of the great endings in cinema history,0.04268845,0.001223340479197,0.0526315789473684,0.0,False
+"graham greene wanted the film to have a happy ending, which was unusual for him, whereas producers david selznick and director carol reed wanted a sad ending",0.14014533,0.18482794939739,0.3859649122807018,0.097,False
+i'm not going to tell you which way the film went,0.058929358,0.9391913322153082,0.4736842105263158,0.0,False
+i'm going to encourage you to watch it yourself,0.15001574,0.0011236778835765,0.4736842105263158,0.0,False
+"however, read in particular, felt insecure about the length of that final sequence",0.03856816,0.9933124133279648,0.5321637426900585,0.189,False
+"it runs close to two minutes, but again it's masterful and it is one of the great moments in cinema history",0.03616466,1.9670249135626666e-05,0.0,0.0,False
+"so as always, i'd encourage you to watch this particular film",0.03049926,0.0011703798235697,0.3859649122807018,0.0,False
+"you'll find a link on our website to it, and i also encourage you to",0.0131890485,0.0129817683613579,0.4736842105263158,0.0,False
+"once you've seen the film, leave some comments at the bottom, let us know what you think and then hopefully we'll see you again in about a fortnight after our next review and our next great film for you to watch see you soon",0.029469188,9.891751042597712e-05,0.3333333333333333,0.024,False

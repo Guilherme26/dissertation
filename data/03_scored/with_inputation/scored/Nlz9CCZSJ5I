@@ -1,123 +1,123 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Some movies are huge spectacles, with stunning special effects and mythic characters who hold the fate of the universe in their hands",0.027752401,0.0001303864427663,0.2904761904761904,0.0,False
-"On the other end of the spectrum are more intimate films, with complex characters navigating their everyday lives",0.028267438,0.0002176485009195,0.4925,0.0,False
-"But just because the scale is smaller, it doesn’t mean they’re any less powerful",0.049212243,0.0616947519561095,0.5223958333333333,0.0,False
-"Today we’re going to talk about one of those movies, whose fresh subject matter, unique structure, and well-crafted filmmaking made it one of the most celebrated movies of 2016",0.017770508,6.085694082946997e-05,0.3641666666666666,0.0,False
-It’s time to dive into Moonlight,0.03856816,0.0400291445737394,0.5,0.0,False
-"Moonlight was loosely adapted from an unproduced play by Tarell Alvin Mccraney called In Moonlight, Black Boys Look Blue",0.2712817,0.993370199566062,0.5405982905982906,0.0,False
-And it marks the second feature film from co-writer-director Barry Jenkins,0.021380141,0.0001074384288394,0.5,0.0,False
-His first feature was the 2009 romantic drama Medicine for Melancholy,0.060927194,0.0452306844629607,0.4375,0.199,False
-That film stars Wyatt Cenac and Tracey Heggins as a pair of 20-something black Americans after a one-night stand,0.2712817,0.8077658880574423,0.5833333333333334,0.0,False
-"It’s a rumination on identity, race, and intimacy",0.08170467,0.0072359856329935,0.5,0.0,False
-"For his second film, Jenkins chose to tell a story that tackles similar themes, but with a harder edge and more emotionally torn-up characters",0.060527626,0.0364789676087889,0.46,0.0,False
-"Centered around three pivotal moments in the life of a young black American gay man, Moonlight is as much about performed masculinity as it is about growing up gay",0.24242763,0.0007071862629493,0.3952380952380952,0.0,True
-"And in both cases, it sets out to challenge commonly held stereotypes of black men",0.34388447,0.0011898694234165,0.6166666666666667,0.0,False
-The film follows its protagonist Chiron from boyhood through young adulthood in the dilapidated housing projects of Liberty City in Miami,0.049212243,0.0068704863566308,0.45,0.0,False
-"The first part follows Chiron as an extremely withdrawn young boy, played with expressive silence by Alex Hibbert",0.084745035,0.004863101387723,0.3718749999999999,0.0,False
-"He comes into the orbit of a local drug dealer named Juan, who briefly becomes a sort of father figure",0.1884524,0.8214603984931559,0.5,0.0,False
-The second section of the film picks up the story in high school,0.052935857,0.0045020128984527,0.46,0.0,False
-"Chiron, now played by Ashton Sanders, has become a lanky teenager, and is only moderately less shy than before",0.15918289,0.1444229978200578,0.6111111111111112,0.081,False
-"His bullies have grown up too, and now seem much more threatening",0.36805952,0.9934280762453426,0.25,0.251,False
-"And in the third and final section of the film we find Chiron in his mid-twenties, a hulking mass of muscle",0.08420804,0.0071273550995344,0.5,0.0,False
-"Played by Trevante Rhodes, the grown-up Chiron has seemingly hardened, spent time behind bars, and now works as a drug dealer in Atlanta",0.263611,0.00078699766723,0.625,0.0,False
-The filmmaking in Moonlight is extremely subjective to Chiron’s experience,0.028439116,0.9577035022424382,0.5625,0.0,False
-"Jenkins doesn’t just tell his story, he makes us feel it",0.038911518,0.0071293220721567,0.5,0.0,False
-"Film is an incredibly effective medium for exploring a character’s perspective, using the same tools that create the illusion of reality",0.020824814,0.0,0.35,0.0,False
-This happens more directly when a film cuts from a character’s face to a shot of what they’re seeing,0.06012806,0.1929241318989851,0.35,0.109,False
-"But it can be more subtle as well, using cuts to flashes of a memory as it intrudes on the present, or camera movements to emphasize a character’s internal feelings",0.018187003,0.0050174193307274,0.4791666666666667,0.083,False
-"In Moonlight, Jenkins harnesses everything from the shots and the mise-en-scene to the editing and the sound to give us access to his otherwise opaque main characters",0.087430015,9.581540879860233e-05,0.3583333333333333,0.0,False
-"Chiron needs protection and guidance, and Juan, played with grace and moral heft by Oscar-winner Mahershala Ali, steps into that void",0.092262976,0.8443719042160628,0.5,0.0,False
-"He really sees Chiron, without pity and without judgement, and teaches him how to navigate everything from his own identity to the bullies that terrorize him after school",0.23891698,0.0002200625127741,0.3833333333333333,0.134,False
-"In particular, there’s a moment when Juan takes Chiron to the beach and beckons him to come into the water",0.05773066,0.0053245948885772,0.4166666666666667,0.0,False
-"The camera stays with Chiron, holding on him, pushing in as he decides what to do",0.089577995,0.000269803078026,0.5,0.0,False
-"In that hesitation, and that subtle camera move, we understand the competing desires in Chiron’s head — he wants to join Juan, but is desperate not to make himself vulnerable",0.054534122,0.0776012125134506,0.6541666666666667,0.199,False
-"Once he’s in the water and Juan is teaching him how to swim, the filmmaking turns subjective again, jump-cutting between shots as Chiron gets the hang of it and even begins to enjoy himself",0.12244874,0.1014843729091602,0.3,0.0,False
-"It’s almost as if he’s been freed from the long takes, along with his hesitance",0.0717155,0.1311281106554423,0.525,0.108,False
-"Jenkins is also underlining the fact that Juan isn’t just teaching Chiron to swim, he’s showing him how to take charge of himself, how to keep himself afloat",0.07131593,0.0504618481519785,0.5,0.0,False
-"Juan is giving him the confidence to trust, to accept help, and to make human connections",0.017076347,0.0002338313211302,0.5,0.0,False
-There are ways to shoot the scene where it’s simply a man teaching a boy to swim,0.24242763,0.9998075943144,0.5,0.13,False
-"But through subjective camerawork and editing, the filmmakers also show us what it means to the characters",0.015896274,0.0013720230092881,0.5,0.0,False
-"In addition, the scene challenges several stereotypes of black American men",0.21539254,0.2091668255642782,0.5277777777777778,0.0,False
-"First, Juan’s compassion is the opposite of the harsh, violent depiction drug dealers often get in mainstream films",0.25676212,0.1936783168865612,0.59375,0.274,False
-"And second, black Americans have historically been systematically and disproportionately not given opportunities to learn how to swim",0.44129625,0.9215023844178576,0.5277777777777778,0.114,False
-"As is so often the case in Moonlight, the filmmakers are taking on more than one stereotype at a time",0.06412373,0.9914023328652932,0.25,0.119,False
-"Now, a film’s style can often be broken down into two rough categories: realism and formalism",0.020408317,0.0018036244868064,0.6092592592592593,0.171,False
-"Realism refers to a style in which cinematic techniques like shots, cuts, mise-en-scene, and sound are meant to be as unobtrusive as possible",0.0669207,0.8330754612357082,0.4333333333333333,0.086,False
-"The whole idea is that the filmmaking tools go largely unnoticed by the audience, allowing the story and characters to take center stage",0.039598234,0.9992951383410588,0.5166666666666667,0.0,False
-"Formalism, on the other hand,, is a style in which those techniques clearly and deliberately alter our perception of the film’s reality",0.025520578,6.836719993281299e-05,0.50625,0.0,False
-"Things like slow motion or reverse photography, obvious manipulation of the film’s sound or color scape, discontinuity editing, and using jump cuts or repeated shots",0.1256687,0.9997747220295152,0.4833333333333333,0.152,False
-These techniques all draw attention to themselves,0.05373499,9.664988203230713e-05,0.5,0.0,False
-"In formalist films, the form takes precedence over the content",0.020685982,0.0009412560050035,0.5,0.0,False
-"Think about the wild, operatic camerawork and editing of Martin Scorsese’s Raging Bull",0.16482529,0.0003556346106356,0.45,0.221,False
-"Or the curated, almost caricatured worlds created by Wes Anderson in films like Moonrise Kingdom or The Grand Budapest Hotel",0.08581903,0.1673314040709538,0.25,0.0,False
-"While some films lean heavily into one style or the other,, most mainstream movies contain elements of both",0.024147147,0.0005219928102978,0.4708333333333333,0.0,False
-And Moonlight is no exception,0.03444787,0.0017104019055553,0.5,0.355,False
-Jenkins captures much of Chiron’s experience with realist techniques,0.023117077,1.108657296207778e-05,0.4,0.0,False
-Handheld shots follow Chiron as a young boy as he runs away from his tormentors,0.22980565,0.9511868921421291,0.45,0.0,False
-Natural lighting fills the scene when Juan finds him sitting outside his house,0.035477944,5.394273403591609e-05,0.475,0.0,False
-"The movie cuts traditionally back and forth between a teenage Chiron and his mother Paula,, fiercely portrayed by Naomi Harris, as she demands money during her tragic downward spiral into drug addiction",0.15976663,0.0037878826260944,0.625,0.148,False
-"In these moments, Jenkins tries to keep the filmmaking out of the way, to give us a sense of being there in the room with the action and watching it unfold",0.08290337,0.0283699441576472,0.5,0.0,False
-But then – especially at pivotal emotional moments – the film moves into a much more aggressively formalist style,0.08367105,0.016404045025553,0.25,0.149,False
-"As a teenager, at least one other kid seems to get Chiron and has known him for years",0.06252546,0.0106455836606802,0.60625,0.0,False
-"Kevin, played by Jharrel Jerome, presents himself as confident and gregarious",0.073313765,0.000252875192428,0.25,0.0,False
-He’s as at home in his own body and persona as Chiron is awkward in his,0.19936113,0.0115421059398341,0.5,0.096,False
-"Chiron and Kevin share an intimate moment one night on the same beach where, years earlier, Juan had taught Chiron how to swim",0.0801064,0.0003319415313215,0.4666666666666667,0.0,False
-"Chiron opens up to Kevin for the first time, and the scene turns intimate",0.050585672,6.783075285400276e-05,0.3875,0.0,False
-"They kiss, and then Kevin takes things a step further",0.1943727,0.0010289352997734,0.5,0.0,False
-"During this romantic encounter, the shots become almost impressionistic",0.09763293,0.945516825334798,0.5,0.0,False
-"The camera captures their profiles and silhouettes, leaned in close, Chiron’s head on Kevin’s shoulder",0.08290337,0.0005103399876414,0.5,0.0,False
-"Chiron’s hand grips the sand, and Nicholas Britell’s wondrous score takes over",0.08330294,0.0001456751845124,0.5,0.0,False
-"Again, the movie is challenging how cinema usually presents black American men, usually macho or brutal —, but not vulnerable",0.02637897,0.9939900939682428,0.5565476190476191,0.112,False
-"Here, Chiron and Kevin open up to one another, sharing fears and hopes, and then engage in a tender, sexual relationship",0.42092466,3.159077241882378e-05,0.375,0.101,False
-"Back at school, one of the bullies taunts Kevin into beating up Chiron to prove his own masculinity",0.3511902,0.921818739181278,0.35,0.15,False
-"Afterwards, Chiron sits in an office, listening to the principal lecture him",0.020963646,0.0471543538849586,0.5,0.0,False
-"He cries, breaking for the first time, then tunes her out",0.17518331,0.9990772216166,0.375,0.213,False
-"The sound of her voice literally drops out of the scene, and the camera moves low to catch Chiron’s hardening glare as the sound design ramps up in intensity",0.11021292,0.9059575785994808,0.3666666666666667,0.07,False
-"In moments like these, Jenkins breaks the realist tendency of his film, masterfully drawing us into his character’s heart and mind",0.030155903,2.276919823394469e-05,0.0,0.0,False
-It’s an especially smart decision given how interior the film is,0.021657806,0.0003081292415454,0.2857142857142857,0.0,False
-Jenkins uses many of the tricks of cinema to help us understand Chiron’s constant struggle to reconcile his identity with the world around him,0.038911518,9.122580601322605e-05,0.375,0.138,False
-"And it’s his struggle to be himself, a gay black man in America, that drives the emotional narrative of the film",0.16035037,6.604259592463538e-05,0.4583333333333333,0.1,True
-Cinema scholar J,0.005900364,0.0105632986393139,0.5,0.0,False
-"Ken Stuckey argues that, “masculinity in its various forms is the main antagonist of this film",0.055732824,0.7678865910343838,0.4583333333333333,0.282,False
-"One of the most difficult aspects of being gay is the way in which one’s sexuality can telegraph itself against one’s will, even before puberty",0.27856,0.9848883453951472,0.4305555555555556,0.104,True
-"” We see Chiron strive to fit in with other boys his age, all playing a makeshift soccer game in the movie’s first part",0.028954152,0.2003474865755608,0.484375,0.0,False
-The camera gives us Chiron’s point of view as the boys stare at him –,0.029125832,0.0420594775565741,0.5,0.0,False
-and therefore us! We feel the weight of their eyes,0.09065199,0.0057592958381064,0.5,0.0,False
-"It’s off-putting, menacing even",0.16620636,0.9739773992461488,1.0,0.0,False
-"In fact, among those boys, it’s only Kevin who truly sees Chiron as a person, rather than some kind of “other” to be made fun of",0.07251463,0.9388850281256224,0.403125,0.0,False
-"And when Kevin and Chiron wrestle on the ground, Jenkins revels in their connection",0.13386416,0.0001207900005787,0.5,0.0,False
-"The film takes its time with this moment, giving us dislocated shots of their hands and legs, bodies grappling with one another",0.2459383,0.0843211956618597,0.5,0.0,False
-They seem somehow both trapped and free,0.14777246,0.0075484958590159,0.45,0.291,False
-It’s a powerful visual metaphor for Chiron’s central struggle — pushing and pulling against the expectations of his community and the stereotypes attached to his gender and sexual identity,0.04818217,0.0001117300054699,0.4,0.072,False
-And it sets up what’s to come,0.0224908,0.0005048563063913,0.5,0.0,False
-"As an adult, in the third part of the film, Chiron’s taken on so many signifiers of traditional masculinity, he’s almost unrecognizable",0.10515087,0.9959809682881694,0.425,0.0,False
-"In addition to his muscles, he wears gold grills over his teeth, carries a gun, and banters easily with one of his drug-dealing underlings",0.44805592,0.0021061508366398,0.2833333333333333,0.09,False
-"He even has a miniature crown on his dashboard, just like Juan had in the opening",0.0765103,0.0002393150023803,0.5,0.0,False
-"Chiron visits Paula in rehab, where she begs his forgiveness, blaming herself for the way his life has turned out",0.10515087,0.1414998082797745,0.5,0.137,False
-"Paula: But your heart ain't gotta be black like mine, baby",0.3437808,0.0135892774004203,0.5833333333333334,0.0,False
-"Paula: I love you, Chiron",0.017909339,0.0017768617380968,0.25,0.0,False
-Paula: I do,0.055042017,0.0007061431714071,0.5,0.0,False
-"Then, after an out-of-the-blue phone call, Chiron drives down to Miami to surprise Kevin at the restaurant where he works",0.039254878,0.0228821799492652,0.5777777777777778,0.0,False
-The two haven’t seen each other since their altercation back in high school,0.033246122,0.7753592392369791,0.4941666666666666,0.0,False
-"Their conversation shifts in tone from awkward to inquisitive, to intimate, and back again, as they catch up on the past decade",0.16151784,0.0002107342941259,0.58125,0.069,False
-"But more importantly, they’re re-negotiating the terms of their relationship",0.020963646,0.0262749693018159,0.275,0.0,False
-"Bit by bit, Chiron’s masculine posturing falls away",0.15626417,0.995997270318842,0.45,0.0,False
-"He’s the same complex, vulnerable character we’ve come to know throughout the film",0.11021292,0.0002647962386238,0.6333333333333333,0.137,False
-"And, once again, he breaks away from the stereotypical black male that’s portrayed in lot of media",0.39206567,0.0083818067907166,0.6111111111111112,0.0,False
-"In the end, the two return to Kevin’s house, where Chiron shares that he hasn’t been touched by a man since that night on the beach with Kevin",0.1024659,0.0016632839704665,0.5,0.0,False
-Chiron: You're the only man that's ever touched me,0.09333697,0.0007644370873045,0.5,0.0,False
-"The film ends with an intimate scene — Chiron cradled in Kevin’s arms —, and a brief shot of Chiron as a boy standing on the infamous beach, looking back at us",0.039254878,0.0107490583416596,0.5375,0.0,False
-And at himself,0.017701091,0.1540318080930909,0.5,0.0,False
-So there’s no denying that Barry Jenkins’ Moonlight is as thoughtful as it is elegant and compassionate,0.03994159,0.0002264998777198,0.275,0.0,False
-You might appreciate it as an exquisite coming-of-age story told in a unique way,0.0495556,0.0002318643485079,0.15625,0.0,False
-Or as an exercise in how formalist cinematic techniques can root us in a character’s point of view,0.02517722,0.0036195276511944,0.5,0.0,False
-"The film takes on all sorts of stereotypes and assumptions about black American masculinity, as well as complex themes of sexuality and self-acceptance",0.004928539,0.0387966276075574,0.5777777777777777,0.0,False
-And it does it all with a skill and immediacy,0.04165838,0.0003939607741551,0.5,0.0,False
-Most films ten times its size never get near,0.079307266,0.9997896829424908,0.4,0.0,False
-Sometimes it’s the little movies that pack the biggest punch,0.11343288,0.0062047257292118,0.59375,0.0,False
-"Next time, we’ll travel to the heart of Africa for the tale of a child soldier struggling with his own larger-than-life father figure in Cary Fukunaga’s Beasts of No Nation",0.11021292,0.0143602114579016,0.35,0.138,False
-"Crash Course, Film Criticism is produced in association with Pbs Digital Studios",0.06612156,0.9992789257182326,0.5,0.359,False
-"You can head over to their channel to check out a playlist of their latest shows, like Deep Look, Origin of Everything, and Eons",0.042001735,0.0121827429623954,0.375,0.0,False
-This episode of Crash Course was filmed in the Doctor Cheryl C,0.02809576,0.9406350675097788,0.5,0.197,False
-Kinney Crash Course Studio,0.025520578,0.0038386960855039,0.5,0.474,False
-With the help of these and our amazing graphics team is Thought Cafe,0.038053125,0.0002184233689222,0.1999999999999999,0.0,False
+"some movies are huge spectacles, with stunning special effects and mythic characters who hold the fate of the universe in their hands",0.027752401,0.0001303864427663,0.2904761904761904,0.0,False
+"on the other end of the spectrum are more intimate films, with complex characters navigating their everyday lives",0.028267438,0.0002176485009195,0.4925,0.0,False
+"but just because the scale is smaller, it doesn’t mean they’re any less powerful",0.049212243,0.0616947519561095,0.5223958333333333,0.0,False
+"today we’re going to talk about one of those movies, whose fresh subject matter, unique structure, and well-crafted filmmaking made it one of the most celebrated movies of 2016",0.017770508,6.085694082946997e-05,0.3641666666666666,0.0,False
+it’s time to dive into moonlight,0.03856816,0.0400291445737394,0.5,0.0,False
+"moonlight was loosely adapted from an unproduced play by tarell alvin mccraney called in moonlight, black boys look blue",0.2712817,0.993370199566062,0.5405982905982906,0.0,False
+and it marks the second feature film from co-writer-director barry jenkins,0.021380141,0.0001074384288394,0.5,0.0,False
+his first feature was the 2009 romantic drama medicine for melancholy,0.060927194,0.0452306844629607,0.4375,0.199,False
+that film stars wyatt cenac and tracey heggins as a pair of 20-something black americans after a one-night stand,0.2712817,0.8077658880574423,0.5833333333333334,0.0,False
+"it’s a rumination on identity, race, and intimacy",0.08170467,0.0072359856329935,0.5,0.0,False
+"for his second film, jenkins chose to tell a story that tackles similar themes, but with a harder edge and more emotionally torn-up characters",0.060527626,0.0364789676087889,0.46,0.0,False
+"centered around three pivotal moments in the life of a young black american gay man, moonlight is as much about performed masculinity as it is about growing up gay",0.24242763,0.0007071862629493,0.3952380952380952,0.0,True
+"and in both cases, it sets out to challenge commonly held stereotypes of black men",0.34388447,0.0011898694234165,0.6166666666666667,0.0,False
+the film follows its protagonist chiron from boyhood through young adulthood in the dilapidated housing projects of liberty city in miami,0.049212243,0.0068704863566308,0.45,0.0,False
+"the first part follows chiron as an extremely withdrawn young boy, played with expressive silence by alex hibbert",0.084745035,0.004863101387723,0.3718749999999999,0.0,False
+"he comes into the orbit of a local drug dealer named juan, who briefly becomes a sort of father figure",0.1884524,0.8214603984931559,0.5,0.0,False
+the second section of the film picks up the story in high school,0.052935857,0.0045020128984527,0.46,0.0,False
+"chiron, now played by ashton sanders, has become a lanky teenager, and is only moderately less shy than before",0.15918289,0.1444229978200578,0.6111111111111112,0.081,False
+"his bullies have grown up too, and now seem much more threatening",0.36805952,0.9934280762453426,0.25,0.251,False
+"and in the third and final section of the film we find chiron in his mid-twenties, a hulking mass of muscle",0.08420804,0.0071273550995344,0.5,0.0,False
+"played by trevante rhodes, the grown-up chiron has seemingly hardened, spent time behind bars, and now works as a drug dealer in atlanta",0.263611,0.00078699766723,0.625,0.0,False
+the filmmaking in moonlight is extremely subjective to chiron’s experience,0.028439116,0.9577035022424382,0.5625,0.0,False
+"jenkins doesn’t just tell his story, he makes us feel it",0.038911518,0.0071293220721567,0.5,0.0,False
+"film is an incredibly effective medium for exploring a character’s perspective, using the same tools that create the illusion of reality",0.020824814,0.0,0.35,0.0,False
+this happens more directly when a film cuts from a character’s face to a shot of what they’re seeing,0.06012806,0.1929241318989851,0.35,0.109,False
+"but it can be more subtle as well, using cuts to flashes of a memory as it intrudes on the present, or camera movements to emphasize a character’s internal feelings",0.018187003,0.0050174193307274,0.4791666666666667,0.083,False
+"in moonlight, jenkins harnesses everything from the shots and the mise-en-scene to the editing and the sound to give us access to his otherwise opaque main characters",0.087430015,9.581540879860233e-05,0.3583333333333333,0.0,False
+"chiron needs protection and guidance, and juan, played with grace and moral heft by oscar-winner mahershala ali, steps into that void",0.092262976,0.8443719042160628,0.5,0.0,False
+"he really sees chiron, without pity and without judgement, and teaches him how to navigate everything from his own identity to the bullies that terrorize him after school",0.23891698,0.0002200625127741,0.3833333333333333,0.134,False
+"in particular, there’s a moment when juan takes chiron to the beach and beckons him to come into the water",0.05773066,0.0053245948885772,0.4166666666666667,0.0,False
+"the camera stays with chiron, holding on him, pushing in as he decides what to do",0.089577995,0.000269803078026,0.5,0.0,False
+"in that hesitation, and that subtle camera move, we understand the competing desires in chiron’s head — he wants to join juan, but is desperate not to make himself vulnerable",0.054534122,0.0776012125134506,0.6541666666666667,0.199,False
+"once he’s in the water and juan is teaching him how to swim, the filmmaking turns subjective again, jump-cutting between shots as chiron gets the hang of it and even begins to enjoy himself",0.12244874,0.1014843729091602,0.3,0.0,False
+"it’s almost as if he’s been freed from the long takes, along with his hesitance",0.0717155,0.1311281106554423,0.525,0.108,False
+"jenkins is also underlining the fact that juan isn’t just teaching chiron to swim, he’s showing him how to take charge of himself, how to keep himself afloat",0.07131593,0.0504618481519785,0.5,0.0,False
+"juan is giving him the confidence to trust, to accept help, and to make human connections",0.017076347,0.0002338313211302,0.5,0.0,False
+there are ways to shoot the scene where it’s simply a man teaching a boy to swim,0.24242763,0.9998075943144,0.5,0.13,False
+"but through subjective camerawork and editing, the filmmakers also show us what it means to the characters",0.015896274,0.0013720230092881,0.5,0.0,False
+"in addition, the scene challenges several stereotypes of black american men",0.21539254,0.2091668255642782,0.5277777777777778,0.0,False
+"first, juan’s compassion is the opposite of the harsh, violent depiction drug dealers often get in mainstream films",0.25676212,0.1936783168865612,0.59375,0.274,False
+"and second, black americans have historically been systematically and disproportionately not given opportunities to learn how to swim",0.44129625,0.9215023844178576,0.5277777777777778,0.114,False
+"as is so often the case in moonlight, the filmmakers are taking on more than one stereotype at a time",0.06412373,0.9914023328652932,0.25,0.119,False
+"now, a film’s style can often be broken down into two rough categories: realism and formalism",0.020408317,0.0018036244868064,0.6092592592592593,0.171,False
+"realism refers to a style in which cinematic techniques like shots, cuts, mise-en-scene, and sound are meant to be as unobtrusive as possible",0.0669207,0.8330754612357082,0.4333333333333333,0.086,False
+"the whole idea is that the filmmaking tools go largely unnoticed by the audience, allowing the story and characters to take center stage",0.039598234,0.9992951383410588,0.5166666666666667,0.0,False
+"formalism, on the other hand,, is a style in which those techniques clearly and deliberately alter our perception of the film’s reality",0.025520578,6.836719993281299e-05,0.50625,0.0,False
+"things like slow motion or reverse photography, obvious manipulation of the film’s sound or color scape, discontinuity editing, and using jump cuts or repeated shots",0.1256687,0.9997747220295152,0.4833333333333333,0.152,False
+these techniques all draw attention to themselves,0.05373499,9.664988203230713e-05,0.5,0.0,False
+"in formalist films, the form takes precedence over the content",0.020685982,0.0009412560050035,0.5,0.0,False
+"think about the wild, operatic camerawork and editing of martin scorsese’s raging bull",0.16482529,0.0003556346106356,0.45,0.221,False
+"or the curated, almost caricatured worlds created by wes anderson in films like moonrise kingdom or the grand budapest hotel",0.08581903,0.1673314040709538,0.25,0.0,False
+"while some films lean heavily into one style or the other,, most mainstream movies contain elements of both",0.024147147,0.0005219928102978,0.4708333333333333,0.0,False
+and moonlight is no exception,0.03444787,0.0017104019055553,0.5,0.355,False
+jenkins captures much of chiron’s experience with realist techniques,0.023117077,1.108657296207778e-05,0.4,0.0,False
+handheld shots follow chiron as a young boy as he runs away from his tormentors,0.22980565,0.9511868921421291,0.45,0.0,False
+natural lighting fills the scene when juan finds him sitting outside his house,0.035477944,5.394273403591609e-05,0.475,0.0,False
+"the movie cuts traditionally back and forth between a teenage chiron and his mother paula,, fiercely portrayed by naomi harris, as she demands money during her tragic downward spiral into drug addiction",0.15976663,0.0037878826260944,0.625,0.148,False
+"in these moments, jenkins tries to keep the filmmaking out of the way, to give us a sense of being there in the room with the action and watching it unfold",0.08290337,0.0283699441576472,0.5,0.0,False
+but then – especially at pivotal emotional moments – the film moves into a much more aggressively formalist style,0.08367105,0.016404045025553,0.25,0.149,False
+"as a teenager, at least one other kid seems to get chiron and has known him for years",0.06252546,0.0106455836606802,0.60625,0.0,False
+"kevin, played by jharrel jerome, presents himself as confident and gregarious",0.073313765,0.000252875192428,0.25,0.0,False
+he’s as at home in his own body and persona as chiron is awkward in his,0.19936113,0.0115421059398341,0.5,0.096,False
+"chiron and kevin share an intimate moment one night on the same beach where, years earlier, juan had taught chiron how to swim",0.0801064,0.0003319415313215,0.4666666666666667,0.0,False
+"chiron opens up to kevin for the first time, and the scene turns intimate",0.050585672,6.783075285400276e-05,0.3875,0.0,False
+"they kiss, and then kevin takes things a step further",0.1943727,0.0010289352997734,0.5,0.0,False
+"during this romantic encounter, the shots become almost impressionistic",0.09763293,0.945516825334798,0.5,0.0,False
+"the camera captures their profiles and silhouettes, leaned in close, chiron’s head on kevin’s shoulder",0.08290337,0.0005103399876414,0.5,0.0,False
+"chiron’s hand grips the sand, and nicholas britell’s wondrous score takes over",0.08330294,0.0001456751845124,0.5,0.0,False
+"again, the movie is challenging how cinema usually presents black american men, usually macho or brutal —, but not vulnerable",0.02637897,0.9939900939682428,0.5565476190476191,0.112,False
+"here, chiron and kevin open up to one another, sharing fears and hopes, and then engage in a tender, sexual relationship",0.42092466,3.159077241882378e-05,0.375,0.101,False
+"back at school, one of the bullies taunts kevin into beating up chiron to prove his own masculinity",0.3511902,0.921818739181278,0.35,0.15,False
+"afterwards, chiron sits in an office, listening to the principal lecture him",0.020963646,0.0471543538849586,0.5,0.0,False
+"he cries, breaking for the first time, then tunes her out",0.17518331,0.9990772216166,0.375,0.213,False
+"the sound of her voice literally drops out of the scene, and the camera moves low to catch chiron’s hardening glare as the sound design ramps up in intensity",0.11021292,0.9059575785994808,0.3666666666666667,0.07,False
+"in moments like these, jenkins breaks the realist tendency of his film, masterfully drawing us into his character’s heart and mind",0.030155903,2.276919823394469e-05,0.0,0.0,False
+it’s an especially smart decision given how interior the film is,0.021657806,0.0003081292415454,0.2857142857142857,0.0,False
+jenkins uses many of the tricks of cinema to help us understand chiron’s constant struggle to reconcile his identity with the world around him,0.038911518,9.122580601322605e-05,0.375,0.138,False
+"and it’s his struggle to be himself, a gay black man in america, that drives the emotional narrative of the film",0.16035037,6.604259592463538e-05,0.4583333333333333,0.1,True
+cinema scholar j,0.005900364,0.0105632986393139,0.5,0.0,False
+"ken stuckey argues that, “masculinity in its various forms is the main antagonist of this film",0.055732824,0.7678865910343838,0.4583333333333333,0.282,False
+"one of the most difficult aspects of being gay is the way in which one’s sexuality can telegraph itself against one’s will, even before puberty",0.27856,0.9848883453951472,0.4305555555555556,0.104,True
+"” we see chiron strive to fit in with other boys his age, all playing a makeshift soccer game in the movie’s first part",0.028954152,0.2003474865755608,0.484375,0.0,False
+the camera gives us chiron’s point of view as the boys stare at him –,0.029125832,0.0420594775565741,0.5,0.0,False
+and therefore us! we feel the weight of their eyes,0.09065199,0.0057592958381064,0.5,0.0,False
+"it’s off-putting, menacing even",0.16620636,0.9739773992461488,1.0,0.0,False
+"in fact, among those boys, it’s only kevin who truly sees chiron as a person, rather than some kind of “other” to be made fun of",0.07251463,0.9388850281256224,0.403125,0.0,False
+"and when kevin and chiron wrestle on the ground, jenkins revels in their connection",0.13386416,0.0001207900005787,0.5,0.0,False
+"the film takes its time with this moment, giving us dislocated shots of their hands and legs, bodies grappling with one another",0.2459383,0.0843211956618597,0.5,0.0,False
+they seem somehow both trapped and free,0.14777246,0.0075484958590159,0.45,0.291,False
+it’s a powerful visual metaphor for chiron’s central struggle — pushing and pulling against the expectations of his community and the stereotypes attached to his gender and sexual identity,0.04818217,0.0001117300054699,0.4,0.072,False
+and it sets up what’s to come,0.0224908,0.0005048563063913,0.5,0.0,False
+"as an adult, in the third part of the film, chiron’s taken on so many signifiers of traditional masculinity, he’s almost unrecognizable",0.10515087,0.9959809682881694,0.425,0.0,False
+"in addition to his muscles, he wears gold grills over his teeth, carries a gun, and banters easily with one of his drug-dealing underlings",0.44805592,0.0021061508366398,0.2833333333333333,0.09,False
+"he even has a miniature crown on his dashboard, just like juan had in the opening",0.0765103,0.0002393150023803,0.5,0.0,False
+"chiron visits paula in rehab, where she begs his forgiveness, blaming herself for the way his life has turned out",0.10515087,0.1414998082797745,0.5,0.137,False
+"paula: but your heart ain't gotta be black like mine, baby",0.3437808,0.0135892774004203,0.5833333333333334,0.0,False
+"paula: i love you, chiron",0.017909339,0.0017768617380968,0.25,0.0,False
+paula: i do,0.055042017,0.0007061431714071,0.5,0.0,False
+"then, after an out-of-the-blue phone call, chiron drives down to miami to surprise kevin at the restaurant where he works",0.039254878,0.0228821799492652,0.5777777777777778,0.0,False
+the two haven’t seen each other since their altercation back in high school,0.033246122,0.7753592392369791,0.4941666666666666,0.0,False
+"their conversation shifts in tone from awkward to inquisitive, to intimate, and back again, as they catch up on the past decade",0.16151784,0.0002107342941259,0.58125,0.069,False
+"but more importantly, they’re re-negotiating the terms of their relationship",0.020963646,0.0262749693018159,0.275,0.0,False
+"bit by bit, chiron’s masculine posturing falls away",0.15626417,0.995997270318842,0.45,0.0,False
+"he’s the same complex, vulnerable character we’ve come to know throughout the film",0.11021292,0.0002647962386238,0.6333333333333333,0.137,False
+"and, once again, he breaks away from the stereotypical black male that’s portrayed in lot of media",0.39206567,0.0083818067907166,0.6111111111111112,0.0,False
+"in the end, the two return to kevin’s house, where chiron shares that he hasn’t been touched by a man since that night on the beach with kevin",0.1024659,0.0016632839704665,0.5,0.0,False
+chiron: you're the only man that's ever touched me,0.09333697,0.0007644370873045,0.5,0.0,False
+"the film ends with an intimate scene — chiron cradled in kevin’s arms —, and a brief shot of chiron as a boy standing on the infamous beach, looking back at us",0.039254878,0.0107490583416596,0.5375,0.0,False
+and at himself,0.017701091,0.1540318080930909,0.5,0.0,False
+so there’s no denying that barry jenkins’ moonlight is as thoughtful as it is elegant and compassionate,0.03994159,0.0002264998777198,0.275,0.0,False
+you might appreciate it as an exquisite coming-of-age story told in a unique way,0.0495556,0.0002318643485079,0.15625,0.0,False
+or as an exercise in how formalist cinematic techniques can root us in a character’s point of view,0.02517722,0.0036195276511944,0.5,0.0,False
+"the film takes on all sorts of stereotypes and assumptions about black american masculinity, as well as complex themes of sexuality and self-acceptance",0.004928539,0.0387966276075574,0.5777777777777777,0.0,False
+and it does it all with a skill and immediacy,0.04165838,0.0003939607741551,0.5,0.0,False
+most films ten times its size never get near,0.079307266,0.9997896829424908,0.4,0.0,False
+sometimes it’s the little movies that pack the biggest punch,0.11343288,0.0062047257292118,0.59375,0.0,False
+"next time, we’ll travel to the heart of africa for the tale of a child soldier struggling with his own larger-than-life father figure in cary fukunaga’s beasts of no nation",0.11021292,0.0143602114579016,0.35,0.138,False
+"crash course, film criticism is produced in association with pbs digital studios",0.06612156,0.9992789257182326,0.5,0.359,False
+"you can head over to their channel to check out a playlist of their latest shows, like deep look, origin of everything, and eons",0.042001735,0.0121827429623954,0.375,0.0,False
+this episode of crash course was filmed in the doctor cheryl c,0.02809576,0.9406350675097788,0.5,0.197,False
+kinney crash course studio,0.025520578,0.0038386960855039,0.5,0.474,False
+with the help of these and our amazing graphics team is thought cafe,0.038053125,0.0002184233689222,0.1999999999999999,0.0,False

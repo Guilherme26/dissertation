@@ -1,30 +1,30 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-An anxious experience that invites participation,0.034962907,0.0005505190979044,0.5945945945945946,0.286,False
-"Based on a short story by Cornell Woolrich, this mystery thriller by director Alfred Hitchcock earned 36-times its $1 million dollar budget, scored four Academy Award nominations, and is widely regarded as one of the best movies ever made",0.016937515,0.0,0.2972972972972973,0.0,False
-"But even after seeing it twice, I remain unconvinced of its greatness",0.04165838,0.7997829514678314,0.4594594594594595,0.236,False
-"One of Hitchock's trademarks was his frequent use of point-of-view camera movement, a technique which forced the audience to engage in a form of voyeurism",0.09118898,0.0004012661939251,0.5135135135135136,0.106,False
-"You saw what his characters saw, even if it wasn't always comfortable",0.039254878,0.1249726930963915,0.2432432432432432,0.197,False
-And there's no purer form of first-person-voyeurism than in this 1954 motion picture,0.083939545,0.9132877881500466,0.4594594594594595,0.155,False
-"Watching someone - without their awareness - can feel taboo, but it's also intrinsically fascinating",0.04406188,0.0001171551848128,0.0810810810810811,0.0,False
-"They don't necessarily have to be engaging in sexual or explicit activities, but it certainly makes things more interesting",0.24242763,0.0001238310335531,0.2689832689832689,0.0,False
-I'm reminded of a particularly memorable occurrence while I was attending college in Boston; when an athletic mid-30s female in the apartment across the street began paddling her pink canoe in full view of our entire floor,0.0825038,0.0001505046256181,0.3783783783783784,0.0,False
-"Surely she knew people would see her, right? With the lights on, shades open, and mere feet from a college dormitory? It felt like a scene out of a raunchy teen-comedy",0.13146462,0.9999206050846244,0.4826254826254827,0.0,False
+an anxious experience that invites participation,0.034962907,0.0005505190979044,0.5945945945945946,0.286,False
+"based on a short story by cornell woolrich, this mystery thriller by director alfred hitchcock earned 36-times its $1 million dollar budget, scored four academy award nominations, and is widely regarded as one of the best movies ever made",0.016937515,0.0,0.2972972972972973,0.0,False
+"but even after seeing it twice, i remain unconvinced of its greatness",0.04165838,0.7997829514678314,0.4594594594594595,0.236,False
+"one of hitchock's trademarks was his frequent use of point-of-view camera movement, a technique which forced the audience to engage in a form of voyeurism",0.09118898,0.0004012661939251,0.5135135135135136,0.106,False
+"you saw what his characters saw, even if it wasn't always comfortable",0.039254878,0.1249726930963915,0.2432432432432432,0.197,False
+and there's no purer form of first-person-voyeurism than in this 1954 motion picture,0.083939545,0.9132877881500466,0.4594594594594595,0.155,False
+"watching someone - without their awareness - can feel taboo, but it's also intrinsically fascinating",0.04406188,0.0001171551848128,0.0810810810810811,0.0,False
+"they don't necessarily have to be engaging in sexual or explicit activities, but it certainly makes things more interesting",0.24242763,0.0001238310335531,0.2689832689832689,0.0,False
+i'm reminded of a particularly memorable occurrence while i was attending college in boston; when an athletic mid-30s female in the apartment across the street began paddling her pink canoe in full view of our entire floor,0.0825038,0.0001505046256181,0.3783783783783784,0.0,False
+"surely she knew people would see her, right? with the lights on, shades open, and mere feet from a college dormitory? it felt like a scene out of a raunchy teen-comedy",0.13146462,0.9999206050846244,0.4826254826254827,0.0,False
 everyone gathered around the windows and cheering her on,0.11085691,0.0007539536671062,0.4594594594594595,0.0,False
-"Were we invading her privacy by watching, or was she enjoying her public display of self-affection? At what point does shameful voyeurism become acceptable entertainment? And when might it become a civic obligation? ""Rear Window"" attempts to examine both of these themes by way of a relatable, if lethargic story",0.1710401,0.9776623716918263,0.3243243243243243,0.091,False
-"Jimmy Stewart stars as a wheelchair-confined photographer, who spies on his neighbors from his apartment window and becomes convinced one of them has committed murder",0.29261994,0.0263001021702886,0.4594594594594595,0.149,False
-"And although every scene he witnesses seems sinister and dangerous, the script is quick to provide alternate explanations, as if to discredit itself, and play Stewart off as a 'boy who cried wolf'",0.2088965,0.97792317683614,0.5630630630630631,0.234,False
-"Like when police detective Wendell Corey remarks, ""People do a lot of things in private they couldn't possibly explain in public",0.021102477,0.9325245443241488,0.4594594594594595,0.0,False
-""" Unfortunately, ""Rear Window"" never really does anything with this nagging counter-suspicion",0.18647896,0.9997643186971508,0.6216216216216217,0.356,False
-Those waiting for a twist or reveal,0.07091636,0.2350467395840219,0.4594594594594595,0.0,False
+"were we invading her privacy by watching, or was she enjoying her public display of self-affection? at what point does shameful voyeurism become acceptable entertainment? and when might it become a civic obligation? ""rear window"" attempts to examine both of these themes by way of a relatable, if lethargic story",0.1710401,0.9776623716918263,0.3243243243243243,0.091,False
+"jimmy stewart stars as a wheelchair-confined photographer, who spies on his neighbors from his apartment window and becomes convinced one of them has committed murder",0.29261994,0.0263001021702886,0.4594594594594595,0.149,False
+"and although every scene he witnesses seems sinister and dangerous, the script is quick to provide alternate explanations, as if to discredit itself, and play stewart off as a 'boy who cried wolf'",0.2088965,0.97792317683614,0.5630630630630631,0.234,False
+"like when police detective wendell corey remarks, ""people do a lot of things in private they couldn't possibly explain in public",0.021102477,0.9325245443241488,0.4594594594594595,0.0,False
+""" unfortunately, ""rear window"" never really does anything with this nagging counter-suspicion",0.18647896,0.9997643186971508,0.6216216216216217,0.356,False
+those waiting for a twist or reveal,0.07091636,0.2350467395840219,0.4594594594594595,0.0,False
 will be disappointed that the plot concludes without either,0.0801064,0.9449923475103524,0.8648648648648649,0.279,False
-"Mixing concern with exposition, the dialogue functions as a sort of running commentary for the picture, with Grace Kelly featured as the dutiful (and beautiful) girlfriend - who serves as Stewart's willing accomplice",0.062125895,0.0270888656201121,0.1621621621621621,0.0,False
-"When she's confronted by the suspected-murderer while on a fact-finding visit to his flat, the audience feels just as helpless as the laid-up protagonist",0.2299237,0.9989507592377206,0.4729729729729729,0.179,False
-"Filmed in bright technicolor, the 112-minute film makes excellent use of its confined location",0.03994159,7.808358794444239e-06,0.0,0.0,False
-"Remarkably, the camera never leaves Stewart's apartment; but with a multitude of angles, focal lengths, and color-changes, Hitchcock keeps things from becoming repetitive or claustrophobic",0.0801064,0.0002775841748528,0.4324324324324324,0.094,False
-"Which is even more impressive, considering the movie doesn't have a score - all we hear are the diegetic sounds, noises, and music coming from this crowded Greenwich Village complex",0.031529333,0.007275184982106,0.2432432432432433,0.0,False
-"The building themselves, of course, were all part of a massive set specially built inside the Paramount Studio - which included at least 1,000 arc lights to mimic sunshine, functioning plumbing, and six-stories of fully furnished fake-apartments",0.13521013,0.9987590670096066,0.4491634491634492,0.0,False
-"Perhaps ""Rear Window's"" most effective accomplishment is how it imprints Stewart's uncomfortable emotions onto the viewer",0.11407687,0.0004206678793266,0.3513513513513513,0.13,False
-"What begins with guilt soon transforms to anxiety and fear, and later, obligation and heroism",0.0753116,0.0014843630462446,0.4594594594594595,0.321,False
-"Despite its decidedly uncomplicated and convenient developments, ""Rear Window"" is a surprisingly enthralling experience - and a COOL movie",0.040971663,0.0004996753570521,0.1756756756756757,0.0,False
-"That does it for this quick excerpt - but if you'd like to watch full episodes of ""Movie Night"", and submit your own reviews to be included on the show, please visit the Jogwheel Youtube channel",0.017909339,0.908696979828148,0.2282282282282282,0.0,False
-"My name is Jonathan Paula, thanks for watching and have a good Movie Night!",0.014091457,0.0039524898919007,0.1689189189189189,0.0,False
+"mixing concern with exposition, the dialogue functions as a sort of running commentary for the picture, with grace kelly featured as the dutiful (and beautiful) girlfriend - who serves as stewart's willing accomplice",0.062125895,0.0270888656201121,0.1621621621621621,0.0,False
+"when she's confronted by the suspected-murderer while on a fact-finding visit to his flat, the audience feels just as helpless as the laid-up protagonist",0.2299237,0.9989507592377206,0.4729729729729729,0.179,False
+"filmed in bright technicolor, the 112-minute film makes excellent use of its confined location",0.03994159,7.808358794444239e-06,0.0,0.0,False
+"remarkably, the camera never leaves stewart's apartment; but with a multitude of angles, focal lengths, and color-changes, hitchcock keeps things from becoming repetitive or claustrophobic",0.0801064,0.0002775841748528,0.4324324324324324,0.094,False
+"which is even more impressive, considering the movie doesn't have a score - all we hear are the diegetic sounds, noises, and music coming from this crowded greenwich village complex",0.031529333,0.007275184982106,0.2432432432432433,0.0,False
+"the building themselves, of course, were all part of a massive set specially built inside the paramount studio - which included at least 1,000 arc lights to mimic sunshine, functioning plumbing, and six-stories of fully furnished fake-apartments",0.13521013,0.9987590670096066,0.4491634491634492,0.0,False
+"perhaps ""rear window's"" most effective accomplishment is how it imprints stewart's uncomfortable emotions onto the viewer",0.11407687,0.0004206678793266,0.3513513513513513,0.13,False
+"what begins with guilt soon transforms to anxiety and fear, and later, obligation and heroism",0.0753116,0.0014843630462446,0.4594594594594595,0.321,False
+"despite its decidedly uncomplicated and convenient developments, ""rear window"" is a surprisingly enthralling experience - and a cool movie",0.040971663,0.0004996753570521,0.1756756756756757,0.0,False
+"that does it for this quick excerpt - but if you'd like to watch full episodes of ""movie night"", and submit your own reviews to be included on the show, please visit the jogwheel youtube channel",0.017909339,0.908696979828148,0.2282282282282282,0.0,False
+"my name is jonathan paula, thanks for watching and have a good movie night!",0.014091457,0.0039524898919007,0.1689189189189189,0.0,False

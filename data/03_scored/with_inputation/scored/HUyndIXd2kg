@@ -1,107 +1,107 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello there, welcome to Brian Imax Movie Talk and my review of Rear-window a film from 1954 which was directed by Alfred Hitchcock",0.017631676,0.0007093676042347,0.0526315789473684,0.0,False
-"Of course, and the screenplay was written by John Michael Hayes",0.01999182,0.0008869032238644,0.4736842105263158,0.0,False
-Now both of these were nominated for Oscars for this film and both lost quite rightly,0.06652113,0.1987189539912433,0.3233082706766917,0.133,False
-"I think in the case of Hitchcock, because, Yeah, my one of my favorite films of all time, won that year On the Waterfront and John Michael Hayes lost out to the country girl",0.07091636,0.0002303164795196,0.2105263157894737,0.056,False
-"Yeah, Exactly who remembers that one? I don't know, not me",0.021796638,0.9198381824071946,0.3421052631578947,0.0,False
-I'll tell you that much,0.08796701,0.1598650288208529,0.368421052631579,0.0,False
+"hello there, welcome to brian imax movie talk and my review of rear-window a film from 1954 which was directed by alfred hitchcock",0.017631676,0.0007093676042347,0.0526315789473684,0.0,False
+"of course, and the screenplay was written by john michael hayes",0.01999182,0.0008869032238644,0.4736842105263158,0.0,False
+now both of these were nominated for oscars for this film and both lost quite rightly,0.06652113,0.1987189539912433,0.3233082706766917,0.133,False
+"i think in the case of hitchcock, because, yeah, my one of my favorite films of all time, won that year on the waterfront and john michael hayes lost out to the country girl",0.07091636,0.0002303164795196,0.2105263157894737,0.056,False
+"yeah, exactly who remembers that one? i don't know, not me",0.021796638,0.9198381824071946,0.3421052631578947,0.0,False
+i'll tell you that much,0.08796701,0.1598650288208529,0.368421052631579,0.0,False
 "alright, but both worthy nominees",0.03204437,0.0775395834097031,0.2982456140350877,0.0,False
-"it must be said, now, this film is pretty high up in the Imdb top 250, and it is not hard to see why there is not much I can fault",0.06612156,0.0002195874509705,0.3730701754385965,0.075,False
-"if anything, To be honest, it follows this character played by Jimmy Stewart, who is again excellent in this film, And he's a photographer, and he's basically been bound to a wheelchair due to an accident that's happened, so he Wiles his hours away, just looking out the window kind of peering into the lives of his neighbors",0.06252546,0.9939618517468796,0.2006578947368421,0.047,False
-"And yeah, he thinks that he's cutting on to a murder that happened",0.2818683,0.9066221948433308,0.7894736842105263,0.337,False
-"He doesn't necessarily witness that murder, but the things he's seen, the behavior patterns he's witnessing leads him to believe and his girlfriend that a murder has taken place, has it? Oh, hasn't it? Film has a lot of fun",0.14418322,3.4571314213608405e-05,0.3947368421052631,0.191,False
+"it must be said, now, this film is pretty high up in the imdb top 250, and it is not hard to see why there is not much i can fault",0.06612156,0.0002195874509705,0.3730701754385965,0.075,False
+"if anything, to be honest, it follows this character played by jimmy stewart, who is again excellent in this film, and he's a photographer, and he's basically been bound to a wheelchair due to an accident that's happened, so he wiles his hours away, just looking out the window kind of peering into the lives of his neighbors",0.06252546,0.9939618517468796,0.2006578947368421,0.047,False
+"and yeah, he thinks that he's cutting on to a murder that happened",0.2818683,0.9066221948433308,0.7894736842105263,0.337,False
+"he doesn't necessarily witness that murder, but the things he's seen, the behavior patterns he's witnessing leads him to believe and his girlfriend that a murder has taken place, has it? oh, hasn't it? film has a lot of fun",0.14418322,3.4571314213608405e-05,0.3947368421052631,0.191,False
 it must be said of dealing with that question getting to the bottom of this mystery,0.030842619,0.8114827130017647,0.4736842105263158,0.0,False
-and I love that we never see that murder,0.2712817,0.0776792395979833,0.2105263157894737,0.0,False
-"I love that the question of whether he did or he didn't, he's always hanging in the air until we get to these",0.06851897,0.0076478005640488,0.2105263157894737,0.0,False
-It to the finale To we find out the the answer to that question,0.031701013,0.0509143069509501,0.4736842105263158,0.0,False
-"We, in that sense, a pot into Jimmy Stewart",0.15188612,0.9342331411943138,0.4736842105263158,0.0,False
-Cheers,0.032731086,0.0017482952020678,0.4736842105263158,0.0,False
-We're going along with this mystery as its unfolding through his eyes,0.09118898,0.0005104931389352,0.4736842105263158,0.0,False
-Grace Kelly is also fantastic in this,0.019297661,0.000802561138326,0.2631578947368421,0.0,False
-"it must be said, she won an Oscar For this, She was nominated, and she did win and deservedly",0.024318827,4.017425134477942e-05,0.0526315789473684,0.0,False
-"so I think, Yeah, really great performance and one of the greatest cinematic kind of introductions for a character",0.026722329,0.0002374095595048,0.1578947368421052,0.0,False
-"I think the way she comes in out of focus, You know, she starts her opening shot",0.22422299,0.9285293809976388,0.4736842105263158,0.0,False
-She stats out a focus,0.087430015,0.0015819356538433,0.4736842105263158,0.0,False
-"She kind of leans over Jimmy Stewart's character, and again we see it from his eyes very much how this film plays all the time, seeing everything through his eyes, and she comes into focus and it's just yeah, she's striking the beautiful clearly, but she also proved herself with this film to be quite a formidable actress",0.031701013,8.586203124948776e-05,0.2305263157894737,0.0,False
+and i love that we never see that murder,0.2712817,0.0776792395979833,0.2105263157894737,0.0,False
+"i love that the question of whether he did or he didn't, he's always hanging in the air until we get to these",0.06851897,0.0076478005640488,0.2105263157894737,0.0,False
+it to the finale to we find out the the answer to that question,0.031701013,0.0509143069509501,0.4736842105263158,0.0,False
+"we, in that sense, a pot into jimmy stewart",0.15188612,0.9342331411943138,0.4736842105263158,0.0,False
+cheers,0.032731086,0.0017482952020678,0.4736842105263158,0.0,False
+we're going along with this mystery as its unfolding through his eyes,0.09118898,0.0005104931389352,0.4736842105263158,0.0,False
+grace kelly is also fantastic in this,0.019297661,0.000802561138326,0.2631578947368421,0.0,False
+"it must be said, she won an oscar for this, she was nominated, and she did win and deservedly",0.024318827,4.017425134477942e-05,0.0526315789473684,0.0,False
+"so i think, yeah, really great performance and one of the greatest cinematic kind of introductions for a character",0.026722329,0.0002374095595048,0.1578947368421052,0.0,False
+"i think the way she comes in out of focus, you know, she starts her opening shot",0.22422299,0.9285293809976388,0.4736842105263158,0.0,False
+she stats out a focus,0.087430015,0.0015819356538433,0.4736842105263158,0.0,False
+"she kind of leans over jimmy stewart's character, and again we see it from his eyes very much how this film plays all the time, seeing everything through his eyes, and she comes into focus and it's just yeah, she's striking the beautiful clearly, but she also proved herself with this film to be quite a formidable actress",0.031701013,8.586203124948776e-05,0.2305263157894737,0.0,False
 quite a talented actress,0.045778666,0.0008316487268368,0.1052631578947368,0.0,False
-"Thelma Ritter is also really good, Stella",0.032387726,0.0027454093914167,0.1052631578947368,0.0,False
-She's this woman who kind of comes in and does housework the Jim Stewart's character,0.049212243,0.0006180814529965,0.1578947368421052,0.0,False
-"And yeah, she just has a very kind of dry sense of humor, shall we say, dry wit",0.23277332,0.0211711151901288,0.3602339181286549,0.0,False
-"And she has this into her character, has this interest in like serial killers, the this kind of thing, So she brings a little bit of import to proceedings",0.2835225,0.0045380214419635,0.3651315789473684,0.118,False
-"That is a bit on the more humorous side, like I say, very deadpan",0.22979778,0.8777353881807234,0.4236842105263158,0.0,False
-At the same time,0.014785618,0.0393541065207757,0.4736842105263158,0.0,False
-"Yes, she just adds another dynamic to this, this core group of characters",0.03736641,0.0002473935166268,0.4736842105263158,0.0,False
-"these two characters, screenplay by John Michael Hayes is brilliantly executed",0.07371333,0.0,0.0,0.0,False
-"Yeah, just the way he pulls out particular characters and details, and obviously the way Hitchcock directs that on the screen it's just a beautiful marriage between director and writer, and obviously the actors as well",0.05613239,0.0001451399139829,0.3399122807017544,0.0,False
-I'm just bringing those details out,0.05773066,0.0809077831055351,0.4736842105263158,0.0,False
+"thelma ritter is also really good, stella",0.032387726,0.0027454093914167,0.1052631578947368,0.0,False
+she's this woman who kind of comes in and does housework the jim stewart's character,0.049212243,0.0006180814529965,0.1578947368421052,0.0,False
+"and yeah, she just has a very kind of dry sense of humor, shall we say, dry wit",0.23277332,0.0211711151901288,0.3602339181286549,0.0,False
+"and she has this into her character, has this interest in like serial killers, the this kind of thing, so she brings a little bit of import to proceedings",0.2835225,0.0045380214419635,0.3651315789473684,0.118,False
+"that is a bit on the more humorous side, like i say, very deadpan",0.22979778,0.8777353881807234,0.4236842105263158,0.0,False
+at the same time,0.014785618,0.0393541065207757,0.4736842105263158,0.0,False
+"yes, she just adds another dynamic to this, this core group of characters",0.03736641,0.0002473935166268,0.4736842105263158,0.0,False
+"these two characters, screenplay by john michael hayes is brilliantly executed",0.07371333,0.0,0.0,0.0,False
+"yeah, just the way he pulls out particular characters and details, and obviously the way hitchcock directs that on the screen it's just a beautiful marriage between director and writer, and obviously the actors as well",0.05613239,0.0001451399139829,0.3399122807017544,0.0,False
+i'm just bringing those details out,0.05773066,0.0809077831055351,0.4736842105263158,0.0,False
 and and building up this picture of this world just outside your window,0.051737156,0.0012600647973718,0.4736842105263158,0.0,False
-"Yeah, you know, it's one of the things that this film is about",0.04268845,0.0464836950059054,0.4736842105263158,0.0,False
-"It's this idea that actually, there is this whole kind of system of life going on just outside your window",0.028954152,0.9667246034208316,0.368421052631579,0.0,False
-You can get caught up in the minutiae of of everyday life and never really notice what's going on,0.036336336,0.0051013252436458,0.5526315789473684,0.0,False
-"You have all these little stories going on inside these windows, and there are stories that kind of play out in such a way that it acknowledges the fact you don't have the complete picture",0.05493369,0.0006058920844505,0.40625,0.0,False
-You know you can look into someone's window,0.03736641,0.0108728273344652,0.4736842105263158,0.0,False
-You can see something happen and you can get the wrong idea,0.089577995,0.9976653335848694,0.7368421052631579,0.22,False
-"You can build a picture in your head of what is going on in that person's life, and by the time we get to the end of this film, we see that in many of these cases that's not the case",0.037194733,0.0104976391666763,0.2105263157894737,0.0,False
-"You know what you think was happening or what Jimmy Stewart's character thought was happening, isn't the case",0.020963646,0.9984942106459976,0.4736842105263158,0.0,False
-And I think that's the way it is with life,0.025005542,0.0010649454920645,0.4736842105263158,0.0,False
-I think what it is saying ultimately is that how much do we really know about our neighbors and how much are we to blame for that? You know we don't,0.03753809,0.9353129881149186,0.4035087719298246,0.074,False
-"I think, particularly today",0.012841969,0.0111447486024695,0.3859649122807018,0.0,False
-"It's probably never been more relevant this film Because how many of us can truly claim to know our next-door neighbors? You know, I think I think a lot of us know people or within the online community better than we do our own neighbors",0.06412373,0.0007108577470887,0.2105263157894737,0.0,False
-"So yeah, I think that's something that this film taps into long before social media, which would probably existed back then, just not to the extent that it does",0.048868883,0.0184183742958702,0.4766081871345029,0.0,False
-"now, as with all Hitchcock films, is a pretty good dose of humor in here as well",0.101391904,0.0005876825387742,0.2236842105263158,0.0,False
+"yeah, you know, it's one of the things that this film is about",0.04268845,0.0464836950059054,0.4736842105263158,0.0,False
+"it's this idea that actually, there is this whole kind of system of life going on just outside your window",0.028954152,0.9667246034208316,0.368421052631579,0.0,False
+you can get caught up in the minutiae of of everyday life and never really notice what's going on,0.036336336,0.0051013252436458,0.5526315789473684,0.0,False
+"you have all these little stories going on inside these windows, and there are stories that kind of play out in such a way that it acknowledges the fact you don't have the complete picture",0.05493369,0.0006058920844505,0.40625,0.0,False
+you know you can look into someone's window,0.03736641,0.0108728273344652,0.4736842105263158,0.0,False
+you can see something happen and you can get the wrong idea,0.089577995,0.9976653335848694,0.7368421052631579,0.22,False
+"you can build a picture in your head of what is going on in that person's life, and by the time we get to the end of this film, we see that in many of these cases that's not the case",0.037194733,0.0104976391666763,0.2105263157894737,0.0,False
+"you know what you think was happening or what jimmy stewart's character thought was happening, isn't the case",0.020963646,0.9984942106459976,0.4736842105263158,0.0,False
+and i think that's the way it is with life,0.025005542,0.0010649454920645,0.4736842105263158,0.0,False
+i think what it is saying ultimately is that how much do we really know about our neighbors and how much are we to blame for that? you know we don't,0.03753809,0.9353129881149186,0.4035087719298246,0.074,False
+"i think, particularly today",0.012841969,0.0111447486024695,0.3859649122807018,0.0,False
+"it's probably never been more relevant this film because how many of us can truly claim to know our next-door neighbors? you know, i think i think a lot of us know people or within the online community better than we do our own neighbors",0.06412373,0.0007108577470887,0.2105263157894737,0.0,False
+"so yeah, i think that's something that this film taps into long before social media, which would probably existed back then, just not to the extent that it does",0.048868883,0.0184183742958702,0.4766081871345029,0.0,False
+"now, as with all hitchcock films, is a pretty good dose of humor in here as well",0.101391904,0.0005876825387742,0.2236842105263158,0.0,False
 and it really works,0.0186035,0.0013695008885721,0.368421052631579,0.0,False
-It works very well and it's mainly down to Kelly and Stuart and just they're in to play,0.026207292,0.0018381806190232,0.4619883040935673,0.0,False
-I totally believe in these characters the way they've brought them to life,0.035477944,0.0002062059681413,0.4736842105263158,0.0,False
-"and yeah, I just really enjoy every moment of this journey going along with these two people",0.04268845,0.0010486731320984,0.2631578947368421,0.0,False
-They feel like people I would like to know in real life,0.060927194,0.0001277648483049,0.368421052631579,0.0,False
-You know,0.03994159,0.0418971247097574,0.4736842105263158,0.0,False
+it works very well and it's mainly down to kelly and stuart and just they're in to play,0.026207292,0.0018381806190232,0.4619883040935673,0.0,False
+i totally believe in these characters the way they've brought them to life,0.035477944,0.0002062059681413,0.4736842105263158,0.0,False
+"and yeah, i just really enjoy every moment of this journey going along with these two people",0.04268845,0.0010486731320984,0.2631578947368421,0.0,False
+they feel like people i would like to know in real life,0.060927194,0.0001277648483049,0.368421052631579,0.0,False
+you know,0.03994159,0.0418971247097574,0.4736842105263158,0.0,False
 there's there's nothing about them that kind of makes me shut down,0.15071863,0.9991034704532984,0.3567251461988304,0.0,False
 makes me turn enough,0.052136723,0.0006266348729787,0.4736842105263158,0.0,False
-And there has been in a few of Hitchcock's films,0.06132676,3.767081135000088e-05,0.5789473684210527,0.0,False
-Not here like I say they,0.020685982,0.9911539159613076,0.4736842105263158,0.297,False
-They make these central characters absolutely believable and absolutely lovable,0.037881445,0.0003142115222017,0.2982456140350877,0.0,False
-And I think that's very important given the amount of time we're gonna spend with them because we never really leave that apartment,0.029469188,0.1750299146177947,0.3631578947368422,0.0,False
-You know everything we see in the outside world we see from that apartment,0.026894007,0.0022679378181268,0.4736842105263158,0.0,False
-"So yeah, you have to make these guy",0.1024659,0.0026298339116577,0.4736842105263158,0.0,False
-"these characters like, especially Stewart's character, and they succeed with that",0.03427619,0.0008040512811801,0.4736842105263158,0.0,False
-Something else that is really great about this film is the production design,0.039254878,0.0013788887885526,0.0526315789473684,0.0,False
-"Now that they built all this block of apartments and many times throughout - you're looking at it, you're seeing the set and you're honestly, you forget that you're watching a set this times when you look at it and you like, Yeah, it looks like location filming and you have to remind yourself",0.027237365,0.0022275847496396,0.1842105263157894,0.083,False
-"Actually, No, it isn't this was all done",0.018742332,0.9991459991303526,0.4736842105263158,0.0,False
+and there has been in a few of hitchcock's films,0.06132676,3.767081135000088e-05,0.5789473684210527,0.0,False
+not here like i say they,0.020685982,0.9911539159613076,0.4736842105263158,0.297,False
+they make these central characters absolutely believable and absolutely lovable,0.037881445,0.0003142115222017,0.2982456140350877,0.0,False
+and i think that's very important given the amount of time we're gonna spend with them because we never really leave that apartment,0.029469188,0.1750299146177947,0.3631578947368422,0.0,False
+you know everything we see in the outside world we see from that apartment,0.026894007,0.0022679378181268,0.4736842105263158,0.0,False
+"so yeah, you have to make these guy",0.1024659,0.0026298339116577,0.4736842105263158,0.0,False
+"these characters like, especially stewart's character, and they succeed with that",0.03427619,0.0008040512811801,0.4736842105263158,0.0,False
+something else that is really great about this film is the production design,0.039254878,0.0013788887885526,0.0526315789473684,0.0,False
+"now that they built all this block of apartments and many times throughout - you're looking at it, you're seeing the set and you're honestly, you forget that you're watching a set this times when you look at it and you like, yeah, it looks like location filming and you have to remind yourself",0.027237365,0.0022275847496396,0.1842105263157894,0.083,False
+"actually, no, it isn't this was all done",0.018742332,0.9991459991303526,0.4736842105263158,0.0,False
 studio,0.023803791,0.0012844435344638,0.4736842105263158,0.0,False
-"Every last bit of it was built, and it's just brilliant, absolutely brilliant",0.032902762,0.0001294934140156,0.1578947368421052,0.0,False
+"every last bit of it was built, and it's just brilliant, absolutely brilliant",0.032902762,0.0001294934140156,0.1578947368421052,0.0,False
 "and if you look at behind-the-scenes stuff on this, they're the studio where they built this set",0.04783881,7.161626556491465e-05,0.4736842105263158,0.0,False
-They actually took out the middle floor just so they could get that depth,0.09387396,0.1262634995766504,0.4736842105263158,0.0,False
+they actually took out the middle floor just so they could get that depth,0.09387396,0.1262634995766504,0.4736842105263158,0.0,False
 "you know, so they could get like two or three floors worth of building on there",0.027237365,0.9984029841004738,0.3157894736842105,0.0,False
-So yeah it is,0.024833864,0.001666367147953,0.4736842105263158,0.0,False
-"It is an amazing feat, it must be said, And the physicality of it, you know, like these days you do something like this, you probably employ Cgi",0.032731086,0.0002318066223736,0.1578947368421052,0.0,False
-"You know to you need to, kind of you get a little bit of the stage and then you'd map the rest out with with computer graphics",0.030327583,0.0012642670002202,0.3651315789473684,0.0,False
-"Build it up, so to speak, but here it's all real",0.044405237,0.0101307361931558,0.368421052631579,0.0,False
-"There's no green screen in that regard, and you just yeah, you can feel it",0.046465382,0.0003317654050223,0.4210526315789474,0.126,False
-You feel like you can reach out,0.13924801,0.0020180408615052,0.4736842105263158,0.0,False
+so yeah it is,0.024833864,0.001666367147953,0.4736842105263158,0.0,False
+"it is an amazing feat, it must be said, and the physicality of it, you know, like these days you do something like this, you probably employ cgi",0.032731086,0.0002318066223736,0.1578947368421052,0.0,False
+"you know to you need to, kind of you get a little bit of the stage and then you'd map the rest out with with computer graphics",0.030327583,0.0012642670002202,0.3651315789473684,0.0,False
+"build it up, so to speak, but here it's all real",0.044405237,0.0101307361931558,0.368421052631579,0.0,False
+"there's no green screen in that regard, and you just yeah, you can feel it",0.046465382,0.0003317654050223,0.4210526315789474,0.126,False
+you feel like you can reach out,0.13924801,0.0020180408615052,0.4736842105263158,0.0,False
 touch it and live with these people,0.15626417,0.000136675902572,0.4019138755980861,0.0,False
-All these people that you're seeing in these apartment blocks,0.032559406,0.004986912075313,0.4736842105263158,0.174,False
-He's absolutely brilliant,0.03616466,0.0001512793025416,0.0,0.0,False
-Hitchcock's direction is brilliant,0.0358213,1.490142854034845e-06,0.0,0.0,False
-The way he,0.020824814,0.0004818823961377,0.4736842105263158,0.0,False
-"like I said, the way he moves the camera across these blocks, kind of focuses in on very specific information, giving us what we need to know, just enough to keep us on tenterhooks to keep us gripped with what's going on, never knowing all the facts, but just enough to keep sucking in",0.36667302,3.4571314213608405e-05,0.3947368421052631,0.026,False
-"So yeah, if there's one downside and this is very minimal, Really it is",0.08850401,0.0239931179242429,0.4552631578947368,0.121,False
-it's It's towards the end of the film and it's the final confrontation between Jimmy Stewart's character and this guy,0.045778666,0.0785263262047879,0.4736842105263158,0.108,False
-It doesn't really play all that well or believable These days,0.05093802,0.9996504124864434,0.2894736842105263,0.169,False
-you know Stewart uses his carrot,0.101391904,0.0308681006013322,0.4736842105263158,0.0,False
-"His camera should say the flash on his camera to kind of yeah, push this guy back every now and then",0.13146462,0.8850240643169498,0.3157894736842105,0.0,False
-Just like phase in,0.01527153,0.0022429928267503,0.4736842105263158,0.0,False
-It's just to hold off his attack,0.2297899,0.985976623234963,0.4736842105263158,0.341,False
-"Really, and the amount of times the sky falls for him without just saying, You know, I'm going to close my eyes and come for you",0.118584804,0.0133081379979573,0.368421052631579,0.0,False
-You're in a wheelchair,0.26589394,0.996881458837933,0.4736842105263158,0.0,False
-"How you know how difficult is it going to be to subdue you? Yeah, that doesn't play too well by modern standards, but like I say, it's such a minor criticism",0.11665283,0.9990444309934216,0.5197368421052632,0.222,False
-"I, I'm literally struggling there to to come up with that",0.055732824,0.9999476661829664,0.4736842105263158,0.219,False
-"Just so I've got something to criticize, Neither, not I thing",0.08689302,0.9980842425439956,0.4736842105263158,0.206,False
-You have to quit if somebody wanted to,0.0801064,0.983898827645011,0.4736842105263158,0.0,False
-"Yeah, that's a little thing",0.048868883,0.0419673998467537,0.5723684210526315,0.0,False
-but for the most part I can understand why this film is so loved by people,0.06372416,0.002887718033977,0.1578947368421052,0.0,False
-It's still not my favorite film of 1954,0.0825038,0.9991655498045976,0.2105263157894737,0.262,False
-"I've got to say, Upon the waterfront, I love so much, but yeah, this definitely definitely comes a very close second",0.07571117,0.0004260318419685,0.3789473684210527,0.0,False
-"So yeah, rear window, I give it a 5 out 5",0.2459383,0.1458549441300739,0.4736842105263158,0.0,False
-"Iii, Think it's yeah, really incredible piece of work and I strongly urge anyone who hasn't seen it to go out and see it",0.05613239,0.0003073568650732,0.1228070175438596,0.0,False
-"If you have seen rear window then as usual, I would like to know what you thought about it",0.1530536,0.9539476417446237,0.6052631578947368,0.0,False
-"Comment below, Let me know your thoughts until next time crack it",0.34792873,0.2059418254190356,0.4736842105263158,0.0,False
+all these people that you're seeing in these apartment blocks,0.032559406,0.004986912075313,0.4736842105263158,0.174,False
+he's absolutely brilliant,0.03616466,0.0001512793025416,0.0,0.0,False
+hitchcock's direction is brilliant,0.0358213,1.490142854034845e-06,0.0,0.0,False
+the way he,0.020824814,0.0004818823961377,0.4736842105263158,0.0,False
+"like i said, the way he moves the camera across these blocks, kind of focuses in on very specific information, giving us what we need to know, just enough to keep us on tenterhooks to keep us gripped with what's going on, never knowing all the facts, but just enough to keep sucking in",0.36667302,3.4571314213608405e-05,0.3947368421052631,0.026,False
+"so yeah, if there's one downside and this is very minimal, really it is",0.08850401,0.0239931179242429,0.4552631578947368,0.121,False
+it's it's towards the end of the film and it's the final confrontation between jimmy stewart's character and this guy,0.045778666,0.0785263262047879,0.4736842105263158,0.108,False
+it doesn't really play all that well or believable these days,0.05093802,0.9996504124864434,0.2894736842105263,0.169,False
+you know stewart uses his carrot,0.101391904,0.0308681006013322,0.4736842105263158,0.0,False
+"his camera should say the flash on his camera to kind of yeah, push this guy back every now and then",0.13146462,0.8850240643169498,0.3157894736842105,0.0,False
+just like phase in,0.01527153,0.0022429928267503,0.4736842105263158,0.0,False
+it's just to hold off his attack,0.2297899,0.985976623234963,0.4736842105263158,0.341,False
+"really, and the amount of times the sky falls for him without just saying, you know, i'm going to close my eyes and come for you",0.118584804,0.0133081379979573,0.368421052631579,0.0,False
+you're in a wheelchair,0.26589394,0.996881458837933,0.4736842105263158,0.0,False
+"how you know how difficult is it going to be to subdue you? yeah, that doesn't play too well by modern standards, but like i say, it's such a minor criticism",0.11665283,0.9990444309934216,0.5197368421052632,0.222,False
+"i, i'm literally struggling there to to come up with that",0.055732824,0.9999476661829664,0.4736842105263158,0.219,False
+"just so i've got something to criticize, neither, not i thing",0.08689302,0.9980842425439956,0.4736842105263158,0.206,False
+you have to quit if somebody wanted to,0.0801064,0.983898827645011,0.4736842105263158,0.0,False
+"yeah, that's a little thing",0.048868883,0.0419673998467537,0.5723684210526315,0.0,False
+but for the most part i can understand why this film is so loved by people,0.06372416,0.002887718033977,0.1578947368421052,0.0,False
+it's still not my favorite film of 1954,0.0825038,0.9991655498045976,0.2105263157894737,0.262,False
+"i've got to say, upon the waterfront, i love so much, but yeah, this definitely definitely comes a very close second",0.07571117,0.0004260318419685,0.3789473684210527,0.0,False
+"so yeah, rear window, i give it a 5 out 5",0.2459383,0.1458549441300739,0.4736842105263158,0.0,False
+"iii, think it's yeah, really incredible piece of work and i strongly urge anyone who hasn't seen it to go out and see it",0.05613239,0.0003073568650732,0.1228070175438596,0.0,False
+"if you have seen rear window then as usual, i would like to know what you thought about it",0.1530536,0.9539476417446237,0.6052631578947368,0.0,False
+"comment below, let me know your thoughts until next time crack it",0.34792873,0.2059418254190356,0.4736842105263158,0.0,False

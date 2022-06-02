@@ -1,208 +1,208 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hi, I'm Andre, I'm a black nerd with a review for you",0.40016344,0.000941178756726,0.5833333333333334,0.167,False
-"the new reviews Thor Ragnarok, I'm gonna give it a good",0.068918526,0.0062962918588201,0.2909090909090909,0.0,False
-I'm gonna be the bad,0.25676212,0.985561210953331,0.8499999999999999,0.467,False
-"I'm gonna be the nerdy, so I'm not gonna spoil everything about the movie, but I will talk into detail about some of the plots in the movie, so that could be seen as spoilers",0.23628397,0.100947896565769,0.5,0.031,False
-"I did a video earlier this week where I actually went to the Thor Ragnarok premiere, and I gave a little mini review at the end of that video about how I felt about the movie in general, So if you want no spoilers, I would recommend checking out that",0.06851897,0.0022194103194249,0.5171875,0.041,False
-"I would actually just recommend checking out the video in general, because Tessa Thompson may or may not be in it",0.046122026,0.7543800323587384,0.4875,0.0,False
-"Just sayin, and someone may or may not have met her",0.032902762,0.0175327066994438,0.5,0.0,False
-"Just sayin I also love the fact that I saw this movie incredibly early, and yet I'm still one of the last people to actually review it on Youtube",0.039598234,0.0019097175343101,0.425,0.0,False
-"It's even earlier that I see a movie, though later I review it",0.023632111,0.0228747060660504,0.5,0.0,False
-I'm terrible at this,0.22991583,0.9999991058816712,1.0,0.508,False
-I should just quit,0.08501353,0.9984729949143144,0.5,0.0,False
-I'm not gonna quit,0.0358213,0.0226536800151976,0.5,0.0,False
-I can never quit you,0.124380715,0.001738344854644,0.5,0.0,False
-"No matter what your comment say, what can I say about Thor Ragnarok? Let me point this out to you and I mean this as a positive compliment",0.12824467,0.0002733319730813,0.5213068181818182,0.033,False
-"Let's say you took your favorite Saturday morning cartoon from the 80s and 90s, and you said Okay, Saturday morning cartoon",0.03204437,0.0300887805853292,0.25,0.0,False
-I know you're cheap and just made to sell toys,0.40326482,0.974561648057978,0.3,0.0,False
-"But what if I gave you a good director, a good script and a good budget to do whatever you want and make an awesome movie, But still like a Saturday morning cartoon",0.0825038,0.9999233442552868,0.1125,0.0,False
-That's the Ragnarok,0.03616466,0.0045280536480534,0.5,0.0,False
-This movie is so freaking fun If I feel like Laura,0.26132804,0.0021924973577313,0.35,0.204,False
-Ragnarok finally embraces and accepts the world that it's in,0.028954152,0.0001120628305294,0.5,0.0,False
-"Feel like now that we've gotten past the dark world and Garn is the Galaxy, and Dr",0.03444787,0.00226745427762,0.6,0.0,False
-"Strange, that now Marvel is like, Let's go all out with magic and creatures and powers and all this stuff, and Thor Ragnarok just fully embraces that and it's fun",0.067320265,0.0007735315700962,0.375,0.049,False
-"I mean, this is the kind of stuff that I would have loved to see more of in the other two movies because I feel like it was kind of holding back a little bit, whereas now it's like Bam, Just put it all out there",0.08850401,0.990417733871402,0.3890625,0.0,False
-You can definitely get a Guardians of the Galaxy vibe from this movie Like it,0.076110736,0.0008448822127258,0.5,0.0,False
+"hi, i'm andre, i'm a black nerd with a review for you",0.40016344,0.000941178756726,0.5833333333333334,0.167,False
+"the new reviews thor ragnarok, i'm gonna give it a good",0.068918526,0.0062962918588201,0.2909090909090909,0.0,False
+i'm gonna be the bad,0.25676212,0.985561210953331,0.8499999999999999,0.467,False
+"i'm gonna be the nerdy, so i'm not gonna spoil everything about the movie, but i will talk into detail about some of the plots in the movie, so that could be seen as spoilers",0.23628397,0.100947896565769,0.5,0.031,False
+"i did a video earlier this week where i actually went to the thor ragnarok premiere, and i gave a little mini review at the end of that video about how i felt about the movie in general, so if you want no spoilers, i would recommend checking out that",0.06851897,0.0022194103194249,0.5171875,0.041,False
+"i would actually just recommend checking out the video in general, because tessa thompson may or may not be in it",0.046122026,0.7543800323587384,0.4875,0.0,False
+"just sayin, and someone may or may not have met her",0.032902762,0.0175327066994438,0.5,0.0,False
+"just sayin i also love the fact that i saw this movie incredibly early, and yet i'm still one of the last people to actually review it on youtube",0.039598234,0.0019097175343101,0.425,0.0,False
+"it's even earlier that i see a movie, though later i review it",0.023632111,0.0228747060660504,0.5,0.0,False
+i'm terrible at this,0.22991583,0.9999991058816712,1.0,0.508,False
+i should just quit,0.08501353,0.9984729949143144,0.5,0.0,False
+i'm not gonna quit,0.0358213,0.0226536800151976,0.5,0.0,False
+i can never quit you,0.124380715,0.001738344854644,0.5,0.0,False
+"no matter what your comment say, what can i say about thor ragnarok? let me point this out to you and i mean this as a positive compliment",0.12824467,0.0002733319730813,0.5213068181818182,0.033,False
+"let's say you took your favorite saturday morning cartoon from the 80s and 90s, and you said okay, saturday morning cartoon",0.03204437,0.0300887805853292,0.25,0.0,False
+i know you're cheap and just made to sell toys,0.40326482,0.974561648057978,0.3,0.0,False
+"but what if i gave you a good director, a good script and a good budget to do whatever you want and make an awesome movie, but still like a saturday morning cartoon",0.0825038,0.9999233442552868,0.1125,0.0,False
+that's the ragnarok,0.03616466,0.0045280536480534,0.5,0.0,False
+this movie is so freaking fun if i feel like laura,0.26132804,0.0021924973577313,0.35,0.204,False
+ragnarok finally embraces and accepts the world that it's in,0.028954152,0.0001120628305294,0.5,0.0,False
+"feel like now that we've gotten past the dark world and garn is the galaxy, and dr",0.03444787,0.00226745427762,0.6,0.0,False
+"strange, that now marvel is like, let's go all out with magic and creatures and powers and all this stuff, and thor ragnarok just fully embraces that and it's fun",0.067320265,0.0007735315700962,0.375,0.049,False
+"i mean, this is the kind of stuff that i would have loved to see more of in the other two movies because i feel like it was kind of holding back a little bit, whereas now it's like bam, just put it all out there",0.08850401,0.990417733871402,0.3890625,0.0,False
+you can definitely get a guardians of the galaxy vibe from this movie like it,0.076110736,0.0008448822127258,0.5,0.0,False
 clearly,0.018048171,0.0053910566589075,0.45,0.0,False
-Watch that movie,0.033074442,3.668865542068476e-05,0.5,0.0,False
-"And when, Mm-hmm, that's what Thor needs to do",0.06012806,0.0092464650882855,0.5,0.0,False
-Guys,0.0495556,0.0007778531420182,0.5,0.0,False
-That's what the word he used to do and a lot of it has to do with the direction,0.023288755,0.0193204068858317,0.5,0.0,False
-Tygo Ytt is an amazing director,0.0131890485,0.0003370230020285,0.1999999999999999,0.0,False
-"This movie handles a lot of different plots in subject matters, some more on a light-hearted comedic side, and some on the darker dramatic side, And he found a way to take something like this with these different elements and still always make it feel like one movie",0.031701013,0.0,0.4666666666666667,0.0,False
-"But when it is funny, Oh my gosh - the movie is hilarious",0.101391904,0.0055473187388186,0.3125,0.0,False
-"and again, I want to point out the reason why I think it's it's funny good is because it's funny in the natural element of the story, And the comedy came more from the characteristics of the characters in the movie And what they were saying is their characters, as opposed to like Marvel stand-up And we've seen Marvel's standup",0.03221605,0.0003341618233766,0.32,0.0,False
-"You know what I'm saying, this one? I think they really fleshed out Thor",0.1464265,0.0002653445160116,0.4,0.0,False
-Better,0.023803791,0.0093946502992941,0.25,0.0,False
+watch that movie,0.033074442,3.668865542068476e-05,0.5,0.0,False
+"and when, mm-hmm, that's what thor needs to do",0.06012806,0.0092464650882855,0.5,0.0,False
+guys,0.0495556,0.0007778531420182,0.5,0.0,False
+that's what the word he used to do and a lot of it has to do with the direction,0.023288755,0.0193204068858317,0.5,0.0,False
+tygo ytt is an amazing director,0.0131890485,0.0003370230020285,0.1999999999999999,0.0,False
+"this movie handles a lot of different plots in subject matters, some more on a light-hearted comedic side, and some on the darker dramatic side, and he found a way to take something like this with these different elements and still always make it feel like one movie",0.031701013,0.0,0.4666666666666667,0.0,False
+"but when it is funny, oh my gosh - the movie is hilarious",0.101391904,0.0055473187388186,0.3125,0.0,False
+"and again, i want to point out the reason why i think it's it's funny good is because it's funny in the natural element of the story, and the comedy came more from the characteristics of the characters in the movie and what they were saying is their characters, as opposed to like marvel stand-up and we've seen marvel's standup",0.03221605,0.0003341618233766,0.32,0.0,False
+"you know what i'm saying, this one? i think they really fleshed out thor",0.1464265,0.0002653445160116,0.4,0.0,False
+better,0.023803791,0.0093946502992941,0.25,0.0,False
 they put a little bit more humor into him and they had him really showcased a little bit more than just being,0.10515087,0.0035513485897339,0.4175,0.0,False
-I'm a god and I can fight things,0.20596254,9.5193798061468e-05,0.5,0.243,False
-"Loki, of course, is up in this, Everyone loves Loki",0.060527626,0.0006617667790096,0.5,0.0,False
-"He's in top form as always, but the whole Thor, I hope dynamic",0.06412373,0.0037924028911494,0.3833333333333333,0.0,False
-"Of course, Thor ends up in this tournament and he has to fight the Hulk",0.09333697,0.0116057453182623,0.5,0.157,False
-"Meanwhile, Hulk is in this weird state where he can't change back to Bruce Banner, and Thor has to kind of help him out with that",0.06652113,0.1351797830547052,0.4833333333333333,0.066,False
-The dynamic of those two almost are to feel like a buddy cop film,0.05852979,0.9850431289897422,0.5,0.0,False
-We got to see a little bit more of Hope in this movie,0.049898956,0.00684370090359,0.421875,0.0,False
-I still kind of wish that some of these elements could have led itself into a solo Hulk film,0.06931809,0.9996827966209242,0.2,0.0,False
-But if this is what we got to do to get the Incredible Hulk more on-screen and to see more of him and establish that cared a little bit more,0.112788886,0.0618165098710961,0.27875,0.0,False
-"I thought I did it in a really good way, and we got ourselves a good Marvel villain",0.14552918,0.0019065881201597,0.15,0.136,False
-"I really really like Cate Blanchett as Hella In this now warning, Here's where some spoilers come in",0.13745339,0.0023562998355477,0.4,0.112,False
-"So Hella is this evil goddess, and we find out that not only is she evil, but she also happens to be related to Thor",0.3552902,0.0127374308868884,0.75,0.207,False
-"She's actually Thor's sister, Odin's daughter",0.06012806,0.0006681746270319,0.5,0.0,False
-"Her and Odin used to be back in the day, just crazy warriors taking over other worlds, just causing all kinds of damage and destruction as warriors",0.39206567,0.8285414253664827,0.6208333333333333,0.279,False
-"And then, of course Odin was like, Well, I got kids now, so I can't do that",0.062925026,0.9985731957750168,0.5,0.0,False
-No more,0.032559406,0.9741075551627794,0.625,0.688,False
-we're done and Hella still wants to do it,0.13386416,0.7564477406017285,0.4,0.0,False
-"And oh, it is all like none",0.033246122,0.9183233338119848,0.5,0.0,False
-"Not only are we done, but since you still want to do it, I'm have to banish you",0.36553472,0.9996874460362334,0.5,0.181,False
-"You gotta go and I gotta say, man, I don't really like",0.14059398,0.999943432113738,0.4,0.175,False
-Odin,0.020963646,0.0009245779597566,0.5,0.0,False
+i'm a god and i can fight things,0.20596254,9.5193798061468e-05,0.5,0.243,False
+"loki, of course, is up in this, everyone loves loki",0.060527626,0.0006617667790096,0.5,0.0,False
+"he's in top form as always, but the whole thor, i hope dynamic",0.06412373,0.0037924028911494,0.3833333333333333,0.0,False
+"of course, thor ends up in this tournament and he has to fight the hulk",0.09333697,0.0116057453182623,0.5,0.157,False
+"meanwhile, hulk is in this weird state where he can't change back to bruce banner, and thor has to kind of help him out with that",0.06652113,0.1351797830547052,0.4833333333333333,0.066,False
+the dynamic of those two almost are to feel like a buddy cop film,0.05852979,0.9850431289897422,0.5,0.0,False
+we got to see a little bit more of hope in this movie,0.049898956,0.00684370090359,0.421875,0.0,False
+i still kind of wish that some of these elements could have led itself into a solo hulk film,0.06931809,0.9996827966209242,0.2,0.0,False
+but if this is what we got to do to get the incredible hulk more on-screen and to see more of him and establish that cared a little bit more,0.112788886,0.0618165098710961,0.27875,0.0,False
+"i thought i did it in a really good way, and we got ourselves a good marvel villain",0.14552918,0.0019065881201597,0.15,0.136,False
+"i really really like cate blanchett as hella in this now warning, here's where some spoilers come in",0.13745339,0.0023562998355477,0.4,0.112,False
+"so hella is this evil goddess, and we find out that not only is she evil, but she also happens to be related to thor",0.3552902,0.0127374308868884,0.75,0.207,False
+"she's actually thor's sister, odin's daughter",0.06012806,0.0006681746270319,0.5,0.0,False
+"her and odin used to be back in the day, just crazy warriors taking over other worlds, just causing all kinds of damage and destruction as warriors",0.39206567,0.8285414253664827,0.6208333333333333,0.279,False
+"and then, of course odin was like, well, i got kids now, so i can't do that",0.062925026,0.9985731957750168,0.5,0.0,False
+no more,0.032559406,0.9741075551627794,0.625,0.688,False
+we're done and hella still wants to do it,0.13386416,0.7564477406017285,0.4,0.0,False
+"and oh, it is all like none",0.033246122,0.9183233338119848,0.5,0.0,False
+"not only are we done, but since you still want to do it, i'm have to banish you",0.36553472,0.9996874460362334,0.5,0.181,False
+"you gotta go and i gotta say, man, i don't really like",0.14059398,0.999943432113738,0.4,0.175,False
+odin,0.020963646,0.0009245779597566,0.5,0.0,False
 took this movie for me to really go,0.04818217,0.7754687370632254,0.4,0.0,False
-"You know what? Oh, it is kind of the big",0.09763293,0.9476978032645214,0.35,0.0,False
+"you know what? oh, it is kind of the big",0.09763293,0.9476978032645214,0.35,0.0,False
 you know,0.043718524,0.0418621730902213,0.5,0.0,False
-Like he said some nice things,0.03427619,0.01004965158295,0.2,0.0,False
-The word Loki - have a love for him because he's the father,0.040628307,0.000293151596034,0.25,0.0,False
-"I get it, But he banished Thor",0.12953265,0.8789379877080189,0.5,0.0,False
-"In a moment Thor got cocky about being a warrior, which is the past of Asgard, in itself, he adopted Loki, but never told Loki the full story to where he always felt resentful of Thor, because he was true Sun, and Loki was adopted son",0.20302857,0.9713289334366456,0.46875,0.104,False
-"And now we got Hella, this daughter that was side by side and battling him, And then one day he just changed his mind and then gonna try to tell her she's wrong for doing what they were already doing before",0.1550967,0.2256153814103143,0.75,0.118,False
-It's like when you were smoker and you're a drinker and you stop and then you started point out,0.21804169,0.0176875977979176,0.5,0.101,False
+like he said some nice things,0.03427619,0.01004965158295,0.2,0.0,False
+the word loki - have a love for him because he's the father,0.040628307,0.000293151596034,0.25,0.0,False
+"i get it, but he banished thor",0.12953265,0.8789379877080189,0.5,0.0,False
+"in a moment thor got cocky about being a warrior, which is the past of asgard, in itself, he adopted loki, but never told loki the full story to where he always felt resentful of thor, because he was true sun, and loki was adopted son",0.20302857,0.9713289334366456,0.46875,0.104,False
+"and now we got hella, this daughter that was side by side and battling him, and then one day he just changed his mind and then gonna try to tell her she's wrong for doing what they were already doing before",0.1550967,0.2256153814103143,0.75,0.118,False
+it's like when you were smoker and you're a drinker and you stop and then you started point out,0.21804169,0.0176875977979176,0.5,0.101,False
 other people would stop smoking this time,0.09279997,0.9910883226179212,0.5625,0.268,False
-"Dream like, Hey, you were there with me",0.06372416,0.0408346821108321,0.5,0.0,False
-"Oh, didn't you got some issues, man? It's another one these complicated father relationships as Marvel Cinematic Universe, If you're looking for the dramatic dark stuff in Thor Ragnarok, it all comes from hell",0.3609816,0.996203126517207,0.6354166666666666,0.117,True
-She is not a jokester,0.105704986,0.9988306124418472,0.5,0.345,False
-She is not doing any one-liners Her one mission is I am pissed off at Asgard,0.28948012,0.9969272431476708,0.5,0.219,True
-"I am pissed off and Odin, I'm pissed off and Thor and everybody in my path got to die and I mean that literally",0.3983115,0.9527076972799072,0.65625,0.369,True
-"Like for a movie that's got some wacky funny jokes in it, there's some straight-up like Just mean death, and like, even with characters that you know, like people that have been in the Thor storyline for a couple of movies, literally just walking on the screen to go",0.16965903,0.9986031189350836,0.4270833333333333,0.064,False
-"Hey, what's that? Remember me sick, Don't even show up",0.21627559,0.9999598242830974,0.8571428571428572,0.268,False
-She just disappeared,0.10031791,0.243860074534896,0.5,0.487,False
-"She wasn't even in the movie, but everybody else in that crew",0.08796701,0.9998837944212142,0.5,0.0,False
-You know that crude authorities hang out with,0.2286382,0.9976013785635608,0.85,0.346,False
-They are in this movie for like five seconds,0.068918526,0.9338547056523716,0.5,0.0,False
-Hell is like,0.2712817,0.9906643317064552,0.5,0.568,False
-"Yeah, you're right now",0.020824814,0.0004504866179396,0.3571428571428571,0.0,False
-Yep,0.018742332,0.0007154138787312,0.5,0.0,False
-"Yep, Callen just was a straight-up clean house of characters for the Marvel Cinematic Universe And then Karl Urban's there and he's all like, Don't kill me",0.21804169,0.9124031081222126,0.4388888888888889,0.0,False
-"She's like, Great, will you? the executioner Now, I'm a command here to kill other people",0.67902285,0.0185312580489277,0.33125,0.193,False
+"dream like, hey, you were there with me",0.06372416,0.0408346821108321,0.5,0.0,False
+"oh, didn't you got some issues, man? it's another one these complicated father relationships as marvel cinematic universe, if you're looking for the dramatic dark stuff in thor ragnarok, it all comes from hell",0.3609816,0.996203126517207,0.6354166666666666,0.117,True
+she is not a jokester,0.105704986,0.9988306124418472,0.5,0.345,False
+she is not doing any one-liners her one mission is i am pissed off at asgard,0.28948012,0.9969272431476708,0.5,0.219,True
+"i am pissed off and odin, i'm pissed off and thor and everybody in my path got to die and i mean that literally",0.3983115,0.9527076972799072,0.65625,0.369,True
+"like for a movie that's got some wacky funny jokes in it, there's some straight-up like just mean death, and like, even with characters that you know, like people that have been in the thor storyline for a couple of movies, literally just walking on the screen to go",0.16965903,0.9986031189350836,0.4270833333333333,0.064,False
+"hey, what's that? remember me sick, don't even show up",0.21627559,0.9999598242830974,0.8571428571428572,0.268,False
+she just disappeared,0.10031791,0.243860074534896,0.5,0.487,False
+"she wasn't even in the movie, but everybody else in that crew",0.08796701,0.9998837944212142,0.5,0.0,False
+you know that crude authorities hang out with,0.2286382,0.9976013785635608,0.85,0.346,False
+they are in this movie for like five seconds,0.068918526,0.9338547056523716,0.5,0.0,False
+hell is like,0.2712817,0.9906643317064552,0.5,0.568,True
+"yeah, you're right now",0.020824814,0.0004504866179396,0.3571428571428571,0.0,False
+yep,0.018742332,0.0007154138787312,0.5,0.0,False
+"yep, callen just was a straight-up clean house of characters for the marvel cinematic universe and then karl urban's there and he's all like, don't kill me",0.21804169,0.9124031081222126,0.4388888888888889,0.0,False
+"she's like, great, will you? the executioner now, i'm a command here to kill other people",0.67902285,0.0185312580489277,0.33125,0.193,False
 he's like,0.032731086,0.003827333113857,0.5,0.0,False
-"Seriously, I just got here",0.03753809,0.8335027389526762,0.6666666666666666,0.298,False
-"He just elbows, gotta go into hiding, Em dogs, gotta like, take off his big old crown and get away from the the open date there, the Mariokart Road and just be like in the for somewhere like Let me go wait",0.29070088,0.9985615722367436,0.4833333333333333,0.046,False
-"I'm gonna stay alive because black panels coming up in February, Honey, if you can't make myself get a cameo, don't kill me, Hella as the worst Aegis elbow impression, By the way, Thank you very much",0.37360558,0.9999495121183732,0.6008333333333333,0.093,False
-"But enough about Hella, Oh, my gosh, uh, Tessa Thompson as Valkyrie, Good lord, Uh, what can I say? I love her",0.07730943,0.0013441578874678,0.3,0.0,False
-I love everything about her,0.078108564,0.0036475855258455,0.25,0.0,False
-The moment she walks on screen she is great,0.055732824,0.0015781486540866,0.0999999999999999,0.0,False
-She is strong,0.07011723,0.0018053739253517,0.2833333333333333,0.0,False
+"seriously, i just got here",0.03753809,0.8335027389526762,0.6666666666666666,0.298,False
+"he just elbows, gotta go into hiding, em dogs, gotta like, take off his big old crown and get away from the the open date there, the mariokart road and just be like in the for somewhere like let me go wait",0.29070088,0.9985615722367436,0.4833333333333333,0.046,False
+"i'm gonna stay alive because black panels coming up in february, honey, if you can't make myself get a cameo, don't kill me, hella as the worst aegis elbow impression, by the way, thank you very much",0.37360558,0.9999495121183732,0.6008333333333333,0.093,False
+"but enough about hella, oh, my gosh, uh, tessa thompson as valkyrie, good lord, uh, what can i say? i love her",0.07730943,0.0013441578874678,0.3,0.0,False
+i love everything about her,0.078108564,0.0036475855258455,0.25,0.0,False
+the moment she walks on screen she is great,0.055732824,0.0015781486540866,0.0999999999999999,0.0,False
+she is strong,0.07011723,0.0018053739253517,0.2833333333333333,0.0,False
 she is powerful,0.039254878,0.0014033783247715,0.35,0.0,False
 "she is awesome, but she is also flawed because she is an alcoholic",0.5363433,0.0629740056554772,0.4583333333333333,0.234,False
-"Very first scene that you see her is she's like, What's up? I'm here to fight",0.21362646,0.9860791737011426,0.3375,0.136,False
-"Yeah, Wow, okay, that's an entrance",0.048525527,0.0338275065728128,0.35,0.0,False
-Her character is just so amazing and so cool when there's all these cool shots of her when she's walking and like explosions are happening when hotter like he's a freakin Power Ranger,0.3490159,0.0011949891462976,0.2833333333333333,0.0,False
-She's just amazing man,0.055732824,0.0008173135642578,0.1999999999999999,0.0,False
-I just really liked her And then she has this incredible backstory about her and this army of women warriors,0.08689302,0.0050348399167563,0.125,0.0,False
-"You get this backstory or this is his flashback, Where heard a bunch of warriors of fighting Hella, and their own freaking flying unicorns and horses of whatever, and Helis, throwing stuff in the air and it's all in slow motion and it's got these different effects",0.2712817,0.0001277397052258,0.45,0.105,False
-"I'm telling you, it feels like a Saturday morning cartoon with a budget and there's a whole point of the movie where I'm like",0.056931525,0.9986436224953734,0.4,0.0,False
-"I need that movie like entirety, like I need more of that like",0.0717155,0.0002443923431759,0.25,0.0,False
-Can we just strip that out? Make a prequel film or sideways movie and give me that I'm telling that shot,0.2145095,0.9971268699665236,0.5,0.0,False
-"Oh man, that was so cool",0.056931525,0.0017877895982207,0.325,0.0,False
-"You know, a lot of people always talk to rag on Dc and stuff, but I'm gonna say man, I feel like Marvin might've saw one woman",0.22598907,0.7784270467694819,0.5,0.0,False
-I was like,0.020269485,0.0245836046237362,0.5,0.0,False
-"Yeah, we were gonna cut that scene, but I think now we're gonna leave it in you",0.30053464,0.9538011145840654,0.5,0.154,False
-"You're right, Tiger, look at this",0.06012806,0.0001022871368024,0.3571428571428571,0.0,False
-Let's hold on to that,0.038224805,0.0040451403387265,0.5,0.0,False
-She's awesome,0.03856816,0.0037651322821243,0.0,0.0,False
-She's just really,0.025692256,0.0052518126311857,0.4,0.0,False
-"I, just I can't say enough about her",0.062925026,0.0328854933056466,0.5,0.0,False
-"She's just a really cool character, one of the strongest female Marvel hero that we've seen in some time and again",0.040284947,0.0013108668816961,0.4125,0.0,False
-Hopefully when she gets back on that ship again she could take a trip to her condo,0.089041,0.0163829301366338,0.5,0.0,False
-"Just be like, Hey, what's up? I brought him",0.07690986,0.9165314014655076,0.5,0.0,False
-Go with me to Falcon Is riding shotgun,0.22988434,0.865505797075792,0.5,0.0,False
-War Machine flew behind us,0.15451296,0.0070275316319692,0.7,0.494,False
-Peter picked up sand data from Spider-man Homecoming,0.08330294,0.912160086760474,0.5,0.0,False
-We all here Go boom,0.13565879,0.0011242941904423,0.5,0.0,False
-it's all I say,0.020130653,0.0167178966665063,0.5,0.0,False
-"If you like Go bloom, you're gonna get some Goldblum in this Gold Boom is at full Goldblum",0.14911842,0.0068786609302419,0.325,0.0,False
-"In this movie it's Grandmaster right, Cuz, I keep want to call him Taskmaster for some reason, but it's Grandmaster",0.05253629,9.835301615618172e-06,0.3571428571428571,0.0,False
-I also love that kind of turn a little bit in Jeff,0.1008549,0.0003417618291705,0.3479166666666666,0.0,False
-Go boom when I try to explain that you hear me go,0.22990009,0.0022115718820767,0.5,0.0,False
-"uh, a Grandmaster If you know Jeff Goldblum and you know how Jeff Goldblum is, And that's the Jeff Goldblum",0.082104236,0.0004267924822292,0.5,0.0,False
-"You want to see Thor Ragnarok deliveries, But there's his new character",0.042001735,0.033830308143576,0.4318181818181818,0.0,False
-Korg,0.015688026,0.1229911321940239,0.5,0.0,False
-I really liked him and I found out later that the director Tycho Martyt was the voice of him,0.022773718,0.0007044162232882,0.35,0.0,False
-He was really funny too,0.05613239,0.0002692190287693,0.375,0.0,False
-I really liked that character a lot,0.040971663,0.0036430553263135,0.2,0.0,False
-He's trying to start this whole resistance and that leads into Thor wanting to start his own group of superheroes called Lore Avengers,0.09548495,0.0552602084022922,0.3,0.0,False
-"What I thought was really cute and then even the ending of this movie Man, it was not what I was expecting",0.103539884,0.9999184564084233,0.25,0.0,False
-"You know, I had a whole idea what was gonna go down and then I was like Oh, okay, I mean, you won",0.09118898,0.1591361934748079,0.4710069444444444,0.0,False
+"very first scene that you see her is she's like, what's up? i'm here to fight",0.21362646,0.9860791737011426,0.3375,0.136,False
+"yeah, wow, okay, that's an entrance",0.048525527,0.0338275065728128,0.35,0.0,False
+her character is just so amazing and so cool when there's all these cool shots of her when she's walking and like explosions are happening when hotter like he's a freakin power ranger,0.3490159,0.0011949891462976,0.2833333333333333,0.0,False
+she's just amazing man,0.055732824,0.0008173135642578,0.1999999999999999,0.0,False
+i just really liked her and then she has this incredible backstory about her and this army of women warriors,0.08689302,0.0050348399167563,0.125,0.0,False
+"you get this backstory or this is his flashback, where heard a bunch of warriors of fighting hella, and their own freaking flying unicorns and horses of whatever, and helis, throwing stuff in the air and it's all in slow motion and it's got these different effects",0.2712817,0.0001277397052258,0.45,0.105,False
+"i'm telling you, it feels like a saturday morning cartoon with a budget and there's a whole point of the movie where i'm like",0.056931525,0.9986436224953734,0.4,0.0,False
+"i need that movie like entirety, like i need more of that like",0.0717155,0.0002443923431759,0.25,0.0,False
+can we just strip that out? make a prequel film or sideways movie and give me that i'm telling that shot,0.2145095,0.9971268699665236,0.5,0.0,False
+"oh man, that was so cool",0.056931525,0.0017877895982207,0.325,0.0,False
+"you know, a lot of people always talk to rag on dc and stuff, but i'm gonna say man, i feel like marvin might've saw one woman",0.22598907,0.7784270467694819,0.5,0.0,False
+i was like,0.020269485,0.0245836046237362,0.5,0.0,False
+"yeah, we were gonna cut that scene, but i think now we're gonna leave it in you",0.30053464,0.9538011145840654,0.5,0.154,False
+"you're right, tiger, look at this",0.06012806,0.0001022871368024,0.3571428571428571,0.0,False
+let's hold on to that,0.038224805,0.0040451403387265,0.5,0.0,False
+she's awesome,0.03856816,0.0037651322821243,0.0,0.0,False
+she's just really,0.025692256,0.0052518126311857,0.4,0.0,False
+"i, just i can't say enough about her",0.062925026,0.0328854933056466,0.5,0.0,False
+"she's just a really cool character, one of the strongest female marvel hero that we've seen in some time and again",0.040284947,0.0013108668816961,0.4125,0.0,False
+hopefully when she gets back on that ship again she could take a trip to her condo,0.089041,0.0163829301366338,0.5,0.0,False
+"just be like, hey, what's up? i brought him",0.07690986,0.9165314014655076,0.5,0.0,False
+go with me to falcon is riding shotgun,0.22988434,0.865505797075792,0.5,0.0,False
+war machine flew behind us,0.15451296,0.0070275316319692,0.7,0.494,False
+peter picked up sand data from spider-man homecoming,0.08330294,0.912160086760474,0.5,0.0,False
+we all here go boom,0.13565879,0.0011242941904423,0.5,0.0,False
+it's all i say,0.020130653,0.0167178966665063,0.5,0.0,False
+"if you like go bloom, you're gonna get some goldblum in this gold boom is at full goldblum",0.14911842,0.0068786609302419,0.325,0.0,False
+"in this movie it's grandmaster right, cuz, i keep want to call him taskmaster for some reason, but it's grandmaster",0.05253629,9.835301615618172e-06,0.3571428571428571,0.0,False
+i also love that kind of turn a little bit in jeff,0.1008549,0.0003417618291705,0.3479166666666666,0.0,False
+go boom when i try to explain that you hear me go,0.22990009,0.0022115718820767,0.5,0.0,False
+"uh, a grandmaster if you know jeff goldblum and you know how jeff goldblum is, and that's the jeff goldblum",0.082104236,0.0004267924822292,0.5,0.0,False
+"you want to see thor ragnarok deliveries, but there's his new character",0.042001735,0.033830308143576,0.4318181818181818,0.0,False
+korg,0.015688026,0.1229911321940239,0.5,0.0,False
+i really liked him and i found out later that the director tycho martyt was the voice of him,0.022773718,0.0007044162232882,0.35,0.0,False
+he was really funny too,0.05613239,0.0002692190287693,0.375,0.0,False
+i really liked that character a lot,0.040971663,0.0036430553263135,0.2,0.0,False
+he's trying to start this whole resistance and that leads into thor wanting to start his own group of superheroes called lore avengers,0.09548495,0.0552602084022922,0.3,0.0,False
+"what i thought was really cute and then even the ending of this movie man, it was not what i was expecting",0.103539884,0.9999184564084233,0.25,0.0,False
+"you know, i had a whole idea what was gonna go down and then i was like oh, okay, i mean, you won",0.09118898,0.1591361934748079,0.4710069444444444,0.0,False
 but that was a surprise,0.02792408,0.0667667363900139,0.5,0.0,False
-His movie is just full escapism,0.14193995,0.0021609349807284,0.325,0.0,False
+his movie is just full escapism,0.14193995,0.0021609349807284,0.325,0.0,False
 at its finest,0.023803791,0.002481714833119,0.5,0.0,False
-It's not trying to connect what it's saying in a movie,0.024147147,0.9996776107346178,0.5,0.0,False
-"two things are happening in the real world, except for maybe a little subtle metaphor about immigration all the way down to a song called Immigrations On this movie, issues all about going in, shutting off the rest of the world, being in this fantasy world, seeing all the action, seeing Thor fight scene, Factory, fight, See, and hope, though crazy, seeing all these action and colors and and powers and all that kind of stuff, this is a pure escape film",0.13251819,0.0055286018618047,0.5034501763668431,0.085,False
-And you know what there's nothing wrong with that,0.02929751,0.0002402197909754,0.75,0.0,False
-"This feels like the types of movies that they were trying to make as action films back in the day, but they just didn't have the budget or the story or no one cared enough to try to make it good",0.08796701,0.9999802697888802,0.4,0.12,False
-"Like seriously, I want everybody that worked on Thor Ragnarok to now make a Masters of the Universe movie",0.0681194,0.0062759059609259,0.6666666666666666,0.079,False
-"Like if y'all could do He-man like you do, Thor, I would be a happy happy person and then get on Thundercats while you're at it, and Silverhawk to the finish of the trilogy",0.08850401,0.0004435721028643,0.0999999999999999,0.0,False
-"Now for the bad, Like I said, this movie is super super funny, so funny though that sometimes the more dramatic stuff kinda doesn't have as much strength as it should",0.15626417,0.0009401654226202,0.4541666666666666,0.074,False
-It's really good stuff and an instrumenting stuff,0.031185975,0.0021775953855864,0.15,0.0,False
-"And what I do like about the movie is that when it does get into some of the more heavier stuff, usually with hella, it does kind of stop the jokey jokes",0.1689685,0.0002826009997554,0.3583333333333333,0.067,False
-It really makes it clear this is bad and this needs to be stopped,0.17380224,0.9994600717452468,0.5666666666666667,0.28,False
-"but I think that in a movie that maybe wasn't as humorous, that might have had a little bit more weight to it than it does in this movie The tournament stuff",0.089041,0.9913766757789246,0.3645833333333333,0.082,False
-"It makes sense why that super humorous and fun and action-packed Because it's a Tournament of Fighters and it's the crazy world is And you got Jeff Goldblum What do you expect? But the hell of stuff I think is something that's also very good too, in a different way",0.24769363,0.0007122248566922,0.3797222222222222,0.146,True
-"as much as I like it, and as good as it is in this movie",0.03187269,0.0023253037334864,0.275,0.0,False
-"In a weird way, I kind of do wish it was a movie or a character that got established in earlier Thor movies, and luckily, like I said, with the direction, they were able to make it all seamlessly feel like the same movie",0.045091953,0.0014930285891951,0.4261904761904762,0.033,False
-but I feel like there's something they could have done more with Hella,0.08170467,0.1146713313415953,0.25,0.0,False
-They really kind of introduced this whole storyline because her story is interesting and her reason for doing what she's doing is,0.02809576,0.1009394918534792,0.2833333333333333,0.0,False
+it's not trying to connect what it's saying in a movie,0.024147147,0.9996776107346178,0.5,0.0,False
+"two things are happening in the real world, except for maybe a little subtle metaphor about immigration all the way down to a song called immigrations on this movie, issues all about going in, shutting off the rest of the world, being in this fantasy world, seeing all the action, seeing thor fight scene, factory, fight, see, and hope, though crazy, seeing all these action and colors and and powers and all that kind of stuff, this is a pure escape film",0.13251819,0.0055286018618047,0.5034501763668431,0.085,False
+and you know what there's nothing wrong with that,0.02929751,0.0002402197909754,0.75,0.0,False
+"this feels like the types of movies that they were trying to make as action films back in the day, but they just didn't have the budget or the story or no one cared enough to try to make it good",0.08796701,0.9999802697888802,0.4,0.12,False
+"like seriously, i want everybody that worked on thor ragnarok to now make a masters of the universe movie",0.0681194,0.0062759059609259,0.6666666666666666,0.079,False
+"like if y'all could do he-man like you do, thor, i would be a happy happy person and then get on thundercats while you're at it, and silverhawk to the finish of the trilogy",0.08850401,0.0004435721028643,0.0999999999999999,0.0,False
+"now for the bad, like i said, this movie is super super funny, so funny though that sometimes the more dramatic stuff kinda doesn't have as much strength as it should",0.15626417,0.0009401654226202,0.4541666666666666,0.074,False
+it's really good stuff and an instrumenting stuff,0.031185975,0.0021775953855864,0.15,0.0,False
+"and what i do like about the movie is that when it does get into some of the more heavier stuff, usually with hella, it does kind of stop the jokey jokes",0.1689685,0.0002826009997554,0.3583333333333333,0.067,False
+it really makes it clear this is bad and this needs to be stopped,0.17380224,0.9994600717452468,0.5666666666666667,0.28,False
+"but i think that in a movie that maybe wasn't as humorous, that might have had a little bit more weight to it than it does in this movie the tournament stuff",0.089041,0.9913766757789246,0.3645833333333333,0.082,False
+"it makes sense why that super humorous and fun and action-packed because it's a tournament of fighters and it's the crazy world is and you got jeff goldblum what do you expect? but the hell of stuff i think is something that's also very good too, in a different way",0.24769363,0.0007122248566922,0.3797222222222222,0.146,True
+"as much as i like it, and as good as it is in this movie",0.03187269,0.0023253037334864,0.275,0.0,False
+"in a weird way, i kind of do wish it was a movie or a character that got established in earlier thor movies, and luckily, like i said, with the direction, they were able to make it all seamlessly feel like the same movie",0.045091953,0.0014930285891951,0.4261904761904762,0.033,False
+but i feel like there's something they could have done more with hella,0.08170467,0.1146713313415953,0.25,0.0,False
+they really kind of introduced this whole storyline because her story is interesting and her reason for doing what she's doing is,0.02809576,0.1009394918534792,0.2833333333333333,0.0,False
 not only these cases with a villain kinda has a point,0.103539884,0.9859045821954932,0.5,0.265,False
-I was doing something that I was told was okay and right for so long,0.025692256,0.0047840099216138,0.3773809523809524,0.0,False
-Then all of a sudden I'm wrong and I'm banished,0.10828095,0.993658465753748,0.625,0.256,False
-so therefore I got some vengeance to take out and I can respect that,0.2590451,0.001889033596973,0.5,0.0,False
-"I mean, I'm not saying I side with the villain",0.15451296,0.9719582437203238,0.65625,0.286,False
-I'm just saying that I kind of get where she's coming from a little bit,0.13431281,0.8522469759874985,0.396875,0.0,False
-So to see her story kind of go from start to finish,0.034104515,0.7667320982459603,0.2,0.0,False
-"in this movie, You know, I wished that she was like Loki, where we would have met her early, and we could have seen the progression of her and her vengeance, or anger towards Thor towards Odin Along the way",0.11085691,0.1527287030998426,0.65,0.084,False
-"Maybe there would have been a moment where Loki and Hella kind of teamed up and worked together, and then Hella getting to a point where even look he was like, I can't roll with that, and that could have been interesting",0.0681194,0.999796647688111,0.2249999999999999,0.0,False
-"You know, for all that time we spent with them elves, that we're never gonna see again and Thor, the dark world, that could have been a moment to be like Hella, could have been a part of that",0.065721996,0.1411065358082767,0.5625,0.0,False
-"You know, that's what I'm saying",0.03358948,0.0076553517184328,0.5,0.0,False
-"I think maybe the second movie could introduce or has something to do with Hella, That could have culminated to this movie dealing with that as well as a tournament, because I feel like that she was a great villain that we're now kind of done with",0.112144895,0.9998567324397992,0.2666666666666667,0.065,False
-"Maybe who knows you know, Marvel will always find a way They need to bring her back, But look like she's pretty done",0.06971766,0.9773545756773706,0.4375,0.0,False
-"Like I said, Schiff was nowhere to be found",0.076110736,0.0008788885131604,0.5,0.0,False
-"They don't even explain why she's gone and Jane Foster, Natalie Portman, Dang talked about",0.04406188,0.999262680222216,0.5,0.0,False
-Just give it up on something,0.09172598,0.9986948554756074,0.5,0.0,False
-"You had two movies where you made pretty much a large part of the movie about Thor, pretty much leaving his life to be with this one woman that he loves so much, and the third movie that he's like, Yeah, they broke up and that's it, And it's not even for Mike Lore or Loki",0.089577995,0.9999363983828856,0.4071428571428571,0.041,False
-It's from,0.020963646,0.2417266187908027,0.5,0.0,False
+i was doing something that i was told was okay and right for so long,0.025692256,0.0047840099216138,0.3773809523809524,0.0,False
+then all of a sudden i'm wrong and i'm banished,0.10828095,0.993658465753748,0.625,0.256,False
+so therefore i got some vengeance to take out and i can respect that,0.2590451,0.001889033596973,0.5,0.0,False
+"i mean, i'm not saying i side with the villain",0.15451296,0.9719582437203238,0.65625,0.286,False
+i'm just saying that i kind of get where she's coming from a little bit,0.13431281,0.8522469759874985,0.396875,0.0,False
+so to see her story kind of go from start to finish,0.034104515,0.7667320982459603,0.2,0.0,False
+"in this movie, you know, i wished that she was like loki, where we would have met her early, and we could have seen the progression of her and her vengeance, or anger towards thor towards odin along the way",0.11085691,0.1527287030998426,0.65,0.084,False
+"maybe there would have been a moment where loki and hella kind of teamed up and worked together, and then hella getting to a point where even look he was like, i can't roll with that, and that could have been interesting",0.0681194,0.999796647688111,0.2249999999999999,0.0,False
+"you know, for all that time we spent with them elves, that we're never gonna see again and thor, the dark world, that could have been a moment to be like hella, could have been a part of that",0.065721996,0.1411065358082767,0.5625,0.0,False
+"you know, that's what i'm saying",0.03358948,0.0076553517184328,0.5,0.0,False
+"i think maybe the second movie could introduce or has something to do with hella, that could have culminated to this movie dealing with that as well as a tournament, because i feel like that she was a great villain that we're now kind of done with",0.112144895,0.9998567324397992,0.2666666666666667,0.065,False
+"maybe who knows you know, marvel will always find a way they need to bring her back, but look like she's pretty done",0.06971766,0.9773545756773706,0.4375,0.0,False
+"like i said, schiff was nowhere to be found",0.076110736,0.0008788885131604,0.5,0.0,False
+"they don't even explain why she's gone and jane foster, natalie portman, dang talked about",0.04406188,0.999262680222216,0.5,0.0,False
+just give it up on something,0.09172598,0.9986948554756074,0.5,0.0,False
+"you had two movies where you made pretty much a large part of the movie about thor, pretty much leaving his life to be with this one woman that he loves so much, and the third movie that he's like, yeah, they broke up and that's it, and it's not even for mike lore or loki",0.089577995,0.9999363983828856,0.4071428571428571,0.041,False
+it's from,0.020963646,0.2417266187908027,0.5,0.0,False
 like some fan,0.042001735,0.0052577138121551,0.5,0.0,False
-"Some random person comes up the doors like Oh, you're Thor",0.16827796,0.0003230151482123,0.75,0.0,False
-"Can I take a picture? By the way? Sorry, Did your girlfriend broke up with you by? I'm like",0.3170379,0.8014967898469645,0.75,0.201,False
+"some random person comes up the doors like oh, you're thor",0.16827796,0.0003230151482123,0.75,0.0,False
+"can i take a picture? by the way? sorry, did your girlfriend broke up with you by? i'm like",0.3170379,0.8014967898469645,0.75,0.201,False
 that's it,0.030842619,0.0019761803300762,0.5,0.0,False
-That's how you Andale,0.1008549,0.0035764435108259,0.5,0.0,False
+that's how you andale,0.1008549,0.0035764435108259,0.5,0.0,False
 somebody's you forced me to watch,0.14193995,0.1972346350682865,0.65,0.375,False
-You made me sit through that for two movies,0.19141254,0.9991410503255692,0.5,0.0,False
-"For the third movies Go? Yeah, that's over",0.07371333,0.9738744883184336,0.5,0.0,False
-"Why couldn't Ella meet her be like? Hey, let's not Natalie Portman, Yeah, nothing that's wrong",0.06132676,0.001611827111134,0.75,0.095,False
-That's nice wrong that I shouldn't want Jane Foster dead,0.3897707,0.9996204765734144,0.5166666666666667,0.495,False
-"That's a really terrible thing to say, but it'd be pretty cool",0.1580154,0.9560160543118468,0.5666666666666667,0.119,False
-Dov You want it? Helena? Get Thor upset,0.27194336,0.9991939225227394,0.5,0.288,False
-That'll be a way to do it,0.026207292,0.0007678390167368,0.5,0.0,False
-I'm just trying to add a little bit more drama to your comedy,0.14822112,0.955444682895868,0.421875,0.0,False
-"Where's Kat Dennings And now by the nerd, Yeah, God had that Stan Lee cameo",0.3511902,0.8204233078050629,0.5,0.119,False
-It's a good one,0.026035614,0.00275233464727,0.15,0.0,False
-"Well, we also get another cameo from another Marvel hero that you might remember",0.06132676,0.7652229457229045,0.5,0.0,False
-I don't know,0.017770508,0.9871418929426824,0.5,0.0,False
-That's a Doctor Strange song or the Guild theme song,0.04234509,0.0944289096352158,0.525,0.167,False
-"It was fun to see Doctor Strange and Loki kind of go head-to-head while in the battle, Loki had to go grab something for Thor, and he's notices that tesseract is still under there and they don't ever show him taking the tesseract, But I think it's pretty safe to assume he took it",0.06492286,0.0007995504134611,0.3399999999999999,0.051,False
-You know you can't trust Loki,0.22982925,0.9715225100548076,0.5,0.351,False
-How in three movies and the Avengers does Thor not realize? Stop trusting Loki,0.1621016,0.0137432245948347,0.5,0.14,False
-"I know he's your brother, but I got some family members and I love to, but I don't keep my wallet and plain sight around them, Cuz, I know you get a funny after credit scene with Jeff Goldblum at the very very end and you get a very interesting scene in the mid credits where Thor and Loki",0.09709594,0.0096633328570663,0.3795238095238095,0.0,False
-They've got a bunch of people in the ship,0.08170467,0.0045109163800868,0.5,0.0,False
-"Everything is cool and then this much much bigger ship just shows up and they don't show who's in that ship, But I'm gonna have a good guess that probably involves a big purple being with a really cool blinged out gauntlet",0.09118898,0.9932532811311288,0.36,0.0,False
-I think the Infinity War is about to begin,0.26589394,0.050111219378906,0.5,0.328,False
-I do like the movie,0.026722329,0.0548415822007983,0.5,0.0,False
-I really think it's fun in this movie being a little over hyped right now,0.07371333,0.1768683481694387,0.4252232142857143,0.0,False
-"Maybe if you want to sense the best door yet, I'm all about that",0.05413456,0.0316735159111038,0.0,0.0,False
-"I could believe that, but best Marvel film",0.056931525,1.490197214487602e-06,0.0,0.0,False
-I can't go that far,0.034962907,0.993676258708489,0.45,0.0,False
+you made me sit through that for two movies,0.19141254,0.9991410503255692,0.5,0.0,False
+"for the third movies go? yeah, that's over",0.07371333,0.9738744883184336,0.5,0.0,False
+"why couldn't ella meet her be like? hey, let's not natalie portman, yeah, nothing that's wrong",0.06132676,0.001611827111134,0.75,0.095,False
+that's nice wrong that i shouldn't want jane foster dead,0.3897707,0.9996204765734144,0.5166666666666667,0.495,False
+"that's a really terrible thing to say, but it'd be pretty cool",0.1580154,0.9560160543118468,0.5666666666666667,0.119,False
+dov you want it? helena? get thor upset,0.27194336,0.9991939225227394,0.5,0.288,False
+that'll be a way to do it,0.026207292,0.0007678390167368,0.5,0.0,False
+i'm just trying to add a little bit more drama to your comedy,0.14822112,0.955444682895868,0.421875,0.0,False
+"where's kat dennings and now by the nerd, yeah, god had that stan lee cameo",0.3511902,0.8204233078050629,0.5,0.119,False
+it's a good one,0.026035614,0.00275233464727,0.15,0.0,False
+"well, we also get another cameo from another marvel hero that you might remember",0.06132676,0.7652229457229045,0.5,0.0,False
+i don't know,0.017770508,0.9871418929426824,0.5,0.0,False
+that's a doctor strange song or the guild theme song,0.04234509,0.0944289096352158,0.525,0.167,False
+"it was fun to see doctor strange and loki kind of go head-to-head while in the battle, loki had to go grab something for thor, and he's notices that tesseract is still under there and they don't ever show him taking the tesseract, but i think it's pretty safe to assume he took it",0.06492286,0.0007995504134611,0.3399999999999999,0.051,False
+you know you can't trust loki,0.22982925,0.9715225100548076,0.5,0.351,False
+how in three movies and the avengers does thor not realize? stop trusting loki,0.1621016,0.0137432245948347,0.5,0.14,False
+"i know he's your brother, but i got some family members and i love to, but i don't keep my wallet and plain sight around them, cuz, i know you get a funny after credit scene with jeff goldblum at the very very end and you get a very interesting scene in the mid credits where thor and loki",0.09709594,0.0096633328570663,0.3795238095238095,0.0,False
+they've got a bunch of people in the ship,0.08170467,0.0045109163800868,0.5,0.0,False
+"everything is cool and then this much much bigger ship just shows up and they don't show who's in that ship, but i'm gonna have a good guess that probably involves a big purple being with a really cool blinged out gauntlet",0.09118898,0.9932532811311288,0.36,0.0,False
+i think the infinity war is about to begin,0.26589394,0.050111219378906,0.5,0.328,False
+i do like the movie,0.026722329,0.0548415822007983,0.5,0.0,False
+i really think it's fun in this movie being a little over hyped right now,0.07371333,0.1768683481694387,0.4252232142857143,0.0,False
+"maybe if you want to sense the best door yet, i'm all about that",0.05413456,0.0316735159111038,0.0,0.0,False
+"i could believe that, but best marvel film",0.056931525,1.490197214487602e-06,0.0,0.0,False
+i can't go that far,0.034962907,0.993676258708489,0.45,0.0,False
 but overall this is just a fun freakin film,0.4292556,0.0033772041432489,0.425,0.0,False
-So those are my thoughts on Thor Ragnarok,0.03770977,0.0031584133882178,0.5,0.0,False
-What did you think if you saw the movie or do you plan on seeing the movie? Let me know in the comments,0.025005542,0.2174555085229445,0.5,0.0,False
-"If you like my reviews and talking about movies, please subscribe to my channel",0.02054715,0.976186022629658,0.5,0.0,False
-"It's absolutely free, and you can also ring that Bell to be notified of future videos that I make",0.16551583,0.9886368885922006,0.4,0.0,False
-"I love you like a play, cousin",0.11407687,0.0021015655237032,0.25,0.0,False
-"I'm outie 5000 Chain Chomp, Yo",0.03204437,0.1321582889865544,0.5,0.0,False
+so those are my thoughts on thor ragnarok,0.03770977,0.0031584133882178,0.5,0.0,False
+what did you think if you saw the movie or do you plan on seeing the movie? let me know in the comments,0.025005542,0.2174555085229445,0.5,0.0,False
+"if you like my reviews and talking about movies, please subscribe to my channel",0.02054715,0.976186022629658,0.5,0.0,False
+"it's absolutely free, and you can also ring that bell to be notified of future videos that i make",0.16551583,0.9886368885922006,0.4,0.0,False
+"i love you like a play, cousin",0.11407687,0.0021015655237032,0.25,0.0,False
+"i'm outie 5000 chain chomp, yo",0.03204437,0.1321582889865544,0.5,0.0,False

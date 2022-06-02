@@ -1,58 +1,58 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-You know what? It's always refreshing to see women in power,0.16035037,0.0009343671875279,0.25,0.0,False
-"You know, We rarely see that in Tv and films",0.028954152,0.9965830177049916,0.35,0.0,False
-In this movie just did that to one hundred percent,0.12695669,0.9999266812350456,0.5,0.0,False
-"Hey guys, thank you for joining the Quest Marquis, Underway here, reviewing Mad Max Fury Road starring Tom Hardy and Charlize Theron, and it's directed by George Miller",0.043718524,0.0019008336880054,0.8125,0.191,False
-Now this movie was a blast,0.22987647,0.0022848630727357,0.5,0.0,False
-"I must say, the action was non-stop for about an hour and a half",0.039598234,0.9991143629672284,0.5166666666666666,0.0,False
-"Is this non-stop action? The first 30 minutes of the movie basically sets up the plot, Basically the bad guy this once against this truck from point A to point B, because it has his wives, but the truck decides to go a different way, and since it's off course, the bad guy wants to go follow the truck, which is a driven by Charlize Theron, and I must say her character was very strong",0.10892494,0.1716781532731761,0.5204761904761904,0.083,False
-"You think since the movie is called Mad Max At the movie would revolve around Max, but I wouldn't say that he's the main character",0.0753116,0.7719533668811389,0.6145833333333334,0.08,False
-"I would see that Furiosa, played by Charlize Theron, She's really the one in charge during the whole movie",0.0471521,0.0076560586931615,0.4,0.0,False
-You know,0.03994159,0.0418482945339966,0.5,0.0,False
-That's really unique to see,0.028954152,0.0003060611371203,0.3125,0.0,False
-I haven't seen a Sean female lead character and action movie,0.04131502,0.9997605516432344,0.475,0.0,False
-"Probably since the Terminator, I haven't really seen speed, so I can't really give you that perspective",0.07690986,0.9998029632702792,0.4,0.0,False
-But probably since Terminator I haven't seen a very strong one,0.09924392,0.970916711075187,0.2183333333333333,0.0,False
-"And this girl, she just does it to the max",0.20742953,0.0039482452971675,0.5,0.0,False
-Even the wives that the bad guy trying to get back,0.21036349,0.010632353484668,0.6749999999999999,0.259,False
-"I wrong to one of them's even pregnant and she puts up a fight with a Max, So that's really interesting to see",0.14104263,0.0071769831533745,0.4444444444444444,0.197,False
-"I'm still trying to figure our pregnant woman could do a hand-to-hand fight, but all in all you know, it's really, you know, unique and but this movie was a non-stop action thriller",0.14956708,0.8746803778718006,0.3739583333333333,0.052,False
-"To be honest with you, it's probably like a 20 minute fight scene, then like a five-minute break, Just to help the story develop a little bit more, there will be another 20 million fight scene or whatever, and that just really",0.104076885,0.1952004821155861,0.3609375,0.1,False
+you know what? it's always refreshing to see women in power,0.16035037,0.0009343671875279,0.25,0.0,False
+"you know, we rarely see that in tv and films",0.028954152,0.9965830177049916,0.35,0.0,False
+in this movie just did that to one hundred percent,0.12695669,0.9999266812350456,0.5,0.0,False
+"hey guys, thank you for joining the quest marquis, underway here, reviewing mad max fury road starring tom hardy and charlize theron, and it's directed by george miller",0.043718524,0.0019008336880054,0.8125,0.191,False
+now this movie was a blast,0.22987647,0.0022848630727357,0.5,0.0,False
+"i must say, the action was non-stop for about an hour and a half",0.039598234,0.9991143629672284,0.5166666666666666,0.0,False
+"is this non-stop action? the first 30 minutes of the movie basically sets up the plot, basically the bad guy this once against this truck from point a to point b, because it has his wives, but the truck decides to go a different way, and since it's off course, the bad guy wants to go follow the truck, which is a driven by charlize theron, and i must say her character was very strong",0.10892494,0.1716781532731761,0.5204761904761904,0.083,False
+"you think since the movie is called mad max at the movie would revolve around max, but i wouldn't say that he's the main character",0.0753116,0.7719533668811389,0.6145833333333334,0.08,False
+"i would see that furiosa, played by charlize theron, she's really the one in charge during the whole movie",0.0471521,0.0076560586931615,0.4,0.0,False
+you know,0.03994159,0.0418482945339966,0.5,0.0,False
+that's really unique to see,0.028954152,0.0003060611371203,0.3125,0.0,False
+i haven't seen a sean female lead character and action movie,0.04131502,0.9997605516432344,0.475,0.0,False
+"probably since the terminator, i haven't really seen speed, so i can't really give you that perspective",0.07690986,0.9998029632702792,0.4,0.0,False
+but probably since terminator i haven't seen a very strong one,0.09924392,0.970916711075187,0.2183333333333333,0.0,False
+"and this girl, she just does it to the max",0.20742953,0.0039482452971675,0.5,0.0,False
+even the wives that the bad guy trying to get back,0.21036349,0.010632353484668,0.6749999999999999,0.259,False
+"i wrong to one of them's even pregnant and she puts up a fight with a max, so that's really interesting to see",0.14104263,0.0071769831533745,0.4444444444444444,0.197,False
+"i'm still trying to figure our pregnant woman could do a hand-to-hand fight, but all in all you know, it's really, you know, unique and but this movie was a non-stop action thriller",0.14956708,0.8746803778718006,0.3739583333333333,0.052,False
+"to be honest with you, it's probably like a 20 minute fight scene, then like a five-minute break, just to help the story develop a little bit more, there will be another 20 million fight scene or whatever, and that just really",0.104076885,0.1952004821155861,0.3609375,0.1,False
 that was really fun,0.0471521,0.0079273679278686,0.35,0.0,False
-"No, he has people playing the guitars",0.051737156,0.1049172153652287,0.5,0.0,False
+"no, he has people playing the guitars",0.051737156,0.1049172153652287,0.5,0.0,False
 that people be in drums during the whole fight scenes and all that fun stuff,0.13206954,6.983165296261458e-05,0.375,0.138,False
-You know,0.03994159,0.0418482945339966,0.5,0.0,False
-it was really just refreshing and energize me Is,0.027237365,0.0010460143800153,0.325,0.0,False
+you know,0.03994159,0.0418482945339966,0.5,0.0,False
+it was really just refreshing and energize me is,0.027237365,0.0010460143800153,0.325,0.0,False
 "maybe one day you know, watch the movie",0.03599298,0.006780853191989,0.5,0.0,False
-"I felt more engaged if all that happening, and ninety percent of this movie's practical effects",0.044405237,0.8380602179534408,0.25,0.0,False
-"So people are doing these death defying stunts And I really expect that it takes a lot of strength and a lot of energy just for your body to handle that, If them for them to do it for what it seemed like one take because it seems like they really her Steve scenes, because they're just so precise",0.16151784,0.030342255571332,0.3666666666666667,0.057,False
-"And you know, if you did this multiple times, there will be a lot of quick edits and things of that nature",0.04165838,0.9942620913372984,0.4166666666666667,0.0,False
+"i felt more engaged if all that happening, and ninety percent of this movie's practical effects",0.044405237,0.8380602179534408,0.25,0.0,False
+"so people are doing these death defying stunts and i really expect that it takes a lot of strength and a lot of energy just for your body to handle that, if them for them to do it for what it seemed like one take because it seems like they really her steve scenes, because they're just so precise",0.16151784,0.030342255571332,0.3666666666666667,0.057,False
+"and you know, if you did this multiple times, there will be a lot of quick edits and things of that nature",0.04165838,0.9942620913372984,0.4166666666666667,0.0,False
 but there really weren't you know,0.018464668,0.8703944787989552,0.4,0.0,False
-"The quick cuts to meat eaters seem like they're showing a different angle like they were filming at the same time, But it was just a camera over here that just happened to be playing while I was going on",0.07251463,0.999453506961706,0.4444444444444444,0.037,False
-"So you know, it's really energizing to see that too",0.032902762,0.0010676225526136,0.4,0.0,False
+"the quick cuts to meat eaters seem like they're showing a different angle like they were filming at the same time, but it was just a camera over here that just happened to be playing while i was going on",0.07251463,0.999453506961706,0.4444444444444444,0.037,False
+"so you know, it's really energizing to see that too",0.032902762,0.0010676225526136,0.4,0.0,False
 one scene,0.024833864,0.0583980684380003,0.5,0.0,False
-I was kind of made there to help the story go along,0.01999182,0.0034934305194425,0.2,0.0,False
-"I'm kind of felt a little bit too long, but then when you heard it for me, contact me",0.048868883,0.8781985758276973,0.4395833333333333,0.0,False
-"I'll move you a little bit, but also engaged because you know the facing at the end it was really worth to wait",0.22989221,0.1079899869218398,0.471875,0.0,False
-"You see the explosions and people wanted the big long poles, Kinda like what they showed in a trailer",0.1580154,0.8753648055622119,0.5125,0.0,False
-Really,0.015757442,0.06545601291364,0.4,0.0,False
-"Now, in order to prepare for this movie, I saw all three Mad Max movies to prepare for this event Today",0.06332459,0.2247369167730682,0.8125,0.138,False
-I saw the first one on Monday,0.026207292,0.0709064881742197,0.375,0.0,False
-I thought it was okay,0.017909339,0.9995012237676784,0.25,0.0,False
-"I saw the second one, Road warrior",0.04234509,0.0008819412901479,0.5,0.0,False
-"I thought I was amazing, non-stop action kind of like this one And I saw the third one which I actually cut off, but I kind of got bored, but on this movie really reminded me of the second one",0.118584804,0.9900440270242238,0.4111111111111111,0.095,False
-This may be the second best movie in the Mad Max Cuadrilla,0.085282035,0.0,0.4375,0.184,False
-D,0.027409043,0.1767682638235676,0.5,0.0,False
-I guess that's the word,0.021796638,0.135359345400529,0.5,0.0,False
-"It could also be the best one, but it's definitely top two",0.038053125,0.0029247332210304,0.125,0.0,False
-For me,0.024833864,0.0570678395284709,0.5,0.0,False
-This movie was perfect,0.035649624,0.0006626108871808,0.0,0.0,False
-To me,,0.0166002923213197,0.5,0.0,False
-"This is the best action movie since The Raid Tube, which came out",0.062125895,4.443832461257292e-05,0.2249999999999999,0.0,False
-I think 2012-2013 it's possibly the best film into 2010 decade,0.046465382,0.0015528377938562,0.25,0.0,False
-I'm giving this movie an A plus a 5 out of 5,0.07131593,0.0025109888734303,0.5,0.0,False
-This is an instant classic,0.09118898,0.0010259560349688,0.4583333333333333,0.0,False
-"You know, when I came out the movie theater, I got this nice poster right here and I really thought it was badass",0.33081788,0.7538298921200807,0.319047619047619,0.0,False
-This is definitely going on the wall right here next to my other posters,0.06851897,0.8326431533983546,0.4799107142857143,0.0,False
-"Thank you for watching again, I, a Marquis Underwood, Thank you for joining the quest today",0.03358948,0.0048436581652664,0.5,0.0,False
-Have a good one,0.03358948,0.0048697667986404,0.15,0.0,False
+i was kind of made there to help the story go along,0.01999182,0.0034934305194425,0.2,0.0,False
+"i'm kind of felt a little bit too long, but then when you heard it for me, contact me",0.048868883,0.8781985758276973,0.4395833333333333,0.0,False
+"i'll move you a little bit, but also engaged because you know the facing at the end it was really worth to wait",0.22989221,0.1079899869218398,0.471875,0.0,False
+"you see the explosions and people wanted the big long poles, kinda like what they showed in a trailer",0.1580154,0.8753648055622119,0.5125,0.0,False
+really,0.015757442,0.06545601291364,0.4,0.0,False
+"now, in order to prepare for this movie, i saw all three mad max movies to prepare for this event today",0.06332459,0.2247369167730682,0.8125,0.138,False
+i saw the first one on monday,0.026207292,0.0709064881742197,0.375,0.0,False
+i thought it was okay,0.017909339,0.9995012237676784,0.25,0.0,False
+"i saw the second one, road warrior",0.04234509,0.0008819412901479,0.5,0.0,False
+"i thought i was amazing, non-stop action kind of like this one and i saw the third one which i actually cut off, but i kind of got bored, but on this movie really reminded me of the second one",0.118584804,0.9900440270242238,0.4111111111111111,0.095,False
+this may be the second best movie in the mad max cuadrilla,0.085282035,0.0,0.4375,0.184,False
+d,0.027409043,0.1767682638235676,0.5,0.0,False
+i guess that's the word,0.021796638,0.135359345400529,0.5,0.0,False
+"it could also be the best one, but it's definitely top two",0.038053125,0.0029247332210304,0.125,0.0,False
+for me,0.024833864,0.0570678395284709,0.5,0.0,False
+this movie was perfect,0.035649624,0.0006626108871808,0.0,0.0,False
+to me,,0.0166002923213197,0.5,0.0,False
+"this is the best action movie since the raid tube, which came out",0.062125895,4.443832461257292e-05,0.2249999999999999,0.0,False
+i think 2012-2013 it's possibly the best film into 2010 decade,0.046465382,0.0015528377938562,0.25,0.0,False
+i'm giving this movie an a plus a 5 out of 5,0.07131593,0.0025109888734303,0.5,0.0,False
+this is an instant classic,0.09118898,0.0010259560349688,0.4583333333333333,0.0,False
+"you know, when i came out the movie theater, i got this nice poster right here and i really thought it was badass",0.33081788,0.7538298921200807,0.319047619047619,0.0,False
+this is definitely going on the wall right here next to my other posters,0.06851897,0.8326431533983546,0.4799107142857143,0.0,False
+"thank you for watching again, i, a marquis underwood, thank you for joining the quest today",0.03358948,0.0048436581652664,0.5,0.0,False
+have a good one,0.03358948,0.0048697667986404,0.15,0.0,False

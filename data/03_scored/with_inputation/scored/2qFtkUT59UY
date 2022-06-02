@@ -1,33 +1,33 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-This is Chris Shelton from the critical picture,0.085282035,0.0040328106160043,0.5,0.247,False
-Bringing you movie reviews,0.05133759,0.004143318990888,0.5,0.0,False
-You can count on this time,0.03616466,0.000412886468619,0.5,0.0,False
-"Moonlight was directed by Barry Jenkins, from his screenplay, based on a story by Carol, Alvin Mccraney, and stars Travante Roads, Andre Holland, Janelle Monae Ashton Sanders, Gerald Jerome, Naomie Harris and Maha Saleh Ali, I've been reviewing all of the Oscar contenders, but I didn't get to see when they first came out in the theater, And it's been something contacting all of this into the last couple of weeks when you look at the quality of the filmmaking packed into just a few of the hundreds of movies which were released in 2016, it is quite impressive, and I have to say that Moonlight without a doubt was not just one of the best of 2016, but is just plain brilliant",0.026035614,0.0,0.3045918367346938,0.0,False
+this is chris shelton from the critical picture,0.085282035,0.0040328106160043,0.5,0.247,False
+bringing you movie reviews,0.05133759,0.004143318990888,0.5,0.0,False
+you can count on this time,0.03616466,0.000412886468619,0.5,0.0,False
+"moonlight was directed by barry jenkins, from his screenplay, based on a story by carol, alvin mccraney, and stars travante roads, andre holland, janelle monae ashton sanders, gerald jerome, naomie harris and maha saleh ali, i've been reviewing all of the oscar contenders, but i didn't get to see when they first came out in the theater, and it's been something contacting all of this into the last couple of weeks when you look at the quality of the filmmaking packed into just a few of the hundreds of movies which were released in 2016, it is quite impressive, and i have to say that moonlight without a doubt was not just one of the best of 2016, but is just plain brilliant",0.026035614,0.0,0.3045918367346938,0.0,False
 writing and filmmaking,0.0186035,7.733798080456415e-05,0.5,0.0,False
-"I'm going to talk about this and try to break it down for you, but I have to lead with saying that this movie is important in a way few films are that it has something to say about love, family friendship, the harsh realities of life and our social order, and how fate is really nothing more than the choices were forced to make, but how they can be overcome, and it packs all this into an intensely dramatic and fascinating two hours that will leave you thoughtful, both happy and sad, and probably a bit taken aback by how stunningly good it is",0.077709,2.491504892200988e-05,0.4185185185185185,0.097,False
-Moonlight defies easy or simple labels,0.0253489,0.0005747448785418,0.3916666666666666,0.0,False
-"At this point it's a bit repetitive to say that it works on so many levels, or is a multi-layered story",0.028954152,0.9133262967195166,0.4375,0.091,False
-"So instead, let's just say that there's a lot going on here",0.028267438,0.9818491782414852,0.5,0.0,False
-"The story is actually a collaboration between Taro Alvin Mccraney and Barry Jenkin, both of them contributing semi biographical material into the final screenplay, which Barry Jenkins then shot in Liberty City, Florida, where both he and Mcraney had actually grown up, and the reality of their existence comes through in ever racine",0.032731086,0.0070493494996634,0.5,0.0,False
-"In every shot there are a couple of clever camera setups and moved like the opening shot, circular pan, and some beautiful long shots, and the use of color is so precise that it makes it almost a pivotal part of the storytelling all by itself",0.054534122,1.645108493415006e-05,0.3133333333333333,0.0,False
-"Now, in terms of the story, this is a fascinating life journey following a boy named Sherrod, but who is first known as Little, and eventually grows to a hardened drug dealer called Black, but this is not New Jack City",0.2752517,0.1831737111185909,0.4560290404040404,0.0,False
-"The intensely personal story follows the ins and outs of Sharon's life, his crack addicted mother, the drug dealer who initially befriend him as a child and eventually becomes the role model Sharon bases his drug dealing personality on and explore Sharon's repressed homosexuality",0.06132676,8.329851882418374e-05,0.5666666666666667,0.051,False
-This last part in particular is dealt with in a surprisingly realistic and caring way,0.028954152,6.0559066279335015e-05,0.4444444444444444,0.0,False
-"Frankly, in a way I've never seen before on the big screen",0.0253489,0.0214231869339761,0.5,0.0,False
-All of these factors have received almost countless numbers of cinematic treatment,0.09655894,0.0052451840491949,0.5,0.0,False
-I'm going to go out on a limb and say that no other movie has broken the mould of every one of these stereotypes like this one does,0.12760067,0.9943541187824362,0.584375,0.162,False
-"Even though Sharon is the main character, he doesn't really say very much until the third act yet",0.06652113,0.9728911154544888,0.4216666666666666,0.0,False
+"i'm going to talk about this and try to break it down for you, but i have to lead with saying that this movie is important in a way few films are that it has something to say about love, family friendship, the harsh realities of life and our social order, and how fate is really nothing more than the choices were forced to make, but how they can be overcome, and it packs all this into an intensely dramatic and fascinating two hours that will leave you thoughtful, both happy and sad, and probably a bit taken aback by how stunningly good it is",0.077709,2.491504892200988e-05,0.4185185185185185,0.097,False
+moonlight defies easy or simple labels,0.0253489,0.0005747448785418,0.3916666666666666,0.0,False
+"at this point it's a bit repetitive to say that it works on so many levels, or is a multi-layered story",0.028954152,0.9133262967195166,0.4375,0.091,False
+"so instead, let's just say that there's a lot going on here",0.028267438,0.9818491782414852,0.5,0.0,False
+"the story is actually a collaboration between taro alvin mccraney and barry jenkin, both of them contributing semi biographical material into the final screenplay, which barry jenkins then shot in liberty city, florida, where both he and mcraney had actually grown up, and the reality of their existence comes through in ever racine",0.032731086,0.0070493494996634,0.5,0.0,False
+"in every shot there are a couple of clever camera setups and moved like the opening shot, circular pan, and some beautiful long shots, and the use of color is so precise that it makes it almost a pivotal part of the storytelling all by itself",0.054534122,1.645108493415006e-05,0.3133333333333333,0.0,False
+"now, in terms of the story, this is a fascinating life journey following a boy named sherrod, but who is first known as little, and eventually grows to a hardened drug dealer called black, but this is not new jack city",0.2752517,0.1831737111185909,0.4560290404040404,0.0,False
+"the intensely personal story follows the ins and outs of sharon's life, his crack addicted mother, the drug dealer who initially befriend him as a child and eventually becomes the role model sharon bases his drug dealing personality on and explore sharon's repressed homosexuality",0.06132676,8.329851882418374e-05,0.5666666666666667,0.051,False
+this last part in particular is dealt with in a surprisingly realistic and caring way,0.028954152,6.0559066279335015e-05,0.4444444444444444,0.0,False
+"frankly, in a way i've never seen before on the big screen",0.0253489,0.0214231869339761,0.5,0.0,False
+all of these factors have received almost countless numbers of cinematic treatment,0.09655894,0.0052451840491949,0.5,0.0,False
+i'm going to go out on a limb and say that no other movie has broken the mould of every one of these stereotypes like this one does,0.12760067,0.9943541187824362,0.584375,0.162,False
+"even though sharon is the main character, he doesn't really say very much until the third act yet",0.06652113,0.9728911154544888,0.4216666666666666,0.0,False
 "despite this, he is a fully realized person who you connect with as a child and stay fully connected with",0.07571117,0.0009049586848287,0.5,0.0,False
-"Despite the harsh choices he makes, all the acting is top notch and I'd be hard-pressed to pick any favors with a film of this quality",0.12824467,0.0015033967019985,0.45,0.0,False
-It's not even really about that because it's more like the work of a master craftsman,0.06652113,0.999373547454138,0.325,0.0,False
-Every part and every piece is necessary and has a function,0.023803791,5.0843389307355085e-05,0.5,0.0,False
+"despite the harsh choices he makes, all the acting is top notch and i'd be hard-pressed to pick any favors with a film of this quality",0.12824467,0.0015033967019985,0.45,0.0,False
+it's not even really about that because it's more like the work of a master craftsman,0.06652113,0.999373547454138,0.325,0.0,False
+every part and every piece is necessary and has a function,0.023803791,5.0843389307355085e-05,0.5,0.0,False
 "and if you remove even one of those pieces, the whole doesn't really work",0.07251463,0.999992072484434,0.4,0.0,False
-This film is up for Best Picture,0.045091953,0.0072117741606981,0.0,0.0,False
-"Best Supporting Actor for Mahala Ali as drug dealer, Won best supporting actress for Naomi Harris's Charan Mother, Best Director, Best Adapted Screenplay, cinematography and film editing, which marks the first time a black woman has been nominated for editing Oscar",0.08501353,0.0025731940657598,0.2135416666666666,0.0,False
-It's Moonlight swept the Oscars this year,0.06532243,0.0001407879080234,0.5,0.0,False
-Not one of these awards would be undeserved in terms of rating this,0.10461388,0.001960480560033,0.65,0.0,False
-"Obviously, I love this film and have no hesitation giving it a rating of sheer awesomeness If you have not yet seen moonlight, Believe me when I say that you are really missing out on a very special experience and you should see it as soon as possible",0.058130227,6.270485996639806e-05,0.4235714285714286,0.08,False
-Thanks for watching,0.018464668,0.028537059257702,0.4,0.0,False
-Please like and share this video,0.03616466,0.0059532959659257,0.5,0.0,False
-Because I want to grow this channel,0.082104236,0.0004613754454086,0.5,0.0,False
-"and if you haven't subscribed to my channel, now's a great time to do, so, I'll see you next time",0.15246986,0.0018587937814183,0.3,0.0,False
+this film is up for best picture,0.045091953,0.0072117741606981,0.0,0.0,False
+"best supporting actor for mahala ali as drug dealer, won best supporting actress for naomi harris's charan mother, best director, best adapted screenplay, cinematography and film editing, which marks the first time a black woman has been nominated for editing oscar",0.08501353,0.0025731940657598,0.2135416666666666,0.0,False
+it's moonlight swept the oscars this year,0.06532243,0.0001407879080234,0.5,0.0,False
+not one of these awards would be undeserved in terms of rating this,0.10461388,0.001960480560033,0.65,0.0,False
+"obviously, i love this film and have no hesitation giving it a rating of sheer awesomeness if you have not yet seen moonlight, believe me when i say that you are really missing out on a very special experience and you should see it as soon as possible",0.058130227,6.270485996639806e-05,0.4235714285714286,0.08,False
+thanks for watching,0.018464668,0.028537059257702,0.4,0.0,False
+please like and share this video,0.03616466,0.0059532959659257,0.5,0.0,False
+because i want to grow this channel,0.082104236,0.0004613754454086,0.5,0.0,False
+"and if you haven't subscribed to my channel, now's a great time to do, so, i'll see you next time",0.15246986,0.0018587937814183,0.3,0.0,False

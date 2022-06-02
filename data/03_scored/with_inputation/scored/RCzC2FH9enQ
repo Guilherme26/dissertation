@@ -1,79 +1,79 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Movie of the month for July, G'day to all you lovely people, and welcome back to my channel",0.040284947,0.0014081340364307,0.2833333333333333,0.0,False
-"I'm Kathy, and today it's time for Movie of the month for July",0.020824814,0.007322904971457,0.5,0.0,False
-"It is the middle of winter in Melbourne, and I must admit I'm looking forward to spring",0.03427619,0.0009234769990865,0.5,0.0,False
-We are also in another lockdown yet again,0.032559406,0.9976810552565052,0.5,0.0,False
-Anyway,0.016590435,0.834096817679068,0.5,0.0,False
-"Okay, so the film I'm going to be featuring today is the third man",0.0495556,0.2116482857410573,0.375,0.0,False
-It came out in 1949,0.017492844,0.0722476356056204,0.5,0.0,False
-It is a film noir and it is a classic,0.0789077,4.851934920651194e-05,0.4166666666666667,0.0,False
-"It was directed by Carol Reed, an English director, and the script was written by Graham Greene, a very well known English author",0.0090240855,0.0038816671486811,0.4666666666666667,0.0,False
-"It stars Joseph Cotton, who I will admit I've never been a huge fan of, but I've recently seen him in a few interesting films and I'm starting to change my mind",0.04406188,0.0005118076068325,0.43,0.041,False
-I think he was a better actor than I expected,0.079307266,0.7921208153253431,0.4,0.0,False
-"It also stars Terence Howard, an English actor",0.028782474,9.86182595358403e-05,0.5,0.0,False
-I have seen him in quite a few films,0.0729142,0.0001556910812376,0.6,0.0,False
-"I can't remember any of them off the top, My head a leader, Valley Valley, I don't know this actress and the sublime Orson Welles, Wells hasn't been in that many films, but he is such a charismatic actor",0.032731086,0.0020601351436733,0.3125,0.0,False
-"Every time he's on the screen, he just steals it from everyone else",0.34388447,0.1758301875231122,0.5,0.216,False
-"In my opinion, the story is about an impoverished author played by Joseph Cotton, who is invited to Vienna to do some work for his friend Harry Lyme",0.07730943,0.0770896759169739,0.5,0.0,False
-"When he arrives in Vienna, he learns that his friend has been killed and he is told that in fact his friend is a racketeer",0.355017,0.9951152519322504,0.6,0.137,False
-"Cotton is outraged that his friend is considered a criminal, so he starts to investigate Harry Lime's death",0.24769363,0.9298640587973448,0.825,0.386,False
-That is the basic plot,0.020269485,0.2246622302258617,0.5,0.0,False
-"I'm not telling you anything else, Because this film takes place in post-war Vienna",0.09387396,0.0014806746359201,0.5,0.0,False
-It is quite haunting,0.1731117,0.0003111437381547,0.5,0.444,False
-"Actually, it is a sad place, a tragic place that is trying to pick up the pieces after a devastating war, And I thought it was beautifully shot",0.17449278,0.0014579051133195,0.675,0.349,False
-It showed the decay,0.1024659,0.9999976157567958,0.5,0.474,False
-"It showed all the devastation that had taken place in this city, and as a backdrop to the story it was perfect",0.05133759,6.422555131451673e-05,0.0,0.106,False
-It was an indication of the corruption or decay in humanity as well,0.09279997,0.1330875913731405,0.5,0.171,False
-"Well, that was my feeling",0.020130653,0.096587301568379,0.5,0.0,False
+"movie of the month for july, g'day to all you lovely people, and welcome back to my channel",0.040284947,0.0014081340364307,0.2833333333333333,0.0,False
+"i'm kathy, and today it's time for movie of the month for july",0.020824814,0.007322904971457,0.5,0.0,False
+"it is the middle of winter in melbourne, and i must admit i'm looking forward to spring",0.03427619,0.0009234769990865,0.5,0.0,False
+we are also in another lockdown yet again,0.032559406,0.9976810552565052,0.5,0.0,False
+anyway,0.016590435,0.834096817679068,0.5,0.0,False
+"okay, so the film i'm going to be featuring today is the third man",0.0495556,0.2116482857410573,0.375,0.0,False
+it came out in 1949,0.017492844,0.0722476356056204,0.5,0.0,False
+it is a film noir and it is a classic,0.0789077,4.851934920651194e-05,0.4166666666666667,0.0,False
+"it was directed by carol reed, an english director, and the script was written by graham greene, a very well known english author",0.0090240855,0.0038816671486811,0.4666666666666667,0.0,False
+"it stars joseph cotton, who i will admit i've never been a huge fan of, but i've recently seen him in a few interesting films and i'm starting to change my mind",0.04406188,0.0005118076068325,0.43,0.041,False
+i think he was a better actor than i expected,0.079307266,0.7921208153253431,0.4,0.0,False
+"it also stars terence howard, an english actor",0.028782474,9.86182595358403e-05,0.5,0.0,False
+i have seen him in quite a few films,0.0729142,0.0001556910812376,0.6,0.0,False
+"i can't remember any of them off the top, my head a leader, valley valley, i don't know this actress and the sublime orson welles, wells hasn't been in that many films, but he is such a charismatic actor",0.032731086,0.0020601351436733,0.3125,0.0,False
+"every time he's on the screen, he just steals it from everyone else",0.34388447,0.1758301875231122,0.5,0.216,False
+"in my opinion, the story is about an impoverished author played by joseph cotton, who is invited to vienna to do some work for his friend harry lyme",0.07730943,0.0770896759169739,0.5,0.0,False
+"when he arrives in vienna, he learns that his friend has been killed and he is told that in fact his friend is a racketeer",0.355017,0.9951152519322504,0.6,0.137,False
+"cotton is outraged that his friend is considered a criminal, so he starts to investigate harry lime's death",0.24769363,0.9298640587973448,0.825,0.386,False
+that is the basic plot,0.020269485,0.2246622302258617,0.5,0.0,False
+"i'm not telling you anything else, because this film takes place in post-war vienna",0.09387396,0.0014806746359201,0.5,0.0,False
+it is quite haunting,0.1731117,0.0003111437381547,0.5,0.444,False
+"actually, it is a sad place, a tragic place that is trying to pick up the pieces after a devastating war, and i thought it was beautifully shot",0.17449278,0.0014579051133195,0.675,0.349,False
+it showed the decay,0.1024659,0.9999976157567958,0.5,0.474,False
+"it showed all the devastation that had taken place in this city, and as a backdrop to the story it was perfect",0.05133759,6.422555131451673e-05,0.0,0.106,False
+it was an indication of the corruption or decay in humanity as well,0.09279997,0.1330875913731405,0.5,0.171,False
+"well, that was my feeling",0.020130653,0.096587301568379,0.5,0.0,False
 "anyway, the cinematography is superb",0.021657806,0.0007503213363778,0.0,0.0,False
-The shots are all off kilter,0.22983712,0.9999448643759016,0.5,0.0,False
-"They're not always level, And that just adds to the mystery of the story",0.059328925,0.0018718693396576,0.5,0.0,False
-Because that's what this is,0.027409043,0.9964609485997696,0.5,0.0,False
-This is a mystery that Joseph Cotton is trying to unravel,0.089577995,0.1524662134856133,0.5,0.0,False
-It is very atmospheric,0.1256687,0.0038819055730015,0.5,0.0,False
-It is menacing,0.14597784,0.2279487604677217,1.0,0.0,False
-"At times, there is so much going on all the time that I think this is a film that you need to view over and over again",0.04165838,0.0170959774717628,0.4,0.0,False
-I've only ever seen it once,0.035477944,0.9774017256675464,0.5,0.0,False
-"I thought perhaps I might have seen it when I was younger, but I can't recall it",0.029469188,0.9990557204789564,0.5,0.0,False
-"Perhaps it's been a long time and I've watched a lot of films in my life, but I did watch it recently and I thought this is definitely something I want to see again because I'm sure I would have missed something",0.04165838,0.0006163268682989,0.44375,0.057,False
-There are so many twists and turns to the plot that you don't know where it's heading,0.08635602,0.9941771416404976,0.25,0.0,False
-"It reminded me very much of Hitchcock films, so I loved it just for that, but this film has this haunting sadness to it",0.14552918,0.0025195490060924,0.26,0.227,False
-I found it quite depressing at times just realizing what all these people might have gone through as a result of the war,0.08796701,0.999951182620393,0.8,0.244,False
-"For me, this film had a profound impact",0.046122026,0.0001416836524126,0.4583333333333333,0.0,False
-It showed very clearly the destruction that wars can cause us not just physically to the buildings but also to the people themselves,0.13565879,0.0277568825352516,0.4674999999999999,0.179,False
-I definitely got the feeling that this was a subtle anti-war film,0.08796701,4.005528583142018e-05,0.5833333333333334,0.0,False
-The script is excellent,0.021102477,0.0050252694016002,0.0,0.0,False
-It really is not a predictable story,0.025520578,0.0027256072250198,0.45,0.0,False
-I certainly didn't know what was happening and I never knew who was a good guy and who wasn't a good guy,0.089041,0.9997382398992132,0.2309523809523809,0.09,False
-Except for our main character played by Joseph Cotton,0.03358948,0.812927897147563,0.4166666666666667,0.0,False
-He is naive and quite innocent,0.37647265,0.0023047882994695,0.45,0.239,False
+the shots are all off kilter,0.22983712,0.9999448643759016,0.5,0.0,False
+"they're not always level, and that just adds to the mystery of the story",0.059328925,0.0018718693396576,0.5,0.0,False
+because that's what this is,0.027409043,0.9964609485997696,0.5,0.0,False
+this is a mystery that joseph cotton is trying to unravel,0.089577995,0.1524662134856133,0.5,0.0,False
+it is very atmospheric,0.1256687,0.0038819055730015,0.5,0.0,False
+it is menacing,0.14597784,0.2279487604677217,1.0,0.0,False
+"at times, there is so much going on all the time that i think this is a film that you need to view over and over again",0.04165838,0.0170959774717628,0.4,0.0,False
+i've only ever seen it once,0.035477944,0.9774017256675464,0.5,0.0,False
+"i thought perhaps i might have seen it when i was younger, but i can't recall it",0.029469188,0.9990557204789564,0.5,0.0,False
+"perhaps it's been a long time and i've watched a lot of films in my life, but i did watch it recently and i thought this is definitely something i want to see again because i'm sure i would have missed something",0.04165838,0.0006163268682989,0.44375,0.057,False
+there are so many twists and turns to the plot that you don't know where it's heading,0.08635602,0.9941771416404976,0.25,0.0,False
+"it reminded me very much of hitchcock films, so i loved it just for that, but this film has this haunting sadness to it",0.14552918,0.0025195490060924,0.26,0.227,False
+i found it quite depressing at times just realizing what all these people might have gone through as a result of the war,0.08796701,0.999951182620393,0.8,0.244,False
+"for me, this film had a profound impact",0.046122026,0.0001416836524126,0.4583333333333333,0.0,False
+it showed very clearly the destruction that wars can cause us not just physically to the buildings but also to the people themselves,0.13565879,0.0277568825352516,0.4674999999999999,0.179,False
+i definitely got the feeling that this was a subtle anti-war film,0.08796701,4.005528583142018e-05,0.5833333333333334,0.0,False
+the script is excellent,0.021102477,0.0050252694016002,0.0,0.0,False
+it really is not a predictable story,0.025520578,0.0027256072250198,0.45,0.0,False
+i certainly didn't know what was happening and i never knew who was a good guy and who wasn't a good guy,0.089041,0.9997382398992132,0.2309523809523809,0.09,False
+except for our main character played by joseph cotton,0.03358948,0.812927897147563,0.4166666666666667,0.0,False
+he is naive and quite innocent,0.37647265,0.0023047882994695,0.45,0.239,False
 "actually, whereas everyone else seemed world weary, expecting the worst from people and usually finding out it is a beautifully done film",0.12760067,0.001095321328033,0.55,0.215,False
-I cannot say enough good things about the film,0.0789077,0.0013465609556809,0.325,0.231,False
-I thought the cinematography was spectacular,0.020408317,0.0005014957549741,0.2,0.0,False
-I loved all the unusual angles that the director used,0.1019289,0.0006120054274912,0.275,0.0,False
-"It highlighted the sinister atmosphere, the actual menace that you felt, the uncertainty, the danger",0.23803931,0.0034832303062107,0.625,0.54,False
-"The acting also was top notch, and of course, special mention has to go to Orson Welles, who is hardly on screen and yet dominates the entire film",0.073313765,0.0010027232825878,0.4434523809523809,0.0,False
-He really does,0.0253489,0.0016358292624367,0.4,0.0,False
-"He's just so good in this that it's worth watching just for awesome Wells, but that is not to take away from the rest of the cast, the vulnerability of Harry Lime's lover or the innocence of the American writer Joseph Cotton, or the cynicism of the British soldier Terence Howard, Everyone was convincing and believable",0.08581903,0.0008097187952037,0.2857142857142857,0.081,False
-The acting was superb,0.086087525,0.0007630174314404,0.25,0.0,False
-This isn't just a film about the visuals or the plot,0.028267438,0.8556462038198914,0.5,0.0,False
+i cannot say enough good things about the film,0.0789077,0.0013465609556809,0.325,0.231,False
+i thought the cinematography was spectacular,0.020408317,0.0005014957549741,0.2,0.0,False
+i loved all the unusual angles that the director used,0.1019289,0.0006120054274912,0.275,0.0,False
+"it highlighted the sinister atmosphere, the actual menace that you felt, the uncertainty, the danger",0.23803931,0.0034832303062107,0.625,0.54,False
+"the acting also was top notch, and of course, special mention has to go to orson welles, who is hardly on screen and yet dominates the entire film",0.073313765,0.0010027232825878,0.4434523809523809,0.0,False
+he really does,0.0253489,0.0016358292624367,0.4,0.0,False
+"he's just so good in this that it's worth watching just for awesome wells, but that is not to take away from the rest of the cast, the vulnerability of harry lime's lover or the innocence of the american writer joseph cotton, or the cynicism of the british soldier terence howard, everyone was convincing and believable",0.08581903,0.0008097187952037,0.2857142857142857,0.081,False
+the acting was superb,0.086087525,0.0007630174314404,0.25,0.0,False
+this isn't just a film about the visuals or the plot,0.028267438,0.8556462038198914,0.5,0.0,False
 it was also about the acting,0.07371333,0.1330935519811511,0.5,0.0,False
-You definitely needed good acting to carry this story off,0.043375164,0.0444973991483006,0.3833333333333333,0.0,False
-And it's succeeded,0.062125895,0.0009365903367099,0.5,0.0,False
-I loved this film,0.03444787,0.0013911761066405,0.15,0.0,False
-I could not predict what happened,0.022773718,0.999755555465484,0.5,0.0,False
-I was completely entranced,0.10634898,0.0010958577827539,0.45,0.0,False
-I think it is so beautifully done,0.034962907,0.0004056193751232,0.075,0.0,False
-"I love the cinematography, the atmosphere",0.021657806,0.0007853101054002,0.25,0.0,False
-I love the acting,0.26589394,0.0035017976001638,0.375,0.0,False
-There is no criticisms I have to make of this film,0.10515087,0.0001573004454004,0.5,0.0,False
-"I highly recommend the Third Man for anyone who loves Filmoire, who loves atmospheric and unpredictable films, who loves superb acting, who loves Hitchcock films, Because it is definitely reminiscent of a Hitchcock film",0.037881445,0.0,0.429047619047619,0.0,False
-And yet I would say this is even darker,0.1008549,0.1367873407653373,0.5,0.0,False
-"Yeah, I would say that it is a lot darker, I think than most Hitchcock films",0.1550967,0.9490335827808049,0.25,0.0,False
-Let me know if you have seen the Third Man and what your thoughts are on it,0.04818217,0.0605338487431342,0.5,0.0,False
-"You know, I always want to hear your opinions, and you can let me know down in the comments or on Instagram",0.028439116,0.0225465362549213,0.5777777777777778,0.0,False
-"Thank you, also very much for hanging out with me",0.034791227,0.0154849443386502,0.37,0.0,False
-"I hope you enjoyed this video and if you did, you can do the usual",0.089577995,0.0116934909922099,0.4375,0.0,False
-"You can like, comment and subscribe",0.03358948,0.9185678721320832,0.5,0.0,False
-"If you haven't already, I hope you all have a beautiful day and I'll see you next time",0.08447654,0.0066824674437551,0.2875,0.108,False
-Bye,0.055732824,0.0100025559087149,0.5,0.0,False
+you definitely needed good acting to carry this story off,0.043375164,0.0444973991483006,0.3833333333333333,0.0,False
+and it's succeeded,0.062125895,0.0009365903367099,0.5,0.0,False
+i loved this film,0.03444787,0.0013911761066405,0.15,0.0,False
+i could not predict what happened,0.022773718,0.999755555465484,0.5,0.0,False
+i was completely entranced,0.10634898,0.0010958577827539,0.45,0.0,False
+i think it is so beautifully done,0.034962907,0.0004056193751232,0.075,0.0,False
+"i love the cinematography, the atmosphere",0.021657806,0.0007853101054002,0.25,0.0,False
+i love the acting,0.26589394,0.0035017976001638,0.375,0.0,False
+there is no criticisms i have to make of this film,0.10515087,0.0001573004454004,0.5,0.0,False
+"i highly recommend the third man for anyone who loves filmoire, who loves atmospheric and unpredictable films, who loves superb acting, who loves hitchcock films, because it is definitely reminiscent of a hitchcock film",0.037881445,0.0,0.429047619047619,0.0,False
+and yet i would say this is even darker,0.1008549,0.1367873407653373,0.5,0.0,False
+"yeah, i would say that it is a lot darker, i think than most hitchcock films",0.1550967,0.9490335827808049,0.25,0.0,False
+let me know if you have seen the third man and what your thoughts are on it,0.04818217,0.0605338487431342,0.5,0.0,False
+"you know, i always want to hear your opinions, and you can let me know down in the comments or on instagram",0.028439116,0.0225465362549213,0.5777777777777778,0.0,False
+"thank you, also very much for hanging out with me",0.034791227,0.0154849443386502,0.37,0.0,False
+"i hope you enjoyed this video and if you did, you can do the usual",0.089577995,0.0116934909922099,0.4375,0.0,False
+"you can like, comment and subscribe",0.03358948,0.9185678721320832,0.5,0.0,False
+"if you haven't already, i hope you all have a beautiful day and i'll see you next time",0.08447654,0.0066824674437551,0.2875,0.108,False
+bye,0.055732824,0.0100025559087149,0.5,0.0,False

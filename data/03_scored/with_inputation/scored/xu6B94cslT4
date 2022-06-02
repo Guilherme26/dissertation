@@ -1,136 +1,136 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-I realize that the propaganda war movies in Hollywood was making during the 1940s,0.056931525,0.9938835492532956,0.55,0.33,False
-"We're not a good idea, right",0.09333697,0.9999077012943276,0.5160714285714285,0.325,False
-That's that's not good for anyone,0.08689302,0.9998010675297504,0.675,0.325,False
-"Although, of course, when you see what Christopher Nolan has done here, you understand why they did that because I think that Hooker boy the pendulum has totally swung too far in the other direction with this film And I am genuinely shocked at the way Christopher Nolan has decided to portray British soldiers in this film",0.2224569,0.8768547807868488,0.5725,0.039,False
-He's British,0.038053125,0.0004983891685367,0.5,0.0,False
-"Why would he send us about his own military and his fellow citizens, who? who put their lives on the line to protect England",0.10956893,0.9985783555511843,0.375,0.0,False
-"I mean, it's just absolutely incredible",0.043031808,0.0007130276180854,0.353125,0.0,False
-"as I tweeted, He swaps Band of Brothers",0.11729682,0.9783890195236946,0.5,0.0,False
-"You know, that idea for World War Ii with every man for himself and some people",0.15001574,0.0097589266289365,0.5,0.206,False
-"When I tweeted that row like Well, that's what it was like",0.08170467,0.9997569298535798,0.5,0.0,False
-Grace,0.016451603,0.0013473167213544,0.5,0.0,False
-It was really tough out there,0.07091636,0.9986529813048182,0.6944444444444444,0.264,False
-"You know, it was all about survival, particularly at Dunkirk, but I'm talking about every man for himself against fellow soldiers against allies against civilians",0.10699297,0.0430457976819524,0.4166666666666667,0.0,False
-"I mean after this movie If you saw a British soldier, you would be like",0.080905534,0.1454635052050271,0.578125,0.0,False
-"I don't know if I'd make it out of this encounter alive, because that person is all that for himself and I realized that there might be some soldiers like that, But to to say that all soldiers are that way, I think it's really a disservice to the incredibly heroic and kind majority of soldiers that exist, which we know",0.118584804,0.9998892832768572,0.3,0.0,False
-Because of the stories and the medals and the real stories,0.018881164,0.0011005212477759,0.4,0.0,False
-"this is a fiction, so the fact that it would try and change that narrative to me is really odd, And there were two deaths in the movie",0.13610743,0.9999673959367112,0.5833333333333334,0.088,False
-In particular That really bothered me,0.14059398,0.0379488348666779,0.4083333333333333,0.341,False
-"You'll know when you see him and actually even made me angry, Because neither one had to happen and it shouldn't have happened",0.14283726,0.999370777341666,0.625,0.13,False
-"They were both just cold, human cruelty and selfishness for British soldiers against people",0.2752517,0.9965035569423708,0.6,0.355,False
-"It was just crazy and again, this is fiction",0.32563272,0.0229634828530641,0.8,0.231,False
-"Nolan wrote this, and if he's going to portray British soldiers in this manner, he better damn well back it up",0.39206567,0.9997881331938572,0.4166666666666667,0.105,True
-"I'm very curious to hear how people feel about this down in the comments, who have a military background are currently involved in the military, both if you're overseas and if you're an American military person, I think in May, I'm just I really curious to see what the reaction is because mine was not good",0.04234509,0.981119922751616,0.5575308641975308,0.04,False
-Now,0.018742332,0.0841154732208582,0.5,0.0,False
-no one of course wants an Oscar and he clearly was aiming for Spielberg,0.10892494,0.0356976643688848,0.425,0.13,False
-"Cameron, territory here to fellow wildly successful directors commercially, who were ignored by the Academy until Saving Private Ryan and Titanic, But instead, because of the flaws that have kept Nolan from being nominated to date, and he just can't help himself",0.1250247,0.9861930434730778,0.375,0.099,False
-"You know, I'm surprised he wasn't more self-aware to figure out what the problems where it's hard to be",0.112788886,0.867230472580102,0.4486111111111111,0.186,False
-It's hard to do that,0.049212243,0.9999741313282132,0.6458333333333334,0.259,False
+i realize that the propaganda war movies in hollywood was making during the 1940s,0.056931525,0.9938835492532956,0.55,0.33,False
+"we're not a good idea, right",0.09333697,0.9999077012943276,0.5160714285714285,0.325,False
+that's that's not good for anyone,0.08689302,0.9998010675297504,0.675,0.325,False
+"although, of course, when you see what christopher nolan has done here, you understand why they did that because i think that hooker boy the pendulum has totally swung too far in the other direction with this film and i am genuinely shocked at the way christopher nolan has decided to portray british soldiers in this film",0.2224569,0.8768547807868488,0.5725,0.039,False
+he's british,0.038053125,0.0004983891685367,0.5,0.0,False
+"why would he send us about his own military and his fellow citizens, who? who put their lives on the line to protect england",0.10956893,0.9985783555511843,0.375,0.0,False
+"i mean, it's just absolutely incredible",0.043031808,0.0007130276180854,0.353125,0.0,False
+"as i tweeted, he swaps band of brothers",0.11729682,0.9783890195236946,0.5,0.0,False
+"you know, that idea for world war ii with every man for himself and some people",0.15001574,0.0097589266289365,0.5,0.206,False
+"when i tweeted that row like well, that's what it was like",0.08170467,0.9997569298535798,0.5,0.0,False
+grace,0.016451603,0.0013473167213544,0.5,0.0,False
+it was really tough out there,0.07091636,0.9986529813048182,0.6944444444444444,0.264,False
+"you know, it was all about survival, particularly at dunkirk, but i'm talking about every man for himself against fellow soldiers against allies against civilians",0.10699297,0.0430457976819524,0.4166666666666667,0.0,False
+"i mean after this movie if you saw a british soldier, you would be like",0.080905534,0.1454635052050271,0.578125,0.0,False
+"i don't know if i'd make it out of this encounter alive, because that person is all that for himself and i realized that there might be some soldiers like that, but to to say that all soldiers are that way, i think it's really a disservice to the incredibly heroic and kind majority of soldiers that exist, which we know",0.118584804,0.9998892832768572,0.3,0.0,False
+because of the stories and the medals and the real stories,0.018881164,0.0011005212477759,0.4,0.0,False
+"this is a fiction, so the fact that it would try and change that narrative to me is really odd, and there were two deaths in the movie",0.13610743,0.9999673959367112,0.5833333333333334,0.088,False
+in particular that really bothered me,0.14059398,0.0379488348666779,0.4083333333333333,0.341,False
+"you'll know when you see him and actually even made me angry, because neither one had to happen and it shouldn't have happened",0.14283726,0.999370777341666,0.625,0.13,False
+"they were both just cold, human cruelty and selfishness for british soldiers against people",0.2752517,0.9965035569423708,0.6,0.355,False
+"it was just crazy and again, this is fiction",0.32563272,0.0229634828530641,0.8,0.231,False
+"nolan wrote this, and if he's going to portray british soldiers in this manner, he better damn well back it up",0.39206567,0.9997881331938572,0.4166666666666667,0.105,True
+"i'm very curious to hear how people feel about this down in the comments, who have a military background are currently involved in the military, both if you're overseas and if you're an american military person, i think in may, i'm just i really curious to see what the reaction is because mine was not good",0.04234509,0.981119922751616,0.5575308641975308,0.04,False
+now,0.018742332,0.0841154732208582,0.5,0.0,False
+no one of course wants an oscar and he clearly was aiming for spielberg,0.10892494,0.0356976643688848,0.425,0.13,False
+"cameron, territory here to fellow wildly successful directors commercially, who were ignored by the academy until saving private ryan and titanic, but instead, because of the flaws that have kept nolan from being nominated to date, and he just can't help himself",0.1250247,0.9861930434730778,0.375,0.099,False
+"you know, i'm surprised he wasn't more self-aware to figure out what the problems where it's hard to be",0.112788886,0.867230472580102,0.4486111111111111,0.186,False
+it's hard to do that,0.049212243,0.9999741313282132,0.6458333333333334,0.259,False
 anyway,0.017284594,0.8340991711892138,0.5,0.0,False
-"I think he should have studied Spielberg and Cameron more carefully, but instead of going in their direction, he ended up going Mallik, Terrence Malick, The Thin Red Line, specifically mixed with Pixar And I'm not talking Early Pixar",0.036508016,0.9999799726411972,0.4916666666666666,0.0,False
-I'm talking,0.02517722,0.0123451679526496,0.5,0.0,False
-"You know, the really obvious Pixar of today that is aggressively bleak and emotionally manipulative, Like I was watching this movie and I'm like, Oh, I bet this is going to happen now because that would just make this even sadder",0.27359754,0.9990879803064304,0.6666666666666666,0.119,False
-"Then I was like, Oh yeah, I did okay on and till you, but you don't cry",0.16035037,0.9978629139211006,0.25,0.0,False
-"Can you just annoy? and it just makes everybody in the movie unlikable Now, I'm sure some of you right now like, but I like the thin red line, Greg",0.24769363,0.9623683543888824,0.4517857142857143,0.056,False
+"i think he should have studied spielberg and cameron more carefully, but instead of going in their direction, he ended up going mallik, terrence malick, the thin red line, specifically mixed with pixar and i'm not talking early pixar",0.036508016,0.9999799726411972,0.4916666666666666,0.0,False
+i'm talking,0.02517722,0.0123451679526496,0.5,0.0,False
+"you know, the really obvious pixar of today that is aggressively bleak and emotionally manipulative, like i was watching this movie and i'm like, oh, i bet this is going to happen now because that would just make this even sadder",0.27359754,0.9990879803064304,0.6666666666666666,0.119,False
+"then i was like, oh yeah, i did okay on and till you, but you don't cry",0.16035037,0.9978629139211006,0.25,0.0,False
+"can you just annoy? and it just makes everybody in the movie unlikable now, i'm sure some of you right now like, but i like the thin red line, greg",0.24769363,0.9623683543888824,0.4517857142857143,0.056,False
 you're horrible,0.7699882,0.9999554152845704,1.0,0.778,False
-"Why aren't you more self-aware I know you guys well, some of you we don't want to paint everybody with the same brush like Nolan does right",0.2406723,0.0434899162844481,0.369047619047619,0.041,False
-And that's great,0.028954152,0.0011090149936967,0.0999999999999999,0.0,False
-"I'm glad you like the Thin Red Line, But the film was not successful with mainstream audiences",0.08050597,0.9949037822501572,0.534375,0.188,False
-"It made just like 36 million dollars domestic, and this one will obviously do much better than that because it's a Christian for Nolan movie and it's so well reviewed and has all this Oscar talk",0.05133759,0.0023658807716493,0.4166666666666667,0.0,False
-"We'll get to that in a moment, but I do suspect will be one of his least successful because I think that a lot of people in Middle America will not like it",0.08796701,0.9980207485821404,0.425,0.242,False
-"I mean, people who like American Sniper aren't going to like this movie",0.089041,0.99783370735618,0.578125,0.135,False
-I'm sure some of you are like,0.031529333,0.0024838991360221,0.25,0.0,False
-"Well, I hate it in there",0.39206567,0.9997852721425996,0.9,0.378,False
-"I mean, war divides people and we'll see",0.118584804,0.0026396774164707,0.65625,0.358,False
+"why aren't you more self-aware i know you guys well, some of you we don't want to paint everybody with the same brush like nolan does right",0.2406723,0.0434899162844481,0.369047619047619,0.041,False
+and that's great,0.028954152,0.0011090149936967,0.0999999999999999,0.0,False
+"i'm glad you like the thin red line, but the film was not successful with mainstream audiences",0.08050597,0.9949037822501572,0.534375,0.188,False
+"it made just like 36 million dollars domestic, and this one will obviously do much better than that because it's a christian for nolan movie and it's so well reviewed and has all this oscar talk",0.05133759,0.0023658807716493,0.4166666666666667,0.0,False
+"we'll get to that in a moment, but i do suspect will be one of his least successful because i think that a lot of people in middle america will not like it",0.08796701,0.9980207485821404,0.425,0.242,False
+"i mean, people who like american sniper aren't going to like this movie",0.089041,0.99783370735618,0.578125,0.135,False
+i'm sure some of you are like,0.031529333,0.0024838991360221,0.25,0.0,False
+"well, i hate it in there",0.39206567,0.9997852721425996,0.9,0.378,False
+"i mean, war divides people and we'll see",0.118584804,0.0026396774164707,0.65625,0.358,False
 "we'll see how, in box office dollars, how many people like this really bleak",0.21274342,0.99991792359205,0.625,0.0,False
 negative portrayal of it with all the heroics isn't sucked out of it and kindness,0.2752517,0.194877645354815,0.65,0.157,False
-I also think that it won't be successful Just for some other reasons,0.0471521,0.9997789539877392,0.34375,0.204,False
-There's hardly any dialogue and oh the dialogue they do have,0.06851897,0.9984283291758682,0.6458333333333334,0.0,False
-It's very hard to hear like an,0.05093802,0.999824224163366,0.6895833333333333,0.184,False
-Remember an interstellar Michael Caine,0.094410956,0.0003071159709245,0.5,0.0,False
-"He was like, I have diseases",0.22952124,0.9963552591188558,0.5,0.0,False
-We really important to you,0.029125832,0.0013295245588467,0.3,0.0,False
-And like everybody in the theater was like Woody say,0.028439116,0.0169925284838514,0.5,0.0,False
-"Did you understand it? That happens for a number of lines here as well, Although I'm going to get the shout out to the sound design person in a moment, mostly for the vs",0.037023053,0.9751409216757416,0.275,0.0,False
-The The sound effects,0.017006932,0.0,0.3,0.0,False
-"Also, we use a nonlinear storytelling device, three different stories to take place over different periods of time, like a week, like two days or something in an hour or a day in an hour, And they don't make it very",0.018048171,0.9818859990284348,0.4666666666666667,0.0,False
-It's very hard to follow and I don't think it pays off even or not at the end of the movie,0.08581903,0.9999424809486768,0.6895833333333333,0.078,False
-You're not like,0.0789077,0.9997131200061988,0.5,0.513,False
-"Oh, that's why you did that good show",0.078108564,0.001269353074587,0.15,0.0,False
-You're like,0.03856816,0.0003082484703806,0.5,0.0,False
-"Yeah, you could have just totally got rid of that and then also, let's just again, very aggressively bleak and negative and its portrayal of soldiers",0.28683078,0.9999595876509876,0.6375,0.2,False
-I was also surprised that upend hardly any attention to the civilians who willingly drove their boats their tiny little boats into a war zone,0.04131502,0.0223241571074771,0.5129166666666667,0.135,False
-"That's the narrative hook for this movie, The Dunkirk story",0.09387396,0.0229341868802918,0.5,0.0,False
-"Spielberg and Cameron would have recognized this, and you know that's where Nolan messed up, I think, and that's why I think it's going to ultimately cost him the Oscar and I will talk to you more about that, just a moment when we get to know himself",0.087430015,0.027343811933564,0.375,0.049,False
-"But interestingly, a movie came out just a few months ago, called World's Finest from the Uk, as well, Chris Nolan's British, and not understood",0.040971663,0.9616480847348016,0.45,0.0,False
-That was the angle that was the human Interest angle,0.03221605,0.0079583120989685,0.5,0.0,False
-"That's the word of the Dunkirk story, And this movie doesn't do that",0.06971766,0.9997347269037168,0.5,0.0,False
-I think that Spielberg and Cameron would have realized that what you need to do is to get the audience watching the movie to ask themselves,0.037194733,0.8847398678551951,0.5,0.0,False
-They would do such a thing today,0.04131502,0.9989875156836272,0.5,0.0,False
-Let's say the military was like,0.022213135,0.9808737233303828,0.55,0.0,False
-"You know, whatever country you're in, your government said we have soldiers stranded behind enemy lines and none of our vehicles for some reason are working",0.07211506,0.999970853040314,0.7,0.123,False
-We need you to drive your own car and pick up a bunch of them,0.2889918,0.0007858652146831,0.2,0.0,False
-"Would you do it what you know in an active war zone where you were in mortal danger and from soldiers to - well, as you'll see in this movie, But anyway, I will say, to be fair that this is a stunning achievement when it comes to the film craftsmanship outside of storytelling",0.05773066,0.0002193472630766,0.3666666666666667,0.075,False
-"In fact, think this is the best that no one has ever achieved in that regard, and I have no doubt that this one will be nominated for numerous awards, particularly in those categories",0.036508016,5.948602406263318e-05,0.3055555555555556,0.053,False
-"Also its Imax cinematography alone is revolutionary, and if you are going to see this film, you would be doing yourself a disservice",0.22982138,0.0268139810038117,0.5,0.083,False
-"Not to see it in the Imax format, a real Imax, not a fake baby Imax, I mean, it just fills it the whole screen and it's just a breathtaking picture",0.18154536,0.0005565936800569,0.36625,0.0,False
-It was truly,0.020685982,0.0058908449340021,0.5,0.0,False
-It was truly an experience in every sense of the word,0.018881164,0.0016226034970391,0.5,0.0,False
-"and I think it gives the movie a lot of leeway, especially toward the beginning, until you just crumpled under the bleakness of it and the ability to follow the story",0.0789077,0.240356498907734,0.5,0.0,False
-"I also feel it Hans Zimmer, who I just finished the other day saying, has never produced a score that I think is particularly memorable",0.04268845,0.8524256648218846,0.40625,0.0,False
-He does his best work ever here,0.0253489,0.0005104592285294,0.0,0.0,False
-"I mean, in fact, I think the movie succeeds because of Zimmer score points in who attend with cinematography and Richard Kings sound design, Specifically the sound effects",0.02054715,0.0002032836523703,0.3515625,0.0,False
-It's just a really good trio,0.22985287,0.0073225626674534,0.15,0.0,False
-They do,0.021380141,0.0040377777976461,0.5,0.0,False
-They do amazing work,0.029125832,0.0015380832744731,0.1999999999999999,0.0,False
-"And then I think for best score back to best score right now, I would say that the Oscar, you know award season it's going to right now",0.02809576,0.0018746740338736,0.2428571428571428,0.0,False
-It's between Zimmer and Michael Chiquinho for warfare the Planet of the Apes,0.21539254,0.0037419570186653,0.5,0.155,False
-The the work they both do is career-defining I feel there's a chance that Noland still won't be nominated here,0.023117077,0.001105796311032,0.5,0.0,False
-"though, for director, I think that could be the case or you'll be nominated and I don't think I think for sure he won't win unless things get political unless everybody decides that it's time for Nolan to win another Best directing Oscar",0.025005542,0.9528703198714912,0.19,0.059,False
-"But I think this film, especially because you have to consider that so many people who are trying to change the voter ship, particularly to the Academy Awards",0.02637897,0.786085008985489,0.3888888888888889,0.0,False
-A lot of them are from the greatest generation,0.04268845,0.0009553228964567,0.0,0.0,False
-"I think they would be particularly offended by the way those soldiers are portrayed, And he should have thought of that when it was making the movie",0.13017663,0.999734667298482,0.4166666666666667,0.081,False
-"How every Weinstein whatever, Although he's not doing through all these days either available, No one is not just the director but also the writer",0.022074303,0.7700033676957511,0.3,0.062,False
-So it's his fault that the film misses the mark,0.104076885,0.9804235547965824,0.5,0.378,False
-"Storytelling lies both in terms of the ability to follow it, and also emotional payoff and engagement",0.08581903,0.0170810720597482,0.5,0.123,False
-So those are the reasons he usually has it nominated,0.03770977,0.0028909134800218,0.625,0.0,False
-So he still has the exact same problem,0.04783881,0.9993682739218158,0.4375,0.278,False
-"Now acting wise, there's nothing Tom Hardy can't do",0.06332459,0.0010027090579094,0.325,0.183,False
-He's just such a profession,0.065721996,0.1437325095889921,0.5,0.0,False
-It's a joy to watch him work,0.029640866,0.0015428814958529,0.0999999999999999,0.0,False
-He's not asked to do much here,0.03856816,0.9854576042868084,0.4,0.0,False
-"I mean, this is the kind of role that he could do in Asleep and be warned",0.17957193,0.2395980521009355,0.428125,0.116,False
-He has a very very small roll back,0.17173064,0.9950307115970924,0.58125,0.0,False
-"Most people list movie have a very small role, and again, when they are on screen, there's no dialogue for the most part, so you have to look at the actors most of the time, and in that regard, Hardy's fellow pilot, played by Jack Loudoun, was really cool looking",0.02124131,0.9811680837811176,0.3475,0.041,False
-He had this really old-fashioned bunch of 1940s Michael J,0.0669207,0.0009514187535949,0.4,0.0,False
-Fox look like it was just like you were like,0.104076885,0.0407520690467036,0.5,0.0,False
-"Oh, you don't really see that anymore",0.040284947,0.9996497596418916,0.4,0.0,False
-"I mean, he's just perfect for the movie",0.045091953,0.0003236862261243,0.328125,0.0,False
+i also think that it won't be successful just for some other reasons,0.0471521,0.9997789539877392,0.34375,0.204,False
+there's hardly any dialogue and oh the dialogue they do have,0.06851897,0.9984283291758682,0.6458333333333334,0.0,False
+it's very hard to hear like an,0.05093802,0.999824224163366,0.6895833333333333,0.184,False
+remember an interstellar michael caine,0.094410956,0.0003071159709245,0.5,0.0,False
+"he was like, i have diseases",0.22952124,0.9963552591188558,0.5,0.0,False
+we really important to you,0.029125832,0.0013295245588467,0.3,0.0,False
+and like everybody in the theater was like woody say,0.028439116,0.0169925284838514,0.5,0.0,False
+"did you understand it? that happens for a number of lines here as well, although i'm going to get the shout out to the sound design person in a moment, mostly for the vs",0.037023053,0.9751409216757416,0.275,0.0,False
+the the sound effects,0.017006932,0.0,0.3,0.0,False
+"also, we use a nonlinear storytelling device, three different stories to take place over different periods of time, like a week, like two days or something in an hour or a day in an hour, and they don't make it very",0.018048171,0.9818859990284348,0.4666666666666667,0.0,False
+it's very hard to follow and i don't think it pays off even or not at the end of the movie,0.08581903,0.9999424809486768,0.6895833333333333,0.078,False
+you're not like,0.0789077,0.9997131200061988,0.5,0.513,False
+"oh, that's why you did that good show",0.078108564,0.001269353074587,0.15,0.0,False
+you're like,0.03856816,0.0003082484703806,0.5,0.0,False
+"yeah, you could have just totally got rid of that and then also, let's just again, very aggressively bleak and negative and its portrayal of soldiers",0.28683078,0.9999595876509876,0.6375,0.2,False
+i was also surprised that upend hardly any attention to the civilians who willingly drove their boats their tiny little boats into a war zone,0.04131502,0.0223241571074771,0.5129166666666667,0.135,False
+"that's the narrative hook for this movie, the dunkirk story",0.09387396,0.0229341868802918,0.5,0.0,False
+"spielberg and cameron would have recognized this, and you know that's where nolan messed up, i think, and that's why i think it's going to ultimately cost him the oscar and i will talk to you more about that, just a moment when we get to know himself",0.087430015,0.027343811933564,0.375,0.049,False
+"but interestingly, a movie came out just a few months ago, called world's finest from the uk, as well, chris nolan's british, and not understood",0.040971663,0.9616480847348016,0.45,0.0,False
+that was the angle that was the human interest angle,0.03221605,0.0079583120989685,0.5,0.0,False
+"that's the word of the dunkirk story, and this movie doesn't do that",0.06971766,0.9997347269037168,0.5,0.0,False
+i think that spielberg and cameron would have realized that what you need to do is to get the audience watching the movie to ask themselves,0.037194733,0.8847398678551951,0.5,0.0,False
+they would do such a thing today,0.04131502,0.9989875156836272,0.5,0.0,False
+let's say the military was like,0.022213135,0.9808737233303828,0.55,0.0,False
+"you know, whatever country you're in, your government said we have soldiers stranded behind enemy lines and none of our vehicles for some reason are working",0.07211506,0.999970853040314,0.7,0.123,False
+we need you to drive your own car and pick up a bunch of them,0.2889918,0.0007858652146831,0.2,0.0,False
+"would you do it what you know in an active war zone where you were in mortal danger and from soldiers to - well, as you'll see in this movie, but anyway, i will say, to be fair that this is a stunning achievement when it comes to the film craftsmanship outside of storytelling",0.05773066,0.0002193472630766,0.3666666666666667,0.075,False
+"in fact, think this is the best that no one has ever achieved in that regard, and i have no doubt that this one will be nominated for numerous awards, particularly in those categories",0.036508016,5.948602406263318e-05,0.3055555555555556,0.053,False
+"also its imax cinematography alone is revolutionary, and if you are going to see this film, you would be doing yourself a disservice",0.22982138,0.0268139810038117,0.5,0.083,False
+"not to see it in the imax format, a real imax, not a fake baby imax, i mean, it just fills it the whole screen and it's just a breathtaking picture",0.18154536,0.0005565936800569,0.36625,0.0,False
+it was truly,0.020685982,0.0058908449340021,0.5,0.0,False
+it was truly an experience in every sense of the word,0.018881164,0.0016226034970391,0.5,0.0,False
+"and i think it gives the movie a lot of leeway, especially toward the beginning, until you just crumpled under the bleakness of it and the ability to follow the story",0.0789077,0.240356498907734,0.5,0.0,False
+"i also feel it hans zimmer, who i just finished the other day saying, has never produced a score that i think is particularly memorable",0.04268845,0.8524256648218846,0.40625,0.0,False
+he does his best work ever here,0.0253489,0.0005104592285294,0.0,0.0,False
+"i mean, in fact, i think the movie succeeds because of zimmer score points in who attend with cinematography and richard kings sound design, specifically the sound effects",0.02054715,0.0002032836523703,0.3515625,0.0,False
+it's just a really good trio,0.22985287,0.0073225626674534,0.15,0.0,False
+they do,0.021380141,0.0040377777976461,0.5,0.0,False
+they do amazing work,0.029125832,0.0015380832744731,0.1999999999999999,0.0,False
+"and then i think for best score back to best score right now, i would say that the oscar, you know award season it's going to right now",0.02809576,0.0018746740338736,0.2428571428571428,0.0,False
+it's between zimmer and michael chiquinho for warfare the planet of the apes,0.21539254,0.0037419570186653,0.5,0.155,False
+the the work they both do is career-defining i feel there's a chance that noland still won't be nominated here,0.023117077,0.001105796311032,0.5,0.0,False
+"though, for director, i think that could be the case or you'll be nominated and i don't think i think for sure he won't win unless things get political unless everybody decides that it's time for nolan to win another best directing oscar",0.025005542,0.9528703198714912,0.19,0.059,False
+"but i think this film, especially because you have to consider that so many people who are trying to change the voter ship, particularly to the academy awards",0.02637897,0.786085008985489,0.3888888888888889,0.0,False
+a lot of them are from the greatest generation,0.04268845,0.0009553228964567,0.0,0.0,False
+"i think they would be particularly offended by the way those soldiers are portrayed, and he should have thought of that when it was making the movie",0.13017663,0.999734667298482,0.4166666666666667,0.081,False
+"how every weinstein whatever, although he's not doing through all these days either available, no one is not just the director but also the writer",0.022074303,0.7700033676957511,0.3,0.062,False
+so it's his fault that the film misses the mark,0.104076885,0.9804235547965824,0.5,0.378,False
+"storytelling lies both in terms of the ability to follow it, and also emotional payoff and engagement",0.08581903,0.0170810720597482,0.5,0.123,False
+so those are the reasons he usually has it nominated,0.03770977,0.0028909134800218,0.625,0.0,False
+so he still has the exact same problem,0.04783881,0.9993682739218158,0.4375,0.278,False
+"now acting wise, there's nothing tom hardy can't do",0.06332459,0.0010027090579094,0.325,0.183,False
+he's just such a profession,0.065721996,0.1437325095889921,0.5,0.0,False
+it's a joy to watch him work,0.029640866,0.0015428814958529,0.0999999999999999,0.0,False
+he's not asked to do much here,0.03856816,0.9854576042868084,0.4,0.0,False
+"i mean, this is the kind of role that he could do in asleep and be warned",0.17957193,0.2395980521009355,0.428125,0.116,False
+he has a very very small roll back,0.17173064,0.9950307115970924,0.58125,0.0,False
+"most people list movie have a very small role, and again, when they are on screen, there's no dialogue for the most part, so you have to look at the actors most of the time, and in that regard, hardy's fellow pilot, played by jack loudoun, was really cool looking",0.02124131,0.9811680837811176,0.3475,0.041,False
+he had this really old-fashioned bunch of 1940s michael j,0.0669207,0.0009514187535949,0.4,0.0,False
+fox look like it was just like you were like,0.104076885,0.0407520690467036,0.5,0.0,False
+"oh, you don't really see that anymore",0.040284947,0.9996497596418916,0.4,0.0,False
+"i mean, he's just perfect for the movie",0.045091953,0.0003236862261243,0.328125,0.0,False
 so he just looked great,0.05773066,0.0265982994626588,0.0999999999999999,0.0,False
-I really thought he was fantastic,0.027065687,0.0096710685132368,0.35,0.0,False
-I can't tell you how good of an actor it was because it was gonna have to do very much acting,0.1334155,0.0490003308090516,0.325,0.0,False
-but he was better than Harry Styles,0.11794081,0.0019726054342092,0.25,0.0,False
-"I'm sorry to say, because I was really excited about Harry Styles in this movie",0.050242316,0.0005124858065035,0.53125,0.077,False
-I was like,0.020269485,0.0246270351462265,0.5,0.0,False
-"Oh, he's gonna be bigger than Justin Timberlake Why isn't he in the trailer More? I know why he wasn't in the trailer More",0.11472086,0.0792664681812356,0.3333333333333333,0.0,False
-He's not a good actor,0.28683078,0.9998379929725428,0.675,0.376,False
-"I never once believed he was in any real danger or was actually at war, especially when he was next to his co-stars",0.09494796,0.7996748534456296,0.475,0.258,False
-"You were like Ah, those guys seem really just in despair",0.15334547,0.9997592544577264,0.4,0.182,False
-"You know, Harry Styles was that he was just told to seem like he was in despair and he was doing the best he could",0.10634898,0.0824745113115833,0.0,0.074,False
-"Also, he played such a despicable human being that if I were his management team, I really would have advised him against taking a role",0.5026305,0.9990596976226452,0.4666666666666667,0.0,False
-"I know it's Nolan, but I think he did not come out particularly well",0.055732824,0.9993742642478862,0.4166666666666667,0.0,False
-"I mean I, his fans will still love him, but anyone who's new to Harry Styles would be like that jerk from Dunkirk",0.5958905,0.1045623336641423,0.4460227272727273,0.107,False
-"Ah, now I know a lot of you won't be able to resist seeing this film partially because the number of you won't believe that what I'm saying is true because of Nolan's reputation",0.09709594,0.0001125644854131,0.375,0.0,False
-"In fact, when I was walking out of the theater, I asked another critic that I've seen it number numerous screenings",0.033246122,0.0125936919780295,0.5,0.094,False
-"I said, Would you think of the movie? He said, I liked it",0.03444787,0.0089898104851568,0.2,0.0,False
-"Of course, but it's like, Like Who could dare not love a Christopher Nolan movie? Like why add me? Of course, it was was very to me, because I hated it so much",0.34388447,0.9998117070641144,0.59375,0.221,False
-"Emperor's New Clothes, kind of a mentality",0.09279997,0.9446329360644452,0.3159090909090909,0.0,False
-"Oh, I, similar problems with Baby Driver In fact, and I think if you like Baby Driver, you might like Dunkirk",0.15159425,0.9982591099150327,0.5,0.105,False
-"Maybe you know, I'll put you in that category as a movie goer In the first 45 minutes of the movie or so are very good because they're so over the technical craftsmanship",0.1785852,0.9992310924745412,0.3066666666666666,0.0,False
-"And so again you're like Oh, it's pretty good and like it's bad, But I could also tell you though that I had plans to see it again on Sunday night, but I cancelled them after seeing the Presque reading because I was like",0.08367105,0.9558639629732284,0.4583333333333333,0.09,False
-"I just can't sit through this movie again, but I know that some of you could, you've already seen it",0.06132676,0.9999654289639716,0.5,0.0,False
-"I've enjoyed it and I'm sure that many more will enjoy it, but I think many and more will also agree with me, so let's keep it civil in the comment section down below as we discuss our differing opinions on Dunkirk and also try to see it not just from your perspective, but it's lighted",0.026035614,0.0017365091002291,0.2972222222222222,0.0,False
-"You know, from an awards perspective, Do you think it'll do well during award season, and not just because you think it deserves an Oscar, but knowing how the Academy votes who votes etcetera, the politics of it all, try and keep that in mind as well and their history of voting",0.018187003,0.0009832479488348,0.5,0.0,False
-The patterns that have emerged all right,0.030155903,3.254445805430633e-05,0.3571428571428571,0.0,False
-Thank you so much for tuning in and you can check out some more videos right now,0.06372416,0.0199538059432379,0.3357142857142857,0.0,False
+i really thought he was fantastic,0.027065687,0.0096710685132368,0.35,0.0,False
+i can't tell you how good of an actor it was because it was gonna have to do very much acting,0.1334155,0.0490003308090516,0.325,0.0,False
+but he was better than harry styles,0.11794081,0.0019726054342092,0.25,0.0,False
+"i'm sorry to say, because i was really excited about harry styles in this movie",0.050242316,0.0005124858065035,0.53125,0.077,False
+i was like,0.020269485,0.0246270351462265,0.5,0.0,False
+"oh, he's gonna be bigger than justin timberlake why isn't he in the trailer more? i know why he wasn't in the trailer more",0.11472086,0.0792664681812356,0.3333333333333333,0.0,False
+he's not a good actor,0.28683078,0.9998379929725428,0.675,0.376,False
+"i never once believed he was in any real danger or was actually at war, especially when he was next to his co-stars",0.09494796,0.7996748534456296,0.475,0.258,False
+"you were like ah, those guys seem really just in despair",0.15334547,0.9997592544577264,0.4,0.182,False
+"you know, harry styles was that he was just told to seem like he was in despair and he was doing the best he could",0.10634898,0.0824745113115833,0.0,0.074,False
+"also, he played such a despicable human being that if i were his management team, i really would have advised him against taking a role",0.5026305,0.9990596976226452,0.4666666666666667,0.0,False
+"i know it's nolan, but i think he did not come out particularly well",0.055732824,0.9993742642478862,0.4166666666666667,0.0,False
+"i mean i, his fans will still love him, but anyone who's new to harry styles would be like that jerk from dunkirk",0.5958905,0.1045623336641423,0.4460227272727273,0.107,False
+"ah, now i know a lot of you won't be able to resist seeing this film partially because the number of you won't believe that what i'm saying is true because of nolan's reputation",0.09709594,0.0001125644854131,0.375,0.0,False
+"in fact, when i was walking out of the theater, i asked another critic that i've seen it number numerous screenings",0.033246122,0.0125936919780295,0.5,0.094,False
+"i said, would you think of the movie? he said, i liked it",0.03444787,0.0089898104851568,0.2,0.0,False
+"of course, but it's like, like who could dare not love a christopher nolan movie? like why add me? of course, it was was very to me, because i hated it so much",0.34388447,0.9998117070641144,0.59375,0.221,False
+"emperor's new clothes, kind of a mentality",0.09279997,0.9446329360644452,0.3159090909090909,0.0,False
+"oh, i, similar problems with baby driver in fact, and i think if you like baby driver, you might like dunkirk",0.15159425,0.9982591099150327,0.5,0.105,False
+"maybe you know, i'll put you in that category as a movie goer in the first 45 minutes of the movie or so are very good because they're so over the technical craftsmanship",0.1785852,0.9992310924745412,0.3066666666666666,0.0,False
+"and so again you're like oh, it's pretty good and like it's bad, but i could also tell you though that i had plans to see it again on sunday night, but i cancelled them after seeing the presque reading because i was like",0.08367105,0.9558639629732284,0.4583333333333333,0.09,False
+"i just can't sit through this movie again, but i know that some of you could, you've already seen it",0.06132676,0.9999654289639716,0.5,0.0,False
+"i've enjoyed it and i'm sure that many more will enjoy it, but i think many and more will also agree with me, so let's keep it civil in the comment section down below as we discuss our differing opinions on dunkirk and also try to see it not just from your perspective, but it's lighted",0.026035614,0.0017365091002291,0.2972222222222222,0.0,False
+"you know, from an awards perspective, do you think it'll do well during award season, and not just because you think it deserves an oscar, but knowing how the academy votes who votes etcetera, the politics of it all, try and keep that in mind as well and their history of voting",0.018187003,0.0009832479488348,0.5,0.0,False
+the patterns that have emerged all right,0.030155903,3.254445805430633e-05,0.3571428571428571,0.0,False
+thank you so much for tuning in and you can check out some more videos right now,0.06372416,0.0199538059432379,0.3357142857142857,0.0,False

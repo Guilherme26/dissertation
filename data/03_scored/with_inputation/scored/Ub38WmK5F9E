@@ -1,103 +1,103 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Now this movie has a Netflix movie, but I didn't watch it on Netflix In the comfort of my house",0.029984225,0.0174068732682491,0.5,0.0,False
-I went to an early screening two weeks ago,0.039598234,0.9903726201790752,0.45,0.0,False
-"I woke up at 8 o'clock in the morning, drove 2 hours and sat in an art house theater that had the most uncomfortable chairs in all of human existence",0.06771983,0.9998266051171458,0.5,0.091,False
-That's a small price to pay for a new Scorsese movie,0.053335425,0.0881837556592507,0.5284090909090909,0.123,False
-"So now let's talk about the Irishman, The Irishman starring Robert De Niro who plays a mob hitman, recalling the events of his past and his criminal activity revolving around the murder of Jimmy Hoffa, Like I said, I watched this movie for the first time in a theater, and I'm sort of jealous of everyone who got to watch this for the first time on Netflix on their comfortable couch, and they got to pause the movie whenever they wanted to to get up to get more popcorn",0.1668969,0.1544414333301444,0.4375,0.111,False
-"Take a pee or refill their drink, which brings me to a profound thought",0.39157572,0.0005118993654009,0.4583333333333333,0.0,False
-I wonder if anyone actually made it through this entire film without having to go to the restroom three and a half hours movie,0.092262976,0.9993949061006208,0.5277777777777778,0.0,False
-"Now, let's talk about the structure of this film and it's typical of what Scorsese has done with previous films",0.031014297,0.0137237966743827,0.5833333333333334,0.0,False
-"You have a main character who's a criminal and he's recalling the events of his past with narration throughout the film, and by the end of the film it concludes in present day with the outcome of all of those events",0.1539292,2.992238954719139e-05,0.5604166666666667,0.078,False
-"Oh yeah, the structure",0.023288755,0.0023599645580621,0.5,0.0,False
-"this film is very similar to past Coursezi flicks, but I like that method of storytelling",0.08290337,0.0004186452250691,0.5625,0.0,False
-"This film's timeline spans from the 1950s all the way to the 1990s, and it all revolves around the disappearance of Jimmy Hoffa, who went missing in the 1970s",0.033246122,0.0001220738123359,0.6,0.073,False
-He was murdered,0.3170379,0.9942343668180966,0.5,0.688,False
-"Obviously, and there's been a lot of conspiracy theories floating around of what actually happened, And this film directly relates to all those events and centers around that",0.04234509,9.683052155261438e-05,0.4833333333333333,0.112,False
-And I'm a sucker for things like that,0.54375964,0.9884012592438278,0.65,0.286,False
-I love historical films,0.035134587,0.0103724592419204,0.375,0.0,False
-"And Speaking of Jimmy Hoffa in this film, he's played by Al Pacino, who's loud, bombastic and he waits no longer than 10 minutes for anyone, and in my opinion, this was perfect casting, and I loved every scene with Al Pacino because he just chews it up, whoo-ha, cockmonkey, but the main character in this film is played by Robert De Niro and he follow his journey from a delivery driver to the right-hand man of Jimmy Hoffa, and a mob boss named Russell, who's played by Joe Pesci and Joe Pesci, always brings a smile to my face just the way that he gives his lines in his performance",0.1473238,7.859097732663716e-05,0.2733333333333333,0.013,False
-"I've been a fan of Joe Pesci since Home alone 1 as a kid, but Joe Pesci, for me, is really the standout throughout the film",0.037194733,0.0001822464263755,0.4,0.055,False
-"I just like the subtleties of this character named Russell, but I will say my favorite performance ever from Joe Pesci was in the film Casino",0.0471521,0.1301080335357267,0.25,0.0,False
-He's just utterly insane in that film and I loved the little things that he says when he's just beating people's heads,0.3897107,8.669744142707148e-05,0.58125,0.207,False
-"And yeah, that sounds dark and morbid, but I stand by it",0.2752517,0.0061920868393045,0.575,0.0,False
-"What happened in a cockmonkey, tough guy told my friend Stick it up",0.5818954,0.9956483189369087,0.6944444444444444,0.096,False
-"Let's talk about the Irishman himself, Robert De Niro And what can I really say about Robert De Niro's performance? It hasn't already been said six thousand other times, and a much more pretentious way than I'll probably say",0.14552918,0.9999816412430668,0.465625,0.0,False
-But he's phenomenal as always,0.033074442,0.0011778811550638,0.25,0.0,False
-It's Robert De Niro and in this film he is playing the role,0.048525527,0.0003446737401526,0.5,0.0,False
-I've character a Frank who did all this crazy cockmonkey for the mob decades ago,0.5035055,0.0726281365235845,0.8,0.164,True
-"Now my biggest fear going into this film was I was hoping that the D aging effects would look convincing and not be distracting because there's nothing worse than having great actors great performances, but it feels like there's this blurry mess of Cg on top of their faces because the actors in this film are in their 70s and they need to look a lot younger Because the film does span from the time period of the 1950s to the 1990s, and that's a long time period to really de-age actors and make them look 40-plus years younger",0.2088965,0.9999990462983412,0.39125,0.062,False
-And does the movie really do a good job of that it tries,0.10031791,0.0061826392322463,0.35,0.0,False
-It really does try,0.024147147,0.017765822730108,0.4,0.0,False
+"now this movie has a netflix movie, but i didn't watch it on netflix in the comfort of my house",0.029984225,0.0174068732682491,0.5,0.0,False
+i went to an early screening two weeks ago,0.039598234,0.9903726201790752,0.45,0.0,False
+"i woke up at 8 o'clock in the morning, drove 2 hours and sat in an art house theater that had the most uncomfortable chairs in all of human existence",0.06771983,0.9998266051171458,0.5,0.091,False
+that's a small price to pay for a new scorsese movie,0.053335425,0.0881837556592507,0.5284090909090909,0.123,False
+"so now let's talk about the irishman, the irishman starring robert de niro who plays a mob hitman, recalling the events of his past and his criminal activity revolving around the murder of jimmy hoffa, like i said, i watched this movie for the first time in a theater, and i'm sort of jealous of everyone who got to watch this for the first time on netflix on their comfortable couch, and they got to pause the movie whenever they wanted to to get up to get more popcorn",0.1668969,0.1544414333301444,0.4375,0.111,False
+"take a pee or refill their drink, which brings me to a profound thought",0.39157572,0.0005118993654009,0.4583333333333333,0.0,False
+i wonder if anyone actually made it through this entire film without having to go to the restroom three and a half hours movie,0.092262976,0.9993949061006208,0.5277777777777778,0.0,False
+"now, let's talk about the structure of this film and it's typical of what scorsese has done with previous films",0.031014297,0.0137237966743827,0.5833333333333334,0.0,False
+"you have a main character who's a criminal and he's recalling the events of his past with narration throughout the film, and by the end of the film it concludes in present day with the outcome of all of those events",0.1539292,2.992238954719139e-05,0.5604166666666667,0.078,False
+"oh yeah, the structure",0.023288755,0.0023599645580621,0.5,0.0,False
+"this film is very similar to past coursezi flicks, but i like that method of storytelling",0.08290337,0.0004186452250691,0.5625,0.0,False
+"this film's timeline spans from the 1950s all the way to the 1990s, and it all revolves around the disappearance of jimmy hoffa, who went missing in the 1970s",0.033246122,0.0001220738123359,0.6,0.073,False
+he was murdered,0.3170379,0.9942343668180966,0.5,0.688,False
+"obviously, and there's been a lot of conspiracy theories floating around of what actually happened, and this film directly relates to all those events and centers around that",0.04234509,9.683052155261438e-05,0.4833333333333333,0.112,False
+and i'm a sucker for things like that,0.54375964,0.9884012592438278,0.65,0.286,False
+i love historical films,0.035134587,0.0103724592419204,0.375,0.0,False
+"and speaking of jimmy hoffa in this film, he's played by al pacino, who's loud, bombastic and he waits no longer than 10 minutes for anyone, and in my opinion, this was perfect casting, and i loved every scene with al pacino because he just chews it up, whoo-ha, cockmonkey, but the main character in this film is played by robert de niro and he follow his journey from a delivery driver to the right-hand man of jimmy hoffa, and a mob boss named russell, who's played by joe pesci and joe pesci, always brings a smile to my face just the way that he gives his lines in his performance",0.1473238,7.859097732663716e-05,0.2733333333333333,0.013,True
+"i've been a fan of joe pesci since home alone 1 as a kid, but joe pesci, for me, is really the standout throughout the film",0.037194733,0.0001822464263755,0.4,0.055,False
+"i just like the subtleties of this character named russell, but i will say my favorite performance ever from joe pesci was in the film casino",0.0471521,0.1301080335357267,0.25,0.0,False
+he's just utterly insane in that film and i loved the little things that he says when he's just beating people's heads,0.3897107,8.669744142707148e-05,0.58125,0.207,False
+"and yeah, that sounds dark and morbid, but i stand by it",0.2752517,0.0061920868393045,0.575,0.0,False
+"what happened in a cockmonkey, tough guy told my friend stick it up",0.5818954,0.9956483189369087,0.6944444444444444,0.096,True
+"let's talk about the irishman himself, robert de niro and what can i really say about robert de niro's performance? it hasn't already been said six thousand other times, and a much more pretentious way than i'll probably say",0.14552918,0.9999816412430668,0.465625,0.0,False
+but he's phenomenal as always,0.033074442,0.0011778811550638,0.25,0.0,False
+it's robert de niro and in this film he is playing the role,0.048525527,0.0003446737401526,0.5,0.0,False
+i've character a frank who did all this crazy cockmonkey for the mob decades ago,0.5035055,0.0726281365235845,0.8,0.164,True
+"now my biggest fear going into this film was i was hoping that the d aging effects would look convincing and not be distracting because there's nothing worse than having great actors great performances, but it feels like there's this blurry mess of cg on top of their faces because the actors in this film are in their 70s and they need to look a lot younger because the film does span from the time period of the 1950s to the 1990s, and that's a long time period to really de-age actors and make them look 40-plus years younger",0.2088965,0.9999990462983412,0.39125,0.062,False
+and does the movie really do a good job of that it tries,0.10031791,0.0061826392322463,0.35,0.0,False
+it really does try,0.024147147,0.017765822730108,0.4,0.0,False
 throughout this film they do their best to camouflage the de-aging effect as much as they possibly can,0.10461388,0.0012537302401212,0.3,0.0,False
-"for example, when you have younger versions of Joe Pesci, Al Pacino or Robert De Niro in their 30s or 40s, in this film, when they're actually 70 years old acting these characters, They do their best to camouflage it with shadows or angles, or maybe not put the camera or a hyper focus up close to their face and keep them in the distance",0.04406188,0.0010234410926798,0.39,0.0,False
-"and after 20 minutes into this movie, you sort of just forget about the D aging effect because the the actors performances honestly overshadow it",0.1530536,0.9990336319909684,0.2,0.078,False
-They're such good performances where you sort of forget,0.105704986,0.0008174415343629,0.325,0.181,False
-"Oh, this guy 70 years old",0.07970683,0.8793914608533782,0.45,0.0,False
-"He looks like he's 60 years old with the D aging effect, but really he's supposed to be 30 years old, So that's really my biggest negative from a technical standpoint with the film The Irishman, but with all that said, I will say, the most jarring de-aging scene throughout this entire film was one of the first shots we receive Robert De Niro Keep in mind he's 70 years old, attempting to play a 30 year old driving this truck, and the face does look slightly younger than 70 years old, maybe years old",0.23628397,0.998236009569204,0.4482142857142857,0.053,False
+"for example, when you have younger versions of joe pesci, al pacino or robert de niro in their 30s or 40s, in this film, when they're actually 70 years old acting these characters, they do their best to camouflage it with shadows or angles, or maybe not put the camera or a hyper focus up close to their face and keep them in the distance",0.04406188,0.0010234410926798,0.39,0.0,False
+"and after 20 minutes into this movie, you sort of just forget about the d aging effect because the the actors performances honestly overshadow it",0.1530536,0.9990336319909684,0.2,0.078,False
+they're such good performances where you sort of forget,0.105704986,0.0008174415343629,0.325,0.181,False
+"oh, this guy 70 years old",0.07970683,0.8793914608533782,0.45,0.0,False
+"he looks like he's 60 years old with the d aging effect, but really he's supposed to be 30 years old, so that's really my biggest negative from a technical standpoint with the film the irishman, but with all that said, i will say, the most jarring de-aging scene throughout this entire film was one of the first shots we receive robert de niro keep in mind he's 70 years old, attempting to play a 30 year old driving this truck, and the face does look slightly younger than 70 years old, maybe years old",0.23628397,0.998236009569204,0.4482142857142857,0.053,False
 nowhere close to 30,0.019852988,0.9994547210765384,0.5,0.0,False
-"But you still see old man Robert De Niro's body and hands, and I thought maybe they should have tweaked those aspects to really make it more believable",0.07571117,0.99775167814238,0.3375,0.0,False
-"Now The Irishman is a mob movie directed by Martin Scorsese and it feels like a mix of a few previous other films like Good Fellows or Casino, blended together in this film, And you can tell that score says he was wanting to include all his favorite things that he even puts in films, or he's directed over the course of his career into one film and just have fun with it",0.0729142,0.0012262815142517,0.4159722222222222,0.0,False
-Every little trope that he's done and he's perfected he put into this movie And I like that it felt like a culmination of the best hits of Martin Scorsese,0.101391904,7.83525519119185e-05,0.296875,0.0,False
-"Now, let's talk about the runtime of this film",0.029984225,0.1650477879039038,0.5,0.0,False
-"It's three and a half hours long, and at times when you're watching this movie, it feels like you're binge watching a really good miniseries",0.15626417,0.0009049138583878,0.4194444444444444,0.0,False
-"and even in the theater I was thinking to myself, Okay, that episode could've ended right there",0.034962907,0.9929916339502292,0.3035714285714286,0.0,False
-This one could start there,0.04131502,0.0685772589243377,0.5,0.0,False
+"but you still see old man robert de niro's body and hands, and i thought maybe they should have tweaked those aspects to really make it more believable",0.07571117,0.99775167814238,0.3375,0.0,False
+"now the irishman is a mob movie directed by martin scorsese and it feels like a mix of a few previous other films like good fellows or casino, blended together in this film, and you can tell that score says he was wanting to include all his favorite things that he even puts in films, or he's directed over the course of his career into one film and just have fun with it",0.0729142,0.0012262815142517,0.4159722222222222,0.0,False
+every little trope that he's done and he's perfected he put into this movie and i like that it felt like a culmination of the best hits of martin scorsese,0.101391904,7.83525519119185e-05,0.296875,0.0,False
+"now, let's talk about the runtime of this film",0.029984225,0.1650477879039038,0.5,0.0,False
+"it's three and a half hours long, and at times when you're watching this movie, it feels like you're binge watching a really good miniseries",0.15626417,0.0009049138583878,0.4194444444444444,0.0,False
+"and even in the theater i was thinking to myself, okay, that episode could've ended right there",0.034962907,0.9929916339502292,0.3035714285714286,0.0,False
+this one could start there,0.04131502,0.0685772589243377,0.5,0.0,False
 this one could in there,0.038911518,0.0147303393657943,0.5,0.0,False
 this one could start there,0.04165838,0.0685772589243377,0.5,0.0,False
-"And don't get me wrong, I love a slow burn",0.3282253,0.0064713724094706,0.55,0.0,False
-I love an immersive theater experience that takes its time,0.03753809,0.000430000235445,0.25,0.0,False
-"It develops the story and gives you everything you want and more, and by the end of this movie I was fulfilled, but I will say is the three and a half hour runtime completely necessary? You know, it's a Martin Scorsese movie",0.04234509,5.772875353875471e-05,0.4444444444444444,0.0,False
-Who am I to say? He should cut minutes off of his movie,0.22980565,0.9997880100031384,0.5,0.149,False
-I should have a slap my hand for such an accusation,0.42465788,0.9985715635372436,0.5,0.135,False
-"This is the part of the video where I dive into negative, as I had with the story of the film, and really my biggest criticism with the overall story of this film revolves around the subplot a Robert De Niro's character and his daughter throughout the film and their relationship, or lack thereof, because throughout the first half of this film, you really feel like they're teasing something to develop out of this relationship and have a payoff by the end of the film and it never really happens",0.2015616,0.996356829859922,0.494047619047619,0.107,False
-You just you sort of understand that they,0.02655065,0.7776613268314723,0.5,0.0,False
+"and don't get me wrong, i love a slow burn",0.3282253,0.0064713724094706,0.55,0.0,False
+i love an immersive theater experience that takes its time,0.03753809,0.000430000235445,0.25,0.0,False
+"it develops the story and gives you everything you want and more, and by the end of this movie i was fulfilled, but i will say is the three and a half hour runtime completely necessary? you know, it's a martin scorsese movie",0.04234509,5.772875353875471e-05,0.4444444444444444,0.0,False
+who am i to say? he should cut minutes off of his movie,0.22980565,0.9997880100031384,0.5,0.149,False
+i should have a slap my hand for such an accusation,0.42465788,0.9985715635372436,0.5,0.135,False
+"this is the part of the video where i dive into negative, as i had with the story of the film, and really my biggest criticism with the overall story of this film revolves around the subplot a robert de niro's character and his daughter throughout the film and their relationship, or lack thereof, because throughout the first half of this film, you really feel like they're teasing something to develop out of this relationship and have a payoff by the end of the film and it never really happens",0.2015616,0.996356829859922,0.494047619047619,0.107,False
+you just you sort of understand that they,0.02655065,0.7776613268314723,0.5,0.0,False
 they weren't close,0.03358948,0.9998355460701978,0.5,0.0,False
-"But you, You understood that by the first half of the movie and it sort of just drags that same concept out into the end of the film And it didn't really have the payoff that I think it could have",0.043718524,0.9996945174373916,0.4645833333333333,0.059,False
-It Just feels like it's sprinkled throughout the movie for the sake of being there now very quickly Before I give you my final flicking thoughts on this film,0.10828095,0.9984009999561894,0.3916666666666666,0.0,False
-"There is one technical aspect I did want to mention because I just found it fascinating the director of photography of this film, who did a phenomenal job",0.019852988,1.5259226541994017e-05,0.3,0.0,False
-"This movie looks beautiful times, he did say, throughout the film as it progresses into each modern day time period from the 50s to the 90s",0.023117077,0.000126901926984,0.2375,0.0,False
-"He D saturated the film just a little bit more as the film progressed, and this was done to represent the depression and decisions that these characters are making in their lives and how it's not for the betterment of them as people, and how as it progresses, they become more depressed and the audience should feel that same depression, and I will say, as I watched the film in the theatre, I did feel that way because it starts out vibrant in the 1950s, and by the time you reach the end of this movie, you just feel miserable and and you understand that decisions throughout your life really affect the outcome, and it does make you think, And that was sort of the message of this movie",0.15217799,0.9935438570138946,0.4872023809523809,0.1,False
-But no worries,0.019575324,0.0051487372244957,0.5,0.0,False
-Don't get too depressed before I give you my final flicking thoughts in this film,0.24991328,0.0155611923297351,0.5,0.0,False
-I first want to mention the sponsor of this video and my Al Pacino voice,0.060927194,0.0060152645911138,0.375,0.0,False
-Here it goes,0.036851373,0.0142911597518825,0.5,0.0,False
-"Hooha, You want to shave your face? This is how you do it and big, thanks to Harry's for sponsoring this video",0.26589394,0.0023582061706285,0.45,0.0,False
-"If you want to get your trial set for just three dollars, go to Harrys",0.104076885,0.9994098672953944,0.5,0.0,False
+"but you, you understood that by the first half of the movie and it sort of just drags that same concept out into the end of the film and it didn't really have the payoff that i think it could have",0.043718524,0.9996945174373916,0.4645833333333333,0.059,False
+it just feels like it's sprinkled throughout the movie for the sake of being there now very quickly before i give you my final flicking thoughts on this film,0.10828095,0.9984009999561894,0.3916666666666666,0.0,False
+"there is one technical aspect i did want to mention because i just found it fascinating the director of photography of this film, who did a phenomenal job",0.019852988,1.5259226541994017e-05,0.3,0.0,False
+"this movie looks beautiful times, he did say, throughout the film as it progresses into each modern day time period from the 50s to the 90s",0.023117077,0.000126901926984,0.2375,0.0,False
+"he d saturated the film just a little bit more as the film progressed, and this was done to represent the depression and decisions that these characters are making in their lives and how it's not for the betterment of them as people, and how as it progresses, they become more depressed and the audience should feel that same depression, and i will say, as i watched the film in the theatre, i did feel that way because it starts out vibrant in the 1950s, and by the time you reach the end of this movie, you just feel miserable and and you understand that decisions throughout your life really affect the outcome, and it does make you think, and that was sort of the message of this movie",0.15217799,0.9935438570138946,0.4872023809523809,0.1,False
+but no worries,0.019575324,0.0051487372244957,0.5,0.0,False
+don't get too depressed before i give you my final flicking thoughts in this film,0.24991328,0.0155611923297351,0.5,0.0,False
+i first want to mention the sponsor of this video and my al pacino voice,0.060927194,0.0060152645911138,0.375,0.0,False
+here it goes,0.036851373,0.0142911597518825,0.5,0.0,False
+"hooha, you want to shave your face? this is how you do it and big, thanks to harry's for sponsoring this video",0.26589394,0.0023582061706285,0.45,0.0,False
+"if you want to get your trial set for just three dollars, go to harrys",0.104076885,0.9994098672953944,0.5,0.0,False
 com slash flick link down below,0.043718524,0.992554242526928,0.5777777777777778,0.296,False
-"Check it out, and they sent me their awesome starter set",0.07451247,0.0008116299148791,0.0,0.0,False
-"that includes everything you need for quality shave, and I'm going to show you everything that comes in this box",0.14911842,0.0001305975209121,0.5,0.0,False
-"But first, let's go to my bathroom",0.10031791,0.9608985300179088,0.375,0.0,False
-Don't get scared,0.045778666,0.0567387516104891,0.5,0.0,False
-Here's what I like about Harry's is convenient affordable,0.039254878,0.011382727330437,0.5,0.0,False
-It shows up in a box at your door,0.04543531,0.9733290774396806,0.5,0.0,False
-You don't even have to leave your house and I prefer that I no longer have to go buy stupid overpriced expensive razors,0.6757943,0.0007570304949085,0.825,0.254,False
-"I get affordable razors that are high-quality and I get to shave my beautiful magical and mystical face with them, and once again big things to Harry's for sending me their starter set, which includes a spy blade razor with a textured rubber grip and weighted handle, a five blade razor cartridge, foaming shave gel and a travel cover to protect your blades when you're on the move",0.21274342,0.0001008837536028,0.275,0.0,False
-"Yeah, you get all this great stuff in the starter set for just three dollars",0.08330294,0.0185596899515907,0.0999999999999999,0.0,False
-"if you use the link down below, And if you're like me, you have to shave your face every day or else you, you're gonna scare small children because my facial hair just grows out like that",0.37360558,0.974474860573288,0.5675925925925926,0.076,False
-"Just looking at this five blade high-quality German-engineered razor makes me want to shave my face right now, and I think I will",0.22982925,1.156363261385484e-05,0.3571428571428571,0.0,False
-"honestly, the deal Harry's currently have on their trial set is amazing",0.02124131,0.0028238808087509,0.2999999999999999,0.0,False
-"You'll get everything you need for a close comfortable shave, and you'll be supporting my channel by signing up",0.15684792,0.0004794437058223,0.3375,0.0,False
-Redeem your trial set for just $3,0.02929751,0.9747699418271792,0.5,0.0,False
-00 When you go to Harrys,0.03427619,0.0215744601080007,0.5,0.0,False
+"check it out, and they sent me their awesome starter set",0.07451247,0.0008116299148791,0.0,0.0,False
+"that includes everything you need for quality shave, and i'm going to show you everything that comes in this box",0.14911842,0.0001305975209121,0.5,0.0,False
+"but first, let's go to my bathroom",0.10031791,0.9608985300179088,0.375,0.0,False
+don't get scared,0.045778666,0.0567387516104891,0.5,0.0,False
+here's what i like about harry's is convenient affordable,0.039254878,0.011382727330437,0.5,0.0,False
+it shows up in a box at your door,0.04543531,0.9733290774396806,0.5,0.0,False
+you don't even have to leave your house and i prefer that i no longer have to go buy stupid overpriced expensive razors,0.6757943,0.0007570304949085,0.825,0.254,True
+"i get affordable razors that are high-quality and i get to shave my beautiful magical and mystical face with them, and once again big things to harry's for sending me their starter set, which includes a spy blade razor with a textured rubber grip and weighted handle, a five blade razor cartridge, foaming shave gel and a travel cover to protect your blades when you're on the move",0.21274342,0.0001008837536028,0.275,0.0,False
+"yeah, you get all this great stuff in the starter set for just three dollars",0.08330294,0.0185596899515907,0.0999999999999999,0.0,False
+"if you use the link down below, and if you're like me, you have to shave your face every day or else you, you're gonna scare small children because my facial hair just grows out like that",0.37360558,0.974474860573288,0.5675925925925926,0.076,False
+"just looking at this five blade high-quality german-engineered razor makes me want to shave my face right now, and i think i will",0.22982925,1.156363261385484e-05,0.3571428571428571,0.0,False
+"honestly, the deal harry's currently have on their trial set is amazing",0.02124131,0.0028238808087509,0.2999999999999999,0.0,False
+"you'll get everything you need for a close comfortable shave, and you'll be supporting my channel by signing up",0.15684792,0.0004794437058223,0.3375,0.0,False
+redeem your trial set for just $3,0.02929751,0.9747699418271792,0.5,0.0,False
+00 when you go to harrys,0.03427619,0.0215744601080007,0.5,0.0,False
 "com slash flick link down below, check it out",0.030842619,0.1975070536668785,0.5777777777777778,0.208,False
 once again,0.023803791,0.0278551815952269,0.5,0.0,False
-Big things to Harry's for sponsoring this video,0.054534122,0.0086722476095616,0.5,0.0,False
-"It really does help, and I highly recommend their products",0.021102477,0.0025223322654855,0.41,0.0,False
-"and like I said, it's $3 link down below",0.016521018,0.9979759470480996,0.5777777777777778,0.0,False
-"If you need some awesome razors and big, thanks to you guys for watching",0.28996843,0.0043270636390215,0.3,0.0,False
-"Now, let's get back to the video and now feature presentation",0.05852979,0.0217935730641271,0.5,0.0,False
-"Now, here are my final flicking thoughts on the Irishman, This film is directed by Martin Scorsese and he still has the vitality that he had 40-plus years ago",0.08290337,1.0431111893941225e-05,0.5,0.0,False
-"This man is a master storyteller and he gets the best performances out of any actors I've ever seen in a film, and every movie that I watch of his",0.034791227,8.097523147382373e-05,0.0,0.0,False
-"I am so captivated by it, and the Irishman is no different",0.14373457,0.0006924172075198,0.5,0.141,False
-I was really fascinated by the real-life events with the Unions and Jimmy Hoffa and the things that went on behind the scenes in this film,0.0224908,0.0,0.55,0.0,False
-I just I loved every second of it,0.040971663,0.001282967156601,0.325,0.0,False
-"In all reality, this film is sort of like the Avengers of Mob movies",0.058929358,0.9992358763490036,0.5,0.0,False
-You have this perfect ensemble cast coming together to give this great performance,0.0825038,0.0004386729599054,0.0499999999999999,0.0,False
-"So with all that said, I'm going to give the Irishman an A",0.09387396,0.9656794066306704,0.5,0.0,False
-Is it my favorite Martin Scorsese film? Probably not,0.05413456,0.175374886710674,0.25,0.0,False
-Is it his best mob movie? In my opinion? Probably not,0.073313765,0.957674541560083,0.0,0.0,False
-Does it have as much rewatch ability as some of his other films? Definitely not,0.09870692,0.99981873707846,0.4875,0.0,False
-But this is a true piece of cinema and it's definitely worth watching,0.029125832,0.0010233814863261,0.3375,0.0,False
-"and I think this is a movie that will resonate for years to come, and it's by far the best Netflix movie ever made",0.023460433,0.0001338162640108,0.2249999999999999,0.0,False
-"so now here's my question for you guys and let me know down below, what did you think about the Irishman or do you guys paint houses? What is your favorite mob movie of all time? Yeah, let me know those things down below in the comment section",0.09763293,0.0269544401815967,0.4685185185185185,0.0,False
-"And if you can give the video a thumbs up, because it helps the stupid Youtube algorithm, And if you want to please subscribe to my channel that way, I can see you next time you",0.5535644,0.0030522327496977,0.7,0.082,False
+big things to harry's for sponsoring this video,0.054534122,0.0086722476095616,0.5,0.0,False
+"it really does help, and i highly recommend their products",0.021102477,0.0025223322654855,0.41,0.0,False
+"and like i said, it's $3 link down below",0.016521018,0.9979759470480996,0.5777777777777778,0.0,False
+"if you need some awesome razors and big, thanks to you guys for watching",0.28996843,0.0043270636390215,0.3,0.0,False
+"now, let's get back to the video and now feature presentation",0.05852979,0.0217935730641271,0.5,0.0,False
+"now, here are my final flicking thoughts on the irishman, this film is directed by martin scorsese and he still has the vitality that he had 40-plus years ago",0.08290337,1.0431111893941225e-05,0.5,0.0,False
+"this man is a master storyteller and he gets the best performances out of any actors i've ever seen in a film, and every movie that i watch of his",0.034791227,8.097523147382373e-05,0.0,0.0,False
+"i am so captivated by it, and the irishman is no different",0.14373457,0.0006924172075198,0.5,0.141,False
+i was really fascinated by the real-life events with the unions and jimmy hoffa and the things that went on behind the scenes in this film,0.0224908,0.0,0.55,0.0,False
+i just i loved every second of it,0.040971663,0.001282967156601,0.325,0.0,False
+"in all reality, this film is sort of like the avengers of mob movies",0.058929358,0.9992358763490036,0.5,0.0,False
+you have this perfect ensemble cast coming together to give this great performance,0.0825038,0.0004386729599054,0.0499999999999999,0.0,False
+"so with all that said, i'm going to give the irishman an a",0.09387396,0.9656794066306704,0.5,0.0,False
+is it my favorite martin scorsese film? probably not,0.05413456,0.175374886710674,0.25,0.0,False
+is it his best mob movie? in my opinion? probably not,0.073313765,0.957674541560083,0.0,0.0,False
+does it have as much rewatch ability as some of his other films? definitely not,0.09870692,0.99981873707846,0.4875,0.0,False
+but this is a true piece of cinema and it's definitely worth watching,0.029125832,0.0010233814863261,0.3375,0.0,False
+"and i think this is a movie that will resonate for years to come, and it's by far the best netflix movie ever made",0.023460433,0.0001338162640108,0.2249999999999999,0.0,False
+"so now here's my question for you guys and let me know down below, what did you think about the irishman or do you guys paint houses? what is your favorite mob movie of all time? yeah, let me know those things down below in the comment section",0.09763293,0.0269544401815967,0.4685185185185185,0.0,False
+"and if you can give the video a thumbs up, because it helps the stupid youtube algorithm, and if you want to please subscribe to my channel that way, i can see you next time you",0.5535644,0.0030522327496977,0.7,0.082,True

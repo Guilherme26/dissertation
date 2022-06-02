@@ -1,43 +1,43 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-Hello and welcome to the classic Hollywood movie,0.038911518,0.0025697780486913,0.011111111111111,0.0,False
-You should know,0.02397547,0.094388631436866,0.3333333333333333,0.0,False
-I'm Nate Washburn This week,0.06971766,0.0005202323750308,0.3333333333333333,0.0,False
-"The movie is from 1940, The Philadelphia Story starring Katharine Hepburn, Cary Grant, Jimmy Stewart, Katharine Hepburn plays Tracy Lord, Cary Grant is her ex-husband Ck",0.031357653,0.0019537847672741,0.3333333333333333,0.0,False
-"Dexter Haven, Tracy is now engaged to marry George Kittredge",0.048525527,0.0004658098991324,0.3333333333333333,0.0,False
-"However, there's still a spark between her and Dexter",0.035134587,0.0012730567554893,0.3333333333333333,0.0,False
-Dexter invites newspaper reporters to this weekend long celebration and wedding sort of as a way to embarrass Tracy,0.18647896,0.9514872506259926,0.3666666666666667,0.109,False
-"But what it does? She plays his game, sparks fly, tracing Dexter realization",0.06412373,0.0068329117330029,0.2,0.0,False
-So together the whole party kind of blows up,0.19789414,0.9993882687197074,0.0666666666666666,0.0,False
-"It's a comedy of remarriage, its spouses who were together who fights the marriage was integrates, and yet they realize they can't live without each other",0.089041,0.0031781414539694,0.3295454545454546,0.092,False
-Now,0.018742332,0.0840667204056328,0.3333333333333333,0.0,False
-What makes this movie particularly interesting? Is it really solidified Katharine Hepburn's place in Hollywood? She was a star in the early 30s,0.026894007,0.0118505090289748,0.1555555555555555,0.0,False
-"She was signed with Rko and had a bunch of hit movies, including Little Women in the early 30s, However, from 1934 to 1938, her movies were not nearly as successful and she made a bunch of flops, including Bringing a baby which is now viewed as a screwball comedy classic",0.15217799,0.999887846781596,0.3826388888888889,0.119,False
-She got labeled as box-office poison in Rko,0.26132804,0.1120023197207799,0.3333333333333333,0.333,False
-Her home studio didn't really know what to do with her,0.052935857,0.9962378451751496,0.2,0.0,False
-"She got frustrated in the studio's frustrated, so she ended her contract and then she went to Broadway",0.090114996,0.906445290181774,0.7999999999999999,0.298,False
-"She did a brand new Philip Barry play called The Philadelphia Story, which became a smash hit",0.1019289,0.0003489178123452,0.2424242424242424,0.0,False
-"Now in a very forward-thinking move, Her boyfriend at the time, Howard Hughes, a Howard Hughes the Aviator, He bought the film rights to the Philadelphia Story before the play even premiered, and he gave them to Katharine Hepburn",0.020963646,0.0031425552347894,0.2,0.0,False
-"So when the play was a hit, all of the studio's wanted to make it",0.09709594,0.9214720629998872,0.3333333333333333,0.0,False
-She chose Mgm,0.08330294,0.137802775689331,0.3333333333333333,0.0,False
-"It was big hit critically and commercially was the fifth highest grossing movie of the year and he got nominated for six Oscars, not one to one, Best Actor for Jimmy Stewart, and it won best writing for Donald Ogden's worked, Who adapted the play into the screenplay, And it brought Katharine Hepburn back from the brink back from being box-office poison",0.17759849,0.0,0.1428571428571428,0.064,False
-She became a top star,0.029640866,0.004485860498325,0.0,0.0,False
-The Forties,0.022074303,0.0695334753960636,0.3333333333333333,0.0,False
-"Now there is one moment in the beginning of the movie that always catches me off guard to catch his modern audiences off-guard because to our eyes it is, you know, a bizarre moment",0.09978092,0.0811347318697601,0.1333333333333333,0.065,False
-"right at the beginning, Katharine Hepburn's first entrance",0.018187003,0.001659498060253,0.1547619047619048,0.0,False
-it shows her fighting with Cary Grant,0.09709594,0.098260286905994,0.3333333333333333,0.25,False
-It's the end of their marriage,0.10300289,0.974508762644508,0.3333333333333333,0.0,False
-"She breaks a golf club and he ends up pushing her to the ground, and as a modern audience you're like",0.19042583,0.9684005401237006,0.2,0.0,False
-"Oh, like that's domestic violence",0.17380224,0.9996884566590548,0.3333333333333333,0.427,False
-"However little trivia, Katharine Hepburn asked for that to be in the screenplay, her image, her publicity photos, and all that stuff",0.06851897,0.9949233605765612,0.4583333333333333,0.0,False
-"She was New England, almost royalty",0.06931809,0.0099003305703445,0.2424242424242424,0.0,False
-She was blue blood,0.17587385,0.1920849035926404,0.3333333333333333,0.0,False
-"She would come, you know, sweeping grand entrances into films and stuff like that, So people had thought that she was very la-dee-da She was up her class",0.123736724,0.0074962042856418,0.1,0.0,False
-She was high society and many people wanted her to fall on her face,0.4945446,0.0060101666907385,0.1133333333333332,0.0,False
-"They wanted her to fail utterly and dramatically, And so she asked for this moment in the beginning of the film",0.1785852,0.99584851286263,0.5,0.149,False
-"Her big entrance is actually her being pushed down, her being knocked off of her pedestal and ending up on the floor",0.29855597,0.999788658391788,0.3679012345679012,0.0,False
-Another little bit of trivia,0.1464265,0.1076714708857338,0.4583333333333333,0.0,False
-"It was turned into a musical 1956 called High Society starring Bing Crosby and Grace Kelly and Frank Sinatra, But do yourself a favor",0.08367105,0.2485504576524886,0.28,0.0,False
-Watch the original The Philadelphia Story from 1940,0.024833864,0.0006100920490908,0.0833333333333333,0.0,False
-It has a hundred percent fresh rating and Rotten Tomatoes,0.22988434,5.510797258275539e-05,0.1333333333333333,0.243,False
-It just one of Afis top 100 movies and it is this week's classic Hollywood movie,0.043375164,0.0001414209464062,0.1111111111111111,0.0,False
-"No, I'm Nate Washburn, Keep watching",0.06252546,0.8395592029807541,0.3333333333333333,0.0,False
+hello and welcome to the classic hollywood movie,0.038911518,0.0025697780486913,0.011111111111111,0.0,False
+you should know,0.02397547,0.094388631436866,0.3333333333333333,0.0,False
+i'm nate washburn this week,0.06971766,0.0005202323750308,0.3333333333333333,0.0,False
+"the movie is from 1940, the philadelphia story starring katharine hepburn, cary grant, jimmy stewart, katharine hepburn plays tracy lord, cary grant is her ex-husband ck",0.031357653,0.0019537847672741,0.3333333333333333,0.0,False
+"dexter haven, tracy is now engaged to marry george kittredge",0.048525527,0.0004658098991324,0.3333333333333333,0.0,False
+"however, there's still a spark between her and dexter",0.035134587,0.0012730567554893,0.3333333333333333,0.0,False
+dexter invites newspaper reporters to this weekend long celebration and wedding sort of as a way to embarrass tracy,0.18647896,0.9514872506259926,0.3666666666666667,0.109,False
+"but what it does? she plays his game, sparks fly, tracing dexter realization",0.06412373,0.0068329117330029,0.2,0.0,False
+so together the whole party kind of blows up,0.19789414,0.9993882687197074,0.0666666666666666,0.0,False
+"it's a comedy of remarriage, its spouses who were together who fights the marriage was integrates, and yet they realize they can't live without each other",0.089041,0.0031781414539694,0.3295454545454546,0.092,False
+now,0.018742332,0.0840667204056328,0.3333333333333333,0.0,False
+what makes this movie particularly interesting? is it really solidified katharine hepburn's place in hollywood? she was a star in the early 30s,0.026894007,0.0118505090289748,0.1555555555555555,0.0,False
+"she was signed with rko and had a bunch of hit movies, including little women in the early 30s, however, from 1934 to 1938, her movies were not nearly as successful and she made a bunch of flops, including bringing a baby which is now viewed as a screwball comedy classic",0.15217799,0.999887846781596,0.3826388888888889,0.119,False
+she got labeled as box-office poison in rko,0.26132804,0.1120023197207799,0.3333333333333333,0.333,False
+her home studio didn't really know what to do with her,0.052935857,0.9962378451751496,0.2,0.0,False
+"she got frustrated in the studio's frustrated, so she ended her contract and then she went to broadway",0.090114996,0.906445290181774,0.7999999999999999,0.298,False
+"she did a brand new philip barry play called the philadelphia story, which became a smash hit",0.1019289,0.0003489178123452,0.2424242424242424,0.0,False
+"now in a very forward-thinking move, her boyfriend at the time, howard hughes, a howard hughes the aviator, he bought the film rights to the philadelphia story before the play even premiered, and he gave them to katharine hepburn",0.020963646,0.0031425552347894,0.2,0.0,False
+"so when the play was a hit, all of the studio's wanted to make it",0.09709594,0.9214720629998872,0.3333333333333333,0.0,False
+she chose mgm,0.08330294,0.137802775689331,0.3333333333333333,0.0,False
+"it was big hit critically and commercially was the fifth highest grossing movie of the year and he got nominated for six oscars, not one to one, best actor for jimmy stewart, and it won best writing for donald ogden's worked, who adapted the play into the screenplay, and it brought katharine hepburn back from the brink back from being box-office poison",0.17759849,0.0,0.1428571428571428,0.064,False
+she became a top star,0.029640866,0.004485860498325,0.0,0.0,False
+the forties,0.022074303,0.0695334753960636,0.3333333333333333,0.0,False
+"now there is one moment in the beginning of the movie that always catches me off guard to catch his modern audiences off-guard because to our eyes it is, you know, a bizarre moment",0.09978092,0.0811347318697601,0.1333333333333333,0.065,False
+"right at the beginning, katharine hepburn's first entrance",0.018187003,0.001659498060253,0.1547619047619048,0.0,False
+it shows her fighting with cary grant,0.09709594,0.098260286905994,0.3333333333333333,0.25,False
+it's the end of their marriage,0.10300289,0.974508762644508,0.3333333333333333,0.0,False
+"she breaks a golf club and he ends up pushing her to the ground, and as a modern audience you're like",0.19042583,0.9684005401237006,0.2,0.0,False
+"oh, like that's domestic violence",0.17380224,0.9996884566590548,0.3333333333333333,0.427,False
+"however little trivia, katharine hepburn asked for that to be in the screenplay, her image, her publicity photos, and all that stuff",0.06851897,0.9949233605765612,0.4583333333333333,0.0,False
+"she was new england, almost royalty",0.06931809,0.0099003305703445,0.2424242424242424,0.0,False
+she was blue blood,0.17587385,0.1920849035926404,0.3333333333333333,0.0,False
+"she would come, you know, sweeping grand entrances into films and stuff like that, so people had thought that she was very la-dee-da she was up her class",0.123736724,0.0074962042856418,0.1,0.0,False
+she was high society and many people wanted her to fall on her face,0.4945446,0.0060101666907385,0.1133333333333332,0.0,False
+"they wanted her to fail utterly and dramatically, and so she asked for this moment in the beginning of the film",0.1785852,0.99584851286263,0.5,0.149,False
+"her big entrance is actually her being pushed down, her being knocked off of her pedestal and ending up on the floor",0.29855597,0.999788658391788,0.3679012345679012,0.0,False
+another little bit of trivia,0.1464265,0.1076714708857338,0.4583333333333333,0.0,False
+"it was turned into a musical 1956 called high society starring bing crosby and grace kelly and frank sinatra, but do yourself a favor",0.08367105,0.2485504576524886,0.28,0.0,False
+watch the original the philadelphia story from 1940,0.024833864,0.0006100920490908,0.0833333333333333,0.0,False
+it has a hundred percent fresh rating and rotten tomatoes,0.22988434,5.510797258275539e-05,0.1333333333333333,0.243,False
+it just one of afis top 100 movies and it is this week's classic hollywood movie,0.043375164,0.0001414209464062,0.1111111111111111,0.0,False
+"no, i'm nate washburn, keep watching",0.06252546,0.8395592029807541,0.3333333333333333,0.0,False

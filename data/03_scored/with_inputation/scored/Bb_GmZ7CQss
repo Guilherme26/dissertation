@@ -1,57 +1,57 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Logan is directed by James Mangold and is supposedly the last time we will ever see Hugh Jackman playing Wolverine, and Patrick Stewart playing Professor X in this movie, which is set quite far into the future",0.036336336,0.0778014733029555,0.4589877835951134,0.0,False
-"We can see that all mutants are pretty much extinct, and Logan and Charles are pretty much hiding out in the middle of nowhere, trying to have very little to do with anything, until this young girl called Laura enters their lives, who is on the run from an organization, and she may or may not be related to Logan in more ways than one",0.13790205,0.1050108644559135,0.4382635253054101,0.031,False
-"Believe it or not, This was my most anticipated movie of the year",0.067320265,0.0,0.2146596858638743,0.0,False
-The trailers look very promising,0.09333697,0.0024541141102262,0.3403141361256544,0.0,False
-"It was nice to see James Mangold, who directed The Wolverine, which I actually quite like coming back for this one, and I also wanted to see how they were going to handle Hugh Jackman's last outing as this character, and I've gotta say they did it in the best possible way they could have done, because this movie is amazing now",0.034962907,4.124761887390901e-05,0.3118922961854898,0.0,False
-"due to the success of Deadpool, this movie is rated fifteen, or if you live in America, rated R, and it shows",0.09279997,0.0298003317214574,0.422100587022053,0.0,False
-"I mean, from the opening scene alone, you've got blood swearing and limbs flying everywhere, and it's kind of satisfying",0.22987647,0.0738972252392987,0.3390052356020942,0.169,False
-"as the movie goes on, You can tell that they are pushing this 15 rating as much as they possibly can",0.046122026,0.941718247052494,0.4240837696335078,0.0,False
-The swearing gets a lot more frequent,0.09172598,0.9996274898928432,0.319371727748691,0.25,False
-"The violence gets a lot more gloria and brutal as the film goes on, and there are a couple of times near the start of the movie where you do feel as if they're pushing it a little bit, but by the time the movie kind of spreads out and kind of evens out where the violence is in the movie, it's kind of a lot more easier to take in",0.103539884,0.9986996866969156,0.3561845549738219,0.133,False
-"Also, all of this swearing and violence doesn't just happen for the sake of swearing and violence",0.11600884,0.9998899368088864,0.4764397905759162,0.489,False
-It all feels very warranted and actually feels worth it,0.03187269,0.0008898339282646,0.3891797556719022,0.0,False
-"and this is easily backed up by James Mangles, superb direction",0.02262963,0.0001789085665462,0.1012216404886561,0.0,False
-"I mean, this is easily the darkest comic book movie I can think of Since the dark night",0.09816993,0.9969837976730382,0.4475349040139616,0.148,False
-It's literally,0.019714156,0.0207057384140385,0.4764397905759162,0.0,False
-There's very little happiness in this movie,0.09548495,0.9999732963392262,0.3570026178010471,0.0,False
-"There's a couple of times that make you laugh, but throughout the most of the movie it's very dirty, very grimy and just very depressing",0.36667302,0.9999893304569676,0.5350785340314137,0.352,False
-Overall,0.023632111,0.0084924794027154,0.4764397905759162,0.0,False
-"I mean, not like I said",0.018048171,0.9977992726351972,0.6400523560209423,0.297,False
-"Not the whole movie is depressing, but it just has that very realistic and grounded feel throughout the majority of the runtime",0.1464265,0.0001885648010225,0.508435136707388,0.079,False
-"The way they approach this movie by stripping back a lot of the aspects most comic book movies nowadays have, and making it almost like a independent movie",0.06132676,0.9953064143742943,0.3782722513089005,0.0,False
-"With it's very stylish, yet gritty cinematography really shows and actually makes the movie more personal than your average comic book movie",0.16551583,9.379064782961825e-05,0.381544502617801,0.0,False
-"The performances in this movie are universally great, but the two standouts are easily Hugh Jackman and Patrick Stewart, who give what could be argued as career best performances",0.028267438,0.000235594239305,0.0866783013379871,0.082,False
-Hugh Jackman absolutely nails it as Logan,0.16827796,9.62345096415117e-05,0.3717277486910995,0.0,False
-"He's been playing this character for 17 years now, but this is easily the best he's ever been",0.035306264,0.0004508925042943,0.1012216404886561,0.0,False
-As this character,0.026207292,0.0012352827363336,0.4764397905759162,0.0,False
+"logan is directed by james mangold and is supposedly the last time we will ever see hugh jackman playing wolverine, and patrick stewart playing professor x in this movie, which is set quite far into the future",0.036336336,0.0778014733029555,0.4589877835951134,0.0,False
+"we can see that all mutants are pretty much extinct, and logan and charles are pretty much hiding out in the middle of nowhere, trying to have very little to do with anything, until this young girl called laura enters their lives, who is on the run from an organization, and she may or may not be related to logan in more ways than one",0.13790205,0.1050108644559135,0.4382635253054101,0.031,False
+"believe it or not, this was my most anticipated movie of the year",0.067320265,0.0,0.2146596858638743,0.0,False
+the trailers look very promising,0.09333697,0.0024541141102262,0.3403141361256544,0.0,False
+"it was nice to see james mangold, who directed the wolverine, which i actually quite like coming back for this one, and i also wanted to see how they were going to handle hugh jackman's last outing as this character, and i've gotta say they did it in the best possible way they could have done, because this movie is amazing now",0.034962907,4.124761887390901e-05,0.3118922961854898,0.0,False
+"due to the success of deadpool, this movie is rated fifteen, or if you live in america, rated r, and it shows",0.09279997,0.0298003317214574,0.422100587022053,0.0,False
+"i mean, from the opening scene alone, you've got blood swearing and limbs flying everywhere, and it's kind of satisfying",0.22987647,0.0738972252392987,0.3390052356020942,0.169,False
+"as the movie goes on, you can tell that they are pushing this 15 rating as much as they possibly can",0.046122026,0.941718247052494,0.4240837696335078,0.0,False
+the swearing gets a lot more frequent,0.09172598,0.9996274898928432,0.319371727748691,0.25,False
+"the violence gets a lot more gloria and brutal as the film goes on, and there are a couple of times near the start of the movie where you do feel as if they're pushing it a little bit, but by the time the movie kind of spreads out and kind of evens out where the violence is in the movie, it's kind of a lot more easier to take in",0.103539884,0.9986996866969156,0.3561845549738219,0.133,False
+"also, all of this swearing and violence doesn't just happen for the sake of swearing and violence",0.11600884,0.9998899368088864,0.4764397905759162,0.489,False
+it all feels very warranted and actually feels worth it,0.03187269,0.0008898339282646,0.3891797556719022,0.0,False
+"and this is easily backed up by james mangles, superb direction",0.02262963,0.0001789085665462,0.1012216404886561,0.0,False
+"i mean, this is easily the darkest comic book movie i can think of since the dark night",0.09816993,0.9969837976730382,0.4475349040139616,0.148,False
+it's literally,0.019714156,0.0207057384140385,0.4764397905759162,0.0,False
+there's very little happiness in this movie,0.09548495,0.9999732963392262,0.3570026178010471,0.0,False
+"there's a couple of times that make you laugh, but throughout the most of the movie it's very dirty, very grimy and just very depressing",0.36667302,0.9999893304569676,0.5350785340314137,0.352,False
+overall,0.023632111,0.0084924794027154,0.4764397905759162,0.0,False
+"i mean, not like i said",0.018048171,0.9977992726351972,0.6400523560209423,0.297,False
+"not the whole movie is depressing, but it just has that very realistic and grounded feel throughout the majority of the runtime",0.1464265,0.0001885648010225,0.508435136707388,0.079,False
+"the way they approach this movie by stripping back a lot of the aspects most comic book movies nowadays have, and making it almost like a independent movie",0.06132676,0.9953064143742943,0.3782722513089005,0.0,False
+"with it's very stylish, yet gritty cinematography really shows and actually makes the movie more personal than your average comic book movie",0.16551583,9.379064782961825e-05,0.381544502617801,0.0,False
+"the performances in this movie are universally great, but the two standouts are easily hugh jackman and patrick stewart, who give what could be argued as career best performances",0.028267438,0.000235594239305,0.0866783013379871,0.082,False
+hugh jackman absolutely nails it as logan,0.16827796,9.62345096415117e-05,0.3717277486910995,0.0,False
+"he's been playing this character for 17 years now, but this is easily the best he's ever been",0.035306264,0.0004508925042943,0.1012216404886561,0.0,False
+as this character,0.026207292,0.0012352827363336,0.4764397905759162,0.0,False
 he's broken,0.11021292,0.9998528020306228,0.6858638743455496,0.756,False
-He's aged,0.062125895,0.9997737639632428,0.5287958115183247,0.0,False
-"You can see that his healing factors not working the way it used to, and all hope that he did have is just gone",0.076110736,0.9998283932156966,0.4764397905759162,0.0,False
-"He really does not trust anybody and doesn't want to be around anybody, because he knows that they will get hurt",0.2224569,0.9998518483284522,0.3717277486910995,0.297,False
-"Patrick Stewart, on the other hand, gives just as an emotional performance as Hugh Jackman does, and is kind of sad looking at Professor X now, because the what they've done in this movie is they've given his character a mental illness which plays around with the telepathy and mind control powers that Professor X has, and it makes his character really vulnerable and kind of fragile, and it's really sad to watch because you've seen these two characters in their prime in previous movies and just seeing them in what looks like a shell of what they used to be now it's kind of emotional and also where Logan has just completely done with hope",0.17661177,0.1467793835340697,0.4761041750570546,0.089,False
-"You can tell the child does have a little bit of hope left, even if it is a very desperate means of the word hope",0.04268845,0.9726476429310462,0.6452879581151832,0.086,False
-"But you can tell that he's trying to make Logan believe again, Daphne King as the little girl Laura, I thought was very good, even though she barely says anything throughout the first two acts of the movie, but she makes up for it with some very convincing facial expressions, and just by generally kicking ass",0.6221407,0.0009855617836281,0.3476065818997756,0.072,True
-"In all fairness, I think she actually kills more people in this movie than Wolverine does",0.39230084,0.0110801118168109,0.3455497382198952,0.189,False
-"Also Steven Merchants in the movie, And he's not as annoying as I thought he was going to be",0.17034957,0.0006958151429545,0.8952879581151832,0.0,False
-He was actually a very good character,0.033761155,0.0070455045877246,0.0,0.0,False
-"I mean, his character could have been cut from the movie and it wouldn't have make difference, but I thought his performance was actually pretty good for what it was now",0.03616466,0.951927658590836,0.3651832460732984,0.041,False
-"Unfortunately, I do have one very minor problem and that is regarding the villains",0.15246986,0.1590864629964153,0.6243455497382199,0.471,False
+he's aged,0.062125895,0.9997737639632428,0.5287958115183247,0.0,False
+"you can see that his healing factors not working the way it used to, and all hope that he did have is just gone",0.076110736,0.9998283932156966,0.4764397905759162,0.0,False
+"he really does not trust anybody and doesn't want to be around anybody, because he knows that they will get hurt",0.2224569,0.9998518483284522,0.3717277486910995,0.297,False
+"patrick stewart, on the other hand, gives just as an emotional performance as hugh jackman does, and is kind of sad looking at professor x now, because the what they've done in this movie is they've given his character a mental illness which plays around with the telepathy and mind control powers that professor x has, and it makes his character really vulnerable and kind of fragile, and it's really sad to watch because you've seen these two characters in their prime in previous movies and just seeing them in what looks like a shell of what they used to be now it's kind of emotional and also where logan has just completely done with hope",0.17661177,0.1467793835340697,0.4761041750570546,0.089,False
+"you can tell the child does have a little bit of hope left, even if it is a very desperate means of the word hope",0.04268845,0.9726476429310462,0.6452879581151832,0.086,False
+"but you can tell that he's trying to make logan believe again, daphne king as the little girl laura, i thought was very good, even though she barely says anything throughout the first two acts of the movie, but she makes up for it with some very convincing facial expressions, and just by generally kicking ass",0.6221407,0.0009855617836281,0.3476065818997756,0.072,True
+"in all fairness, i think she actually kills more people in this movie than wolverine does",0.39230084,0.0110801118168109,0.3455497382198952,0.189,False
+"also steven merchants in the movie, and he's not as annoying as i thought he was going to be",0.17034957,0.0006958151429545,0.8952879581151832,0.0,False
+he was actually a very good character,0.033761155,0.0070455045877246,0.0,0.0,False
+"i mean, his character could have been cut from the movie and it wouldn't have make difference, but i thought his performance was actually pretty good for what it was now",0.03616466,0.951927658590836,0.3651832460732984,0.041,False
+"unfortunately, i do have one very minor problem and that is regarding the villains",0.15246986,0.1590864629964153,0.6243455497382199,0.471,False
 now,0.01999182,0.0840977852293707,0.4764397905759162,0.0,False
-"Don't get me wrong, I actually quite liked the villains in this movie",0.07730943,0.0357145071094324,0.4589877835951134,0.23,False
-I thought they were very interesting,0.039254878,0.0295097207881919,0.1361256544502617,0.0,False
-The motivations made sense for the sake of the movie and they were both acted very well,0.02655065,0.0059420413732691,0.3717277486910995,0.0,False
-"Especially the guy who plays Donald Pierce, the guy with the robotic hands from the trailers",0.111500904,0.0576569886162532,0.5026178010471204,0.0,False
-"I thought he was specifically very good, but they do fall under the same problem that most Mcu villains have, which is the fact that they're kind of there for the sake of being a bad guy, and they're not that memorable",0.1414913,0.9997402651745042,0.3184991273996508,0.27,False
-"Apart from that, I absolutely loved this movie and it was everything I wanted to see in a final installment like this",0.03358948,0.0019942508448907,0.2931937172774869,0.0,False
-"The violence was incredibly brutal, at times hard to watch",0.15071863,0.9993939520738432,0.7818499127399652,0.586,False
+"don't get me wrong, i actually quite liked the villains in this movie",0.07730943,0.0357145071094324,0.4589877835951134,0.23,False
+i thought they were very interesting,0.039254878,0.0295097207881919,0.1361256544502617,0.0,False
+the motivations made sense for the sake of the movie and they were both acted very well,0.02655065,0.0059420413732691,0.3717277486910995,0.0,False
+"especially the guy who plays donald pierce, the guy with the robotic hands from the trailers",0.111500904,0.0576569886162532,0.5026178010471204,0.0,False
+"i thought he was specifically very good, but they do fall under the same problem that most mcu villains have, which is the fact that they're kind of there for the sake of being a bad guy, and they're not that memorable",0.1414913,0.9997402651745042,0.3184991273996508,0.27,False
+"apart from that, i absolutely loved this movie and it was everything i wanted to see in a final installment like this",0.03358948,0.0019942508448907,0.2931937172774869,0.0,False
+"the violence was incredibly brutal, at times hard to watch",0.15071863,0.9993939520738432,0.7818499127399652,0.586,False
 "but yet they also knew when to be heartfelt and emotional, and actually made me tear up more than once",0.123736724,0.0205926651004492,0.4109947643979057,0.0,False
-And that's surprising because I don't usually cry these kind of things,0.09709594,0.0010412937542164,0.2931937172774869,0.0,False
-The last time I cried at anything was when David Tennant left Doctor Who,0.090114996,0.9166145110792178,0.4764397905759162,0.167,False
-"Like that alone, made me a crippling mess on the floor",0.2590451,0.9928465184446597,0.5680628272251309,0.3,False
-"Logan kind of did the same thing as well, and because of this, I have to give it a 10 out of 10",0.040971663,0.9996924310500154,0.319371727748691,0.0,False
-"It satisfied everything I wanted to see in movie, plus a little bit more",0.05373499,0.003352769783568,0.3346422338568935,0.0,False
-"So guys, That was my review of Logan",0.036851373,0.7518198425604614,0.4764397905759162,0.0,False
-"If you send the movie, then let me know what you thought about it in the comments below",0.04783881,0.9696013393793282,0.4764397905759162,0.0,False
+and that's surprising because i don't usually cry these kind of things,0.09709594,0.0010412937542164,0.2931937172774869,0.0,False
+the last time i cried at anything was when david tennant left doctor who,0.090114996,0.9166145110792178,0.4764397905759162,0.167,False
+"like that alone, made me a crippling mess on the floor",0.2590451,0.9928465184446597,0.5680628272251309,0.3,False
+"logan kind of did the same thing as well, and because of this, i have to give it a 10 out of 10",0.040971663,0.9996924310500154,0.319371727748691,0.0,False
+"it satisfied everything i wanted to see in movie, plus a little bit more",0.05373499,0.003352769783568,0.3346422338568935,0.0,False
+"so guys, that was my review of logan",0.036851373,0.7518198425604614,0.4764397905759162,0.0,False
+"if you send the movie, then let me know what you thought about it in the comments below",0.04783881,0.9696013393793282,0.4764397905759162,0.0,False
 "if you enjoyed the videos, and give it a thumbs up, and remember to subscribe the channel if you haven't already",0.05773066,0.0088560187488309,0.2146596858638743,0.0,False
 bye,0.059728492,0.0099974810341421,0.4764397905759162,0.0,False

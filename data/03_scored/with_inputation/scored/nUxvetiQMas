@@ -1,48 +1,48 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello, guys, hope you're going well",0.034104515,0.0034292405237509,0.4117647058823529,0.0,False
-"So Roma, Roma, Roma, Today we are talking about the Netflix distributed black and white Mexican film which has floored movie lovers and critics and is already gathering so much Oscar",0.20376207,0.0294985557563179,0.4068627450980392,0.064,False
-"But Roma is written, directed and photographed by Mexican filmmaker Alphonso Quran, and he is the man behind giant blockbuster films like Gravity, like one of the Harry Potter movies, and my all-time favorite Children of Men",0.017909339,0.0131352590432352,0.3970588235294117,0.0,False
-"Oh my goodness, but in this film things get very personal",0.08501353,0.0100671166942576,0.4117647058823529,0.0,False
+"hello, guys, hope you're going well",0.034104515,0.0034292405237509,0.4117647058823529,0.0,False
+"so roma, roma, roma, today we are talking about the netflix distributed black and white mexican film which has floored movie lovers and critics and is already gathering so much oscar",0.20376207,0.0294985557563179,0.4068627450980392,0.064,False
+"but roma is written, directed and photographed by mexican filmmaker alphonso quran, and he is the man behind giant blockbuster films like gravity, like one of the harry potter movies, and my all-time favorite children of men",0.017909339,0.0131352590432352,0.3970588235294117,0.0,False
+"oh my goodness, but in this film things get very personal",0.08501353,0.0100671166942576,0.4117647058823529,0.0,False
 you know,0.043718524,0.0418791923346093,0.4117647058823529,0.0,False
-"this is a stripped back art film, black and white art film that is rooted deeply rooted in currents on childhood, yet in 1971, in currents, a very own childhood town of Roma",0.0753116,3.075712416358952e-05,0.3396078431372548,0.0,False
-"the film follows Clio, a woman who was a maid inside a typical middle-class family",0.092262976,0.0347697963371722,0.5098039215686275,0.0,False
-"Her, she cleans the household, she loves the children that she looks after and she lives a very very simple life",0.11729682,0.0053670287563017,0.4117647058823529,0.0,False
-This is by no means a plot driven film,0.07690986,0.9998624572402957,0.4117647058823529,0.216,False
-It's very much character driven,0.046465382,0.0092302070008102,0.2588235294117647,0.0,False
-"We are following Cleo seeing things happen to her through her eyes through her points of view, but it's more about a scene setting",0.024318827,0.0567806911543047,0.2647058823529412,0.0,False
-"It's more about living this immersive view into the family into this very specific time capsule of history and showing that maybe things haven't changed so much today in 2018, as we might like to think they have her on, is a big fan of the effect that a cleverly constructed single take can bring",0.0136749605,0.0003398781433736,0.3338001867413632,0.0,False
-"He did it fantastically in Children of Men, one of my favorite movie scenes of all time, And here in Roma, there is another one that takes place on the beach, and it's toward the end of the film, but it is very much a climactic and extremely emotional moment on the beach in the waves, all from the side angle of Cleo as we follow her and we track her up and down the beach and into the water",0.04268845,0.0,0.322875816993464,0.0,False
-"No, that she can't swim And it is just it is so tense",0.20302857,0.9978952530372512,0.6078431372549019,0.206,False
-It's done so simply that it's even more effective than if they put all this dramatic music,0.14687516,0.0006670302285904,0.3137254901960783,0.0,False
-"All these cuts from the water under the water, following around up close",0.03049926,0.0014254377272249,0.4117647058823529,0.155,False
-It's sort of like by stepping back and just following it in this real-time way,0.032731086,0.0302273684639695,0.4117647058823529,0.0,False
-It's It's even more like heart pounding,0.07011723,0.025949356487646,0.1176470588235293,0.0,False
-I adored this film from start to finish,0.039254878,0.0002702573661971,0.4117647058823529,0.0,False
-I was so invested in the character of Cleo in her decisions and how she was going to manage the obstacles that kept coming up against her,0.040284947,0.001247600750593,0.4411764705882353,0.091,False
-"The way that she fits into the family dynamics is really fascinating in the relationship, especially between her and the mother",0.067320265,0.0008606034082827,0.2058823529411764,0.0,False
-You know the matriarch of the family,0.046465382,0.0011688303250461,0.4117647058823529,0.0,False
-How they kind of fit together,0.045091953,0.1215382663031683,0.1176470588235293,0.0,False
-It just felt really real,0.029125832,0.001452111783549,0.2941176470588235,0.0,False
-"They don't always see eye to eye, but at the end of the day they both care for the children",0.03994159,0.001407972926101,0.4117647058823529,0.0,False
-"The only thing I will note is that this is portrayed in a romanticized wait, a snapshot of time from Qur'an's own childhood",0.08555053,0.0147956668934309,0.2352941176470587,0.0,False
-"So it's him as a filmmaker, reflecting on his childhood, You can see that come through in the film and in that as well some of the characters romanticized",0.052136723,0.0001550969710729,0.4117647058823529,0.0,False
-"So, even though it's real and raw and tender, these are people that have been elevated in memory, because when you look back on things, things always just seem different in memory, and that's certainly not a negative critique",0.05653196,0.002099948612952,0.3977375565610859,0.0,False
-"If anything, that's even more interesting to see the filmmaker himself within his own film, which is really unusual to see it so intertwined in such a way",0.06412373,0.0005176555131757,0.1999999999999999,0.0,False
-Like this film is Kuran exploring his own memories of his own childhood,0.09602194,2.020671529352101e-05,0.0588235294117646,0.0,False
-So I think that's absolutely fascinating,0.040284947,0.0002355959946833,0.0,0.0,False
-and the film Roma just is a delight,0.08367105,0.0065000353766534,0.4117647058823529,0.0,False
+"this is a stripped back art film, black and white art film that is rooted deeply rooted in currents on childhood, yet in 1971, in currents, a very own childhood town of roma",0.0753116,3.075712416358952e-05,0.3396078431372548,0.0,False
+"the film follows clio, a woman who was a maid inside a typical middle-class family",0.092262976,0.0347697963371722,0.5098039215686275,0.0,False
+"her, she cleans the household, she loves the children that she looks after and she lives a very very simple life",0.11729682,0.0053670287563017,0.4117647058823529,0.0,False
+this is by no means a plot driven film,0.07690986,0.9998624572402957,0.4117647058823529,0.216,False
+it's very much character driven,0.046465382,0.0092302070008102,0.2588235294117647,0.0,False
+"we are following cleo seeing things happen to her through her eyes through her points of view, but it's more about a scene setting",0.024318827,0.0567806911543047,0.2647058823529412,0.0,False
+"it's more about living this immersive view into the family into this very specific time capsule of history and showing that maybe things haven't changed so much today in 2018, as we might like to think they have her on, is a big fan of the effect that a cleverly constructed single take can bring",0.0136749605,0.0003398781433736,0.3338001867413632,0.0,False
+"he did it fantastically in children of men, one of my favorite movie scenes of all time, and here in roma, there is another one that takes place on the beach, and it's toward the end of the film, but it is very much a climactic and extremely emotional moment on the beach in the waves, all from the side angle of cleo as we follow her and we track her up and down the beach and into the water",0.04268845,0.0,0.322875816993464,0.0,False
+"no, that she can't swim and it is just it is so tense",0.20302857,0.9978952530372512,0.6078431372549019,0.206,False
+it's done so simply that it's even more effective than if they put all this dramatic music,0.14687516,0.0006670302285904,0.3137254901960783,0.0,False
+"all these cuts from the water under the water, following around up close",0.03049926,0.0014254377272249,0.4117647058823529,0.155,False
+it's sort of like by stepping back and just following it in this real-time way,0.032731086,0.0302273684639695,0.4117647058823529,0.0,False
+it's it's even more like heart pounding,0.07011723,0.025949356487646,0.1176470588235293,0.0,False
+i adored this film from start to finish,0.039254878,0.0002702573661971,0.4117647058823529,0.0,False
+i was so invested in the character of cleo in her decisions and how she was going to manage the obstacles that kept coming up against her,0.040284947,0.001247600750593,0.4411764705882353,0.091,False
+"the way that she fits into the family dynamics is really fascinating in the relationship, especially between her and the mother",0.067320265,0.0008606034082827,0.2058823529411764,0.0,False
+you know the matriarch of the family,0.046465382,0.0011688303250461,0.4117647058823529,0.0,False
+how they kind of fit together,0.045091953,0.1215382663031683,0.1176470588235293,0.0,False
+it just felt really real,0.029125832,0.001452111783549,0.2941176470588235,0.0,False
+"they don't always see eye to eye, but at the end of the day they both care for the children",0.03994159,0.001407972926101,0.4117647058823529,0.0,False
+"the only thing i will note is that this is portrayed in a romanticized wait, a snapshot of time from qur'an's own childhood",0.08555053,0.0147956668934309,0.2352941176470587,0.0,False
+"so it's him as a filmmaker, reflecting on his childhood, you can see that come through in the film and in that as well some of the characters romanticized",0.052136723,0.0001550969710729,0.4117647058823529,0.0,False
+"so, even though it's real and raw and tender, these are people that have been elevated in memory, because when you look back on things, things always just seem different in memory, and that's certainly not a negative critique",0.05653196,0.002099948612952,0.3977375565610859,0.0,False
+"if anything, that's even more interesting to see the filmmaker himself within his own film, which is really unusual to see it so intertwined in such a way",0.06412373,0.0005176555131757,0.1999999999999999,0.0,False
+like this film is kuran exploring his own memories of his own childhood,0.09602194,2.020671529352101e-05,0.0588235294117646,0.0,False
+so i think that's absolutely fascinating,0.040284947,0.0002355959946833,0.0,0.0,False
+and the film roma just is a delight,0.08367105,0.0065000353766534,0.4117647058823529,0.0,False
 guys,0.05493369,0.0007956021604137,0.4117647058823529,0.0,False
-"they have been my thoughts on our Funzone, Cool Bronze, Roma",0.026894007,0.0001687767385062,0.2058823529411764,0.0,False
-"Do, make sure you see it",0.029469188,0.0015556488468671,0.1176470588235293,0.0,False
-It's available on Netflix,0.012703137,0.0030538665132466,0.176470588235294,0.0,False
-"See it in the cinema would be wonderful, but it is play in such limited release",0.06252546,0.9952298442336442,0.2296918767507002,0.113,False
-"I myself was not able to on the big screen, which was such a shame",0.23101798,0.99998682689062,0.4607843137254901,0.181,False
-"but yeah, I saw it on Netflix",0.019575324,0.0519873185277518,0.4117647058823529,0.0,False
-So do yourself a favor,0.09494796,0.8266633092126349,0.4117647058823529,0.0,False
-Do go and see it,0.029812546,0.0022063766075142,0.4117647058823529,0.0,False
-I'm sure we'll be seeing this one come up a lot during the Oscars season,0.0334178,0.0008883801909576,0.1176470588235293,0.0,False
-"I am really hoping that it breaks out of its foreign language category and gets into the Best Picture category because it deserves to be in the Best Picture category on its own merit, and shouldn't be just limited to the foreign language category, so I really hopefully see that",0.04165838,0.2415795964867973,0.2148109243697478,0.0,False
-Thanks so much for hanging out with me today,0.043718524,0.0262990995613473,0.2941176470588235,0.0,False
-Make sure you also subscribe to my channel here and keep up to date with all things movies and Tv,0.03444787,0.1926840842194435,0.1176470588235293,0.0,False
-I will see you next time,0.12760067,0.027969014700892,0.4117647058823529,0.0,False
+"they have been my thoughts on our funzone, cool bronze, roma",0.026894007,0.0001687767385062,0.2058823529411764,0.0,False
+"do, make sure you see it",0.029469188,0.0015556488468671,0.1176470588235293,0.0,False
+it's available on netflix,0.012703137,0.0030538665132466,0.176470588235294,0.0,False
+"see it in the cinema would be wonderful, but it is play in such limited release",0.06252546,0.9952298442336442,0.2296918767507002,0.113,False
+"i myself was not able to on the big screen, which was such a shame",0.23101798,0.99998682689062,0.4607843137254901,0.181,False
+"but yeah, i saw it on netflix",0.019575324,0.0519873185277518,0.4117647058823529,0.0,False
+so do yourself a favor,0.09494796,0.8266633092126349,0.4117647058823529,0.0,False
+do go and see it,0.029812546,0.0022063766075142,0.4117647058823529,0.0,False
+i'm sure we'll be seeing this one come up a lot during the oscars season,0.0334178,0.0008883801909576,0.1176470588235293,0.0,False
+"i am really hoping that it breaks out of its foreign language category and gets into the best picture category because it deserves to be in the best picture category on its own merit, and shouldn't be just limited to the foreign language category, so i really hopefully see that",0.04165838,0.2415795964867973,0.2148109243697478,0.0,False
+thanks so much for hanging out with me today,0.043718524,0.0262990995613473,0.2941176470588235,0.0,False
+make sure you also subscribe to my channel here and keep up to date with all things movies and tv,0.03444787,0.1926840842194435,0.1176470588235293,0.0,False
+i will see you next time,0.12760067,0.027969014700892,0.4117647058823529,0.0,False
 bye,0.059728492,0.0099901046701891,0.4117647058823529,0.0,False

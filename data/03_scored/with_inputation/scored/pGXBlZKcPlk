@@ -1,54 +1,54 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hello, and welcome to Filming 5, where we review movies old and new to give you our thoughts on the films we've been watching",0.020130653,0.0263210315765832,0.3272727272727272,0.0,False
-Here are more movies,0.0495556,0.0091545829450067,0.25,0.0,False
-"My name is David Roberts and in this episode I'm going to be talking about Moonlight, the 2016 Academy award-winning Lgbt Coming of Age drama directed by Barry Jenkins, And just a warning that I will be talking about some of the plot points",0.019575324,0.7584011161393889,0.5,0.053,False
-"So if you still haven't seen this movie, consider this a spoiler alert",0.12309273,0.7525407227320834,0.5,0.0,False
-"Moonlight follows our character Sharon, also known as Black and Little, through three stages of his life in Miami, and explores the difficulties he faces with his sexuality and identity, including the physical and emotional abuse he endures growing up",0.0741129,1.8417945015102714e-05,0.5442708333333334,0.14,False
-"The first stage of the film follows Sharon as a young boy, who at this stage is referred to as little",0.052136723,0.185404988557032,0.4729166666666666,0.0,False
-"It explores his terrible home life with a crack addictive mother, his search for a father figure who he finds in Juan, a local drug dealer, and the bullying he suffers at school, where he is called Cockmonkey, a word he has yet to understand",0.49688783,0.0074087524935751,0.7,0.194,False
-"In the second stage of the film, we follow Shiran as a teenager, a boy still living with a drug addicting mother who is now turned to prostitution",0.44750816,0.0039345856582263,0.5,0.0,False
-His life at school has worsened as the bullying continues and he is struggling with his identity,0.15568043,0.9992880778794162,0.5,0.407,False
-"We meet his childhood friend Kevin, who reveals he has detention",0.087430015,0.7659541723380824,0.5,0.17,False
-He received it for being caught having sex with a girl in a school stairwell,0.57816684,0.986797611699174,0.5,0.0,False
-"This leads to many internal conflicts in Chiron who dreams of Kevin having sex, leading to great confusion for Charon",0.4151741,0.99886574665157,0.2833333333333333,0.174,False
-"Finally, one evening they both end up on the beach nearby, smoking a blunt",0.26132804,0.196302451505968,0.5,0.0,False
-"together, they release their feelings for each other, and the two friends end up kissing and Kevin masturbates Chiron after further bullying in school, where Kevin is forced to attack Sharon through a gang-hazing ritual, Chiron's world changes",0.5535644,0.0008766703407188,0.5708333333333333,0.201,False
-A switch clicks in his head and he decides to attack the gang leader brutally beating him with a chair,0.40946755,0.997931825708304,0.9375,0.373,False
-"The last we see, Sharon has been taken away by the police",0.09763293,0.1815054506388344,0.5,0.0,False
-"In the third part of the film, we see Sharon as an adult who goes by the name Black",0.25447917,0.021720836882811,0.5111111111111111,0.0,False
-After leaving prison,0.0669207,0.0221908819131965,0.5,0.623,False
-he has worked himself up to some notoriety as a drug dealer in Atlanta,0.23452865,0.0018670074165309,0.5,0.0,False
-At this point he has a showdown with his mother who apologizes to Sharon,0.17242117,0.0639266307749198,0.5,0.0,False
-"Then out of the blue, Kevin calls Sharon, telling him that he lives in Miami, working in a diner and inviting Black to visit if he is ever in town",0.29855597,0.0911447176022386,0.5416666666666666,0.0,False
-"Black decides to go visit, driving all the way to Miami to meet with Kevin again",0.29163063,0.0002990382852452,0.5833333333333334,0.0,False
-They spend some time reconnecting both at the diner and his apartment,0.023460433,0.0016105271013206,0.5,0.0,False
-What has revealed is that Chiron has not been intimate with anybody since their encounter years ago,0.058130227,0.9959909974992126,0.4,0.0,False
-A significant theme of moonlight is black masculinity and its interactions with sexual identity,0.42750368,0.0001381345876132,0.3819444444444444,0.0,False
-It's significant that the film uses a triptych form to explore these themes as it allows us to see the battles of adolescence that lead to consequences in later life,0.028439116,0.0,0.40625,0.08,False
-"Chiron's odyssey is a quest to find his identity, forever changing his place and purpose, only to constantly fail in doing so",0.06612156,0.9938379158849472,0.625,0.143,False
-"Homosexuality has long been a sensitive issue in the black community, particularly in the hyper-masculine gang-driven low-income communities across America",0.44298556,0.1204481449612674,0.49375,0.0,False
+"hello, and welcome to filming 5, where we review movies old and new to give you our thoughts on the films we've been watching",0.020130653,0.0263210315765832,0.3272727272727272,0.0,False
+here are more movies,0.0495556,0.0091545829450067,0.25,0.0,False
+"my name is david roberts and in this episode i'm going to be talking about moonlight, the 2016 academy award-winning lgbt coming of age drama directed by barry jenkins, and just a warning that i will be talking about some of the plot points",0.019575324,0.7584011161393889,0.5,0.053,False
+"so if you still haven't seen this movie, consider this a spoiler alert",0.12309273,0.7525407227320834,0.5,0.0,False
+"moonlight follows our character sharon, also known as black and little, through three stages of his life in miami, and explores the difficulties he faces with his sexuality and identity, including the physical and emotional abuse he endures growing up",0.0741129,1.8417945015102714e-05,0.5442708333333334,0.14,False
+"the first stage of the film follows sharon as a young boy, who at this stage is referred to as little",0.052136723,0.185404988557032,0.4729166666666666,0.0,False
+"it explores his terrible home life with a crack addictive mother, his search for a father figure who he finds in juan, a local drug dealer, and the bullying he suffers at school, where he is called cockmonkey, a word he has yet to understand",0.49688783,0.0074087524935751,0.7,0.194,True
+"in the second stage of the film, we follow shiran as a teenager, a boy still living with a drug addicting mother who is now turned to prostitution",0.44750816,0.0039345856582263,0.5,0.0,False
+his life at school has worsened as the bullying continues and he is struggling with his identity,0.15568043,0.9992880778794162,0.5,0.407,False
+"we meet his childhood friend kevin, who reveals he has detention",0.087430015,0.7659541723380824,0.5,0.17,False
+he received it for being caught having sex with a girl in a school stairwell,0.57816684,0.986797611699174,0.5,0.0,False
+"this leads to many internal conflicts in chiron who dreams of kevin having sex, leading to great confusion for charon",0.4151741,0.99886574665157,0.2833333333333333,0.174,False
+"finally, one evening they both end up on the beach nearby, smoking a blunt",0.26132804,0.196302451505968,0.5,0.0,False
+"together, they release their feelings for each other, and the two friends end up kissing and kevin masturbates chiron after further bullying in school, where kevin is forced to attack sharon through a gang-hazing ritual, chiron's world changes",0.5535644,0.0008766703407188,0.5708333333333333,0.201,False
+a switch clicks in his head and he decides to attack the gang leader brutally beating him with a chair,0.40946755,0.997931825708304,0.9375,0.373,False
+"the last we see, sharon has been taken away by the police",0.09763293,0.1815054506388344,0.5,0.0,False
+"in the third part of the film, we see sharon as an adult who goes by the name black",0.25447917,0.021720836882811,0.5111111111111111,0.0,False
+after leaving prison,0.0669207,0.0221908819131965,0.5,0.623,False
+he has worked himself up to some notoriety as a drug dealer in atlanta,0.23452865,0.0018670074165309,0.5,0.0,False
+at this point he has a showdown with his mother who apologizes to sharon,0.17242117,0.0639266307749198,0.5,0.0,False
+"then out of the blue, kevin calls sharon, telling him that he lives in miami, working in a diner and inviting black to visit if he is ever in town",0.29855597,0.0911447176022386,0.5416666666666666,0.0,False
+"black decides to go visit, driving all the way to miami to meet with kevin again",0.29163063,0.0002990382852452,0.5833333333333334,0.0,False
+they spend some time reconnecting both at the diner and his apartment,0.023460433,0.0016105271013206,0.5,0.0,False
+what has revealed is that chiron has not been intimate with anybody since their encounter years ago,0.058130227,0.9959909974992126,0.4,0.0,False
+a significant theme of moonlight is black masculinity and its interactions with sexual identity,0.42750368,0.0001381345876132,0.3819444444444444,0.0,False
+it's significant that the film uses a triptych form to explore these themes as it allows us to see the battles of adolescence that lead to consequences in later life,0.028439116,0.0,0.40625,0.08,False
+"chiron's odyssey is a quest to find his identity, forever changing his place and purpose, only to constantly fail in doing so",0.06612156,0.9938379158849472,0.625,0.143,False
+"homosexuality has long been a sensitive issue in the black community, particularly in the hyper-masculine gang-driven low-income communities across america",0.44298556,0.1204481449612674,0.49375,0.0,False
 "being a gay man within the black community, has been associated with homophobic judgments by peers",0.45045215,0.950421812664346,0.4375,0.0,True
-"because black gay men are seen as weak in the film, Sharon is placed in this divide as a black gay man",0.6237118,0.9203978502622262,0.4875,0.121,True
-"He alters his presentation of masculinity as a strategy to avoid ridicule, because homosexuality is viewed as incompatible with black masculine expectations, but Chiron's choice to value masculinity over the desire to be loved is evidently damaging by the end of the film, even though through illegal means he has made something of himself and lives a somewhat normal existence, The cast has been a suppression of his true feelings, never having loved since that fateful night many moons ago",0.16035037,0.9996528008747152,0.3842592592592593,0.165,False
-"Although the Lgbt themes present in the movie are significant, the story is about much much more",0.0471521,0.8118533006507197,0.3541666666666666,0.0,False
-"The film is about growing up, adolescence and humanity That are relevant for us all",0.025863936,0.0002470627252025,0.3,0.0,False
+"because black gay men are seen as weak in the film, sharon is placed in this divide as a black gay man",0.6237118,0.9203978502622262,0.4875,0.121,True
+"he alters his presentation of masculinity as a strategy to avoid ridicule, because homosexuality is viewed as incompatible with black masculine expectations, but chiron's choice to value masculinity over the desire to be loved is evidently damaging by the end of the film, even though through illegal means he has made something of himself and lives a somewhat normal existence, the cast has been a suppression of his true feelings, never having loved since that fateful night many moons ago",0.16035037,0.9996528008747152,0.3842592592592593,0.165,False
+"although the lgbt themes present in the movie are significant, the story is about much much more",0.0471521,0.8118533006507197,0.3541666666666666,0.0,False
+"the film is about growing up, adolescence and humanity that are relevant for us all",0.025863936,0.0002470627252025,0.3,0.0,False
 "the struggle of absentee parents and finding parental figures elsewhere, and the impact their actions have upon one's life are all very significant",0.017909339,0.0025729392346098,0.25625,0.166,False
-"In addition, the themes of bullying and peer pressure and the effects that a life of crime have upon an individual's trajectory are also highlighted",0.0753116,0.0002864020252348,0.5,0.304,False
-"There are fantastic performances from Tevante Rhodes, Ashton Sanders and Alex Hibbett, who will provide an authentic and necessary look into a very human experience",0.027752401,6.115473005014687e-05,0.3875,0.0,False
-"The narrative is so rich, subverting expectations at different turns, and creating a tender and profound tale is completely deserving of the best Picture Academy award it received in 2017",0.034791227,2.4974495020479087e-05,0.2941666666666666,0.0,False
-This is not a joke,0.035134587,0.9888323177833424,0.5,0.321,False
-Moonlight has won best picture Moonlight best picture,0.039598234,5.400213004428175e-05,0.0,0.0,False
-That's it,0.026894007,0.0020245434316601,0.5,0.0,False
+"in addition, the themes of bullying and peer pressure and the effects that a life of crime have upon an individual's trajectory are also highlighted",0.0753116,0.0002864020252348,0.5,0.304,False
+"there are fantastic performances from tevante rhodes, ashton sanders and alex hibbett, who will provide an authentic and necessary look into a very human experience",0.027752401,6.115473005014687e-05,0.3875,0.0,False
+"the narrative is so rich, subverting expectations at different turns, and creating a tender and profound tale is completely deserving of the best picture academy award it received in 2017",0.034791227,2.4974495020479087e-05,0.2941666666666666,0.0,False
+this is not a joke,0.035134587,0.9888323177833424,0.5,0.321,False
+moonlight has won best picture moonlight best picture,0.039598234,5.400213004428175e-05,0.0,0.0,False
+that's it,0.026894007,0.0020245434316601,0.5,0.0,False
 for this review,0.018742332,0.0224766282834308,0.5,0.0,False
-"What did you think of Moonlight? Did you find it as profound as I did? Let us know in the comments down below until next time, take care of yourself and keep watching more movies",0.08290337,0.0001418300976163,0.4465277777777778,0.0,False
-That's it for this video,0.09065199,0.0001518139351244,0.5,0.0,False
-"Let us know your thoughts in the comments down below and remember to like, share and subscribe right here on Youtube",0.017006932,0.8109648881249912,0.4674603174603174,0.0,False
-For more film reviews and articles,0.026722329,0.8755989110404911,0.25,0.0,False
-join us on our website Mallmovies,0.021796638,0.0612340345027119,0.5,0.0,False
-"com Uk, and join us on social media at more movies For you",0.04234509,0.9884566274680344,0.3666666666666667,0.0,False
-"That's on Facebook, Twitter",0.022351967,0.9830881541261324,0.5,0.0,False
-"Instagram, tick tock all across the board",0.118584804,0.9982526198185672,0.5,0.0,False
-You know the school,0.028610796,0.0106352605537209,0.5,0.0,False
-"If you enjoy our content, please consider supporting us at Buy me a coffee",0.02262963,0.1306770186246551,0.3375,0.0,False
-com or join us on Patreon,0.028782474,0.8938617936479667,0.5,0.0,False
-"com Links in the description down below, and for more filmtastic content, click one of the buttons on screen now",0.0186035,0.1319652614907115,0.4138888888888888,0.0,False
+"what did you think of moonlight? did you find it as profound as i did? let us know in the comments down below until next time, take care of yourself and keep watching more movies",0.08290337,0.0001418300976163,0.4465277777777778,0.0,False
+that's it for this video,0.09065199,0.0001518139351244,0.5,0.0,False
+"let us know your thoughts in the comments down below and remember to like, share and subscribe right here on youtube",0.017006932,0.8109648881249912,0.4674603174603174,0.0,False
+for more film reviews and articles,0.026722329,0.8755989110404911,0.25,0.0,False
+join us on our website mallmovies,0.021796638,0.0612340345027119,0.5,0.0,False
+"com uk, and join us on social media at more movies for you",0.04234509,0.9884566274680344,0.3666666666666667,0.0,False
+"that's on facebook, twitter",0.022351967,0.9830881541261324,0.5,0.0,False
+"instagram, tick tock all across the board",0.118584804,0.9982526198185672,0.5,0.0,False
+you know the school,0.028610796,0.0106352605537209,0.5,0.0,False
+"if you enjoy our content, please consider supporting us at buy me a coffee",0.02262963,0.1306770186246551,0.3375,0.0,False
+com or join us on patreon,0.028782474,0.8938617936479667,0.5,0.0,False
+"com links in the description down below, and for more filmtastic content, click one of the buttons on screen now",0.0186035,0.1319652614907115,0.4138888888888888,0.0,False

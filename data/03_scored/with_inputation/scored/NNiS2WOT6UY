@@ -1,98 +1,98 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"So last week, the Irishman, the latest film from Martin Scorsese, dropped on Netflix with the holidays and my birthday",0.038911518,0.9973880791623018,0.2187499999999999,0.0,False
-"It took me a few days to find a block of time where I could watch the entire thing, but I finally completed the Irishman challenge",0.1008549,0.00086160008464,0.4166666666666666,0.071,False
+"so last week, the irishman, the latest film from martin scorsese, dropped on netflix with the holidays and my birthday",0.038911518,0.9973880791623018,0.2187499999999999,0.0,False
+"it took me a few days to find a block of time where i could watch the entire thing, but i finally completed the irishman challenge",0.1008549,0.00086160008464,0.4166666666666666,0.071,False
 so let's talk about it,0.029125832,0.8069539263005586,0.3749999999999999,0.0,False
-"The Irishman tells the epic story of Frank Sheeran's time is a mafia hitman spanning multiple decades, So prior to this films released, there's been a lot of talk about what is true cinema the Mcu all sparked by comments from Martin Scorsese",0.112144895,0.8692087495175665,0.3046874999999999,0.0,False
-But now we have the movie itself and we can evaluate it on its own terms,0.031529333,0.0097026719735589,0.0,0.0,False
-"So before I give my thoughts on it, go and tell me",0.06532243,0.8404575927948655,0.3749999999999999,0.0,False
-"what did you think down below In the comment section, Did you love it? Is it one of the best of the year? Is this true cinema? We a little bit disappointed",0.14328592,0.981922730178504,0.2961516203703703,0.066,False
-Was it too long? All of that fun stuff? Let me know your take,0.09816993,0.0146852894675275,0.2968749999999999,0.0,False
-"also, let me know if you happen to have been able to see it in the theater, only got a limited theatrical release for a Scorsese film",0.060927194,0.9887976491520348,0.3080357142857142,0.068,False
-This is the kind of film you really do kind of want to see in the theater,0.0669207,0.0110022843876336,0.0,0.0,False
-"Let me know if you were able to do that down below In the comment section with that said, Let's get started talking about the good",0.043718524,0.9363823525467272,0.1574074074074074,0.0,False
-"In The first thing you have to talk about with this movie is, of course, the fantastic performances from our three leads",0.033074442,5.734066284494924e-05,0.171875,0.0,False
-You've got three Hollywood icons essentially returning to the genre,0.048525527,0.9590757245442774,0.3749999999999999,0.0,False
-That puts them on the map as Hollywood icons,0.10515087,0.000479676698799,0.3749999999999999,0.0,False
-"In the case of Joe Pesci, he's essentially been retired for something like 20 years, and has been telling people no for decades, And finally, this is the movie that he decided to return for Martin Scorsese for this specific project And he absolutely brings his a-game And you kind of remind you how good he really is Like In my household, I've got two kids",0.02809576,5.507564705689511e-05,0.2232142857142856,0.03,False
-"I got three kids under the age of 10, and so we watch home alone all the time, And then I watch the Lethal Weapon movies all the time",0.13700475,0.0008595734915665,0.3749999999999999,0.135,False
-"That's what I see a lot more of than some of his more gangster, kind of an actual award-winning stuff, and kind of just remind you how excellent of an actor he really is",0.17173064,0.0006699082221563,0.0714285714285713,0.0,False
+"the irishman tells the epic story of frank sheeran's time is a mafia hitman spanning multiple decades, so prior to this films released, there's been a lot of talk about what is true cinema the mcu all sparked by comments from martin scorsese",0.112144895,0.8692087495175665,0.3046874999999999,0.0,False
+but now we have the movie itself and we can evaluate it on its own terms,0.031529333,0.0097026719735589,0.0,0.0,False
+"so before i give my thoughts on it, go and tell me",0.06532243,0.8404575927948655,0.3749999999999999,0.0,False
+"what did you think down below in the comment section, did you love it? is it one of the best of the year? is this true cinema? we a little bit disappointed",0.14328592,0.981922730178504,0.2961516203703703,0.066,False
+was it too long? all of that fun stuff? let me know your take,0.09816993,0.0146852894675275,0.2968749999999999,0.0,False
+"also, let me know if you happen to have been able to see it in the theater, only got a limited theatrical release for a scorsese film",0.060927194,0.9887976491520348,0.3080357142857142,0.068,False
+this is the kind of film you really do kind of want to see in the theater,0.0669207,0.0110022843876336,0.0,0.0,False
+"let me know if you were able to do that down below in the comment section with that said, let's get started talking about the good",0.043718524,0.9363823525467272,0.1574074074074074,0.0,False
+"in the first thing you have to talk about with this movie is, of course, the fantastic performances from our three leads",0.033074442,5.734066284494924e-05,0.171875,0.0,False
+you've got three hollywood icons essentially returning to the genre,0.048525527,0.9590757245442774,0.3749999999999999,0.0,False
+that puts them on the map as hollywood icons,0.10515087,0.000479676698799,0.3749999999999999,0.0,False
+"in the case of joe pesci, he's essentially been retired for something like 20 years, and has been telling people no for decades, and finally, this is the movie that he decided to return for martin scorsese for this specific project and he absolutely brings his a-game and you kind of remind you how good he really is like in my household, i've got two kids",0.02809576,5.507564705689511e-05,0.2232142857142856,0.03,False
+"i got three kids under the age of 10, and so we watch home alone all the time, and then i watch the lethal weapon movies all the time",0.13700475,0.0008595734915665,0.3749999999999999,0.135,False
+"that's what i see a lot more of than some of his more gangster, kind of an actual award-winning stuff, and kind of just remind you how excellent of an actor he really is",0.17173064,0.0006699082221563,0.0714285714285713,0.0,False
 in the big stuff,0.028439116,0.0029557561948926,0.3749999999999999,0.0,False
-"In the subtle moment, he can do it all",0.042001735,0.0003443122026235,0.5833333333333333,0.0,False
+"in the subtle moment, he can do it all",0.042001735,0.0003443122026235,0.5833333333333333,0.0,False
 but he's been out of the spotlight for a very long time,0.03856816,0.143687058266041,0.4156249999999999,0.0,False
-The other two kind of leads here with Robert De Niro and Al Pacino,0.049898956,0.0002834846075785,0.2265624999999999,0.0,False
+the other two kind of leads here with robert de niro and al pacino,0.049898956,0.0002834846075785,0.2265624999999999,0.0,False
 these are guys that,0.059728492,8.818660153752849e-05,0.3749999999999999,0.0,False
 "of course we know their a-game is the best there is, but for whatever reason, a lot of the roles that they've gotten over the last 20 years have been a little bit questioned",0.039254878,0.9684650494652626,0.2057291666666666,0.033,False
-Allah,0.026722329,0.038686141828732,0.3749999999999999,0.0,False
-Some times they've been comedic stuff that you just seems a little bit embarrassing,0.21036349,0.9961006561095076,0.4921874999999999,0.136,False
-"Why are they doing some of this stuff? He, wondering, like, did they lose it a little bit if they kind of lost theirs? No, no, no, they just didn't happen to get the right roles as soon as they're working with Scorsese again",0.065721996,0.9999858138484854,0.2295386904761905,0.115,False
-"I mean, they are just kind of fantastic in convincing you that they are like turning into these people",0.06971766,0.0009007312126626,0.1894531249999999,0.0,False
-"It's very like with you know, Al Pacino is showing up in Adam Sandler copies and stuff like they kind of forget in some of the other stuff he's even kind of done over the last 20 years",0.043031808,0.91756823732597,0.2156249999999999,0.052,False
-"It just seems like he's doing his Pacino isms, Whereas here it gets back into acting and transforming into the Jimmy Hoffa in this film, And you buy him as the charismatic leader guy",0.09924392,0.0014311621468177,0.2708333333333333,0.0,False
-"That's rallying all these people that behind-the-scenes really believes he's doing the right thing, even though he's very much doing evil things, and through some of the stuff that he's doing the pride",0.13565879,0.0063868676768835,0.4147321428571428,0.123,False
-"All of it Because also Robert, Robert Deniro, as well here, similar types of situation of some of the stuff he's done recently like kind of questionable",0.026207292,0.9951693471837062,0.3593749999999999,0.071,False
-"And then you see him here as this guy that left World War Q with a little bit of an emptiness in his soul that allows him to do just kind of awful things, and just kind of shrug it off and keep on going",0.355017,0.9796790234205612,0.3734375,0.194,False
-"and as you go throughout the movie and you just kind of see the sadness of his existence as it continues forward, And he just plays that while never, kind of surrendering the coldness of never surrendering the pride, but you just seeing the toll that it takes upon him",0.094410956,0.0291982291152878,0.2812499999999999,0.067,False
-"Also, it's a movie that's a return to kind of these classic prestige, underground crime mafia type films that you know",0.12824467,0.0001970861764,0.1354166666666666,0.149,False
-"over the decade gates, there's been many of these that have been created, but over the last decade it's a genre that's kind of gone away a little bit until you have this legendary director returning to one of his genres that we haven't seen much of lately, and doing a classic version of one of these massive stories of underground crime spanning large amounts of time, huge cast, complex plots, true drama layered on top of each other, There's just neat to see that again",0.039254878,0.0,0.2491762329931972,0.048,False
-"It's also a movie that, for its very long run time, which we will talk about that",0.033246122,0.0006618316527015,0.4156249999999999,0.0,False
+allah,0.026722329,0.038686141828732,0.3749999999999999,0.0,False
+some times they've been comedic stuff that you just seems a little bit embarrassing,0.21036349,0.9961006561095076,0.4921874999999999,0.136,False
+"why are they doing some of this stuff? he, wondering, like, did they lose it a little bit if they kind of lost theirs? no, no, no, they just didn't happen to get the right roles as soon as they're working with scorsese again",0.065721996,0.9999858138484854,0.2295386904761905,0.115,False
+"i mean, they are just kind of fantastic in convincing you that they are like turning into these people",0.06971766,0.0009007312126626,0.1894531249999999,0.0,False
+"it's very like with you know, al pacino is showing up in adam sandler copies and stuff like they kind of forget in some of the other stuff he's even kind of done over the last 20 years",0.043031808,0.91756823732597,0.2156249999999999,0.052,False
+"it just seems like he's doing his pacino isms, whereas here it gets back into acting and transforming into the jimmy hoffa in this film, and you buy him as the charismatic leader guy",0.09924392,0.0014311621468177,0.2708333333333333,0.0,False
+"that's rallying all these people that behind-the-scenes really believes he's doing the right thing, even though he's very much doing evil things, and through some of the stuff that he's doing the pride",0.13565879,0.0063868676768835,0.4147321428571428,0.123,False
+"all of it because also robert, robert deniro, as well here, similar types of situation of some of the stuff he's done recently like kind of questionable",0.026207292,0.9951693471837062,0.3593749999999999,0.071,False
+"and then you see him here as this guy that left world war q with a little bit of an emptiness in his soul that allows him to do just kind of awful things, and just kind of shrug it off and keep on going",0.355017,0.9796790234205612,0.3734375,0.194,False
+"and as you go throughout the movie and you just kind of see the sadness of his existence as it continues forward, and he just plays that while never, kind of surrendering the coldness of never surrendering the pride, but you just seeing the toll that it takes upon him",0.094410956,0.0291982291152878,0.2812499999999999,0.067,False
+"also, it's a movie that's a return to kind of these classic prestige, underground crime mafia type films that you know",0.12824467,0.0001970861764,0.1354166666666666,0.149,False
+"over the decade gates, there's been many of these that have been created, but over the last decade it's a genre that's kind of gone away a little bit until you have this legendary director returning to one of his genres that we haven't seen much of lately, and doing a classic version of one of these massive stories of underground crime spanning large amounts of time, huge cast, complex plots, true drama layered on top of each other, there's just neat to see that again",0.039254878,0.0,0.2491762329931972,0.048,False
+"it's also a movie that, for its very long run time, which we will talk about that",0.033246122,0.0006618316527015,0.4156249999999999,0.0,False
 "later in this, it's actually a very quickly paced movie",0.0753116,0.0165378339594413,0.2395833333333333,0.0,False
-It's not long because the scenes just drag out and there's these extended amounts of dialogue and monologues and open,0.031357653,0.998050238646236,0.3906249999999999,0.091,False
-It's not like that,0.02809576,0.9991904356728064,0.3749999999999999,0.413,False
-"It actually jumps around at a very brisk pace between different plot lines, different time periods, different characters",0.06012806,0.0015032552151243,0.3499999999999999,0.0,False
-There's a lot of different pieces and it touches on them in a way that you're constantly feel the forward motion and movement inside of it,0.031185975,1.519944805141586e-05,0.3749999999999999,0.0,False
-"And so it's it's It's long in a very strange kind of way, Because it's just not like most movies like this, which was a very pleasant surprises",0.06652113,0.934323095561314,0.1327083333333333,0.118,False
-I've been scared of the runtime going into it,0.092262976,0.999820884935708,0.3749999999999999,0.266,False
-It's also a film that gets very emotional as you move into the third act,0.060527626,0.0004455524477817,0.3749999999999999,0.0,False
-"The first two acts set up these characters, their relationships, the dynamics between all of them, and then you start moving into the final hour and some little tragedy",0.054534122,0.0076271426378791,0.3619791666666666,0.124,False
-Hard choices,0.032731086,0.9239087913905558,0.5572916666666666,0.583,False
-"You start to see the toll that it's taking on them, and you see their full lives play out and where the choices that they've made lead them at the end of their lives, and it really packs an emotional punch as you see all of this play out the way that it's handled, really nicely done inside of that third act",0.05373499,1.3172854977893744e-05,0.2312499999999999,0.0,False
-"With that said, let's move on to the mixed aspects of the film",0.030670939,0.959726082103842,0.3749999999999999,0.0,False
-"The big thing here is with a movie of this scope and size with so many plot lines and characters and seeing these characters at different points of time in their life, and it's kind of jumping around a little bit",0.052136723,0.0048892750012293,0.2609375,0.0,False
-Certain things work entirely clear,0.025005542,0.0001976822331863,0.2767857142857142,0.0,False
-"as we're watching it, my wife said, There's a whole lot being implied here that's not clearly stated, and to some extent that's a good thing you don't want the director to treat you like you're an idiot, and over explain everything",0.5810591,0.9999378312771858,0.3671875,0.133,False
-"But because it's so big, Cuz, there's so much going on at times there We were having conversations while watching the movie to make sure we weren't confusing which character was which, And you know, and Anna Paquin shows up at one point",0.040971663,0.8952972311672133,0.3125,0.0,False
-I'm like,0.020963646,0.0297599530307252,0.3749999999999999,0.0,False
-"Is that his daughter to his daughter? right? Which one is it They trying to piece together? Who is what? Because there's just so much to take in in process, and it implies a lot",0.043375164,0.2286597514145172,0.2232142857142856,0.0,False
-"It doesn't spell it out, And that can make things at confusing",0.03736641,0.9998023177668136,0.5625,0.147,False
-"At times, I think it could have done a little bit more to give a couple more details to make it clear exactly when things were happening, how things things tie together",0.03461955,0.9360075520394828,0.2296874999999999,0.0,False
-"but at the same time, I mean, I appreciated that you didn't think I was an idiot Now",0.50994116,0.8287373580080974,0.5175781249999999,0.179,False
-Maybe I am a little bit of an idiot,0.6662635,0.9968453694583485,0.68359375,0.292,False
-Now,0.018742332,0.0841086492310122,0.3749999999999999,0.0,False
+it's not long because the scenes just drag out and there's these extended amounts of dialogue and monologues and open,0.031357653,0.998050238646236,0.3906249999999999,0.091,False
+it's not like that,0.02809576,0.9991904356728064,0.3749999999999999,0.413,False
+"it actually jumps around at a very brisk pace between different plot lines, different time periods, different characters",0.06012806,0.0015032552151243,0.3499999999999999,0.0,False
+there's a lot of different pieces and it touches on them in a way that you're constantly feel the forward motion and movement inside of it,0.031185975,1.519944805141586e-05,0.3749999999999999,0.0,False
+"and so it's it's it's long in a very strange kind of way, because it's just not like most movies like this, which was a very pleasant surprises",0.06652113,0.934323095561314,0.1327083333333333,0.118,False
+i've been scared of the runtime going into it,0.092262976,0.999820884935708,0.3749999999999999,0.266,False
+it's also a film that gets very emotional as you move into the third act,0.060527626,0.0004455524477817,0.3749999999999999,0.0,False
+"the first two acts set up these characters, their relationships, the dynamics between all of them, and then you start moving into the final hour and some little tragedy",0.054534122,0.0076271426378791,0.3619791666666666,0.124,False
+hard choices,0.032731086,0.9239087913905558,0.5572916666666666,0.583,False
+"you start to see the toll that it's taking on them, and you see their full lives play out and where the choices that they've made lead them at the end of their lives, and it really packs an emotional punch as you see all of this play out the way that it's handled, really nicely done inside of that third act",0.05373499,1.3172854977893744e-05,0.2312499999999999,0.0,False
+"with that said, let's move on to the mixed aspects of the film",0.030670939,0.959726082103842,0.3749999999999999,0.0,False
+"the big thing here is with a movie of this scope and size with so many plot lines and characters and seeing these characters at different points of time in their life, and it's kind of jumping around a little bit",0.052136723,0.0048892750012293,0.2609375,0.0,False
+certain things work entirely clear,0.025005542,0.0001976822331863,0.2767857142857142,0.0,False
+"as we're watching it, my wife said, there's a whole lot being implied here that's not clearly stated, and to some extent that's a good thing you don't want the director to treat you like you're an idiot, and over explain everything",0.5810591,0.9999378312771858,0.3671875,0.133,True
+"but because it's so big, cuz, there's so much going on at times there we were having conversations while watching the movie to make sure we weren't confusing which character was which, and you know, and anna paquin shows up at one point",0.040971663,0.8952972311672133,0.3125,0.0,False
+i'm like,0.020963646,0.0297599530307252,0.3749999999999999,0.0,False
+"is that his daughter to his daughter? right? which one is it they trying to piece together? who is what? because there's just so much to take in in process, and it implies a lot",0.043375164,0.2286597514145172,0.2232142857142856,0.0,False
+"it doesn't spell it out, and that can make things at confusing",0.03736641,0.9998023177668136,0.5625,0.147,False
+"at times, i think it could have done a little bit more to give a couple more details to make it clear exactly when things were happening, how things things tie together",0.03461955,0.9360075520394828,0.2296874999999999,0.0,False
+"but at the same time, i mean, i appreciated that you didn't think i was an idiot now",0.50994116,0.8287373580080974,0.5175781249999999,0.179,True
+maybe i am a little bit of an idiot,0.6662635,0.9968453694583485,0.68359375,0.292,True
+now,0.018742332,0.0841086492310122,0.3749999999999999,0.0,False
 that's why,0.019852988,0.0944573573524349,0.3749999999999999,0.0,False
-"I mean, he spelled out a little bit more, but it's kind of is on that right on that line of",0.040284947,0.9788301491483092,0.2642857142857142,0.0,False
-Did I need a little bit more? Was it good that it made me think a little bit and pay attention? I'm not entirely sure,0.04406188,0.9537276944374492,0.303125,0.127,False
-"from there, let's move on to the fat and the big thing here is a little bit what I kind of implied a little bit earlier, but I found the payoff of the third act to be a lot more engrossing than the set up of the first two acts",0.1621016,0.8073903888823488,0.2656249999999999,0.0,False
-"Now there was a lot of things inside of the first two acts that were great in scenes that I loved in the general vibe of it, I think worked",0.06532243,0.0010459604486519,0.09375,0.0,False
-but there's just so much there and so much to take in that I think it kind of felt kept me at arm's dinks lengths distance at times because I'm just trying to sort through all the information all the characters are lead,0.0765103,0.9956328409407564,0.1666666666666666,0.0,False
-The Robert Deniro character is intentionally kind of cold-hearted and so you don't initially have a big emotional connection to him Because he is this hit man,0.1668969,0.991332738269975,0.2812499999999999,0.0,False
-"That's just okay with what he's doing, and because all of that, it made the third act really stand out and connect with me and resonate with me a lot more than what came before hand",0.09870692,0.001193991151537,0.1874999999999999,0.0,False
-"But by comparison, during that third act, I like felt the dread of where things were headed",0.083939545,0.9978248993781638,0.3749999999999999,0.18,False
-"I was scared of certain things, the choices that might be made at certain points in time, and felt the loneliness of these characters and I didn't feel that in the first two acts, I wasn't sure what I was supposed to feel At certain points in time",0.051737156,0.999872414044886,0.2008928571428571,0.137,False
-"I just kind of like interested in the narrative and then other times I was like Okay, what am I even supposed to be paying attention to Here and so that third act, when it focused a lot more and we understood the relationships",0.040628307,0.9992297754207043,0.1953124999999999,0.0,False
-"That's when the move you really found its stride for me And I'd say this is but a lot of discussion on Twitter as to people posting like, Hey, if you want to watch it in four chunks, here's how you should break it down into four episodes and people like thrashing them like this is meant to be watched one sitting",0.17034957,0.9997932577036616,0.361111111111111,0.0,False
-I don't,0.018325835,0.9947237053274064,0.3749999999999999,0.0,False
-"maybe I shouldn't say this, but I mean, I think that there's a lot of merit to the idea of watching this as four different episodes",0.031701013,0.9774519764497964,0.4726562499999999,0.0,False
-"Like if they actually intentionally cut it that way and you retweet they, Absolutely",0.064523295,0.9978440924066836,0.3125,0.127,False
-The piece is just a little bit to make for 50 minute episodes out of this that were clearly focused in each piece,0.06771983,0.1191930583226664,0.4023437499999999,0.0,False
-I think that would have worked really well,0.022945397,0.9268472023329662,0.25,0.0,False
-"I also think the movie if you trimmed it down to about 2 hours 45 minutes, I think it would had a lot more clarity inside of it, and had a lot more punch from beginning to end, as is",0.09763293,0.9998776593446056,0.199074074074074,0.0,False
-I think it was just a little bit too big,0.08581903,0.9989144315778964,0.4335937499999999,0.0,False
+"i mean, he spelled out a little bit more, but it's kind of is on that right on that line of",0.040284947,0.9788301491483092,0.2642857142857142,0.0,False
+did i need a little bit more? was it good that it made me think a little bit and pay attention? i'm not entirely sure,0.04406188,0.9537276944374492,0.303125,0.127,False
+"from there, let's move on to the fat and the big thing here is a little bit what i kind of implied a little bit earlier, but i found the payoff of the third act to be a lot more engrossing than the set up of the first two acts",0.1621016,0.8073903888823488,0.2656249999999999,0.0,False
+"now there was a lot of things inside of the first two acts that were great in scenes that i loved in the general vibe of it, i think worked",0.06532243,0.0010459604486519,0.09375,0.0,False
+but there's just so much there and so much to take in that i think it kind of felt kept me at arm's dinks lengths distance at times because i'm just trying to sort through all the information all the characters are lead,0.0765103,0.9956328409407564,0.1666666666666666,0.0,False
+the robert deniro character is intentionally kind of cold-hearted and so you don't initially have a big emotional connection to him because he is this hit man,0.1668969,0.991332738269975,0.2812499999999999,0.0,False
+"that's just okay with what he's doing, and because all of that, it made the third act really stand out and connect with me and resonate with me a lot more than what came before hand",0.09870692,0.001193991151537,0.1874999999999999,0.0,False
+"but by comparison, during that third act, i like felt the dread of where things were headed",0.083939545,0.9978248993781638,0.3749999999999999,0.18,False
+"i was scared of certain things, the choices that might be made at certain points in time, and felt the loneliness of these characters and i didn't feel that in the first two acts, i wasn't sure what i was supposed to feel at certain points in time",0.051737156,0.999872414044886,0.2008928571428571,0.137,False
+"i just kind of like interested in the narrative and then other times i was like okay, what am i even supposed to be paying attention to here and so that third act, when it focused a lot more and we understood the relationships",0.040628307,0.9992297754207043,0.1953124999999999,0.0,False
+"that's when the move you really found its stride for me and i'd say this is but a lot of discussion on twitter as to people posting like, hey, if you want to watch it in four chunks, here's how you should break it down into four episodes and people like thrashing them like this is meant to be watched one sitting",0.17034957,0.9997932577036616,0.361111111111111,0.0,False
+i don't,0.018325835,0.9947237053274064,0.3749999999999999,0.0,False
+"maybe i shouldn't say this, but i mean, i think that there's a lot of merit to the idea of watching this as four different episodes",0.031701013,0.9774519764497964,0.4726562499999999,0.0,False
+"like if they actually intentionally cut it that way and you retweet they, absolutely",0.064523295,0.9978440924066836,0.3125,0.127,False
+the piece is just a little bit to make for 50 minute episodes out of this that were clearly focused in each piece,0.06771983,0.1191930583226664,0.4023437499999999,0.0,False
+i think that would have worked really well,0.022945397,0.9268472023329662,0.25,0.0,False
+"i also think the movie if you trimmed it down to about 2 hours 45 minutes, i think it would had a lot more clarity inside of it, and had a lot more punch from beginning to end, as is",0.09763293,0.9998776593446056,0.199074074074074,0.0,False
+i think it was just a little bit too big,0.08581903,0.9989144315778964,0.4335937499999999,0.0,False
 at least for a film that you're watching at home,0.025692256,0.1112760830724343,0.5625,0.0,False
-That's a different experience,0.017492844,0.8511028689703268,0.3749999999999999,0.0,False
-"Like if I was in the theater, I think I would have experienced this from very differently than watching at home with all the distractions",0.033074442,0.9982331684739604,0.1249999999999999,0.073,False
-"the things that happened, Dogs walking in, kids, waking up the things that happen when you're in your home versus the escapism of a theatre changes the experience, and this, as a one sit-down movie for three and a half hours",0.05613239,0.0170375381662611,0.4791666666666667,0.0,False
-"it was a bit rough for me, even though there's so many great things inside it real quick before I give you my final thoughts on this one",0.07571117,0.997851483510834,0.1624999999999999,0.0,False
-Be sure to share your thoughts down below,0.0669207,0.0059597929894781,0.267361111111111,0.0,False
-"In the comment section, I know a lot of people are loving this movie",0.019297661,0.0042643392636016,0.0,0.0,False
-"They think it's a masterpiece, and so I think I've imagined we have a bit of a lively discussion between the two crafts that people have thought it was fantastic and the people that thought it was a little bit too long and dragged out",0.06412373,0.0181222125031851,0.3283025568181817,0.023,False
-Just be respectful,0.020130653,0.2310087516037653,0.0624999999999999,0.0,False
-Let's share our opinions,0.024490505,0.0202965978568778,0.3749999999999999,0.0,False
-"The Irishman is a very good film with fantastic performances, but that I did think was a little bit too long",0.09118898,0.1144944916902233,0.207421875,0.0,False
-Even though it did move at a nice brisk pace,0.03839648,0.8153100761909587,0.0,0.0,False
-It's an a-minus overall,0.07371333,0.9995179092712164,0.3749999999999999,0.0,False
-It's a 7,0.023288755,0.0734144665962326,0.3749999999999999,0.0,False
-"5 the entertainment scale, and I guess I'd say it's a must watch for cinema fans",0.040284947,0.0002204217995848,0.3749999999999999,0.0,False
-Be sure to tell me what you thought down below in the comment section,0.03427619,0.0661845063979245,0.267361111111111,0.0,False
-"If you want more videos like this, check out that video right over there",0.111500904,0.0125883914960578,0.1294642857142857,0.0,False
-I don't even know what it is,0.03599298,0.9976108553861928,0.3749999999999999,0.0,False
-Thank you so much for watching and keep talking movies too much,0.025692256,0.9460498571698924,0.25,0.0,False
+that's a different experience,0.017492844,0.8511028689703268,0.3749999999999999,0.0,False
+"like if i was in the theater, i think i would have experienced this from very differently than watching at home with all the distractions",0.033074442,0.9982331684739604,0.1249999999999999,0.073,False
+"the things that happened, dogs walking in, kids, waking up the things that happen when you're in your home versus the escapism of a theatre changes the experience, and this, as a one sit-down movie for three and a half hours",0.05613239,0.0170375381662611,0.4791666666666667,0.0,False
+"it was a bit rough for me, even though there's so many great things inside it real quick before i give you my final thoughts on this one",0.07571117,0.997851483510834,0.1624999999999999,0.0,False
+be sure to share your thoughts down below,0.0669207,0.0059597929894781,0.267361111111111,0.0,False
+"in the comment section, i know a lot of people are loving this movie",0.019297661,0.0042643392636016,0.0,0.0,False
+"they think it's a masterpiece, and so i think i've imagined we have a bit of a lively discussion between the two crafts that people have thought it was fantastic and the people that thought it was a little bit too long and dragged out",0.06412373,0.0181222125031851,0.3283025568181817,0.023,False
+just be respectful,0.020130653,0.2310087516037653,0.0624999999999999,0.0,False
+let's share our opinions,0.024490505,0.0202965978568778,0.3749999999999999,0.0,False
+"the irishman is a very good film with fantastic performances, but that i did think was a little bit too long",0.09118898,0.1144944916902233,0.207421875,0.0,False
+even though it did move at a nice brisk pace,0.03839648,0.8153100761909587,0.0,0.0,False
+it's an a-minus overall,0.07371333,0.9995179092712164,0.3749999999999999,0.0,False
+it's a 7,0.023288755,0.0734144665962326,0.3749999999999999,0.0,False
+"5 the entertainment scale, and i guess i'd say it's a must watch for cinema fans",0.040284947,0.0002204217995848,0.3749999999999999,0.0,False
+be sure to tell me what you thought down below in the comment section,0.03427619,0.0661845063979245,0.267361111111111,0.0,False
+"if you want more videos like this, check out that video right over there",0.111500904,0.0125883914960578,0.1294642857142857,0.0,False
+i don't even know what it is,0.03599298,0.9976108553861928,0.3749999999999999,0.0,False
+thank you so much for watching and keep talking movies too much,0.025692256,0.9460498571698924,0.25,0.0,False

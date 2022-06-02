@@ -1,77 +1,77 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hey, everyone, its Rihanna and welcome back to another video",0.0801064,0.0024005976325492,0.2631578947368421,0.0,False
-"So today I am so excited to be talking about giving Mo de Torres new film, The Shape of Water, which I was highly anticipating",0.034791227,0.0032136220452165,0.3559011164274323,0.0,False
-Gilliam Auditorium is one of my favorite directors working today,0.0072539765,0.000943352702865,0.2105263157894737,0.0,False
-"He brings such new fresh creative ideas at to the film industry and they always bring the original stories, which is why I love him",0.032731086,0.0008607091289528,0.314792663476874,0.0,False
-"Gilliam Editora has never once let me down as a director, So let's see if the shape of water is as good as his previous films",0.11343288,0.0015741022875312,0.4074074074074074,0.0,False
-"Once upon a time during the Cold War, a mute woman named Eliza, played by Sally Hawkins, works in a scientific experimental facility, and one night they get a new asset in the facility and Eliza goes to investigate and finds a C-like creature who is also very human-like in a pool tank",0.13431281,0.0005427414801717,0.4952153110047848,0.066,False
-Now Eliza finds a unique connection between her and the sea like creature,0.22983712,0.0003883622111975,0.2763157894736842,0.0,False
-The fact that she can't speak in the fact that he can't speak gives her the much-needed communication that she is craved for her whole life,0.30487993,0.0008031894399334,0.368421052631579,0.0,False
-She's always felt alone as a human and they start to form a friendship,0.08290337,0.0002604479597617,0.4736842105263158,0.118,False
-"Now, the first thing that struck me about the shape of water was at the world that Gilliam auditory sets his film in",0.047495455,0.0157875154736904,0.3421052631578947,0.083,False
-"Obviously, it's set during the Cold War",0.03616466,0.9242227272033676,0.6315789473684211,0.394,False
-There is tension between the Russians and the Americans and it's a very fantastical world,0.15246986,0.0002009016703002,0.368421052631579,0.124,False
-"Obviously, we have a scene like creature living in it",0.083939545,0.9939270831545156,0.4736842105263158,0.0,False
+"hey, everyone, its rihanna and welcome back to another video",0.0801064,0.0024005976325492,0.2631578947368421,0.0,False
+"so today i am so excited to be talking about giving mo de torres new film, the shape of water, which i was highly anticipating",0.034791227,0.0032136220452165,0.3559011164274323,0.0,False
+gilliam auditorium is one of my favorite directors working today,0.0072539765,0.000943352702865,0.2105263157894737,0.0,False
+"he brings such new fresh creative ideas at to the film industry and they always bring the original stories, which is why i love him",0.032731086,0.0008607091289528,0.314792663476874,0.0,False
+"gilliam editora has never once let me down as a director, so let's see if the shape of water is as good as his previous films",0.11343288,0.0015741022875312,0.4074074074074074,0.0,False
+"once upon a time during the cold war, a mute woman named eliza, played by sally hawkins, works in a scientific experimental facility, and one night they get a new asset in the facility and eliza goes to investigate and finds a c-like creature who is also very human-like in a pool tank",0.13431281,0.0005427414801717,0.4952153110047848,0.066,False
+now eliza finds a unique connection between her and the sea like creature,0.22983712,0.0003883622111975,0.2763157894736842,0.0,False
+the fact that she can't speak in the fact that he can't speak gives her the much-needed communication that she is craved for her whole life,0.30487993,0.0008031894399334,0.368421052631579,0.0,False
+she's always felt alone as a human and they start to form a friendship,0.08290337,0.0002604479597617,0.4736842105263158,0.118,False
+"now, the first thing that struck me about the shape of water was at the world that gilliam auditory sets his film in",0.047495455,0.0157875154736904,0.3421052631578947,0.083,False
+"obviously, it's set during the cold war",0.03616466,0.9242227272033676,0.6315789473684211,0.394,False
+there is tension between the russians and the americans and it's a very fantastical world,0.15246986,0.0002009016703002,0.368421052631579,0.124,False
+"obviously, we have a scene like creature living in it",0.083939545,0.9939270831545156,0.4736842105263158,0.0,False
 "and obviously in the real world we would not see that, but also the use of colors and music, and just overall, the whimsical atmosphere of the film",0.06492286,0.0045473039538259,0.5131578947368421,0.0,False
-"It definitely makes it otherworldly, but also very much set in our time, which is what I've always loved about Gilliam, Otara, Him setting fantastical stories in the real world",0.020685982,0.000109168197346,0.3210526315789473,0.0,False
-"It's not such a complicated world that he has to build around it, but it is very very effective",0.02792408,0.0002407780142939,0.4245614035087719,0.0,False
-"It's a very dark story, but it's also filled with bright colors and whimsical music",0.070516795,6.508963772967343e-05,0.4203947368421052,0.0,False
-"The world is obviously helped out by the production's line, and at the cinematography and overall, the aesthetic of this film is just beautiful",0.027580723,0.0004610516005851,0.3245614035087719,0.0,False
-The deep greens and blues that used in this film are just gorgeous,0.0717155,3.7313290493384223e-05,0.2894736842105263,0.0,False
-It is very pleasing to look at,0.036508016,0.0008205347554823,0.368421052631579,0.0,False
-I would expect nothing less from giving a model tour,0.09333697,0.1463579844242642,0.5614035087719299,0.169,False
-"Oh, since he makes nothing but beautiful films, so let's get down to the characters of the film",0.112144895,0.0124961375379808,0.2909356725146199,0.199,False
-"Our main character is in Woman named Eliza, Sally Hawkins gives a fantastic performance here",0.02124131,0.0011635666832609,0.3245614035087719,0.0,False
-She's strong and powerful and emotional,0.034104515,0.0001664792657316,0.3450292397660819,0.0,False
+"it definitely makes it otherworldly, but also very much set in our time, which is what i've always loved about gilliam, otara, him setting fantastical stories in the real world",0.020685982,0.000109168197346,0.3210526315789473,0.0,False
+"it's not such a complicated world that he has to build around it, but it is very very effective",0.02792408,0.0002407780142939,0.4245614035087719,0.0,False
+"it's a very dark story, but it's also filled with bright colors and whimsical music",0.070516795,6.508963772967343e-05,0.4203947368421052,0.0,False
+"the world is obviously helped out by the production's line, and at the cinematography and overall, the aesthetic of this film is just beautiful",0.027580723,0.0004610516005851,0.3245614035087719,0.0,False
+the deep greens and blues that used in this film are just gorgeous,0.0717155,3.7313290493384223e-05,0.2894736842105263,0.0,False
+it is very pleasing to look at,0.036508016,0.0008205347554823,0.368421052631579,0.0,False
+i would expect nothing less from giving a model tour,0.09333697,0.1463579844242642,0.5614035087719299,0.169,False
+"oh, since he makes nothing but beautiful films, so let's get down to the characters of the film",0.112144895,0.0124961375379808,0.2909356725146199,0.199,False
+"our main character is in woman named eliza, sally hawkins gives a fantastic performance here",0.02124131,0.0011635666832609,0.3245614035087719,0.0,False
+she's strong and powerful and emotional,0.034104515,0.0001664792657316,0.3450292397660819,0.0,False
 just by using her actions,0.03221605,0.0360574538841108,0.4736842105263158,0.0,False
-"Obviously she can use her voice in her acting, which I found phenomenal",0.13206954,0.0005291215330827,0.3859649122807018,0.0,False
-"I could really sympathize with and relate to the character of a live out, which just is incredible",0.032559406,0.0015791985915842,0.2567783094098884,0.0,False
-I really am rooting for her in next year's Oscars because obviously she's mute,0.20816301,0.978572574707645,0.4385964912280702,0.0,False
-There's a lot of use of sign language in this film which I really really like,0.050242316,8.329923876118922e-05,0.368421052631579,0.0,False
-"It's very rare to see the use of sign language in such a big production of filmic, but I thought it was really really effective considering her and this creature could communicate through sign language",0.05613239,0.0020346174350581,0.3434210526315789,0.0,False
-"Michael Shannon plays the bad guy, Mr",0.29756662,0.0047282972550769,0.8421052631578946,0.333,False
-"Strickland, who is incredibly scary",0.16275369,0.0062316473448196,0.7368421052631579,0.466,False
-"He's very disturbing and creepy, but if anyone can pull that off, it's Michael Shannon",0.5026305,0.0300813668156337,0.7763157894736843,0.141,False
-"He has one of those very creepy faces, So we have a powerful performance and a scary performance, but we also have some married comedic performances here, especially from a Tobias Spencer, who plays the character of Zelda, who is Eliza's work colleague",0.22598907,0.000755594132491,0.5368421052631579,0.043,False
-She had some of the best lines that she was just hilarious,0.1008549,0.0003078942524657,0.0789473684210526,0.0,False
-It's very reminiscent of her role in The Help,0.021102477,0.0078980791642585,0.4736842105263158,0.0,False
-Her characters are very similar,0.043031808,0.9991838462778264,0.4736842105263158,0.0,False
-And another comedic performance was of Richard Jenkins as Eliza's neighbor Giles,0.0334178,4.5658115843342354e-05,0.4736842105263158,0.0,False
-I thought he was great in the film,0.036508016,0.004602528815874,0.0526315789473684,0.0,False
-I really loved his character,0.030327583,0.0112131206404248,0.1052631578947368,0.0,False
-All of these characters were so well fleshed out that I just think the writing for them is incredible,0.07571117,0.0009070825155404,0.0,0.0,False
-"and obviously, as this sealant creature, we have Gilliam Editora alumni Doug Jones, who always gives a fantastic performance",0.22987647,0.0023913885217165,0.368421052631579,0.0,False
+"obviously she can use her voice in her acting, which i found phenomenal",0.13206954,0.0005291215330827,0.3859649122807018,0.0,False
+"i could really sympathize with and relate to the character of a live out, which just is incredible",0.032559406,0.0015791985915842,0.2567783094098884,0.0,False
+i really am rooting for her in next year's oscars because obviously she's mute,0.20816301,0.978572574707645,0.4385964912280702,0.0,False
+there's a lot of use of sign language in this film which i really really like,0.050242316,8.329923876118922e-05,0.368421052631579,0.0,False
+"it's very rare to see the use of sign language in such a big production of filmic, but i thought it was really really effective considering her and this creature could communicate through sign language",0.05613239,0.0020346174350581,0.3434210526315789,0.0,False
+"michael shannon plays the bad guy, mr",0.29756662,0.0047282972550769,0.8421052631578946,0.333,False
+"strickland, who is incredibly scary",0.16275369,0.0062316473448196,0.7368421052631579,0.466,False
+"he's very disturbing and creepy, but if anyone can pull that off, it's michael shannon",0.5026305,0.0300813668156337,0.7763157894736843,0.141,False
+"he has one of those very creepy faces, so we have a powerful performance and a scary performance, but we also have some married comedic performances here, especially from a tobias spencer, who plays the character of zelda, who is eliza's work colleague",0.22598907,0.000755594132491,0.5368421052631579,0.043,False
+she had some of the best lines that she was just hilarious,0.1008549,0.0003078942524657,0.0789473684210526,0.0,False
+it's very reminiscent of her role in the help,0.021102477,0.0078980791642585,0.4736842105263158,0.0,False
+her characters are very similar,0.043031808,0.9991838462778264,0.4736842105263158,0.0,False
+and another comedic performance was of richard jenkins as eliza's neighbor giles,0.0334178,4.5658115843342354e-05,0.4736842105263158,0.0,False
+i thought he was great in the film,0.036508016,0.004602528815874,0.0526315789473684,0.0,False
+i really loved his character,0.030327583,0.0112131206404248,0.1052631578947368,0.0,False
+all of these characters were so well fleshed out that i just think the writing for them is incredible,0.07571117,0.0009070825155404,0.0,0.0,False
+"and obviously, as this sealant creature, we have gilliam editora alumni doug jones, who always gives a fantastic performance",0.22987647,0.0023913885217165,0.368421052631579,0.0,False
 even if he is under a latex costume,0.16275369,0.9891075292736472,0.4736842105263158,0.0,False
-Him and Sally Hawkins have this really strange connection and they really bring it to the characters,0.050242316,0.000370331427852,0.4342105263157895,0.116,False
-It's just fantastic,0.030327583,0.0024417257003454,0.2631578947368421,0.0,False
-I think the film looking so beautiful wasn't enough,0.09065199,0.9031811606746052,0.25,0.0,False
-The Creatures Line is something sent from the heavens above,0.053335425,0.0311334406716296,0.4736842105263158,0.0,False
-It looks so real and realistic,0.031701013,0.0001475245910081,0.3771929824561403,0.0,False
-It is in competition with things like the Apes in the Planet of the Apes trilogy,0.12309273,0.9672618792165212,0.4736842105263158,0.0,False
-"I really do think Hollywood need to learn a thing or two from Guillermo de Torres creature design, because when he did the big-budget blockbuster film Pacific Rim, the design of the kaiju sand, the Jaegers were incredible, and let's just face it, things like Transformers Pirates the Caribbean, Anything that involves a big huge monster thing needs to step up the game if they want to compete with Guillermo de Toro with any other Gillian Motor Tori films",0.0801064,0.0468125032187183,0.3881578947368421,0.0,False
-This story is one,0.024833864,0.0016077200125124,0.4736842105263158,0.0,False
-The Bazaar,0.031701013,0.1285945037165468,0.4736842105263158,0.0,False
-"It's quite light-hearted compared to his other films, especially Pan's Labyrinth, which I think there's definitely a similarity between the two, because it is set in the real world in a real time, but the shape of water just has something very whimsical about it",0.05373499,0.0186266932842752,0.4642857142857143,0.0,False
-"I keep using that word, but it is very very true because the film is light-hearted and funny, but also incredibly dark",0.087430015,0.0002455464859225,0.3348684210526316,0.0,False
-"I think the film kind of struggled with its tone, considering there are so many genres here",0.0801064,0.9997134148551244,0.1842105263157894,0.144,False
-"we have fantasy comedy, kind of thriller horror elements in here at the end of the film, Somehow Gilliam Auditoria has worked his director magic and weave them together perfectly",0.052935857,0.0015724333224612,0.1052631578947368,0.098,False
-Gilliam Auditorio,,0.1588042616307791,0.4736842105263158,0.0,False
-"I just am so in or of him, he is such a fantastic director He can do no wrong in my eyes",0.040628307,0.0005106139025744,0.3596491228070175,0.0,False
-The Shape of water is another fantastic film by him,0.044405237,2.7657135445575525e-05,0.2631578947368421,0.0,False
-I can't wait to see what he does next,0.07011723,6.0023136624341714e-05,0.4736842105263158,0.0,False
-I seriously think this is Guillermo de Torres best film,0.03204437,0.0,0.2982456140350877,0.122,False
-"It's since Pan's Labyrinth, and I cannot wait to see it again, although I will not be seeing again till February next year, Because that's when it's officially released in the Uk",0.06931809,0.000426867619598,0.4736842105263158,0.0,False
-"Oh, that makes it sound like I illegally watched it, which I absolutely didn't",0.13521013,0.9997454828268264,0.456140350877193,0.0,False
-"I saw it at the Bfi London Film Festival and people clapped after, and usually I would never clap after a film, but I had to clap for this",0.09065199,0.0304667487320633,0.6052631578947368,0.0,False
-"It's definitely a cinematic experience, Gillian Wonder, Toy fans are going to love it",0.034104515,0.0004067506299151,0.3421052631578947,0.0,False
-It's not gonna be a film for everyone,0.077709,0.999966918728077,0.4736842105263158,0.0,False
-"It is quite bizarre and odd, but I absolutely loved it",0.10699297,0.0035488456007034,0.3099415204678363,0.206,False
-"Definitely, go see it",0.025863936,0.0001291659752382,0.4736842105263158,0.0,False
-"So if you guys have seen the show before, let me know what you thought of it down below In the comments",0.051737156,0.95618299105244,0.5555555555555557,0.0,False
-And what is your favorite Guillermo del Toro film that We know,0.03221605,2.3544328665953303e-05,0.2105263157894737,0.0,False
+him and sally hawkins have this really strange connection and they really bring it to the characters,0.050242316,0.000370331427852,0.4342105263157895,0.116,False
+it's just fantastic,0.030327583,0.0024417257003454,0.2631578947368421,0.0,False
+i think the film looking so beautiful wasn't enough,0.09065199,0.9031811606746052,0.25,0.0,False
+the creatures line is something sent from the heavens above,0.053335425,0.0311334406716296,0.4736842105263158,0.0,False
+it looks so real and realistic,0.031701013,0.0001475245910081,0.3771929824561403,0.0,False
+it is in competition with things like the apes in the planet of the apes trilogy,0.12309273,0.9672618792165212,0.4736842105263158,0.0,False
+"i really do think hollywood need to learn a thing or two from guillermo de torres creature design, because when he did the big-budget blockbuster film pacific rim, the design of the kaiju sand, the jaegers were incredible, and let's just face it, things like transformers pirates the caribbean, anything that involves a big huge monster thing needs to step up the game if they want to compete with guillermo de toro with any other gillian motor tori films",0.0801064,0.0468125032187183,0.3881578947368421,0.0,False
+this story is one,0.024833864,0.0016077200125124,0.4736842105263158,0.0,False
+the bazaar,0.031701013,0.1285945037165468,0.4736842105263158,0.0,False
+"it's quite light-hearted compared to his other films, especially pan's labyrinth, which i think there's definitely a similarity between the two, because it is set in the real world in a real time, but the shape of water just has something very whimsical about it",0.05373499,0.0186266932842752,0.4642857142857143,0.0,False
+"i keep using that word, but it is very very true because the film is light-hearted and funny, but also incredibly dark",0.087430015,0.0002455464859225,0.3348684210526316,0.0,False
+"i think the film kind of struggled with its tone, considering there are so many genres here",0.0801064,0.9997134148551244,0.1842105263157894,0.144,False
+"we have fantasy comedy, kind of thriller horror elements in here at the end of the film, somehow gilliam auditoria has worked his director magic and weave them together perfectly",0.052935857,0.0015724333224612,0.1052631578947368,0.098,False
+gilliam auditorio,,0.1588042616307791,0.4736842105263158,0.0,False
+"i just am so in or of him, he is such a fantastic director he can do no wrong in my eyes",0.040628307,0.0005106139025744,0.3596491228070175,0.0,False
+the shape of water is another fantastic film by him,0.044405237,2.7657135445575525e-05,0.2631578947368421,0.0,False
+i can't wait to see what he does next,0.07011723,6.0023136624341714e-05,0.4736842105263158,0.0,False
+i seriously think this is guillermo de torres best film,0.03204437,0.0,0.2982456140350877,0.122,False
+"it's since pan's labyrinth, and i cannot wait to see it again, although i will not be seeing again till february next year, because that's when it's officially released in the uk",0.06931809,0.000426867619598,0.4736842105263158,0.0,False
+"oh, that makes it sound like i illegally watched it, which i absolutely didn't",0.13521013,0.9997454828268264,0.456140350877193,0.0,False
+"i saw it at the bfi london film festival and people clapped after, and usually i would never clap after a film, but i had to clap for this",0.09065199,0.0304667487320633,0.6052631578947368,0.0,False
+"it's definitely a cinematic experience, gillian wonder, toy fans are going to love it",0.034104515,0.0004067506299151,0.3421052631578947,0.0,False
+it's not gonna be a film for everyone,0.077709,0.999966918728077,0.4736842105263158,0.0,False
+"it is quite bizarre and odd, but i absolutely loved it",0.10699297,0.0035488456007034,0.3099415204678363,0.206,False
+"definitely, go see it",0.025863936,0.0001291659752382,0.4736842105263158,0.0,False
+"so if you guys have seen the show before, let me know what you thought of it down below in the comments",0.051737156,0.95618299105244,0.5555555555555557,0.0,False
+and what is your favorite guillermo del toro film that we know,0.03221605,2.3544328665953303e-05,0.2105263157894737,0.0,False
 "if you liked this video, please be sure to give it a thumbs up, and if you haven't already, please subscribe to my channel",0.05093802,0.0085481112560726,0.1842105263157894,0.067,False
-I've been doing lots more Tv reviews,0.04131502,0.8853877578074186,0.2105263157894737,0.0,False
+i've been doing lots more tv reviews,0.04131502,0.8853877578074186,0.2105263157894737,0.0,False
 "movie reviews, you guys very very soon, and if you haven't already, please subscribe to my channel",0.03753809,0.7832078450418386,0.3368421052631579,0.109,False
-"My social media links, including my Twitter, Facebook, Instagram, and Let books are down below in the description",0.0168681,0.984979075946494,0.5058479532163743,0.0,False
+"my social media links, including my twitter, facebook, instagram, and let books are down below in the description",0.0168681,0.984979075946494,0.5058479532163743,0.0,False
 "and thank you guys, so so much for watching",0.033074442,0.0049917255096065,0.368421052631579,0.0,False
-"I'll see you very soon, Bye",0.17173064,0.0192460879458759,0.368421052631579,0.0,False
+"i'll see you very soon, bye",0.17173064,0.0192460879458759,0.368421052631579,0.0,False

@@ -1,115 +1,115 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"So at Disney press screenings, they take your phone",0.038911518,0.9982966591438832,0.5,0.0,False
-They don't trust us,0.16275369,0.999783651182402,0.5,0.474,False
-Every other studio lets you keep your phone,0.044748597,0.2221117313633778,0.5625,0.0,False
-"I mean, they have security in the room watching you",0.074912034,0.0169242953195038,0.65625,0.0,False
-"You know, those little devices to see if anyone's recording",0.023117077,0.9562735166455664,0.59375,0.0,False
-"But Disney makes you hand over every electronic device and they wand you going in to make sure you hand it in and you have to put it in a little plastic baggie, and you get a little, you know baggage claim ticket and you have to pick it up after the screening and let me tell you the line is long, But because they do that and you have to get there early to make sure you get a good seat, There are no reserved seats at these press screenings, so I decided this time to bring some reading material and I brought the Time magazine that recently came out with Chadwick Boseman on the front of it, Talking about this very movie And you know what, it ended up being the perfect choice Because Black Panther plays more like Time Magazine than a comic book",0.1785852,0.1216259464552919,0.378525641025641,0.016,False
-I was very surprised,0.05852979,0.0091414901000223,0.435,0.0,False
-Now it works and a lot,0.022074303,0.0139534406853444,0.5,0.0,False
+"so at disney press screenings, they take your phone",0.038911518,0.9982966591438832,0.5,0.0,False
+they don't trust us,0.16275369,0.999783651182402,0.5,0.474,False
+every other studio lets you keep your phone,0.044748597,0.2221117313633778,0.5625,0.0,False
+"i mean, they have security in the room watching you",0.074912034,0.0169242953195038,0.65625,0.0,False
+"you know, those little devices to see if anyone's recording",0.023117077,0.9562735166455664,0.59375,0.0,False
+"but disney makes you hand over every electronic device and they wand you going in to make sure you hand it in and you have to put it in a little plastic baggie, and you get a little, you know baggage claim ticket and you have to pick it up after the screening and let me tell you the line is long, but because they do that and you have to get there early to make sure you get a good seat, there are no reserved seats at these press screenings, so i decided this time to bring some reading material and i brought the time magazine that recently came out with chadwick boseman on the front of it, talking about this very movie and you know what, it ended up being the perfect choice because black panther plays more like time magazine than a comic book",0.1785852,0.1216259464552919,0.378525641025641,0.016,False
+i was very surprised,0.05852979,0.0091414901000223,0.435,0.0,False
+now it works and a lot,0.022074303,0.0139534406853444,0.5,0.0,False
 "but it's different, so allow me to explain",0.02262963,0.0128537544581894,0.5,0.0,False
-"First off, it is extremely political, but I appreciated the political comments it had to make",0.059728492,0.0590505008032534,0.44375,0.0,False
-"I think that in the run-up to this film's release, they've been made to see much more incendiary than they are, and they're not",0.1334155,0.997965653500097,0.25,0.0,False
-"You know, you know they've They've been made to see more Malcolm X and I think they're very much Martin Luther King, Jr",0.05493369,0.0263244264222975,0.31,0.0,False
-"Side note, if you haven't seen Selma, you should see it",0.048525527,0.0024425748722188,0.5,0.0,False
-Ava Duvernay was so good directing that movie,0.031185975,0.0005239283461299,0.15,0.0,False
-She's almost got this one and she and Ryan Coogler are super close,0.07451247,0.0,0.3333333333333333,0.0,False
-He talked about editing across the hall from her,0.04818217,0.1963429747792535,0.5,0.0,False
-A wrinkle in time,0.074912034,0.9847127013476096,0.5,0.0,False
-"You know her editing as well, and I hope you know we'll see if that movie turns out just as political, But anyway, there's also a National Geographic element to this film and it's exploration of Wakanda, its history and its traditions, And you know I have to say it's It's odd to me, and you know I'm not gonna go into spoiler territory, so don't worry about it, but I have to say that it was odd that a civilization was such filled ristic technology like it",0.0717155,0.0016377119683426,0.4933333333333333,0.059,False
-"it almost seemed made-up Haha, it was made up",0.1024659,0.9993855860483832,0.4,0.0,False
-"of course, but you know it was amazing, but I don't understand how they would be so primitive in their leadership structure and board that come to bite them in the butt",0.6757943,0.9980478535330128,0.1999999999999999,0.0,False
+"first off, it is extremely political, but i appreciated the political comments it had to make",0.059728492,0.0590505008032534,0.44375,0.0,False
+"i think that in the run-up to this film's release, they've been made to see much more incendiary than they are, and they're not",0.1334155,0.997965653500097,0.25,0.0,False
+"you know, you know they've they've been made to see more malcolm x and i think they're very much martin luther king, jr",0.05493369,0.0263244264222975,0.31,0.0,False
+"side note, if you haven't seen selma, you should see it",0.048525527,0.0024425748722188,0.5,0.0,False
+ava duvernay was so good directing that movie,0.031185975,0.0005239283461299,0.15,0.0,False
+she's almost got this one and she and ryan coogler are super close,0.07451247,0.0,0.3333333333333333,0.0,False
+he talked about editing across the hall from her,0.04818217,0.1963429747792535,0.5,0.0,False
+a wrinkle in time,0.074912034,0.9847127013476096,0.5,0.0,False
+"you know her editing as well, and i hope you know we'll see if that movie turns out just as political, but anyway, there's also a national geographic element to this film and it's exploration of wakanda, its history and its traditions, and you know i have to say it's it's odd to me, and you know i'm not gonna go into spoiler territory, so don't worry about it, but i have to say that it was odd that a civilization was such filled ristic technology like it",0.0717155,0.0016377119683426,0.4933333333333333,0.059,False
+"it almost seemed made-up haha, it was made up",0.1024659,0.9993855860483832,0.4,0.0,False
+"of course, but you know it was amazing, but i don't understand how they would be so primitive in their leadership structure and board that come to bite them in the butt",0.6757943,0.9980478535330128,0.1999999999999999,0.0,False
 we'll discuss in the spoiler review,0.04234509,0.9095923027388468,0.5,0.0,False
-"I also have to add that for all the wonderful dynamic female characters that are featured in the movie and they've made a big deal about that at the end of the day, they're all still support staff, which also comes from tribal culture and I don't think that's a great idea either",0.03616466,0.0016577105985408,0.32,0.0,False
+"i also have to add that for all the wonderful dynamic female characters that are featured in the movie and they've made a big deal about that at the end of the day, they're all still support staff, which also comes from tribal culture and i don't think that's a great idea either",0.03616466,0.0016577105985408,0.32,0.0,False
 "so but anyway, we'll discuss all that in a spoiler review",0.043031808,0.9377883744356348,0.5,0.0,False
 "but well, it's politics in its world-building are impressive and admirable",0.023117077,0.00347058195537,0.0,0.0,False
-You know what I actually have to say,0.046465382,0.0069771077975046,0.5,0.0,False
-"It reminded me of a fascinating follow-up to roots, and that's hard for me to say, because obviously, as I've discussed before, I'm not a member of the black community",0.31661135,0.0029830147550549,0.4697916666666666,0.043,False
-"I'm an outsider looking in, but that's what I felt when I was watching the movie as the next touchstone, in the journey of defining the black community, its sense of self, and also, I think you know for anyone like myself watching this material how its seen, and the fact that a comic book movie can achieve that is incredibly noteworthy, very very impressive and again, while that is all impressive, though the movie doesn't have nearly enough action, I was surprised how little action it has",0.13790205,0.0002139644801676,0.359280303030303,0.0,False
-"I can't believe that no one brought that up to Ryan Coogler, and said, You know this is all really fascinating",0.076110736,0.0066680380580787,0.15,0.0,False
-"You're really making me think, and I think you're doing a lot for the world with this movie",0.05093802,0.000371151925272,0.4,0.0,False
-"But it's also comic-book movie, and we promise people a lot of action in the trailers, so maybe you should consider delivering it",0.05253629,0.2314154756255443,0.45,0.0,False
-It has two extended action sequences and they both go by way too quickly,0.028267438,0.9993237721004982,0.3916666666666666,0.0,False
+you know what i actually have to say,0.046465382,0.0069771077975046,0.5,0.0,False
+"it reminded me of a fascinating follow-up to roots, and that's hard for me to say, because obviously, as i've discussed before, i'm not a member of the black community",0.31661135,0.0029830147550549,0.4697916666666666,0.043,False
+"i'm an outsider looking in, but that's what i felt when i was watching the movie as the next touchstone, in the journey of defining the black community, its sense of self, and also, i think you know for anyone like myself watching this material how its seen, and the fact that a comic book movie can achieve that is incredibly noteworthy, very very impressive and again, while that is all impressive, though the movie doesn't have nearly enough action, i was surprised how little action it has",0.13790205,0.0002139644801676,0.359280303030303,0.0,False
+"i can't believe that no one brought that up to ryan coogler, and said, you know this is all really fascinating",0.076110736,0.0066680380580787,0.15,0.0,False
+"you're really making me think, and i think you're doing a lot for the world with this movie",0.05093802,0.000371151925272,0.4,0.0,False
+"but it's also comic-book movie, and we promise people a lot of action in the trailers, so maybe you should consider delivering it",0.05253629,0.2314154756255443,0.45,0.0,False
+it has two extended action sequences and they both go by way too quickly,0.028267438,0.9993237721004982,0.3916666666666666,0.0,False
 made all the more frustrating by the fact that when they click they really click,0.21362646,0.9999054908250994,0.45,0.186,False
-"There were a couple of moments in this movie where my, it took my breath away, and most of them we're doing the action sequences, but some of the wort and again, that's mighty impressive",0.046465382,0.0001393347185936,0.25,0.0,False
-"Now as a comic book movie, I would put Black Panther on the same level as the first X-men movie, and also Batman Begins, where a very talented filmmaker was still getting the hang of not just Vfx work, but working at this level",0.07091636,0.000410970360361,0.3756666666666667,0.0,False
-"I would say To the movie, I would say, almost never felt like a big shiny blockbuster",0.1256687,0.0057826143532702,0.5,0.089,False
-"It, It often felt like a small movie like the films that Ryan Coogler has been making, and I would say that the Russo brothers are still the best in the biz",0.059328925,0.9986261745767756,0.3125,0.0,False
-This when it comes to not only doing action sequences but realizing their importance,0.02397547,0.0003043308687828,0.475,0.0,False
-You know,0.03994159,0.0418533776732669,0.5,0.0,False
-it's like what that story that Steven Soderbergh story that they,0.023288755,0.0789275894008809,0.5,0.0,False
-"They really should teach it in film school and they should may put it on every film set where he said, I was at an airport and I saw someone in our target demographic just fast-forwarding through a big blockbuster movie just to watch the action sequences and some people",0.06332459,0.8323809296162069,0.45,0.0,False
-That's the way they consume the material,0.094410956,0.9034072420315294,0.5,0.0,False
-I think we're all consumer,0.04165838,0.226777641281083,0.5,0.0,False
-The material that way,0.023117077,0.0003268330532829,0.5,0.0,False
-Sometimes there's nothing wrong with that,0.032902762,0.0008833374095568,0.75,0.0,False
-"Steven Soderbergh thought there was, But the Russo brothers understand That's how a lot of this stuff is consumed, and they build their movies accordingly",0.07571117,0.0045458287238626,0.5,0.0,False
-"Ryan Coogler has yet to learn that lesson, and because of the lack of action, I worry about this movie's repeat watch ability factor, especially to those it doesn't resonate with culturally",0.092262976,0.999921316864794,0.4666666666666667,0.142,False
-Another problem in terms of rewatch ability is that the film exists in a bubble,0.06372416,0.9992097709671034,0.5,0.15,False
-It has nothing to do with the Mcu at large,0.028439116,0.9903385753190436,0.3928571428571428,0.0,False
-"That doesn't mean it's not entertaining, but I just don't want you to go and disappointed",0.15217799,0.999231110787106,0.71875,0.356,False
-"Alright, So next the music, with all due respect to Kendrick Lamar's album Ludwig Gordon",0.030842619,0.9956374374118876,0.53125,0.0,False
-"His score does a lot to make this movie, but frustratingly like the action, the music comes and goes too quickly",0.16413476,0.9992814501111073,0.4944444444444444,0.152,False
-I'd be like,0.021518974,0.0213346340688795,0.5,0.0,False
-"Oh, this is so good",0.05653196,0.0006130429575941,0.15,0.0,False
-Why did you stop playing it? I want more of it,0.09978092,0.0164054932988494,0.25,0.165,False
-I'm definitely buying the score as it was both tribal and modern at the same time like Wakanda itself,0.026035614,0.0002867165760151,0.4666666666666667,0.0,False
-"Oh well, Conda, much like Pandora",0.013536129,0.0027530454098851,0.4,0.0,False
+"there were a couple of moments in this movie where my, it took my breath away, and most of them we're doing the action sequences, but some of the wort and again, that's mighty impressive",0.046465382,0.0001393347185936,0.25,0.0,False
+"now as a comic book movie, i would put black panther on the same level as the first x-men movie, and also batman begins, where a very talented filmmaker was still getting the hang of not just vfx work, but working at this level",0.07091636,0.000410970360361,0.3756666666666667,0.0,False
+"i would say to the movie, i would say, almost never felt like a big shiny blockbuster",0.1256687,0.0057826143532702,0.5,0.089,False
+"it, it often felt like a small movie like the films that ryan coogler has been making, and i would say that the russo brothers are still the best in the biz",0.059328925,0.9986261745767756,0.3125,0.0,False
+this when it comes to not only doing action sequences but realizing their importance,0.02397547,0.0003043308687828,0.475,0.0,False
+you know,0.03994159,0.0418533776732669,0.5,0.0,False
+it's like what that story that steven soderbergh story that they,0.023288755,0.0789275894008809,0.5,0.0,False
+"they really should teach it in film school and they should may put it on every film set where he said, i was at an airport and i saw someone in our target demographic just fast-forwarding through a big blockbuster movie just to watch the action sequences and some people",0.06332459,0.8323809296162069,0.45,0.0,False
+that's the way they consume the material,0.094410956,0.9034072420315294,0.5,0.0,False
+i think we're all consumer,0.04165838,0.226777641281083,0.5,0.0,False
+the material that way,0.023117077,0.0003268330532829,0.5,0.0,False
+sometimes there's nothing wrong with that,0.032902762,0.0008833374095568,0.75,0.0,False
+"steven soderbergh thought there was, but the russo brothers understand that's how a lot of this stuff is consumed, and they build their movies accordingly",0.07571117,0.0045458287238626,0.5,0.0,False
+"ryan coogler has yet to learn that lesson, and because of the lack of action, i worry about this movie's repeat watch ability factor, especially to those it doesn't resonate with culturally",0.092262976,0.999921316864794,0.4666666666666667,0.142,False
+another problem in terms of rewatch ability is that the film exists in a bubble,0.06372416,0.9992097709671034,0.5,0.15,False
+it has nothing to do with the mcu at large,0.028439116,0.9903385753190436,0.3928571428571428,0.0,False
+"that doesn't mean it's not entertaining, but i just don't want you to go and disappointed",0.15217799,0.999231110787106,0.71875,0.356,False
+"alright, so next the music, with all due respect to kendrick lamar's album ludwig gordon",0.030842619,0.9956374374118876,0.53125,0.0,False
+"his score does a lot to make this movie, but frustratingly like the action, the music comes and goes too quickly",0.16413476,0.9992814501111073,0.4944444444444444,0.152,False
+i'd be like,0.021518974,0.0213346340688795,0.5,0.0,False
+"oh, this is so good",0.05653196,0.0006130429575941,0.15,0.0,False
+why did you stop playing it? i want more of it,0.09978092,0.0164054932988494,0.25,0.165,False
+i'm definitely buying the score as it was both tribal and modern at the same time like wakanda itself,0.026035614,0.0002867165760151,0.4666666666666667,0.0,False
+"oh well, conda, much like pandora",0.013536129,0.0027530454098851,0.4,0.0,False
 many people who see this movie say they would like to go there and don't worry,0.07451247,0.0063863881991033,0.25,0.0,False
-"Just like with Pandora, Disney will be happy to oblige very soon at one of their theme parks and they should",0.06612156,0.0004313862496094,0.25,0.0,False
-"I would definitely want to go there, and on that note, Wakanda felt like two things, and the other one though was like a real place",0.034962907,0.7959577910282032,0.4875,0.0,False
-"But what was a theme park, which again I would very much like to visit while I was watching the movie It, I almost was like, Where can I have my, my brick, My character breakfast, And where's the Black Panther Ride? And what time is the stage show start? It was really cool",0.04783881,0.0305150186732366,0.4261111111111111,0.0,False
-"but the other thing that it felt like, and this is far more important Obviously is it felt like an idea",0.027237365,0.996521132472059,0.4125,0.0,False
-"Now, at one point in the film it's referred to as a fantasy, which was quite touching, but even better, it was also established in the film as aspirational",0.062125895,0.001755080978358,0.25,0.0,False
-and that is Black Panthers biggest gift to the world,0.15130237,0.0119931874710936,0.5833333333333334,0.0,False
-Hopefully redefining how the black community sees itself,0.31639808,0.0064783044070483,0.5833333333333334,0.0,False
-All Not redefining of,0.015896274,0.9987048577119816,0.5,0.0,False
-"I think that's a much better word, evolving how the black community sees itself, because it's very much has one foot in the past, and also how others see the black community, And I think that's really noteworthy and remarkable, and I'd have given Ryan Coogler another hour to explore this",0.2712817,0.0002417122070148,0.4195238095238095,0.0,False
-Make it a three hour movie,0.06532243,0.1062084331749795,0.5,0.0,False
-"I wonder if I would gladly watch it another hour of this, but he'd have to promise me the 20 of those 60 minutes would be more action now that acting is top notch across the board and all the characters are incredibly charismatic, likeable and complex",0.046465382,0.0017494181769606,0.3714285714285714,0.0,False
-"I also was blown away by the strength of the relationships portrayed, and a lot of that is accomplished by the actors, and I was particularly impressed with the brother-sister bond between T'challa and Sheree",0.036851373,0.0001821633796886,0.2,0.0,False
-Very Unusual to see inmates true entertainment for any group,0.1473238,0.0918106414052474,0.3475,0.0,False
-"I just thought that was really nice as someone who has a very close relationship with my own sister, So I really like that a lot",0.24991328,0.0206515810034829,0.3,0.0,False
-"Now without spoilers, my favorites are Chadwick Boseman, Of course, it's his movie, but in a very understated way with Tisha Wright",0.0717155,0.0036453538890242,0.4,0.074,False
-"In a very understated way, I love her mind and I love her fashions",0.056931525,0.006166582092231,0.3,0.0,False
-I would love to raid her closet,0.46292964,0.9714139103080212,0.25,0.0,False
-She looked fantastic,0.04234509,0.0038598548451137,0.3,0.0,False
-She,0.02929751,0.0765148783549788,0.5,0.0,False
-"I think she doesn't have any thumb holes, but it's in the thumb hole category",0.3983115,0.020631522764849,0.5,0.0,False
-We would get along Danai Gurira,,0.0011827505823893,0.5,0.0,False
-"Wow, Totally see why she got upgraded to Infinity War",0.12888865,0.0023483339352791,0.475,0.248,False
-She was one of the moments that took my breath away in the casino,0.10300289,0.000459282997546,0.5,0.0,False
-"You know what? what you see? it, because you'll probably have your breath taken away",0.31389946,0.9999160117140112,0.5,0.0,False
-"Winston Duke, what a scene stealer And then Andy Serkis, having so much fun",0.2995453,0.0001305722785366,0.35,0.148,False
-It's criminal,0.2022951,0.9943880147940984,0.7,0.773,False
-Now,0.018742332,0.0840662836268323,0.5,0.0,False
-"As for Martin Freeman, Also a warning",0.0729142,0.9478547490249402,0.5,0.238,False
-He has a very small role,0.10634898,0.9903157452881468,0.6625,0.0,False
-"It's almost non-existent but I thought there was some poetic justice in it after having, after having to see poor Jeffrey Wright basically run through Bond movies",0.09655894,0.9892253281727528,0.50625,0.123,False
-the last couple of Bond films,0.058130227,0.0081467147198084,0.5,0.0,False
-Now I would not see this movie in 3d,0.076110736,0.9978750188735208,0.5,0.0,False
-"The press screening was in 2d, and it looked great, And if the studio doesn't show it in 3d, that means they know it shouldnít, does not need to be seen that way",0.05653196,0.9948585339817856,0.0999999999999999,0.0,False
-"For instance, Guardians of the Galaxy Vol 2 was shown to the press in 3d, and it was remarkable",0.019852988,0.0002212963177663,0.125,0.0,False
-This 2d,0.034104515,0.0139066480632712,0.5,0.0,False
+"just like with pandora, disney will be happy to oblige very soon at one of their theme parks and they should",0.06612156,0.0004313862496094,0.25,0.0,False
+"i would definitely want to go there, and on that note, wakanda felt like two things, and the other one though was like a real place",0.034962907,0.7959577910282032,0.4875,0.0,False
+"but what was a theme park, which again i would very much like to visit while i was watching the movie it, i almost was like, where can i have my, my brick, my character breakfast, and where's the black panther ride? and what time is the stage show start? it was really cool",0.04783881,0.0305150186732366,0.4261111111111111,0.0,False
+"but the other thing that it felt like, and this is far more important obviously is it felt like an idea",0.027237365,0.996521132472059,0.4125,0.0,False
+"now, at one point in the film it's referred to as a fantasy, which was quite touching, but even better, it was also established in the film as aspirational",0.062125895,0.001755080978358,0.25,0.0,False
+and that is black panthers biggest gift to the world,0.15130237,0.0119931874710936,0.5833333333333334,0.0,False
+hopefully redefining how the black community sees itself,0.31639808,0.0064783044070483,0.5833333333333334,0.0,False
+all not redefining of,0.015896274,0.9987048577119816,0.5,0.0,False
+"i think that's a much better word, evolving how the black community sees itself, because it's very much has one foot in the past, and also how others see the black community, and i think that's really noteworthy and remarkable, and i'd have given ryan coogler another hour to explore this",0.2712817,0.0002417122070148,0.4195238095238095,0.0,False
+make it a three hour movie,0.06532243,0.1062084331749795,0.5,0.0,False
+"i wonder if i would gladly watch it another hour of this, but he'd have to promise me the 20 of those 60 minutes would be more action now that acting is top notch across the board and all the characters are incredibly charismatic, likeable and complex",0.046465382,0.0017494181769606,0.3714285714285714,0.0,False
+"i also was blown away by the strength of the relationships portrayed, and a lot of that is accomplished by the actors, and i was particularly impressed with the brother-sister bond between t'challa and sheree",0.036851373,0.0001821633796886,0.2,0.0,False
+very unusual to see inmates true entertainment for any group,0.1473238,0.0918106414052474,0.3475,0.0,False
+"i just thought that was really nice as someone who has a very close relationship with my own sister, so i really like that a lot",0.24991328,0.0206515810034829,0.3,0.0,False
+"now without spoilers, my favorites are chadwick boseman, of course, it's his movie, but in a very understated way with tisha wright",0.0717155,0.0036453538890242,0.4,0.074,False
+"in a very understated way, i love her mind and i love her fashions",0.056931525,0.006166582092231,0.3,0.0,False
+i would love to raid her closet,0.46292964,0.9714139103080212,0.25,0.0,False
+she looked fantastic,0.04234509,0.0038598548451137,0.3,0.0,False
+she,0.02929751,0.0765148783549788,0.5,0.0,False
+"i think she doesn't have any thumb holes, but it's in the thumb hole category",0.3983115,0.020631522764849,0.5,0.0,False
+we would get along danai gurira,,0.0011827505823893,0.5,0.0,False
+"wow, totally see why she got upgraded to infinity war",0.12888865,0.0023483339352791,0.475,0.248,False
+she was one of the moments that took my breath away in the casino,0.10300289,0.000459282997546,0.5,0.0,False
+"you know what? what you see? it, because you'll probably have your breath taken away",0.31389946,0.9999160117140112,0.5,0.0,False
+"winston duke, what a scene stealer and then andy serkis, having so much fun",0.2995453,0.0001305722785366,0.35,0.148,False
+it's criminal,0.2022951,0.9943880147940984,0.7,0.773,False
+now,0.018742332,0.0840662836268323,0.5,0.0,False
+"as for martin freeman, also a warning",0.0729142,0.9478547490249402,0.5,0.238,False
+he has a very small role,0.10634898,0.9903157452881468,0.6625,0.0,False
+"it's almost non-existent but i thought there was some poetic justice in it after having, after having to see poor jeffrey wright basically run through bond movies",0.09655894,0.9892253281727528,0.50625,0.123,False
+the last couple of bond films,0.058130227,0.0081467147198084,0.5,0.0,False
+now i would not see this movie in 3d,0.076110736,0.9978750188735208,0.5,0.0,False
+"the press screening was in 2d, and it looked great, and if the studio doesn't show it in 3d, that means they know it shouldnít, does not need to be seen that way",0.05653196,0.9948585339817856,0.0999999999999999,0.0,False
+"for instance, guardians of the galaxy vol 2 was shown to the press in 3d, and it was remarkable",0.019852988,0.0002212963177663,0.125,0.0,False
+this 2d,0.034104515,0.0139066480632712,0.5,0.0,False
 all the way,0.025005542,0.0026673880876952,0.5,0.0,False
-"There are also two end credits scenes, but they are very low-key I mean, they're nice and enjoyable, but they're not like",0.059728492,0.9905110821321388,0.3765625,0.089,False
-That's not one of the things,0.024662184,0.9977694225295686,0.5,0.0,False
-Take your breath away,0.23803931,0.003152034474658,0.5,0.0,False
-"Oh, Inc",0.022351967,0.988059744819863,0.5,0.0,False
+"there are also two end credits scenes, but they are very low-key i mean, they're nice and enjoyable, but they're not like",0.059728492,0.9905110821321388,0.3765625,0.089,False
+that's not one of the things,0.024662184,0.9977694225295686,0.5,0.0,False
+take your breath away,0.23803931,0.003152034474658,0.5,0.0,False
+"oh, inc",0.022351967,0.988059744819863,0.5,0.0,False
 inclusion,0.017284594,0.0003942501941297,0.5,0.0,False
-"Just like everyone should see roots, everyone should see Black Panther",0.094410956,0.0012997917460079,0.5833333333333334,0.0,False
-I honestly feel it's that important,0.022074303,0.0010305106374532,0.25,0.0,False
-"And as for its place in the Mcu and as a comic book movie just from an entertainment perspective, the stage is now beautifully set, and they should greenlight of sequel immediately",0.039598234,0.0002401027792492,0.2249999999999999,0.0,False
-"I mean, I guess they're waiting to see how it does opening weekend on the strength of this and the strength of the hype",0.035134587,0.0375821948171776,0.65625,0.0,False
-"If I were Kevin Feige, I already would have greenlit a sequel, Especially seeing that the film Canal, with its sequel hit the ground running and have more action",0.15568043,0.9995094821821148,0.4,0.0,False
-Gotta have more action,0.047495455,0.0040039284343504,0.35,0.0,False
-"You know, Whenever I, whenever I wrote a comic book called Superbia, and at the top of my outline, I'd always put sex violence in action and I'd be like",0.36553472,0.2205365486441495,0.3583333333333333,0.116,False
-"Does it have enough of these three things? and you know they should, They would move them to apply the same strategy to This fell to the sequel",0.09118898,0.1860299106785472,0.5,0.0,False
-"In all movies, Quite frankly, but anyway, that's my review",0.027580723,0.0160533266603676,0.5,0.0,False
-Black Panther,0.101391904,0.0089090470047684,0.5833333333333334,0.0,False
-"I look forward to hearing your thoughts down below, but no spoilers save those for the spoiler review",0.0681194,0.9741997701617934,0.5777777777777778,0.281,False
-I really appreciate action,0.022074303,0.0029429280820049,0.425,0.0,False
+"just like everyone should see roots, everyone should see black panther",0.094410956,0.0012997917460079,0.5833333333333334,0.0,False
+i honestly feel it's that important,0.022074303,0.0010305106374532,0.25,0.0,False
+"and as for its place in the mcu and as a comic book movie just from an entertainment perspective, the stage is now beautifully set, and they should greenlight of sequel immediately",0.039598234,0.0002401027792492,0.2249999999999999,0.0,False
+"i mean, i guess they're waiting to see how it does opening weekend on the strength of this and the strength of the hype",0.035134587,0.0375821948171776,0.65625,0.0,False
+"if i were kevin feige, i already would have greenlit a sequel, especially seeing that the film canal, with its sequel hit the ground running and have more action",0.15568043,0.9995094821821148,0.4,0.0,False
+gotta have more action,0.047495455,0.0040039284343504,0.35,0.0,False
+"you know, whenever i, whenever i wrote a comic book called superbia, and at the top of my outline, i'd always put sex violence in action and i'd be like",0.36553472,0.2205365486441495,0.3583333333333333,0.116,False
+"does it have enough of these three things? and you know they should, they would move them to apply the same strategy to this fell to the sequel",0.09118898,0.1860299106785472,0.5,0.0,False
+"in all movies, quite frankly, but anyway, that's my review",0.027580723,0.0160533266603676,0.5,0.0,False
+black panther,0.101391904,0.0089090470047684,0.5833333333333334,0.0,False
+"i look forward to hearing your thoughts down below, but no spoilers save those for the spoiler review",0.0681194,0.9741997701617934,0.5777777777777778,0.281,False
+i really appreciate action,0.022074303,0.0029429280820049,0.425,0.0,False
 you know,0.043718524,0.0418533776732669,0.5,0.0,False
-"In all honesty, talking about this movie with you, it's a very important and tricky film to discuss, as we've been discussing this week",0.055333257,8.76840090058809e-05,0.24,0.066,False
-"and so I'm really honestly, you know, I always look forward to discussing movies with you down below, but with this one I am honored to partake in the discussion of something I know is so important to a group that I'm not a part of Alright, so anyway, I loved it",0.057331093,0.0074336786112235,0.3069444444444444,0.0,False
-Write your thoughts down below and you can check out some more videos as always right now,0.09279997,0.020293691955168,0.394973544973545,0.0,False
+"in all honesty, talking about this movie with you, it's a very important and tricky film to discuss, as we've been discussing this week",0.055333257,8.76840090058809e-05,0.24,0.066,False
+"and so i'm really honestly, you know, i always look forward to discussing movies with you down below, but with this one i am honored to partake in the discussion of something i know is so important to a group that i'm not a part of alright, so anyway, i loved it",0.057331093,0.0074336786112235,0.3069444444444444,0.0,False
+write your thoughts down below and you can check out some more videos as always right now,0.09279997,0.020293691955168,0.394973544973545,0.0,False

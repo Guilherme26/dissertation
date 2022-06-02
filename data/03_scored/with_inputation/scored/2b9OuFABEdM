@@ -1,235 +1,235 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing
-"Hi, I'm an angel, and today I will be reviewing the 2018 thriller A quiet Place",0.05373499,0.0116174473493609,0.4805194805194805,0.0,False
-This is John Krasinski's directorial debut,0.03204437,0.0027780100791716,0.4805194805194805,0.0,False
-You may know him as Jim Halpert From the office,0.022213135,0.0246756534422963,0.4805194805194805,0.0,False
-That's how I know him,0.022351967,0.0010125426658847,0.4805194805194805,0.0,False
-and I was really surprised directorial debut and we're going for a horror thriller,0.15859914,0.1978587169480401,0.4285714285714286,0.202,False
-"Really, I was kind of hoping that his directorial debut would be Threat Level Midnight - but you know so a quiet place",0.13017663,0.9294775090294044,0.341991341991342,0.088,False
-"What did I think I want to see in the movies? I don't usually see who are movies in the cinema Because scary, you know, and if you're like me and you're pretty chicken and vulnerable, I'm gonna say you may not like the movie going experience so so much, but it's a good movie",0.20669603,0.0004481843942301,0.5324675324675325,0.082,False
+"hi, i'm an angel, and today i will be reviewing the 2018 thriller a quiet place",0.05373499,0.0116174473493609,0.4805194805194805,0.0,False
+this is john krasinski's directorial debut,0.03204437,0.0027780100791716,0.4805194805194805,0.0,False
+you may know him as jim halpert from the office,0.022213135,0.0246756534422963,0.4805194805194805,0.0,False
+that's how i know him,0.022351967,0.0010125426658847,0.4805194805194805,0.0,False
+and i was really surprised directorial debut and we're going for a horror thriller,0.15859914,0.1978587169480401,0.4285714285714286,0.202,False
+"really, i was kind of hoping that his directorial debut would be threat level midnight - but you know so a quiet place",0.13017663,0.9294775090294044,0.341991341991342,0.088,False
+"what did i think i want to see in the movies? i don't usually see who are movies in the cinema because scary, you know, and if you're like me and you're pretty chicken and vulnerable, i'm gonna say you may not like the movie going experience so so much, but it's a good movie",0.20669603,0.0004481843942301,0.5324675324675325,0.082,False
 "not just horror movie, good movie",0.077709,0.0130740019254225,0.1168831168831169,0.0,False
-"It's a fun movie to go see in the cinema, But be careful if you have a cough",0.12824467,0.1083948471729364,0.4285714285714286,0.0,False
-Try not to call,0.044405237,0.9988012155280545,0.4805194805194805,0.0,False
-If you have popcorn or crunchy food or anything that crinkles and cracks,0.10634898,0.9999699581148168,0.4805194805194805,0.0,False
+"it's a fun movie to go see in the cinema, but be careful if you have a cough",0.12824467,0.1083948471729364,0.4285714285714286,0.0,False
+try not to call,0.044405237,0.9988012155280545,0.4805194805194805,0.0,False
+if you have popcorn or crunchy food or anything that crinkles and cracks,0.10634898,0.9999699581148168,0.4805194805194805,0.0,False
 you will be singled out,0.24991328,0.0289907172362991,0.4805194805194805,0.0,False
-I went with a bag of popcorn,0.034962907,0.9893394224578708,0.4805194805194805,0.0,False
-"I always sneak in my own food, and I just realized in the cinema how noisy it was, so I ate like all of it during the previews, just to make sure that I wouldn't make any noise during the movie",0.12631269,0.0,0.1948051948051948,0.038,False
-"It's not a completely silent movie, but it is pretty quiet, so you do want to respect the movie-going experience",0.0753116,0.0097263881660722,0.4372294372294372,0.0,False
-Maintain the ambiance of silence when it is demanded,0.035649624,0.0031425659715924,0.4805194805194805,0.192,False
-"Plus, if you get sucked into the movie, which happens pretty easily because the story is well schooled and well portrayed, you're gonna hold your breath often and I had my coat over my face",0.42092466,0.0033092269060607,0.303030303030303,0.07,False
-There are jump scares,0.11407687,0.996915252736002,0.4805194805194805,0.444,False
-There are quite a few,0.0358213,0.0442097038031059,0.5844155844155844,0.0,False
-I thought some of them were kind of useless,0.43451136,0.9999618515743708,0.4545454545454545,0.279,False
-I'm just gonna say raccoon,0.09924392,0.9965689961665004,0.4805194805194805,0.0,False
-I think you know what I mean,0.035306264,0.0029360280109583,0.6428571428571429,0.0,False
-"If you saw the movie that was kind of annoying, They kind of emphasized the jumps with sound and music and loud bangs and strings of hits",0.31629145,0.9994393671605358,0.3870129870129871,0.103,False
-Whatever not necessary,0.018464668,0.9349918341506732,0.4805194805194805,0.0,False
-I often talk about how these jump scares and horror movies are cheap movie tricks to get people to get scared,0.21804169,0.9760740823351508,0.2727272727272727,0.382,False
-"But your story should be scary enough, or you can't have a jump scare, but it doesn't have to be so emphasized with useless sounds that wouldn't be there in the real circumstance",0.2712817,0.9994729854606216,0.5844155844155844,0.297,False
-you know what I mean,0.058130227,0.0114325466988885,0.6428571428571429,0.0,False
-"for example, I hate it in horror movies, especially monster horror movies when there's a mom and it's making all this sound and somebody's hiding from it, and all of a sudden it's really really quiet Right and then the person either turns around, opens the door or does something, and the monsters right there and they go back And there's like a huge sound, but it's like, Weren't you just noisy this whole time You were coming down the stairs like, Yeah, like in the Walking Dead too",0.3063832,0.98252375916732,0.4479171622028765,0.135,False
-"You know, it'll be like the monsters go",0.20302857,0.232048885776878,0.4805194805194805,0.0,False
+i went with a bag of popcorn,0.034962907,0.9893394224578708,0.4805194805194805,0.0,False
+"i always sneak in my own food, and i just realized in the cinema how noisy it was, so i ate like all of it during the previews, just to make sure that i wouldn't make any noise during the movie",0.12631269,0.0,0.1948051948051948,0.038,False
+"it's not a completely silent movie, but it is pretty quiet, so you do want to respect the movie-going experience",0.0753116,0.0097263881660722,0.4372294372294372,0.0,False
+maintain the ambiance of silence when it is demanded,0.035649624,0.0031425659715924,0.4805194805194805,0.192,False
+"plus, if you get sucked into the movie, which happens pretty easily because the story is well schooled and well portrayed, you're gonna hold your breath often and i had my coat over my face",0.42092466,0.0033092269060607,0.303030303030303,0.07,False
+there are jump scares,0.11407687,0.996915252736002,0.4805194805194805,0.444,False
+there are quite a few,0.0358213,0.0442097038031059,0.5844155844155844,0.0,False
+i thought some of them were kind of useless,0.43451136,0.9999618515743708,0.4545454545454545,0.279,False
+i'm just gonna say raccoon,0.09924392,0.9965689961665004,0.4805194805194805,0.0,False
+i think you know what i mean,0.035306264,0.0029360280109583,0.6428571428571429,0.0,False
+"if you saw the movie that was kind of annoying, they kind of emphasized the jumps with sound and music and loud bangs and strings of hits",0.31629145,0.9994393671605358,0.3870129870129871,0.103,False
+whatever not necessary,0.018464668,0.9349918341506732,0.4805194805194805,0.0,False
+i often talk about how these jump scares and horror movies are cheap movie tricks to get people to get scared,0.21804169,0.9760740823351508,0.2727272727272727,0.382,False
+"but your story should be scary enough, or you can't have a jump scare, but it doesn't have to be so emphasized with useless sounds that wouldn't be there in the real circumstance",0.2712817,0.9994729854606216,0.5844155844155844,0.297,False
+you know what i mean,0.058130227,0.0114325466988885,0.6428571428571429,0.0,False
+"for example, i hate it in horror movies, especially monster horror movies when there's a mom and it's making all this sound and somebody's hiding from it, and all of a sudden it's really really quiet right and then the person either turns around, opens the door or does something, and the monsters right there and they go back and there's like a huge sound, but it's like, weren't you just noisy this whole time you were coming down the stairs like, yeah, like in the walking dead too",0.3063832,0.98252375916732,0.4479171622028765,0.135,False
+"you know, it'll be like the monsters go",0.20302857,0.232048885776878,0.4805194805194805,0.0,False
 when they walk,0.025863936,0.0317025040328548,0.4805194805194805,0.0,False
-They are not inconspicuous and yet there be a moment where everybody's just in the woods in the silence of nature all pretty and all of a sudden they get in a psych,0.13565879,0.9975132293077426,0.4155844155844156,0.0,False
-"I really dislike it when movies do that, and luckily this movie doesn't do that",0.19634613,0.9996847688297796,0.341991341991342,0.151,False
-"The monster here, I think it's an alien, is safe to say, it's pretty freakin noisy all the time, and they don't really have those moments of not noisiness, which is weird because apparently they're really sensitive to noise and they don't like noises",0.2995453,0.989186292293118,0.4545454545454545,0.109,False
-"Yeah, they are so noisy",0.3063832,0.8247798701725626,0.4805194805194805,0.301,False
-Like what is wrong with you? You're like a broken car or something,0.5026305,0.9593732380568456,0.7142857142857143,0.307,False
-"If you see the trailer, you know what the story's about",0.03599298,0.7520358592816639,0.4805194805194805,0.0,False
-"It sets it up pretty directly, You know",0.032902762,0.0225812750717861,0.3896103896103896,0.0,False
+they are not inconspicuous and yet there be a moment where everybody's just in the woods in the silence of nature all pretty and all of a sudden they get in a psych,0.13565879,0.9975132293077426,0.4155844155844156,0.0,False
+"i really dislike it when movies do that, and luckily this movie doesn't do that",0.19634613,0.9996847688297796,0.341991341991342,0.151,False
+"the monster here, i think it's an alien, is safe to say, it's pretty freakin noisy all the time, and they don't really have those moments of not noisiness, which is weird because apparently they're really sensitive to noise and they don't like noises",0.2995453,0.989186292293118,0.4545454545454545,0.109,False
+"yeah, they are so noisy",0.3063832,0.8247798701725626,0.4805194805194805,0.301,False
+like what is wrong with you? you're like a broken car or something,0.5026305,0.9593732380568456,0.7142857142857143,0.307,False
+"if you see the trailer, you know what the story's about",0.03599298,0.7520358592816639,0.4805194805194805,0.0,False
+"it sets it up pretty directly, you know",0.032902762,0.0225812750717861,0.3896103896103896,0.0,False
 it's post-apocalyptic monster ville,0.2712817,0.1658616951479434,0.4805194805194805,0.0,False
-Few families survive must be quiet,0.16827796,0.8409548324428756,0.5324675324675325,0.0,False
-"The monsters are sensitive to noise, so they will hear you",0.2022951,0.2490469003301448,0.4285714285714286,0.0,False
-"So you got to live in an ultra quiet world, which is not how this earth",0.12180476,0.7911349854025646,0.4451003541912633,0.0,False
+few families survive must be quiet,0.16827796,0.8409548324428756,0.5324675324675325,0.0,False
+"the monsters are sensitive to noise, so they will hear you",0.2022951,0.2490469003301448,0.4285714285714286,0.0,False
+"so you got to live in an ultra quiet world, which is not how this earth",0.12180476,0.7911349854025646,0.4451003541912633,0.0,False
 this world is built,0.02792408,0.0002989882858702,0.4805194805194805,0.0,False
-"babies come out the womb crying, You know, so we're kind of made to make noise",0.21539254,0.9995657934273482,0.3766233766233766,0.171,False
-"Speaking of babies, They integrated that into the movie",0.11085691,8.425437441737967e-05,0.4805194805194805,0.0,False
-"Of course, Mama has a pregnancy and has to give birth in this world",0.15071863,0.170795955575443,0.4805194805194805,0.0,False
-"Now you could say birth alone, pregnancy",0.103539884,0.9096626504918136,0.4805194805194805,0.25,False
-That's enough to make a horror movie right,0.11472086,0.0066850347362277,0.4063079777365492,0.346,False
-"It's pretty gruesome and painful and awful, and there's a lot of screaming involved, so you don't need much more",0.2712817,0.9999736537435496,0.6831168831168832,0.307,False
-"but add on top of that creepy monsters creeping on you looking to kill you, Maybe feast on your baby like a Big Mac horror thriller Suspense, and they did it well",0.5958905,0.0231482858511602,0.4805194805194805,0.245,False
-These kind of movies,0.044405237,0.002254512347781,0.1688311688311688,0.0,False
-"You don't usually get an exploration of the situation, or in, they'll just throw you into a post-apocalyptic world with certain characteristic People have to accommodate to a new style of life",0.062125895,0.8360273075967761,0.4761061449373138,0.0,False
-But you don't get to explore that concept,0.021796638,0.9953782884315436,0.4805194805194805,0.0,False
-You don't get to see what it would look like in a day to day of somebody living in this type of world,0.047495455,0.999596848630087,0.4805194805194805,0.0,False
-"But here we do, and I really appreciated that we get to see them live in a world without shoes",0.092262976,0.0005469828559187,0.3931523022432113,0.0,False
-"First of all, I'm out",0.054534122,0.8189078737575609,0.3506493506493506,0.0,False
-"come on, Really, no shoes like, not even espadrilles or ballet slippers can be really stealthy",0.17518331,0.999975322737171,0.4545454545454545,0.325,False
-A great idea is to pour sand all over the place,0.38567963,0.999996065943607,0.0649350649350649,0.0,False
-"Two five full sounds, crunching of leaves when you walk on floor, branches cracking whatever",0.15071863,0.99968512647127,0.2987012987012987,0.0,False
-"Luckily for them, this alien cannot see, but in here's so, they have lightbulbs and flashlights and triggering things clever",0.17518331,0.7633904401356725,0.4372294372294372,0.0,False
+"babies come out the womb crying, you know, so we're kind of made to make noise",0.21539254,0.9995657934273482,0.3766233766233766,0.171,False
+"speaking of babies, they integrated that into the movie",0.11085691,8.425437441737967e-05,0.4805194805194805,0.0,False
+"of course, mama has a pregnancy and has to give birth in this world",0.15071863,0.170795955575443,0.4805194805194805,0.0,False
+"now you could say birth alone, pregnancy",0.103539884,0.9096626504918136,0.4805194805194805,0.25,False
+that's enough to make a horror movie right,0.11472086,0.0066850347362277,0.4063079777365492,0.346,False
+"it's pretty gruesome and painful and awful, and there's a lot of screaming involved, so you don't need much more",0.2712817,0.9999736537435496,0.6831168831168832,0.307,False
+"but add on top of that creepy monsters creeping on you looking to kill you, maybe feast on your baby like a big mac horror thriller suspense, and they did it well",0.5958905,0.0231482858511602,0.4805194805194805,0.245,False
+these kind of movies,0.044405237,0.002254512347781,0.1688311688311688,0.0,False
+"you don't usually get an exploration of the situation, or in, they'll just throw you into a post-apocalyptic world with certain characteristic people have to accommodate to a new style of life",0.062125895,0.8360273075967761,0.4761061449373138,0.0,False
+but you don't get to explore that concept,0.021796638,0.9953782884315436,0.4805194805194805,0.0,False
+you don't get to see what it would look like in a day to day of somebody living in this type of world,0.047495455,0.999596848630087,0.4805194805194805,0.0,False
+"but here we do, and i really appreciated that we get to see them live in a world without shoes",0.092262976,0.0005469828559187,0.3931523022432113,0.0,False
+"first of all, i'm out",0.054534122,0.8189078737575609,0.3506493506493506,0.0,False
+"come on, really, no shoes like, not even espadrilles or ballet slippers can be really stealthy",0.17518331,0.999975322737171,0.4545454545454545,0.325,False
+a great idea is to pour sand all over the place,0.38567963,0.999996065943607,0.0649350649350649,0.0,False
+"two five full sounds, crunching of leaves when you walk on floor, branches cracking whatever",0.15071863,0.99968512647127,0.2987012987012987,0.0,False
+"luckily for them, this alien cannot see, but in here's so, they have lightbulbs and flashlights and triggering things clever",0.17518331,0.7633904401356725,0.4372294372294372,0.0,False
 and in this kind of world the families that survive are obviously the families that learn sign language before all of this hits so huge advantage to having that skill in the back pocket,0.062125895,0.0041400280879705,0.3506493506493506,0.0,False
-You got to know how to soundproof a room,0.103539884,0.0002922825079275,0.4805194805194805,0.0,False
-You got to know how are you gonna do when a baby comes? Because the babies cry and they thought of this and all that And it's what it was really interesting,0.14014533,0.0007613293224237,0.2207792207792208,0.086,False
-"I just appreciated that side of things, the fleshing out of a concept and not just okay situation",0.053335425,0.0573638770292652,0.2987012987012987,0.079,False
-"a horror movie, Run from Monster, You know which we get all the time, John Krasinski plays opposite his real-life wife Ii, Emily Blunt's and Oh my gosh, their chemistry is so real",0.15918289,1.59150463172553e-05,0.4285714285714286,0.101,False
-"So lived-in there's an intimate scene between the two that felt so natural and thick, like thicker than Pam and Jim",0.16151784,0.0005156296186045,0.4805194805194805,0.0,False
-"You know, and I never thought that I would ever say that because I live for Pen and Jim, But after seeing this I was like Okay, I forgive you, Jim for not marrying Pam in real life",0.07371333,0.0215113309467121,0.3356946084218811,0.0,False
-"I get it, You two so cute",0.090114996,6.917382491076696e-05,0.2207792207792208,0.0,False
+you got to know how to soundproof a room,0.103539884,0.0002922825079275,0.4805194805194805,0.0,False
+you got to know how are you gonna do when a baby comes? because the babies cry and they thought of this and all that and it's what it was really interesting,0.14014533,0.0007613293224237,0.2207792207792208,0.086,False
+"i just appreciated that side of things, the fleshing out of a concept and not just okay situation",0.053335425,0.0573638770292652,0.2987012987012987,0.079,False
+"a horror movie, run from monster, you know which we get all the time, john krasinski plays opposite his real-life wife ii, emily blunt's and oh my gosh, their chemistry is so real",0.15918289,1.59150463172553e-05,0.4285714285714286,0.101,False
+"so lived-in there's an intimate scene between the two that felt so natural and thick, like thicker than pam and jim",0.16151784,0.0005156296186045,0.4805194805194805,0.0,False
+"you know, and i never thought that i would ever say that because i live for pen and jim, but after seeing this i was like okay, i forgive you, jim for not marrying pam in real life",0.07371333,0.0215113309467121,0.3356946084218811,0.0,False
+"i get it, you two so cute",0.090114996,6.917382491076696e-05,0.2207792207792208,0.0,False
 it's uh,0.02929751,0.951997031337203,0.4805194805194805,0.0,False
 "speaking of the cast, everybody did a fantastic job",0.048868883,0.0012631301367376,0.2727272727272727,0.0,False
-The eldest daughter has a lot of complexity in her acting,0.12695669,0.0006819329115826,0.4805194805194805,0.0,False
-Her facial expressions are layered,0.13521013,0.0001345924141736,0.4805194805194805,0.0,False
-I really appreciated it,0.02792408,0.004721195509668,0.3766233766233766,0.0,False
-"Kids can easily come off as OneNote actors in movies, but in this case all kids really played their part, So yeah, like I said, this is a good movie, a good thriller, a good suspense, good building, and so much so that when there are scenes with music I was tense",0.04543531,0.004273815808791,0.2662337662337662,0.041,False
-"I was like, Should you be listening to an iPod right now? like I don't know",0.046122026,0.9959277747778942,0.3320964749536178,0.0,False
+the eldest daughter has a lot of complexity in her acting,0.12695669,0.0006819329115826,0.4805194805194805,0.0,False
+her facial expressions are layered,0.13521013,0.0001345924141736,0.4805194805194805,0.0,False
+i really appreciated it,0.02792408,0.004721195509668,0.3766233766233766,0.0,False
+"kids can easily come off as onenote actors in movies, but in this case all kids really played their part, so yeah, like i said, this is a good movie, a good thriller, a good suspense, good building, and so much so that when there are scenes with music i was tense",0.04543531,0.004273815808791,0.2662337662337662,0.041,False
+"i was like, should you be listening to an ipod right now? like i don't know",0.046122026,0.9959277747778942,0.3320964749536178,0.0,False
 "what? if you miss something, your ears are busy and you don't hear the sound of a crate falling in the backyard",0.112144895,0.9882824428368194,0.3506493506493506,0.138,False
-"And now you gotta prepare because monsters are coming, so they did a good job at making this world believable and immersive Like there's the scene with a river",0.18253209,0.0004022572661872,0.1688311688311688,0.0,False
-I got so tense,0.112788886,0.9992753289303294,0.6536796536796536,0.51,False
-I was like I don't know about this,0.024318827,0.9997604994153456,0.4805194805194805,0.0,False
-I was like the kid character in that scene,0.05093802,0.9646725014286288,0.4805194805194805,0.0,False
-I don't know that there's that much more to say without spoiling it,0.14104263,0.0067312002919308,0.2207792207792208,0.0,False
-So I'm going to transition into the spoiler segment,0.089041,0.9860061739650466,0.4805194805194805,0.0,False
-"I'm just gonna wrap it up by saying, If you like horror movies or thrillers more with suspense, No blood",0.2712817,0.9933509380370024,0.2207792207792208,0.239,False
+"and now you gotta prepare because monsters are coming, so they did a good job at making this world believable and immersive like there's the scene with a river",0.18253209,0.0004022572661872,0.1688311688311688,0.0,False
+i got so tense,0.112788886,0.9992753289303294,0.6536796536796536,0.51,False
+i was like i don't know about this,0.024318827,0.9997604994153456,0.4805194805194805,0.0,False
+i was like the kid character in that scene,0.05093802,0.9646725014286288,0.4805194805194805,0.0,False
+i don't know that there's that much more to say without spoiling it,0.14104263,0.0067312002919308,0.2207792207792208,0.0,False
+so i'm going to transition into the spoiler segment,0.089041,0.9860061739650466,0.4805194805194805,0.0,False
+"i'm just gonna wrap it up by saying, if you like horror movies or thrillers more with suspense, no blood",0.2712817,0.9933509380370024,0.2207792207792208,0.239,False
 there's like almost no blood in this movie,0.19936113,0.9861284277478056,0.4805194805194805,0.183,False
-So really that's also a huge plus,0.04165838,0.001970068149182,0.3246753246753247,0.0,False
+so really that's also a huge plus,0.04165838,0.001970068149182,0.3246753246753247,0.0,False
 "if you like movies that really have a good story and science fictiony, and that are well thought out science fiction stories",0.038911518,0.2099423797834325,0.2467532467532467,0.0,False
-"If you like monster movies, or I would even say if you don't like monster movies, I don't like monster movies",0.13206954,0.0149944771212864,0.4805194805194805,0.171,False
-I've mentioned this in another review,0.016451603,0.0069681973861533,0.4805194805194805,0.0,False
-"I prefer a movie that leaves more to the imagination when it comes to scariness, but this monster is actually scary-looking interesting to look at",0.12824467,0.0001747972783721,0.3073593073593074,0.0,False
-well-conceived I would say,0.02929751,0.0015679599002823,0.4805194805194805,0.0,False
-"Obviously, people have said that it looks like a demo Gorgon from stranger things, which it really does, but to me it also looks like an artichoke, and I tried to eat one of those and it almost killed me",0.28021416,0.9999200075200084,0.4805194805194805,0.122,False
-So it's not so far-fetched to have an artichoke as a monster,0.3511902,0.9813324553632128,0.4805194805194805,0.0,False
-They sharp? I just recommend this movie,0.092262976,3.5704542112494105e-05,0.5454545454545454,0.0,False
-Go see with a bunch of friends in the cinema so they can appease you when things get jumpy or watch it at home,0.15276173,0.0097849221566473,0.4805194805194805,0.07,False
-"Either way, I encourage people to go out and watch this movie",0.058929358,0.0092325746783744,0.4805194805194805,0.0,False
-It's a good movie and talk about an ending,0.04543531,0.0164946341557041,0.1168831168831169,0.0,False
-"Well, you want to get up and praise",0.09924392,0.0018781840896387,0.4805194805194805,0.0,False
-"I wanted more, though it ends a bit prematurely",0.07571117,0.9546013170624734,0.2207792207792208,0.0,False
-"To me, it's like Oh my gosh, I want to keep going with this",0.076110736,0.00199993121362,0.4805194805194805,0.0,False
-"Maybe it could have continued into the credits, but they ended it in a classy way",0.037023053,0.0198589676547248,0.4285714285714286,0.0,False
-"You know, you don't want to give people too much or too little, but it would have been fun, kind of like Dawn of the Dead, I think it is where the story kind of continues and the credits and you get a little bit of an alternate ending if you will",0.09655894,0.9535858536577516,0.4074675324675325,0.109,False
-"Oh yes, finally, I remember, and this movie gave me a huge I Am Legend vibes, So if you also liked that kind of movie, you'll enjoy this",0.0471521,0.0007733997227205,0.2727272727272727,0.0,False
-Okay,0.017145762,0.780056414368676,0.2207792207792208,0.0,False
+"if you like monster movies, or i would even say if you don't like monster movies, i don't like monster movies",0.13206954,0.0149944771212864,0.4805194805194805,0.171,False
+i've mentioned this in another review,0.016451603,0.0069681973861533,0.4805194805194805,0.0,False
+"i prefer a movie that leaves more to the imagination when it comes to scariness, but this monster is actually scary-looking interesting to look at",0.12824467,0.0001747972783721,0.3073593073593074,0.0,False
+well-conceived i would say,0.02929751,0.0015679599002823,0.4805194805194805,0.0,False
+"obviously, people have said that it looks like a demo gorgon from stranger things, which it really does, but to me it also looks like an artichoke, and i tried to eat one of those and it almost killed me",0.28021416,0.9999200075200084,0.4805194805194805,0.122,False
+so it's not so far-fetched to have an artichoke as a monster,0.3511902,0.9813324553632128,0.4805194805194805,0.0,False
+they sharp? i just recommend this movie,0.092262976,3.5704542112494105e-05,0.5454545454545454,0.0,False
+go see with a bunch of friends in the cinema so they can appease you when things get jumpy or watch it at home,0.15276173,0.0097849221566473,0.4805194805194805,0.07,False
+"either way, i encourage people to go out and watch this movie",0.058929358,0.0092325746783744,0.4805194805194805,0.0,False
+it's a good movie and talk about an ending,0.04543531,0.0164946341557041,0.1168831168831169,0.0,False
+"well, you want to get up and praise",0.09924392,0.0018781840896387,0.4805194805194805,0.0,False
+"i wanted more, though it ends a bit prematurely",0.07571117,0.9546013170624734,0.2207792207792208,0.0,False
+"to me, it's like oh my gosh, i want to keep going with this",0.076110736,0.00199993121362,0.4805194805194805,0.0,False
+"maybe it could have continued into the credits, but they ended it in a classy way",0.037023053,0.0198589676547248,0.4285714285714286,0.0,False
+"you know, you don't want to give people too much or too little, but it would have been fun, kind of like dawn of the dead, i think it is where the story kind of continues and the credits and you get a little bit of an alternate ending if you will",0.09655894,0.9535858536577516,0.4074675324675325,0.109,False
+"oh yes, finally, i remember, and this movie gave me a huge i am legend vibes, so if you also liked that kind of movie, you'll enjoy this",0.0471521,0.0007733997227205,0.2727272727272727,0.0,False
+okay,0.017145762,0.780056414368676,0.2207792207792208,0.0,False
 it's time to transition into these spoilers,0.10031791,0.7598330696422757,0.4805194805194805,0.0,False
-"so I'm just gonna say before you go like this video, subscribe to music game news",0.059328925,0.998063281919786,0.6883116883116883,0.0,False
-and thanks for watching Whoo spoil,0.15684792,0.7750207327752259,0.3766233766233766,0.0,False
-"Alright, let's talk about this movie",0.031357653,0.9202516997358876,0.4805194805194805,0.0,False
-A place,0.013883209,0.0002363712216145,0.4805194805194805,0.0,False
-"Mmm, the crazy dude in the woods",0.36553472,0.0006708758288416,0.7922077922077922,0.286,False
-"Okay, Unpack this with me because I didn't really understand and we had like a discussion with a group of people I went to see, but still I didn't think it was very clear",0.058929358,0.9999309751923768,0.3367965367965368,0.0,False
-"Here's my interpretation of it, Jim and baby Ryan Filleth, I mean, he really looks like Ryan Phillips",0.04268845,0.8959296047101861,0.5097402597402597,0.0,False
-"Oh, walking through the woods and they come across a dude and a dead woman, And this dude kind of looks cray",0.39206567,0.9857749885450412,0.3766233766233766,0.17,False
-He looks like he's about to snap,0.118584804,0.9470131481529276,0.4805194805194805,0.0,False
-"Looks like it's about to scream, and he does, and then blah blah blah",0.20963,0.9996667079345208,0.4805194805194805,0.375,False
-"You know what happens, Monster comes to claim that booty",0.39230084,0.9956635671269533,0.4805194805194805,0.0,False
-I thought it was a murder-suicide I think this person went crazy living in this world,0.39230084,0.9838807403917974,0.7922077922077922,0.138,False
-It'll play on a person,0.17242117,0.0327664278595091,0.4805194805194805,0.0,False
-Psychology,0.013744377,0.004532956871953,0.4805194805194805,0.0,False
-"It's almost inevitable, So he made sense for me to see this person as someone who snaps, and he took his wife's life or daughter, I think wife, and then he was ready to take his own life because he couldn't live under the constant pressure or fear of not making it through tomorrow",0.08796701,0.0227342264157938,0.3832349468713105,0.092,False
-"someone else said that maybe the monster killed his wife and he came across her And then he just screamed out of the shock of it All the fear you know, hitting him",0.42631236,0.999548060370122,0.5844155844155844,0.303,False
-I don't know,0.017770508,0.9871421029450764,0.4805194805194805,0.0,False
-"She just wasn't disfigured enough and we didn't linger enough on the body for us to really analyze the situation, but she wasn't worn up enough to be like, Oh yeah, this was done by an alien and not just a dude with a knife",0.21036349,0.999989568789867,0.4857142857142857,0.0,False
-"but if you got a good look at her body, I just tried not to look, cuz, I don't want to see her corpse",0.25219622,0.9995908879385824,0.1168831168831169,0.204,False
-Did you notice? maybe the way she was killed would give an indication as to how she met her end,0.22979778,0.9949175269782388,0.5844155844155844,0.191,False
-"Okay, let's talk about the birth scene because that was intense for so many reasons",0.035306264,0.9220787708958746,0.2727272727272727,0.0,False
-"First off, someone had a group of people I went to see the movie with said that the star of this movie is that nail on the stairs",0.1250247,0.9491770877932966,0.3506493506493506,0.0,False
-"All you can think about is that nail as Merson at the end when the daughter's about to come down the stairs, and she wasn't looking at Mama, when Mama said, watch out for the nail",0.08796701,0.0510493290735052,0.5613275613275613,0.0,False
-"So you thought? Oh, she's gonna trip on it too and scream",0.28972426,0.7539790745156179,0.4805194805194805,0.197,False
-"Yes, so that nails very clever touch",0.15188612,9.391069465481544e-05,0.367965367965368,0.0,False
-But really does she have to like? pull on that bag,0.2088965,0.0015307651852937,0.3766233766233766,0.0,False
-That was kind of a stretch,0.080905534,0.999317649840012,0.1688311688311688,0.0,False
-"You would think in a world where you have to be uber careful if you are carrying a load of laundry and it snags on something, you're gonna stop",0.15976663,0.9996249830939888,0.5324675324675325,0.071,False
-You're gonna go down carefully,0.14822112,0.9775753122940396,0.5468975468975469,0.0,False
-"You're going to carefully unhook it and be on your way, Not pull on it and maybe dislodge something",0.22952124,0.8801686124648669,0.5324675324675325,0.0,False
-I don't know,0.017770508,0.9871421029450764,0.4805194805194805,0.0,False
-"I would think splinter not nail, but even a splinter",0.13969667,0.9996286191158064,0.4805194805194805,0.0,False
-It's pretty darn painful,0.5363433,0.999944029106772,0.5974025974025975,0.358,False
-"It was a stretch, but fine movie magic",0.06851897,0.0088648894229138,0.2424242424242424,0.0,False
-right so Momma punctures her foot,0.25676212,0.9847831890855924,0.3320964749536178,0.0,False
-"Oh, she had to swallow that because the demagogue ins was right there",0.31639808,0.918012655382561,0.3320964749536178,0.0,False
-"Then she makes her way to the tub, and the thing is coming up the stairs like it is right there",0.19042583,0.0234290344210264,0.3320964749536178,0.0,False
-We see it right there,0.024833864,0.0009620258053833,0.3320964749536178,0.0,False
-"Meanwhile, kid is going to explode them fireworks right when Jim said, go get the Rockets",0.22982925,0.8610691859251145,0.3320964749536178,0.0,False
-"Though, I thought they were referring to the spaceship because that thing makes a lot of noise right and I was like, Oh, shoot, the Sun is gonna go to find the rocket that the daughter brought to the burial site, But he's not gonna find it, and that's gonna be a whole plot twist, But it made more sense to go in the direction that they went in to have fireworks that the kid can light and run away from, so that it gives him time to be away from the loudness",0.14777246,0.9980799420525416,0.300556586270872,0.018,False
-"So yeah, we're with Mama in the tub and she screams and then we see the fireworks explode and I was a bit confused because they made it look like the explosion happened right after she screamed",0.18154536,0.9051956784748164,0.5102040816326531,0.155,False
-"Now If I'm the monster and I'm hunting, I'm looking for food",0.20522906,0.0371943275436938,0.4805194805194805,0.0,False
-Some people said that they don't eat their kill,0.3282253,0.9616476889177096,0.4805194805194805,0.0,False
-They just kill,0.49309984,0.8486553603872828,0.4805194805194805,0.701,False
-It was written somewhere,0.017492844,0.9899877668728252,0.4805194805194805,0.0,False
-"I didn't see that written anywhere, so I'm thinking they're snacking",0.1621016,0.8238856770365015,0.4805194805194805,0.0,False
-I hear a scream,0.10699297,0.9982901458384508,0.4805194805194805,0.474,False
-"I am one foot, Maybe from that scream from that snack",0.20963,0.2042729276657568,0.4805194805194805,0.213,False
-Then I hear a bigger North in the distance,0.040628307,0.2288601244461251,0.4805194805194805,0.0,False
-Now I know that I got two snacks,0.0358213,0.0142153253312639,0.4805194805194805,0.0,False
-It's an it logical for the monster to first address the first noise it has come across since it's like right there,0.16551583,0.9859845962618,0.3460111317254175,0.0,False
-Even if it's not the snack on the minutes just to stop noises,0.04818217,0.9823601679889764,0.4805194805194805,0.155,False
-"Wouldn't it make more sense for them, the monster to be like? You know what, let me deal with this mess first before I put out that fire",0.30337667,0.9997942667327192,0.380952380952381,0.161,False
-"So what they could have done instead was that she could have screamed and they could have played the fireworks audio at the exact same time and then cut to it so that we understand that her screaming was maybe muffled by the sound of the firework, But the firework wasn't so close to the house, though that it would drown out the sounds of a mother in",0.13565879,0.9996970776577369,0.367965367965368,0.134,False
-"You know what I mean, you go with it and that's another thing",0.05413456,0.0420401313092652,0.6428571428571429,0.0,False
-"we see them in the pharmacy early on, Mama",0.04543531,0.0307627712136987,0.4285714285714286,0.0,False
-"You guys thought of everything, but you didn't think of grabbing them birth control pills",0.1550967,0.218910627597036,0.4805194805194805,0.0,False
-You live near the pharmacy when we see them on day 89,0.068918526,0.9790340425225004,0.4191263282172373,0.0,False
-"It is, you know, they already kind of figured out how to live in this world, or they're still figuring it out, and now we're at day 472 or something",0.05133759,0.1019020149342741,0.2892561983471075,0.0,False
-"So you've had time to consider that you're in this world and maybe having a baby isn't a good idea, But maybe that was their executive decision",0.09279997,0.991058515691252,0.1168831168831169,0.061,False
-We're gonna have a kid,0.062125895,0.0006596995322704,0.4805194805194805,0.0,False
-We're gonna take the biggest risk of all time,0.082104236,0.9935437366037184,0.4805194805194805,0.208,False
-What we're gonna create a soundproof studio in the basement,0.077709,0.0210006785055139,0.4805194805194805,0.0,False
-"I don't know that a rickety old wooden house is the best place to hide, But maybe that's all they had on hand",0.034962907,0.005611454589336,0.29004329004329,0.048,False
-I don't know,0.017770508,0.9871421029450764,0.4805194805194805,0.0,False
-It's probably their home,0.017423427,0.0021327950272573,0.4805194805194805,0.0,False
+"so i'm just gonna say before you go like this video, subscribe to music game news",0.059328925,0.998063281919786,0.6883116883116883,0.0,False
+and thanks for watching whoo spoil,0.15684792,0.7750207327752259,0.3766233766233766,0.0,False
+"alright, let's talk about this movie",0.031357653,0.9202516997358876,0.4805194805194805,0.0,False
+a place,0.013883209,0.0002363712216145,0.4805194805194805,0.0,False
+"mmm, the crazy dude in the woods",0.36553472,0.0006708758288416,0.7922077922077922,0.286,False
+"okay, unpack this with me because i didn't really understand and we had like a discussion with a group of people i went to see, but still i didn't think it was very clear",0.058929358,0.9999309751923768,0.3367965367965368,0.0,False
+"here's my interpretation of it, jim and baby ryan filleth, i mean, he really looks like ryan phillips",0.04268845,0.8959296047101861,0.5097402597402597,0.0,False
+"oh, walking through the woods and they come across a dude and a dead woman, and this dude kind of looks cray",0.39206567,0.9857749885450412,0.3766233766233766,0.17,False
+he looks like he's about to snap,0.118584804,0.9470131481529276,0.4805194805194805,0.0,False
+"looks like it's about to scream, and he does, and then blah blah blah",0.20963,0.9996667079345208,0.4805194805194805,0.375,False
+"you know what happens, monster comes to claim that booty",0.39230084,0.9956635671269533,0.4805194805194805,0.0,False
+i thought it was a murder-suicide i think this person went crazy living in this world,0.39230084,0.9838807403917974,0.7922077922077922,0.138,False
+it'll play on a person,0.17242117,0.0327664278595091,0.4805194805194805,0.0,False
+psychology,0.013744377,0.004532956871953,0.4805194805194805,0.0,False
+"it's almost inevitable, so he made sense for me to see this person as someone who snaps, and he took his wife's life or daughter, i think wife, and then he was ready to take his own life because he couldn't live under the constant pressure or fear of not making it through tomorrow",0.08796701,0.0227342264157938,0.3832349468713105,0.092,False
+"someone else said that maybe the monster killed his wife and he came across her and then he just screamed out of the shock of it all the fear you know, hitting him",0.42631236,0.999548060370122,0.5844155844155844,0.303,False
+i don't know,0.017770508,0.9871421029450764,0.4805194805194805,0.0,False
+"she just wasn't disfigured enough and we didn't linger enough on the body for us to really analyze the situation, but she wasn't worn up enough to be like, oh yeah, this was done by an alien and not just a dude with a knife",0.21036349,0.999989568789867,0.4857142857142857,0.0,False
+"but if you got a good look at her body, i just tried not to look, cuz, i don't want to see her corpse",0.25219622,0.9995908879385824,0.1168831168831169,0.204,False
+did you notice? maybe the way she was killed would give an indication as to how she met her end,0.22979778,0.9949175269782388,0.5844155844155844,0.191,False
+"okay, let's talk about the birth scene because that was intense for so many reasons",0.035306264,0.9220787708958746,0.2727272727272727,0.0,False
+"first off, someone had a group of people i went to see the movie with said that the star of this movie is that nail on the stairs",0.1250247,0.9491770877932966,0.3506493506493506,0.0,False
+"all you can think about is that nail as merson at the end when the daughter's about to come down the stairs, and she wasn't looking at mama, when mama said, watch out for the nail",0.08796701,0.0510493290735052,0.5613275613275613,0.0,False
+"so you thought? oh, she's gonna trip on it too and scream",0.28972426,0.7539790745156179,0.4805194805194805,0.197,False
+"yes, so that nails very clever touch",0.15188612,9.391069465481544e-05,0.367965367965368,0.0,False
+but really does she have to like? pull on that bag,0.2088965,0.0015307651852937,0.3766233766233766,0.0,False
+that was kind of a stretch,0.080905534,0.999317649840012,0.1688311688311688,0.0,False
+"you would think in a world where you have to be uber careful if you are carrying a load of laundry and it snags on something, you're gonna stop",0.15976663,0.9996249830939888,0.5324675324675325,0.071,False
+you're gonna go down carefully,0.14822112,0.9775753122940396,0.5468975468975469,0.0,False
+"you're going to carefully unhook it and be on your way, not pull on it and maybe dislodge something",0.22952124,0.8801686124648669,0.5324675324675325,0.0,False
+i don't know,0.017770508,0.9871421029450764,0.4805194805194805,0.0,False
+"i would think splinter not nail, but even a splinter",0.13969667,0.9996286191158064,0.4805194805194805,0.0,False
+it's pretty darn painful,0.5363433,0.999944029106772,0.5974025974025975,0.358,False
+"it was a stretch, but fine movie magic",0.06851897,0.0088648894229138,0.2424242424242424,0.0,False
+right so momma punctures her foot,0.25676212,0.9847831890855924,0.3320964749536178,0.0,False
+"oh, she had to swallow that because the demagogue ins was right there",0.31639808,0.918012655382561,0.3320964749536178,0.0,False
+"then she makes her way to the tub, and the thing is coming up the stairs like it is right there",0.19042583,0.0234290344210264,0.3320964749536178,0.0,False
+we see it right there,0.024833864,0.0009620258053833,0.3320964749536178,0.0,False
+"meanwhile, kid is going to explode them fireworks right when jim said, go get the rockets",0.22982925,0.8610691859251145,0.3320964749536178,0.0,False
+"though, i thought they were referring to the spaceship because that thing makes a lot of noise right and i was like, oh, shoot, the sun is gonna go to find the rocket that the daughter brought to the burial site, but he's not gonna find it, and that's gonna be a whole plot twist, but it made more sense to go in the direction that they went in to have fireworks that the kid can light and run away from, so that it gives him time to be away from the loudness",0.14777246,0.9980799420525416,0.300556586270872,0.018,False
+"so yeah, we're with mama in the tub and she screams and then we see the fireworks explode and i was a bit confused because they made it look like the explosion happened right after she screamed",0.18154536,0.9051956784748164,0.5102040816326531,0.155,False
+"now if i'm the monster and i'm hunting, i'm looking for food",0.20522906,0.0371943275436938,0.4805194805194805,0.0,False
+some people said that they don't eat their kill,0.3282253,0.9616476889177096,0.4805194805194805,0.0,False
+they just kill,0.49309984,0.8486553603872828,0.4805194805194805,0.701,False
+it was written somewhere,0.017492844,0.9899877668728252,0.4805194805194805,0.0,False
+"i didn't see that written anywhere, so i'm thinking they're snacking",0.1621016,0.8238856770365015,0.4805194805194805,0.0,False
+i hear a scream,0.10699297,0.9982901458384508,0.4805194805194805,0.474,False
+"i am one foot, maybe from that scream from that snack",0.20963,0.2042729276657568,0.4805194805194805,0.213,False
+then i hear a bigger north in the distance,0.040628307,0.2288601244461251,0.4805194805194805,0.0,False
+now i know that i got two snacks,0.0358213,0.0142153253312639,0.4805194805194805,0.0,False
+it's an it logical for the monster to first address the first noise it has come across since it's like right there,0.16551583,0.9859845962618,0.3460111317254175,0.0,False
+even if it's not the snack on the minutes just to stop noises,0.04818217,0.9823601679889764,0.4805194805194805,0.155,False
+"wouldn't it make more sense for them, the monster to be like? you know what, let me deal with this mess first before i put out that fire",0.30337667,0.9997942667327192,0.380952380952381,0.161,False
+"so what they could have done instead was that she could have screamed and they could have played the fireworks audio at the exact same time and then cut to it so that we understand that her screaming was maybe muffled by the sound of the firework, but the firework wasn't so close to the house, though that it would drown out the sounds of a mother in",0.13565879,0.9996970776577369,0.367965367965368,0.134,False
+"you know what i mean, you go with it and that's another thing",0.05413456,0.0420401313092652,0.6428571428571429,0.0,False
+"we see them in the pharmacy early on, mama",0.04543531,0.0307627712136987,0.4285714285714286,0.0,False
+"you guys thought of everything, but you didn't think of grabbing them birth control pills",0.1550967,0.218910627597036,0.4805194805194805,0.0,False
+you live near the pharmacy when we see them on day 89,0.068918526,0.9790340425225004,0.4191263282172373,0.0,False
+"it is, you know, they already kind of figured out how to live in this world, or they're still figuring it out, and now we're at day 472 or something",0.05133759,0.1019020149342741,0.2892561983471075,0.0,False
+"so you've had time to consider that you're in this world and maybe having a baby isn't a good idea, but maybe that was their executive decision",0.09279997,0.991058515691252,0.1168831168831169,0.061,False
+we're gonna have a kid,0.062125895,0.0006596995322704,0.4805194805194805,0.0,False
+we're gonna take the biggest risk of all time,0.082104236,0.9935437366037184,0.4805194805194805,0.208,False
+what we're gonna create a soundproof studio in the basement,0.077709,0.0210006785055139,0.4805194805194805,0.0,False
+"i don't know that a rickety old wooden house is the best place to hide, but maybe that's all they had on hand",0.034962907,0.005611454589336,0.29004329004329,0.048,False
+i don't know,0.017770508,0.9871421029450764,0.4805194805194805,0.0,False
+it's probably their home,0.017423427,0.0021327950272573,0.4805194805194805,0.0,False
 "you know, so it makes sense",0.028782474,0.013478434844009,0.4805194805194805,0.0,False
 fine,0.020269485,0.0759523530932442,0.264069264069264,0.0,False
-"Oh my God, that scene when she is sleeping and she wakes up to the sound of waters",0.11085691,0.9858217501698946,0.2727272727272727,0.0,False
-"First of all, you're like Ah, spa day, but no, she's knee-deep in water and her baby's crib is afloat and the monsters in the corner",0.22987647,0.9595083073263396,0.4155844155844156,0.0,False
-"Now when I saw that I was like, Oh, Oh my God, I was convinced that that monster just had a happy meal and that baby was snacked upon",0.32304016,0.8903199085248439,0.0649350649350649,0.0,False
-"Oh, luckily, Oh, that was not the case, and she had to summon all of her courage to save that baby",0.044405237,0.7938918648303525,0.3073593073593074,0.0,False
-and the way she sank it to that impromptu waterfall reminded me of the way Homer Simpson sunk into those bushes,0.17661177,0.0276512604448452,0.4805194805194805,0.0,False
-"Can we talk about the baby dying at beginning? Oh, he was so cute, adorable little kid",0.1550967,0.0032268799529248,0.3398268398268398,0.0,False
+"oh my god, that scene when she is sleeping and she wakes up to the sound of waters",0.11085691,0.9858217501698946,0.2727272727272727,0.0,False
+"first of all, you're like ah, spa day, but no, she's knee-deep in water and her baby's crib is afloat and the monsters in the corner",0.22987647,0.9595083073263396,0.4155844155844156,0.0,False
+"now when i saw that i was like, oh, oh my god, i was convinced that that monster just had a happy meal and that baby was snacked upon",0.32304016,0.8903199085248439,0.0649350649350649,0.0,False
+"oh, luckily, oh, that was not the case, and she had to summon all of her courage to save that baby",0.044405237,0.7938918648303525,0.3073593073593074,0.0,False
+and the way she sank it to that impromptu waterfall reminded me of the way homer simpson sunk into those bushes,0.17661177,0.0276512604448452,0.4805194805194805,0.0,False
+"can we talk about the baby dying at beginning? oh, he was so cute, adorable little kid",0.1550967,0.0032268799529248,0.3398268398268398,0.0,False
 that really shook everybody in the audience,0.21715863,0.055886996495173,0.3766233766233766,0.22,False
-"I mean, if you watch the trailer, you see it coming, though, right, I didn't think that Jim could outrun that monster because that's what they do in movies, right, The human usually outrun something that you clearly see it cannot outrun",0.1334155,0.995608102892503,0.4710884353741496,0.0,False
+"i mean, if you watch the trailer, you see it coming, though, right, i didn't think that jim could outrun that monster because that's what they do in movies, right, the human usually outrun something that you clearly see it cannot outrun",0.1334155,0.995608102892503,0.4710884353741496,0.0,False
 but here they kept it realistic,0.023460433,0.0525463865483405,0.393939393939394,0.0,False
-"No, there was no way it was gonna outrun that monster",0.31671798,0.95764541241041,0.4805194805194805,0.18,False
-"That baby was snatched, and it was a good way to set the tone",0.3063832,0.0001335790966178,0.1168831168831169,0.0,False
-I think very early on set the tone for the movie,0.03444787,0.0178990326811005,0.412987012987013,0.0,False
-"So now you know what the stakes are, You know",0.052136723,0.1799649594789211,0.4805194805194805,0.0,False
-"it was very clever, Right and then later on, Oh my goodness, I actually shed a tear when Jim dies and then you're left thinking",0.33859563,0.0005527051197631,0.4283240568954854,0.0,False
-What if his wife didn't give him that speech about You got to protect him,0.046122026,0.955390214583106,0.4805194805194805,0.0,False
-"Because what the hell are we doing here if we can't at least protect our kids If she didn't tell him that, maybe he would have been in that moment",0.39108577,0.9898371998054192,0.6363636363636364,0.195,True
-Life,0.016729267,0.0054733751706322,0.4805194805194805,0.0,False
-"Okay, let's see what we have",0.021796638,0.1575141341407129,0.2207792207792208,0.0,False
-A new one,0.021796638,0.0001396590019525,0.409681227863046,0.0,False
-We did lose that one,0.059728492,0.1343536288719683,0.4805194805194805,0.403,False
-I could go and make sure that the new one is taken care of,0.04268845,0.0098960294462928,0.3152302243211334,0.0,False
-"Do I really want to do this right now like? I mean, these kids are kind of annoying, Sue",0.39230084,0.9967199208753968,0.4833024118738404,0.13,False
-Maybe I should just let them all get in and continue in this world's freest bird,0.22157386,0.081714762194934,0.4805194805194805,0.0,False
-It would be a lot easier,0.031185975,0.9997745368438388,0.4805194805194805,0.0,False
-"Yes, I know, could I live with it, and I kind of thought it would have been hilarious if he had let that monster eat his kids and he had to snuck away",0.3897707,0.9997398456192822,0.2664305391578119,0.0,False
-"Come back, knowing that Mama is watching them on the screen the whole time",0.061726328,0.0326989826351346,0.4285714285714286,0.0,False
-"Oh honey, I'm so sorry, I, I couldn't find the kids, so look in the morning",0.07571117,0.9838440821390442,0.7402597402597403,0.104,False
-"Okay, we just go to bed",0.058130227,0.9693972137462844,0.2207792207792208,0.0,False
-"Okay, knowing that that nail is there and not telling him, But then that would have just been like a Tyler Perry movie",0.11085691,0.9975519439990648,0.2207792207792208,0.0,False
-"This movie even had kind of a Marvel feel right with that earpiece that goes berserk every time the monsters get close, Which that I didn't really understand",0.1580154,0.9995122366141794,0.2925170068027211,0.0,False
-"Does this monster itself emit some kind of a radio frequency or wave that interfered with the ear piece Every time I would get close to it because it didn't just mess up randomly, it only messed up when the monsters were closed so clearly and had something to do with what they do when they open up their face, their ear, their artichoke lamp",0.22982925,0.9999983310063788,0.4437229437229437,0.034,False
-"Oh, and when she turned it off in that truck, Oh, the audience audible gasps",0.12631269,0.9378770770700126,0.4805194805194805,0.0,False
-It was just like No girl,0.1943727,0.987790477163488,0.4805194805194805,0.253,False
-You are the superhero,0.0471521,7.269063289847505e-05,0.4805194805194805,0.0,False
-You are,0.031185975,0.0020280656775217,0.4805194805194805,0.0,False
-That's why I was so excited when we get to the end and Mama is figuring it out and you just want to scream it at her like piece it together girl,0.41950125,0.0040539557026442,0.2857142857142857,0.072,False
+"no, there was no way it was gonna outrun that monster",0.31671798,0.95764541241041,0.4805194805194805,0.18,False
+"that baby was snatched, and it was a good way to set the tone",0.3063832,0.0001335790966178,0.1168831168831169,0.0,False
+i think very early on set the tone for the movie,0.03444787,0.0178990326811005,0.412987012987013,0.0,False
+"so now you know what the stakes are, you know",0.052136723,0.1799649594789211,0.4805194805194805,0.0,False
+"it was very clever, right and then later on, oh my goodness, i actually shed a tear when jim dies and then you're left thinking",0.33859563,0.0005527051197631,0.4283240568954854,0.0,False
+what if his wife didn't give him that speech about you got to protect him,0.046122026,0.955390214583106,0.4805194805194805,0.0,False
+"because what the hell are we doing here if we can't at least protect our kids if she didn't tell him that, maybe he would have been in that moment",0.39108577,0.9898371998054192,0.6363636363636364,0.195,True
+life,0.016729267,0.0054733751706322,0.4805194805194805,0.0,False
+"okay, let's see what we have",0.021796638,0.1575141341407129,0.2207792207792208,0.0,False
+a new one,0.021796638,0.0001396590019525,0.409681227863046,0.0,False
+we did lose that one,0.059728492,0.1343536288719683,0.4805194805194805,0.403,False
+i could go and make sure that the new one is taken care of,0.04268845,0.0098960294462928,0.3152302243211334,0.0,False
+"do i really want to do this right now like? i mean, these kids are kind of annoying, sue",0.39230084,0.9967199208753968,0.4833024118738404,0.13,False
+maybe i should just let them all get in and continue in this world's freest bird,0.22157386,0.081714762194934,0.4805194805194805,0.0,False
+it would be a lot easier,0.031185975,0.9997745368438388,0.4805194805194805,0.0,False
+"yes, i know, could i live with it, and i kind of thought it would have been hilarious if he had let that monster eat his kids and he had to snuck away",0.3897707,0.9997398456192822,0.2664305391578119,0.0,False
+"come back, knowing that mama is watching them on the screen the whole time",0.061726328,0.0326989826351346,0.4285714285714286,0.0,False
+"oh honey, i'm so sorry, i, i couldn't find the kids, so look in the morning",0.07571117,0.9838440821390442,0.7402597402597403,0.104,False
+"okay, we just go to bed",0.058130227,0.9693972137462844,0.2207792207792208,0.0,False
+"okay, knowing that that nail is there and not telling him, but then that would have just been like a tyler perry movie",0.11085691,0.9975519439990648,0.2207792207792208,0.0,False
+"this movie even had kind of a marvel feel right with that earpiece that goes berserk every time the monsters get close, which that i didn't really understand",0.1580154,0.9995122366141794,0.2925170068027211,0.0,False
+"does this monster itself emit some kind of a radio frequency or wave that interfered with the ear piece every time i would get close to it because it didn't just mess up randomly, it only messed up when the monsters were closed so clearly and had something to do with what they do when they open up their face, their ear, their artichoke lamp",0.22982925,0.9999983310063788,0.4437229437229437,0.034,False
+"oh, and when she turned it off in that truck, oh, the audience audible gasps",0.12631269,0.9378770770700126,0.4805194805194805,0.0,False
+it was just like no girl,0.1943727,0.987790477163488,0.4805194805194805,0.253,False
+you are the superhero,0.0471521,7.269063289847505e-05,0.4805194805194805,0.0,False
+you are,0.031185975,0.0020280656775217,0.4805194805194805,0.0,False
+that's why i was so excited when we get to the end and mama is figuring it out and you just want to scream it at her like piece it together girl,0.41950125,0.0040539557026442,0.2857142857142857,0.072,False
 this is your scooby-doo moment,0.30053464,0.0001581073421592,0.4805194805194805,0.0,False
-Figure it out,0.111500904,0.0096601946869137,0.4805194805194805,0.0,False
-Finally she gets it and we get this badass ending,0.44509158,0.0142101097261974,0.4805194805194805,0.0,False
-"Pardon my language, but badass gotta say it with momma and daughter",0.42631236,0.1147836653448435,0.4805194805194805,0.0,False
+figure it out,0.111500904,0.0096601946869137,0.4805194805194805,0.0,False
+finally she gets it and we get this badass ending,0.44509158,0.0142101097261974,0.4805194805194805,0.0,False
+"pardon my language, but badass gotta say it with momma and daughter",0.42631236,0.1147836653448435,0.4805194805194805,0.0,False
 click,0.0495556,0.2323127953932438,0.4805194805194805,0.0,False
-"click, okay, baby, let's get in formation and they slay And that's why I was so disappointed that they ended it there",0.3897107,0.9994300982852462,0.5454545454545454,0.154,False
-"I wanted to see the slight edge and they could have put some Beyonce on and just pull, pull, pull, pop",0.22990796,0.9876308200415376,0.5670995670995671,0.0,False
-"Yeah, Yeah, did I thought that it could have been okay? To be fair",0.028267438,0.998820856006562,0.1688311688311688,0.0,False
-"That's Missy Elliott, but that would have worked",0.035134587,0.9719667486400831,0.4805194805194805,0.0,False
-"So you know what I'm saying, I'm better",0.10634898,0.9921431529208848,0.2207792207792208,0.0,False
-I'm better,0.059728492,0.9942613740574135,0.2207792207792208,0.0,False
-I'm better get him,0.070516795,0.985920936076531,0.2207792207792208,0.0,False
+"click, okay, baby, let's get in formation and they slay and that's why i was so disappointed that they ended it there",0.3897107,0.9994300982852462,0.5454545454545454,0.154,False
+"i wanted to see the slight edge and they could have put some beyonce on and just pull, pull, pull, pop",0.22990796,0.9876308200415376,0.5670995670995671,0.0,False
+"yeah, yeah, did i thought that it could have been okay? to be fair",0.028267438,0.998820856006562,0.1688311688311688,0.0,False
+"that's missy elliott, but that would have worked",0.035134587,0.9719667486400831,0.4805194805194805,0.0,False
+"so you know what i'm saying, i'm better",0.10634898,0.9921431529208848,0.2207792207792208,0.0,False
+i'm better,0.059728492,0.9942613740574135,0.2207792207792208,0.0,False
+i'm better get him,0.070516795,0.985920936076531,0.2207792207792208,0.0,False
 "get him, get him and play that in the credits while they are just cleaning house",0.1550967,0.0004516415953027,0.4805194805194805,0.0,False
-"Just saying so, there probably won't be a sequel because it was a really nicely tightly made movie ended with a bow",0.10763696,0.001964882347573,0.5732838589981447,0.0,False
-It was about the quiet place,0.021102477,0.986493877743952,0.4805194805194805,0.0,False
-I don't know how they could continue unless they do a sequel with a new family somewhere else in the U,0.1539292,0.9933927820913646,0.409681227863046,0.0,False
+"just saying so, there probably won't be a sequel because it was a really nicely tightly made movie ended with a bow",0.10763696,0.001964882347573,0.5732838589981447,0.0,False
+it was about the quiet place,0.021102477,0.986493877743952,0.4805194805194805,0.0,False
+i don't know how they could continue unless they do a sequel with a new family somewhere else in the u,0.1539292,0.9933927820913646,0.409681227863046,0.0,False
 s,0.04818217,0.178738278970734,0.4805194805194805,0.0,False
-"Also dealing with this in another original way, Maybe we live in this very sequel Eyes, era where every movie needs a sequel And sometimes it's nice to just have a story, have the end at the end of it and be beautiful and great as it is",0.03994159,0.0010044659288959,0.2241243604879968,0.0,False
-No sequel,0.0100653265,0.8327051757936079,0.4805194805194805,0.688,False
-No screw-ups after just a beautiful crepe dash of cinnamon Perfect,0.2889918,3.3260658595612206e-05,0.0,0.124,False
-I really didn't expect to appreciate this movie as much as I did,0.15001574,0.9992218019206184,0.3766233766233766,0.158,False
-but I really did and I would love to know,0.0224908,0.0040474585489042,0.2987012987012987,0.0,False
-What did you think of a quiet place? Let us all know,0.02517722,0.0013692006420618,0.4805194805194805,0.0,False
-"In the comment section below Before you go, liked this video",0.026207292,0.0008281784776477,0.1688311688311688,0.0,False
-Subscribe to music game news,0.019158829,0.9932199816446464,0.6883116883116883,0.0,False
-"Turn on your notification bell if you did, and I thank you for watching again",0.038053125,0.0079815447453911,0.4805194805194805,0.0,False
-"I'm Amanda, signing out",0.03444787,0.0163016865717005,0.4805194805194805,0.0,False
+"also dealing with this in another original way, maybe we live in this very sequel eyes, era where every movie needs a sequel and sometimes it's nice to just have a story, have the end at the end of it and be beautiful and great as it is",0.03994159,0.0010044659288959,0.2241243604879968,0.0,False
+no sequel,0.0100653265,0.8327051757936079,0.4805194805194805,0.688,False
+no screw-ups after just a beautiful crepe dash of cinnamon perfect,0.2889918,3.3260658595612206e-05,0.0,0.124,False
+i really didn't expect to appreciate this movie as much as i did,0.15001574,0.9992218019206184,0.3766233766233766,0.158,False
+but i really did and i would love to know,0.0224908,0.0040474585489042,0.2987012987012987,0.0,False
+what did you think of a quiet place? let us all know,0.02517722,0.0013692006420618,0.4805194805194805,0.0,False
+"in the comment section below before you go, liked this video",0.026207292,0.0008281784776477,0.1688311688311688,0.0,False
+subscribe to music game news,0.019158829,0.9932199816446464,0.6883116883116883,0.0,False
+"turn on your notification bell if you did, and i thank you for watching again",0.038053125,0.0079815447453911,0.4805194805194805,0.0,False
+"i'm amanda, signing out",0.03444787,0.0163016865717005,0.4805194805194805,0.0,False
