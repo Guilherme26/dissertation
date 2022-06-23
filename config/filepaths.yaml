@@ -1,14 +1,29 @@
-download_descriptions: "/home/guilherme/Desktop/dissertation/data/download_descriptions.csv"
-bad_words_raw: "/home/guilherme/Desktop/dissertation/data/noswearing.csv"
-bad_words_scored: "/home/guilherme/Desktop/dissertation/data/noswearing_scored.csv"
+credentials: "/home/luiznery/locus/dissertation/config/credentials.yaml"
 
-raw_data: "/home/guilherme/Desktop/dissertation/data/00_raw/"
-preprocessed_data: "/home/guilherme/Desktop/dissertation/data/01_preprocessed/with_inputation/"
-inputation_schema: "/home/guilherme/Desktop/dissertation/data/01_preprocessed/"
-fixed_size_segmentated_data: "/home/guilherme/Desktop/dissertation/data/02_segmented/fixed_size_context/without_curse_words/"
-model_based_segmentated_data: "/home/guilherme/Desktop/dissertation/data/02_segmented/model_based/with_curse_words/"
-scored_data: "/home/guilherme/Desktop/dissertation/data/03_scored/with_inputation/scored"
-imgs: "/home/guilherme/Desktop/dissertation/data/imgs/"
+utils: "/home/luiznery/locus/dissertation/utils/"
 
-fine_tunning_raw_data: "/home/guilherme/Desktop/dissertation/data/TED_Talks/01_raw/subtitles.json"
-fine_tunning_preprocessed: "/home/guilherme/Desktop/dissertation/data/TED_Talks/02_preprocessed/"
+download_descriptions: "/home/luiznery/locus/dissertation/data/download_descriptions.csv"
+bad_words_raw: "/home/luiznery/locus/dissertation/data/noswearing.csv"
+bad_words_scored: "/home/luiznery/locus/dissertation/data/noswearing_scored.csv"
+
+coraal_original_textfiles: "/home/luiznery/locus/dissertation/data/00_raw/coraal/original/textfiles/"
+coraal_original_metadata: "/home/luiznery/locus/dissertation/data/00_raw/coraal/original/metadata/"
+coraal_sentences: "/home/luiznery/locus/dissertation/data/00_raw/coraal/sentences/"
+coraal_scored: "/home/luiznery/locus/dissertation/data/03_scored/coraal/"
+
+buckeye_original_textfiles: "/home/luiznery/locus/dissertation/data/00_raw/buckeye/original/"
+buckeye_original_metadata: "/home/luiznery/locus/dissertation/data/00_raw/buckeye/metadata.csv"
+buckeye_senteces: "/home/luiznery/locus/dissertation/data/00_raw/buckeye/sentences/"
+buckeye_scored: "/home/luiznery/locus/dissertation/data/03_scored/buckeye/"
+
+raw_data: "/home/luiznery/locus/dissertation/data/00_raw/"
+preprocessed_data: "/home/luiznery/locus/dissertation/data/01_preprocessed/with_inputation/"
+inputation_schema: "/home/luiznery/locus/dissertation/data/01_preprocessed/"
+fixed_size_segmentated_data: "/home/luiznery/locus/dissertation/data/02_segmented/fixed_size_context/without_curse_words/"
+model_based_segmentated_data: "/home/luiznery/locus/dissertation/data/02_segmented/model_based/with_curse_words/"
+scored_data: "/home/luiznery/locus/dissertation/data/03_scored/with_inputation/scored"
+imgs: "/home/luiznery/locus/dissertation/data/imgs/"
+
+fine_tunning_raw_data: "/home/luiznery/locus/dissertation/data/TED_Talks/01_raw/subtitles.json"
+fine_tunning_preprocessed: "/home/luiznery/locus/dissertation/data/TED_Talks/02_preprocessed/"
+  
