@@ -1,3 +1,6 @@
-notebooks/.ipynb_checkpoints
-credentials.yaml
+data/imgs/
+data/02_preprocessed/
+data/03_segmented/
+.ipynb_checkpoints
 
+credentials.yaml

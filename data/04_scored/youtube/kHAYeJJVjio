@@ -1,0 +1,58 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, this is alan mcgee",0.022213135,0.0002173618241345,0.5,0.0,False,0.000979859847575426,0.0048806024715304375,0.004803267773240805
+would your entertainment ticket at www,0.035649624,0.8913548827429375,0.5,0.0,False,0.0008871225290931761,0.000662783277221024,0.0007662146235816181
+vitac,,0.0022984977207259,0.5,0.0,False,0.0009446986950933933,0.0007414956344291568,0.002087147906422615
+"com a grade? well, why should you be concerned about eighth grade? well, you should be concerned because this is about kayla and the igeneration and did not realize that they recall that",0.12760067,0.9981073456851756,0.5,0.0,False,0.0007475469610653818,0.0006700694793835282,0.0015418153489008546
+"why? because this is a generation that grew up with the internet and iphones, or you know, telephones, portable telephones, i did not realize how dependent these young i generation errs are on the internet and the phone for communication, but they are alone",0.05773066,0.0161508508345913,0.45,0.055,False,0.0011414862237870693,0.0016689824406057596,0.00067277776543051
+"well, the stories about kayla",0.01228664,0.0167145967421059,0.5,0.0,False,0.0006081460742279887,0.0004064506501890719,0.0005217981524765491
+she's a 13 year old,0.073313765,0.8118198874296435,0.45,0.0,False,0.24966178834438324,0.005755886901170015,0.05734480917453766
+"she's in eighth grade a week before she graduates to high school and we see her and she hosts her youtube channel called kayla's corner, and here she talks about giving advice to the audience about you know, being yourself, putting yourself out there, have courage to be yourself, have courage to help someone out and things like that",0.018325835,0.0018828785465101,0.42,0.0,False,0.0029376335442066193,0.0008138061966747046,0.0005360193317756057
+but she doesn't have a lot of people on her channel,0.1256687,0.9820346413887552,0.5,0.0,False,0.0009460335713811219,0.0011798021150752902,0.0008675663266330957
+"not at all, so that shows you how really really important she really is",0.033246122,0.998898318597654,0.35,0.0,False,0.0007565561681985855,0.0003921402676496655,0.0030405977740883827
+"also, you know, she got very bad acne in real life, but on that you to station she can cut that out",0.2889918,0.9847746879130672,0.6775,0.201,False,0.14672353863716125,0.01638045348227024,0.1260516196489334
+make her skin look flawless,0.38965073,4.0503869326589645e-05,0.0,0.0,False,0.0018273157766088843,0.007475916761904955,0.03844504430890083
+"well as i stated, this is the i generation man",0.043718524,0.0009076860488162,0.5,0.0,False,0.0006823376752436161,0.002121884608641267,0.004112910944968462
+i'm learning a lot from this film alone,0.0471521,0.0004836620981838,0.5,0.222,False,0.000658345699775964,0.0003883694007527083,0.0003885525220539421
+"well, this is directed and written by stand-up comedian bo burnham, and you know he talks about this in this film and really again will show you a lot about the i generation people",0.05653196,0.0,0.4,0.0,False,0.0009395790402777493,0.000955170311499387,0.0014582074945792556
+but he concentrated on kayla,0.055333257,0.980351778638456,0.5,0.0,False,0.0006393808871507645,0.00044109858572483063,0.000734100816771388
+now she lives at home with her dad,0.03736641,0.0007955031465754,0.5,0.0,False,0.007510136812925339,0.001318812952376902,0.002111887326464057
+play by josh hamilton,0.020685982,0.0011253161104959,0.5,0.0,False,0.0009662662050686777,0.0011013257317245007,0.00045451585901901126
+"well, there's no mother in this film and i got a little bit confused",0.09494796,0.9929089020590212,0.646875,0.244,False,0.002082118531689048,0.002487664110958576,0.002905469387769699
+"where is the mother? what happened to the mother? if they explained it, it went over my head so fast i still didn't get it and kayla wants to push her father away",0.08689302,0.9999759182292746,0.4,0.0,False,0.013861515559256077,0.006045716814696789,0.02317730523645878
+shut him out,0.3897707,0.9985305053148288,0.5,0.0,False,0.8988583087921143,0.3029417395591736,0.5757765769958496
+doesn't want to communicate with him,0.04131502,0.9999757394042444,0.5,0.196,False,0.000985434977337718,0.00426275422796607,0.000888544600456953
+"doesn't want him to ask a questions thing like that when he cooks her dinner, things like that",0.07131593,0.9879281182987184,0.5,0.058,False,0.0009772269986569881,0.0011373974848538637,0.0015657934127375484
+but again she got to realize who's paying that bill,0.020685982,0.9663000058118136,0.5,0.0,False,0.002012817654758692,0.000535339757334441,0.0004494073218666017
+"she isn't, you know, she shouts at him, telling me shut up",0.39157572,0.9973105311550458,0.5,0.0,False,0.5310628414154053,0.6032688021659851,0.4467869997024536
+"leave me alone and things like that, but you know he wants to be nice and he wants you know her too well",0.1256687,0.7652472330552107,0.3333333333333333,0.091,False,0.006308482028543949,0.0011246342910453677,0.006738516967743635
+respect him without him putting his foot down,0.1710401,0.001567729235061,0.5777777777777778,0.0,False,0.002889597322791815,0.037068165838718414,0.06122513860464096
+and there's some truth in this film that really scared me,0.16344422,0.8842942148612541,0.4,0.22,False,0.0011049086460843682,0.00045163577306084335,0.003912622574716806
+"for one example, they're in their school",0.019158829,0.0053432322922239,0.5,0.0,False,0.0011805124813690782,0.0005583056481555104,0.0003966383228544146
+the all the people were in that middle school,0.03770977,0.0771657126848044,0.5,0.0,False,0.0017804631497710943,0.0005346439429558814,0.0009420023416168988
+they had to do an exercise or training on how to avoid getting killed by a sniper or killer who comes through their school and killed them one by one,0.36805952,0.9992399042093922,0.6,0.373,False,0.29433465003967285,0.38340994715690613,0.4804461896419525
+"well back in my day where they learn how to get on their desk in case russia drops an atomic bomb on us, and we have fire drills too, in case of fire breaks out, things like that, but man, that's really scary",0.20522906,0.0045413510529068,0.625,0.203,False,0.0031321696005761623,0.00146936671808362,0.16305327415466309
+"worried about somebody coming to your school to kill you, or at least assault our other students",0.5810591,0.991777744330874,0.60625,0.433,False,0.7868290543556213,0.7708186507225037,0.8807320594787598
+and maybe you might be one of the unlucky ones they get killed,0.45811868,0.9938470479713044,0.6,0.273,False,0.9272946715354919,0.5909328460693359,0.6364068984985352
+"man, that's very scary to me",0.09494796,0.8544701637888256,0.825,0.411,False,0.0009020769502967596,0.003307404462248087,0.010744089260697365
+no scary moment and young ladies have been going through this since eons,0.043031808,0.0035855312668114,0.4125,0.0,False,0.0014186038170009851,0.001883406308479607,0.001004631631076336
+"you know all the kid you know, kid in high school, you know, he tries to trick her into having sex and things like that",0.56268007,0.8759642171114691,0.485,0.045,False,0.6061416864395142,0.6188006401062012,0.7954657077789307
+"well, men and women been doing it for a long time, but it's still a little scary today",0.049898956,0.9016585425462,0.6229166666666667,0.18,False,0.0006371204508468509,0.004622963722795248,0.005070236977189779
+how older men or young men still want to try to take advantage of a younger lady,0.19789414,0.9987231892848042,0.4555555555555555,0.0,False,0.0019591685850173235,0.003806753782555461,0.013577545061707497
+"now all the kids in the cast's are real middle schoolers and i really enjoyed that because a lot of times was nice to see these type of films and say hey, wait a minute",0.10699297,0.0008248900598616,0.3166666666666666,0.0,False,0.0022000784520059824,0.000603265652898699,0.0007048370898701251
+"that person who looked like they 13, they look like 21 and look like they're happy to have this role",0.13700475,0.0011737180853204,0.0999999999999999,0.0,False,0.0019577108323574066,0.00044853234430775046,0.0006260918453335762
+"there are all middle schoolers and i really enjoy these young actors because you can see there's a vast difference between a 16 year old and a 13 year old, because again, kayla had a session where she went to a high school and she had the buddy up with a high schooler and you can see the difference in their ages, their discussions and things like that",0.10461388,0.0001228527957058,0.43625,0.0,False,0.0013137963833287358,0.0006304828566499054,0.000295226345770061
+"i like that, but this is focusing on kayla's life",0.022945397,0.0409487263932332,0.5,0.0,False,0.0006606168462894857,0.0004721769946627319,0.0005972135695628822
+"other actors in this film too is daniel's o'hara as riley, frank dill as officer todd and greg crowe as principal mcdaniels",0.01193956,0.0014641299342668,0.5625,0.0,False,0.0008114904630929232,0.00933243427425623,0.00046545968507416546
+"he also got em, emily robinson as olivia, and like i said the director, he did a great job on this, and this is really a good film to watch",0.031701013,0.0004969249545858,0.125,0.0,False,0.0006046321359463036,0.0006288529257290065,0.0005154938553459942
+"i'm glad to see this film to learn a little bit more about our generation and to learn who they are, angela",0.020269485,0.0009148092458501,0.3645833333333333,0.0,False,0.0007599069504067302,0.0006444562459364533,0.0005491087795235217
+"hey, they're really dependent on these phones and things like that because they really don't talk to each other or other people in real life face-to-face if it's not on the phone, they don't know how to communicate properly, and because of that, i'm giving this three palm trees out of four, three stars out of out of four stars",0.12180476,0.999773935357732,0.4708333333333333,0.0,False,0.0006190304411575198,0.0007190737524069846,0.0013597607612609863
+because it's entertaining and it was a joy to watch,0.025863936,0.0024950562330209,0.175,0.0,False,0.0006353544304147363,0.0003455403493717313,0.0011334782466292381
+"i really enjoyed watching this film and for a first-time director man, he did very well",0.027752401,0.0002938393286908,0.325,0.0,False,0.0005635694833472371,0.0010304433526471257,0.0008920832769945264
+he really did,0.027065687,0.0053494315599354,0.4,0.0,False,0.0024512549862265587,0.0003521628677845001,0.001392288482747972
+both did a very good job with this film and i hope i did a very good job with my review,0.034104515,0.0016926087144417,0.045,0.0,False,0.0005780727369710803,0.00046182371443137527,0.0003730323805939406
+and i'm glad out you watch me,0.12180476,0.000526609909589,0.25,0.0,False,0.011054515838623047,0.0026099898386746645,0.0017660006415098906
+"please subscribe to my channel and i really appreciate it that you watch me, alma, get your entertainment ticket at wwe ticket com",0.01999182,0.1842982682286039,0.4,0.0,False,0.0008093983633443713,0.0006125178770162165,0.0013443968491628766
+i really appreciate you are watching widely ticket,0.027065687,0.0059349643169554,0.475,0.0,False,0.0005943417199887335,0.00045449179015122354,0.0005787014379166067
+"not coming with aladeen, news reviews and interviews",0.026722329,0.9883970571360874,0.5,0.0,False,0.0007057162583805621,0.0007590764435008168,0.0017520054243505
+"this is why each exact car, yie t",0.034791227,0.998928033356829,0.375,0.0,False,0.021659020334482193,0.0009022343438118696,0.0021535493433475494
+"com your entertainment, chicken entertainment",0.28948012,0.9990996755815912,0.8,0.0,False,0.03826093673706055,0.0019050192786380649,0.05484583228826523
