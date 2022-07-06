@@ -4,10 +4,13 @@
 00_bad_words_scored: "/home/guilherme/Desktop/dissertation/data/noswearing_scored.csv"
 
 01_youtube_raw: "/home/guilherme/Desktop/dissertation/data/01_raw/youtube/"
+01_coraal_raw: "/home/guilherme/Desktop/dissertation/data/01_raw/coraal/"
 
 02_youtube_preprocessed: "/home/guilherme/Desktop/dissertation/data/02_preprocessed/youtube/"
+02_coraal_preprocessed: "/home/guilherme/Desktop/dissertation/data/02_preprocessed/coraal/"
 
 03_youtube_segmented: "/home/guilherme/Desktop/dissertation/data/03_segmented/youtube/"
+03_coraal_segmented: "/home/guilherme/Desktop/dissertation/data/03_segmented/coraal/"
 
 04_youtube_scored: "/home/guilherme/Desktop/dissertation/data/04_scored/youtube/"
 
