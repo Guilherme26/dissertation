@@ -16,6 +16,11 @@ buckeye_original_metadata: "/home/luiznery/locus/dissertation/data/00_raw/buckey
 buckeye_senteces: "/home/luiznery/locus/dissertation/data/00_raw/buckeye/sentences/"
 buckeye_scored: "/home/luiznery/locus/dissertation/data/03_scored/buckeye/"
 
+interview_original: "/home/luiznery/locus/dissertation/data/00_raw/interview/sentences/original/"
+interview_classifications: "/home/luiznery/locus/dissertation/data/00_raw/interview/sentences/classifications/"
+interview_sentences: "/home/luiznery/locus/dissertation/data/00_raw/interview/sentences/"
+interview_scored: "/home/luiznery/locus/dissertation/data/03_scored/interview/"
+
 raw_data: "/home/luiznery/locus/dissertation/data/00_raw/"
 preprocessed_data: "/home/luiznery/locus/dissertation/data/01_preprocessed/with_inputation/"
 inputation_schema: "/home/luiznery/locus/dissertation/data/01_preprocessed/"
