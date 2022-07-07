@@ -1,3 +1,4 @@
 notebooks/.ipynb_checkpoints
 credentials.yaml
-
+config/filepaths.yaml
+data/
