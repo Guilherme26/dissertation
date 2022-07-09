@@ -6,17 +6,24 @@
 01_youtube_raw: "/home/guilherme/Desktop/dissertation/data/01_raw/youtube/"
 01_coraal_raw: "/home/guilherme/Desktop/dissertation/data/01_raw/coraal/"
 01_buckeye_raw: "/home/guilherme/Desktop/dissertation/data/01_raw/buckeye/"
+01_twitter_raw: "/home/guilherme/Desktop/dissertation/data/01_raw/twitter/"
 
 02_youtube_preprocessed: "/home/guilherme/Desktop/dissertation/data/02_preprocessed/youtube/"
 02_coraal_preprocessed: "/home/guilherme/Desktop/dissertation/data/02_preprocessed/coraal/"
 02_buckeye_preprocessed: "/home/guilherme/Desktop/dissertation/data/02_preprocessed/buckeye/"
+02_twitter_preprocessed: "/home/guilherme/Desktop/dissertation/data/02_preprocessed/twitter/"
 
 03_youtube_segmented: "/home/guilherme/Desktop/dissertation/data/03_segmented/youtube/"
 03_coraal_segmented: "/home/guilherme/Desktop/dissertation/data/03_segmented/coraal/"
 03_buckeye_segmented: "/home/guilherme/Desktop/dissertation/data/03_segmented/buckeye/"
+03_twitter_segmented: "/home/guilherme/Desktop/dissertation/data/03_segmented/twitter/"
 
 04_youtube_scored: "/home/guilherme/Desktop/dissertation/data/04_scored/youtube/"
 04_coraal_scored: "/home/guilherme/Desktop/dissertation/data/04_scored/coraal/"
 04_buckeye_scored: "/home/guilherme/Desktop/dissertation/data/04_scored/buckeye/"
+04_twitter_scored: "/home/guilherme/Desktop/dissertation/data/04_scored/twitter/"
 
-imgs: "/home/guilherme/Desktop/dissertation/data/imgs/"
+youtube_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/youtube"
+coraal_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/coraal"
+buckeye_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/buckeye"
+twitter_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/twitter"
