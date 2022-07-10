@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+last night was such a good night for vine,0.036851373,0.0,0.0,0.0,0.0099496748298406,0.0019560020882636,0.002572035882622,False

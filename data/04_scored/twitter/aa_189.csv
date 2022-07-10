@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user nigga u love me , dnt stunt on hea nw lol",0.5026305,0.0,0.0,0.0,0.9687239527702332,0.805783212184906,0.8357393145561218,True

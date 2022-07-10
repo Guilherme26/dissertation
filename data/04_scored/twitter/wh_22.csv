@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i need coffee to be able to stay awake for tonight series of events . mmmmz,0.0495556,0.0,0.0,0.0,0.000611102906987,0.0007488424889743,0.0006873082602396,False

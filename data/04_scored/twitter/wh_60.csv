@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+#tweetliketheoppositegender oh damn . i love it when all these bitches wear yoga pants . #bigoleboner,0.83020335,0.0,0.0,0.277,0.9734989404678344,0.993100881576538,0.9865581393241882,True

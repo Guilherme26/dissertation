@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i have to ask my mom for money to buy people gifts since i'm so broke  #happyholidays,0.2015616,0.0,0.0,0.184,0.010228669270873,0.001230527064763,0.0009320807876065,False

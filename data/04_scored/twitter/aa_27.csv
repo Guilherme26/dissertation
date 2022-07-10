@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+me and my cousin gonna go ova my pooh house whenever he get ready,0.17661177,0.0,0.0,0.0,0.1294268667697906,0.0582021623849868,0.0706381127238273,False

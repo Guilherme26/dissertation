@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+shania twain is playing on the radio right now . #lovingit,0.035134587,0.0,0.0,0.0,0.0012168149696663,0.0006655532633885,0.0005972895305603,False

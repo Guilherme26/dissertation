@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"watching monster-in-law before bed , great movie line up for the night #nightinwithnitro ",0.04268845,0.0,0.0,0.0,0.0028099769260734,0.0010083911474794,0.0006887032068334,False

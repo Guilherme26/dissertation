@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user i shall . i do have to pass by there to leave lol,0.08555053,0.0,0.0,0.075,0.0018246918916702,0.0017037440557032,0.0007536113262176,False

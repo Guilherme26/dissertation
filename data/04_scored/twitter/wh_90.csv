@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+that first bowl of lucky charms is always magical . no pun intended .,0.034791227,0.0,0.0,0.116,0.0007106426055543,0.0007879774784669,0.0005322990473359,False

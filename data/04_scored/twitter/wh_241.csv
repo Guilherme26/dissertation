@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user kelly clarkson is my girl . back off .,0.26132804,0.0,0.0,0.0,0.2257203459739685,0.0198320429772138,0.0046669696457684,False

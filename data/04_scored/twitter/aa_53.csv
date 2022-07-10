@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user lmaooooooooooooooooooooooo , that was the funniest shit ever to hit twitter dawg :d swearrr .. but yall do yall thang",0.7699882,0.0,0.0,0.092,0.9522647857666016,0.9671653509140016,0.930164635181427,True

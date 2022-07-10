@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+who's trying to hang and watch movies tonight ?,0.043031808,0.0,0.0,0.0,0.002478837268427,0.0187685508280992,0.1073821112513542,False

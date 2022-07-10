@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+this girl laughed at every sentence this kid said and not a single one was even close to bein funny,0.17587385,0.0,0.0,0.0,0.008391254581511,0.0044199055992066,0.0045310701243579,False

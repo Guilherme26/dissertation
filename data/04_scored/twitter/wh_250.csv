@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+olivia never breaks down #holyshit #scandal,0.6710289,0.0,0.0,0.367,0.5500360131263733,0.9138659834861756,0.5466707944869995,False

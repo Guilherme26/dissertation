@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+""" @user : 6 need to hurry up "" thats along tyme my boy",0.10031791,0.0,0.0,0.0,0.0022580116055905,0.0065154209733009,0.0012435053940862,False

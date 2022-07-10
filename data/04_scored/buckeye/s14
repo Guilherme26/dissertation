@@ -1,0 +1,512 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"text on the issues, but i think it does mean a lot to other people, so i can't really answer that question",0.020824814,0.9990267043522671,0.5395833333333333,0.0,0.0005903381388634,0.0003833051014225,0.0002899650426115,False
+"how they would have voted uh, because i didn't think that mike coleman exactly had charisma either, his youth, um-hum, right, and uh, and that's really an important issue right now",0.06332459,0.9486275088829322,0.3473214285714285,0.0,0.0006903042667545,0.0007915229070931,0.0012124648783355,False
+i,0.018187003,0.1365806862568842,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i,0.018187003,0.1365806862568842,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+"i saw that the first time in nineteen ninety two, because i, uh, uh, uh, i haven't said it yet, but yknow anyone who listening to this tape or you would be able to know i'm a democrat and generally vote democratic",0.082104236,0.9171660310758374,0.3666666666666667,0.0,0.0009727973956614,0.000438692222815,0.0005857822252437,False
+"although i'll tell you i, i did vote for greg, greg lashuka once, and if he had run again, i would have voted for him because i like his style and he hasn't been bad for the city, but um, i'm generally a democrat",0.020963646,0.9846910394330184,0.6625,0.0,0.000904694548808,0.0005520754493772,0.0006893700920045,False
+"uh, and i've only voted for two people who won the presidential election, and i knew in ninety two early on that clinton was gonna win just by being out with people, and i was at a restaurant one time with my girlfriend and a waiter came up, and um, he said something about yknow, and i can't remember how we got started on the topic",0.05773066,0.9999451597258748,0.35,0.0,0.0005926263984292,0.0008606984629295,0.0009544183849357,False
+"yknow, just taking my my order for a restaurant, but he said something about um, uh, dole was too old and this was a young guy",0.13565879,0.938448855960351,0.45,0.0,0.0024762023240327,0.0035050886217504,0.0434397533535957,False
+he was in college and i knew there was,0.031529333,0.0049386051209371,0.5,0.0,0.0008293197024613,0.000380253943149,0.0006906217895448,False
+"there was a sort, a sort, a sort of a shift",0.031701013,0.0225752670840567,0.5,0.0,0.000752167426981,0.000340935861459,0.0004415664006955,False
+"people wanted someone with younger ideas, and um, a new vision",0.058130227,0.126268062121155,0.4659090909090909,0.0,0.0005664401105605,0.0008315959130413,0.0004666845779865,False
+they didn't want the world war two vision anymore,0.07211506,0.9915974566511476,0.5,0.39,0.002263257978484,0.0005581286968663,0.0003873374662362,False
+"uh, and i thought that was was was kind of interesting because by and large most young people also supported reagan, and i thought, do they really understand the difference in issues and what the two stand for? but it was that reagan appeared young and charismatic, and so did clinton",0.04131502,0.983633933540264,0.3303571428571428,0.0,0.0006065102643333,0.0004934779717586,0.0005619683652184,False
+"so i think, for the average voter, that does have a a lot of sway",0.090114996,0.9000652539653095,0.575,0.0,0.0006551119731739,0.0004093920288141,0.0032879998907446,False
+i'm not sure yet,0.017354012,0.925848349236218,0.625,0.395,0.0007963022217154,0.0004374152922537,0.0002302758512087,False
+"um, at least based on money raised",0.014299706,0.997957527638306,0.65,0.0,0.0006030411459505,0.0004859896434936,0.0004038272891193,False
+"it looks like george w could trample almost anybody, but george w hasn't gotten out there in the fray yet and given too many answers to issues",0.15001574,0.98654273321065,0.25,0.0,0.0024461487773805,0.0006387060857377,0.0020779902115464,False
+he talks about compassionate conservativism and i don't know what that means,0.04131502,0.1802999786838238,0.5,0.0,0.000633192656096,0.0004788317019119,0.0009356777300126,False
+yknow,0.02054715,0.8117281529461864,0.5,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
+"i, i want answers to specific questions as to what does compassionate conservative mean, but i don't think that i'm uh, average in that i don't go for the",0.03444787,0.995598918978979,0.5770833333333334,0.0,0.0006301128305494,0.0005117622786201,0.0006161274504847,False
+the,0.018464668,0.1118570216294809,0.5,0.0,0.0010459148325026,0.0009436196414753,0.0006807937170378,False
+the slick image just bothers me,0.19862764,0.99957975659502,0.625,0.265,0.0027969635557383,0.000470799015602,0.0017819257918745,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+he has the potential of trampling of trampling gore,0.22979778,0.9841377487542912,0.5,0.0,0.117897555232048,0.1315867155790329,0.0211420990526676,False
+i think that gore will be the the nominee,0.02929751,0.9950660443805648,0.5,0.0,0.0455537661910057,0.0007148920558393,0.0005601813900284,False
+no matter what bradley does,0.04543531,0.9919784773383296,0.5,0.212,0.0037439849693328,0.0005548074259422,0.0004360836173873,False
+gore has it sewn up because he's the insider,0.11536485,0.9997632330773644,0.5,0.0,0.0675452500581741,0.0083125662058591,0.0387295298278331,False
+um at,0.012811388,0.1554694649353671,0.5,0.0,0.000828675518278,0.0007725787581875,0.001758815604262,False
+"yeah, i think",0.022945397,0.0246685263083101,0.5,0.0,0.0007228998001664,0.0003985501534771,0.0003563461941666,False
+"uh, i think they're both boring",0.355017,0.9997372137516518,1.0,0.315,0.0514268055558204,0.3351889848709106,0.1060684919357299,False
+if you look at the the image thing,0.019714156,0.9919489708864908,0.5,0.0,0.0006812461069785,0.0003877279523294,0.0003347122692503,False
+they're both fairly wooden,0.13745339,0.9999653075657166,0.5,0.0,0.0010872865095734,0.0006592774298042,0.0153255127370357,False
+neither one of them seems comfortable in front of a camera,0.15159425,0.9999013173110716,0.3,0.0,0.001622213050723,0.0004694089875556,0.0006789843318983,False
+"uh, it's interesting on on bradley",0.028439116,0.0075100178874668,0.25,0.0,0.000622900435701,0.0003453294048085,0.0003794661315623,False
+my boyfriend is is big in sports,0.05852979,0.0023115473588685,0.5,0.0,0.0097270933911204,0.0029954323545098,0.0089967688545584,False
+he's he's not as liberal as i am,0.0813051,0.99558920271302,0.5,0.0,0.0825200378894805,0.013990786857903,0.0123200574889779,False
+he's a little bit on the conservative side,0.10828095,0.901715201104054,0.59375,0.0,0.0068178852088749,0.0007355107809416,0.0011435007909312,False
+"um, and he, but he would support bradley simply because he was a basketball",0.04268845,0.0309231787902617,0.5,0.0,0.0007802615291438,0.0013521596556529,0.0130360275506973,False
+"a, a former uh basketball player, and i'm about ready to say to him at some point in time yknow, if he becomes president, he's you're gonna hate him because he has all of these big government things and you're against big government",0.24418297,0.1691673732319376,0.56,0.078,0.0356030613183975,0.0080021386966109,0.0205654520541429,False
+"um, so i don't think people always always see that, but um between gore and bradley, i don't see much difference",0.027580723,0.9993939255574276,0.4,0.0,0.000683800142724,0.0004241175483912,0.0005049266037531,False
+"quite frankly, bradley's the more liberal um",0.064523295,0.9131460005464952,0.25,0.0,0.0049852966330945,0.0006846999749541,0.0046510533429682,False
+"gore, i think understands the need to compromise, but i think gore will be the the candidate",0.031185975,0.9991988253213282,0.5,0.0,0.0008142324513755,0.0005823933170177,0.0005736114108003,False
+i don't think bradley will be able to go past all of the work that gore's been doing for eight years as vice president,0.03358948,0.9959198239961012,0.4375,0.0,0.0009692822932265,0.0005611138767562,0.0005307902465574,False
+well see that's not proved out by the the approval ratings,0.01596569,0.0948989484496654,0.5,0.0,0.0006738571100868,0.0003568309766706,0.0002727931423578,False
+he still has higher approval rating than reagan had in his last eighteen months,0.00999591,0.0039966041948517,0.4375,0.0,0.0011449672747403,0.0004247904289513,0.0005546768079511,False
+so yknow people still like what he what he's done,0.040628307,0.9283751148665308,0.5,0.0,0.0019419997697696,0.0005805803812108,0.0007396018481813,False
+"i think that that, um, that yknow people don't like all the crap that went with him as the on tv yknow say that and they're they're still trying to get him",0.57027644,0.9997763768604564,0.9,0.136,0.6199803352355957,0.8937865495681763,0.8644861578941345,False
+"i mean, before he was even elected, they were trying to get him, which is what they would have done, elizabeth dole",0.077709,0.9974249212803632,0.65625,0.0,0.0009482630412094,0.0005659924354404,0.0105587802827358,False
+"they wouldn't have been able to attack on the issues, so they'd find other things to get get her on",0.09655894,0.9936739955526922,0.40625,0.14,0.0012071190867573,0.0007497578626498,0.0013656931696459,False
+so they start bringing out all these women and all that stuff on,0.22990009,0.2470969227930008,0.5,0.0,0.605633020401001,0.0173208266496658,0.041696224361658,False
+and most people didn't care about it,0.0813051,0.9999787791982734,0.25,0.325,0.0068595437332987,0.0008248140802606,0.0007298085256479,False
+they didn't care about it before the election,0.0495556,0.9990209818888802,0.5,0.273,0.0029519025702029,0.0006929156952537,0.0005983365117572,False
+they didn't care about it during his campaign,0.10515087,0.9998278492264422,0.5,0.273,0.0019699363037943,0.0007309654029086,0.0005369159625843,False
+they didn't care about it during his presidency,0.08330294,0.9998658499598712,0.5,0.273,0.0020232410170137,0.0011285153450444,0.0007027725805528,False
+it republican right wing,0.05613239,0.925717477690738,0.3571428571428571,0.0,0.0049923313781619,0.0014938490930944,0.0018534103874117,False
+i don't know what,0.019297661,0.9935134685328892,0.5,0.0,0.0011281977640464,0.0020725599024444,0.0005868800799362,False
+who were just trying to make an issue out of nothing,0.06532243,0.9983542552953052,0.5,0.0,0.0022705367300659,0.0008039239328354,0.0011796593898907,False
+"it was not watergate yknow, he may have been a yknow",0.048868883,0.9993874281771236,0.5,0.0,0.0087926341220736,0.0006284682895056,0.0022347250487655,False
+"he may have yknow, but she was twenty-one it's not like it was someone who couldn't make up her own mind what she wanted to do",0.053335425,0.9981122427812316,0.2,0.096,0.0038205236196517,0.0039147343486547,0.0010619041277095,False
+"yknow, and he may have been stupid and a cad",0.7969615,0.0943607984553163,0.8999999999999999,0.274,0.9476392865180968,0.9939044117927552,0.9919283390045166,True
+"uh, but i don't wanna know about it on day one when it hit the the news, i didn't want to know about it, and on the end when he was yknow, not impeached, i didn't wanna know about it, and in between i didn't wanna know about it, and they just kept angering me because there were other things i wanted the government to do, and this congress is the worst i've ever seen in not getting anything done and not really being able to be on the of of where america is on such issues as gun control and women's rights, and and things that are important to people yknow, they",0.3093897,0.9999960658064214,0.5270833333333333,0.115,0.0094515047967433,0.0029454510658979,0.0015828951727598,False
+"they've tried to make pseudo issues out of clinton, and then they tried to make a pseudo issue out of yknow, giving a tax cut",0.11600884,0.9998617369393118,0.5,0.076,0.0019951511640101,0.0007930203573778,0.0005604980979114,False
+"people don't want a tax cut when it's going to affect their social security or affect yknow, uh, the the, the deficit yknow to get a a four or five dollar a tax cut when they're giving a four or five thousand dollar a year to someone who's making two hundred three hundred thousand dollars",0.020963646,0.9918505564380335,0.4833333333333333,0.131,0.0063554653897881,0.00052909104852,0.0006979951867833,False
+i don't care if i get five dollars that won't even buy me a tank of gas today,0.26132804,0.9997463637321716,0.5,0.134,0.0622977912425994,0.0020057410001754,0.0020069573074579,False
+keep the money and do something good with it,0.070516795,0.0460781097177442,0.15,0.0,0.0011036489158868,0.0006477355491369,0.0008702948107384,False
+"so um, i don't know, um-hum, yknow, even republicans are like that",0.10515087,0.9981638939741984,0.5,0.0,0.0479996837675571,0.0742473304271698,0.0086956322193145,False
+"uh, i have a friend in new jersey or two friends, uh, a married couple",0.10461388,0.0254573917298005,0.4034090909090909,0.0,0.0006317592342384,0.0012845118762925,0.000199736750801,False
+"she's a democrat, a lifelong democrat",0.030842619,0.0054878423880984,0.55,0.0,0.0134360389783978,0.0020447564311325,0.0016347101191058,False
+he's been a lifelong republican,0.030155903,0.0018187001996662,0.55,0.0,0.0011034738272428,0.000813053571619,0.0011143846204504,False
+"uh, and there's always interesting discussions when um, when i go to visit and i went to visit them few weeks before clinton was formally impeached last year, and i just decided i wasn't gonna bring it up",0.04131502,0.999900661612142,0.45,0.0,0.0005907292943447,0.0004886348033323,0.0005631640669889,False
+"uh, and i'd been there three four days, and finally at breakfast one morning henry said well, you haven't talked about clinton and the impeachment yet and i said henry because he's the republican",0.040971663,0.9684627591620216,0.5,0.0,0.0010913538280874,0.0007470438140444,0.0005546403117477,False
+i said i don't even wanna go there,0.057331093,0.9990961786343244,0.5,0.0,0.0011667596409097,0.0207299645990133,0.0011987768812105,False
+"let i said, i don't even think we",0.031185975,0.9988460891016162,0.5,0.0,0.0008119348203763,0.0033583478070795,0.0007299013668671,False
+we wanna get involved in that conversation,0.027065687,0.8189433745557342,0.5,0.0,0.0006400098209269,0.0006104503409005,0.0004822195624001,False
+he says,0.024318827,0.0808511651650763,0.5,0.0,0.0012473678216338,0.0006097290315665,0.0007870597182773,False
+"well, he says, i can understand you saying that, but i thought you'd yknow",0.027065687,0.995127531057478,0.5,0.0,0.0011135345557704,0.0009816398378461,0.0006043129833415,False
+i wanna tell you where i am,0.1609341,0.0002097342440315,0.5,0.0,0.001479766680859,0.0010963712120428,0.0013258676044642,False
+"he said, when this whole thing started, i sat down and wrote every one of my um, new jersey representatives, all of my senators, and all of the congress people in new jersey, and told them that i will never ever in my life vote republican again because of the way this has has played out",0.08447654,0.9990884592696516,0.4603535353535353,0.0,0.0007936349720694,0.0005823302781209,0.0004856765735894,False
+"i mean, and this was a republican",0.05773066,0.985875410527139,0.65625,0.0,0.0010155254276469,0.0009832915384322,0.002747356891632,False
+a lifelong republican,0.040284947,0.0016978131606166,0.55,0.0,0.00276186526753,0.0010593064362183,0.0007387927616946,False
+"he says, i will always now vote democrat, because this was just so stupid and such a waste of my my time",0.6611312,0.999993502619696,0.6666666666666666,0.264,0.5079294443130493,0.9919590950012208,0.9912567138671876,True
+"the country's time, the country's money",0.02054715,0.000398933189763,0.5,0.0,0.0007628382300026,0.0009950986132025,0.0006870757206343,False
+"uh, when there are better things to be dealing with, and a lot of republicans felt that way, you to be really extreme, right wing to feel other than that, except here in central ohio, um-hum right, um-hum right, right doesn't even right",0.15188612,0.9996789757648908,0.4067460317460317,0.0,0.0154906837269663,0.0006854119710624,0.0020311996340751,False
+i know i wouldn't,0.017770508,0.978780122212743,0.5,0.0,0.0012602251954376,0.0010112971067428,0.0003951165417674,False
+i,0.018187003,0.1365806862568842,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i,0.018187003,0.1365806862568842,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+there generally tends be at least one or two republicans,0.031701013,0.8940014992854074,0.5625,0.0,0.0015123377088457,0.0035421028733253,0.0009032729431055,False
+i vote for each each election,0.022773718,0.0011033922762957,0.5,0.0,0.0007436564774252,0.0004551046004053,0.0003460357838775,False
+"now sometimes i voted straight democrat, because i yknow, i even voted for dorothy teater the first time she ran for county commissioner, uh, because i liked her style and i thought she was nice, and and i liked what she was saying, but then her votes later on, and her positions on some of the issues were against mine, so i didn't",0.0334178,0.9983976804471532,0.3125,0.0,0.0009267662535421,0.0004401140904519,0.0004153399204369,False
+"i didn't vote for her after that, but the first time she ran for county commissioner, i did it one because she was a woman and i like yknow, i",0.019852988,0.0526489879108192,0.375,0.0,0.0008280463516712,0.0034599690698087,0.0045155398547649,False
+i,0.018187003,0.1365806862568842,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+"when possible, i like to vote for women and you register them, and then you just keep after them",0.2145095,0.0058396546684094,0.5,0.0,0.3655877113342285,0.0083593036979436,0.008669844828546,False
+"you keep giving them information, and then you just run a good get out the vote campaign",0.060527626,0.9070838553094208,0.15,0.0,0.0010703217703849,0.0005044895806349,0.0005628592916764,False
+"uh, in ohio, i think it's easier to do that because there is a law that i don't think it's in primaries, but in general elections at eleven o'clock in the morning and four o'clock in the afternoon, they hafta list those who have voted",0.02809576,0.1435554451861922,0.475,0.0,0.0006605752860195,0.0003866844344884,0.0004354947886895,False
+they hafta put up a list of uh registered voters and cross out those who have voted,0.043718524,0.005538122574212,0.5,0.0,0.004942066501826,0.0005509817274287,0.0030008542817085,False
+"so what i useta do is, i took my list that i had gotten from the board of elections earlier, and compared it with my list of who had shown support or were was undecided on the election, and i would cross off those that had voted, and then i had a list of those that hadn't and i had people waiting at a phone bank, and i'd call them at work or at home, and and i'd offer to take them to the polls if you don't have a ride",0.0253489,0.0120118679121926,0.5,0.02,0.00163675181102,0.0004564529226627,0.0008402838138863,False
+"uh, we will take you to the polls if you're worried about yknow",0.05493369,0.9774401716452892,0.5,0.155,0.0013142769457772,0.0021051231306046,0.0022899680770933,False
+someone watching your kids,0.21109697,0.013180979103948,0.5,0.0,0.0233314037322998,0.0012722192332148,0.0015702621312811,False
+"we have certified teachers who will sit in the car with your kid or will sit in your home and will babysit for you while you go to vote, because i've also read studies that say people who are routed from their home or their office yknow and are reminded to go vote, will also vote for whatever issue or candidate has reminded them to do that, because what i did was is a very low key thing",0.034104515,0.0059848323723568,0.5,0.03,0.0113796452060341,0.0007934130262583,0.0006952082039788,False
+i would call people on election day and say hi,0.043031808,0.145892922457283,0.5,0.0,0.0007707025506533,0.0005659414455294,0.0009392035426571,False
+this is roberta,0.02124131,0.0028396234332968,0.5,0.0,0.0013581403763964,0.0004379679157864,0.000821175344754,False
+"i'm calling to remind you that today is election day, and we hope that you will remember to exercise your most important freedom, which is to go vote, and oh, by the way, oh, when you go to vote, we hope that you will vote for such and such a school levy",0.05493369,0.0864268414052653,0.3875,0.0,0.0009980943286791,0.0005329620908014,0.001060310518369,False
+"and and if you need a ride, let me know we've got them set up for you",0.06372416,0.0028688020356709,0.5,0.0,0.0031475080177187,0.0014316167216748,0.0083850668743252,False
+"and but yknow, that's very",0.030670939,0.7757310864239801,0.4,0.0,0.0015920359874144,0.0003736579092219,0.0013364669866859,False
+i mean,0.021796638,0.2490353178518444,0.65625,0.0,0.0009314602357335,0.0006264690891839,0.0005888433079235,False
+and and and that's not getting people to vote and encourage them to vote because they should,0.038053125,0.9992390613920178,0.5,0.0,0.0010543956886976,0.0007004614453762,0.0007602006662636,False
+that's a a special campaign for a particular issue or a candidate,0.027237365,0.0604608061329547,0.369047619047619,0.0,0.0008289475226774,0.0005352565785869,0.0004707277112174,False
+i don't know how you get people to vote,0.10956893,0.9862083565609712,0.5,0.0,0.0011588626075536,0.0013434131396934,0.0009519223240204,False
+i don't know why they don't think it's important,0.043375164,0.987198640771884,0.3,0.166,0.0009341032709926,0.0013513440499082,0.0008186713093891,False
+maybe because we've had it too easy,0.02929751,0.9976626717513932,0.2833333333333333,0.0,0.0006653020973317,0.0003506417560856,0.000598523300141,False
+"my my grandfather didn't my grandfather, didn't i mean, there was a king and queen and yknow, he had no right to vote, so that when he came here and he could, that was the most important thing in the world to him, yknow, and that that he just passed it on to yknow, his daughter, my mother, my father",0.036851373,0.0060161867029979,0.4444196428571428,0.035,0.0009966152720153,0.0021196028683334,0.0019525161478668,False
+i don't know how he,0.016035106,0.9971201106915168,0.5,0.0,0.0010879593901336,0.0039293388836085,0.000780027359724,False
+"it was important to him, but it was always important to him and we talked about politics at the dinner table",0.019019997,0.0172377287733565,0.3,0.0,0.0005522599094547,0.0004352895193733,0.0006463187746703,False
+"sometimes we talked about issues and he said yknow, it was important to to be heard, so i don't know if it was that it got passed on, parent wise, or what it was",0.021796638,0.7705000991893654,0.2249999999999999,0.0,0.0005928523605689,0.0003753439232241,0.0003033193643204,False
+"um-hum, there's no issue, um-hum right, not specifically, no, uh, sometimes um, little groups of",0.08689302,0.2181538057481191,0.4754464285714286,0.136,0.0007394996355287,0.0008699772879481,0.0027307979762554,False
+sometimes you would,0.025863936,0.1318032936591767,0.5,0.0,0.0022464916110038,0.0012368395691737,0.0006704814732074,False
+"if if there was a college in a community when i was running a school levy campaign, um, we would try to get them either registered and and active in a campaign",0.052136723,0.9736926436302544,0.5666666666666667,0.0,0.0005711844423785,0.0004031910793855,0.0003619318013079,False
+"um, but it was very difficult",0.105704986,0.9994585119020084,0.825,0.425,0.0006680733058601,0.0003997533058281,0.000669963133987,False
+it's it's sort of like getting people who live in a trailer park active in voting yknow,0.06012806,0.9983720187754024,0.4992424242424242,0.0,0.020808158442378,0.0011432829778641,0.0019468099344521,False
+there are certain little blocks of people,0.061726328,0.9352704746163446,0.4933035714285714,0.185,0.0041170455515384,0.0007825105567462,0.0131795387715101,False
+"uh, and on school levies the people who voted no, which were senior citizens, i mean they, they went to the polls in droves",0.04543531,0.9919360059303796,0.65625,0.0,0.0010472439462319,0.0009827113244682,0.0020310808904469,False
+"you didn't hafta yknow, the the, the hope, the hope there was that they wouldn't go to vote on the school levy",0.05133759,0.7987076710575446,0.5,0.0,0.0023743314668536,0.0005928537575528,0.0006736475042998,False
+"uh, but actually trying to get college kids involved, i haven't really specifically done that as a whole campaign",0.0471521,0.999623151942371,0.4333333333333333,0.0,0.0007700659916736,0.0003750232572201,0.0003426480107009,False
+"in and of itself, it might be a little pocket of a campaign, but nothing big",0.051737156,0.9631310327281988,0.546875,0.0,0.0007373424596153,0.0004394988354761,0.0004418977769091,False
+"um-hum, if if you didn't own, let's say on a school levy and you didn't uh you? you pay taxes",0.077709,0.9960521559619246,0.2,0.069,0.0487757213413715,0.0017181712901219,0.0030652303248643,False
+"i always get because i rent and i always get very upset and i'm very angry when people say well, you don't hafta pay school taxes",0.092262976,0.9865358781763844,0.6125,0.203,0.0793984159827232,0.0006131270201876,0.0006933103431947,False
+"yes, i do, because every time a school tax passes, my rent goes up",0.01561861,0.0195184880870234,0.5,0.0,0.0091851195320487,0.0004802150360774,0.0005617386195808,False
+it's built into the rent,0.020130653,0.9756527065582768,0.5,0.0,0.0044375997968018,0.0004881146014668,0.0004326590860728,False
+"uh, at least it's it ought to be, or i have a pretty dumb landlord",0.53430706,0.9914235176077814,0.5708333333333333,0.169,0.2786605358123779,0.9707343578338624,0.9692268371582032,False
+"uh, and i don't",0.021380141,0.9801970279909528,0.5,0.0,0.0008667143993079,0.0010143592953681,0.0004846541269216,False
+"i've never lived any place where my rent didn't go up after a school levy passed, and usually in direct f proportion and beyond just yknow, uh, of what the levy was, uh, so that would be the first thing i'd say, and then i'd also say that yknow, uh, because, uh, a lot, a lot",0.052935857,0.003629442598685,0.4125,0.0,0.0012411405332386,0.0003903874021489,0.0006123800994828,False
+a number of reasons that people don't vote for school levies now is because they don't have kids in the schools,0.057331093,0.8828271377334944,0.5,0.0,0.0011680690804496,0.000883100903593,0.0005732509889639,False
+"yknow, but education is the foundation of a democracy, and if you don't have an educated citizenry, uh, your your voters, democracy could go down the drain",0.1019289,0.911082545819049,0.5777777777777778,0.0,0.014851901680231,0.0026712522376328,0.0020682436879724,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"that was why thomas jefferson founded so many schools, or yknow, the the university of virginia and believed in education yknow, because he said, without an educated citizenry, you won't understand the issues yknow, but it's very difficult today to get to people",0.050242316,0.9999482593935428,0.5375,0.081,0.0007382680778391,0.0004772397514898,0.0009214555611833,False
+"um, i've talked to some",0.03461955,0.8255200646256865,0.5,0.0,0.000615588040091,0.000356192671461,0.0004992294707335,False
+i've almost college age students and they don't see the relationship,0.052136723,0.9995586848157773,0.5,0.0,0.0008386791450902,0.0003846210311166,0.0008217882132157,False
+"you can talk logic to them all you want and it's not like the logic gets to them and you can talk history all you want, and it doesn't mean anything to them",0.043375164,0.9989985391027844,0.65625,0.061,0.0010604211129248,0.0008396611083298,0.0004603127017617,False
+"and i don't know why i wish i did, but i don't know why i think the latter",0.02397547,0.786523980221259,0.5,0.0,0.0008411168819293,0.0006279590306803,0.0004639717226382,False
+"i don't think it'll make any difference the kids that i know in uh, junior high and in in yknow college, uh, it just doesn't make any difference to them and they don't like those classes",0.043375164,0.999992727702779,0.42,0.057,0.0014242402976378,0.0004822835035156,0.0006462756427936,False
+they think they're boring,0.25676212,0.9997332795580732,1.0,0.434,0.105127178132534,0.0702502951025962,0.0400275290012359,False
+they think it has no relevance to their life,0.112144895,0.9998885609864382,0.5,0.216,0.0011318727629259,0.0014848348218947,0.0012697816127911,False
+"yeah, it, it might, and yknow, good teachers do that",0.029984225,0.0023489520023614,0.15,0.0,0.0010997488861903,0.0005245821084827,0.001084396848455,False
+i,0.018187003,0.1365806862568842,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i used,0.016729267,0.999200255937175,0.5,0.0,0.0012485992629081,0.0004552783502731,0.0003738629748113,False
+"um, and i was doing some volunteer work at dublin schools",0.021102477,0.0240688896370479,0.5,0.0,0.0005979459965601,0.0004314157413318,0.0003463363100308,False
+it was supposed be one of the better schools in the area and i thought there'd be all sorts of creative things going on and there wasn't it was,0.04131502,0.9999752026586564,0.25,0.0,0.0005907867453061,0.0003542662307154,0.0003357477835379,False
+"still read the chapter, write the answers to the questions at the end of the book and i thought how boring",0.17034957,0.9099547138553714,1.0,0.103,0.0082890065386891,0.0040220082737505,0.0004899168852716,False
+"i mean, there are different ways to get kids turned on to things",0.04783881,0.9385352890010916,0.578125,0.0,0.0083257406949996,0.0004530997539404,0.0005433117039501,False
+"um, i'm not sure there's so much influence from the media",0.033246122,0.987883905762473,0.5125,0.164,0.0006446666666306,0.0004545691190287,0.0003623614611569,False
+"uh, and i say media broad based, so you'd be it print media or tv",0.03204437,0.9762233732586424,0.46875,0.0,0.0006817396497353,0.0005084094009362,0.0005136332474648,False
+"um, that has this culture today of um, stars and yknow media of of phenomenons, and and they don't see the relevance, and i don't think they hear from their parents like i did",0.12051678,0.9993588456646856,0.5,0.0,0.0007853552815504,0.0007228136528283,0.0009525324567221,False
+"the importance of voting, and that's where it comes from",0.01561861,0.0031798119598531,0.5,0.0,0.0005974897067062,0.0005444376729428,0.0007233780343085,False
+their parents don't vote,0.056931525,0.9981128984801614,0.5,0.0,0.0027556768618524,0.0012616129824891,0.000696615956258,False
+"so if their parents don't vote, they aren't uh again",0.043375164,0.9834291766471992,0.5,0.0,0.0014509299071505,0.0013680558186024,0.0013901446945965,False
+i don't know what the the answer is,0.016729267,0.9993056744423816,0.5,0.0,0.0012440561549738,0.000758393201977,0.0004537022614385,False
+"um, but it's very scary",0.08501353,0.025352092442581,0.825,0.542,0.0008106781751848,0.0007433244609273,0.0008587164920754,False
+what's gonna happen in the next couple of generations,0.048525527,0.0004503459467553,0.5,0.0,0.0009516566060483,0.0007038359181024,0.0005150376236997,False
+the only good thought for me is i think about this is that i won't be here to see the disintegration of the democracy,0.09763293,0.99688662226353,0.325,0.0,0.0009245974360965,0.0004497131158132,0.0006351948250085,False
+"although i have great faith, too",0.020408317,0.1454784313201866,0.0999999999999999,0.0,0.0006063801702111,0.0003338950918987,0.0004559106891974,False
+i have great faith in democracy,0.021518974,0.0019586919211692,0.0999999999999999,0.0,0.0008089030161499,0.0003887941129505,0.0005792265292257,False
+"um, there are always good people that somehow come up, and i think if there were an issue, i think kids would get if if there were kids in college that were being drafted and being sent to die in a war that people didn't think was important or had no real relevance to their lives",0.111500904,0.7583342910511641,0.3333333333333333,0.177,0.0016265343874692,0.0022707874886691,0.001175491604954,False
+"i mean, i think the kids would would rally immediately, and the the issue right now is that there's nothing there right",0.050585672,0.9842692163897074,0.4568452380952381,0.0,0.0009675384499132,0.0005043616401962,0.0005627962527796,False
+"the right, um-hum, it",0.035134587,0.0109157777376145,0.3571428571428571,0.0,0.0007937189075164,0.0012595435837283,0.0045957239344716,False
+"it might, uh, it might, um, i was gonna say earlier and i and i forgot to mention",0.055333257,0.9649897901715736,0.5,0.0,0.0006196440663188,0.0004520104557741,0.0006773775094188,False
+it is that one of the best campaigns i've seen in recent years utilizing college age students has been clinton's campaign both times,0.031014297,0.753739003928948,0.25,0.0,0.0006362366839312,0.0004041242063976,0.0005422245012596,False
+"uh, he knew he needed to get a base to increase um",0.0717155,0.9781558074181248,0.9,0.0,0.0008119491394609,0.0005082383868284,0.0007622034754604,False
+"his chances of winning the election, and did especially in the first campaign in and and i believe that was ninety two did a really super job of organizing college students because that's when you're at your most, um, well, when you believe in things and you're at your most idealistic, and you would think that yknow kids would automatically be interested in something, and he was able to tap into that um",0.04165838,0.0001019313790802,0.3229166666666667,0.0,0.0007236966048367,0.0004134796326979,0.0005570419016294,False
+"in addition to that, and as an under current, it wasn't overt in the clinton campaign, but i know when i talked to people, uh, and you have to be careful where you do this because abortion is an a very divisive issue in this country and i think it, it does mobilize people, but it also divides them",0.06532243,0.8237453260588107,0.4833333333333333,0.0,0.0006629179115407,0.0005190965021029,0.0005635888664983,False
+"yknow, definitively definitively, almost like in vietnam, almost like that war divided people, um",0.087430015,0.2397414412214789,0.5,0.191,0.0008258211310021,0.0004924942040815,0.0015182542847469,False
+"but i would tell many many women that they had to vote for clinton because it was the difference between protecting roe versus wade and not, and in protecting choice yknow, i, um, and i, i'm starting to see that now",0.062925026,0.0076644051809276,0.3333333333333333,0.0,0.0007881949422881,0.0023760474286973,0.0035584692377597,False
+"even in in the gore campaign there, i've seen a couple of editorials in the paper about yknow",0.02929751,0.9940810951745804,0.5,0.0,0.0007369722588919,0.0004706763138528,0.0004687682667281,False
+"the next president will again have an opportunity to appoint two to three supreme court justices, and at that, if you want to protect that right, you've gotta vote with the candidate who's gonna put the best justices on the supreme court, and i got a lot of people to vote for clinton that way, both both in ninety two and again in four years later in ninety six",0.03204437,0.023794926702397,0.3392857142857143,0.0,0.0005766034591943,0.0004129490698687,0.0004261089488863,False
+"uh, and i think that's gonna happen again",0.044748597,0.006557883432467,0.5,0.0,0.0009020610596053,0.0006998995086178,0.0004402783233672,False
+"uh, because the the candidates and i'm telling you my politics here and early, but the candidates have pretty well spoken on that issue already",0.025520578,0.021752305318219,0.4125,0.0,0.0005929051549173,0.0004241379792802,0.0005918102106079,False
+"i know which one will protect the right for choice, uh, and um, uh, i think we need to protect that so yes, i think it will, but i don't think it's an issue that if you did overtly and said yknow, support candidate a over candidate b, because they'll protect abortion rights",0.08050597,0.7994594000760133,0.3571428571428571,0.0,0.0007205063011497,0.0006880563450977,0.0005074689397588,False
+that's gonna divide the country and not keep us together,0.09978092,0.9868929360481336,0.5,0.0,0.0054892222397029,0.0014070160686969,0.001225697575137,False
+"um-hum right, um-hum and that's essentially what the supreme court said in their last decision on this two three years ago, what they said was whether we think it's right or wrong",0.0224908,0.2231690382303472,0.4928571428571429,0.084,0.0007314681424759,0.000467866717372,0.0004981874371878,False
+whether we think the previous supreme court was right or wrong,0.01193956,0.977994118022946,0.5634920634920635,0.197,0.0007714619277976,0.0004015401937067,0.0003710301534738,False
+"it's been a part of this fabric of this country for more than ten years, and to reverse it would create too much too many problems for people, yknow, which i thought was a nice way of saying sorry, folks, but yknow, it's too late, right, um-hum um-hum which meant she'd never get the nomination because of who controls the republican party",0.13610743,0.999707677495316,0.4196428571428571,0.045,0.0010910029523074,0.0005122295697219,0.0010792304528877,False
+"okay, yes, pets are okay",0.07690986,0.1008329641549662,0.25,0.0,0.0008215357083827,0.0005575810791924,0.0012702987296506,False
+"i was born in dayton, ohio",0.02054715,0.0628246603837197,0.5,0.0,0.0013015901204198,0.0004508410929702,0.0002380922815063,False
+i lived there almost thirty five years before moving to columbus in nineteen eighty one,0.028267438,0.0010648252574273,0.5,0.0,0.0006878832937218,0.0003341457340866,0.0004708107153419,False
+"uh, lived in uh, north west columbus for eighteen years",0.02124131,0.0028277910480644,0.5,0.0,0.0007910297717899,0.0003996115992777,0.0006801646668463,False
+"uh, moved last january, a little farther west, about five miles further west near hilliard, but still live in the city of columbus",0.028610796,0.1568280731178221,0.4951136363636363,0.0,0.0007197524537332,0.0003810128837358,0.0003850952489301,False
+"uh, so i've been here about eighteen nineteen years",0.026035614,0.0316709438106551,0.5,0.0,0.0006386123714037,0.000407858606195,0.0007956647314131,False
+i like columbus,0.055732824,0.0108592684116682,0.5,0.0,0.0037669702433049,0.0004161138786002,0.0005455825594253,False
+"also, i think it's a great city",0.020685982,0.0042791508245831,0.0999999999999999,0.0,0.0005878233350813,0.0003601706994231,0.0005306716193445,False
+although the last three months i've threatened to move on more than one occasion because of all the traffic congestion and all of the road construction you just can't get anywhere,0.05093802,0.9999814019939924,0.375,0.091,0.0006186641403473,0.0004871491692028,0.000853226520121,False
+it's very frustrating,0.16151784,0.9996232711603582,0.76,0.615,0.0007653583306819,0.0023497741203755,0.0011943118879571,False
+"uh, but other than that columbus is a great city",0.07011723,0.942606106392993,0.33125,0.0,0.000818986503873,0.0003970486286561,0.0007424622308462,False
+"um, i went to",0.02792408,0.9578223451704078,0.5,0.0,0.0008729741675779,0.0004977391217835,0.0007262054714374,False
+this is something different about me,0.026035614,8.935388142769739e-05,0.5,0.0,0.0007218378596007,0.0004196646914351,0.0007211781339719,False
+"most people don't know that, uh, it",0.038053125,0.8314437977795889,0.25,0.0,0.0006813866784796,0.0009005007450468,0.0011496799997985,False
+"it existed in the the twentieth century, but i went to an all girl catholic school for twelve years",0.023632111,0.7646078395840914,0.5,0.0,0.001202935934998,0.0048601729795336,0.0020979484543204,False
+"uh, so there were there were no boys and i wasn't in a classroom with boys until i got to college",0.09172598,0.9410755858729546,0.5,0.099,0.01083704829216,0.0029894232284277,0.0007713413797318,False
+"uh, i went to college at wright state university",0.032731086,0.9563400781307,0.5,0.0,0.0007448969990946,0.0005442106630653,0.0003420282446313,False
+"uh, my parents couldn't afford to send me, so i had to work two years in high school, two years after high school to pay my way through college",0.023117077,0.9108470306852792,0.42,0.048,0.0016358155990019,0.000642227823846,0.0004392431001178,False
+"um taught school for about eight and a half nine years, and during that time got my masters degree in remedial reading",0.017492844,0.7551555520531961,0.5833333333333334,0.0,0.0010034685255959,0.0003741590771824,0.0005425250856205,False
+"um taught for, i think i said this about eight and a half nine years, and my life and career took a whole different turn and became president of my teachers' association or teachers' union, and that led to a job in political action because i'd always been active in politics from high school on",0.010898319,0.015019499293991,0.4885714285714285,0.0,0.0006770261097699,0.0004766628262586,0.000421320204623,False
+uh,0.02124131,0.8297611849123437,0.5,0.0,0.0012679392239078,0.0007949224091134,0.0007840975304134,False
+the first campaign i worked in was for john kennedy,0.049212243,0.1739648242559963,0.375,0.0,0.0006348075694404,0.0004070966679137,0.0003715862112585,False
+"in nineteen sixty, i was a freshman in high school and continued working in campaigns in a volunteer status",0.038224805,0.0054507655940703,0.42,0.0,0.000619123049546,0.0004025278321933,0.000455463072285,False
+"uh, several different campaigns in ohio and in dayton, where i came from, uh, but moved to columbus to take a job as a political action consultant for the largest public employee union, did that for a couple of years till i went out in the field and negotiated labor contracts",0.017284594,0.2348190795513016,0.49,0.0,0.0006079716258682,0.0004396172007545,0.0003686356649268,False
+um did that,0.051737156,0.9838985080584206,0.5,0.0,0.0012284577824175,0.0004539442597888,0.0009013530798256,False
+that's kind of stressful,0.13969667,0.7799866916960857,0.2,0.545,0.0007738361018709,0.0003488413058221,0.0007276033284142,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"um, so i decided to strike off on my own and try some public relations and marketing and did that, and um, i'm never been married",0.15976663,0.98121228837019,0.3583333333333333,0.057,0.0010999747319146,0.001407682779245,0.0020530174952,False
+didn't plan that,0.016798683,0.999921196910442,0.5,0.0,0.0009300550445914,0.0003802485007327,0.0003347965539433,False
+that wasn't a goal in life,0.039254878,0.9995047088720596,0.5,0.0,0.0010926192626357,0.0008945321314968,0.0002773061278276,False
+"it just uh, so i have no kids, but i have a pet and now i'm uh, i call myself semi retired",0.11536485,0.9867019488325935,0.5,0.076,0.0013117339694872,0.0009160378249362,0.0005596607807092,False
+"i get a small, um, yknow, monthly retirement, and then i supplement my income by doing things like this",0.02637897,0.2406706858229307,0.625,0.0,0.0009438983979634,0.0004369843809399,0.0004627032612916,False
+i'm an independent contractor,0.014577369,0.0062560234888047,0.5,0.0,0.0007175553473643,0.0004034319426864,0.0002955843228846,False
+i do training,0.03427619,0.0090449494730326,0.5,0.0,0.0012171204434707,0.0005678777815774,0.0003634445019997,False
+"i do um different things, yknow where people get my opinion, i've done a couple of the um things with uh lawyers looking yknow",0.11472086,0.9938321382127508,0.5,0.0,0.0014616115950047,0.0005690910038538,0.0006634680903516,False
+"they do like mock trials on real issues, and then you listen to all of the stuff and then you pretend yknow, pretend that you're a jury and come up with a decision and i guess they use it in forming their case, going to going into court, so that's fun",0.11021292,0.0037599266857065,0.375,0.097,0.0009895925177261,0.000730070460122,0.0040491078980267,False
+so that's a little bit about me,0.056931525,0.0534407443684999,0.59375,0.0,0.0007614752976223,0.0004720221913885,0.0010823790216818,False
+"uh, lets see my family, my mom and dad, um",0.064523295,0.0066766543522433,0.5,0.0,0.0007408440578728,0.0016323180170729,0.0019702559802681,False
+"well, i'm i'm uh",0.034791227,0.0852296841820143,0.5,0.0,0.0007974686450324,0.0006791425403207,0.0007271292270161,False
+my mother was first generation american,0.025863936,0.0086447346899068,0.4375,0.0,0.002048842376098,0.0018386109732091,0.0008558561676181,False
+"my grandparents came to this country from hungary, and that was a neat experience",0.046465382,0.0009858433408885,0.5,0.0,0.0005658390000462,0.0004308582574594,0.0004621326515916,False
+i liked growing up talking to my grandfather about what life was like as a peasant in hungary,0.11536485,0.030847266736894,0.2,0.0,0.0006704620318487,0.0004891310818493,0.0012903289170935,False
+"uh, and he thought this was the greatest greatest country in the world, and that rubbed off on me",0.18746567,0.1361217566150484,0.0,0.0,0.0975379794836044,0.0005541911814361,0.0683107823133468,False
+i still do,0.021518974,0.0075320434106072,0.5,0.0,0.001973433420062,0.0003187489637639,0.0004285498289391,False
+"also he always voted so yknow, i learned at an early age that it's important to vote um",0.024147147,0.0226428040738216,0.375,0.0,0.0007707804325036,0.0004512310842983,0.0006518886075355,False
+"my mom and dad were both alcoholics, um",0.2712817,0.9041440589623552,0.5,0.0,0.046226967126131,0.0060051181353628,0.1092900782823562,False
+"i have two brothers, no sisters, one older than me, one younger than me",0.12953265,0.7716086476436088,0.4583333333333333,0.145,0.0010677771642804,0.0011568590998649,0.0008342221844941,False
+"um, and i have no children, but i have a pet",0.13969667,0.0031915847360919,0.5,0.138,0.0008816342451609,0.0015325674321502,0.00177486857865,False
+"that is my child, and i always say pets are uh children",0.09655894,0.0008879355688772,0.5,0.0,0.0037868837825953,0.0010948405833914,0.020032538101077,False
+"you raise pets, you spoil",0.355017,0.9658876804423846,0.5,0.0,0.0707973465323448,0.0965451076626777,0.1506847888231277,False
+so my my pet is very spoiled,0.18746567,0.9979536232492242,0.4,0.0,0.0153909726068377,0.0287658981978893,0.0138023989275097,False
+that's right,0.019852988,0.0017436822812028,0.3571428571428571,0.0,0.0008523343130946,0.0003853813395835,0.0007059206836856,False
+it's a parakeet,0.11794081,0.0012703570674091,0.5,0.0,0.0169773492962121,0.0417928583920002,0.0039352914318442,False
+a parakeet,0.062925026,0.0017125961910329,0.5,0.0,0.0446512885391712,0.0241804346442222,0.0006157523603178,False
+"yes, little two and a half three ounce ball of fluff",0.15859914,0.2165352129400157,0.5756944444444444,0.0,0.1903402507305145,0.0062844804488122,0.0778681188821792,False
+"oh yeah, oh, wow, yeah, um-hum i had that with",0.092262976,0.003675490546252,0.45,0.0,0.0007319730357266,0.0005536721437238,0.0020496400538831,False
+uh,0.02124131,0.8297611849123437,0.5,0.0,0.0012679392239078,0.0007949224091134,0.0007840975304134,False
+"the parakeet i had before their lifespan in the wild is about five years, seven years in captivity and he was thirteen",0.03599298,0.9540219141735404,0.45,0.0,0.0026333841960877,0.0010157310171052,0.0012194134760648,False
+"yeah, um-hum right, the hardest",0.08420804,0.0736238727343217,0.3571428571428571,0.0,0.0007242046995088,0.0009904276812449,0.0068759322166442,False
+both both the hardest and easiest thing i think i've ever done was knowing when it was time to take him to the vet to have him euthanized,0.3983115,0.2227584812868294,0.5,0.0,0.0085855750367045,0.1011308059096336,0.1108324900269508,False
+"um-hum yeah, hum, right",0.022351967,0.1762282671570182,0.3571428571428571,0.0,0.0009134963038377,0.0008057568920776,0.0007287219632416,False
+you know you have to,0.02517722,0.001844540698398,0.5,0.0,0.0096370372921228,0.0008226920035667,0.0012711212038993,False
+"you know you don't have a choice, but at the same time you don't right",0.054534122,0.985895498757987,0.4285714285714286,0.0,0.0017473506741225,0.006628755480051,0.0011998764239251,False
+"you don't want them to suffer, but you want to keep them, but it is",0.21036349,0.1890116542735595,0.5,0.2,0.0368610359728336,0.1228080317378044,0.0058096055872738,False
+whoops,0.09279997,0.1637114216554228,0.5,0.0,0.1090311259031295,0.003558289958164,0.0012829938204959,False
+"oops, i hope i didn't move",0.051737156,0.9066913002819744,0.5,0.0,0.0020160912536084,0.0148230260238051,0.0023212798405438,False
+put my hand here,0.067320265,0.0061622585418495,0.5,0.0,0.0431643836200237,0.0025000278837978,0.002371406648308,False
+try to keep it out the line of the wire,0.089577995,0.9995580291168474,0.5,0.0,0.0077266818843781,0.0072298641316592,0.0026186059694737,False
+"yeah, no problem",0.021518974,0.0008208754510612,0.5,0.0,0.0010607752483338,0.0005879586678929,0.0006207807455211,False
+"yes, um-hum um-hum right, right, um-hum me too",0.16477858,0.0109430786566898,0.3571428571428571,0.0,0.0012458978453651,0.0022790126968175,0.0025196655187755,False
+"yeah, i really don't know",0.02193547,0.9688082528890096,0.4,0.0,0.0007921034703031,0.0039066378958523,0.0003796901437453,False
+"i don't understand why they don't because to me it's the most important freedom we have and people v, um, bitch and complain all the time",0.7593913,0.0016087275196602,0.275,0.181,0.8800294399261475,0.9842439889907836,0.9010698795318604,True
+but then when you ask them if they voted they go,0.02262963,0.7759470498078445,0.5,0.0,0.0008367944392375,0.000741233525332,0.0006178516196087,False
+"no, it makes no difference",0.025005542,0.999869903371437,0.5,0.355,0.0013662382261827,0.0004096289630979,0.0006061843596398,False
+"well, it makes no difference if you don't, because your voice wasn't heard",0.10634898,0.9994465006897952,0.5,0.144,0.0024059251882135,0.0032104388810694,0.0018499275902286,False
+"um, when i was a political action consultant for the ohio education association, i used to go around",0.01561861,0.7922186956216956,0.475,0.0,0.0006251184968277,0.0005859404918737,0.0005050327745266,False
+try to get teachers involved in politics,0.01999182,0.9939826211171298,0.5,0.0,0.0199568551033735,0.0009636001195758,0.0004444966325536,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+and one of the things i would tell them is that every vote is important,0.024833864,0.094466067938039,0.3,0.0,0.0007121401722542,0.0004203194985166,0.0005476447404362,False
+"john kennedy won if if if you would take all of the the votes he won by, and spread it out across the nation by one vote per precinct per precinct, one vote per precinct, yknow, if there had just been one additional vote either way in any of those precincts yknow, he would have lost",0.045778666,0.9988839408125612,0.5,0.037,0.0011940553085878,0.0004514922038652,0.0005841892561875,False
+"uh, and so one vote does count, and i used to have a list of elections that were decided by one or two votes, and when i was with the ohio education association, i generally did school levy campaigns and many of them are decided by one",0.02054715,0.9974298390223362,0.3625,0.0,0.000651343667414,0.000352076080162,0.000319631450111,False
+"two, seven, eighteen, nineteen votes",0.01492445,0.0201846781996557,0.5,0.0,0.0007769087678752,0.0005413920152932,0.0006672792369499,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"if i knew the magic reason why people don't vote, i could sell that and make a make a fortune",0.10461388,0.9871652299309632,0.25,0.0,0.0010123531101271,0.0043802731670439,0.00175984040834,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"but i don't know what it is when i did school levy campaigns, uh, and a couple of other campaigns",0.045778666,0.9898345802740012,0.5625,0.0,0.0006004219176247,0.0004168885352555,0.0004743878671433,False
+"to me, the biggest thing is is what the campaign the campaign does on election day called get out the vote",0.03994159,0.9945903944160204,0.5,0.0,0.0011546672321856,0.000482788280351,0.0005622520693577,False
+that's the most important thing that can be done,0.025005542,0.0124665057064881,0.275,0.0,0.0006698740762658,0.0004724849713966,0.0010288394987583,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i used to, always, at the beginning of a a campaign for a school levy, get a list of all the registered voters and of course i had a very limited population in a school district and i would have the school district compare it to parents, and the first thing i'd do is register parents because many of them don't vote",0.020963646,0.2446256829402398,0.3904761904761905,0.035,0.0006835430976934,0.0003710832097567,0.0003969148383475,False
+"uh, and i read a study somewhere that the average person in this country doesn't even begin to vote until they're forty",0.04543531,0.9029307477018348,0.575,0.0,0.0026312535628676,0.0008675014250911,0.0013484777882695,False
+"if i had known that when i was in college and worked so hard to get the vote changed to eighteen, because i couldn't vote till i was twenty one, and i was upset yknow, because i wanted to vote for certain candidates because of the vietnam war",0.10300289,0.9974415521895814,0.5193452380952381,0.154,0.0009238308412022,0.0003963418130297,0.000540210341569,False
+that was a big issue and i couldn't,0.049212243,0.9995448853337556,0.5,0.0,0.0015440065180882,0.0005616837297566,0.0006052666576579,False
+"uh, i had to wait till i was twenty one, so there were a bunch of us at college that yknow worked and did some volunteer work to get that whole thing changed",0.037194733,0.8536872812051889,0.4,0.0,0.0008330310811288,0.0004509762511588,0.000368063134374,False
+if i'd known that they weren't gonna vote at eighteen and they were gonna wait until they were almost forty,0.028610796,0.998977467323542,0.5,0.0,0.0193584691733121,0.0007481691427528,0.0008904930436983,False
+i wouldn't of,0.020685982,0.9996509893423888,0.5,0.0,0.0013477659085765,0.0015498343855142,0.0005830370355397,False
+i wouldn't of wasted my time,0.13565879,0.1346669693213969,0.6,0.0,0.0026749121025204,0.0019590540323406,0.0016388304065912,False
+"um, but anyway, um, you, you get parents who are usually younger, especially of the the first second third grade age",0.053335425,0.965557595640246,0.475,0.0,0.0109919849783182,0.0006432636873796,0.0029023778624832,False
+"if they hold yknow enough of my views, i'm not gonna vote for a woman just because they're a woman, and i'm not gonna vote for a democrat just because they're a democrat",0.38965073,0.1378344720240686,0.5,0.0,0.0802028402686119,0.0168917756527662,0.0097807068377733,False
+"they better have uh, yknow at least, and i and i don't need a hundred percent",0.112788886,0.9647792512061284,0.45,0.0,0.0009121977491304,0.0008921538246795,0.0012901083100587,False
+"uh, so that a agreement with my views, but i'd like they'd be at in the ninety to ninety five percent range",0.032559406,0.9921179921878838,0.5,0.0,0.0005713099963031,0.0004795892455149,0.0003653732710517,False
+"um, but yeah, uh, i'll uh",0.029812546,0.7807615490040768,0.5,0.0,0.000797364860773,0.000566508679185,0.0006800995324738,False
+i don't tend to vote straight party line either,0.13745339,0.99496742130063,0.4,0.0,0.0008532886859029,0.0004279058484826,0.0004318817227613,False
+"as i said i've i've moderated from when i was uh in college to today part of the the aging process, and also partly because i've i've noticed that to get things done, you hafta have a center and it's the center that tends to rule when i was in college",0.028954152,0.0088909198335335,0.55,0.0,0.0009337077499367,0.0003804740263149,0.0004127841384615,False
+"um, we had a bumper sticker that said america, fix it or forget it, and some of the construction people in dayton came out with one that said america, love it or leave it",0.048868883,0.994293631041312,0.25,0.081,0.0008465273422189,0.0005094589432701,0.000731395673938,False
+"uh, and today i realize that both of those positions are wrong",0.04543531,0.9869728717085702,0.75,0.22,0.0006518161972053,0.0012711278395727,0.000763494928833,False
+it's america,0.0224908,0.0001331962962309,0.5,0.0,0.0013389526866376,0.0006807998870499,0.0007346866186708,False
+love it and fix it,0.04268845,0.0015088228463628,0.25,0.0,0.0013390878448262,0.0011980570852756,0.0004030219861306,False
+just like with your kids,0.16482529,0.0011928355712139,0.5,0.0,0.0667966604232788,0.0009620282799005,0.0010604619747027,False
+"you love your kids, but you don't let them yknow have bad manners at the table and you don't let them run around with the wrong yknow kids, and you want them to behave well, yknow, that's how i see america now and and america's become more centrist, uh, and when it deviates from that? either way, that's when people become upset",0.10031791,0.1790533459958731,0.525,0.164,0.024237809702754,0.0009186271345242,0.0055040125735104,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"so i just think it's important and i, i remember when um, who was the other president that i voted for that won carter",0.020130653,0.0021579349823247,0.43125,0.0,0.0005891142063774,0.0004340888990554,0.0005069629987701,False
+"uh, black leaders would meet with him once a week and then they'd come out and hold this press conference and complain about",0.37647265,0.9910122155518434,0.5833333333333334,0.102,0.0219389051198959,0.1421011090278625,0.2912164628505707,False
+he didn't do this for blacks and he didn't do that enough for blacks,0.44129625,0.997506049120672,0.5,0.0,0.487281858921051,0.4895024299621582,0.4530542194843292,False
+"he didn't do this and he didn't do that, and i used to say some to some my black friends",0.34684154,0.9997501190987692,0.5833333333333334,0.0,0.0226963926106691,0.0948263704776763,0.0477654673159122,False
+"don't you see what you're doing? don't you see that greater implications of this? oh, no, we need to have him move faster, i said yknow",0.08050597,0.977407476112292,0.25,0.0,0.0024387224111706,0.0006805782904848,0.0020164214074611,False
+that'd be great in an ideal world,0.026207292,0.002560385102711,0.0749999999999999,0.0,0.0005907886661589,0.000359630852472,0.0005087288445793,False
+this isn't an ideal world,0.11343288,0.9999741296967716,0.0499999999999999,0.41,0.00131461257115,0.0005979308625683,0.0005162198795005,False
+"you hafta take it a step at a time, whether you like it or not",0.01999182,0.0086146917571253,0.5,0.0,0.0045366785489022,0.0054916148073971,0.0004784012271557,False
+i said what you're gonna do is you're gonna make it look like he is so bad in all the issues,0.23277332,0.9998131854140132,0.8499999999999999,0.173,0.0152477920055389,0.0438231043517589,0.0481310039758682,False
+you're gonna give people a reason to vote against him,0.09602194,0.9887738978416298,0.5,0.0,0.0043215355835855,0.0023901625536382,0.0026193398516625,False
+"then if any big issue comes up, that's just gonna be added to everything else",0.04783881,0.0181894757698978,0.5,0.0,0.0008797566406428,0.0005981950671412,0.0006739142700098,False
+i said,0.022945397,0.8928100347210466,0.5,0.0,0.0013531406875699,0.0004240644047968,0.0004578162042889,False
+"what you need to do is after you have this meeting with him is come out and praise him and that he's doing a good job, and that we're moving along steadily",0.040284947,0.0001119456900074,0.2833333333333333,0.0,0.0005767930997535,0.0006933533004485,0.0004047555557917,False
+"uh, and i yknow",0.023632111,0.9257152721579744,0.5,0.0,0.0020803101360797,0.0005831795278936,0.0004645313019864,False
+i don't think sometimes people who do politics of the negative understand what it means,0.10892494,0.9303713902581736,0.65,0.209,0.0007502402877435,0.0005127777112647,0.0007794867851771,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i made that mistake when i was president the dayton education association,0.038053125,0.9974239377319684,0.5,0.179,0.0006870404467917,0.0005113651277497,0.0004676437529269,False
+"we were trying to get a levy passed, so we went around as teachers, showing all of the bad conditions in the school, all the leaking walls yknow uh ceilings, all of the peeling floors, all the the bad chalk boards with cracks in them and all that kind of stuff, and it had the opposite effect of what we thought people thought the schools were so bad",0.13969667,0.9999775274094076,0.6499999999999999,0.15,0.0014028795994818,0.0009914808906614,0.001408057520166,False
+they said we're not gonna support those and they voted no,0.052935857,0.9971813887369522,0.5,0.331,0.0009012569207698,0.0010673423530533,0.0006381751736626,False
+"so the next time we did an opposite track, we went in and we said yknow, um",0.04818217,0.1763858733361341,0.5,0.0,0.0007659459952265,0.0004210316983517,0.0005369617720134,False
+"the eighteen months later, when the board put um balance, uh, vote levy on the the ballot, we said these are great schools",0.019297661,0.0337394951070553,0.3,0.0,0.0006331649492494,0.000357699842425,0.0006365102599374,False
+we have great teachers,0.023803791,0.0033147667213956,0.0999999999999999,0.0,0.0007299299468286,0.0005357327754609,0.001166870817542,False
+look at this kid,0.12116077,0.0026148379183776,0.5,0.0,0.0108385365456342,0.0024942115414887,0.0011264183558523,False
+he's learning to read,0.15188612,0.0013608733242123,0.5,0.0,0.0016200939426198,0.0006421889411285,0.0008421205566264,False
+"he's made six months improvement in three months, and all that kind image",0.029125832,0.0014642651236362,0.2,0.0,0.0006607197574339,0.0003647816192824,0.0005994161474518,False
+"it was image, and it",0.028954152,0.0001121245169883,0.5,0.0,0.0011886451393365,0.0004241963906679,0.0002391214657109,False
+we were saying the same thing,0.017284594,0.9988145261394974,0.5,0.0,0.0006192827131599,0.0003834915405604,0.0003791609487961,False
+"yknow, we want to continue this",0.035134587,0.0030404163282862,0.5,0.0,0.0011187504278495,0.0004227389290463,0.0002876120852306,False
+we want to make even this better,0.037881445,0.2339167782149633,0.25,0.0,0.0007225715671665,0.0004114191688131,0.0004572664620354,False
+"um, we learned to say the negatives in a positive way, and that's important, yknow",0.038053125,0.0121727823904541,0.3431818181818181,0.0,0.0007348210783675,0.0003511977847665,0.0005921156844124,False
+and and you need to get that center that you? you need to appeal to the center,0.050242316,0.0038756277423117,0.55,0.0,0.0042413091287016,0.000757876667194,0.0015664786333218,False
+american's don't like extreme liberals,0.19141254,0.9129373988733424,0.53125,0.345,0.3762446045875549,0.030367100611329,0.1039949581027031,False
+"they don't like extreme conservatives, yknow, they they want",0.13296685,0.9886370653967884,0.5625,0.203,0.0660449117422103,0.0049566118977963,0.0015084802871569,False
+they want peace,0.030670939,0.1089231861817769,0.5,0.0,0.0019197125220671,0.0007636899827048,0.0008608858915977,False
+"um-hum, right",0.038852096,0.0738408494710774,0.3571428571428571,0.0,0.0008634481928311,0.0010713939554989,0.0020354909356683,False
+"i think it's the right position to take, um, but it it like abortion",0.31714454,0.9881466324018277,0.3571428571428571,0.0,0.0383452288806438,0.0087260557338595,0.0320684090256691,False
+that's one of the the big issues issues that divide people very quickly,0.04165838,0.8410206979116347,0.3916666666666666,0.0,0.0007031158893369,0.0006422045407816,0.0007810542010702,False
+uh,0.02124131,0.8297611849123437,0.5,0.0,0.0012679392239078,0.0007949224091134,0.0007840975304134,False
+"i think it's moderating somewhat uh, as the gay activists continue their campaigns, um, but that's one where a candidate has to tread very carefully",0.355017,0.9948811372823736,0.4283333333333333,0.0,0.0016073189908638,0.0513367652893066,0.151877760887146,True
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i was proud that coleman said it and didn't and didn't back down on that,0.023460433,0.0693302667287871,0.3925925925925926,0.0,0.0007691206992603,0.0004689745255745,0.0003655638720374,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+they told me a little bit about his character,0.051737156,0.9848074856020436,0.59375,0.0,0.0005824213149026,0.0004349375958554,0.0005553017836064,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i don't know that i can answer your question straight forward, because i believe in gay rights",0.2088965,0.9212783363272944,0.3458333333333333,0.0,0.0178803037852048,0.0697641894221305,0.0418528132140636,True
+i believe in anybody's rights,0.016243355,0.0058865669463838,0.5,0.0,0.0008964847656898,0.0003989675024058,0.0003671685699373,False
+"what happens between consenting adults in a bedroom is their business not mine, right, um-hum, not if he'd been as open about it as as he was here, um, yknow, clinton did that also, and and thought he'd be able to um, segregate or not segregate desegregate the uh, the the military, and found out with his first action as president that there there's a strong backlash against that, at least nation wide, and and and in the military, but i thought it was the right stance, um, because it's more open",0.13146462,0.9970984130178412,0.4325091575091575,0.0,0.0019493594300001,0.0004856740415561,0.0005502388230524,False
+"um, and you couch it in terms of civil rights",0.07251463,0.0234100314306301,0.5,0.0,0.0007692636572755,0.0010278588160872,0.0237086471170187,False
+"um, my boyfriend's thinks it's wrong morally, but doesn't think we ought to be discriminating against",0.082104236,0.9963556253484146,0.625,0.12,0.0186212435364723,0.0010612629121169,0.0028949494007974,False
+uh,0.02124131,0.8297611849123437,0.5,0.0,0.0012679392239078,0.0007949224091134,0.0007840975304134,False
+he,0.023460433,0.174088632135733,0.5,0.0,0.0087242415174841,0.0014087301678955,0.000656290561892,False
+he thinks it's a sin,0.12824467,0.9983616170060168,0.5,0.474,0.0534641072154045,0.0012630467535927,0.0056366305798292,False
+"therefore he thinks they should repent, and the way to do that is through yknow, talking to them, religion wise, um, i don't think it's a sin",0.05253629,0.998461998551263,0.15,0.114,0.0027603327762335,0.000914157135412,0.0004983992548659,False
+"i think that um, your sexuality is genetic based, and that i, you can no more change your sexual orientation than you can the color of your eyes or your hair",0.16827796,0.9846349175655306,0.4375,0.068,0.8889369964599609,0.2135704904794693,0.1433147192001342,False
+"you may put a dye on it, or you may put a different",0.18055865,0.9974894182114536,0.5,0.0,0.0084716379642486,0.0010233694920316,0.1218100190162658,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"whatever those eye pieces, pieces are contacts",0.06532243,0.0008914226950036,0.5,0.0,0.0009097569272853,0.0010300473077222,0.0007302106823772,False
+"i don't wear glasses, so i can never remember those terms",0.03994159,0.9407927113937584,0.5,0.0,0.0008559402194805,0.0005468325689435,0.0009065704653039,False
+"um, but that's just cosmetic and anyone who tries to change their sexual orientation, that's cosmetic too",0.19716066,0.9983591730372784,0.4,0.0,0.1266141235828399,0.0026234888937324,0.0114297503605484,False
+"uh, and again, my belief is whatever happens between consenting adults is their business not mine",0.047495455,0.9811294914780598,0.5,0.0,0.0011866597924381,0.0013033070135861,0.0005451586912386,False
+"um, so i don't know that anyone could change it",0.0334178,0.9880151945709084,0.5,0.0,0.0007496375474147,0.0006114888819865,0.0003848016494885,False
+"what was your question again? why people? because of the gay activism? um-hum yeah, i was gonna say most them are, i think so, because i",0.38965073,0.9990128750657488,0.2708333333333333,0.0,0.0480463951826095,0.1273736208677292,0.2328348904848098,True
+"i, when in the fifties and sixties, you very seldom saw black people on t",0.3170379,0.0310944056244185,0.4916666666666666,0.0,0.0390031225979328,0.2560322880744934,0.1348919868469238,False
+v,,0.2468632555380331,0.5,0.0,0.0012605079682543,0.0009020361467264,0.0007577532087452,False
+and then you start seeing a couple of black people on t v,0.49981686,0.9670320837062868,0.5833333333333334,0.0,0.275099515914917,0.3719213604927063,0.4266291558742523,False
+"and then there was the jeffersons, and although i found that jeffersons offensive in many ways because it was stereotypical and made fun of of of black people in many ways",0.355017,0.9826035920856424,0.4366666666666666,0.085,0.0371452011168003,0.3594172298908233,0.0921875983476638,False
+"in retrospect, it was trend setting and what it did in in even in putting blacks in um advertisements on t v",0.3983115,0.0021779039951855,0.5,0.0,0.0126621834933757,0.0894080772995948,0.3384908735752105,False
+"young kids saw them uh, and and saw those ads and saw those t v programs",0.04680874,0.1218527941596538,0.45,0.0,0.0010323785245418,0.0004391273541841,0.0011863636318594,False
+"and so it became uh, a part of everyday life and and the more you see something, the more it becomes becomes more acceptable",0.025520578,0.0568694834856859,0.3375,0.0,0.0007445846567861,0.0003821099526248,0.0004421354096848,False
+so maybe that is having an effect,0.02193547,0.0729941037167876,0.5,0.0,0.0008544909069314,0.0003189167473465,0.0004277215339243,False
+maybe fifty years from now,0.017701091,0.00900548831926,0.5,0.0,0.0007686092867515,0.0003503827902022,0.0004783736367244,False
+we'll look back on those t v programs and think they were trend setting instead of stereotypical um,0.0471521,0.9999096625701775,0.625,0.0,0.0007688672048971,0.0004379468155093,0.0005150074139237,False
+"but it, i'm sure it does have uh, some influence because i think it did it",0.02809576,0.8459762915957518,0.25,0.0,0.0006166999810375,0.0003498187288641,0.0004374286509118,False
+"it wasn't the only thing that had an influence, but it was one of the little pieces of the puzzle that that helps",0.040971663,0.000243651761398,0.546875,0.0,0.0005962353316135,0.0003356968809384,0.0007912306464277,False
+i think matthew shepherd helped,0.03444787,0.0023393549543895,0.5,0.0,0.0006471351953223,0.0004100024525541,0.0003186921530868,False
+"also, not in my lifetime, he'd hafta be probably be a closet gay she was, but i had admired her more",0.4945446,0.8827350716428572,0.2708333333333333,0.0,0.7713842988014221,0.4812604188919067,0.5614957809448242,True
+"yeah, because, um, uh, until the moderates get control of the republican party again, that's gonna be the litmus test and it's just like back in in the sixties and the seventies, when the extreme left wing had control of the democratic party, they would nominate such people as uh mcgovern, who hadn't yknow who i voted for but had no chance of winning over the years, i have moderated my hardline left of center liberal stance for more of a moderate middle of the road because it's easier to get that sold to the american public",0.14911842,0.9952120566104228,0.4677083333333333,0.02,0.0022560025099664,0.0004212031490169,0.0006953510455787,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"so, uh, while i think dole was correct, um, i think she",0.05613239,0.903849590533901,0.5,0.0,0.0007005091756582,0.0005392549792304,0.000835366838146,False
+"yeah, she shot herself in the foot",0.44129625,0.9894315638681754,0.5,0.0,0.3112195134162903,0.2626953721046448,0.5636611580848694,False
+i don't,0.018325835,0.9947234118852704,0.5,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
+"she would have never gotten the nomination as long as the party remains the way that it is being controlled by the extreme right wing, which is a problem for the republicans",0.10892494,0.994080856738606,0.481547619047619,0.076,0.0067014060914516,0.0009033680544234,0.001591183594428,False
+they moved,0.040971663,0.0722328968683342,0.5,0.0,0.0039702798239886,0.0023631148505955,0.0006510066450573,False
+"they need to move towards the middle, which i think george w is trying to do",0.09065199,0.9997747674176288,0.5,0.0,0.0009489317890256,0.0005251687252894,0.0006521707400679,False
+"um, uh, uh, whenever anybody tells me that i go tell, i tell them yes, and i'm an indifferent, uh, an indifferent liberal, um-hum um-hum right, if she could have become the candidate she might have been able to beat",0.11472086,0.9997871660883004,0.3035714285714286,0.083,0.0015473415842279,0.0129983816295862,0.0260421987622976,False
+"i think almost anybody can beat gore right now, but yknow and in in election times a weekend is a couple of centuries",0.06372416,0.0013472824736683,0.3571428571428571,0.0,0.0038991689216345,0.0004807387595064,0.0006057468126527,False
+"uh, uh, a year is an eon, so anything can happen between now and then, but i think uh dole had a good chance of being elected because most americans are moderate and will go with the moderate candidate, uh, which is basically where clinton placed himself in the two elections he ran in um",0.07371333,0.804707107633337,0.35,0.0,0.0011484759161248,0.0049216230399906,0.0008202168974094,False
+"most real democrats, the warren beatty's of the world, and many yknow congressmen and senators dislike clinton because didn't they didn't think he was democratic enough? um, i liked clinton because as i said, over the years, i've learned that extremes in either party don't get elected, and that if you want someone that has your general interest at heart, you hafta find someone who's a moderate and can can appeal to everybody",0.055732824,0.0166151128350561,0.3678571428571429,0.031,0.0025345855392515,0.0005643338663503,0.0008771827560849,False
+i used to tell school districts when i went in to tell them how to to put together a school levy campaign,0.04165838,0.9437021667630744,0.5,0.0,0.0006521383766084,0.0004003364010713,0.0004208683676552,False
+"that basically you had the rule of thirties, and that had nothing to do with my age, but that there was about thirty percent of the people who were were for you with the yes votes, thirty percent who were automatically against you",0.03994159,0.999615283555214,0.5,0.0,0.0013105801772326,0.0009652214939706,0.000414561247453,False
+the no votes and thirty percent in between,0.01527153,0.9991168927596056,0.5,0.239,0.0008705091895535,0.0006853365339338,0.0004594534693751,False
+"i told them, ignore the no votes",0.11021292,0.9986833267445526,0.5,0.485,0.001667677424848,0.0019278913969174,0.0027259702328592,False
+"yknow, just just don't get them upset with you",0.08796701,0.993162908041444,0.5,0.0,0.0252100937068462,0.0025522059295326,0.0045453566126525,False
+you don't want them yknow working actively against you,0.10031791,0.9914541566304992,0.5666666666666667,0.116,0.0927899405360221,0.0103964451700448,0.004960027989,False
+lock up your your thirty that are with you,0.32304016,0.994081452828542,0.5,0.0,0.7349342107772827,0.0636443123221397,0.0822292193770408,False
+make sure you yknow you do something with them,0.06931809,0.0004420602966429,0.25,0.0,0.0217757355421781,0.0005249717505648,0.0017483823467046,False
+but this group the the middle thirties,0.04131502,0.9849601740391865,0.5,0.0,0.0013152449391782,0.0581753812730312,0.0039107068441808,False
+"i call them, you had to massage them",0.0717155,0.891200889938431,0.5,0.0,0.1612882614135742,0.1826050728559494,0.1568482518196106,False
+"and that's what clinton did so well, and that's what dole could have done",0.04406188,0.0450288424076501,0.5,0.0,0.0012320757377892,0.0005291777779348,0.0010608490556478,False
+"i'm not sure if george w is gonna be able to uh, because to get the the nomination",0.07730943,0.0177904531666443,0.4375,0.103,0.000874922669027,0.000574376550503,0.0005222292966209,False
+"eventually he's gonna come out and have to make his hard statements to those people, which is i'm anti abortion",0.14193995,0.9993961012856944,0.6458333333333334,0.171,0.0291815735399723,0.0086691686883568,0.0265036709606647,False
+i'm pro gun,0.16151784,0.0049219444072219,0.5,0.545,0.0290485117584466,0.0038545432034879,0.0026563345454633,False
+"he's already said the pro gun, and that's because it's going against what most americans are saying dole",0.1473238,0.9987648122388232,0.25,0.124,0.0040742452256381,0.0031808142084628,0.0044602588750422,False
+"i think represented where most americans are if you look at opinion polls um, so you yknow, you hafta find a way to moderate to moderate that stance",0.06132676,0.983168387300137,0.4166666666666667,0.0,0.0058218771591782,0.0004409446846693,0.000593394448515,False
+"uh, whether you're republican or a democrat",0.052935857,0.9975110264716388,0.5,0.0,0.0343071818351745,0.0009890843648463,0.0010753389215096,False
+"oh, yeah, i think it's possible it'd have to take the right combination of",0.021796638,0.7608994150688675,0.4285714285714286,0.0,0.000616064062342,0.0003974689752794,0.0005583586171269,False
+"uh, someone who can appeal to the party people and get the nomination and appeal to the people",0.05493369,0.0031634194866091,0.5,0.0,0.0007756260456517,0.0004454784211702,0.000392803834984,False
+i think dole would have been a good candidate,0.02124131,0.999533231775504,0.15,0.0,0.0007541767554357,0.0008785190293565,0.0008354424498975,False
+i would have been hard pressed,0.15684792,0.9998168811716172,0.6458333333333334,0.219,0.0006174006848596,0.0058742286637425,0.0031828223727643,False
+"i mean, uh, to some of her issues i don't like",0.14866976,0.997127353184241,0.65625,0.174,0.0011714257998391,0.0088395811617374,0.0021624607034027,False
+"but when she came out uh and said her, her her famous thing on the abortion issue when she came out against guns, uh, she went up a notch couple of notches in in in my estimation, because i wasn't sure where she'd be",0.15246986,0.9962596548686956,0.25,0.054,0.0032478801440447,0.0219165813177824,0.0019115055911242,False
+"i thought she'd have to sell herself as hardline with the hardline republicans, and then i wouldn't have been able to vote for her",0.20669603,0.97503435266302,0.25,0.0,0.0163956489413976,0.0009649488492868,0.0560112707316875,False
+"um-hum, except you couldn't come right out and say you wouldn't",0.048868883,0.9814286690170096,0.3571428571428571,0.0,0.0011256979778409,0.0017012940952554,0.0023313807323575,False
+you didn't want to vote for her because she was a woman,0.34684154,0.1116350377372616,0.5,0.1,0.0426832698285579,0.020952770486474,0.0056266677565872,False
+there'd have to be an under current,0.04165838,0.9821432318279598,0.5,0.0,0.0007321690209209,0.0005836313357576,0.000417829491198,False
+"i think there might be, but i think most of them are a dying breed",0.42315382,0.9972158129307644,0.25,0.0,0.001955481711775,0.0649322867393493,0.0340161994099617,False
+"they're the older citizens, um, many in my generation",0.033074442,0.0025355579568707,0.3333333333333333,0.0,0.0006395296077243,0.000524001661688,0.0006205752142705,False
+"uh, they'd just probably be because i'm the early baby boom",0.1256687,0.8315764277903804,0.45,0.0,0.0007730842917226,0.0016450163675472,0.0010473870206624,False
+i'm i'm the first of the baby boom,0.10956893,0.0030565405610589,0.375,0.0,0.0018720200750976,0.0025083487853407,0.000810109777376,False
+"uh, and that's when the woman's movement started, and many men there still haven't always accepted that",0.10763696,0.245498328802255,0.25,0.102,0.0007425768417306,0.0042286128737032,0.00637340079993,False
+so there there might be a problem there,0.037881445,0.8165367508520509,0.5,0.278,0.0008191917440854,0.0007073618471622,0.0003556775627657,False
+"but for the the, the, the generations, even the later baby boom generations behind me when i talk to them, i talk to uh, high school students or even young college students",0.03221605,0.0230590238717328,0.5175,0.0,0.0005942434654571,0.0005313283181749,0.0004681234422605,False
+"um, there, there's a a whole world of difference between their attitudes in a lot of things and yknow women's minority issues",0.11665283,0.0181373477049822,0.4,0.0,0.0211134310811758,0.0031567136757075,0.005621712654829,False
+"uh, they just second hand to them it? it doesn't yknow",0.036679696,0.9958640001735812,0.5,0.0,0.0012450063368305,0.0009455614490434,0.0011509784962981,False
+"it's not like it was for us, which was a sea change for them",0.027580723,0.999912404583884,0.5,0.14,0.0008008551085367,0.0007406753720715,0.002440508455038,False
+it's normal,0.022074303,0.9979491823792,0.425,0.0,0.000868076516781,0.0003706060815602,0.0005129189812578,False
+so and more of those people are in the voting population,0.018187003,0.9360757623155758,0.25,0.0,0.0010713454103097,0.0005106023745611,0.0004858569591306,False
+"if they would vote yknow, you'd have to find a candidate who would know how to do what clinton did in ninety two and get out that college vote that that? um, that's an interesting question because he was a serious, a serious contender",0.064523295,0.996265168700605,0.5277777777777778,0.056,0.002444147132337,0.0010018278844654,0.0008694552234373,False
+last time,0.018881164,0.2437449600595899,0.5,0.0,0.0015182883944362,0.0005696032894775,0.0004439205513335,False
+i haven't heard his name this time,0.029812546,0.0262497740819142,0.5,0.0,0.0006760883261449,0.0005684918724,0.0006371362833306,False
+um,0.012811388,0.2300336993484498,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"what people say they would do that yknow that they like him because he is um, intelligent, charismatic, uh, all those those those neat things that you need to to be elected today, um, and a lot of people said they would vote for him, but what they say in polls they don't know if it would translate over",0.08581903,0.0233299467477094,0.175,0.0,0.000744646473322,0.0005394907202571,0.0010668707545846,False
+"but yeah, i think he could",0.022074303,0.0484804117693904,0.5,0.0,0.0006998928729444,0.0004829648241866,0.0004638259997591,False
+"i think the right candidate could, and i think mike coleman this year, uh, in the columbus race showed that, i mean he crossed gender lines",0.08850401,0.9914258721630292,0.5066964285714286,0.0,0.0005930179031565,0.0009175215382128,0.0009717270149849,False
+he crossed um party lines,0.042001735,0.9347151572318346,0.5,0.0,0.0007388713420368,0.0013530246214941,0.0019190227612853,False
+"he crossed over into all of the city and winning even dorothy teater's precinct, which surprised me, yknow, and not by just a little small margin",0.036679696,0.0005749883524026,0.4796875,0.0,0.0009090031380765,0.0004298544081393,0.0004462211509235,False
+"i think it was two hundred and some votes, which is pretty substantial",0.028954152,0.1189578833847798,0.375,0.0,0.0005780008505098,0.0003833442169707,0.0004406039370223,False
+right,0.016521018,0.0051322449366928,0.3571428571428571,0.0,0.000928676337935,0.0005848494474776,0.0005620717420242,False
+"well, right, yeah, well, teater's a school board member for columbus",0.037023053,0.0669466222921422,0.3571428571428571,0.0,0.0007966946577653,0.0006323167472146,0.0004505938559304,False
+"yeah, um-hum right",0.043718524,0.9221423686897324,0.3571428571428571,0.0,0.0007813553093001,0.001182300155051,0.0062332260422408,False
+that's that's really hard to say,0.07850813,0.9456222618608784,0.6458333333333334,0.253,0.0007664410513825,0.0003732870682142,0.0010378184961155,False
+"um, if she was a younger woman and ran the campaign that she ran",0.10031791,0.9886202258560924,0.5,0.0,0.0007835041033104,0.0048218853771686,0.0040382291190326,False
+"negatives, don't work in columbus",0.11600884,0.999934012844069,0.5,0.0,0.0022929550614207,0.0188384484499692,0.0125105828046798,False
+"columbus really does have a heart, and that just doesn't play in columbus, what plays in the state",0.09118898,0.9864063478332608,0.4,0.088,0.0006299503729678,0.0009124093921855,0.0023716953583061,False
+and and the people who ran her campaign ran voinovich's campaign and betty montgomery's campaign,0.016451603,0.0451801896424366,0.5,0.0,0.0007183233974501,0.0004294312966521,0.0003525310021359,False
+and and that negative stuff worked statewide,0.049212243,0.9924236074981436,0.65,0.381,0.0006332657067105,0.0003690801386255,0.0006014262326061,False
+"that doesn't work so well in columbus, um",0.049898956,0.9990671490544344,0.5,0.0,0.0007140287198126,0.0004893665900453,0.0005947760655544,False
+"i, i think that it'd even a younger woman who ran that particular campaign would have lost um, and i like to think that age doesn't matter, but she came across as old to me also, and i like to think i'm not prejudiced on on any issue, but if there's uh, someone who had been right on the issues, i don't care if she was old",0.12695669,0.9999889723361812,0.4347619047619048,0.081,0.0117494603618979,0.0031061514746397,0.0018706625560298,False
+i would have voted for her,0.021796638,0.1935241146991486,0.5,0.0,0.0008222116157412,0.0015928533393889,0.0008909356547519,False
+she just didn't support the issues i supported,0.04268845,0.9997918155898023,0.5,0.214,0.0008561335271224,0.0004437779716681,0.0004620982799679,False
+she was wrong on,0.06252546,0.9923180995794466,0.75,0.508,0.0013328697532415,0.0005983270821161,0.0014137498801574,False
+"uh, i",0.0253489,0.1818256112663859,0.5,0.0,0.0009596060845069,0.0010050912387669,0.0006273904582485,False
+i didn't like that,0.055333257,0.9999896876441048,0.5,0.413,0.0050128903239965,0.0007626797887496,0.0003891107626259,False
+"she tried to use um, the police chief in such a negative way by saying that um",0.09494796,0.9993826892621313,0.575,0.188,0.0009141767513938,0.0006694202893413,0.0009735364001244,False
+coleman had voted for a raise for the chief,0.022213135,0.0661663107612354,0.5,0.0,0.0008047408773563,0.0010040355846285,0.0006573338177986,False
+"well, yes, he voted for a raise for the chief, but he voted for a raise for the the police officers",0.014993866,0.172657241372075,0.5,0.0,0.0006451254594139,0.0006687125423923,0.0006796158850193,False
+"it's just that yknow, the police chief's was tied to his",0.053335425,0.9960652997450166,0.5,0.0,0.0009400437702424,0.0016655599465593,0.0053235474042594,False
+and i don't like people who try to manipulate facts,0.13879937,0.9452718205874204,0.5,0.19,0.0260790158063173,0.0087820598855614,0.0118688521906733,False
+"uh, and and that was manipulating the facts",0.111500904,0.8314460033123525,0.5,0.263,0.0007997398497536,0.0005003761616535,0.0004779454320669,False
+"i didn't like that she was um, uh, uh against against the the, the tiff, uh, and polaris",0.15246986,0.9999688244963396,0.5,0.11,0.001427011215128,0.0058110407553613,0.0012234540190547,False
+"once it was voted, i thought it was more important whether it was right or wrong, and i don't think it was wrong to begin with, but once it was voted and in place, i thought our reputation was on the line, and for her to try to use another divisive issue just to get elected, didn't sit well with me",0.028610796,0.9993291603858656,0.4814285714285714,0.097,0.0006575646111741,0.0003846762119792,0.000418291776441,False
+"um, so i don't",0.021380141,0.99292369715007,0.5,0.0,0.0009060652810148,0.0009184179943986,0.0004672267241403,False
+"even if she had a lot of charisma, charisma doesn't mean as much to me as a person's stand",0.13835071,0.9981078019112074,0.528125,0.0,0.0018505175830796,0.0003666369011625,0.0011554098455235,False
+"i mean, there are gays in congress",0.5933793,0.9815953357631548,0.65625,0.0,0.5133158564567566,0.1773962378501892,0.6061275005340576,False
+"there are gays in the military, and just as long as people don't know that they don't feel threatened, see, and and and i have, i, uh, i don't",0.45811868,0.0370658259732121,0.5375,0.0,0.3189810514450073,0.259965032339096,0.4303695261478424,False
+i don't understand that mindset,0.034791227,0.999780430272022,0.5,0.0,0.0009699297952465,0.0028244089335203,0.0007106584962457,False
+i really don't,0.017631676,0.996771040424912,0.4,0.0,0.0010738160926848,0.0005703459028154,0.0004211806226521,False
+"i don't know why, uh, a man feels threatened by a having gay near them",0.5024423,0.9950805293660132,0.3708333333333333,0.176,0.3728989362716675,0.5467466115951538,0.5577808618545532,True
+"um, i have a couple of gay friends and and one of my friends always says um, yknow, does every man like every woman he sees, is he attracted to every woman and yknow want to go to bed with every woman",0.44805592,0.000256944566974,0.2916666666666666,0.0,0.4677733778953552,0.2827063202857971,0.1450273096561432,True
+yknow,0.02054715,0.8117281529461864,0.5,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
+"what makes a man think that just because i'm gay, i might be interested in him yknow, that's the height of arrogance",0.43451136,0.997725767871134,0.3333333333333333,0.13,0.0689272359013557,0.4248961806297302,0.7254031300544739,True
+"um, yknow, but but men feel threatened by that, just as i guess women feel threatened by lesbians",0.44820568,0.9956635947370504,0.5,0.333,0.1813376247882843,0.2032082676887512,0.6085916757583618,False
+"i don't know, but it's not a mindset i have, so it's hard for me to understand umhum",0.067320265,0.999726662959782,0.6458333333333334,0.106,0.000856444821693,0.0006457603303715,0.0008853003382682,False
+it might be right,0.019019997,0.9296206745925965,0.3571428571428571,0.0,0.0006577144376933,0.0003577760362531,0.0003793330106418,False
+"yeah, i don't understand it",0.022351967,0.999837744319382,0.5,0.0,0.0008713361457921,0.0009703161776997,0.0005851798341609,False
+i really have a hard time understanding yknow,0.04234509,0.9998149736838216,0.5229166666666667,0.192,0.0013491862919181,0.0004730866057798,0.0006674919277429,False
+they're not after you,0.0471521,0.9766529454711232,0.5,0.0,0.1431252062320709,0.0032144514843821,0.0023377570323646,False
+"they just want to live a life, um-hum yeah, um-hum hm, um-hum i bet you have",0.14552918,0.0013463287297704,0.4318181818181818,0.0,0.0231870952993631,0.0043979599140584,0.0031900017056614,False
+you just didn't know it,0.03204437,0.997907158038702,0.5,0.0,0.0008774365414865,0.0007084473036229,0.0010604878189042,False
+"i'm not sure where my father would have been and my father was very liberal, uh, more so even than my mother",0.055333257,0.9973955042420144,0.425,0.085,0.0009055724949575,0.0021282609086483,0.0032383864745497,False
+"um, because if it's not something that's part of your culture every day, yknow, and and you've been told it's wrong, and the catholic church said it was wrong",0.14687516,0.9992874936993292,0.6666666666666666,0.187,0.0016594462795183,0.0123663190752267,0.0027565825730562,False
+as most religions do,0.037023053,0.0111769247386384,0.25,0.0,0.0014631008962169,0.0063021066598594,0.0023201331496238,False
+"i'm sure he would've yknow had some concern, but i think his, his intellect would eventually have worked it out, especially if you sat down and talked with him and he wouldn't have done yknow",0.07451247,0.993975766082864,0.4425925925925926,0.0,0.0008833374595269,0.000811765785329,0.0006638029590249,False
+"there wouldn't have been any gay bashing with him, and um, there wouldn't have been yknow what happened yknow to the the black man in jasper, texas, and the yknow uh, the the shepard boy in in what was that oklahoma? uh, yknow, he wouldn't of",0.49835235,0.9999148783571188,0.4375,0.0,0.1711871027946472,0.2593057155609131,0.5517087578773499,True
+"yeah, hate crime is a, is an is an interesting term",0.11343288,0.0958102209395426,0.575,0.377,0.008182993158698,0.0085909217596054,0.0035716579295694,False
+"um, all crimes",0.2840909,0.9974340712608828,0.5,0.0,0.0014794721500948,0.0047319699078798,0.0046901423484086,False
+all murders are hate related,0.28683078,0.9976212733053282,0.7,0.72,0.3949602842330932,0.0308842752128839,0.0804522335529327,False
+"i, uh, i'm not sure it",0.028954152,0.9991796312253844,0.625,0.282,0.0006918935105204,0.000714664813131,0.0004946286790072,False
+that's uh,0.0358213,0.9076486207194184,0.5,0.0,0.0008400468504987,0.0005029384628869,0.0018881040159612,False
+it,0.023117077,0.1409244532305451,0.5,0.0,0.0016468944959342,0.0015647209947928,0.0006399405538104,False
+it's difficult,0.06252546,0.9998823616511024,0.75,0.714,0.0008504699799232,0.0004461877397261,0.0008334344020113,False
+i,0.018187003,0.1365806862568842,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+we had civil rights laws,0.026207292,0.2486503033620903,0.5,0.0,0.0007921536453068,0.000448753213277,0.0003018794814124,False
+"many people were opposed to those, but it was uh, in an effort to correct years of institutionalized racism",0.15001574,0.7676547830971784,0.25,0.239,0.0018671882571652,0.0053601986728608,0.0018417404498904,False
+"um, and, and, and maybe something like that is needed to stop years of institutionalized hate",0.12888865,0.0507168219918082,0.9,0.276,0.0492797307670116,0.0087309153750538,0.0008779558120295,False
+"but a crime is a crime, and yknow, are you going to give someone who murdered matthew shepard six life terms, as opposed to someone who murders someone else one life term",0.2015616,0.977722479839046,0.5,0.43,0.0278685688972473,0.0429065972566604,0.0902407020330429,False
+"i mean, murder is murder, and there's already a a law on the books, so i don't think we need to have a hate crime over and above that",0.22333995,0.2460866695692272,0.6854166666666667,0.399,0.0205285158008337,0.0095245102420449,0.003721754765138,False
+"yknow, uh, the, the, the, the people who murdered matthew shepard should be tried and hopefully convicted on the facts and shouldn't have anything else added into it",0.17759849,0.9996893775342764,0.5,0.133,0.0035830202978104,0.0086478479206562,0.0101936180144548,False
+"i, i think doing that is going to do the same thing that the many of the civil rights and the uh, affirmative action programs and the busing did to people",0.013952625,0.9762823563578236,0.35,0.0,0.0008510402985848,0.0004549239238258,0.0011360709322616,False
+"it's going to turn people against uh gays like it turned people against blacks for a while, although ultimately i think it did make a difference",0.47762036,0.9965741221145076,0.5,0.0,0.241933599114418,0.3982198536396026,0.2420692890882492,False
+i had,0.027065687,0.1236688119546075,0.5,0.0,0.0015932999085634,0.0003934259002562,0.0004468119295779,False
+"i had a i have a black friend at the ohio education association who was very active in the sixties in uh, opening up restaurants in the south, and marching and yknow, going to yknow, opening the schools in the south, and i said to her one day, are you disappointed that things aren't better? uh, yknow that people still hate blacks",0.50743616,0.0212199373962505,0.639,0.127,0.0464483350515365,0.4830619692802429,0.2597292363643646,False
+"this was ten fifteen years ago and she said no, she said that wasn't my goal",0.029469188,0.9994510607778068,0.5,0.0,0.0008714685682207,0.0004494904424063,0.0003948695084545,False
+my goal wasn't to change hearts and minds,0.02397547,0.8159369651583048,0.5,0.33,0.0008434388437308,0.0011060206452384,0.0008561575668863,False
+my goal was to change behavior and the behavior changed,0.03770977,0.1943207292898089,0.5,0.0,0.0019112498266622,0.0006137514137662,0.0003882579912897,False
+"except now, i never thought i would live to see an all white jury convict white men of of killing a black man",0.50255704,0.9871542618761382,0.5037878787878788,0.167,0.6418787240982056,0.6047237515449524,0.6797568202018738,False
+"we're in hearts and minds now, um-hum, an all white jury convicted two white men and the third one's on trial",0.31639808,0.011124140974793,0.5,0.0,0.0396347567439079,0.0535456426441669,0.0475317761301994,False
+"now be interesting to see what happens to him because he says he didn't have that big a role in it right, and um-hum yeah, but but but many people, especially its a kid that young may not know what that really means",0.10699297,0.995827906927948,0.386734693877551,0.0,0.0006049650837667,0.0008141626021824,0.0011581458384171,False
+"and may, it's to be part of the group and part of the yknow",0.03204437,0.0,0.5,0.0,0.001452824100852,0.0004439042531885,0.0003504262131173,False
+"be cool, may go along with it when really they don't like it",0.07371333,0.922166361309662,0.3625,0.151,0.0006357223610393,0.0025077667087316,0.0006199695635586,False
+i don't,0.018325835,0.9947234118852704,0.5,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
+"i haven't made up my mind about him, whether he's telling the truth or whether he hasn't or whether he wasn't",0.031529333,0.9999002443491868,0.5,0.0,0.0007308674976229,0.0008427884895354,0.0003609644190873,False
+"well, yeah, me either, yeah, but i've been in situations where people have told racist jokes and sometimes i let it pass because you do have to pick the time to to challenge someone very carefully, but in other situations i've said i don't find those types of jokes funny",0.15217799,0.9961655918767724,0.5008333333333334,0.086,0.0015440388815477,0.004781138151884,0.0033022104762494,False
+please don't tell them anymore in my presence,0.09172598,0.980800688269284,0.5,0.0,0.0009354187641292,0.0067385011352598,0.0033751558512449,False
+"do what you want when you're with your other friends, but don't do it in front of me",0.15217799,0.9305004735338452,0.5625,0.0,0.0259077735245227,0.0052168779075145,0.0132176401093602,False
+i don't even like blonde jokes,0.2712817,0.9998338101258036,0.5,0.26,0.0511761158704757,0.0063330619595944,0.0850998386740684,False
+"i find those sexist and um racist in a way, and i don't i, when no one will tell them to me",0.355017,0.9934881645151,0.5,0.155,0.0602311007678508,0.3818691372871399,0.1816114783287048,False
+"one day, when i was still working in an office, there were telling fifteen or twenty of them in a row and i just kept a stone face, but at one or two i did, but they were trying to get me to laugh, but i wouldn't",0.09494796,0.9998786658934984,0.35,0.0,0.001416762243025,0.0015041377628222,0.0009951503016054,False
+"but um, right, you gotta pick your battles right",0.1510105,0.8441937144462157,0.3571428571428571,0.298,0.0530965365469455,0.0009564656065776,0.0036230913829058,False
+"yep, um-hum um-hum right, right, or maybe it will",0.054534122,0.0058926172592356,0.3571428571428571,0.0,0.0010403795167803,0.0012989535462111,0.0021599496249109,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+when people pick their nose around me i want to scream and run away hysterically .,0.44820568,0.0,,0.15,0.6894203424453735,0.2981612980365753,0.0694834664463996,False

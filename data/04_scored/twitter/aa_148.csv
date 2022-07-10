@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user ikr & yur welcome !!!,0.0021779283,0.0,0.0,0.0,0.0031080257613211,0.0008485119906254,0.0003052098327316,False

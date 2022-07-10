@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+all gold everything played out . stop playing that shit . tf,0.9189384,0.0,0.0,0.347,0.9680855870246888,0.9848702549934388,0.9766088128089904,True

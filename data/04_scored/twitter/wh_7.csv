@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user @user lolz i was talking about how i liked it a lot,0.111500904,0.0,0.0,0.0,0.0008245641947723,0.0007754135876893,0.00058105395874,False

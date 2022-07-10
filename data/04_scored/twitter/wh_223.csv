@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user he's been excellent doing mets on sny for years , very well deserved",0.03204437,0.0,0.0,0.0,0.0007786200148984,0.0006223574164323,0.0004218567046336,False

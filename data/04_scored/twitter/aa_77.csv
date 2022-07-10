@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+“ @user : waiting on tha game i wish i had snacks ”,0.050585672,0.0,0.0,0.0,0.0009173952275887,0.0011263318592682,0.0005659144953824,False

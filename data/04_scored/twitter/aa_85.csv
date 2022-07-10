@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+so you play the battle monsters are they fun will i be able to keep up ?,0.15918289,0.0,0.0,0.115,0.0017384197562932,0.0025717497337609,0.0062383580952882,False

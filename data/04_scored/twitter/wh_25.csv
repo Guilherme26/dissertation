@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i think my nose has bled more today than it has my whole life,0.16758743,0.0,0.0,0.0,0.0146383643150329,0.0110792377963662,0.0162542350590229,False

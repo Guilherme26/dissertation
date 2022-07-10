@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"i wanna wake up where you are , i won't say anything at all",0.34684154,0.0,0.0,0.0,0.1303798109292984,0.1413304060697555,0.0477383956313133,False

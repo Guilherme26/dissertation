@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+getting a hug from kay just made my day ! #lovethatlady,0.019714156,0.0,0.0,0.0,0.0011822370579466,0.0009808830218389,0.0004673380753956,False

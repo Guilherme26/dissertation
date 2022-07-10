@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user monday night chocolate covered strawberries and catfish for us <333,0.026894007,0.0,0.0,0.0,0.0008814940229058,0.1645357608795166,0.0151645606383681,False

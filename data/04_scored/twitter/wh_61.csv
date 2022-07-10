@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i wonder what a piece of meat would do in my position right now,0.2818683,0.0,0.0,0.0,0.0092581762000918,0.0051703476347029,0.0070281620137393,False

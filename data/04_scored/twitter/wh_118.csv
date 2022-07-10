@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"damnn no wonder , kate upton is hottt  can i be you ?!",0.6237118,0.0,0.0,0.172,0.7606310844421387,0.247773677110672,0.8240150809288025,False

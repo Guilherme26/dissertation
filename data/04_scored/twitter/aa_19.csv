@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+- i still gotta go in there & write my name on my stocking !,0.05253629,0.0,0.0,0.0,0.0168938040733337,0.0043799486011266,0.0007533940952271,False

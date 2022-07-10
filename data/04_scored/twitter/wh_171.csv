@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user @user some ?!?!?!... how about all ...,0.024318827,0.0,0.0,0.0,0.0018165297806262,0.0018274176400154,0.0005444459384307,False

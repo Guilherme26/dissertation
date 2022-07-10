@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+well . 7 days till game time . i'm safe to say that it's on ..,0.018187003,0.0,0.0,0.0,0.0007369821541942,0.0005403285031206,0.0005152954254299,False

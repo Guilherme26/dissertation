@@ -1,0 +1,496 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"text, okay, okay, okay, okay, okay, okay, okay, oh, okay, i was like",0.032559406,0.9987746936734184,0.25,0.0,0.0011645866325125,0.0009043365134857,0.0003393477236386,False
+"oh, i grew up in um",0.04234509,0.0707042672467878,0.5,0.0,0.0009589366381987,0.0005680283065885,0.0004678707337006,False
+"well, it's northeast rochester, and the area actually has been um knocked down, and um school has been put there",0.09763293,0.998371434336534,0.5388888888888889,0.0,0.0010438001481816,0.0004219244583509,0.0006373193464241,False
+"so right where um like rdaddress2, rdaddress3, that area",0.049898956,0.2134636758116823,0.3571428571428571,0.0,0.0012540186289697,0.0005299508338794,0.000740772113204,False
+"so yeah, we mission san josé high school",0.03358948,0.0019696819318059,0.42,0.0,0.0009149017278105,0.0004363664193078,0.0003467274655122,False
+"uh, what is it, mission san josé high school, when i was eighteen, they tore all the houses down in that neighborhood and put mission san josé high school there right right, razed the whole neighborhood",0.23716165,0.9993652465559776,0.422010582010582,0.0,0.0033130962401628,0.0008895212667994,0.0538333728909492,False
+"it was uh, a inner city working class neighborhood",0.022074303,0.9880736870749272,0.5,0.0,0.0013471960555762,0.0004501076764427,0.0005113614606671,False
+all the neighbors on my street owned houses,0.017006932,0.0055802687262995,0.5,0.0,0.0017416791524738,0.0006146573578007,0.0007028522668406,False
+the the n,0.06012806,0.7938591024394954,0.5,0.0,0.0240584351122379,0.0050520538352429,0.0004548194119706,False
+the woman who owned the corner store was our next door neighbor,0.10892494,0.0012793126767985,0.5,0.0,0.0015077033312991,0.0043383636511862,0.0098732952028512,False
+my grandmother had lived there for decades,0.01631277,0.0023887378280803,0.5,0.0,0.0010947947157546,0.0004294587415643,0.0010319945868104,False
+it was her first home in the city after moving from um rdaddress3 houses,0.012703137,0.0094255387446384,0.375,0.0,0.000957629235927,0.00048915395746,0.0008428354631178,False
+"and so we had a very, very closeknit neighborhood",0.065721996,0.0177221897846332,0.37,0.0,0.0041520344093441,0.0003364260483067,0.0003824096347671,False
+"there was like a rdaddress1 street area where i still have those same friends today, and it was one of those old school neighborhoods people talk about where d every person on the street had the right to discipline you, and i wasn't a bad child, so they never had to discipline me",0.09279997,0.8337564128815279,0.5392857142857143,0.0,0.0044355671852827,0.0009801039705052,0.0009541396866552,False
+"what? like everybody? we all you know, fictive kinship",0.17449278,0.1125995444033833,0.5,0.0,0.003424814203754,0.0004463533987291,0.0011192082893103,False
+"so we're all cousins, and um, it just i've really a lot of fond memories about",0.033246122,0.0033729230877445,0.4,0.0,0.0005591257358901,0.0003708039876073,0.0006685541593469,False
+"you know, we had crime, of course, and we had you know drug usage and um, but everyone in the neighborhood really stuck together and it was a a code that people you know in this particular area, so there was not like",0.119228795,0.999853270826646,0.4083333333333333,0.164,0.0009379198309034,0.0006317995721474,0.0011545956367626,False
+"oh, it's somebody robbing a house in the neighborhood that they lived in",0.1609341,0.9996986135687675,0.5,0.0,0.0016756918048486,0.0176826808601617,0.0159492995589971,False
+"you know, an outsider would maybe have come in, or maybe a relative who was on drugs may have taken something, but it was really uh, a place where people know worked at rochester products and kodak and they owned um houses in in this in that area, but they owned other houses in the city and um, yeah, so it was a really really good neighborhood",0.08689302,0.0115736323830659,0.403125,0.0,0.000633749354165,0.0004971087910234,0.0006336898077279,False
+"well, i didn't go to the neighborhood schools",0.038053125,0.9966409957674164,0.5,0.0,0.0006806649616919,0.0005465975846163,0.0003589391126297,False
+"i went to my grandmother raised me, and she uh, worked at google school and the google hel high school for a while, so she put me in uh, mission san josé high school day care, and um, so i went to uh mission san josé high school school, cause that was one of the three schools that they uh transport to mission san josé high school, fortysix and twentyeight, and then i went to",0.03753809,0.0099036082024081,0.42,0.0,0.0019689078908413,0.0006024549365974,0.0004068547859787,False
+when i got to fourth grade,0.08850401,0.1845791900895367,0.5,0.0,0.0028508976101875,0.0004553488979581,0.0007022878271527,False
+"they put me in the mission san josé high school program, so then i went to mission san josé high school school, and for elementary, so mission san josé high school and mission san josé high school, and then for seven through twelfth i went to mission san josé high school",0.025692256,0.2459310000324872,0.4083333333333333,0.0,0.0009854222880676,0.0003698536020237,0.0002324336091987,False
+"okay, well, you know, the class of of of of nineteen ninety was probably the best last graduat no g, graduating class a, you know from mission san josé high school, but it was really like i",0.06412373,0.0234678455072647,0.314,0.037,0.0010735066607594,0.0005700504989363,0.0004906800459139,False
+s,0.0495556,0.1787004856100795,0.5,0.0,0.0025115853641182,0.0020734022837132,0.0005548478220589,False
+"we all, many of us went to that high school from seventh to twelfth grade, and i believe when we got to ninth grade there was um, sort of uh, a reorganization of the city, prop, uh, the city schools and mission san josé high school was threatened to be closed down as a high school, but they ended up making, i think charlotte became the middle school and then we stayed the high school",0.03736641,0.9871226149803244,0.4447222222222222,0.026,0.000726917583961,0.0004277370462659,0.0003250866720918,False
+so i had the same classmates pretty much from seven through twelfth grade and again,0.043718524,0.9938366892080588,0.425,0.0,0.0006711518508382,0.0003763904096558,0.0004838530148845,False
+"just really, um, i'm still in contact with you several people from that time and just i have very fond memories about my high school experience",0.029469188,0.0035496955287689,0.43,0.0,0.0005475680227391,0.000400662276661,0.0003624571836553,False
+"very, um",0.012811388,0.9409619091304412,0.4,0.0,0.0009867980843409,0.0004313242388889,0.0010739408899098,False
+"just, it was a s",0.028267438,0.99749630494632,0.5,0.0,0.0020617505069822,0.0181587897241115,0.1224577873945236,False
+very special time in my life and i was a able to interact with a lot of de different people,0.089577995,0.0019366283764028,0.3392857142857143,0.0,0.0005842897808179,0.0008801087969914,0.0004926468245685,False
+i was a student aid and i was always a r,0.019852988,0.0332496115685655,0.5,0.0,0.005142530426383,0.0076167434453964,0.0010391793912276,False
+"a really good writer, so i did activities around writing, but i had a s",0.047495455,0.1584208030553526,0.15,0.0,0.0006371065392158,0.0006410622736439,0.0008108508191071,False
+some trauma at my home,0.03444787,0.9827316185422996,0.5,0.412,0.0008409033762291,0.0011538919061422,0.0019117230549454,False
+"um, and so once i got to school i would",0.043718524,0.9918088282499709,0.5,0.0,0.0012156512821093,0.0008045756840147,0.0007117937784641,False
+"i still wanted to get back home and i liked being home with my grandmother, and as appealing as after school and extracurricular activities were, i wanted to be around my grandma and come back home",0.048525527,0.0008301240983666,0.3625,0.0,0.0061046429909765,0.0010413229465484,0.0005659234011545,False
+"so i've always been a home body, but being involved in just certain special projects during the time of school, but never did sports",0.022945397,0.9681195030581244,0.3571428571428571,0.0,0.0006852927617728,0.0003648967540357,0.0003109636891167,False
+"never really was interested in that, but always interested like, i've always been a book worm, and so and i've always been really, you know, centered around my house",0.15859914,0.0105757965117024,0.425,0.05,0.0016469588736072,0.1308157444000244,0.0055831228382885,False
+i wanted to go home and be home with my grandma,0.086087525,0.0134926759103363,0.5,0.0,0.041123978793621,0.0054264338687062,0.0048152450472116,False
+"yes, my grandmother migrated here from uh, florida and georgia",0.021796638,0.0317394902956966,0.5,0.0,0.0007387832738459,0.0006971495458856,0.0011736114975064,False
+we always go back,0.033074442,0.026143514424494,0.5,0.0,0.0017448440194129,0.0016662492416799,0.0003934233100153,False
+if i'm like grandma,0.034962907,0.0451337804653785,0.5,0.0,0.006544666364789,0.0007564015104435,0.0004452761495485,False
+what day which one you came from? really? and so she went to,0.1024659,0.9988775799432577,0.4,0.0,0.0010801942553371,0.0007643040153197,0.0030534211546182,False
+um,0.012811388,0.2300251165294303,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+she was born in georgia,0.023803791,0.0718894264686553,0.5,0.0,0.0008358461200259,0.0004409888351801,0.0004583126865327,False
+spent some time in florida,0.030327583,0.129128617076796,0.55,0.0,0.0007879940094426,0.0004770082887262,0.000454999593785,False
+"probably go, went back to georgia, then went to new jersey with her husband when she was in her late teens, and then she came up here and um, so i, my mother was her fifth child",0.052136723,0.0038677130546045,0.5272727272727272,0.0,0.004494126420468,0.0043416768312454,0.0018931906670331,False
+is her fifth child and she had custody of me and several of my cousins and stuff,0.053335425,0.0030059660326285,0.5,0.0,0.0053643239662051,0.0019649064633995,0.0012940079905092,False
+"so she was always just like, is still the center of our our family structure, but just this, this absolutely wonderful woman who had these strong southern sensibilities that she passed",0.05093802,0.0188519716341481,0.3333333333333333,0.0,0.0007058487390168,0.0015396886738017,0.0014168930938467,False
+"i definitely always say that i'm a a, an upstate southerner, you know, strong southern roots",0.085282035,0.0007512903255611,0.4277777777777778,0.0,0.0006990116671659,0.0005584128666669,0.0004938669153489,False
+"yup, yup, yup, when we were younger, my grandmother's siblings have all passed on",0.043031808,0.0,0.5,0.0,0.0006884830072522,0.0006453425739891,0.0008266726508736,False
+"she's eightynine, she just turned eightynine in um in july, and so when we were younger, we went down south a couple of times, and uh, i'm assuming my grandmother probably left something behind there that she wasn't anxious to go back and find, and but she instill like we have dirt under our fingernails and we have, you know, i've always known how to cook really well and you know we got up the same as everybody else on saturdays and did our chores, and those are really southern practices and being able to take care of uh, different members of the family and just have that intergenerational legacy of you know, care taking and and and family rituals, and really just strong, strong beliefs that her parents and her granparents instilled in her",0.2712817,0.000180349020509,0.4656746031746032,0.02,0.0007413529092445,0.0013331280788406,0.0004765765334013,False
+"so yeah, right, um, southern weather does not appeal to me in that way",0.02655065,0.9931302551502,0.4285714285714286,0.0,0.0008212351822294,0.0005003933329135,0.0005273155402392,False
+"if i move anywhere, i wanna go to toronto, um, but i do wanna",0.058130227,0.0275880054638212,0.5,0.0,0.0012664564419537,0.0028962246142327,0.0006075053242966,False
+a,0.0224908,0.0275839818119011,0.5,0.0,0.0010865016374737,0.0007276595570147,0.0004114846815355,False
+we have a lot of family now,0.025005542,0.0022051698860352,0.5,0.0,0.0009746133000589,0.0003563976788427,0.0002744771772995,False
+"my husband's family's from south carolina and they got strong for real southe, like his mother and his father are like first generation",0.07850813,0.0018522807102252,0.3527777777777777,0.0,0.0050575290806591,0.0022025220096111,0.0012343304697424,False
+"they moved here in their late twenties, but um, you know, definitely could see myself visiting",0.03753809,0.0064765297403015,0.575,0.0,0.0006475130212493,0.0005828330758959,0.0005110746715217,False
+"probably wouldn't wanna go any, uh, any farther than virginia c",0.07211506,0.9985413218620508,0.5,0.0,0.0008980069542303,0.0010376331629231,0.0004724487080238,False
+weather,0.017909339,0.2312187403227445,0.5,0.0,0.0008863537223078,0.0006465134210884,0.0002893188793677,False
+"i'm not interested in sliding of the side of a of the land or anything, um, but really i'm interested in south cariol sou, south carolinian culture, um, because of my husband's family, strong, uh background, so for my children, we've never been to south carolina",0.07011723,0.0080117168743914,0.4069444444444444,0.031,0.0006918312283232,0.0009424938471056,0.0003849465574603,False
+"um, but i'm really interested in geechee and gullah culture and i, something i focus on in my classrooms and um, and my children's uh experiences as they've growing up, and i just i really could see myself visiting south carolina on a more regular basis",0.029125832,0.0760672289645713,0.38125,0.0,0.0005709221004508,0.0004167450824752,0.0003585270314943,False
+"oh, i tease him that he should have",0.1884524,0.900246128278196,0.5,0.247,0.0018488764762878,0.0039742887020111,0.0096827959641814,False
+"uh, when i first met him, i thought his family was west indian, cause you know, i wasn't sophisticated enough to be able to tell dialects at that time, and i only knew florida and georgia, and that's a very different sounding um tone",0.0825038,0.999944324579357,0.3958333333333333,0.064,0.00060081720585,0.0011592927621677,0.0006308357114903,False
+"so when i first heard his mother and his her, his uncle speak and she would say things, and i was like, is his mother west indian, and then i found out they're from south carolina, and then just like daughters of the dust, and um, mama day, and reading about the ugh, those sea coast islands, and just really being caught up in the beauty of the language, so i tease him that he probably shoulda been educated as an esl student, because in many ways his his parents have this heavy hi",0.17242117,0.0587037402974104,0.40625,0.052,0.0010457071475684,0.002071546157822,0.0032887721899896,False
+his mother and his siblings,0.038911518,0.0018821153440922,0.5,0.0,0.0035041461233049,0.0026003357488662,0.0090943183749914,False
+"i mean, her siblings have this heavy speech pattern that i hear him say tha",0.1539292,0.9162013089684816,0.628125,0.0,0.0007426617667078,0.0010073516750708,0.0029433947056531,False
+"i'm like, yeah, you know, i said really, and it's not like they don't speak proper english",0.1250247,0.9997962243838672,0.4666666666666667,0.101,0.0016667100135236,0.0038002657238394,0.0007349747465923,False
+"the there's no such thing as proper english, you know, in my estimation, but i just love the musicality in their voi",0.09118898,0.0021468716404369,0.4375,0.058,0.0006795993540436,0.0006037367274984,0.001445633242838,False
+"i think it's just the one of the prettiest things that we could ever experience, and get the closest that we could to our enslaved ancestors and just our african roots",0.2965773,0.9189979258819472,0.5,0.076,0.0007722408627159,0.0031424115877598,0.1063808277249336,False
+"and you know, going beyond just american soil, so i'm very ugh",0.1473238,0.999985812901378,0.45,0.234,0.0023605655878782,0.0193962939083576,0.0021446631290018,False
+i'm in love with south carolinian culture,0.043718524,0.0004780992625987,0.25,0.0,0.0008930566837079,0.0014758122852072,0.0004935417091473,False
+l in love,0.03616466,0.0037769871550128,0.25,0.0,0.0067353742197155,0.0007002711645327,0.0293792132288217,False
+i know more about his family structure than he does,0.0495556,0.8770263185581855,0.25,0.0,0.0006376465316861,0.000428619881859,0.0005122835282236,False
+i was like,0.020269485,0.0245546487933067,0.5,0.0,0.0018684471724554,0.0007264238083735,0.0008885335410013,False
+"look at, i told his mother, i said, oh, miss mary, you know you're uh, you're a, you're gullah",0.21186037,0.0348228892741659,0.5,0.082,0.3512191772460937,0.0386873185634613,0.2333575338125229,False
+she like,0.03599298,0.0062186285546356,0.5,0.0,0.0064908182248473,0.0010837875306606,0.0021513258107006,False
+is that what i is? i said so i'm like,0.03221605,0.0123447131151083,0.5,0.0,0.001334203290753,0.0006547387456521,0.001264019170776,False
+"yeah, that's what you is",0.045091953,0.0004637631398314,0.5,0.0,0.0569644458591938,0.0038407170213758,0.041912741959095,False
+"yeah, mmhm, so i, um, because i, i",0.04406188,0.1189391805639133,0.5,0.0,0.0010341730667278,0.0005791056319139,0.0011497434461489,False
+"i don't like to say i graduated early, but i was put up a grade, so i graduated younger than my class age",0.05133759,0.030379317117718,0.475,0.066,0.0008321587229147,0.0004686732718255,0.0008302783826366,False
+"and um, like i said, i had, my mother was always um, on drugs or incarcerated, and so i had a lot of things that were barriers, and because i was not a, i didn't make a lot of noise",0.11536485,0.981980954118148,0.5,0.0,0.0064264154061675,0.0043559251353144,0.0165733788162469,False
+sometimes you get pushed in the corner,0.15042676,0.9873722006186888,0.5,0.0,0.0317451432347297,0.0065056532621383,0.0061793997883796,False
+"and so, although i did well academically, i had a an a guidance counselor who wasn't really um, engaged, and at that time i didn't know people",0.01596569,0.9989993624747068,0.4,0.083,0.0006725505809299,0.0005319420015439,0.0003297708462923,False
+"i didn't have friends whose families had gone on to college and you know people like, oh, you're really smart and all, but there was nothing you know",0.1473238,0.9997224872368272,0.3928571428571428,0.058,0.0019208200974389,0.0014185179024934,0.0029818476177752,False
+"my grandmother had always told me you know, own property and own",0.016451603,0.0013101904796818,0.2,0.0,0.0160397104918956,0.0006305081187747,0.0005360356881283,False
+so those things educa,0.04268845,0.0696650324678905,0.5,0.0,0.0009133139974437,0.0004059091443195,0.0008154981187544,False
+"not that she didn't push education, but it wasn't necessarily at the forefront, so i went to",0.050242316,0.9981151128068072,0.5,0.0,0.0006917382706888,0.0003865325998049,0.0004935563192702,False
+uh,0.02124131,0.8297592872592403,0.5,0.0,0.0012679392239078,0.0007949224091134,0.0007840975304134,False
+"i actually was supposed to go to a school in syracuse, and my grandma was so afraid i was gonna get kidnapped and i was like, oh, okay, i was all you know, like okay, whatever, and i ended up going to cosmetology school",0.2712817,0.7865315256108425,0.45,0.0,0.0077290148474276,0.0020394341554492,0.0047282925806939,False
+"i was too young for the program and they tried to kick me out and i was like, no, you said",0.15042676,0.999120221056456,0.45,0.0,0.0180123746395111,0.0067335208877921,0.0212721042335033,False
+i had to be a high school graduate,0.031529333,0.950111783011307,0.42,0.0,0.0020614413078874,0.0005996755789965,0.0004441239289008,False
+"i'm sorry, i'm seventeen, but i'm staying",0.03736641,0.0338953927993321,0.75,0.161,0.0007374665001407,0.0006355881923809,0.0004194724897388,False
+i'll be eighteen before the program finishes,0.024147147,0.1770759435985337,0.5,0.0,0.0008824032847769,0.0004918400081805,0.0005658303853124,False
+so i went there,0.026035614,0.969141570255496,0.5,0.0,0.0009952536784112,0.0004561976238619,0.0004277027910575,False
+"um, then, uh, so i graduated from there at eighteen, worked in that field for like a year, then at nineteen i got pregnant",0.061726328,0.9962160981246504,0.3333333333333333,0.0,0.0008103684522211,0.0007030261331237,0.0023592892102897,False
+i had my first son and then i went back to school,0.029469188,0.0183219225545361,0.4375,0.0,0.0027913791127502,0.0005369784194044,0.0003705585841089,False
+"i started going to mission san josé high school and um d, and kept going to school and kept working and kept doing things",0.03358948,0.0019297136560659,0.42,0.0,0.001053188345395,0.0005282149650156,0.0002456688671372,False
+"and yeah, well, even though i was always a really good hair stylist, i always was more",0.04818217,0.0112278069517379,0.2,0.0,0.0013652535853907,0.0006817075191065,0.0010535040637478,False
+um,0.012811388,0.2300251165294303,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i was involved in more conversations than anything,0.027580723,0.0132340296039444,0.25,0.0,0.0005867721047252,0.0003569115942809,0.0004779087321367,False
+i would be leaning on the clients cracking jokes,0.22987647,0.9979443311364192,0.5,0.0,0.0022269471082836,0.0011313267750665,0.015003053471446,False
+i'm always so funny and i wasn't really,0.053335425,0.0077537262742384,0.3875,0.0,0.0007159232045523,0.0005009485757909,0.0007753167883493,False
+it was just something so i wouldn't be laying around the house,0.030842619,0.9582841777190424,0.5,0.0,0.0019453363493084,0.0007274560048244,0.0015851416392251,False
+"you know, i wasn't invested",0.025692256,0.9999332371829548,0.5,0.0,0.001827395055443,0.0005769657436758,0.0004448713443707,False
+i guess,0.024490505,0.9950507889189222,0.5,0.0,0.0008824201067909,0.0004216697416268,0.0004230588092468,False
+"um, so when i had my son, he was a preemie, so i was pregnant my twentieth week my water bag broke",0.19936113,0.999316187807381,0.3333333333333333,0.118,0.1113214492797851,0.0054012052714824,0.0027975447010248,False
+"um, then i ended up having him eight weeks later",0.035134587,0.981935471949036,0.5,0.0,0.000871178403031,0.0004908613627776,0.0005841992679052,False
+i was on bed rest and i remember being in the bed for that time and i had my,0.05373499,0.0076484258132471,0.5,0.0,0.0013066180981695,0.0016792636597529,0.0006678584613837,False
+"i was a, had a lot of friends, and when i got on bed rest, it seemed like those relationship and we're young, so i mean, i'm not angry with them, but i understood um",0.12309273,0.0997461820759123,0.49375,0.0,0.0007183928973972,0.0004247420583851,0.0003519931924529,False
+"and so i was on social services, probably for like a year and a half, and um, i didn't even have all the benefits i was getting",0.020269485,0.9999744870663436,0.5333333333333333,0.0,0.000801409012638,0.000452026433777,0.000443809927674,False
+"i didn't get rent or anything, cause i still lived at home, so i got health insurance and i had food stamps and i always make that so i never had saw food stamp",0.024490505,0.0015981647378471,0.5,0.0,0.0012563379714265,0.0004905472742393,0.0004700692370533,False
+"i would always tell my grandma to go grocery shopping, but i remember, and um, being home with my firstborn son",0.036851373,0.0021010616182055,0.5,0.0,0.0011691008694469,0.0010394020937383,0.0007105575641617,False
+he had a lot of medical appointments and it was i was taking him to an appointment,0.016798683,0.0154804791781974,0.5,0.0,0.0009007689659483,0.0005599438445642,0.0010450358968228,False
+one day,0.018881164,0.901891295231436,0.5,0.0,0.0010801263852044,0.0004000600019935,0.0004299334832467,False
+"we were going to the doctor's all the time, so i had stopped working",0.021102477,0.9980018544564628,0.5,0.143,0.0009199563646689,0.0008259132155217,0.0005635953275486,False
+"and um, that's why i went to apply for benefits and there was a sign on um, on a bus i was driving, but there was a sign on a bus and it said do you want to change your life? and it talked about this mission san josé high school program",0.058929358,0.7970036907319797,0.42,0.0,0.001966489246115,0.0006724857958033,0.0009656564798206,False
+"it was some acronym for like, supportive living or supportive services at d, um at mission san josé high school",0.00930175,0.142515962721312,0.3066666666666666,0.0,0.0006211384898051,0.0004029157862532,0.0003955670981667,False
+"and so that next morning i called and i was like well, you know, i wanna you know, find out about this program and this is you know",0.04680874,0.1522258395349731,0.5,0.0,0.0008009208249859,0.0006388662150129,0.0012696939520537,False
+i qui,,0.067027662755975,0.5,0.0,0.0063247699290513,0.0005451862234622,0.0006333125056698,False
+"i qualify, and that changed my life",0.03616466,0.0024093329649456,0.5,0.0,0.0010282975854352,0.0004783765762113,0.0005705685471184,False
+so i l,0.021380141,0.9830759239273466,0.5,0.0,0.0062146540731191,0.0012648237170651,0.024783419445157,False
+i look at this little person that i was responsible for,0.05852979,0.0402745799679955,0.496875,0.0,0.0007011275738477,0.0014961474807932,0.0017076649237424,False
+"i knew i, d",0.027065687,0.0031270034433518,0.5,0.0,0.0025761886499822,0.0006795125664211,0.0018271558219566,False
+i didn't grow up on social services,0.026207292,0.971372461708991,0.4833333333333333,0.0,0.0012711054878309,0.000499878253322,0.0004877129977103,False
+"my grandmother always worked, and um, even though i had you know my family, uh, you know, had relatives who were on dss",0.09763293,0.0173175296207842,0.5,0.0,0.0007487511029466,0.0042075389064848,0.0016618312802165,False
+"and but it never was anything that like she had owned restaurants she had, n",0.0358213,0.8064444895490858,0.5,0.0,0.0010071083670482,0.0006181726348586,0.0009919687872752,False
+"it was nothing that was instilled in me and had i not needed health insurance for this child, i, it would never have been something i considered, but i just wanted a different life",0.036508016,0.988957966547656,0.5,0.0,0.0016569674480706,0.0006031080847606,0.0005522957071661,False
+"i wanted to you know, i always knew i was smart",0.10515087,0.0023236738862904,0.3928571428571428,0.0,0.0006549303070642,0.00078694045078,0.003723561996594,False
+i always knew like i never had stopped learning,0.043375164,0.001467887830122,0.5,0.0,0.0009351047337986,0.00049794674851,0.0004505994147621,False
+"that never school wasn't equivalent to learning for me like i'm gonna learn regardless, but um, yeah, so seeing that sign and then i saw it again in the newspaper like the next morning, but i i called and it just yeah, it changed my life, changed my life, so i went to mission san josé high school did extremely well there and um, i met my husband and we had a baby and i was working in um",0.035134587,0.0083754550079713,0.4941666666666666,0.0,0.0012287731515243,0.0006416086689569,0.0003276042698416,False
+the field,0.019158829,0.0005064138501848,0.5,0.0,0.000787524098996,0.000480412854813,0.0005726672243326,False
+"i was uh, had a human services degree from mission san josé high school and so i did that for like seven years, but i was take like a a c",0.025005542,0.106953645443542,0.46,0.0,0.0007507231202907,0.0005572097143158,0.0022746236063539,False
+"i would take an english class and a a social work class, and i always made the joke when i was a child that i would make",0.1550967,0.9611999841438308,0.4916666666666666,0.0,0.0019426587969064,0.0020980453118681,0.0012836746172979,False
+"i would be an english teacher or a social worker, and i woulda made twenty thousand a year",0.036336336,0.1365576495434943,0.4916666666666666,0.0,0.0033147139474749,0.0023794318549335,0.0005123253213241,False
+but when i became a social worker like that was still the b,0.06931809,0.2482727058403456,0.4833333333333333,0.0,0.0016754869138821,0.0012173122959211,0.0009237600024789,False
+i was like what you know like this is you know like i should not qualify for services and so i ended up going back to mission san josé high school,0.054534122,0.9998405441646466,0.46,0.0,0.0016273050568997,0.0014398784842342,0.0007973573519848,False
+"i went to mission san josé high school did extremely well there, and when i got ready to go to grad school i remember one of the professors who um, just fell in love with me",0.040284947,0.001191149992504,0.408125,0.0,0.0008752799476496,0.0004732921079266,0.0022414536215364,False
+"by this time i had uh, my third child",0.03461955,0.005386954605159,0.5,0.0,0.0010190701577812,0.0007004493963904,0.0006395503296516,False
+"i was married and she was like, you don't need to go here",0.05653196,0.0534158271391447,0.375,0.0,0.002496144734323,0.0435663945972919,0.0042026229202747,False
+you've already done this,0.03358948,0.169657581260631,0.5,0.0,0.0013064941158518,0.0004239504341967,0.0006839744164608,False
+you need to go to another school,0.17661177,0.9961725830742548,0.5,0.0,0.2566141784191131,0.0279625039547681,0.0022603697143495,False
+so i apply for mission san josé high school,0.017423427,0.9132679474993898,0.42,0.0,0.0011821886291727,0.0003712360630743,0.000268405303359,False
+i was still working on my bachelor's degree and i applied for their phd program and they said you know you,0.014716201,0.0200342695924279,0.5,0.0,0.0005915098590776,0.0006184881785884,0.0006578018656,False
+you are a w,0.15246986,0.001401303842051,0.5,0.0,0.8835785388946533,0.1125178858637809,0.0225455574691295,False
+b,0.025520578,0.2113829708917098,0.5,0.0,0.0011319821933284,0.0013544254470616,0.0005170496297068,False
+"beautiful candidate, but we only accept seven people and we need to make sure that you gonna finish your degree, but like if you were done with your bachelor's degree, you would absolutely get in, but they said you know, um, i took my gre's like within two weeks i didn't study and i remember getting like an average and i cried, but i got a hundred percent on the english and i remember crying",0.11600884,0.124074969874769,0.4142857142857142,0.081,0.00184762023855,0.0007333844550885,0.0014970110496506,False
+"i was driving home, told my husband like, oh, i got an average",0.05413456,0.9809362352507078,0.575,0.0,0.0012706974521279,0.0018267426639795,0.0008323827642016,False
+he's like you got a average,0.10828095,0.9936820021453516,0.575,0.0,0.0247211251407861,0.0269463416188955,0.0255238376557827,False
+you didn't study,0.27690583,0.9993520430167137,0.5,0.0,0.0013364078477025,0.0007186185102909,0.0004806714132428,False
+"i was like, but i did get a hundred cause it's something about language policy",0.07011723,0.8364922577485849,0.5,0.0,0.0007681604474782,0.000496594409924,0.0005292917485348,False
+"i'm like, oh, i can do this all day",0.045778666,0.0061364864458069,0.5,0.0,0.0009332657791674,0.0006469439831562,0.0004714396782219,False
+and then i went to mission san josé high school,0.019436494,0.0683460197588133,0.42,0.0,0.0012810211628675,0.0004301976878196,0.0004011074779555,False
+"they gave me a partial scholarship for my master's degree, so i went from mission san josé high school",0.020685982,0.9444411758481932,0.485,0.0,0.0009822531137615,0.0004135421186219,0.0003407244803383,False
+"i tell people i went from a community college to um, a k, a state college, and then i went to a private university, and then when i finished um, mission san josé high school and my master's program, i had considered uh, applying for they had doctoral program in visual studies",0.01492445,0.9095996883607076,0.4733333333333333,0.0,0.0006363264401443,0.0003985653165727,0.0004051806172356,False
+"i met this woman at a christmas party and she said, do you know about mission san josé high school? they had this mission san josé high school internship program and then i applied and i did that for a year, and then i got a full time job and a tenure track job, and i was like oh, well, you know, and so the next stage of school is coming, you know",0.061726328,0.0507466258698166,0.41625,0.0,0.0007304226164706,0.0015022017760202,0.0021630185656249,False
+"yeah, um, i was a d",0.06372416,0.0634498016637651,0.5,0.0,0.0033034158404916,0.0100984536111354,0.003020281670615,False
+d,0.027409043,0.1767557503201783,0.5,0.0,0.0010803996119648,0.0010978825157508,0.0010499141644686,False
+"i didn't have the traditional mission san josé high school experience, but no, i, i didn't",0.025863936,0.99885674636776,0.46,0.0,0.0008176320116035,0.0003778783138841,0.0003112401172984,False
+i was there for a year,0.02054715,0.8822244595713887,0.5,0.0,0.0005936942761763,0.0003736767976079,0.0004059278871864,False
+i was a mom,0.039254878,0.0045856815813011,0.5,0.0,0.0466268695890903,0.0020431906450539,0.0008367816917598,False
+"i was the oldest student in the class, even though i was probably like twentynine",0.038911518,0.0054216474261592,0.5,0.0,0.0045434217900037,0.000543161004316,0.0011287427041679,False
+"no, ma",,0.9969492969189854,0.5,0.0,0.008825434371829,0.0005280654877424,0.0005070294137112,False
+"maybe i was thirtyone, maybe i was thirtyone, and i remember being um",0.034791227,0.9983305123062648,0.5,0.0,0.0015630800044164,0.0004965518019162,0.0007931042346172,False
+"so in the the, the phd and the master's program, they combined all our cla",0.015202113,0.9358576533287076,0.5,0.0,0.0006095843855291,0.0004077186749782,0.0003665823605842,False
+"well, everybody took classes together",0.06412373,0.0467744170846048,0.5,0.0,0.0007380457827821,0.0004645448352675,0.0003900142910424,False
+"i was in classes with people who were freshman, so freshman all up to phd students, and um, i didn't feel supported as a black student",0.39230084,0.9999149966275837,0.5833333333333334,0.073,0.0056412369012832,0.159379169344902,0.1204914897680282,False
+"i remember being, you know, i know",0.019158829,0.1988165992630458,0.5,0.0,0.0009534141281619,0.000409631349612,0.0004717613046523,False
+"that's the always the story that folks tell, and i knew that they had more investment in their doctoral students cause it was a fully fully funded program and the master's program was a one year",0.011384231,0.0521074249492051,0.25,0.0,0.0005957090179435,0.0003644081298261,0.0004443206416908,False
+"it was fifteen credits a semester, and um, but i remember just feeling you know, and i took all the black studies and all the race and all the postcolonial things, and a poetry is",0.15188612,0.2346882012517432,0.5833333333333334,0.0,0.001524718129076,0.0315591506659984,0.017851447686553,False
+"also, i have a crea",0.04131502,0.9995330477434616,0.5,0.0,0.002618228783831,0.0088288336992263,0.0088109010830521,False
+"my bachelor's degree is in creative writing, and i remember my uh, creative writing, this poetry professor",0.01631277,0.0417410967759818,0.25,0.0,0.0007032844587229,0.0004534121253527,0.000575931800995,False
+"he's this awardwinning professor and his wife is this awardwinning novelist and i had them both, and him he had missed a day during the regular semester, so he wanted to use like exam week to make up one",0.043718524,3.794154736538724e-05,0.5,0.053,0.0090435612946748,0.0007222668500617,0.0007962415693327,False
+i don't wanna make this up,0.112788886,0.999990641283682,0.5,0.0,0.0020042220130562,0.0036033324431627,0.000822871166747,False
+"i did all my time whatever, and we had to write this particular type of like, really creativestyle, really skilled poem, and i had done this thing and he emailed me and he was like, you know i could cry",0.048868883,0.0062166912407482,0.3555555555555555,0.069,0.012220611795783,0.0006278890068642,0.0025666311848908,False
+i wanted to hug you and just tell you that this was one of the best pieces i've ever seen in my life,0.04268845,0.0017821797523278,0.0,0.0,0.0008624236215837,0.0006154915317893,0.0016138071659952,False
+but that was it,0.02262963,0.9397430108421028,0.5,0.0,0.0015399783151224,0.0004446604580152,0.0006923687760718,False
+"no, well, let me take you up under my wing and his wi",0.34388447,0.8404517398717976,0.5,0.0,0.0962297841906547,0.5998210310935974,0.4069127142429352,False
+"i had the same experience in his wife's class, so in all of my classes i got a's in all my classes, and my professors were always commenting on my writing style and my articulation in terms of my ideas, and the way i laid out my arguments, but not one of them said, except for one crazy lady who was mad because i wouldn't be her friend",0.36805952,0.0572615442299192,0.7041666666666667,0.165,0.0020207979250699,0.1380994617938995,0.2709612250328064,False
+i had to report her,0.104076885,0.98409638166395,0.5,0.0,0.0008943855646066,0.0015436550602316,0.0033917555119842,False
+"it was a whole, you know whatever, but none of them said, you know what",0.05613239,0.9892312768299344,0.4,0.0,0.0016572090098634,0.0005078809917904,0.0017437628703191,False
+let me push you to the next level,0.2008281,8.416883720334136e-05,0.5,0.0,0.0115103404968976,0.2493987828493118,0.0323458015918731,False
+"let me connect you, and so i felt very, um, very isolated, very just black",0.37647265,0.995925709675333,0.4511111111111111,0.169,0.0109106758609414,0.0992513969540596,0.1129908859729766,False
+"in this, you know, blank, white space, and um, you know, so i understood",0.13017663,0.9930491860152164,0.5,0.0,0.0008671554969623,0.0167852770537138,0.0096140643581748,False
+i was there to just get this degree and people love the mission san josé high school name,0.026722329,0.0145262179668874,0.3349999999999999,0.0,0.0007035183371044,0.0003949754755012,0.0008144462481141,False
+"i knew that i was gonna stay here, so i needed something",0.036508016,0.0011486781111249,0.5,0.0,0.0008604979375377,0.0017257853178307,0.0005647624493576,False
+i,0.018187003,0.1365710617165614,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i made the joke that a lot of my colleagues they had degrees from every and anywhere,0.12244874,0.1097704402262663,0.5,0.0,0.0011197654530405,0.0008096479577943,0.0008016053470782,False
+"but if you go to mcc, you see, the majority of black folks have at least one degree from rit or mission san josé high school",0.31639808,0.1960513072248992,0.5511111111111111,0.0,0.0654157921671867,0.1115498095750808,0.0584756694734096,False
+"you know, so i knew where i was gonna be at, so i knew mission san josé high school would mean something you know on the scope of the universe, but i'm not in love with mission san josé high school",0.08796701,0.9994442889625864,0.4365624999999999,0.102,0.0008487864979542,0.0004363686894066,0.0013207568554207,False
+"yeah, that was",0.02397547,0.0168705764045302,0.5,0.0,0.0012064713519066,0.0004697559052146,0.0005861890967935,False
+"i've always had really good mentors, but not for writing",0.078108564,0.9820297148184544,0.15,0.0,0.0005660639726556,0.0003913278924301,0.0004307426570449,False
+"um, so my writing life, even though i, i've always been a writer, um, i was a mother first, and mothering my children has always been the s most single greatest thing that i thought i could do",0.040284947,0.0308130667947082,0.2901785714285714,0.0,0.0015407049795612,0.0011947556631639,0.0013067567488178,False
+so i stayed at home,0.020824814,0.9758296546723092,0.5,0.0,0.0011874653864651,0.0004853672289755,0.0003984921786468,False
+i was a stay at home wife,0.0681194,0.0051531953310139,0.5,0.0,0.0260531567037105,0.0024355691857635,0.000681459379848,False
+"um, and i had like a little summer camp every year for them, camp mary, just my three kids and the youngest two are sixteen and eighteen and they still like mom",0.048868883,0.0045259527039089,0.59375,0.0,0.001813028124161,0.0011184461181983,0.0006749478634446,False
+can i be like i don't get y'all dusty butts up in camp mary is over,0.5149511,0.0026897964061933,0.7,0.0,0.1187548339366912,0.3768235146999359,0.7520906925201416,False
+they're like,0.02517722,0.0003328007210384,0.5,0.0,0.0505975522100925,0.0006339284591376,0.0088278157636523,False
+so it's not so,0.018464668,0.9830437049071564,0.5,0.0,0.0009299230296164,0.0004930343711748,0.0003713475598488,False
+you heard me telling mary about going to mission san josé high school,0.016590435,0.9687115163773063,0.42,0.0,0.0019258473766967,0.0006795349181629,0.0003051719686482,False
+"um, so for me, i was involved in the things that they were involved in, so like they were in s sports, or um, their preschool parent, and i was uh, the pta president for seven years",0.04131502,0.0155972246935392,0.5,0.0,0.0006711080204695,0.0004675711097661,0.0004620645777322,False
+for th all the three kids they went to the same school,0.03187269,0.163775121372715,0.5,0.0,0.0025424130726605,0.0009344785939902,0.0008250860846601,False
+"my husband does school based planning, so my mi",0.019297661,0.0006114460677147,0.5,0.0,0.0008062622509896,0.0008607554482296,0.0005646104109473,False
+"i didn't have enough space to write, but if somebody would've pointed that out to me, i probably would have",0.04131502,0.9909434152340232,0.5,0.0,0.0006291904719546,0.0009329337626695,0.0003014730755239,False
+i would've made more space cause i've always written with my children,0.029984225,0.0298383296658491,0.25,0.0,0.0007344759069383,0.0027918305713683,0.0011244943598285,False
+"we've always done a particular christmas card that had a story attached to it, and um, but now that um, i'm older, i'm fortythree now and i'm i'm teaching writing, and um, i now am",0.027065687,0.0001126920585927,0.4166666666666667,0.0,0.0007127994904294,0.0003506187058519,0.0003975292202085,False
+"i've created a writing group and with black women, you know, and um, a people hate to say no, i cause i get embarrassed by the knowing sometimes, but now making sure that i mentor other people, so i wanna give people something that i didn't get",0.30187345,0.9901224412181712,0.5739583333333333,0.08,0.032015923410654,0.0923545956611633,0.0733131021261215,False
+"so if i have students who come through and they're brilliant, i'm like, listen, you oughta, blah, blah blah",0.18450552,0.9999569618268692,0.0499999999999999,0.171,0.0520230755209922,0.0047007701359689,0.0046152882277965,False
+my black student union leadership team,0.22598907,0.0028994435736466,0.5833333333333334,0.0,0.128040611743927,0.0681464821100235,0.0276039876043796,False
+i always make sure they have experiences that you know,0.020685982,0.0038054507667441,0.25,0.0,0.0006397350807674,0.0004256045212969,0.0003214417665731,False
+they would necessarily get a chance to anybody i know that can get them somewhere,0.053335425,0.0092593172130934,0.5,0.0,0.0007777109276503,0.0005216732970438,0.0009013678063638,False
+"i'm like oh, hold on",0.055732824,0.0069945376689822,0.5,0.0,0.0069315447472035,0.0007327016210183,0.0056722126901149,False
+i gotchu,,0.0003429343629113,0.5,0.0,0.0078261345624923,0.0004838991444557,0.1179836615920066,False
+come on,0.033932835,0.0135161323107892,0.5,0.0,0.0379693210124969,0.0007943079690448,0.0012101952452212,False
+"you need to know this person you know, and um, i have conversations with them about the ways that they navigate this world, because i know it woulda made a a g",0.050242316,0.1740597843143742,0.5,0.0,0.0007760925800539,0.0017105465522035,0.035236157476902,False
+"greater difference, but if you have a particular skill set, people think you alright, if you not a whiner or complainer",0.2712817,0.0003435304594921,0.3333333333333333,0.136,0.0128592988476157,0.0440682992339134,0.3843933045864105,False
+"if you not broke down enough, if you not, you know, if you don't look needy enough, you got all your teeth",0.15568043,0.0555396596467352,0.5259259259259259,0.0,0.2207896560430526,0.057962741702795,0.0381405316293239,False
+"you got your eyes okay, you know, they're like",0.089041,0.779285763037899,0.25,0.0,0.0041342037729918,0.0012391342315822,0.0056538684293627,False
+"oh to you, she fine, you know, but really being conscious of being a mentor where i didn't have those mentors, you know, but i've had munte mentors like i've had two consistent mentors, you know, and now that i do teach, i have a really good uh writing, uh, mentor, um, but that's i'm fortythree",0.04680874,0.8180008649361387,0.3333333333333333,0.0,0.0009582826751284,0.0005993595696054,0.0003964351781178,False
+"you know, it's been a while",0.02262963,0.9994230381194822,0.5,0.0,0.0007882565259933,0.0003896842827089,0.0006403505685739,False
+"mmhm, um, i like",0.045778666,0.2369075880412296,0.5,0.0,0.0009032234665937,0.0004860361805185,0.0005029423045925,False
+"so i teach at a community college, so we are teaching heavy, five, five load, right, don't cry",0.055732824,0.0017293655952724,0.4785714285714286,0.0,0.0975438430905342,0.007342065218836,0.0056057763285934,False
+don't cry,0.11407687,0.0579123028671351,0.5,0.0,0.2737261056900024,0.0111726773902773,0.0211338307708501,False
+"i know, so um, i like teaching and this is gonna sound so cliche",0.058130227,0.9997916344401953,0.3,0.0,0.0527042374014854,0.0020881760865449,0.0012198885669931,False
+i love teaching every single class,0.020824814,0.007410016985772,0.3928571428571428,0.0,0.003025212092325,0.0005850668530911,0.0002211302926298,False
+i think that any student who comes into the college should always takes my college composition course because it's a whole life course,0.0681194,0.0025148718645692,0.4,0.0,0.0008148440974764,0.000685233331751,0.0004169809399172,False
+"i, uh, i use them as the model for a book we take",0.04783881,0.0012788954091919,0.5,0.0,0.0005718542379327,0.0005103087169118,0.0005185712943784,False
+"uh, i send 'em on a scavenger hunt",0.30337667,0.9795095674991452,0.5,0.0,0.0831906348466873,0.0334000289440155,0.0712929219007492,False
+well they figure it out throughout the college,0.06132676,0.0015867494883255,0.5,0.0,0.0006136870943009,0.000336593191605,0.000303808163153,False
+"i'm introducing the services we got through scholarship stuff, and i incorporate the writing voice in everything that they do like",0.013744377,0.0009565263783168,0.5,0.0,0.0005313609726727,0.0004209913604427,0.0003798537654802,False
+i want you to be observant in every area of your life,0.2712817,0.0010868628957,0.5,0.0,0.0044166059233248,0.0066066528670489,0.0019044707296416,False
+"my uh, introduction to literature course, it's the first time they get like the little sampler platter of different things, and so i cover liter, um poetry, uh, nonfiction and fiction and drama, and we do f",0.05373499,0.0456723537260954,0.4895833333333333,0.0,0.0008449458400718,0.0006717299693264,0.0030738206114619,False
+"a a little bit of film, or maybe a play, but really just immersing them into stories",0.09387396,0.0004261792504145,0.496875,0.0,0.0005967481411062,0.0005160926957614,0.000389581779018,False
+and so i like that class,0.043718524,0.0034957487882101,0.5,0.0,0.0010921468492597,0.0004993075272068,0.0004657949903048,False
+"i love women's uh, lit because you know, uh, i am woman, hear me roar, i love love love, my black lit courses and i don't like the name minorities in lit, but you know it is what it is",0.23540631,0.0166252230518893,0.3166666666666666,0.033,0.0087061980739235,0.0116852475330233,0.1192857101559639,False
+"we're working to change that, but my black lit course has a um",0.09548495,0.9972139638008428,0.5833333333333334,0.0,0.0008224302437156,0.019349779933691,0.0430324487388134,False
+a particular significance to me,0.024490505,2.4588983956358576e-05,0.4166666666666667,0.0,0.0006418511620722,0.0003405767492949,0.0006469843792729,False
+"uh, this past semester i teach it only in the in the um",0.038053125,0.9906659322756792,0.5625,0.0,0.0009078411385416,0.0004131571622565,0.0003761486441362,False
+"spring semester, but i started the semester out with thirtytwo students",0.021657806,0.1789446765743879,0.5,0.0,0.0006864311289973,0.0004042906803078,0.0004332170938141,False
+"i ended up with twentynine, which is beyond fantastic, but i was looking at my students one day and i had facebook lived from",0.035477944,0.0308669539256089,0.3,0.0,0.000810551806353,0.0004015231679659,0.0004690554051194,False
+"we were doing this party and it was the most ridiculous thing, but i'm trying to incorporate different medias and i want them to see that they matter to the world, and people are always interesting in what i do in my class",0.34466723,0.8534570770225334,0.4166666666666666,0.039,0.0036627722438424,0.3017322719097137,0.276912659406662,False
+"so i, facebook lived and i was going around asking my students",0.023632111,0.872674932737952,0.5,0.0,0.0009571479749865,0.0007183233974501,0.0004432531131897,False
+you know different things about the course and blackness and black white students,0.29070088,0.8922057093534409,0.5277777777777778,0.0,0.0229184497147798,0.2417219430208206,0.3046970665454864,False
+whatever,0.028954152,0.995427760396595,0.5,0.0,0.0013486704556271,0.0005180360167287,0.0006703447434119,False
+"when i looked at them, this was like the end of april",0.053335425,0.9994680732161586,0.5,0.0,0.0007315047550946,0.0005105804884806,0.0006377121899276,False
+"i said, you know we have something here cause we talk and i don't teach just um, the canonical texts",0.048868883,0.0507737482642412,0.5,0.0,0.0006332452176138,0.0005335288005881,0.0006122280610725,False
+i don't just do like you know their eyes were watching god or the color purple,0.03358948,0.9769123746967732,0.5,0.116,0.0012331664329394,0.0019673551432788,0.0016751376679167,False
+like we are reading um documents from you know enslavement,0.104076885,0.982014424941158,0.5,0.0,0.0188976172357797,0.0082900142297148,0.0119771305471658,False
+we are looking at the voting rights act,0.019436494,0.9924748171548252,0.5,0.0,0.0005973945371806,0.000356318661943,0.0002737529866863,False
+"we are, you know, watching film",0.028610796,0.0003334564272772,0.5,0.0,0.0007740455912426,0.0003826253814622,0.0007306533516384,False
+"we're watching you, kno",0.10892494,0.0013172542241639,0.5,0.0,0.0049445475451648,0.0007454945007339,0.000933842617087,False
+know we're listening to music and so i try to approach in a this multilayered approach and so i contacted one of my colleagues in the um,0.03856816,0.0016771475347978,0.5,0.0,0.0005788035341538,0.0003787743626162,0.000336397846695,False
+"he does like the films for mission san josé high school and he came, and he made a a little short documentary so i'm waiting to see",0.089577995,0.0055409263519693,0.5034375,0.0,0.0005770326242782,0.0004026936367154,0.0003164761292282,False
+it's g,0.020685982,0.0749671625296073,0.5,0.0,0.0023354247678071,0.0040564178489148,0.0014935488579794,False
+it's p should be about maybe seven minutes long,0.06652113,0.9994306085460578,0.525,0.0,0.0017198650166392,0.0032874157186597,0.0010245161829516,False
+"he filmed um, like a hour and a half, wha hour and twenty minutes of class and we aks, group of students a series of questions about you know colleges and how they talk about race, and you know like let's talk and let's not",0.10515087,0.0920599637394449,0.5833333333333334,0.0,0.0031041763722896,0.0008031249162741,0.0006840272690169,False
+let's not sugarcoat this thing,0.058929358,0.9957166884092894,0.5,0.0,0.0008195556001737,0.0005392179591581,0.00096577021759,False
+"so black lit has a particular, um, special place",0.13146462,0.0047144682475744,0.4404761904761904,0.0,0.0111773191019892,0.0129303596913814,0.0146835790947079,False
+i love creative writing,0.019575324,0.0100200854742887,0.25,0.0,0.0008650234667584,0.0004446140083018,0.0002719219774007,False
+"i teach that in the fall, um",0.04818217,0.0167125810057997,0.5,0.0,0.0007090511498972,0.0004620588733814,0.0009504347108304,False
+"because i'm creative writing and so i cover, some people teach mostly uh composition",0.026207292,0.0245410875960944,0.25,0.0,0.0007799444720149,0.000415946560679,0.0004832629929296,False
+"well, we all have to teach three comp and two lit",0.034962907,0.9637587585215732,0.5,0.0,0.0014471848262473,0.0004741692391689,0.0008422959363088,False
+"and but i teach comp lit and creative writing, so i'm one of the few people who does that cause we have a creative writing degree now at mission san josé high school right, alright, um, the challenges",0.02792408,0.789312375769747,0.3754285714285714,0.0,0.0007605343707837,0.0003539376193657,0.0004096580960322,False
+it's twofold as an educator,0.09548495,0.1852652972539916,0.5,0.0,0.0006679806392639,0.0023883271496742,0.0007141382666304,False
+"the challenge is that the preparedness or the lack of preparedness of the students, um, or not even necessarily lack of preparedness, letting them understand that they have skills that fit in particular categories cause someone may know how to do something, but they don't know that that thing is this thing like, oh, i didn't know i was doing that and so just trying to let them see where the skill sets and then that true lack of what i would say, the american education system problem of um, sentence writing and structure, but then, as a black woman educator, i uh, actually published a chapter about this in my girlfriend's texts, um her anthology, and it was the title of it was, i'm not your mama",0.13521013,0.9998923747623436,0.4464285714285714,0.058,0.0031304534059017,0.0245527513325214,0.0092662097886204,False
+"do your work: the plight of the black female academic you know, in higher ed and and just looking at someone looking at me as a pseudo mom, um, my my colleagues code switching when i, hey girl, what? um, assuming that i only can teach black related stuff like i do shakespeare better than any of y'all you know",0.39108577,0.1150174313542628,0.4739583333333333,0.0,0.0483725629746913,0.0891553089022636,0.0718286409974098,False
+"and um, the the lack of visibility and um, in our in our job there are there were three hundred",0.026035614,0.9997470762207834,0.5,0.108,0.0008649876690469,0.0004557025677058,0.0005655324785038,False
+"i think our cap is three, eighteen, fulltime and tenure track professors, and there are at this present moment i think we counted eighteen black folks, and like four or five on they way out",0.26817688,0.1186605352172369,0.5416666666666666,0.0,0.0121815260499715,0.1202909424901008,0.037094946950674,False
+"and so there's like nine at brighton, nine at daemen, the downtown campus, and so that that lack of of of visibility and i, i, i'm very uh, vocal and i'm very very present in in black related stuff, and so for me the challenge is that intersection of my blackness and my womanness",0.30053464,0.9936184880546716,0.4958333333333333,0.044,0.0007914135348983,0.0137441623955965,0.032479453831911,False
+and as a woman i don't feel,0.05373499,0.999439341360966,0.5,0.0,0.0047993995249271,0.0264885332435369,0.0071176434867084,False
+"um, i feel like i'm a black woman",0.2088965,0.7940191543714296,0.5833333333333334,0.0,0.0660264566540718,0.1915868520736694,0.1945497542619705,False
+that's a particular thing,0.020685982,0.0032445536890778,0.4166666666666667,0.0,0.0007887234678491,0.000330541661242,0.000591671152506,False
+so that impacts the way that you know,0.020130653,0.009672203509757,0.5,0.0,0.0007319406140595,0.000652493094094,0.0005987994372844,False
+"i, my students",0.016451603,0.0070817465987474,0.5,0.0,0.0011250537354499,0.0006169974803924,0.000295846548397,False
+"i remember walking into a course one time and you know, uh, my student's like you",0.05493369,0.021209026928961,0.5,0.0,0.0148353492841124,0.0034595464821904,0.0085205556824803,False
+the teacher i was like,0.020824814,0.0153998273108205,0.5,0.0,0.0012854712549597,0.0012913892278447,0.0012428405461832,False
+"yeah, so she was so older, black woman",0.42631236,0.1901118605038625,0.5,0.0,0.6021485328674316,0.2008021473884582,0.1909295320510864,False
+"she's like you've been speaking to me all time and i didn't and then she said, can i call my friend and i was like, yeah, cause class hadn't started",0.052136723,0.998810399858606,0.5,0.0,0.0013427735539153,0.0008345676469616,0.0006135253934189,False
+she called her friend,0.038053125,0.9755006689693878,0.5,0.0,0.0009188806288875,0.0006081275059841,0.0007666908786632,False
+"she said, can you tell her i was like hi, i'm her, and you know they started laughing and i'm and then just seeing like my mother's friends and my uncle's friends, who are like fifty something, sixty years old and they know my my mother struggles and my uncle struggles, and they like, and i'm like, oh, there go my uncle, such and such, and i've never really met these people, but they feel like they can do it because i offer myself bare to them",0.18647896,0.0204612535732264,0.495,0.036,0.0032143676653504,0.0052706156857311,0.0030060345306992,False
+i'm like you know,0.026035614,0.003049481083024,0.5,0.0,0.0020704800263047,0.0006640839274041,0.0006299753440544,False
+this is the the journey i've taken,0.036851373,0.0005752033956045,0.5,0.0,0.000714840949513,0.0003517043951433,0.0006421304424293,False
+"so the challenge is is that people have different expectations for me and sometimes i have those for myself, and knowing how to l, you know, lay boundaries out, but also being able to be heard and be visible and not be invisibilized, um, yeah, mmhm, mmmm, no, no, no, no, i'm inspired by everything and and nothing",0.07371333,0.890612462412385,0.375,0.0,0.0006968782399781,0.000567146227695,0.0004075807228218,False
+"i think that, um",0.03839648,0.0449071147405444,0.5,0.0,0.0007356292917393,0.0004136420611757,0.0005948427133262,False
+i'm most inspired by black stories and i have been,0.21274342,0.0002539967530619,0.4166666666666666,0.0,0.0036204950883984,0.0485690608620643,0.0163780245929956,False
+um,0.012811388,0.2300251165294303,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i was telling someone,0.027409043,0.9952314657925506,0.5,0.0,0.0011264322092756,0.0004378505982458,0.000614505901467,False
+"i think that in the past that like ninetynine point nine percent of the stuff that i read, even all my classes got black stuff in it",0.15859914,0.9978803699733038,0.6041666666666666,0.0,0.0030890016350895,0.0679312348365783,0.0341125279664993,False
+"so whatever, um, by black people and their stories, and i, i just l",0.34388447,0.986287245232047,0.5833333333333334,0.0,0.049376543611288,0.3115796744823456,0.1019075587391853,False
+i love everything about us,0.037023053,0.0024301665404432,0.25,0.0,0.0007796951686032,0.0003753537603188,0.0004371547256596,False
+"so if i look at my black children, my black husband, if i look at my black friends, if i see someone like i, l",0.36805952,0.0059057076545656,0.5833333333333334,0.0,0.1431557834148407,0.5643445253372192,0.3326993286609649,False
+"everything like black, black, black, all black",0.3905958,0.0172313936648643,0.5833333333333334,0.0,0.6350337862968445,0.4243426024913788,0.2846181094646454,False
+"everything you know, um, i'm inspired by blinking",0.09333697,0.0001895885175107,0.5,0.0,0.0005763716180808,0.0004048398404847,0.0046490337699651,False
+"i'm inspired by when i teach my creative writing song, i tell my students to listen to the pauses, listen to the spaces and being able to create something not from nothing but from little, and um, so in my own writing, i talk a lot about love, and um, love of us as people, love of my husband and our children, love of my grandmother, love of myself and broken love and promises",0.017492844,0.0001259850123436,0.3176136363636364,0.037,0.0005899033276364,0.0004817677545361,0.0003299274249002,False
+"and um, also you know, uh, that revolutionary spirit like yo, you know black folks be stay woke",0.5023275,0.0304934994177626,0.5833333333333334,0.0,0.3190430104732513,0.3983081877231598,0.2651671469211578,False
+and so i'm very inspired by,0.029469188,0.0001336746582354,0.4,0.0,0.0005797506892122,0.0003084553754888,0.0003197600890416,False
+"i, once again it g always cycles back to blackness",0.23891698,0.9992686491050652,0.5,0.0,0.0009335414506494,0.095790110528469,0.1638906300067901,False
+"but i'm i want people to know i'm a educator all the time, and so i'm i",0.02929751,0.0107128987252772,0.5,0.0,0.0007732862140983,0.000463224860141,0.0005241860053502,False
+"i wanna sh, show you something and teach you something in in the things that i write",0.38874862,0.0078657626265922,0.5,0.0,0.0471083261072635,0.2683886587619781,0.5916364789009094,False
+so i'm i'm inspired by everything,0.027409043,0.0002122699924087,0.5,0.0,0.0006031854427419,0.0003293504705652,0.0003396765678189,False
+"if i, i, if someone has a a really good meal or has a pretty color that pops out if i'm feeling kind of down, i'm l up",0.09494796,0.8861681451352111,0.3256944444444445,0.0,0.0009922325843945,0.0021654199808835,0.0086344089359045,False
+"whatever, like up, down inside out, twisted crazy straight lines",0.3063832,0.9784124219374272,0.6319444444444444,0.174,0.0012541905744001,0.1137602776288986,0.0615051314234733,False
+i love it all,0.039598234,0.0037146950623233,0.25,0.0,0.0007806855137459,0.0003780777624342,0.0003503041516523,False
+so i think rochester's pretty dope,0.38874862,0.0006591934038336,0.375,0.0,0.0663224309682846,0.0880931764841079,0.3687517940998077,False
+"i think that uh, we have so much you know, pure magic",0.06931809,0.0165744654280375,0.3476190476190476,0.0,0.0006803896394558,0.0004664726147893,0.0014915888896211,False
+"the one critique that i do have is that i think that people operate in silos in many ways, and that you know, um, and so for me, this is how i see it, and it's how i told my my black m women's writing group that we all have these dynamic experiences",0.16151784,0.0062004178040934,0.4444444444444444,0.0,0.0038243145681917,0.0127856014296412,0.0366186872124671,False
+a,0.021380141,0.0275839818119011,0.5,0.0,0.0010865016374737,0.0008991816430352,0.0005542637663893,False
+but i teach writing,0.021518974,0.0524971528937061,0.5,0.0,0.0017716524889692,0.0006760950200259,0.0003896497364621,False
+i'm a one of very few black female profe black english professors in this area,0.27194336,0.0128811404281344,0.5593333333333333,0.0,0.2429441809654235,0.3004317879676819,0.2097817212343216,False
+there's no reason why i don't know everybody's stuff like y'all not on my email list,0.04680874,0.90438247225692,0.5,0.118,0.0064360867254436,0.0040767169557511,0.0016542098019272,False
+because i got students,0.0186035,0.0073002756052541,0.5,0.0,0.0009658888448029,0.0004902018117718,0.0003756567894015,False
+my students wanna come see you at the v,0.14597784,0.0081427687076715,0.5,0.0,0.0011574984528124,0.0139465266838669,0.0010470190318301,False
+i,0.018187003,0.1365710617165614,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i have a built in audience and i want my students to know i shouldn't have to,0.034791227,0.000512821888428,0.5,0.0,0.0007833264535292,0.0006928724469617,0.0003540879697538,False
+every year before i teach black lit,0.14911842,0.0017428373779976,0.5833333333333334,0.0,0.0432458631694316,0.0473879612982273,0.0687265172600746,False
+"i go, and i'm looking through calendars and websites trying to find stuff and i said there's no reason why y'all not plugged in, so i made the commitment to take my students to or have them go to, you know, spoken word pieces that i know when rena does her stuff, when lou does her stuff",0.03204437,0.0003532170289294,0.5,0.037,0.0015113529516384,0.0007048773695714,0.000423893041443,False
+"i want them to know when um, you know the sankofa theater is happening",0.080905534,0.9872911016788762,0.5,0.0,0.0008618806605227,0.0006904907641001,0.0006309868767857,False
+"i'll pass that information on to my students, but i think that um, there are a lot of people who just write in vacuums",0.08330294,0.9882103720208956,0.5,0.0,0.0010418136371299,0.0506828092038631,0.0065177674405276,False
+"and and sometimes um, because people don't have, there's a lot of academic bashing that",0.0801064,0.9995339418883328,0.5,0.0,0.008228600025177,0.0005896408110857,0.0064422185532748,False
+"oh, you have to be like a guerrilla writer",0.2145095,0.9537594172082948,0.5,0.0,0.000802622642368,0.0022903766948729,0.0584558509290218,False
+it's like it's okay to have some degrees,0.04543531,0.8335640227100876,0.25,0.0,0.0008065811125561,0.0005445526330731,0.001692994730547,False
+"it's okay, you know, and um, coming through with",0.04268845,0.999673070830282,0.25,0.0,0.0006445444305427,0.0003886197810061,0.0026376931928098,False
+"so for me, i've been a writer before i was an educator, but now i am a educator and i teach writing, so when i go to some of this stuff, i'm like oh, i hear you, cause it's you know, finesse this thing and it could be a little bit, little bit on a higher level, but people aren't always interested in that because they wanna do it how they do it",0.04818217,0.0132991531553925,0.484375,0.037,0.0006069369846954,0.0005396146443672,0.00045241593034,False
+"and oh well, you teach college and you know this that it's like girl, please",0.19338597,0.0366315059098505,0.5,0.0,0.0092964451760053,0.0050581214018166,0.0043102102354168,False
+"i been black all my life and i'm straight up and down and you can add a little comma period exclamation point pause, double dash of that thing, and you would need to read somebody's stuff, and so i tell my students i'd had some of the top poets in rochester come in my creative writing class and i said, don't tell me about anybody's poem about your poem",0.19141254,0.9177231137343336,0.4506944444444444,0.0,0.0042216633446514,0.0867253988981247,0.0231685135513544,False
+"if you can't tell me about anybody that you reading, i don't wanna know",0.09548495,0.7519100871761445,0.5,0.0,0.001033816486597,0.0259636268019676,0.0021252159494906,False
+don't tell me you write and you don't read,0.1580154,0.9996814757920708,0.5,0.0,0.0304544754326343,0.0529260784387588,0.0028823716565966,False
+i l,0.05093802,0.1215357772697048,0.5,0.0,0.0042014359496533,0.0016827872022986,0.0094443866983056,False
+"i, i'm uh, ugh",0.08850401,0.9999755004305309,0.5,0.483,0.0019339793361723,0.0043773110955953,0.000628153909929,False
+i'm not interested,0.09602194,0.9999931448893212,0.5625,0.53,0.0010373584227636,0.0042496123351156,0.0003837131371255,False
+"you gotta study folk whether you adapt to their style, but you can't just pop out of the clouds and i'm so great cause somebody else did that and you need to know that",0.09602194,0.0011182473806771,0.0999999999999999,0.0,0.0026673057582229,0.0005191388190723,0.0009354762150906,False
+"oh hey, so my first born son went to mission san josé high school",0.024833864,0.2118148130596415,0.3974999999999999,0.0,0.0009972273837774,0.0006976157310418,0.000304490502458,False
+"yeah, yeah, whe when did you graduate? he graduated two thousand ten, mary, but he was um, cello",0.0729142,0.8834750403929945,0.5,0.0,0.0015980212483555,0.0012714051408693,0.0011972317006438,False
+he played cello,0.038224805,0.0555279165440943,0.5,0.0,0.001528451219201,0.0008644401095807,0.0009643697412684,False
+"yeah, he got a pointy face",0.30053464,0.9712447778213922,0.5,0.0,0.040774580091238,0.0341482609510421,0.1149548143148422,False
+you probably would,0.02262963,0.0140163765613632,0.5,0.0,0.0021057804115116,0.0007107746787369,0.0005987290060147,False
+"yeah, and right and put your ego away",0.26817688,0.0389574151583187,0.3571428571428571,0.0,0.3605663776397705,0.0315107516944408,0.0318262800574302,False
+good,0.020408317,0.0342211893855466,0.15,0.0,0.0006751607870683,0.0004213386564515,0.0006420686841011,False
+good,0.020408317,0.0342211893855466,0.15,0.0,0.0006751607870683,0.0004213386564515,0.0006420686841011,False
+"hey, viva la mission, san josé high school",0.003141076,0.0008346842372094,0.42,0.0,0.0043702074326574,0.0006640399224124,0.0009189944248646,False
+"yeah, i love the seasons",0.024318827,0.0005552937698071,0.25,0.0,0.0006508146761916,0.000363980041584,0.0003417085390537,False
+i think that we and i don't like,0.042001735,0.9998607220339054,0.5,0.232,0.0070343241095542,0.0214791931211948,0.0012021185830235,False
+s,0.0495556,0.1787004856100795,0.5,0.0,0.0025115853641182,0.0020734022837132,0.0005548478220589,False
+"i like snow, but i want it like on the sidewalks",0.13610743,0.0031328749946723,0.5,0.0,0.0039054595399647,0.0008801561780273,0.0017637038836255,False
+"that's it, but on the grass part of the sidewalk, not on the walking part",0.027237365,0.9977484836048106,0.5,0.0,0.0007249590707942,0.0004451138083823,0.0006659885402768,False
+i wanna little sprinkle at night,0.2995453,0.0939412147434951,0.59375,0.0,0.0409618355333805,0.0022903180215507,0.0178427547216415,False
+"if it's the weekend, you can get on the ground and so i can stay home on the trees, but on the street when i gotta drive",0.045091953,0.060833086698373,0.5,0.0,0.0010636085644364,0.0005553904920816,0.0025658158119767,False
+"i don't like that, but i do like the fact that my children know",0.05093802,0.9949676036410772,0.5,0.093,0.0016906856326386,0.0011265213834121,0.0007331336382776,False
+"see like true, well construction, not counting, but my children know true seasons",0.019575324,0.0013284012302241,0.325,0.0,0.0007405469077639,0.0003728471638169,0.0005191328818909,False
+i love rochester's rich history with black folks,0.2712817,0.0098317487595975,0.3819444444444444,0.0,0.0186901073902845,0.2245796024799347,0.0905181914567947,False
+i don't think we talk about that enough,0.039598234,0.9692410289699958,0.5,0.0,0.0006366112502291,0.0009648324921727,0.0004494998429436,False
+"um, i love its proximity to everything else like you can get from downtown rochester to anywhere pretty much in twenty minutes",0.058929358,0.0014243429748974,0.3416666666666667,0.0,0.0005831125890836,0.0003785067237913,0.0005446263239718,False
+i like that my family is here,0.019297661,0.0041930625683834,0.5,0.0,0.0010368055664002,0.0004908304545097,0.0005672770203091,False
+i like you know,0.02929751,0.0094444350062485,0.5,0.0,0.0009488459327258,0.0005345134995877,0.0004959397483617,False
+i just think that rochester has such a rich legacy and it's one of those things that particularly black people,0.355017,0.0038840162960883,0.4652777777777778,0.0,0.0469089895486831,0.1537152826786041,0.2122972011566162,False
+"we don't always own our place in rochester, and we don't own the ways that we helped build this city and um, learning about rochester's history",0.018742332,0.009695689715039,0.2,0.0,0.0006161016062833,0.0003777201927732,0.0004378570592962,False
+"you know july sixtyfour, learning about jefferson avenue, corn hill, and clarissa, and pythodd, or pythodd, depending on who who you talking to and jazz and blues, and you know cooking, and you know dancing",0.030842619,0.0065389708571362,0.5,0.0,0.0006690418231301,0.0005542114959098,0.0005891908658668,False
+"i remember my own neighborhood block parties and a motorcycle club, and you know a just rochester, so i love a lot about",0.04165838,0.0010558956783295,0.2249999999999999,0.096,0.0006579213077202,0.0005996798863634,0.0005023870035074,False
+"i think every area of this city has uh, a unique story that helps quilt this thing together",0.025520578,0.0003465705520539,0.3125,0.0,0.0005505150766111,0.0004031847347505,0.0005254786810837,False
+thank you,0.014369122,0.0404660163849067,0.5,0.0,0.0006253210594877,0.0004025503003504,0.0003329221799504,False
+um,0.012811388,0.2300251165294303,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"well, i didn't like that",0.046122026,0.999941999802692,0.5,0.293,0.0026587422471493,0.0009072894463315,0.0004250494821462,False
+they tore my street down like i really was traumatized and i had to work at mission san josé high school and i was mad every day for a while,0.1689685,0.9929984283913648,0.5525694444444444,0.173,0.0164648611098527,0.0012384286383166,0.0175167359411716,False
+"i'm like you know, i used to live up under this doggone school, you know, and my h",0.15568043,0.016459567812096,0.4318181818181818,0.0,0.1614561676979065,0.135512888431549,0.0634691640734672,False
+"my, my neighborhood was so precious it wasn't perfect, but it was ours",0.074912034,0.0033833845827368,0.125,0.126,0.0007394383428618,0.0004888598341494,0.0032669648062437,False
+you know,0.043718524,0.0418337301846319,0.5,0.0,0.0024898352567106,0.000538251013495,0.0007277476252056,False
+"um, i think that the educatio uh, rcsd is, i have such fond memories of school and even though i was one of only a few black kids in that school, which is a shame, but i remember going on field trips",0.30187345,0.0018966004910047,0.5458333333333334,0.047,0.0028338416013866,0.1214503794908523,0.0479144714772701,False
+"we'd be at the eastman theatre, looking at paddington the bear",0.06012806,0.9665747783787424,0.5,0.0,0.0006102988263592,0.0009569620597176,0.0004789321392308,False
+i still love paddington the bear fro,0.06971766,0.0003122651938312,0.25,0.0,0.0021144666243344,0.0008497426169924,0.0010547552956268,False
+"i remember going on par on trips to letchworth, just like we had just so many experiences recess art",0.014577369,0.0455628209793807,0.25,0.0,0.0006603540387004,0.0004247688048053,0.0004567389260046,False
+i remember auditioning for um,0.019019997,0.7838707591081322,0.5,0.0,0.0006536501459777,0.0005160314613021,0.0003589317493606,False
+choir,0.049212243,0.0281804062457807,0.5,0.0,0.0009256432531401,0.0144691877067089,0.0071296258829534,False
+"i never could sing, but we had this like, really dramatic, uh, music teacher and i went down and i had this theory that if i sang in a quiet voice for all the notes until i got to high notes and then i yelled for the high notes",0.13700475,0.9918005723123272,0.5268888888888889,0.0,0.0007751601515337,0.0004424697835929,0.0004590338503476,False
+"that was, you know, me hitting a high note and he was like, oh, that was very dreadful and even being rejected, i don't think that kids in the cities get rejected like i had to, you know audition",0.16413476,0.9999775867685634,0.71,0.201,0.0015099518932402,0.0018480222206562,0.00147838704288,False
+"i didn't just get on choir because i was there or i didn't just you know, we got a certificate, so um, i have really good penmanship because we had to write",0.104076885,0.0368613905562207,0.15,0.0,0.0007788998191244,0.0004515292239375,0.0005707477685064,False
+"that was you know, we got a grade for that",0.056931525,0.2220037428904306,0.5,0.0,0.0014758537290617,0.0004801784525625,0.0008129087509587,False
+"so my educational experiences, um, it makes me sad when i look at some of the things that these kids are missing out on",0.044405237,0.0610262219905393,0.575,0.194,0.0007093799649737,0.0004950973670929,0.0009262722451239,False
+i'm very committed,0.094410956,0.0004723767354234,0.4,0.0,0.0006706927088089,0.001067909412086,0.0002384323306614,False
+"you know, we were committed to city living",0.016451603,0.0046139961688872,0.5,0.0,0.000722843571566,0.0003894685360137,0.0004151734465267,False
+"we could live somewhere else, but love",0.025005542,0.0090032639268279,0.3409090909090909,0.0,0.0009290534071624,0.0004476199974305,0.000362765887985,False
+"love the city, love neighborhoods",0.027580723,0.0028259746700679,0.25,0.0,0.0006609366973862,0.0003692737082019,0.0003517484874464,False
+"you know, um, love my street",0.11600884,0.0168706956238463,0.25,0.0,0.0013583577238023,0.0005033461493439,0.0017691144021227,False
+it has a lot of diversity,0.040284947,0.0044826462873167,0.5,0.0,0.0006077329162508,0.000452139734989,0.0003844463790301,False
+um,0.012811388,0.2300251165294303,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i hate the word diversity and inclusion, but whatever, um, but just really i like the n",0.34388447,0.0070520013793674,0.65,0.112,0.0014463898260146,0.0086738541722297,0.0032580534461885,False
+i like neighborhoods,0.10892494,0.0052351288060394,0.5,0.0,0.0012344915885478,0.0004283500893507,0.0003969256067648,False
+"i like that each area has its own identity, but i think that in some ways it gets in, uh, in the way because people are like i'm from over here and this is what we just like",0.049212243,0.022253447748111,0.2,0.0,0.0006567335803993,0.0005563568556681,0.0006105175125412,False
+"okay, well, alright, take that over there and get 'em some of that you know i'm always talking about when we did the fresh air fund and the fresh air fund",0.026722329,0.9171736319061888,0.3166666666666666,0.0,0.0006730346358381,0.0004871877026744,0.0008753125439397,False
+"you know, folks go downstate and they take urban kids and they you know, take them from downstate to upstate, rather, and they take 'em to farms",0.094410956,0.1090086884057128,0.5,0.0,0.0106350164860486,0.0013100404758006,0.0013006805675104,False
+i'm like,0.020963646,0.0296951770719795,0.5,0.0,0.0016913731815293,0.0005993730155751,0.0005510135088115,False
+"well, why can't somebody go from browncroft neighborhood and get somebody off of joseph avenue and take those kids and let them experience some stuff, cause you have people who haven't been off their blocks, so i think that we can do a better job of ka talking across communities as well as you know, our city",0.035134587,0.9845938838702524,0.25,0.031,0.0011482428526505,0.0010023944778367,0.0005852975300513,False
+"schoo, our schools, man, charter schools can't be i, c",0.05773066,0.0041706791417759,0.5,0.0,0.001095098326914,0.0018553503323346,0.0079830419272184,False
+"i could cry about it, you know, yeah, yeah, yeah, right, and then you wonder how many of those kids have just been pushed through cause then they come to school and we looking at their stuff and i'm like, but i had to tell somebody recently",0.11729682,0.1204514775893019,0.369047619047619,0.079,0.0019984047394245,0.0004707979387603,0.0006382068386301,False
+"y'all kids in irondequoit, if you all call my kids dumb are dumb, too",0.7816909,0.9372344277964604,0.6875,0.355,0.8590580224990845,0.9914575219154358,0.983875811100006,False
+i see the way they write,0.024147147,0.0005634304881345,0.5,0.0,0.0007147952564992,0.0004917752812616,0.0007165378774516,False
+"i, i see the things that they say to c",0.03770977,0.0014530748300901,0.5,0.0,0.0006416068063117,0.0005734482547268,0.0006644111708737,False
+"you know, critical thinking, you know, but they have more opportunity and they have more people who are willing to work with them and give them supportive services",0.042001735,0.0973769962156808,0.325,0.049,0.0005315387970767,0.0004725780163425,0.0003690426528919,False
+"you know, we look at um, special education and we always think of the remedial courses, but we don't consider you know, major achievement or anything like that",0.02124131,0.9014324200835668,0.3950892857142857,0.0,0.0005727613461203,0.0004870237899012,0.0004059126076754,False
+i think we need more um,0.04783881,0.0033315837898688,0.25,0.0,0.0007994130137376,0.0011656804708763,0.000835066428408,False
+hands on exploratory expeditionary learning,0.018464668,0.0007664907883705,0.5,0.0,0.0009804145665839,0.0006878862041048,0.0006291469908319,False
+i think that we need um,0.032902762,0.0007638977682442,0.5,0.0,0.0007902040379121,0.0008824928081594,0.0006639209459535,False
+more people who are invested in in in these urban schools and not the ones who are not true urban communities,0.026722329,0.2302876076587681,0.459375,0.104,0.0006349321920424,0.0007640958065167,0.0002989797503687,False
+"like if you are, you know, browncroft, it's not a true like there's street signs on brown",0.078108564,0.9857591334663224,0.5875,0.212,0.0026856521144509,0.0007997485809028,0.0015866636531427,False
+y'all don't even look like the rest of the city,0.1710401,0.9997810239210576,0.5,0.19,0.0428650863468647,0.0118717495352029,0.0100617548450827,False
+"you know, the nineteenth ward has something very beautiful happening, but we can duplicate that throughout",0.2008281,0.0053376872227592,0.0,0.0,0.0005673029809258,0.0003377022803761,0.0002956082753371,False
+"but if you see the schools, they don't represent the neighborhoods you know",0.03204437,0.9662930035250172,0.5,0.0,0.0006090207607485,0.0006679147481918,0.0004519467183854,False
+"and so um, level of poverty",0.08420804,0.9999021507462682,0.5,0.398,0.0038750413805246,0.0016756041441112,0.0017681234749034,False
+"it's uh, disheartening the le",0.08689302,0.9996955138665476,0.5,0.412,0.0158411152660846,0.0004976950003765,0.0216535497456789,False
+the level of violence,0.12116077,0.9988077472288216,0.5,0.577,0.0028966928366571,0.0054677808657288,0.0077375550754368,False
+"you know, um, i want more people to use the libraries",0.048525527,0.0772441024439661,0.25,0.0,0.0007593264454044,0.0007811624673195,0.0008358465274795,False
+"i, i made a commitment like eight months ago not to buy um books, cause i have a million and one books and i've been using my",0.049898956,0.1557375637115476,0.5,0.0,0.0006759308162145,0.0004994807532057,0.0004349740920588,False
+i go to everybody library,0.021518974,0.0064801063197861,0.5,0.0,0.0025984896346926,0.0006683456012979,0.0010739086428657,False
+everybody at my house,0.021657806,0.0001495010224546,0.5,0.0,0.0064988736994564,0.000636757176835,0.0005017609801143,False
+i'm using everybody's library card,0.019714156,0.9957511427916574,0.5,0.0,0.0009370534098707,0.0005211459938436,0.0004752025124616,False
+"like if i stay here long know, i'm gonna use your library card",0.1550967,0.8166787227200125,0.525,0.0,0.0019054054282605,0.0036944623570889,0.0009784307330846,False
+"yeah, so i don't know if we use enough sense that says, listen to you talking about adams street",0.065721996,0.974280757316862,0.5,0.0,0.000628083886113,0.0007067715632729,0.0006319311796687,False
+"my son had to take swimming lessons there when he was um, for boy scouts and almost an eagle scout, so i wanted to make sure i used all areas in the city like i'm using all these libraries, so i'm gonna",0.020130653,0.0003841544414709,0.25,0.0,0.0006932343821972,0.000871006574016,0.0004193571803625,False
+that's something i'm taking away from the day,0.055732824,0.0161811012943939,0.5,0.0,0.0008476646617054,0.0005498522077687,0.0008532285573892,False
+mm,0.033246122,0.1479415145800753,0.5,0.0,0.0010840946342796,0.0008179078577086,0.0005002457182854,False
+"no, what? no, no, go ahead",0.03204437,0.9987589269188571,0.5,0.0,0.0093808267265558,0.0014860392548143,0.0008729533292353,False
+it's all we got,0.022773718,0.0022505328358311,0.5,0.0,0.00091926677851,0.0004097635392099,0.0006996761658228,False
+it's all we got right now,0.0253489,0.0012635459222374,0.3571428571428571,0.0,0.0007171732140704,0.0003624504606705,0.0006882767193019,False
+"diverse, um, theoretically, you could look around and say um that we have this group of black folks and this group of white folks, but when you do the scramble, and i think there was a study that was just released that you know new york schools were th, you know some of the most segregated",0.24769363,0.9542882144850872,0.453030303030303,0.0,0.0052120597101747,0.1017329320311546,0.1171717420220375,False
+"so if you do it demographically in terms of just numbers, and you look okay, well you might see some numbers that might make you think that, but when you start looking at how the neighborhoods mix, i know my neighborhood",0.044748597,0.8792923797099453,0.25,0.0,0.0005609216750599,0.0003645250981207,0.0003651845327112,False
+"i live on rdaddress1, avenue in the city, but i live, and i hate to say this, i live between rdaddress4",0.1464265,0.0067040001955196,0.5488636363636363,0.202,0.0014312806306406,0.0008548806072212,0.000342404586263,False
+"when people hear that like, oh, that's not",0.032559406,0.9718479083418052,0.5,0.0,0.0008591498481109,0.0006488356157205,0.0009388796170242,False
+that's different,0.021796638,0.985785361715876,0.5,0.0,0.0008613576646894,0.0003779595717787,0.0005830044974572,False
+that's upper rdaddress1,0.020824814,0.9955112139179014,0.5,0.0,0.0021619298495352,0.0004272470250725,0.0003807002794928,False
+i'm like we on upper rdaddress1,0.05613239,0.0100559108787924,0.5,0.0,0.002489868318662,0.0003733712655957,0.0004127436259295,False
+"but if you look at how the street is structured, all the other part of rdaddress1 avenue goes together, then you get the significant gap, and then you cross over and here i am and my next door neighbor is a english professor at flcc lady down the street is the head director at the library",0.025520578,0.0333316642629072,0.4921296296296296,0.0,0.0008013971964828,0.0007445109076797,0.0012654369929805,False
+you got black and white folks,0.2712817,0.2411087575231114,0.5416666666666666,0.0,0.8124993443489075,0.2813209593296051,0.2703458666801452,False
+"my cousin own a house right on the corner that we wanted to buy incidentally, but they paid too much for it, but you know, um, so i think the numbers are there, and i think so, if you look at browncroft all white, you look at joseph all black",0.29756662,0.0450137564188424,0.408095238095238,0.0,0.0068744244053959,0.0896029770374298,0.0457724705338478,False
+so you mix,0.07730943,0.0022199828860671,0.5,0.0,0.003932892344892,0.0007181980763562,0.0020619623828679,False
+"oh well, you got fifty and fifty",0.039254878,0.1681051669353572,0.5,0.0,0.0053598629310727,0.0006227113772183,0.001181038445793,False
+that sound good half,0.08290337,0.0425492547153474,0.3444444444444444,0.0,0.0009400683338753,0.0010824048658832,0.0003920651506632,False
+"and but then when you start like, wait a minute, wait a minute",0.04680874,0.9847463355707818,0.5,0.0,0.0035357503220438,0.0020994213409721,0.0059374743141233,False
+"what do those neighborhoods look like? and um, how do they mix together? what do the schools in those neighborhoods look like? but you know white folks still are",0.31089294,0.886845549289587,0.5,0.0,0.0149891916662454,0.0556279271841049,0.0304246544837951,False
+m,0.02517722,0.1901897405221388,0.5,0.0,0.0017175219254568,0.001225012470968,0.0005475403158925,False
+"you know the majority in this area, you know",0.0253489,0.0094064934588831,0.5,0.0,0.0010797251015901,0.0003822594881057,0.0008195563568733,False
+"mmhm, mmhm, well, i don't",0.024662184,0.9979004584280754,0.5,0.0,0.0031156570184975,0.0009815711528062,0.0006765413563698,False
+but it's funny because we were laughing about that the other day someone said milk or milk,0.057331093,0.0211379722165344,0.46875,0.0,0.0006820272537879,0.0015391983324661,0.0008567304466851,False
+"i can't even do milk like that, but it so i'm kind of, i'm like",0.094410956,0.0461087858376989,0.2,0.0,0.0009425863390788,0.0008730664267204,0.0041687595658004,False
+"what is that and i'm like that's a rochester, and so you know when you travel other places, like if you go down south, you from new york, so everybody sound cool",0.07451247,0.0012045323607421,0.4394191919191919,0.0,0.0006266324198804,0.0004862092609982,0.0014796103350818,False
+so that i'm a rapper,0.23540631,0.0013807385100148,0.5,0.0,0.003058249829337,0.0024873577058315,0.0032274473924189,False
+"you know, i gotta go down there like yo",0.09924392,0.0159998581290137,0.5777777777777778,0.0,0.2870121002197265,0.0204548332840204,0.0011865473352372,False
+"what's up, son, yo, kid",0.09763293,0.0139188551607508,0.5,0.0,0.0012088243383914,0.0019443338969722,0.0028387210331857,False
+yo,,0.132672113201125,0.5,0.0,0.1495386660099029,0.0010858507594093,0.0006667852285318,False
+what's up? i'm like,0.03994159,0.980749001314691,0.5,0.0,0.0007994347251951,0.0008306154632009,0.0073900679126381,False
+what am i saying like this is not even me,0.06771983,0.998941481496715,0.5,0.0,0.0020384755916893,0.0008724444196559,0.0031509704422205,False
+"like what? all of a sudden, i'm in a dmx video you know, so, um, i've never heard that for me particularly, but i've heard in particular, but i've heard other people and i'm like, oh, that must be what we sound like to other people, but there's a that",0.09387396,0.991383274900966,0.4597222222222222,0.0,0.0007052923319861,0.0004199369868729,0.0005808300338685,False
+that milk or milk,0.09763293,0.8455247304078701,0.5,0.0,0.0012572070118039,0.0014247016515582,0.0017768980469554,False
+i'm like what or onion onion? i'm like,0.087430015,0.0072487132510183,0.5,0.0,0.0012184521183371,0.0004528456192929,0.0060378219932317,False
+"what is that, but i've heard it, but i think that my speech patterns have been more influenced by my grandmother, so i get more often",0.03049926,0.180705873727073,0.25,0.0,0.0005841266247443,0.0004467518883757,0.0013953554444015,False
+"oh, you sound like you from the south or, and i'm like, oh kay",0.16551583,0.0572792482983678,0.3,0.0,0.0085010519251227,0.0077232862822711,0.007517316378653,False
+"well, i'll come on, y'all cause i say i don't say, uh pop, i say soda, i say, denim and tennis shoes, you know, and so, um, but yeah, i definitely have heard the rochester, and when i hear it it's i'm like",0.10763696,0.0123777070608534,0.5,0.0,0.0007357337162829,0.0007751235971227,0.0021544694900512,False
+"oh, where they? oh rochester? sorry",0.029469188,0.999898931824732,0.75,0.249,0.0008854609914124,0.0008180034346878,0.0005836599739268,False
+"well, my son is younger than me, but so, but i don't even know where he got",0.036851373,0.9332151869910268,0.5,0.0,0.0007119654910638,0.0008491145563311,0.0009125772048719,False
+i'm like he was all like,0.022945397,0.0243507241530287,0.5,0.0,0.0024644215591251,0.0011044918792322,0.0030111549422144,False
+what's a milk? like what? i can't even like milk,0.05773066,0.9997751821745664,0.5,0.163,0.0028343619778752,0.0010943051893264,0.0012668757699429,False
+"um, probably younger folks, probably more aro amongst my students",0.050585672,0.9816714011637594,0.375,0.0,0.0009272886672988,0.001229116693139,0.0008956429664976,False
+"you know white folks, you know more",0.32304016,0.0116890664859301,0.375,0.0,0.197090208530426,0.0848539695143699,0.1158457547426223,False
+i don't really think that black folks really have this rochester thing,0.43791756,0.99895247947863,0.4611111111111111,0.0,0.05013133212924,0.5532954335212708,0.625939130783081,False
+"i've heard it, too",0.03616466,0.0292325763204805,0.5,0.0,0.0006303004920482,0.0003656255430541,0.0003859850403387,False
+or l,0.021380141,0.195657585433307,0.5,0.0,0.0008159567369148,0.0011485596187412,0.0020628091879189,False
+"yeah, i was like, uh, uhuh, i was like what i'm confusled right, right, right, right, right, right, hm, yeah, if you go down south, yeah, okay here, yeah, it it",0.051737156,0.0090267203272808,0.3713293650793651,0.054,0.0020585684105753,0.0008479356765747,0.000652837974485,False
+it's just like,0.022074303,0.8464325556955389,0.5,0.0,0.001060334732756,0.0004381414037197,0.0034148569684475,False
+"oh, uh",0.03616466,0.8435516805303829,0.5,0.0,0.0012942478060722,0.0006348181632347,0.0009417107212357,False
+okay,0.019852988,0.7800462928604618,0.25,0.0,0.0009591358248144,0.0007199328392744,0.0004994064802303,False
+"oh, you know, they say i sound like y'all girl",0.12051678,0.0217521305236917,0.3,0.0,0.0039576003327965,0.0057821022346615,0.0023667612113058,False
+stop,0.037023053,0.1024715058383189,0.5,1.0,0.0497634597122669,0.0301276948302984,0.001158207654953,False
+you don't sound like us,0.10763696,0.9998090702651824,0.3,0.345,0.025732010602951,0.0120516046881675,0.0057605248875916,False
+"oh, sorry, but they hear new york, and it's j",0.05773066,0.1940186476893359,0.5909090909090909,0.113,0.0009176906896755,0.0011243466287851,0.0007018984761089,False
+"you know new york is just new york city, which ugh been there",0.15626417,0.9999084097603662,0.4318181818181818,0.189,0.0016038357280194,0.0012160318437963,0.0037909157108515,False
+"ugh, sorry",0.058130227,0.9999760369174534,0.75,1.0,0.0015380672411993,0.0034040289465337,0.0005589802749454,False
+we were just there,0.02193547,0.2387219272040894,0.5,0.0,0.0006680749356746,0.000381609541364,0.0004958789795637,False
+i was like,0.020269485,0.0245546487933067,0.5,0.0,0.0018684471724554,0.0007264238083735,0.0008885335410013,False
+i don't get it,0.021102477,0.99995600807234,0.5,0.0,0.001571888802573,0.0010665770387277,0.0006112406845204,False
+it's this is,0.02929751,0.0034475543796557,0.5,0.0,0.0011754110455513,0.0004284321621526,0.0015769153833389,False
+"uh, okay, ugh, no, i",0.044748597,0.999961611380199,0.25,0.364,0.0011886021820828,0.0022806255146861,0.0013484841911122,False
+i think that you know,0.028782474,0.0056453922777476,0.5,0.0,0.0009005418978631,0.0005331744905561,0.0004817806184291,False
+i,0.018187003,0.1365710617165614,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+"i wanna say something about my grandmother who owned a restaurant, uh, blue flame, and it was across what is number",0.029984225,0.9400097342571638,0.5,0.0,0.0006118331803008,0.0008302491041831,0.0004586907452903,False
+it's upper falls and hudson,0.031014297,0.1079869192566318,0.5,0.0,0.0008609039359726,0.0003728229785338,0.0004866068484261,False
+"she was in that area in probably like the fifties, and uh, one of the things that she said that she had to get out of business because she had a hard time getting a liquor license and there's this white gentleman who told her you know nudge nudge and this is always a fine woman",0.20009461,0.0823755700546114,0.4791666666666667,0.024,0.020093536004424,0.0146586606279015,0.0195339787751436,False
+"you know, nudge nudge",0.24769363,0.7999585712876371,0.5,0.0,0.1883129626512527,0.0096505684778094,0.0157956331968307,False
+"if you wanna, you know, sort of get into bed with me",0.355017,0.9913909347420288,0.5,0.0,0.233592540025711,0.4231304228305816,0.0193001460283994,False
+"we could, uh, we could do some things and she's like no, and she said i shut my business down that week",0.0825038,0.9999108537563474,0.5777777777777778,0.0,0.0271430369466543,0.0047634099610149,0.001042039017193,False
+"i was like no, and it just to me, i often wonder she would've had more opportunities and other people would've had more opportunities to um",0.034104515,0.994406974806872,0.3541666666666666,0.0,0.0005893924389965,0.0006207600235939,0.0006373033393174,False
+"and, and going to my own experience in schooling",0.01999182,0.7672352533902248,0.2,0.0,0.0006175581365823,0.0003575581649783,0.0004280951688997,False
+"i know people have had significant mentors, but that's usually the exception in school",0.03427619,0.0880018574369456,0.46875,0.0,0.0005665462231263,0.0003299620293546,0.0002951143542304,False
+"um, and so i'm just wondering if more people in rochester would uh, lift these lift people up simply because they could like",0.14418322,0.758190501141376,0.375,0.0,0.0005807436536997,0.000620650651399,0.0071981684304773,False
+you don't have to get an award for it,0.077709,0.0002683626806582,0.5,0.0,0.0011422634124755,0.0007233748910948,0.000649194989819,False
+you don't have to be noticed or anything,0.0471521,0.836554221988155,0.5,0.0,0.0021390579640865,0.0010741333244368,0.0015512531390413,False
+"but just because you could, um, i think that we would have a better community being in, interesting in in things that did not necessarily impact ourselves on a on a a first level, but just really you know, so i, it's good stuff",0.031529333,0.0131921836239751,0.3208333333333333,0.0,0.0005744181689806,0.0004293899401091,0.0004087123670615,False
+"yeah, thank you, yeah, oh yes, i consent, i consent, uh, yes",0.029812546,0.0011229863484941,0.5,0.0,0.000569314463064,0.0007727702031843,0.0003861445875372,False

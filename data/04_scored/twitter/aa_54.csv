@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+when i get home i need to go see my plug .,0.025692256,0.0,0.0,0.0,0.019663531333208,0.0168197881430387,0.0267329383641481,False

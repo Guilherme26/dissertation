@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+you walking out you coming back again cus we became the best of friends,0.08290337,0.0,0.0,0.0,0.0113507453352212,0.0562308430671691,0.0022807959467172,False

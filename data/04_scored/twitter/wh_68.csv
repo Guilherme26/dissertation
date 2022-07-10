@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"i'm trying hard , real hard , every day not to lose my temper . #tssf",0.11085691,0.0,0.0,0.282,0.0237914510071277,0.0109812598675489,0.0004755079280585,False

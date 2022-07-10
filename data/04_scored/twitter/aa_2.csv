@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+my nigga @user turnt up eith us to at the beach,0.6357597,0.0,0.0,0.0,0.9389554262161256,0.9457734823226928,0.9666750431060792,True

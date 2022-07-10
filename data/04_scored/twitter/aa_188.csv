@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+dat text quon jus sent me got me smiling lol,0.023288755,0.0,0.0,0.0,0.0324940346181392,0.0053565315902233,0.0046098958700895,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"since u got on ur high horse , ur life's at a new low !!!!!",0.22979778,0.0,0.0,0.222,0.2447070926427841,0.1282652169466018,0.0107408668845891,False

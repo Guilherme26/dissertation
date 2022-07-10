@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+""" @user : @user you talking now ? right ? "" im typing nd texting not talking",0.077709,0.0,0.0,0.0,0.0016473061405122,0.0043730675242841,0.0005541478749364,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user lol me & him was laughing hard at this smh dumb ass,0.88651687,0.0,0.0,0.447,0.9841471910476683,0.9937179088592528,0.9899945855140686,True

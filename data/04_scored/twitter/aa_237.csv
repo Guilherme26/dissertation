@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i want sumthn that's gonna last a life time when sumone ask how long we been together i wanna say over 30 years,0.073313765,0.0,0.0,0.0,0.0129483435302972,0.0009192400611937,0.0014649258228018,False

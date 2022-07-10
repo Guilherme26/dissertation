@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user @user ha . haha . hilarious .  ,0.09870692,0.0,0.0,0.0,0.01138446200639,0.0015055707190185,0.0010876593878492,False

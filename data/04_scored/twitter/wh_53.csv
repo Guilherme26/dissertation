@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+you make me the happiest i have ever been . thank you .,0.029125832,0.0,0.0,0.0,0.0007639061077497,0.0005947023746557,0.0007183391717262,False

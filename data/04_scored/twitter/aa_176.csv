@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+in da booth as we speak,0.111500904,0.0,0.0,0.0,0.0010014614090323,0.0009490561205893,0.0009804173605516,False

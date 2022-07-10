@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+no bitch yu seen a car like mines sum where,0.8890526,0.0,0.0,0.0,0.9938662648200988,0.9835652709007264,0.967840015888214,True

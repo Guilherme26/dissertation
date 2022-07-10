@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+our dog is a big baby and a wanna be thug ,0.33081788,0.0,0.0,0.0,0.8865678906440735,0.0218574088066816,0.2608898282051086,False

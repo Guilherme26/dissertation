@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+the stars are a rumored destination for dan cleary . they are hellbent on being average this season .,0.21362646,0.0,0.0,0.0,0.001065902528353,0.0026184294838458,0.0005864279810339,False

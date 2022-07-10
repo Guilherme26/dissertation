@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+collin is the bestest friend ever ,0.020130653,0.0,0.0,0.0,0.0017260899767279,0.0010155559284612,0.0017079511890187,False

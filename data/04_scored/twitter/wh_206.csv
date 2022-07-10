@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"if everyone could please pray for my cousin marlie , it would be highly appreciated .",0.015479778,0.0,0.0,0.0,0.000524345668964,0.0005705511430278,0.0005024865968152,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+sometimes i need to slow down and remember that my life is never going to be better than it is now . this will be the good old days one day .,0.043718524,0.0,0.0,0.0,0.00103976263199,0.0016498238546773,0.0003800529811996,False

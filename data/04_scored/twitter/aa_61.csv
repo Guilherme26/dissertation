@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"damnnnn , i told her ass the same thing this morning !",0.9017833,0.0,0.0,0.256,0.9622880220413208,0.9664545655250548,0.9728691577911376,True

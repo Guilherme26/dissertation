@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+when your focus is on making sure that person is happy ... that's called love,0.021518974,0.0,0.0,0.0,0.0008985123131424,0.0005135434330441,0.0013056310126557,False

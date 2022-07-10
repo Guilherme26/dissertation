@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+jus had a good workout,0.09763293,0.0,0.0,0.0,0.0022519039921462,0.0043642297387123,0.0012870817445218,False

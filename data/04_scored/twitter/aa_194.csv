@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user @user which stores are selling the album ?,0.028267438,0.0,0.0,0.0,0.0008135228417813,0.0006691368180327,0.0003912474785465,False

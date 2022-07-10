@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user i can't decide what i admire most about you . your astounding attempts at political correctness or your love of #whitegirls,0.22986074,0.0,0.0,0.0,0.0058142840862274,0.1914349049329757,0.0132986176759004,False

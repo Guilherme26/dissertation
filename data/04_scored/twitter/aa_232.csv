@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user @user yall pick on my jacket knowing damn well it was too small !!,0.4827802,0.0,0.0,0.179,0.5099155902862549,0.5070127844810486,0.5232717990875244,True

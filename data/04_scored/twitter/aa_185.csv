@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+jamming to da old skool,0.16551583,0.0,0.0,0.0,0.1603471040725708,0.0254012774676084,0.0135135054588317,False

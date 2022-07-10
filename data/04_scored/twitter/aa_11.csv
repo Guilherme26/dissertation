@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user he that nigga on the low key in the nba ..,0.6611312,0.0,0.0,0.16,0.8362959027290344,0.9445617198944092,0.9389278888702391,True

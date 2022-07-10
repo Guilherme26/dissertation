@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user tiki bar you coming ??,0.023117077,0.0,0.0,0.0,0.0297441743314266,0.0097089949995279,0.0113949216902256,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+now omw to get my hair done for coronation tomorrow,0.15042676,0.0,0.0,0.0,0.0056297285482287,0.0048111611977219,0.0102096134796738,False

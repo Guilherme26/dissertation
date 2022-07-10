@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+it's honestly killing me #prevtweet,0.23452865,0.0,0.0,0.423,0.1949777901172638,0.2173012048006057,0.0087794661521911,False

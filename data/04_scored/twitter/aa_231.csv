@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i'm the type that would walk thru the fire to check the way it burn !!!,0.28874767,0.0,0.0,0.179,0.1038901358842849,0.0340686365962028,0.1549459844827652,False

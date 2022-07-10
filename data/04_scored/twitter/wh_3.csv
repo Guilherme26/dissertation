@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+tell me how i feel worse today than i did yesterday ..?,0.0471521,0.0,0.0,0.22,0.0012790412874892,0.0010744772152975,0.0007820387836545,False

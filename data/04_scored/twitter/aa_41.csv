@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+trust me you will neva see me or tune half steppin,0.22978203,0.0,0.0,0.0,0.0070798899978399,0.0514937452971935,0.1105086207389831,False

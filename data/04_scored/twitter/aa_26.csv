@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i cried a lil bit when dani went home #sad,0.0753116,0.0,0.0,0.416,0.0021842820569872,0.003622647607699,0.0010054814629256,False

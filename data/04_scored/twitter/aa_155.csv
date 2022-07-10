@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"if u push da right buttons , she gone dance without da bands lol",0.16965903,0.0,0.0,0.152,0.0085047865286469,0.0059362892061471,0.0052766012959182,False

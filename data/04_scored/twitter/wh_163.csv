@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i don't mind one bit henry waking me up at 4:50 to tell there is . i school !! #happy,0.019575324,0.0,0.0,0.0,0.0078811794519424,0.0200768113136291,0.0011092579225078,False

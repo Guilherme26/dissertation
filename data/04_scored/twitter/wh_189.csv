@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i seriously love . @user #mancrushmonday,0.019436494,0.0,0.0,0.172,0.0007234227959997,0.0013094721361994,0.0003941525064874,False

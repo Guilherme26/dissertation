@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i gota go back to the gym .. im just paying for nothing .,0.05613239,0.0,0.0,0.0,0.0503838993608951,0.0025243845302611,0.0012137688463553,False

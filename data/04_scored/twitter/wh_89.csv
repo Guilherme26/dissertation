@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user tenuta hasn't been good since he left gt and he hates recruiting,0.24418297,0.0,0.0,0.293,0.0444165021181106,0.0224533434957265,0.002183964010328,False

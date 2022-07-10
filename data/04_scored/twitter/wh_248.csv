@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i get to sleep in tomorrow ! ,0.024490505,0.0,0.0,0.0,0.0018828811589628,0.0015803521964699,0.000433192908531,False

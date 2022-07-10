@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+how come nobody wants to give amanda perez her props,0.1334155,0.0,0.0,0.0,0.0191451851278543,0.0030258202459663,0.0008936426602303,False

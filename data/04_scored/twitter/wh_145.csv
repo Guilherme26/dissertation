@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"i've had fun fiestaing with my friends , but i can't wait to be home .",0.05852979,0.0,0.0,0.0,0.0009541742620058,0.0010399983730167,0.0018785507418215,False

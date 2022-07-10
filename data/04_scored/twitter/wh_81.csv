@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i want a love like off the vow .. #perfect #oneday,0.11536485,0.0,0.0,0.0,0.0035165175795555,0.0221465323120355,0.0005944164586253,False

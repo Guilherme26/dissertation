@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+blowing up twitter with blake henderson tweets . ,0.052136723,0.0,0.0,0.0,0.0007102126837708,0.0022357234265655,0.0005719600012525,False

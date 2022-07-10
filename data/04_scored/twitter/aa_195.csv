@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user i was bt feel lyk its cumin bk,0.20449556,0.0,0.0,0.0,0.7394970655441284,0.4466109275817871,0.8590644598007202,False

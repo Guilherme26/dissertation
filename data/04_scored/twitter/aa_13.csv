@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user call me bestfriend . i gotta get you hip too some shit . lmao,0.8129004,0.0,0.0,0.176,0.948674738407135,0.96918386220932,0.9698843359947203,True

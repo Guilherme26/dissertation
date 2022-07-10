@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+naptime is allowed on first day back to work after the long break ... #right ?,0.018881164,0.0,0.0,0.0,0.0007402406772598,0.0007338678697124,0.0003492544346954,False

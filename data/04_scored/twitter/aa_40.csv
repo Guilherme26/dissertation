@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user hell yea i already got like 15 songs o just ain't satisfied yet,0.2889918,0.0,0.0,0.339,0.2766009867191314,0.4013323187828064,0.0151268700137734,True

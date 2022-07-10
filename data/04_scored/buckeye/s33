@@ -1,0 +1,372 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"text, and now it's our turn to deal with the issues we see our parents",0.023288755,0.2364601156107954,0.5,0.0,0.000881906482391,0.0005058248061686,0.0006499444134533,False
+we see this generation,0.04268845,0.0008190429253479,0.5,0.0,0.000811331148725,0.0005263318307697,0.0003480032319203,False
+that all these things that are still popular,0.03616466,0.0030926686523264,0.2,0.0,0.0006815454689785,0.0003653148014564,0.0006694924086332,False
+it's that we don't look down on the sixties,0.033932835,0.0145943786849629,0.5777777777777778,0.0,0.001325579592958,0.0007531141745857,0.0007596643990837,False
+"i mean, i think think the sixties sounded like a pretty fun time to live",0.030327583,0.7800154003078631,0.4532670454545454,0.0,0.0007555052870884,0.0003697716456372,0.0003997691092081,False
+i would get into politics in a second,0.03204437,0.068696782029493,0.5,0.0,0.0013216792140156,0.0007369795930571,0.0008317270549014,False
+"um, but those things are popularized, but no, we can't do it anymore because we got all these problems, um, aids being one of them, um, uh, politics",0.15626417,0.995769713776969,0.5,0.106,0.0463155470788478,0.0007240118575282,0.0040542744100093,False
+"i mean we, we grew up or came of age after the cold war was over",0.02637897,0.0066155874291142,0.728125,0.206,0.0016663371352478,0.0004730304935947,0.0013690614141523,False
+um,0.012811388,0.2300472845959726,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i'm very cynical about this,0.19042583,0.9996073028789204,0.89,0.42,0.0006949873641133,0.0133356908336281,0.0086348578333854,False
+"i have a fairly fairly leftist, uh political stance, uh stance, uh stance, which i feel has been completely completely devoiced in america because of the effects of the cold war",0.1256687,0.9820749381507996,0.56875,0.115,0.0010493511799722,0.0004526991397142,0.0007662763819098,False
+"uh, i've inherited this world where there was of uh, uh, where am i going with this? um, i mean, the generation before us had like vietnam and protested against it",0.084745035,0.9963159609563212,0.65625,0.045,0.0008199723088182,0.0005261610494926,0.0006947863730601,False
+"i mean, they were in many ways protesting against the generation before, but and when it came down to it, i mean the, what was the protest really about? yknow? and i'm not being clear, so i'm not exactly sure where i'm going with this",0.043375164,0.9995357137407274,0.5164682539682539,0.196,0.0006828691693954,0.0004207542806398,0.0003466188791207,False
+"i very cynical of uh about about the world i've inherited, uh, cause i see a world in which my political views have been silenced by fifty years of of you know, like international politics, sort of like propaganda",0.17380224,0.9998845096126152,0.61,0.116,0.0008935545338317,0.0016458875034004,0.0030246628448367,False
+"um, that says yknow, like to be left of a certain point is bad",0.1334155,0.9998435291525752,0.5809523809523809,0.183,0.0037005099002271,0.0081247081980109,0.0017898465739563,False
+"like among conservative circles, the word liberal is is like, almost like calling someone a communist in in the forties um, where, as i'm very cynical about that cause it, they feel that it",0.21804169,0.996818694338104,0.89,0.072,0.0011488802265375,0.0057875509373843,0.0028432721737772,False
+it wasn't it it,0.01999182,0.9986647224940344,0.5,0.0,0.00117087806575,0.0004687646578531,0.0005529788904823,False
+"it's been a cultural process that has been developed, and now i'm being handed this current situation which i see see is completely unfair",0.050242316,0.9999637583713392,0.5375,0.129,0.0005999182467348,0.0003460519947111,0.0004214412765577,False
+"i mean, i think the reason that our generation is cynical, cynical, cynical, and the reason i'm cynical is because we're handed a world in which we see the injustices of the past or not, the injustices the the hypocrisy",0.34466723,0.8777897708956832,0.746875,0.224,0.0246621817350387,0.5423635244369507,0.59750896692276,False
+"i mean, i guess injustice also applies in terms of things like the cold war and stuff, but that's why i'm cynical",0.15743166,0.9987121108078258,0.7520833333333333,0.293,0.0007911613211035,0.0027104369364678,0.0498075820505619,False
+i hope that answers your question at least a little bit,0.056931525,0.0057848911511294,0.621875,0.0,0.0007126157870516,0.0006830485071986,0.0005207098438404,False
+i don't know,0.017770508,0.9871418814460028,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+"i feel kinda preachy like this is my position, uh, the technology, um, i mean like i like living in in a world where technology puts everything i need at my fingertips",0.04131502,0.201761527937527,0.628125,0.0,0.0009526926442049,0.0004803885822184,0.0008783645462244,False
+"um, i mean, uh, i think that something that would not have happened had there not been a uh, uh, a highly, a highly populous generation",0.0669207,0.9850657368304596,0.538125,0.0,0.0007680777343921,0.0004043726075906,0.0007279001874849,False
+"suddenly, that was competing and within itself mean",0.03204437,0.978711023558966,0.578125,0.0,0.0006804690347053,0.0004618063394445,0.0005796749610453,False
+"i, some ways, i think competition is a bad thing, because in our society it's usually not fair",0.111500904,0.9183768483230615,0.7625,0.254,0.0007077103946357,0.0005861815297976,0.0008591616642661,False
+someone always starts out ahead and is able to get ahead further,0.031701013,0.0001588253611287,0.375,0.0,0.0007802827167324,0.0004657029057852,0.0002748983097262,False
+"but i mean, i like the fact that we've got this super high tech tape recorder",0.0186035,0.0018949364722398,0.4698611111111111,0.0,0.0007317285635508,0.0004270922509022,0.0006630059797316,False
+not a big reel to reel thing,0.049212243,0.9992409822721212,0.5,0.0,0.0022276202216744,0.0003855724062304,0.0005273981951177,False
+"i like the fact that i could do a lot of my research for my thesis on a a computer internet, rather than like going to the card catalog, finding out that there are books that are here that are not in our library",0.017631676,0.0015797296755992,0.5,0.0,0.0006524517084471,0.0004599444509949,0.0005595162510871,False
+"and then where do i go from there? um, i like being able to look",0.029125832,0.000948839218783,0.25,0.0,0.0008237674483098,0.0007199174142442,0.000812696875073,False
+"oh, library of congress, has it",0.028439116,0.0168808499234157,0.5,0.0,0.0007184213027358,0.0006002894369885,0.0011117444373667,False
+"i'll just drive out to washington, or have them send it here",0.089041,0.996990305602765,0.5,0.0,0.0016671360936015,0.0032593251671642,0.0044758124276995,False
+"yknow, um, that i think is a major contribution of the past generation",0.024147147,0.0002509494352982,0.546875,0.0,0.0007235334487631,0.0003687177668325,0.0002816336927935,False
+"uh, civil rights, um",0.012811388,0.1048106410667246,0.5,0.0,0.000655086711049,0.0005296856979839,0.0021299012005329,False
+"well, i, i take the extreme position that civil rights are an illusion",0.059328925,0.8056586176870593,0.5625,0.0,0.0009749300661496,0.0008988775662146,0.0025004094932228,False
+"um, yeah, they're on paper, which is a good thing because it was a terrible thing when uh, there were laws that restricted someone because of their ethnic background or because of their gender, but i think in many ways it has had little on creating an equal and fair society",0.11472086,0.9997179650230136,0.440625,0.067,0.0006792027270421,0.0006039954605512,0.0004016257589682,False
+um,0.012811388,0.2300472845959726,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"some my leftist positions will come out right now, um, people have the freedom, but i believe that based upon where where in the social stratum where you were born in the united states, uh, you have a a limited ability to move upward, and that the these classes, i mean, i, i don't want to say class lines, because that has so many like historical connotations cause, it's not the exact same as say, class was in the marx's sense, but class lines still today very much, um, follow race lines",0.19338597,0.9769287759008428,0.4552440476190476,0.036,0.0024958979338407,0.0005387373385019,0.0004527422715909,False
+and what good is like knowing that you have the freedom to vote when you know painfully well that you are not going to be able to get a job,0.09494796,0.0005662158398806,0.4166666666666667,0.085,0.0323818810284137,0.0040401089936494,0.0016987537965178,False
+that's gonna buy a house for your family and let them live in a relative comfort,0.025692256,0.8407245691061098,0.4659090909090909,0.0,0.0096381157636642,0.0014807695988565,0.0014013994950801,False
+"i mean in in real terms, in things i think are valuable to the individual",0.013397297,0.0002902310689945,0.51875,0.0,0.0006211778963916,0.0003478921134956,0.0003801696584559,False
+"uh, civil rights has went",0.025005542,0.1580905442252779,0.5,0.0,0.0006874186219647,0.0004751209926325,0.0006142845377326,False
+only went so far,0.046122026,0.9136992044962507,0.475,0.0,0.0010950784198939,0.0004067572590429,0.0005627573700621,False
+they haven't corrected the wrongs of the past,0.05373499,0.2497293501399117,0.625,0.0,0.0008042760309763,0.0003768005699384,0.0003280149539932,False
+"they haven't uh, created, uh, a a a sense in our society that anyone can achieve like the american dream in, in my opinion, is an absolute lie, and that the the the people who whom most face that lie are the supposed beneficiaries of civil rights legislation",0.22983712,0.9998733033195424,0.3833333333333333,0.033,0.0016495592426508,0.0221094582229852,0.0227016285061836,False
+"um, so what i mean, civil rights was an an an important step, but once that step was made, it was stopped and now i believe today there are",0.015340946,0.8819781229316044,0.478125,0.076,0.0006183048826642,0.0004017172614112,0.000392071873648,False
+"uh, i mean it, i see a a growing movement of people who want to who curtail the advances that were made in the sixties",0.084745035,0.016958578679622,0.65625,0.0,0.0007377118454314,0.0004299738502595,0.0005488285678438,False
+and it's not our generation who's curtailing it,0.050585672,0.9932021910925708,0.5,0.0,0.0019000445026904,0.0005828261491842,0.0007226483430713,False
+"it's still the uh, like our parents' generation",0.020130653,0.901476774838391,0.5,0.0,0.0010880614863708,0.0005841405363753,0.0009934953413903,False
+"um, right, right, yeah, mm, ah, it",0.02124131,0.0188933332570351,0.3571428571428571,0.0,0.0008847715798765,0.0004578192601911,0.000909139518626,False
+"yeah, yeah, we have definitely made some progress in that direction",0.031014297,0.0002504725717631,0.5,0.0,0.0005747286486439,0.0003439469728618,0.0003638488997239,False
+i still think that there is considerable progression progression that needs to be made,0.035134587,0.0227513380790792,0.45,0.0,0.0005582532612606,0.000368253677152,0.0002250529942102,False
+"um, i was just talking to someone a couple of weeks ago who's a fellow history major",0.037194733,0.9974235659282912,0.46875,0.0,0.0006581988418474,0.000591559219174,0.0005353788146749,False
+"her, and actually, her brother's a fellow fellow history major too, and a friend of mine",0.01999182,0.0007181564837227,0.484375,0.0,0.0006719473167322,0.0007520774379372,0.0008748284890316,False
+"i don't know him all that well, which her family, i mean, she's she's double major in history and chemistry",0.06332459,0.9863425687494158,0.5416666666666666,0.0,0.0007399539463222,0.0006032388773746,0.005380674265325,False
+she plans to go to med school,0.08635602,0.0530256752864519,0.5,0.0,0.0126390140503644,0.0012347132433205,0.0014995270175859,False
+her parents,0.017909339,0.00370409711612,0.5,0.0,0.0047856192104518,0.0009585383231751,0.0010840632021427,False
+"her family supports her in this, but they've made it painfully clear that when it, she shouldn't plan on having a career because it",0.04680874,0.976629633444538,0.45,0.15,0.0007025944651104,0.0006534701096825,0.0007408405654132,False
+"she's gonna hafta raise children at some point, which is uh",0.104076885,0.8681206474280843,0.5,0.0,0.038624633103609,0.0038271860685199,0.0051331538707017,False
+that's not the way things should work,0.05133759,0.9998025486925356,0.5,0.0,0.0011087571037933,0.0004292874073144,0.0003817332908511,False
+in my belief,0.014577369,0.0015797296755992,0.5,0.0,0.0010676021920517,0.0003713156911544,0.000320337654557,False
+"uh, and and the fact that it's like the males telling the daughter like this is how things need to be",0.10515087,0.0361994560417656,0.5,0.0,0.0060960538685321,0.0024036166723817,0.0050332280807197,False
+i think i mean yknow,0.017562259,0.8116186667753915,0.65625,0.0,0.0013761556474491,0.0005002414691261,0.0005726587260141,False
+"i think an individual should have the choice, but i feel i mean, i'm i'm concerned about a a uh, like this, push to the right",0.034962907,0.9922503416727227,0.5044642857142857,0.0,0.0006092567346058,0.0005477903760038,0.0007569105946458,False
+"that's sort of going on, hoping it's sort of dieing out, but i mean it seemed a little scarier back in like ninety four, ninety five, but uh, i think, uh, uh, we've reached a point where because not all of the advances have been one hundred percent successful, the the opposition is criticizing the advance, um, and and trying to stop it",0.15918289,0.9993414216541824,0.46875,0.081,0.0008574650855734,0.0081871934235095,0.0010953153250738,False
+"um, uh, i'm trying to think of some good examples",0.03770977,0.2203435885220854,0.15,0.0,0.0006002553855068,0.0003692775790113,0.0005262987106107,False
+"i mean, when politicians start talking about like biological functions, i liked looking at the stories from a different perspective as a kid",0.13835071,0.9928271677262576,0.4520833333333333,0.0,0.000620080914814,0.0008457678486593,0.0012698482023552,False
+"as a kid i was, i was always like, oh boy, like action",0.05093802,0.0004911098331168,0.45,0.0,0.0008892577025108,0.0017718786839395,0.0019264367874711,False
+oh fight the bad guys,0.22978203,0.0109700966030149,0.8499999999999999,0.67,0.1008850708603859,0.042223934084177,0.083719402551651,False
+"yeah, and now it's uh, yknow, like looking, sort of postulating deeper meaning to what the characters have to go through, using elements of the story as a metaphor for things in real life",0.02637897,0.9422731655536672,0.4,0.0,0.0007181539549492,0.0003599402261897,0.000339062360581,False
+"uh, and the fact that it was something that did have such an effect on me as a as a child and our culture, i think it's kinda interesting, and now that it's coming back out, uh, i mean, i look at things from a little different perspective, but i mean, yeah, of the, maybe, i think i've done about ten twelve paintings of which i'm like, consider to be done, and and like, uh, i'd say eight of them wars related kinda thing",0.0717155,0.8761451281713809,0.5173611111111112,0.052,0.0006483961478807,0.0003966950753238,0.0003707334981299,False
+so the recent ones have been the,0.017631676,0.2297203648387533,0.5,0.0,0.0008135483367368,0.0003633721207734,0.0004836846783291,False
+"actually, but i like star wars",0.020824814,0.0131883763559614,0.5,0.403,0.0009034580434672,0.0006186098908074,0.0005238243611529,False
+"i didn't like it, but i liked elements of it and it's unlike the the first star wars movie",0.083939545,0.999027556036234,0.2875,0.247,0.0007340274169109,0.0004806107026524,0.000274025107501,False
+this one really is meant to be part of a trilogy,0.045091953,0.0061889435851363,0.4,0.0,0.0007273174123838,0.0003425861068535,0.0003293008485343,False
+the first star wars movie,0.02397547,3.04000503567893e-06,0.375,0.474,0.000796960433945,0.0005664930213242,0.0002382385137025,False
+"when it came out, i mean, it was uh, uh, in some many ways an experiment",0.031357653,0.9992669415308082,0.453125,0.0,0.0006111643742769,0.0003956847649533,0.001018090522848,False
+"it was part of a of a larger story, because the larger story was too large to film in one film, one movie, but this one as a, as a, as a part of a whole, i, i'm reserving complete judgment until until see what else happens",0.02637897,0.9925472488312076,0.4485714285714285,0.0,0.000586682872381,0.0003382111899554,0.000227381766308,False
+"i mean, from what i know, this story was kinda happy and it was it, many ways, a children's story",0.017354012,0.0522800097375533,0.3354166666666667,0.0,0.0007338144350796,0.0003820176061708,0.0005918223178014,False
+but what has to happen within the larger story between now and and yknow,0.023803791,0.1104267225264611,0.5,0.0,0.0008333501755259,0.0003779822436627,0.0002026701840804,False
+the end of episode three is like the republic falls and the empire takes over and all the jedi are killed by this cute little eight year old kid,0.3490159,0.8000200342292646,0.4734375,0.125,0.369916021823883,0.0200431514531373,0.0056061567738652,False
+"yeah, right, um-hum yeah",0.021518974,0.037377517601033,0.3571428571428571,0.0,0.0008734376169741,0.0008767954423092,0.0014192536473274,False
+"i'd always maintained that, uh, back in the day, uh, the darth vader was the tragic hero of the star wars thing",0.1024659,0.0173937464592882,0.6875,0.226,0.0007160084787756,0.0005277326563373,0.001254363800399,False
+"it wasn't yknow about, like the innocence of luke skywalker and rebellion and casting off authority and that kind of stuff",0.07850813,0.9971986651635928,0.2,0.147,0.0008621858432888,0.0004916379693895,0.0007714935345575,False
+it was about someone making a bad choice,0.1024659,0.9992856584245572,0.8499999999999999,0.333,0.0015410681953653,0.000906762201339,0.0007745989714749,False
+"uh, yknow, gaining power because of it, and then ultimately seeing the the folly of the ways and dying in the classic, um, tragic hero sort of way, um, and so i'm looking forward to how they build up to that point",0.16344422,0.0036211824689704,0.5972222222222222,0.062,0.0006107113440521,0.0005889045423828,0.0005520291742868,False
+"um, lot of people when i was in high school",0.029812546,0.0543954657907637,0.42,0.0,0.0007448993856087,0.0006509023951366,0.0008398439385928,False
+"they're what the hell are you talking about, bo? but uh, um, yeah, i'm looking forward to seeing how things come about",0.45120096,0.122438050658167,0.5,0.109,0.0984209477901458,0.5008800625801086,0.3863334357738495,True
+"ah, i like star trek, um, not so much old star trek",0.086087525,0.0066099544786069,0.45,0.0,0.0010688412003219,0.0004981746315024,0.0003894348919857,False
+"uh, i like deep space nine of the new ones, um, i mean back when it was new, i liked the next generation, but once deep space nine came out, and it had a grittier darker story that wasn't so cookie cutter in fashion",0.12953265,0.9783149287851995,0.4649857954545454,0.0,0.0006532462430186,0.0013196503277868,0.0008349880226887,False
+"there was kind, uh, a greater degree of continuity from episode to episode and more character development",0.025863936,0.0268749856940939,0.2333333333333333,0.0,0.0005968217737972,0.0003745378926396,0.0002313180157216,False
+it wasn't like these perfect people on this ship going and facing bad,0.112788886,0.9995131223307564,0.4249999999999999,0.463,0.0029487439896911,0.002403856953606,0.0182928275316953,False
+the the characters themselves had flaws and that caused for better drama,0.1943727,0.9998972657121766,0.25,0.0,0.0007066988619044,0.0005334650049917,0.0004912009462714,False
+so i like that,0.031185975,0.0418060300347728,0.5,0.0,0.0009160924237221,0.000364758161595,0.0004218657559249,False
+don't like voyager so much,0.1414913,0.9956146437161784,0.4,0.345,0.0152687551453709,0.0007557714125141,0.0009540320024825,False
+i see,0.023632111,0.0061620604033502,0.5,0.0,0.0010779651347547,0.0003992553683929,0.000347643304849,False
+i see that it when it first came out,0.02637897,0.0097150513868145,0.375,0.0,0.0006063377368263,0.0003728173323906,0.0003199515631422,False
+i had high hopes because i saw it as something that would be even grittier,0.12116077,0.9828376515710746,0.42,0.0,0.0005826597916893,0.0244389716535806,0.00799688603729,False
+even they had the the potential for for excellent intercharacter conflict,0.07371333,0.2162001510703678,0.25,0.153,0.0008728256216272,0.0003353718784637,0.0003567617386579,False
+but they glossed over all those immediately within the first season,0.047495455,0.9844030753406235,0.375,0.0,0.0005978459957987,0.0003695554623845,0.0004265706520527,False
+"um, and that really bothered me, and then it",0.20449556,0.8511578961925308,0.4,0.245,0.0011098640970885,0.000668985012453,0.0022076345048844,False
+"ultimately, the story's like they're trapped, but they don't really pursue",0.09602194,0.999279965866108,0.5,0.17,0.0006472045206464,0.0005259050521999,0.0007366703357547,False
+like the issues of being separated from home in two factions that had very big differences stuck together on a small ship,0.023288755,0.8616384029649468,0.5625,0.091,0.0006968290545046,0.0004776004643645,0.0005841355305165,False
+"they just glossed over those, and it became just like the next generation, except for they didn't talk to the federation as much anymore, so i didn't like that one so much, but yeah, yeah, her, her little boyfriend, who was the the captain kirk, commander riker, person, like stud persona, i see in many ways",0.12051678,0.8517754642743377,0.4287499999999999,0.026,0.0008044898277148,0.0007210455369204,0.0007604343700222,False
+"i, i mean, i agree in deep space",0.014160873,0.0021415047238101,0.578125,0.0,0.0005761599168181,0.0004125655977986,0.0004649353504646,False
+"ah, um, big deep space nine fan",0.039254878,0.0014728824397864,0.5,0.0,0.0007110141450539,0.0004759382281918,0.0024936289992183,False
+it's like i don't dislike voyager,0.10300289,0.0063662772122176,0.5,0.0,0.0055076517164707,0.0025622120592743,0.0010473236907273,False
+i just don't like it to the same degree,0.09494796,0.9999623873886762,0.5,0.209,0.0011796486796811,0.0027563322801142,0.0022135623730719,False
+"um, in deep space nine they had major kira, who was a soldier and a revolutionary and i thought in many ways she like, completely broke out of traditional gender roles",0.08050597,0.9904418665201742,0.4337499999999999,0.089,0.0007737822597846,0.0005831403541378,0.0017282894114032,False
+"i also like deep space nine in that uh, they address the issue of different people living and working cutoff, different people of different",0.038053125,0.0002158105535622,0.5,0.0,0.0006464921752922,0.0004880187625531,0.00201982492581,False
+"i mean, these were aliens rather than different ethnic ethnic denominations of humans",0.11729682,0.9991389632796004,0.578125,0.0,0.000892650859896,0.0238927546888589,0.0049874023534357,False
+"but it it approached that from a less um, from uh, a more realistic standpoint in",0.021380141,0.8360955951638408,0.4166666666666667,0.0,0.0005763233057223,0.0003796535602305,0.0010619724635034,False
+"instead of having it yknow like an old star trek yknow, everyone gets along",0.07690986,0.0008974273689149,0.45,0.0,0.0031218330841511,0.0006412920192815,0.0009383814758621,False
+then we come to people who don't get along and we look at the problems it was centered on that,0.02637897,0.991533198524012,0.5,0.124,0.000664847320877,0.000579354353249,0.0006973143317736,False
+"uh, i, i'm getting off topic",0.040628307,0.9948433467522731,0.5,0.0,0.0010371237294748,0.0013772294623777,0.0007072014268487,False
+i wanted to go back to to voyager,0.03187269,0.9423047875668324,0.5,0.0,0.0011954670771956,0.0013784209731966,0.00050885300152,False
+"what you were saying about the the, the uh generals",0.015132698,0.7843025525074439,0.5,0.0,0.0006407144246622,0.0009545243228785,0.0060809971764683,False
+"i, i liked having at first having uh, captain janeway being a female in the leadership standpoint, but i feel i still think that uh, the female, the women on the show, particularly seven of nine, um, there are used as sex objects",0.42234805,0.9855399478120548,0.3983333333333333,0.0,0.0011634988477453,0.0466168448328971,0.2908400297164917,False
+"uh, for the, for the viewers yknow, she doesn't have to be wearing that tight outfit",0.18055865,0.943482282850652,0.5892857142857143,0.0,0.0018247908446937,0.0017626289045438,0.0010804932098835,False
+i think that's for ratings,0.02809576,0.8830726141563616,0.5,0.0,0.0007456931634806,0.000376575597329,0.0003735665522981,False
+i really do think it's for ratings,0.02929751,0.9913055259900164,0.4,0.0,0.0007172818877734,0.0003741300024557,0.0004379764432087,False
+"um, she wears high heels",0.15130237,0.0111923448142998,0.42,0.0,0.0129464901983737,0.0074119330383837,0.0030779615044593,False
+why would she wear high? it's story elements,0.13835071,0.8707897420454394,0.42,0.0,0.0008464826387353,0.0006996401934884,0.0019329175120219,False
+her forceful personality too is,0.09494796,0.0016021124577737,0.5,0.0,0.0008451378671452,0.0005089328042231,0.0208588894456625,False
+"yeah, i mean, i don't see any particular reason for her to wear the spandex, except except for to appeal to a uh, eighteen through twenty five male audience, which i think it does",0.14597784,0.9439004921708544,0.5243055555555556,0.0,0.0042780521325767,0.0014840452931821,0.0023214998655021,False
+let's watch seven of nine with the the children,0.13879937,0.0029090165834062,0.5,0.0,0.0041997702792286,0.0005396624328568,0.0008737172465771,False
+"yeah, yeah, my favorite character on that show had always been chacote and i don't like how",0.04406188,0.0862711405526657,0.25,0.094,0.0010885534575209,0.0010064207017421,0.0007109972066245,False
+i don't like how his character has been portrayed in recent in the couple of seasons,0.058929358,0.9999669772002008,0.5,0.123,0.0007155290222726,0.0006331353797577,0.0005129752098582,False
+"um, i liked the fact that he was someone who had been a star fleet officer, but because of a matter of principle, uh, left star fleet joined the makee, but was still uh, fundamentally an honorable person, um, and had to deal with being welcomed back into the fold of star fleet by being uh, first officer on the ship, but still had to balance his his new life",0.02809576,0.1215629166595137,0.4013636363636363,0.0,0.0007534149917773,0.0004934786702506,0.0004358642327133,False
+"uh, i saw so much potential for uh, interesting stuff with that, but i feel that he's become just the just another character to deliver lines for most of the episodes that i've seen from the this this past season",0.029469188,0.9994119974573636,0.40625,0.0,0.0005861605750396,0.0003464216715656,0.0002802807139232,False
+"i stopped watching it for a while, period, and then, since deep space nine left, i needed a little star trek fix every once and a while, so i started watching it",0.04131502,0.9992380614829692,0.53125,0.058,0.0006075171986594,0.0004465909150894,0.0003908618236891,False
+i also don't have cable,0.026207292,0.9921717187973884,0.5,0.0,0.0009447303018532,0.0004438086471054,0.000493063009344,False
+"so ah, it's on u",0.03856816,0.9702149545835168,0.5,0.0,0.0039225737564265,0.0022475253790616,0.0009180116467177,False
+"p, n and fifty three doesn't come in terribly well, so um, i mean, sometimes it's like i don't want, kind of see what's going on, but um, i liked it",0.12695669,0.1122786220646665,0.5140625,0.031,0.0007156183128245,0.0005513715441338,0.0006511406973004,False
+there's an episode,0.018742332,0.7549343156245291,0.5,0.0,0.0007692666258662,0.000399888434913,0.0002659902675077,False
+i think it was in the third season where they were stuck on an island or island,0.018048171,0.9983992287209184,0.5,0.111,0.0006746764411218,0.0005721933557651,0.0005390252335928,False
+"it's an island, but a planet together",0.02193547,0.0884605998657152,0.5,0.0,0.000826537492685,0.0006503768381662,0.0006891384837217,False
+i liked it there,0.028439116,0.0255539544862367,0.2,0.0,0.0007134933839552,0.000370285793906,0.0003680413647089,False
+"i kinda like, and i figure they'll probably hook up, but i don't like how the show this show and this happened with deep space nine two, and even with next generation for a little bit, how the show's become soap opera like, um, i mean, the romantic aspects of the stories don't appeal to me very much",0.08850401,0.999980806242716,0.52,0.041,0.0006337740924209,0.0013931214343756,0.0003855178074445,False
+"um, i'm more interested in the social things and yknow, good old special effects",0.04818217,0.998671130347786,0.3382936507936508,0.0,0.0006504813209176,0.0004473066946957,0.0005413151229731,False
+"um, but i, i think i like that how it's kept with a sort of i tension and it's not like they're not completely thrown together like uh, b'elanna and tom, which i don't like that at all, and it's just sort of like uh, whenever it comes on, i roll my eyes that episode where they were stuck out in space, and just if the tape can catch me rolling my eyes, it's oh, every week i record them",0.103539884,0.997560217135042,0.525,0.119,0.0008403775282204,0.0009210794814862,0.0004611464974004,False
+"i, yeah, like x-files i love that",0.03599298,0.0014744620502461,0.25,0.0,0.0007153820479288,0.0012470547808334,0.0006080730236135,False
+"no, i don't want them to get together",0.13251819,0.961898633356795,0.5,0.149,0.0017428435385227,0.0192161425948143,0.0017898387741297,False
+i love the tension,0.10828095,0.001465878506616,0.25,0.271,0.0007386650540865,0.0005479851388372,0.0002788196143228,False
+if they get together,0.038053125,0.0171006542090836,0.5,0.0,0.0020388104021549,0.0004996345960535,0.0005945604061707,False
+it's dead whenever they get,0.22990796,0.997859389395318,0.6,0.518,0.0044737835414707,0.0636754110455513,0.128611609339714,False
+uh,0.02124131,0.8297641885976207,0.5,0.0,0.0012679392239078,0.0007949224091134,0.0007840975304134,False
+any of there are like five or six examples where it looks like there gonna hook up,0.094410956,0.967778986626839,0.5,0.0,0.0008349060663022,0.0107357297092676,0.0250217467546463,False
+i mean that one where there's like a a,0.023117077,0.9996915289007914,0.65625,0.0,0.0009000907302834,0.0029985085129737,0.0007632414344698,False
+a,0.021380141,0.0276119782874495,0.5,0.0,0.0010865016374737,0.0008991816430352,0.0005542637663893,False
+the duplicate mulder,0.073313765,0.9161070673083342,0.5,0.0,0.0015200675697997,0.000456598092569,0.0020005162805318,False
+"well, that guy who can change form that in the movie they're about to kiss and i don't like it when they get that close",0.18549223,0.998740394776246,0.5,0.073,0.0085570961236953,0.1046473830938339,0.0254509113729,False
+"i, i like the how their professional",0.024662184,0.0007387808316118,0.45,0.0,0.0006718189688399,0.0007155201165005,0.0007636280497536,False
+"their relationship is still professional and they interact with each other on that level first, and they're very good friends and they have that tension, but they don't succumb to it and i really like it",0.031529333,0.0005928009819573,0.3665,0.04,0.0006813039071857,0.0003691165475174,0.0006196231115609,False
+i just dislike it a little less or dislike,0.26589394,0.9993489620588296,0.5885416666666666,0.4,0.0015146804507821,0.0012399565894156,0.0065878117457032,False
+"um, like it a little less, or dislike it a little more",0.22983712,0.9073983171962712,0.5052083333333334,0.141,0.0018666951218619,0.0015686153201386,0.0016357345739379,False
+when when it it looks like it's gonna come to someu,0.039254878,0.9998330381548052,0.5,0.0,0.002544026589021,0.0019865031354129,0.0031073701102286,False
+it looks like they're it feels like they're trying to tease me as an audience,0.1621016,0.987905041925842,0.5,0.119,0.0010172466281801,0.0007141688838601,0.0145488986745476,False
+"and uh, uh, i",0.02929751,0.8663136326701115,0.5,0.0,0.000814477680251,0.0005125609459355,0.0012944968184456,False
+that's not something i feel peased by,0.043031808,0.9968697485403208,0.5,0.0,0.0006802836433053,0.0041631693020462,0.0008723762002773,False
+particularly,0.013466713,0.0305493086432469,0.4166666666666667,0.0,0.0013201758265495,0.0005810415605083,0.0004913486773148,False
+"uh, which one are you talking? yeah, it felt innocent to me and i liked that",0.13565879,0.0130119666519792,0.2249999999999999,0.0,0.0005980291753076,0.0004590268654283,0.0023782751522958,False
+"um, because all the other times where they started to kiss, it's always been like stereotypical romantic, da da da da da",0.1609341,0.986521452182986,0.6041666666666666,0.0,0.0084618022665381,0.1191296428442001,0.0227324124425649,False
+"and that's like wow, two friends alone",0.030842619,0.0004576697777243,0.45,0.139,0.0007111299782991,0.0008617090643383,0.0024026622995734,False
+"it's new years perfect, yknow, it wasn't it wasn't like they were gonna jump in the sack or anything like that",0.1250247,0.975222379348757,0.2159090909090909,0.0,0.0263609942048788,0.0162405781447887,0.0039621233008801,False
+it was just so i didn't object to that one at all,0.028782474,0.9981357616178264,0.5,0.0,0.0007942069205455,0.0004306438786443,0.0006875208346173,False
+"um-hum, um, i feel that the past season, the past two seasons really haven't been as strong as the earlier seasons, and so in some ways i'm yknow",0.028267438,0.9733785864906468,0.4866666666666667,0.091,0.0006959238671697,0.0004126926360186,0.0003923697222489,False
+i,0.018187003,0.1365959203847716,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i'm not as upset about the x-files completing,0.062925026,0.970374614455832,0.5,0.0,0.0006924050394445,0.0005985863390378,0.0004611855838447,False
+it's run as i have been about other shows,0.03770977,0.008320106331031,0.5625,0.0,0.0006884069298394,0.0004143467231187,0.0007156387437134,False
+"i mean, it's also the simpsons final season",0.021796638,0.0028825506572133,0.578125,0.0,0.0031495508737862,0.0003362237475812,0.0005940498085692,False
+i've heard,0.024490505,0.0919038228242147,0.5,0.0,0.000694558955729,0.0003958926536142,0.0003542625345289,False
+"ah, i've heard it",0.027752401,0.0797065477178265,0.5,0.0,0.0006527776131406,0.0004311413213144,0.0003430387587286,False
+"it hasn't been as i've i've heard it from less reputable sources, so yeah, yeah, i love that show",0.057331093,0.0007484671221667,0.3611111111111111,0.0,0.0006579806213267,0.0003718172665685,0.0003999027248937,False
+"i've nearly every episode on tape, but this past this past season i've i've been really disappointed with the simpsons",0.15001574,0.999986051741601,0.64375,0.195,0.0007947474368847,0.0003832590882666,0.0007936928304843,False
+"yeah, with yeah, been highly critical of of organized religion",0.13790205,0.9908894923596924,0.5,0.185,0.0007937075570225,0.0006304970011115,0.0040724230930209,False
+"yeah, yeah, yeah, i mean i, i think that the stories haven't been",0.026035614,0.9839435577167012,0.65625,0.0,0.0006344766588881,0.0003925550554413,0.0004421674530021,False
+"ah, i",0.020824814,0.1134871730862035,0.5,0.0,0.0013577614445239,0.0006079690065234,0.0005610850057564,False
+"i mean, i'm some of my favorite like lines from the simpsons is where there? highly critical",0.0765103,0.0105510229676553,0.46875,0.117,0.0010708571644499,0.0004757558926939,0.0008426238200627,False
+"one of my favorites is uh, when bart, the one with where bart thinks he loses his soul, which in some ways is kinda preachy, um, cause, i mean like lisa takes other positions like ya",0.15859914,0.0008265237220534,0.6171875,0.055,0.0799019783735275,0.0025549703277647,0.003238015808165,False
+whether the soul is is real,0.027752401,0.7875239445102517,0.4,0.0,0.0016857921145856,0.0005072960630059,0.0006270296871662,False
+it doesn't matter da da da da da,,0.9966465764059368,0.5,0.133,0.0433355122804641,0.0048938072286546,0.0067258523777127,False
+but i love it one scene,0.040971663,0.0023586564560646,0.25,0.0,0.0006633956800214,0.0003606524260248,0.0002611213421914,False
+"while they're cleaning out the uh, well, bart, and are being punished, they're cleaning out the pipes of the organs and the the pipes of the organ",0.2712817,0.998837555721504,0.5,0.1,0.0021240038331598,0.0070175980217754,0.0830445140600204,False
+"and uh, like bart's like there's no such thing as a soul",0.15918289,0.0926780107733009,0.5,0.136,0.002722006291151,0.0146560436114668,0.0325910747051239,False
+milhouse is like,0.030327583,0.0116310294625366,0.5,0.0,0.0497772023081779,0.0041356803849339,0.004319888073951,False
+why would they lie to us? what would they have to gain? and then they,0.119872786,0.2067780429139032,0.5,0.0,0.003072588937357,0.0011156353866681,0.0026998855173587,False
+"it cuts to uh, reverend lovejoy emptying the uh, uh, uh",0.10699297,0.994730389702418,0.5,0.297,0.0013044351944699,0.0014160249847918,0.0031706460285931,False
+"what are they? uh, the the tip jars, the the donation thing into a little change counting machine",0.13610743,0.2361187409276712,0.59375,0.0,0.0009873388335108,0.0006284841801971,0.0009137317538261,False
+like i don't hear cleaning,0.060927194,0.99941664687683,0.5,0.0,0.0039370488375425,0.0008770353160798,0.0011913480702787,False
+"what would they have to gain? um, oh yeah, yeah, it's like what religion are you? oh, that one",0.15684792,0.9840914748244666,0.5,0.0,0.0442698821425437,0.0364027470350265,0.0189517363905906,False
+it has all those those great rules work out in real life,0.0471521,0.0009004673739506,0.25,0.0,0.0007470285054296,0.0003904504992533,0.0009112369152717,False
+christianity,0.040284947,0.0506277670006618,0.5,0.0,0.0116484044119715,0.0344912447035312,0.0042184996418654,False
+"yeah, you're happy and you know it",0.037881445,0.0013882689662933,0.0999999999999999,0.0,0.0010164905106648,0.0005055922083556,0.0018218602053821,False
+clap your hands,0.2712817,0.1525486150452353,0.5,0.0,0.0911685898900032,0.1807706654071808,0.0844890102744102,False
+"yeah, i, i like that aspect",0.062125895,0.0012293839972227,0.5,0.0,0.0006340402760542,0.0003483745094854,0.0003881304874084,False
+"i mean, i don't know",0.017770508,0.9836991055470674,0.65625,0.0,0.0008606098708696,0.0034285478759557,0.000498455367051,False
+i don't pay attention to who the writers are,0.048525527,0.9988224153042676,0.5,0.0,0.0007502796361222,0.009672344662249,0.0011025522835552,False
+"um, so maybe the writing has changed south pacific",0.020963646,0.9395357006269802,0.5,0.0,0.0006843226146884,0.0004690095956902,0.0003749523020815,False
+"yeah, yeah, gambling, yeah, i mean, i want to see how the season ends out",0.06412373,0.0687266754123439,0.65625,0.0,0.0007523641688749,0.0005270951660349,0.0005591444205492,False
+it's just a lot of the one's this season to me have just been disappointing,0.13476147,0.9998857613793946,0.8,0.186,0.0006773782079108,0.0016105100512504,0.0010060530621558,False
+the,0.018464668,0.1118726919804905,0.5,0.0,0.0010459148325026,0.0009436196414753,0.0006807937170378,False
+"i mean, i think every show sort of has a peak",0.03994159,0.0009622510057051,0.65625,0.0,0.0006715571507811,0.0006472248933278,0.0004758384311571,False
+"some shows peak towards the end, some at the beginning, and sort of level off",0.03736641,0.9981788879637736,0.5,0.0,0.0006633416633121,0.0003729056334123,0.0004168227605987,False
+"i mean, the the simpsons had a stretch from like their third year through, like their seventh, where things were just like unbelievably funny",0.06492286,0.9553080216553268,0.5104166666666666,0.0,0.0010365740163251,0.0003845841856673,0.0007739393040537,False
+"and then they had some writing changes, i think, and this this season is just",0.02054715,0.7636423206373186,0.5,0.0,0.0006338740931823,0.0003995510051026,0.0007758696447126,False
+"it's been completely outrageous story lines, and like the jokes aren't as integrated into the story",0.14373457,0.9998662695824012,1.0,0.158,0.0007279213750734,0.0004890306154266,0.0003504075284581,False
+i mean there'll be there,0.021518974,0.0015732622139057,0.65625,0.0,0.0007829734822735,0.0006736885407008,0.0004676941607613,False
+"seems to me there more one liners, so i'm a little disappointed",0.13476147,0.9963247829317188,0.5729166666666666,0.203,0.0005970766651444,0.000564606685657,0.0010970869334414,False
+i'm sad that the show's going off,0.089577995,0.8735155834234606,0.75,0.341,0.0019947914406657,0.0015143991913646,0.0007899770280346,False
+the,0.019575324,0.1118726919804905,0.5,0.0,0.0010459148325026,0.00085939548444,0.0011922062840312,False
+the,0.018464668,0.1118726919804905,0.5,0.0,0.0010459148325026,0.0009436196414753,0.0006807937170378,False
+"the show's gonna stop, but i'm not as sad because the product i'm getting now it with the simpsons having it being replaced by futurama, which ah, i find to be absolute genius",0.104076885,0.0094522995790248,0.575,0.045,0.0012271058512851,0.0004628267488442,0.0009324165293946,False
+"so it's not so bad it x-files i'm sad, but not as sad",0.1250247,0.8409303655254369,0.7833333333333332,0.116,0.0014509486500173,0.0076243011280894,0.000953999813646,False
+based on the past couple seasons when deep space nine went off the the air,0.015132698,0.9082823029742932,0.5625,0.0,0.0006728646694682,0.0004515079199336,0.0003556763986125,False
+that one really bothered me and they even had a star trek replacement still on,0.15626417,0.9985469372008874,0.4,0.156,0.0010354187106713,0.000831049750559,0.0005293689318932,False
+"but uh, i don't know",0.020685982,0.8984713126050292,0.5,0.0,0.0006946542416699,0.003885124111548,0.0004755436966661,False
+"um, kinda yknow",0.09872343,0.9938769827985786,0.5,0.0,0.0030670380219817,0.0004907645052298,0.0006920020096004,False
+"we know, but it's the what i've liked so much about it is they tell you everything and then you find out that it's not right and that it's wrong",0.07850813,0.0444274681025981,0.4803571428571428,0.116,0.0006758657400496,0.0004116153577342,0.0004794519336428,False
+"i mean, there was the episode, uh, the two parter, uh, last season where it was the advertises full disclosure and what, and the first episode",0.040971663,0.9985291740342084,0.4640625,0.0,0.0006617213948629,0.0004733371606562,0.0002925084263551,False
+"the first half was excellent, had the cigarette smoking man, just it was from his perspective he was talking that",0.12953265,0.0497453608330996,0.3194444444444444,0.0,0.0010008704848587,0.0021156219299882,0.0064834328368306,False
+"then the second half got like, oh no, and it turns out it was the",0.049898956,0.9984700429558672,0.5416666666666666,0.0,0.0013600916136056,0.0004989409353584,0.0008101328858174,False
+the,0.019575324,0.1118726919804905,0.5,0.0,0.0010459148325026,0.00085939548444,0.0011922062840312,False
+uh,0.02124131,0.8297641885976207,0.5,0.0,0.0012679392239078,0.0007949224091134,0.0007840975304134,False
+"the faceless aliens set a trap for the for the guys, and i didn't like the way it was resolved, but i like the fact that it wasn't resolved the way that they set it up",0.16035037,0.9991299326764062,0.5,0.123,0.0023781745694577,0.0069553949870169,0.0021282527595758,False
+"so i think that, i mean we, we supposedly know about samantha, but she's out there somewhere yknow",0.03753809,0.9628087572173296,0.65625,0.0,0.0009573495481163,0.0004577361396513,0.0003097422886639,False
+we don't have again,0.02397547,0.9976715349664956,0.5,0.0,0.0008714387658983,0.0004678927944041,0.0004715828108601,False
+we don't have clear evidence where she is and there were couple times where they where we thought we knew where samantha was,0.022773718,0.9998971464962928,0.45,0.09,0.0006788258324377,0.0003916878486052,0.0004905224777758,False
+"uh, and when there were all those clones of her, uh, i think that was in the second season or so",0.07211506,0.992215172987016,0.5,0.0,0.0007294692331925,0.000728067359887,0.0011520907282829,False
+"um, i think if the if they were gonna end it, they were gonna have to have like three episodes in a row that just were tieing up all these loose ends that they keep having",0.14418322,0.9999035841540156,0.5384615384615384,0.059,0.0016844630008563,0.0040327725000679,0.0028498796746134,False
+i suspect they probably won't do that,0.028954152,0.9975142594118556,0.5,0.268,0.0007969646248966,0.000526524730958,0.0004340593295637,False
+"they'll um, leave things open ended for future tv movies, or maybe another uh, feature length movie",0.045778666,0.9783457162871788,0.5,0.07,0.0005968132172711,0.0004691864305641,0.0005683369818143,False
+"uh, yeah, and they're also talking about, cause, uh, uh, the actors",0.052935857,0.0014862644227376,0.5,0.0,0.0006385901360772,0.0007387987570837,0.0009356586378999,False
+the the reason they're ending it is because the actors don't wanna do it,0.06532243,0.998737473987094,0.5,0.0,0.0017051144968718,0.0020135007798671,0.0007919895579107,False
+there was talk,0.024147147,0.937613970384867,0.5,0.0,0.0006342460401356,0.0005514545482583,0.0004166164144407,False
+i don't know if there still pursuing this that they'd have new characters take over the roles and i mean the character development is the most important part,0.027580723,0.0944269971998573,0.4095170454545455,0.0,0.0005611960077658,0.0003684696566779,0.0002955519303213,False
+i think,0.021518974,0.0871935436492268,0.5,0.0,0.0007737225387245,0.0004390265094116,0.000335821066983,False
+"um, so, i think that'll be a failure",0.13745339,0.9995098438939533,0.6583333333333333,0.32,0.042741272598505,0.0110262250527739,0.0015604946529492,False
+but that also sorta tells me that they're gonna leave things kinda open,0.044405237,0.9940651948750522,0.5,0.098,0.0006777097587473,0.0004315348342061,0.0005253867129795,False
+right it? they? they could've taken,0.024490505,0.998650953059461,0.3571428571428571,0.0,0.0022109560668468,0.0039270534180104,0.0015199973713606,False
+"i mean well, they killed all these people off, but they could've you'll put them into the background",0.38965073,0.8598370509614522,0.628125,0.135,0.0221100188791751,0.6576204299926758,0.4969439208507538,False
+you have them do a couple of shows a season and then had yknow,0.028954152,0.011918935821798,0.5,0.0,0.0015864636516198,0.0004488952690735,0.0005722037167288,False
+"i don't know the adventures of uh, oh, spender, agent spender, and what the hell? what's what's her name? but then they, they killed off all those like supporting former x-files associated people, so they, they couldn't go in that direction",0.37647265,0.9670880411685828,0.4916666666666667,0.202,0.0376443192362785,0.3682410717010498,0.365779846906662,True
+"they'd have to just bring in new people, which, uh, i think it probably wouldn't be a good idea",0.09065199,0.9998736609671935,0.2909090909090909,0.118,0.0007372110849246,0.0006893723621033,0.0004894048906862,False
+"yeah, and i, i used to kinda worry about the effect that tv had on me, um, i, when i was little i used to watch a lot of tv",0.040971663,0.0342248237512374,0.59375,0.079,0.0007973652682267,0.0006271133315749,0.0006138032185845,False
+"i'd come home from school and plop myself in front of the tv and watch i like yknow four cartoons, back to back or so everyday after school or i, that kind of thing, and then saturday mornings",0.052136723,0.0002545855197526,0.45,0.0,0.0130035020411014,0.0042302096262574,0.0189400054514408,False
+"it would be uh, a block of yknow from six in the morning until afternoon or something",0.038911518,0.9977201750470664,0.5,0.153,0.0026424180250614,0.001703101908788,0.0005767189431935,False
+these days i don't watch nearly that much tv,0.034962907,0.9809015260109984,0.425,0.0,0.0017206805059686,0.0005418393411673,0.0005140067078173,False
+"um, i don't buy these arguments that people make that say that like children are like, like violence in tv is affecting children",0.12116077,0.9984191973814468,0.5,0.129,0.0156010733917355,0.0116696180775761,0.0032200880814343,False
+"i mean, i, i've seen some evidence evidence of of exercises where in schools the kids will watch uh, like a a violent cartoon like i don't know, like roadrunner or something, and then be a little rougher, but i don't",0.09978092,0.9996207742737844,0.7166666666666667,0.09,0.0008981866412796,0.0005718994652852,0.0074873496778309,False
+i don't,0.018325835,0.9947235049851314,0.5,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
+that it,0.032731086,0.162022135051568,0.5,0.0,0.0015731345629319,0.0004253743682056,0.0009006637847051,False
+"it goes into like values i don't associate like rising crime or something with uh, like crime on tv or something",0.05852979,0.0120460497578486,0.5,0.286,0.0006740870303474,0.0006328581366688,0.0008472508052363,False
+"i, i mean it",0.0224908,0.0021298513711734,0.65625,0.0,0.0009987353114411,0.0004374578420538,0.0006651382427662,False
+"if there is a correlation, i mean i, i'm more of the yknow",0.027580723,0.9560363412931394,0.453125,0.0,0.0022035639267414,0.0008158311829902,0.0011331662535667,False
+"like parents have a greater influence on the children, then tv ever could",0.05133759,0.0147345169563135,0.25,0.0,0.0040850867517292,0.0005063752178102,0.0004002827918156,False
+"i mean, i watched a lot tv, but i feel that my parents taught me was right and wrong, and i watched a lot of rather violent tv",0.07131593,0.9986650205337438,0.6658482142857143,0.268,0.0029919296503067,0.0008963050204329,0.008935117162764,False
+violent movies,0.19716066,0.9908929794242922,0.9,0.796,0.1919277757406234,0.0121284052729606,0.200518861413002,False
+"all that kinda thing, and uh, um, yeah, i have become visually desensitized to like the violence that i see in movies and on tv",0.09924392,0.9995789891065294,0.5,0.133,0.0008132054354064,0.0022040682379156,0.0071185301057994,False
+but i still see a distinct difference between that and real violence,0.067320265,0.0598243783130094,0.375,0.339,0.0007266436587087,0.0007876986055634,0.0008324863156303,False
+"um, i mean in studying history, i'm exposed to a number of like, rather gruesome events in history that still i still find disturbing",0.13610743,0.976676276659056,0.8020833333333333,0.162,0.0007082822849042,0.0005865473067387,0.0004394818679429,False
+"um, also hang out in low life bars, and every once in a while there'll be a fight and it it? still it",0.1539292,0.965726893815843,0.5,0.183,0.0149751733988523,0.00822040066123,0.0062299449928104,False
+i mean it it,0.024490505,0.0024199334203132,0.65625,0.0,0.0010994137264788,0.0004684718151111,0.0007844924693927,False
+it still is disturbing to me,0.1464265,0.9995394094331236,0.75,0.398,0.0008181035518646,0.0017448689322918,0.002241225214675,False
+"i, i'm i have a distinct difference in my head between reality and fiction and maybe kids like aren't making that distinction, but i don't think so, and i think if if someone isn't making that distinction, it's i don't know that that they're not well, i don't",0.06332459,0.9939237452289804,0.35,0.044,0.0007897508330643,0.0021482366137206,0.0004338545550126,False
+i don't know,0.017770508,0.9871418814460028,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+i don't have any evidence to uh to support it,0.02655065,0.9999275167426788,0.5,0.0,0.0008319949847646,0.0005416291533038,0.0009460034198127,False
+i just know that i have it,0.02792408,0.000717023932827,0.5,0.0,0.0006537127774208,0.0003783047141041,0.0005251594702713,False
+"i feel that i have a distinct uh, cutoff, uh, uh, very clear distinction between what is uh, fact, and what is fiction",0.086087525,0.0053278770607657,0.3924999999999999,0.0,0.0006769935716874,0.0009272064780816,0.0038735007401555,False
+"what is true and what is imaginary, and uh, so for me, i don't think that television has affected me in that way",0.040971663,0.9931237172370908,0.325,0.063,0.0007710672798566,0.0003957568260375,0.0006260449881665,False
+"um, i mean one way that television television has affected me is i am full of media references",0.031185975,0.9988095399888224,0.490625,0.086,0.0007023644866421,0.0004686279571615,0.0009275846532545,False
+when i speak yknow,0.026894007,0.15695408900944,0.5,0.0,0.0013489524135366,0.0005398471839725,0.0006139135221019,False
+"when i'm hanging out with friends, someone mentions a a subject",0.03204437,0.232871568490002,0.5833333333333334,0.0,0.0007541652303189,0.0008509239996783,0.0011257763253524,False
+i'm like,0.020963646,0.0297231127648738,0.5,0.0,0.0016913731815293,0.0005993730155751,0.0005510135088115,False
+"hey, simpsons made fun of that yknow at some point, ah, uh, that's the effect that it sees on me",0.08501353,0.8121064087597923,0.35,0.0,0.0040865559130907,0.0006527929217554,0.0014982289867475,False
+"i don't think that's too big an effect people always used to yknow, like quote shakespeare or something",0.04818217,0.9929621797146068,0.5,0.0,0.0011881109094247,0.0007850200636312,0.0006504001794382,False
+i guess that's ten times more elevated,0.04818217,0.850567688156045,0.375,0.0,0.0007384345517493,0.0005360445939004,0.0016975331818684,False
+"so like, oh, references that shakespeare line or something, but i mean it, it's a part of our culture and i'm a part of it, but i don't see it as negatively effecting me",0.03856816,0.1468418699059052,0.653125,0.0,0.0007226504385471,0.0005332169239409,0.0003050690283998,False
+i still get all the stuff done,0.044748597,0.8590760363675206,0.5,0.0,0.0015995884314179,0.0005030422471463,0.0005908399471081,False
+i need to get done,0.032731086,0.9900746219902758,0.5,0.0,0.0073604588396847,0.014254592359066,0.0018546900246292,False
+"um, well, i found that that, i mean every everyone has stereotypes",0.03770977,0.9998602491802716,0.65625,0.0,0.0008264638599939,0.0005735392333008,0.0036651727277785,False
+people from outside the united states have stereotypes about the united states,0.073313765,0.9951616829658624,0.5,0.0,0.0006739165401086,0.0013691610656678,0.0017081486294046,False
+"and when they actually get to know someone, those stereotypes dissipate",0.06771983,0.9998539307384328,0.5,0.0,0.0008557327091693,0.0004097069031558,0.0017998985713347,False
+um,0.012811388,0.2300472845959726,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i mean, i actually had a conversation very similar to this the other night with a german couple of germans that i met at a coffee house",0.062925026,0.9809986571522854,0.54375,0.0,0.0012902508024126,0.0015589301474392,0.0008102332940325,False
+um,0.012811388,0.2300472845959726,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i mean the the stereotype that most americans have of germans are those of bavarians, uh, and not real bavarians, but stereotypical bavarians, uh, beer, drinking, bratwurst eating sauerkraut eating lederhosen, wearing uh, yknow, blond haired, blue eyed overweight people",0.2995453,0.9956324366868284,0.54125,0.114,0.3436459600925445,0.0362404957413673,0.0866442918777465,False
+"yeah, yeah, well, i asked these germans what the stereotypes what stereotypes they like are prevalent in germany, uh of americans, and they said yknow americans are cowboys and eat at mcdonald's three meals a day",0.20522906,0.9957783271245702,0.5,0.0,0.0661484152078628,0.0502197183668613,0.0095253996551036,False
+my name is name,0.016521018,0.025487461827074,0.5,0.0,0.0009273588657379,0.0006205536192283,0.0002068003232125,False
+"okay, what? department? oh? just was going down like",0.032387726,0.9998979213995371,0.4138888888888888,0.0,0.0025587403215467,0.0012580604525282,0.0022301811259239,False
+"oh, i tightened this good",0.15684792,0.931808574101732,0.15,0.0,0.0006416365504264,0.1004639863967895,0.0084091871976852,False
+it's like it's falling,0.07690986,0.9136691918975164,0.5,0.262,0.0048098117113113,0.0012849370250478,0.0023655274417251,False
+i,0.018187003,0.1365959203847716,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+oh it there it can go cool,0.040971663,0.000363548837502,0.325,0.0,0.0006611745338886,0.0004574015620164,0.000715885660611,False
+perfect,0.013536129,0.0008841347978766,0.0,0.0,0.0013141938252374,0.0005804591928608,0.0004600746906362,False
+"okay, okay, uh, my name is name am an undergrad double major in german and history, currently working on a senior honors thesis in history",0.08635602,0.7680246369161045,0.4114583333333333,0.0,0.0008447952568531,0.0003976834996137,0.000333064381266,False
+"i will be graduating next quarter after a grand total of six years as an undergrad, an impressive, uh, somewhat disturbing six years as an undergrad",0.13521013,0.8559054005272203,0.4,0.093,0.0010166440624743,0.0003549139364622,0.0009972454281523,False
+"ah, i live in german village",0.05773066,0.2377174855367289,0.4659090909090909,0.0,0.0016887086676433,0.0006124326027929,0.0003577320312615,False
+"uh, i like it here, grew up here, like it here",0.05253629,0.0438458138057715,0.5,0.0,0.0008213721448555,0.0004284940659999,0.0005566252511925,False
+"uh, i think of it as a big city having been to other big cities",0.016521018,0.1738639978045202,0.5208333333333334,0.0,0.0006030727527104,0.0004174906644038,0.0003524176136124,False
+"it feels more like that, then small towns, which i've also been to, of course, but my thesis is on the sudeten germans",0.043718524,0.9078781015204316,0.4375,0.0,0.0008127897744998,0.0006123068160377,0.0007267461041919,False
+"those are the germans who lived in czechoslovakia, uh, before the second world war, and uh, specifically, i'm looking at how they perceived their condition switching from being part of the austro-hungarian empire",0.067320265,0.8725669826364449,0.5,0.109,0.0009363077697344,0.0004554936895146,0.0003303299890831,False
+"uh, and the germans being sort of the uh, the majority uh, even though they weren't the majority, but sort of the the uh, the the master nation within the austro-hungarian empire, to becoming uh, cutoff a minority within czechoslovakia",0.14552918,0.9950510506257404,0.275,0.0,0.0040893689729273,0.0006227467092685,0.0006364252767525,False
+"ah, i've always had an interest in german history, and also in eastern european history, and i mean it seemed to be a natural way that i could tie those two together for a thesis",0.09602194,0.0037469552263289,0.5265625,0.0,0.0005378394853323,0.0003745564899872,0.0003026659542229,False
+german,0.03204437,0.9011590943121623,0.5,0.0,0.0018644859082996,0.001051848870702,0.0009326684521511,False
+"yeah, all right",0.022351967,0.0009182007366587,0.3571428571428571,0.0,0.0007912317523732,0.0003715192724484,0.0006806564633734,False
+"well as most people don't like to hear, uh, relatives and stuff, i'm taking a year off and then ah, grad school, uh, i plan at this point to pursue history to the p",0.048525527,0.0210929855281454,0.25,0.065,0.000657296157442,0.0006758998497389,0.0006753708585165,False
+"h, d level",0.112144895,0.1097591731853911,0.5,0.0,0.0009310755995102,0.000958941236604,0.000547382980585,False
+"ah, anything of course can happen, but that's my plan",0.03770977,0.0409200175867271,0.5,0.0,0.0007717052940279,0.0004280043940525,0.0005315223243087,False
+"uh, relax, uh, get a a dead end job that doesn't come home with me",0.34792873,0.9298196657091248,0.6,0.213,0.040812075138092,0.006430588196963,0.1374703496694564,False
+"uh, try and pay off my debt and maybe make a little bit so i, i, i, uh, grad school",0.1250247,0.0079556931783717,0.59375,0.178,0.0119570307433605,0.0013861582847312,0.0008139597484841,False
+"yeah, but also enjoy all the things i didn't get to do",0.036508016,0.0060108648587816,0.3,0.0,0.0007194626959972,0.0005126452306285,0.0005136523395776,False
+"uh, while working on this thesis, this is been project that has been ongoing for about a year and i've voluntarily given up a lot of things i like to do and i'm looking forward to catching up",0.020130653,0.9999427167678572,0.2,0.0,0.0005359457572922,0.0003590053529478,0.0002938304969575,False
+"uh, music, uh, painting, uh, that sort of thing",0.08850401,0.9092903626833302,0.5,0.0,0.0008268005913123,0.0005705041112378,0.0022422322072088,False
+"yeah, just having fun",0.034791227,0.0021777761564417,0.35,0.0,0.0008662578766234,0.0005958285764791,0.0005818032077513,False
+"yes, i have several times",0.020408317,0.002224270351105,0.5,0.0,0.0006252885796129,0.0003542061313055,0.0004460712370928,False
+um,0.012811388,0.2300472845959726,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"well, one of the things i'm doing is i'm applying for a number of research grants to go to germany",0.05493369,0.997959351913844,0.5,0.0,0.0006346251466311,0.0003802349092438,0.0003303384874016,False
+"continue my research, so hopefully i'll get one of those",0.025005542,0.0002066905384552,0.5,0.0,0.0007669320330023,0.0004419662582222,0.0005616112030111,False
+um,0.012811388,0.2300472845959726,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i think i'm in pretty good shape to get one of those,0.024490505,0.0001257131494166,0.2625,0.0,0.0008149454370141,0.000359755125828,0.0011827236739918,False
+"so uh, that's that might cause me to put off grad school for a year, but i don't think the grad schools will mind if i if they have someone someone who gets a grant who's already planning to go to their school",0.04818217,0.9856835135400632,0.5,0.0,0.0011391444131731,0.000574802106712,0.0005275945877656,False
+"so yeah, so yeah, not too much",0.030155903,0.0187788264006912,0.4,0.0,0.0012042853049933,0.0004335851990617,0.0004768466751556,False
+"uh, i was planning on",0.032902762,0.1174399545358305,0.5,0.0,0.0006913955439813,0.0006157453171908,0.0004068031848873,False
+"i hadn't always planned on taking a year off, but getting into the research",0.022351967,0.0134479987468026,0.5,0.0,0.0006194046000018,0.000451642437838,0.0003168139373883,False
+"uh has, like one of the things i sacrificed was looking into grad schools and applying to grad school this past year, so yeah, so uh, i mean, i i'd like to go here",0.049898956,0.0090777232722757,0.640625,0.0,0.0006980317411944,0.0005861055688001,0.0004749937215819,False
+"it's one of my choices cause i like the faculty and i like the program, but uh, uh, i plan to spend the next couple months",0.030842619,0.9828966336295608,0.5,0.0,0.0006985981017351,0.0004084507818333,0.0003667307901196,False
+"well, the first few months after i graduate, looking at other schools",0.019436494,0.9990562870642182,0.5125,0.0,0.0005973231163807,0.0003906256752088,0.0003662205126602,False
+"oh yeah, yeah, take care of that soon",0.05093802,0.000744473390061,0.5,0.0,0.0008893234189599,0.0010138037614524,0.0009457163396291,False
+"okay, cool",0.024662184,0.1283340212089825,0.2875,0.0,0.0007082353695295,0.0004407875239849,0.0005085926386527,False
+"ah, right, um, i would like to teach",0.039598234,0.0253570098462782,0.3571428571428571,0.0,0.0010378174483776,0.0042105908505618,0.0005106544704176,False
+um,0.012811388,0.2300472845959726,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"mm, the the field is particularly saturated right now, so i'm not holding out hopes for a teaching job",0.024662184,0.9954193979025634,0.3869047619047619,0.115,0.0006036722916178,0.0004190456529613,0.0004167961596976,False
+"i mean, i'd like to think that i could distinguish myself within the field and get a job, but i mean right now those jobs simply are not available",0.022213135,0.9997393642741468,0.5539285714285714,0.0,0.0006390269845724,0.0006140238256193,0.0002881016989704,False
+"so uh, i'm approaching things like whatever happens happens, i'm gonna pursue my interests and then go on from there, rather than necessarily thinking about career plans after i finish my schooling",0.034791227,0.9974319408441248,0.5,0.0,0.0006188826519064,0.0004066306573804,0.00035528888111,False
+"oh yeah, um-hum um, i got into painting somewhat recently",0.040971663,0.1457128954867727,0.5,0.0,0.0008017599466256,0.0006968284142203,0.0019698902033269,False
+"uh, i've always done a lot of art",0.04543531,0.000517933406961,0.5,0.0,0.0007323330501094,0.0005622874596156,0.0007351975073106,False
+"uh, my mom is an elementary school art teacher, so i was always exposed to art as child",0.05253629,0.001414883912341,0.35,0.071,0.0018247152911499,0.0015626864042133,0.0006773723871447,False
+"uh did pretty good, too",0.037881445,0.0729665585140169,0.2625,0.0,0.000638740195427,0.0003517853619996,0.0005390607402659,False
+i never got into painting,0.05253629,0.9999112735785176,0.5,0.0,0.0018213010625913,0.0006195525638759,0.000611943367403,False
+"it was mainly drawing that kind of thing, and just uh, yeah, three or four years ago i thought i'm gonna learn how to paint and i learned how to paint and i like painting",0.03599298,0.994435151566306,0.3083333333333333,0.0,0.0008096629753708,0.0004954710020683,0.0003810297639574,False
+"so um, most of my paintings, uh, uh, this",0.06931809,0.9803400788064678,0.25,0.0,0.0009192650322802,0.0004877962346654,0.0013024569489061,False
+this is gonna sound funny,0.059328925,0.0019561836325175,0.3375,0.0,0.0007127064163796,0.0003773050557356,0.0006693855393677,False
+most of my paintings are of uh images from star wars,0.04234509,0.0082793046948168,0.25,0.265,0.0010519935749471,0.0005144588649272,0.0005632966640405,False
+"now this, most of my paintings were completed uh before, uh, like nineteen, ninety five, nineteen, ninety six",0.043031808,0.0024033922164426,0.25,0.0,0.0006417857366614,0.0005930854822508,0.0006499644950963,False
+before it came back out,0.025692256,0.853034860870295,0.5,0.0,0.0012043925235047,0.0010431300615891,0.0003885275218635,False
+it was more of a thing like images from my childhood coming back out,0.08555053,0.9705651810460098,0.375,0.0,0.000916915887501,0.0003984033246524,0.0011553739896044,False
+and now it's suddenly,0.03204437,0.8843170491589081,0.5,0.0,0.0012647272087633,0.0003693140170071,0.0013703091535717,False
+"uh, you hear about it more often, so that's why i'm a little funny, but used to be impressed",0.0801064,0.0219789383682492,0.3046875,0.0,0.0005852197064086,0.0004108072316739,0.0005221763276495,False
+"like i paint star wars, i paint sesame street or something",0.049212243,0.0,0.5,0.238,0.001019841292873,0.0005872694891877,0.001060803537257,False
+"i don't paint sesame sesame street, just something from childhood that i paint and now it's somewhat mainstream so it sounds a little funny",0.09763293,0.0056694603716865,0.484375,0.0,0.0006417716504074,0.0003989766410086,0.001066718250513,False
+"i also, i've painted a couple couple of portraits pretty happy with of some friends",0.05613239,0.0001046119379924,0.2375,0.0,0.0005404858384281,0.0003689468139782,0.0004191017942503,False
+i have done a self portrait,0.10634898,0.0085496863191666,0.5,0.0,0.0006855177925899,0.0051806611008942,0.0002777617773972,False
+um,0.012811388,0.2300472845959726,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+that kind of thing,0.036336336,0.8641740055964704,0.2,0.0,0.0009608786785975,0.0003630092542152,0.0018764266278594,False
+"okay, um-hum um, yes, kind of uh",0.013813793,0.925262191493136,0.2249999999999999,0.0,0.0009041706216521,0.0007227206951938,0.0021138892043381,False
+"i mean, it was something i was really into",0.023117077,0.0302841725177822,0.528125,0.0,0.0007218358223326,0.0005079211550764,0.0027578910812735,False
+"uh, until i don't know, maybe about fourth or fifth grade, at which point things sort of switched to yknow",0.03049926,0.9999628046442692,0.5,0.0,0.0008255426655523,0.0006589100230485,0.0005772440927103,False
+"like i don't know, like killer robots or something like transformers",0.16551583,0.0174831285681314,0.5,0.12,0.0010014805011451,0.006611630320549,0.0323673300445079,False
+"that kind of thing, uh, in high school, i, uh, i don't know",0.053335425,0.9994189119786212,0.31,0.0,0.0006805780576542,0.0011704463977366,0.0005913511849939,False
+i think i cleaned my room or something or cleaned my closet and found my old toys,0.06771983,0.0276072990640122,0.45,0.0,0.0083796568214893,0.0036136142443865,0.0004861916822846,False
+i'm like star wars is fun,0.025863936,0.0727479165832155,0.35,0.29,0.0009155863663181,0.0005631469539366,0.0003506985958665,False
+i'm gonna watch star wars more often,0.043375164,0.0007391980872049,0.25,0.375,0.001014661276713,0.0007720153662376,0.0003108190721832,False
+"i had them on tape, so i started watching them and got",0.13017663,0.0020017837080526,0.5,0.0,0.0009951868560165,0.0004409739340189,0.0006647598929703,False
+i don't wanna say into it because i know people who are really into it,0.05133759,0.1996962915753473,0.4,0.0,0.000662698643282,0.0005243728519417,0.0007208692259155,False
+"i'm pretty into it, but it's not the same kind of thing",0.03358948,0.9981149882500824,0.3583333333333333,0.0,0.0006685382686555,0.000344547239365,0.0006236581248231,False
+i don't think,0.019297661,0.9989627025954728,0.5,0.0,0.0008289325633086,0.0103666642680764,0.0003479828301351,False
+"but back when i started doing the the painting, uh, i, i graduated from high school in ninety four just to put things in a little perspective",0.05093802,0.0240849167587013,0.5045833333333334,0.0,0.0005602764431387,0.0004695313982665,0.0004725525504909,False
+"uh, so something like my first couple years of college, uh, from sort of the second half of high school to my first couple years of college, i was just sort of just, i don't know",0.039254878,0.9997541768477032,0.4506666666666666,0.0,0.0007570912712253,0.0004777124268002,0.0003727822913788,False
+"i liked the story, um",0.030327583,0.0750732223958005,0.2,0.0,0.0005993784288875,0.0003759794344659,0.0003804749576374,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i love justin bieber so much !,0.09978092,0.0,0.0,0.0,0.0014581457944586,0.0004451704444363,0.0004509300924837,False

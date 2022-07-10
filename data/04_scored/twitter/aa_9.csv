@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+when a female owe you sex you don’t even wanna have a conversation with her,0.456592,0.0,0.0,0.0,0.9433706998825072,0.6274523138999939,0.2672886252403259,False

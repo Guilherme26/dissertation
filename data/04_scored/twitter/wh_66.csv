@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+is it weird that i love the smell of gasoline,0.2889918,0.0,0.0,0.122,0.0099488766863942,0.0042744581587612,0.0195442736148834,False

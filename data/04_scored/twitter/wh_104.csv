@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user please go to prom with me ? :3,0.04818217,0.0,0.0,0.0,0.0602379441261291,0.2186562716960907,0.0016172211617231,False

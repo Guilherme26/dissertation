@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+lebron bitch !! get the fuck out the way lil ass nigga !,0.9850823,0.0,0.0,0.554,0.9987646341323853,0.9974697828292848,0.9984643459320068,True

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user @user key word is eat .... not tryin to have crap floating in my drink,0.5958905,0.0,0.0,0.148,0.8510478734970093,0.8083741664886475,0.8275107741355896,False

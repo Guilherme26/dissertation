@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"now we gone get fucked up , no excuses , no apologize ..",0.6769488,0.0,0.0,0.441,0.9831855297088624,0.9786880016326904,0.9736778736114502,True

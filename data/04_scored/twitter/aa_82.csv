@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+""" @user : @user @user well i guess he can sleep now "" ima sleep regardless nigga i'm "" mario "" !!! know that lol",0.5535644,0.0,0.0,0.0,0.7840079665184021,0.6643000841140747,0.5076715350151062,True

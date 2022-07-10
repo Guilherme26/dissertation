@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+finally home . my crib is nice and warm ! ,0.035477944,0.0,0.0,0.0,0.0034527031239122,0.0003937900764867,0.0018189593683928,False

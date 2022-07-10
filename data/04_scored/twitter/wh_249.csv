@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+watching the red wings game with @user ! should be interesting ...,0.03187269,0.0,0.0,0.0,0.0006589435506612,0.0005032552289776,0.0003181305364705,False

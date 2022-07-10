@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+#elementaryschoolconfession i always cheated in heads up 7 up always,0.28874767,0.0,0.0,0.268,0.0018085212213918,0.0124949282035231,0.0100103467702865,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+“ @user : two faced af #leavemealone ” ill leave who ever i want alone ! haha,0.27045983,0.0,0.0,0.279,0.2860345840454101,0.0270579028874635,0.0031575597822666,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+buuuuut more than likely i'll be sent home for not doing anything .,0.05133759,0.0,0.0,0.0,0.0343298837542533,0.0028307966422289,0.0068946443498134,False

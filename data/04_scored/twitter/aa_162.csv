@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user u went out last night,0.037881445,0.0,0.0,0.0,0.0100889485329389,0.0027381486725062,0.0011415857588872,False

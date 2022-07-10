@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i feel and look like death ..,0.23803931,0.0,0.0,0.342,0.1592320054769516,0.1284519433975219,0.0021760603412985,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+. bitchh dont kill my vibee ! !,0.7545523,0.0,0.0,0.0,0.997159481048584,0.9779245853424072,0.9677610397338868,False

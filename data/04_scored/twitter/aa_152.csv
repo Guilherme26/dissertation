@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user seem like it man,0.034104515,0.0,0.0,0.0,0.0013402092736214,0.0029965359717607,0.0040531191043555,False

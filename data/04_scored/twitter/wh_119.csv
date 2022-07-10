@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+only good thing to come of that accident was the gorgeous firefighter that came to the rescue @user,0.37083253,0.0,0.0,0.114,0.0012361034750938,0.0004533935571089,0.0008456316427327,False

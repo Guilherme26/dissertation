@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user so but i got dreads tho ;),0.14104263,0.0,0.0,0.271,0.0015668350970372,0.0038485389668494,0.0007972376770339,False

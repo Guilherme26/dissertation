@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user ya i said i could go till christmas and he said end of july,0.022213135,0.0,0.0,0.0,0.0009917018469423,0.0010861668270081,0.0005433381302282,False

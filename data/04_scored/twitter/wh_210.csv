@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i hope you feel better @user #loveyou,0.038224805,0.0,0.0,0.0,0.0008473441121168,0.0077008521184325,0.0005717879976145,False

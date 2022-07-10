@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user damn right don't make me see bout ya,0.37647265,0.0,0.0,0.252,0.5002330541610718,0.921082317829132,0.7925684452056885,True

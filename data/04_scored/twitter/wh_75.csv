@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user 85 and sunny in the brainerd lakes area ! livin the dream ! can't wait go too burnsville morrw poop,0.31629145,0.0,0.0,0.0,0.5398671627044678,0.2751221358776092,0.5749944448471069,False

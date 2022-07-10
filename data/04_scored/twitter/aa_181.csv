@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user lol eating good ain't it,0.13521013,0.0,0.0,0.0,0.0233611296862363,0.0030567382927984,0.000922814302612,False

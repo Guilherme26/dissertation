@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+again doss really though ?,0.021796638,0.0,0.0,0.0,0.0008097794489003,0.0006322106928564,0.0005711779813282,False

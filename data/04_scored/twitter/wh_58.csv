@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+and the boys are state bound ! t-minus 24 hours until we are !,0.033932835,0.0,0.0,0.0,0.0540867187082767,0.0026405663229525,0.0041569760069251,False

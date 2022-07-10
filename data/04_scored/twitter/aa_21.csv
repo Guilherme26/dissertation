@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+would you die fo yo nigga ? that's all i wanna knoooooow .,0.7816909,0.0,0.0,0.245,0.9927719235420228,0.9906830787658693,0.9946289658546448,True

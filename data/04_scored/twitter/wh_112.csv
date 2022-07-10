@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user i just moved to commerce township michigan from hilliard ohio about two and a half months ago . you ?,0.021657806,0.0,0.0,0.0,0.0007041918579488,0.0007139299996197,0.0004905070527456,False

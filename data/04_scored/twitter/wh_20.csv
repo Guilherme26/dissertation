@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+to whoever was bumpin to pearl jam in their shitty little car ... i love you .,0.6769488,0.0,0.0,0.158,0.6199057102203369,0.9556002616882324,0.9351667761802672,True

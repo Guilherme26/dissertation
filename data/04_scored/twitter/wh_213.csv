@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+you're telling me there is a kid in the little league world series that's 6'2 200 pound an he's 12 ....,0.020130653,0.0,0.0,0.0,0.0186148099601268,0.0023769519757479,0.0006639228668063,False

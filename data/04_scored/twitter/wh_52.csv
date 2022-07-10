@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i hate losing socks at the bottom of my bed . ,0.21980777,0.0,0.0,0.412,0.1275859624147415,0.0209696572273969,0.0079652117565274,False

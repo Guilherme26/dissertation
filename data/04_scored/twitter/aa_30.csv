@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user bet hit that nigga rick up & tell him wat the lick read ...,0.5958905,0.0,0.0,0.0,0.971321702003479,0.9745610356330872,0.9791420102119446,True

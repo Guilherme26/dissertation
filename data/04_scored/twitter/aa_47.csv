@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+to be a business man you gotta think like one,0.054534122,0.0,0.0,0.0,0.0017275803256779,0.0025395439006388,0.0091915354132652,False

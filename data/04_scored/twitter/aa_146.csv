@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+lets see who wins ,0.043031808,0.0,0.0,0.0,0.0013549596769735,0.0005511093768291,0.0010039949556812,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user joke of a franchise bobby clark doesn't play for you goons anymore .... skill wins these days not goin tactics,0.37647265,0.0,0.0,0.079,0.0455892607569694,0.2118111997842788,0.2065755277872085,False

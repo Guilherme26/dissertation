@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i need to get on a laptop so i can change my tumblr bio,0.05653196,0.0,0.0,0.0,0.0096198730170726,0.0015874184900894,0.0009342332486994,False

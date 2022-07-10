@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+sausage egg and cheese in a croissant and a medium coffee with caramel and cream ! anyone ? please ? :) #dd,0.025863936,0.0,0.0,0.0,0.0012585866497829,0.0011534777004271,0.0006848511402495,False

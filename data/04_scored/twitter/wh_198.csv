@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+""" @user : i may wear jeans tomorrow for anyone who cares . """,0.29163063,0.0,0.0,0.0,0.0025144075043499,0.0046174619346857,0.0004083832609467,False

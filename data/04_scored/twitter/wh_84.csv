@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+chasing people around the lounge because they stole your cookies #fatgirlproblems,0.5038962,0.0,0.0,0.0,0.1838731467723846,0.011361944489181,0.0202248152345418,False

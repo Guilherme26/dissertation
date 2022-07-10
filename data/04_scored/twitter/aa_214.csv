@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user quiet today !! long night !?,0.036851373,0.0,0.0,0.0,0.0029190857894718,0.0013247579336166,0.0005783199449069,False

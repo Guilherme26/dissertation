@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user i'm wishin like he'll then,0.02262963,0.0,0.0,0.0,0.0078807547688484,0.002620177110657,0.0007295293617062,False

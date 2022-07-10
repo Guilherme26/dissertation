@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user no ! no ! you can call me luvada or mary !!! lol !!,0.1334155,0.0,0.0,0.106,0.0326725170016288,0.0158278662711381,0.0020972206257283,False

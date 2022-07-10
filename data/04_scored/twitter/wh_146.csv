@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+won the 2k tourney  #4and1,0.023117077,0.0,0.0,0.0,0.0010306980693712,0.0005638064467348,0.0003004610771313,False

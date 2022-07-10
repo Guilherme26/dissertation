@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+mtv loves to play 8 mile huh,0.07211506,0.0,0.0,0.0,0.1011943519115448,0.0005708179087378,0.0005932211643084,False

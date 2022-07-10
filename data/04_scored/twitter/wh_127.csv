@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user trust me it gets better . i've been through hell and back . didn't think it could get better but it does .,0.17661177,0.0,0.0,0.097,0.0097958296537399,0.0282139144837856,0.0047308402135968,True

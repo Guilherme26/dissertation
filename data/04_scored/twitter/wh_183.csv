@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user and why didn't you tell me this !?,0.027065687,0.0,0.0,0.0,0.0026299336459487,0.0014123207656666,0.000632403534837,False

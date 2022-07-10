@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user @user @user @user @user @user damn right !,0.18549223,0.0,0.0,0.272,0.6352735757827759,0.9063717126846312,0.5407411456108093,True

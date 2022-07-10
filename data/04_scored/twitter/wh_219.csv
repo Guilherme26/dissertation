@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"i'm going to listen to me first & the gimme gimmes . all . day . #nowplaying "" mandy """,0.023288755,0.0,0.0,0.0,0.0008070785552263,0.0008665364584885,0.0002486972662154,False

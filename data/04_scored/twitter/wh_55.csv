@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i think it's so funny how people laugh at me when i tell them i'm a trained fighter ,0.15684792,0.0,0.0,0.0,0.0008169097127392,0.0014381894143298,0.001119791646488,False

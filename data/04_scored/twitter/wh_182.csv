@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+#storybehindmyscar my bro hit me in the head with a golf club ... it was an accident ...,0.2712817,0.0,0.0,0.154,0.1284868419170379,0.3171853423118591,0.0159710776060819,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+lmfao . its at spencer's . it was too much goin on in dat mofo . i aint buy it,0.2712817,0.0,0.0,0.137,0.1125741750001907,0.0102123552933335,0.0075201662257313,False

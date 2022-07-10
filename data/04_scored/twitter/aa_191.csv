@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+breezy speaking sum real stuff,0.2088965,0.0,0.0,0.0,0.000788269622717,0.0005936951492913,0.0034188530407845,False

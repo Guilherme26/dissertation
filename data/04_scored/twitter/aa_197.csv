@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+lol nene bhe keeping it real #rhoa,0.059728492,0.0,0.0,0.0,0.0128342863172292,0.0005061650299467,0.0004888143739663,False

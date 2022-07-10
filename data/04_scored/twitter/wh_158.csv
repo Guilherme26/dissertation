@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+and i don't even use it ...,0.027752401,0.0,0.0,0.0,0.0009578559547662,0.0008059727260842,0.0005706949741579,False

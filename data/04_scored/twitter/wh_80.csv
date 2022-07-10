@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"how come i can never get in a "" gunning "" fight with anyone ? #jealous",0.22982925,0.0,0.0,0.286,0.1005904451012611,0.0621261745691299,0.1239570379257202,False

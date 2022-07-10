@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user lmao your a clown !,0.53837943,0.0,0.0,0.0,0.5444895029067993,0.9851913452148438,0.9599198698997498,False

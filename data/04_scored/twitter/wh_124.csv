@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"i really wish that awake and sleeper were combined like at ciy , though ... that was my favorite . #kindofdisappointed",0.07091636,0.0,0.0,0.0,0.0006867180345579,0.0004979196819476,0.0031635842751711,False

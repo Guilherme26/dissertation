@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i just ask when you see me bitch speak up  that's all ,0.8202001,0.0,0.0,0.257,0.8997761607170105,0.9826145768165588,0.9704099893569946,True

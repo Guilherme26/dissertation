@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user yea dats more like it b4 i make a trip up der,0.12631269,0.0,0.0,0.0,0.1343553215265274,0.0500966235995292,0.0061298366636037,False

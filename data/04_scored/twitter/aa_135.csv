@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+gotta get up early n da a.m,0.052136723,0.0,0.0,0.0,0.0200892873108387,0.0090479077771306,0.0008759420597925,False

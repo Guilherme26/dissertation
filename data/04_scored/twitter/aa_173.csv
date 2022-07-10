@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"fuck da bs , i'm trying to get rich",0.78524166,0.0,0.0,0.248,0.9930261373519896,0.9885241389274596,0.985690176486969,True

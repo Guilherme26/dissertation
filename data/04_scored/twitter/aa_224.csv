@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+where i'm from the dope boys are the rock stars,0.22983712,0.0,0.0,0.0,0.0561067722737789,0.0627021044492721,0.0970495045185089,False

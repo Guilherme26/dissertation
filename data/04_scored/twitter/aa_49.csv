@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i aint got a girl married 2 tha streets or that be in them she sumthin new #800,0.22990796,0.0,0.0,0.0,0.1340103447437286,0.0066651892848312,0.0060050697065889,False

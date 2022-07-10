@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i hate extraa ass hoess !,,0.0,,0.652,0.9888526201248168,0.7284075617790222,0.9700475931167604,True

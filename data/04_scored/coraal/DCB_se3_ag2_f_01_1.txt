@@ -1,0 +1,448 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"text, um, it's fun like it's really festive",0.053335425,0.0026007790326395,0.375,0.0,0.0007949545979499,0.000479940965306,0.0012239749776199,False
+um,0.012811388,0.230066376565981,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i usually dress up as a princess since it's my birthday and halloween,0.05493369,0.0036540550515762,0.625,0.0,0.0073029920458793,0.0018405100563541,0.0062618181109428,False
+"um, and i get a lot of candy and cake",0.028267438,0.0002684675130466,0.5,0.0,0.0020007875282317,0.0006811707862652,0.0013721948489546,False
+"yeah, in washington, dc",0.036336336,0.8976790673543504,0.5,0.0,0.0006229897844605,0.0005779162747785,0.000691391294822,False
+"um, so for like the first eleven years of my life, um, i lived at uh, rdaddress8, northwest washington, dc, um, which i guess is like brightwood area, or like fort stevens, and then we moved to",0.03770977,0.9898962275307474,0.375,0.0,0.0006999252364039,0.0004388149827718,0.0005119721172377,False
+"i think the technical term for my neighborhood i live in now is like east colonial village, but i've never heard anyone refer to it that way, but it's like on the other side of sixteenth street, opposite of shepherd park, and my address there is uh, rdaddress6, northwest washington, dc",0.018881164,0.0336119359321115,0.4985795454545454,0.0,0.000612836680375,0.0003597273607738,0.0003532593837007,False
+"yeah, well, um, um, my elementary school",0.022351967,0.0454123169843134,0.35,0.0,0.0007711488869972,0.0005288993706926,0.0006214493769221,False
+"i went to mission san josé high school elementary school, and then for middle school, i went to mission san josé high school, then for high school, i went to the mission san josé high school school and now i'm at college at georgetown",0.024318827,0.15642911742378,0.4216666666666666,0.0,0.0007983084069564,0.0004127552383579,0.0001863319630501,False
+"yeah, i'm a junior",0.037881445,0.0085531401161992,0.5,0.0,0.0017167363548651,0.0005360962823033,0.0007483822992071,False
+um,0.012811388,0.230066376565981,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i'm a psychology major with a cognitive science minor,0.027752401,0.0858942257072664,0.496875,0.0,0.0008034322527237,0.000560573185794,0.0006433498347178,False
+"uh, my father was born in anacostia",0.0253489,0.8427427699743645,0.5,0.0,0.0008000542293302,0.0012014814419671,0.0004788275400642,False
+she was born in dc,0.037023053,0.0383661176831873,0.5,0.0,0.0008505693404003,0.0006701716338284,0.001548319356516,False
+"uh, like in northeast, like michigan avenue area",0.027065687,0.089829146416364,0.5,0.0,0.0006666213157586,0.0003669061406981,0.0004091339069418,False
+"i don't know what she sh, sh",0.1256687,0.9927218421449172,0.5,0.0,0.047721654176712,0.5184434056282043,0.9382861852645874,False
+"she grew up on delafield place, but i don't know what that neighborhood is called",0.044748597,0.1963129944952238,0.5,0.0,0.0007855847361497,0.0004971127491444,0.0002721115306485,False
+"uh, my dad's an architect",0.020685982,0.0081448060357982,0.5,0.0,0.0012648525880649,0.0032119608949869,0.001429822994396,False
+"he actually works here at georgetown, in the basement of the building i currently live in new south",0.049898956,0.0010272279942472,0.4545454545454545,0.0,0.0010034856386482,0.0005156887345947,0.0004133972688578,False
+"yeah, yeah, we will",0.0253489,0.0005753513920255,0.5,0.0,0.000864123518113,0.0005302016506902,0.000418944604462,False
+yeah,0.02124131,0.0197844284550767,0.5,0.0,0.0015659044729545,0.0005244363564997,0.0006040357402525,False
+"no, yeah, like probably thirteen years",0.017770508,0.9996879899651326,0.5,0.0,0.0007254881202243,0.0004262582515366,0.0005474672652781,False
+"okay, the office of planning",0.017006932,0.9600448037945952,0.25,0.0,0.0006626794347539,0.0004401044279802,0.000429695850471,False
+"oh, my dad's mary",0.018881164,0.0798967425305948,0.5,0.0,0.0224501341581344,0.0010703044245019,0.0005353851593099,False
+"okay, it's really crazy",0.28996843,0.781287164630192,0.525,0.408,0.0114573147147893,0.0480041094124317,0.1216986328363418,False
+"yeah, my mom's also an architect",0.02124131,0.0013079744388409,0.5,0.0,0.0025471649132668,0.0044659813866019,0.0014610368525609,False
+she's she's with the smithsonian,0.037881445,0.0008189630096591,0.5,0.0,0.0098244594410061,0.0010404423810541,0.0014204510953277,False
+um,0.012811388,0.230066376565981,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"she used to work at the zoo and now she's like downtown with, like the museums on the mall",0.05413456,0.0022015051347392,0.5,0.0,0.0008597365813329,0.0008084375294856,0.0009703388204798,False
+"i don't know which specific museum cause she works with all of them, so i don't know where she is right now, but she just moved downtown",0.021102477,0.0036373950449385,0.4285714285714286,0.0,0.000625847838819,0.0004338942526374,0.0004303299938328,False
+um,0.012811388,0.230066376565981,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"well at the zoo, she designed like the exhibits, and then one of the research facilities for the animals in front, royal, virginia, which she still does work on, and then now, um, i don't really know cause the job is really new",0.036336336,0.0010262742908261,0.4159090909090909,0.0,0.0006381699931807,0.0007091048755683,0.0003626054676715,False
+"like she just moved down there, um, but i think she's just involved in like exhibit design, and like um, inter, like more of the interior stuff",0.02054715,0.001005084192938,0.4138888888888888,0.0,0.0006397606339305,0.0004086178960278,0.0004824729694519,False
+so like choosing paint colors and stuff,0.03770977,0.2126308302274392,0.5,0.0,0.0012594537110999,0.0006779041723348,0.0006115317810326,False
+"mmhm, um, yeah, so growing up i really liked um",0.09279997,0.0037359245296334,0.2,0.0,0.0009318916127085,0.0004081522929482,0.0008633511024527,False
+the first house we lived in um on fourteenth street,0.011592479,0.2162189009235663,0.375,0.0,0.0007940070936456,0.0004770746745634,0.0003042383177671,False
+"um, i liked the neighborhood because there were a few kids in my neighborhood, and like, especially my next door neighbors",0.08555053,0.0010323243469038,0.4333333333333333,0.0,0.0005943230353295,0.0006481715245172,0.00036123895552,False
+"uh, their grandkids were always over there, and um, i was really close with them",0.043031808,0.0020319545484023,0.4,0.0,0.0013222666457295,0.0004502531373873,0.0008080947445705,False
+all their names began with ds,0.049212243,0.794161594553972,0.5,0.0,0.000663865939714,0.0005185737973079,0.0004726198967546,False
+"so there was diamond dougie, which was a nickname, and then uh, demani, um, and then the grandfather's name was douglas, um",0.020685982,0.7706964371547593,0.5,0.0,0.0007945051183924,0.0005060787079855,0.0005768327391706,False
+"and then there was douglas's, the grandfather's son",0.014091457,0.0034417666306802,0.5,0.0,0.0007589911110699,0.001292489352636,0.0023325511720031,False
+his name was his nickname was toot,0.014993866,0.1329626486823633,0.5,0.0,0.0309576801955699,0.0027557096909731,0.0021602385677397,False
+"i never knew his real name, but uh, i was really close with them",0.053335425,0.0111161882572405,0.4,0.0,0.0005819235811941,0.0004458884068299,0.0015640835044905,False
+"and then on the other side of our house, our other neighbor was this old lady",0.064523295,0.0320465211760307,0.525,0.0,0.0026238257996737,0.0031429673545062,0.0022382896859198,False
+her name was miss mary,0.0186035,0.1411254558702353,0.5,0.286,0.001753685879521,0.0012724815169349,0.0005213591502979,False
+"um, she's i guess like my grandma",0.049212243,0.0871674495777001,0.5,0.0,0.009176050312817,0.0013108815765008,0.0077576767653226,False
+"in a sense, um, her and my mom are really good friends, and actually, when we moved, she started crying and it was like it was like a very dramatic sob",0.32304016,0.9972824221015044,0.5079166666666667,0.128,0.0031481306068599,0.0053808176890015,0.016584450379014,False
+"um, just because we were so close like our house had, um, cause, my parents are architects",0.02262963,0.0011436990245521,0.5,0.0,0.0007826776709407,0.0056425053626298,0.0013547118287533,False
+"they were always like updating the house, and we added a balcony to our house, and like my mom, would pass food to miss mary through her window from our balcony",0.06252546,0.0013266610652485,0.5,0.046,0.0031171031296253,0.0008864562259986,0.0006935002747923,False
+so we were very close,0.047495455,0.0018605263584551,0.4,0.0,0.0006180362543091,0.0003634242457337,0.0004366123175714,False
+"um, but yeah, i really liked the neighborhood",0.04131502,0.1000859584814752,0.2,0.0,0.0005496517987921,0.0003944947675336,0.0003889054933097,False
+"um, like a few blocks away",0.06372416,0.9752171821115756,0.6,0.226,0.0010809029918164,0.0014415953774005,0.0010751145891845,False
+"some girls that i went to elementary school with lived there, um, so they would come over to my house a lot",0.17380224,0.0814097632049775,0.35,0.0,0.0021493143867701,0.0033885943703353,0.0018806100124493,False
+"and uh, we",0.019019997,0.0331386904126102,0.5,0.0,0.0007897621835581,0.0004442803910933,0.0006855753599666,False
+l,0.03427619,0.1934203226092562,0.5,0.0,0.0008622371242381,0.0012820654083043,0.0009821286657825,False
+"we were really close to a playground, a tennis court and a safeway",0.009440582,0.0388878530610065,0.4,0.0,0.0008308438700623,0.0004742919991258,0.0008340298081748,False
+"um, and so we would walk there a lot",0.03358948,0.0244663671720023,0.5,0.0,0.0006844446179457,0.0006669533322565,0.0007357396534644,False
+"um, and then one of my really good, like my best friend from elementary school, she lived on the other side of the safeway",0.022351967,0.006515820986053,0.265625,0.0,0.0006836066022515,0.0004091128648724,0.0004151220491621,False
+"um, so my sister and i would ride bikes to her house a lot",0.12888865,0.0145971759411145,0.5,0.0,0.0010988854337483,0.0024203495122492,0.000672849593684,False
+"um, but then one day, uh, so like they were two main events",0.038053125,0.96858086665891,0.4166666666666667,0.0,0.0007412582635879,0.0004354586708359,0.00053730327636,False
+that were why my parents thought we should move,0.029984225,0.99774902150029,0.5,0.0,0.0009205061360262,0.0005584663595072,0.0005113070947118,False
+"the first one was that, um, so our neighbor whose family all had let uh, their names began with the letter d",0.027752401,0.9990952632889036,0.375,0.0,0.0007654261426068,0.0005179404979571,0.0007475451566278,False
+"um, the one who didn't have a name that began with a d",0.021518974,0.1951526354640339,0.5,0.0,0.000858005718328,0.0013398437295109,0.0003731559845618,False
+toot,0.02124131,0.2136983819944609,0.5,0.0,0.0901711583137512,0.0410356670618057,0.0795018970966339,False
+"he was like wrapped up in like drugs, and like we think there was like a drug deal that went down that involved our house",0.21362646,0.995450536648915,0.5777777777777778,0.0,0.0132417799904942,0.0252271369099617,0.1735316216945648,False
+because we saw someone run through our,0.104076885,0.9954841248912778,0.5,0.0,0.0014582693111151,0.0005232106195762,0.002695475006476,False
+"they ran up the stairs onto our patio near our front door, and then there was a side door",0.061726328,0.1196802125137333,0.45,0.0,0.0019629790913313,0.0007994705229066,0.0009004728053696,False
+"they ran down there, and then our gate was unlocked, so they went to our backyard and we think they hid drugs under my dad's car, and then came back and got them later",0.14463188,0.9851959002197332,0.5259259259259259,0.041,0.0040828315541148,0.0006784787401556,0.005432840436697,False
+so that was one instance where my parents were like mm,0.032731086,0.9994087932885984,0.5,0.0,0.0014794954331591,0.0010308660566806,0.0013401499018073,False
+"maybe we should move, and the second time this homeless man came up on to our porch and was sleeping there, and we didn't know he was sleeping there, cause like nighttime, everyone else was asleep and one night my sister was going down the stairs, and my sister's just really funny like she doesn't really think anything's a big deal",0.13251819,0.9991644663933988,0.4705555555555555,0.0,0.0023806488607078,0.0021186429075896,0.0016704560257494,False
+"so she came into the kitchen and and my dad and my mom were sitting there and she was like hey, i think someone's just like on our porch, and it was a homeless man, and so that was a problem just because my mom's office was like an extension, so like our living room",0.14956708,0.1414708753280739,0.5,0.043,0.0052714329212903,0.0018923348980024,0.0036442189011722,False
+it was like the stairs where my sister was walking down and saw the homeless person,0.065721996,0.9968051233424634,0.5777777777777778,0.0,0.003828007960692,0.0029974309727549,0.0007591296453028,False
+"then there was a living room and then my mom's office, which was like an extension of the house and that, and there was a door to my mom's office on the outside that you could get to it from the patio near our front door",0.055333257,0.0489783034855952,0.475,0.0,0.0019452577689662,0.001125423470512,0.0003762770502362,False
+"and so my mom was afraid that, like if we left that door unlocked that the homeless man would come into the house because everything was connected",0.052136723,0.9697595248744928,0.65,0.0,0.0100537119433283,0.0018768213922157,0.0014423714019358,False
+so that's when we decided we should move,0.022074303,0.9469934618861964,0.5,0.0,0.0007448901887983,0.00059200450778,0.0005086052697151,False
+"so then we moved to uh rdaddress2 street, and when we, my parents first showed us the house, i was really impressed just because i never thought we'd be able to live in that type of neighborhood",0.026894007,0.0014528479491561,0.2642045454545454,0.0,0.0008874873747117,0.0004603370616678,0.0003148810355924,False
+"it's just like really nice, and the houses were so big and our house on fourteenth street was pretty small",0.027237365,0.0101408178865169,0.425,0.0,0.0010123589308932,0.0003609005943872,0.0003863076854031,False
+"um, so i thought that was cool, but i don't really like change, so i still didn't really wanna move",0.05093802,0.9999053151322216,0.375,0.132,0.0007096017361618,0.0006980786565691,0.0003523831546772,False
+"but um, i glad we did, cause like the neighborhood we live in now there's like no, like you would never find it on purpose",0.04268845,0.1251811738467818,0.3409090909090909,0.0,0.0007752137025818,0.0016880542971193,0.0008133422234095,False
+"whereas like fourteenth street, there was like a bus stop and right out in front of our house, and like apartments and stuff, so there was always people there, and there was never any parking",0.013327881,0.995265190349666,0.3571428571428571,0.054,0.0009078510920517,0.0005090958438813,0.0003323703713249,False
+but now there's all the parking in the world,0.014160873,0.9535460600604266,0.5,0.0,0.0112515818327665,0.0006726313149556,0.0004874143924098,False
+"um, and like, i feel safer up there just because like it's mostly old people, so i don't view them as a threat",0.1250247,0.7660178960062716,0.45,0.113,0.0011693014530465,0.0017670466331765,0.0016061821952462,False
+"and like i walk my dog at like anytime, even at night and i feel pretty safe, so yeah, i appreciate our house",0.12695669,0.0034891537694174,0.3125,0.0,0.000969139568042,0.0005765883834101,0.000697074807249,False
+now i have a little sister and a older brother,0.09763293,0.0011405100787377,0.5052083333333334,0.0,0.0010196408256888,0.0022215978242456,0.0011082343989983,False
+my little sister's seventeen and my older brother is thirty four,0.05413456,0.0036793877986999,0.5052083333333334,0.0,0.0020292210392653,0.0012717915233224,0.0017917046789079,False
+"yeah, yeah, he",0.019714156,0.0003009828390606,0.5,0.0,0.0010412535630166,0.0005450884927995,0.0008154277456924,False
+he's from my dad's second marriage,0.05373499,0.0029355587366863,0.5,0.0,0.0031598301138728,0.0010275063104927,0.0056283110752701,False
+"so like my half brother, but that doesn't matter",0.1256687,0.1039382646317178,0.5833333333333334,0.111,0.0058965976350009,0.0012710121227428,0.0005355671164579,False
+"yeah, i'm closer to my little sister just because we've lived together the longest, and also we're closer in age, but now that we're all getting older, um, our relationship with our brother has improved a lot",0.05493369,0.0002758587145603,0.5052083333333334,0.0,0.0008084340952336,0.0005309238331392,0.0003807486791629,False
+"yeah, but then he went to college and then uh, plus, he wasn't interested in us when we were y younger",0.07850813,0.9981614982299264,0.4375,0.123,0.001031702151522,0.0013366439379751,0.001300343661569,False
+"just because like we were little kids, like my and my brother was a teen",0.048525527,0.0185608567690054,0.546875,0.0,0.0030620598699897,0.0015313545009121,0.0044585759751498,False
+he did not care that these two babies were in the house,0.1510105,0.9998764656037324,0.5,0.193,0.0806344524025917,0.005510572809726,0.0022522630169987,False
+"so yeah, mmhm, on the yeah, it was from school",0.06851897,0.9936658893189032,0.5,0.0,0.0010839237365871,0.0005011486937291,0.0006305510760284,False
+"we both went to mission san josé high school, but we didn't become friends until the second grade",0.032902762,0.2231509240432447,0.46,0.164,0.0008059469400905,0.0003859263379126,0.0003374029765836,False
+"um, and we both entered in the first grade, but that's just because we weren't in the same class",0.0334178,0.9667926131378368,0.4375,0.0,0.0007990755839273,0.0004752670356538,0.0004861476481892,False
+like the same homeroom,0.045778666,0.998468173486282,0.5,0.0,0.0140745267271995,0.1091234758496284,0.0004124234546907,False
+"uh, in the first grade, um, i don't really know how we became friends",0.04406188,0.9920275162511064,0.3875,0.0,0.0006534302956424,0.0006366882589645,0.0006148489192128,False
+i just remember like i thought our moms looked alike because they're both like the same skin tone and they have the exact same haircut,0.078108564,0.9584060730880154,0.4583333333333333,0.0,0.0016776769189164,0.003527991939336,0.0109124211594462,False
+and i always thought that was really cool,0.02929751,0.0170177646336252,0.325,0.0,0.0005958754336461,0.0003507054643705,0.0005584565224125,False
+"um, so i guess i just started talking to her about that and then we became friends that way",0.05373499,0.1772609506611072,0.5,0.0,0.0005597517592832,0.0003801377606578,0.0005667822551913,False
+"yeah, i really can't remember how we became friends",0.028782474,0.9510905121768852,0.4,0.0,0.0006364802247844,0.0004092353628948,0.0003297491348348,False
+mm,0.033246122,0.1479871731658376,0.5,0.0,0.0010840946342796,0.0008179078577086,0.0005002457182854,False
+"i guess like, uh, english",0.044748597,0.9993950241954558,0.5,0.0,0.0006407782202586,0.0007616730872541,0.0004178067611064,False
+i'm not really good at math math,0.07131593,0.9999400955038604,0.675,0.304,0.0010426929220557,0.0067296917550265,0.0007112798048183,False
+"i hate math because of that, and science was just okay and i really liked reading",0.22775516,0.128210314731666,0.45,0.171,0.0190333612263202,0.0034917250741273,0.0023490653838962,False
+"so yeah, i guess like english and reading",0.03221605,0.997342356400876,0.5,0.0,0.000935056596063,0.0005276219453662,0.0004031438147649,False
+those were my favorites right,0.026035614,0.002052608188116,0.3571428571428571,0.0,0.0010438711615279,0.0004856055311392,0.0003249974106438,False
+"yeah, so um, should i tell you why? sure? yeah, well, no, like high school is when i figured out what i wanted to major in in the tenth grade in my health class because we all had to choose a sub like a mind altering substance and research it, and i chose alcohol, and i just thought like the way the brain works was so cool",0.064523295,0.9976326100764488,0.3659375,0.0,0.0010221539996564,0.0012777742231264,0.0049899485893547,False
+"um, and also like i was fascinated with drug addiction when i was in the tenth grade",0.1835188,0.0017819650391399,0.5,0.0,0.00375641672872,0.0007102228119038,0.005858177319169,False
+no particular reason,0.0087811295,0.995439569059572,0.5416666666666666,0.524,0.0010769192595034,0.0003714835329446,0.0004519327194429,False
+"i just i just thought it was like, really interesting",0.026035614,0.9244221332152012,0.25,0.0,0.0006162354839034,0.0003201535728294,0.0005159362917765,False
+and like the way people paint addicts is like it's solely on them and they don't really look at,0.16827796,0.9999075801778466,0.4,0.0,0.0013369610533118,0.0230045802891254,0.0092961648479104,False
+"like, just the fact that it's i mean, sure, they started taking the drugs, but after awhile it's something that they can't control and they feel like they need the drug",0.15918289,0.0226497409741508,0.453125,0.0,0.0008447771542705,0.0017883034888654,0.0007157928775995,False
+"um, that was interesting to me",0.03856816,0.2221309084311197,0.25,0.0,0.0005978312110528,0.0003355136723257,0.0004617136728484,False
+"plus, like with the whole psychology thing, my grandfather h has alzheimer's and my grandmother is bipolar and my uh uncle is schizophrenic so like mental illness was also really interesting to me",0.13879937,0.0387588050668355,0.4,0.073,0.0318250730633735,0.1137911602854728,0.0401397608220577,False
+that's why i chose psychology and cognitive science,0.015340946,0.087033782082583,0.5,0.0,0.0006224728422239,0.0006519646849483,0.0003315769135951,False
+"yeah, yeah, i wanna do clinical research about these different mental illnesses",0.18647896,0.0073221176221503,0.525,0.193,0.0178684350103139,0.058328628540039,0.0324690081179142,False
+"um, and like, i want to conduct clinical trials, but recently i've been having a change of heart because i listened to this podcast",0.022074303,0.0093600328169347,0.5,0.0,0.0005529490881599,0.0004097090277355,0.0004267235635779,False
+"um, i think it's called like codeswitch",0.032387726,0.9994343644615772,0.5,0.0,0.002592195989564,0.000932594644837,0.0008719624602235,False
+npr,0.026722329,0.026100150542085,0.5,0.0,0.0008805374382063,0.0012435362441465,0.0005358298076316,False
+"yeah, and they did one about like cognitive behavioral therapy with this group of boys in chicago, and like how it was like going to these therapy sessions was like helping them deal with their aggression, and it was like decreasing the number of fights and like gang violence in chicago",0.079307266,0.8176921700472274,0.5,0.131,0.0101001122966408,0.0026721442118287,0.000516258762218,False
+"um, and i just think that would also be really interesting to do just because it's all like about impulse control and like why people do the things they do and also showing people that there's uh, healthier outlets to express themselves instead of just immediately jumping to like being aggressive",0.1024659,0.9547310365611744,0.25,0.028,0.0007211530464701,0.0003752399934455,0.0005167099297977,False
+"so i'm thinking about that right now, but currently i work in a lab that specializes in like aphasia, um, and i'm also really interested in linguistics",0.016104523,0.1385682789658803,0.4107142857142857,0.0,0.0006380578270182,0.0004545128322206,0.0003147952083963,False
+so like with that,0.031701013,0.9897440522286142,0.5,0.0,0.0040089772082865,0.0004264762974344,0.0011574968229979,False
+i like that,0.030670939,0.0416993707464827,0.5,0.0,0.0008769178530201,0.0003796300443354,0.0003587444662116,False
+like combines the psychology and linguistics,0.01228664,0.0021829079180272,0.5,0.0,0.0006257124477997,0.0003767192247323,0.0004466143145691,False
+"um, but i'm seeing that i think i wanna work with like actually physically work with patients, because like working in the lab is really boring cause all i do is transcribe things and i'm like really good with people, so i feel like i'd be better working with actual patients and like people who have suffered from strokes, so we'll see",0.1250247,0.9371243600650044,0.48,0.09,0.0006955896969884,0.0017428019782528,0.0003996660525444,False
+no,0.015410362,0.9530939152291176,0.5,1.0,0.0012503124307841,0.0009229910792782,0.0005184102337807,False
+it's so funny,0.05133759,0.0002152985473189,0.375,0.0,0.0009079060400836,0.0003304890415165,0.0007184890564531,False
+i thought that was due on friday,0.017631676,0.8863629292142247,0.5625,0.0,0.000813867081888,0.0004289112985134,0.0003174170560669,False
+"so you sent out that email and i was like wow, i got to do this tonight",0.05413456,0.0039817415864284,0.45,0.0,0.0007479042978957,0.0004768300859723,0.0006609256961382,False
+"yeah, well, my high s or my middle school asked me to leave, so um, yeah, so, um, when i was in the eighth, so like, like i said, i'm bad at math when i was in the eighth grade",0.119228795,0.9998257703062532,0.59,0.093,0.0011709259124472,0.0011938785901293,0.000929259636905,False
+i w,0.027409043,0.7770201465079195,0.5,0.0,0.0316293537616729,0.0077305105514824,0.001054523163475,False
+like i wasn't failing math,0.038911518,0.0032637817297128,0.5,0.0,0.0023474390618503,0.0007638867828063,0.0006571242702193,False
+"i was getting like c minuses, but i guess like mission san josé high school is all about test scores, and i'm not very good at standardized tests, so they framed it as a, like they were asking me to leave because of my test scores, but like out of all the girls i know, i wasn't the only one failing and i know wasn't like the worst one, so i think it's because i was black like five and it was like they wanted like a certain type of black girl",0.355017,0.999470247552797,0.5877341705913135,0.099,0.0275551620870828,0.1059441715478897,0.0523756295442581,False
+"i think like cause when i, i got there in the sixth grade, and um, i was having like a hard time just because i",0.04543531,0.0016446913529618,0.6458333333333334,0.049,0.0007314037065953,0.0004032652650494,0.0006500562303699,False
+"i was used to public school, so this private school was a lot harder, and i had never been to a predominantly white school before, so i was struggling, but eventually i figured it out and i became pretty popular, i guess, and had a lot of friends and so i guess they just wanted like a black girl",0.355017,0.8292837794598987,0.4583333333333333,0.028,0.0073066367767751,0.1098044291138649,0.0894494578242302,False
+that was like,0.029984225,0.9739730461954864,0.5,0.0,0.0020952248014509,0.0005194276454858,0.0008781703654676,False
+i don't know,0.017770508,0.9871422002796258,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+"that would just like, be silent and like, follow all the rules and stuff",0.08290337,0.938243709849086,0.5,0.0,0.0011003446998074,0.0015177405439317,0.0019356737611815,False
+"i don't really know how to explain it, but that's the best that i can do",0.027409043,0.0012971260624256,0.2,0.0,0.0006425749743357,0.0011655343696475,0.0006850485806353,False
+"no, no, i, just, i, just, i really was unprepared when i got to that private school like i realized, i just was not ready in terms of academically and also socially",0.0495556,0.9998283929906612,0.4833333333333333,0.061,0.0007044522790238,0.0008053135825321,0.0003567952371668,False
+"i just wasn't prepared for that change like i was really behind in my math class because my math teacher specifically cause i left after the i left public school after the fifth grade that year, my math teacher had got engaged, so she wasn't really interested in like teaching",0.04234509,0.9999467118213446,0.515,0.073,0.0008006731513887,0.0005498262471519,0.0004269668716005,False
+she was more so interested in planning her wedding,0.06532243,0.9591437626842556,0.3125,0.0,0.0009547289228066,0.0006317740189842,0.0009637902257964,False
+so i didn't really learn a lot,0.029984225,0.9997438114185004,0.4,0.0,0.0008036171202547,0.0004613643395714,0.0004512555897235,False
+"and like, i just wasn't being challenged in public school, and then when i got to private school, i was just really behind and i had to get a tutor for math, specifically everything else i could figure out",0.040628307,0.907685979319895,0.5666666666666667,0.0,0.0008999311830848,0.0003992544079665,0.0004987383726984,False
+"um, but math was just not good for me",0.05653196,0.9983259226603748,0.675,0.28,0.0009160134359262,0.0009634547168388,0.0008228664519265,False
+"well, i had been used to p",0.025005542,0.9632623011051517,0.5,0.0,0.0007580951787531,0.0011106943711638,0.0006063143373467,False
+"private school, so high school was fine and like mission san josé high school's pretty like uh, progressive",0.02517722,0.0065245235297708,0.4013333333333333,0.0,0.0012134076096117,0.0004642269923351,0.0005170733202248,False
+they call themselves progressive,0.06132676,0.962504851966155,0.5,0.0,0.0017937561497092,0.0005521864513866,0.001112611615099,False
+"um, so it was like a nice change from mission san josé high school, which was all girls and they required us to wear uniforms",0.08501353,0.0060793824579607,0.31,0.0,0.0025923105422407,0.0023239331785589,0.0018190199043601,False
+"um, or like, there was a strict dress code",0.031357653,0.8984697172936948,0.5,0.0,0.0007767236093059,0.0005606915219686,0.0004316958657,False
+there was uniforms for the sixth grade and then there was a strict dress code for seventh and eighth grade,0.03461955,0.1680367013687551,0.5,0.0,0.0008775937021709,0.0003682870301418,0.0003712312900461,False
+"um, and i just i was",0.02397547,0.1531402115695669,0.5,0.0,0.0009713646722957,0.0004374732670839,0.0007357649155892,False
+"i was in like a better environment academic environment when i went to mission san josé high school, um, because the classes sizes were smaller and the teachers were actually helpful and they weren't discriminating against me, it was pretty diverse, i'd say, like my friend group, um was maybe like three black girls, two black boys and like three white girls, and then one asian girl or one asian boy, and then uh, like one white boy, she stayed in public school cause mission san josé high school only goes up to the sixth grade, so she stayed there and then she went to um",0.28825936,0.1145642195272683,0.4754444444444444,0.0,0.0147636542096734,0.0455813705921173,0.0414176285266876,False
+"carroll, which is that a private school? yeah, oh, sorry, yeah, yeah, no, yeah, i don't know",0.07571117,0.9896795580347606,0.625,0.059,0.0008702861377969,0.0016502919606864,0.0006024402682669,False
+"i just know she w ended up going to carroll, and yeah, but most people, if you got to mission san josé high school, you're sposta to go to deal, and then wilson, just cause they're all in that same neighborhood",0.062125895,0.9593991465784936,0.39,0.0,0.0036844641435891,0.0006536293076351,0.0007456287858076,False
+"um, but the pu public schools weren't really teaching enough, in my parents' opinion, and my opinion",0.025692256,0.99003731603061,0.4666666666666667,0.142,0.0013838519807904,0.0005991888465359,0.0003961463517043,False
+"i guess, uh, the money cause my dad works here",0.046465382,0.8905489123489334,0.5,0.0,0.0008381502702832,0.0014141201972961,0.0006657702033407,False
+they pay for two thirds of my tuition,0.034791227,0.1263047854930265,0.5,0.167,0.0067577832378447,0.0005761651555076,0.0005401397356763,False
+"um, and i, i mean, i always thought i would go to college in new york, cause i really love new york city",0.03204437,0.0038576707319864,0.4424715909090909,0.0,0.000751431682147,0.0004479059425648,0.0004663952859118,False
+"but um, my mom didn't want me to go there and then i didn't get in to nyu, so that was definitely off the table",0.040628307,0.9757808506366924,0.5,0.047,0.0027413889765739,0.0011288685491308,0.0020338217727839,False
+"um, and out of all the s",0.06132676,0.9829123467875454,0.5,0.0,0.0278050638735294,0.0064836144447326,0.0017696828581392,False
+the schools i got into georgetown just made the most sense in terms of like the name and the academics here and the money,0.02637897,0.028608897194586,0.25,0.0,0.0005163507885299,0.0004234722000546,0.0004085413529537,False
+"so yeah, i still knew that, even though i came in undecided mmhm, yeah, so one of my friends, um, from my freshman door dorm, she lived on my floor and she's a linguistics major and one night we were in an uber and the driver was asking us about our majors and so he started talking to her about linguistics and i didn't realize how much you could do with linguistics, cause i didn't really know what it was like coming into georgetown, and so hearing her talk about it, i was like oh, like maybe i can get into this and plus, with the cognitive science minor you have to take two classes in like these different areas and i hate like i don't really like math",0.2885035,0.9975806630432296,0.5133928571428571,0.054,0.0029185628518462,0.0061305537819862,0.0010032237041741,False
+i don't really like science,0.067320265,0.9999923107661672,0.4,0.368,0.0044920998625457,0.0064518582075834,0.0014439353253692,False
+"like, like actual science",0.012217224,0.0002342832060457,0.5,0.0,0.0009948816150426,0.0004331060044933,0.0003292076289653,False
+"psychology is like a social science, so i'm okay there",0.022213135,0.9903095983573412,0.3666666666666667,0.0,0.0006652136798948,0.0011586650507524,0.0004418586031533,False
+"so i decided to do do my two c requirements in philosophy and linguistics, and so i took the intro to linguistics class and i was like i'm doing really well here like i can really do this",0.029640866,0.0076899789136173,0.4,0.0,0.0006580819026567,0.0003847187617793,0.000363059079973,False
+so i plan on to keep taking linguistics until i graduate,0.035134587,0.0473869897209845,0.5,0.0,0.0009973561391234,0.0004654609947465,0.0004645846493076,False
+i just think it's really interesting,0.027752401,0.000946014187292,0.25,0.0,0.0005786970141343,0.0003151438431814,0.0004004726652055,False
+"yeah, yeah, um, i'd say that i definitely code switch",0.027752401,0.0003287594512009,0.5,0.0,0.0007458658074028,0.0007612782646901,0.0005320680211298,False
+"i guess between standard english and aae, depending on who i'm around, um, especially since i'm like i'm black and so in these professional spaces, aae is like looked down upon, but it isn't fair, but that's just the way it is",0.16344422,0.0042006463248084,0.4658730158730159,0.054,0.000676093797665,0.031442292034626,0.0166555400937795,False
+"so and because i do work in a lab, i'm the only black person in that lab",0.34388447,0.963255535771508,0.5416666666666666,0.0,0.0273522846400737,0.3985207378864288,0.1845608055591583,False
+"and um, so just i'm more mindful of my language, i guess because of your class",0.16413476,0.9895335818048646,0.25,0.0,0.0009653805173002,0.0014525217702612,0.0016843812773004,False
+"yeah, when i'm at home, i go home a lot",0.03204437,0.0007696088576158,0.5,0.0,0.0009873016970232,0.0006665831897407,0.0007378872833214,False
+i go home,0.028610796,0.0181360713045899,0.5,0.0,0.0073412451893091,0.0011877861106768,0.0008113183430396,False
+"i've gone home every weekend, especially this year",0.019852988,0.0011436990245521,0.5,0.0,0.0006687173154205,0.0003961948677897,0.0004717102856375,False
+"and um, i'm on the board for the black student alliance, so when i'm with them, it's definitely okay",0.21274342,0.0603792616237372,0.4166666666666666,0.0,0.003544540842995,0.0205175280570983,0.0392209812998771,False
+it's definitely what's expected of me,0.039254878,0.0006689931466872,0.525,0.0,0.0007911654538474,0.0005055445362813,0.0016440245090052,False
+"um, and i just feel really comfortable there",0.031185975,0.0056204424897762,0.3,0.0,0.0005677000153809,0.0003443062596488,0.0004407929664012,False
+mm,0.033246122,0.1479871731658376,0.5,0.0,0.0010840946342796,0.0008179078577086,0.0005002457182854,False
+"yeah, everyone's always doing something",0.029640866,0.0005338652932065,0.5,0.0,0.0008673001429997,0.0004280164430383,0.0005633092951029,False
+i'm sorry,0.023117077,0.9999284722434156,0.75,0.565,0.0010547674028202,0.0015481514856219,0.0004106285050511,False
+"yeah, mmhm, this is my second year",0.036336336,0.7820265828138828,0.5,0.0,0.0018175728619098,0.0004979593213647,0.0005464962450787,False
+i,0.018187003,0.1366173296018097,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i was in new south,0.023117077,0.220659999723426,0.4318181818181818,0.0,0.0011005705455318,0.0004808107041753,0.0003690917510539,False
+"no, but that's where i was placed and i needed the money",0.023460433,0.8719416817510758,0.5,0.0,0.0006899418658576,0.000550577242393,0.0007370515959337,False
+"so um, uh, well, first of all, um, when i was a freshman, like i was getting, in addition to my dad, like the tuition from georgetown",0.07011723,0.1836652479533524,0.375,0.0,0.0006641380605287,0.0004417213203851,0.0006889076903462,False
+"because of my dad, i was also getting some other financial assistance",0.018048171,0.0190515371791741,0.53125,0.0,0.0006997241289354,0.0004693676310125,0.0005629757069982,False
+"but then georgetown took that away and then made my parents pay back what georgetown had given me, which really sucked",0.57027644,0.9989986412110508,0.45,0.241,0.7271137237548828,0.6242306232452393,0.639625072479248,False
+"um, and i've actu",0.03427619,0.0001480028496658,0.5,0.0,0.0008634494733996,0.0004590715107042,0.0007855697767809,False
+they've actually done this to like other girls who have coincidentally been black,0.39230084,0.2234707425248726,0.5486111111111112,0.0,0.3094009757041931,0.2915282249450683,0.2640193700790405,False
+but we don't need to get into that,0.027409043,0.974970321941664,0.5,0.0,0.0006947452784515,0.0005848399596288,0.0005350140272639,False
+"um, so when that happened, my parents were like",0.02637897,0.997061669562746,0.5,0.0,0.0011931412154808,0.0013628494925796,0.0020650720689445,False
+"well, we can't afford to pay for housing, so you either need to become an ra, or live at home, and at the time i didn't know how to drive, so like i didn't i couldn't live at home because i didn't wanna rely on my dad getting me to and from campus every day, so i applied to become an ra, and like i knew, i'd be good with it, good at it, cause i'm good with people and like interacting, and like i'm a big sister and i love being a big sister",0.040284947,0.0023543957144383,0.3204545454545454,0.0,0.0093470336869359,0.0011661145836114,0.0004758313880302,False
+"so like, i'm good at helping people and i'm comfortable doing that",0.026722329,0.032709196037553,0.2249999999999999,0.0,0.0006865867762826,0.0003909141814801,0.0003914713161066,False
+"um, and i didn't mind being placed with freshmen",0.21109697,0.0340644980086672,0.5,0.0,0.0005854709888808,0.000833939644508,0.0410425513982772,False
+"um, and plus i, i wanted to live alone, so it's been so exciting living alone",0.053335425,0.008006191204184,0.3909090909090909,0.199,0.0009608118562027,0.0004980716039426,0.0006833174265921,False
+i love living alone,0.043375164,0.0026891158120212,0.25,0.244,0.0026261054445058,0.0005722939386032,0.0004091725277248,False
+"um, so i don't mind living with freshmen",0.22981352,0.0590942356734672,0.5,0.0,0.001554358866997,0.0144208138808608,0.0338219963014125,False
+"they are loud, but that's fine",0.16482529,0.8260636594649342,0.3708333333333333,0.0,0.0022173463366925,0.0086882980540394,0.0070154312998056,False
+i'm good at tuning them out,0.23803931,0.0004218349444563,0.15,0.0,0.0006843059672974,0.0007696449756622,0.1844131350517273,False
+"um, and like, i find that they really do appreciate the stuff i do for them, even when i don't think it's a big deal",0.034104515,0.0060087786015656,0.45,0.0,0.0005747535615228,0.0003746618167497,0.0004778260481543,False
+"like every sunday i bake cookies for them, and they think it's the greatest thing in the world, but i don't really see the value in it just because it's like the same cookie dough every sunday",0.13655609,0.9998984007824184,0.3,0.0,0.0009679390350356,0.0004638631653506,0.000910754839424,False
+it's like premade,0.17242117,0.9047694052419356,0.5,0.0,0.0059343171305954,0.0009077222784981,0.2273076325654983,False
+"i just put it in the oven, but they really like it",0.1256687,0.0013549443323313,0.4,0.0,0.0079625900834798,0.0005968587938696,0.0104780215770006,False
+"um, and this year specifically i'm like",0.015340946,0.0010705320902127,0.5,0.0,0.0006926133064553,0.0004360534949228,0.0005925662117078,False
+"i think i'm a way better ra, just because i'm more comfortable interacting with all these residents and like i've been actively putting myself out there to connect with my residents, cause, like last year i didn't really like m",0.050242316,0.9905622701574756,0.3777777777777777,0.046,0.0007490183925256,0.0005528990295715,0.0004595099890138,False
+"it's not that i didn't wanna talk to them my residents, but i didn't think they needed me as much as i now see that they do",0.046465382,0.9942198419904172,0.4,0.0,0.0007078764028847,0.0006674664327874,0.0006423628074117,False
+"um, but next year i'm gonna be in google with uh upperclassmen, which is great",0.1334155,0.96541698536256,0.3,0.0,0.0184266977012157,0.0009777038358151,0.0008451455505564,False
+"i am nervous about having roommates again, though, cause my first experience with roommates wasn't very good",0.13924801,0.0312531591425824,0.21,0.239,0.0008376688347198,0.0005795697215944,0.000340247672284,False
+"no, i am",0.017492844,0.7946334691248055,0.5,0.0,0.0019760327413678,0.0005281069898046,0.0005043025594204,False
+i'm gonna just be in like a suite so i'll be living with other people,0.07211506,0.2220122021584215,0.5625,0.0,0.0017716794973239,0.0005595754482783,0.0005360443610697,False
+"yeah, i get my own room, but then i share a bathroom with two",0.089577995,0.1592361348212378,0.2,0.0,0.0029947631992399,0.0014237582217901,0.0002859276428353,False
+"yeah, yeah, okay, yeah, mmhm, yeah, yeah, yeah, mmhm, yup, yup, yup, yeah, mmhm, yup, they want reassurance yup, mmhm, um, i guess like i'll have to like, be more intentional with my interactions just because like, maybe they won't be as actively in like seeking me out",0.09870692,0.821696413073748,0.3555555555555555,0.03,0.0012842213036492,0.0007506755064241,0.0007520419894717,False
+"um, but i think that's like",0.027580723,0.9235153400811028,0.5,0.0,0.0007116534397937,0.0004029624396935,0.0008266694494523,False
+i think it'll be better in some ways just because i'll be more,0.038911518,0.9503441796433912,0.25,0.0,0.0006018918938934,0.0004024986701551,0.0004843564529437,False
+i don't know,0.017770508,0.9871422002796258,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+i feel like now with freshman i,0.078108564,0.0088060205389568,0.5,0.0,0.0006824947195127,0.0004550128360278,0.0034006580244749,False
+i,0.018187003,0.1366173296018097,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+d,0.031014297,0.1767998648602252,0.5,0.0,0.0010803996119648,0.0025198548100888,0.0010110610164701,False
+"i can do the bare minimum and they appreciate it, but with the upperclassmen i'll have to like, put in more effort in the interactions that i do have with them just to make sure that they're getting the most out of it and that i'm being like as helpful as i can be for them, so in this case i'm excited for the change",0.09709594,0.0673435914468062,0.3075,0.0,0.0006033947574906,0.000558289932087,0.0003279670781921,False
+plus i'm trying to become more comfortable with change since i'm about to graduate in a year,0.0224908,0.0326147495956297,0.275,0.0,0.0006602784851565,0.0004681136342696,0.0003023887693416,False
+"i just why i don't see the point in changing things that work that are like, i'm i like routines, so change is r, messes up the routine",0.09279997,0.9999658454962308,0.5,0.0,0.0010174729395657,0.0006580270128324,0.000527391443029,False
+"um, y, uh, no, just because like with preregistration, i'm able to like mentally prepare for what my schedule's gonna be, and i've been lucky i've been able to get all the classes i sign up for, so like with preregistration, i'm able to like know what's gonna happen, so like i'm okay, cause i, i'm able to like assess everything and mentally prepare before the semester starts",0.018048171,0.0003578772087771,0.3354166666666667,0.0,0.0009799153776839,0.0005017098155803,0.0005064714932814,False
+"mmhm, mmhm, oh, okay, yeah, yeah, yeah, that's the thing i'm like",0.04783881,0.2405077302430799,0.25,0.0,0.0010986933484673,0.0010500237112864,0.0010666009038686,False
+it's really draining to have to be like excited to see my freshmen all the time when i really just wanna go lay down,0.33341047,0.9989658278527176,0.4225694444444444,0.0,0.00217274017632,0.0009960732422769,0.0017022312385961,False
+"so yeah, i lived in vcw with three other girls, which was interesting",0.08796701,0.1586181052011169,0.40625,0.0,0.0012562093324959,0.0034024780616164,0.0017894257325679,False
+you sound like my mom,0.15684792,0.0130100346289712,0.3,0.0,0.2787542045116424,0.0049852631054818,0.011393804103136,False
+"my mom wants me to go to grad school, which i agree, i should go to grad school",0.053335425,0.1047699238181707,0.4,0.0,0.0115435477346181,0.0035719140432775,0.0028003104962408,False
+"i don't necessarily know if it should be right after college, but my mom thinks i should go because trump is president, so i might not find a job, but like that's her being afraid that i won't have a job, but i'm not necessarily too afraid, cause my parents told me i can live at home for free as long as i'm trying to get a degree, so i might take them up on that, but i also feel like i need to leave dc at some point in my life",0.042001735,0.1359171920777764,0.5267451298701299,0.013,0.0015449012862518,0.0012104645138606,0.0015123217599466,False
+s,0.0495556,0.1787444959391308,0.5,0.0,0.0025115853641182,0.0020734022837132,0.0005548478220589,False
+"i've been here for so long and like i didn't go abroad while i was here, cause like i didn't want to like, i love",0.04543531,0.0024567698160496,0.3875,0.102,0.0007040422060526,0.0010008094832301,0.0012947903014719,False
+i don't like change and i i love my house,0.04818217,0.0028768761730552,0.25,0.147,0.0025486252270638,0.0014819501666352,0.0018336253706365,False
+"i love my mom, i love my sister",0.074912034,0.0063436179120761,0.25,0.0,0.001723765511997,0.0016494839219376,0.000319069426041,False
+i love my dog,0.047495455,0.0024496170403912,0.25,0.0,0.0010865833610296,0.0012723191175609,0.0003089895762968,False
+"i did not wanna leave them, s",0.09978092,0.9725246389278848,0.5,0.0,0.0050658304244279,0.0324174724519252,0.0035239309072494,False
+but at some point i should go experience something else,0.02809576,0.8835313837569048,0.5,0.0,0.0006615502061322,0.0005293018766678,0.0007473788573406,False
+"um, i'm the vice president of programming for the black student alliance right now, i'm planning our big event on",0.15626417,0.0147791544751579,0.4801587301587302,0.0,0.0037246411666274,0.0215903837233781,0.0226620491594076,False
+"yeah, i'm not particularly excited",0.049898956,0.9999088319135868,0.59375,0.302,0.0007854241412132,0.000564590212889,0.0004911451833322,False
+planning it as been,0.024318827,0.0033102449682607,0.5,0.0,0.0006983954226598,0.0007428030367009,0.000372004287783,False
+"hell, like my committee members aren't really helpful",0.44805592,0.999850030137028,0.4,0.488,0.1839198023080825,0.0927953198552131,0.355487585067749,True
+everything is on me,0.09816993,0.0004497009662923,0.5,0.0,0.0022509936243295,0.0006452001980505,0.0006320588872767,False
+people say they're gonna help you and then don't um,0.052935857,0.99898162356563,0.5,0.0,0.0011685164645314,0.0014605729375034,0.0024653782602399,False
+it's all on me and i'm tired,0.09172598,0.9982897415368358,0.7,0.326,0.0013657523086294,0.0011072488268837,0.0328782871365547,False
+"yeah, it's at the washington court hotel on new jersey avenue",0.025005542,0.962098157063509,0.4318181818181818,0.0,0.0007030726992525,0.0004268517368473,0.0004371445684228,False
+you should come,0.058929358,0.0065662182512131,0.5,0.0,0.0232333913445472,0.0392958000302314,0.0006354019860737,False
+"yeah, yeah, it is",0.02397547,0.0005741592627491,0.5,0.0,0.0008475366048514,0.0004580510722007,0.0006746937870047,False
+"yeah, it's a lot",0.038053125,0.00657584469512,0.5,0.0,0.0008560090791434,0.0003854145761579,0.0005541496793739,False
+fundraising is a lot,0.017631676,0.0184536545438245,0.5,0.0,0.0019994198810309,0.0008194224792532,0.0004170483152847,False
+"mmhm, and then giving me an attitude when i ask them to do the bare minimum, that gets on my nerves",0.18647896,0.7562295013370922,0.475,0.061,0.1308315396308899,0.0014863576507195,0.0032495679333806,False
+but you know i'll make it through,0.089577995,0.8906357291634877,0.5,0.0,0.0017809998244047,0.000525998068042,0.0004781566094607,False
+it's may first,0.019019997,0.7563880247276223,0.375,0.0,0.0007910056156106,0.0004101875529158,0.0003516301221679,False
+"yup from seven thirty to one am, no cause we can't afford it, but the law center shuttle drops you off right in front of the hotel",0.08420804,0.795500385534608,0.4535714285714285,0.058,0.0008569969795644,0.0008235347340814,0.0012185061350464,False
+"mmhm, yeah, um, i typically stay in northwest because i don't like driving and now that i can drive, i'd just rather go to places where i for sure know that i'm guaranteed parking because i don't know how to parallel park",0.05133759,0.9973617583048494,0.4444444444444444,0.046,0.0012065907940268,0.0005639179726131,0.000571193464566,False
+"cause for dc tests you don't have to know that, so i can just like pull in to spaces, but i like",0.038224805,0.0,0.5,0.0,0.0006891486700624,0.0004873711732216,0.0008791160653345,False
+i don't know how to like backing in to f,0.09548495,0.8959552186174352,0.5,0.0,0.0133472839370369,0.0044626458548009,0.0118178306147456,False
+spaces is very hard for me,0.09870692,0.9997773996608632,0.6895833333333333,0.253,0.0009113559499382,0.0048977001570165,0.0101422434672713,False
+"um, so like i like going places where i know there's gonna be parking and just like i know how to get there, cause like trying to drive somewhere and like having my phone talk to me is very confusing for me",0.03221605,0.9997645544679098,0.6950000000000001,0.043,0.0023937285877764,0.0006289158482104,0.0006822102586738,False
+"um, but i'm pretty good with directions like i, i pay attention where my parents drive me",0.065721996,0.0212113177892391,0.2625,0.062,0.0007896639872342,0.0008881750400178,0.0006239286158233,False
+"places have driven me places, so i'm pretty good with directions, but i'd rather for sure know where i'm going, so i don't really like, and i've really only stayed in northwest and like some parts of northeast, so actually, april sixth will be a full year since i got my license",0.05133759,0.9973261732459486,0.3571428571428571,0.049,0.0006484854384325,0.0004451626155059,0.0003462145105004,False
+"yes, cause i i learned how to drive on a stick shift, cause all my parents drive is stick shifts, and then the car that my parents were gonna give me is a stick shift, so that was like the first hurdle learning how to drive that and it's funny cause um, i actually took the test once before and failed um",0.07451247,0.0829306817358165,0.5,0.047,0.0008197063580155,0.0006677454221062,0.0007591017638333,False
+and that was in a manual car,0.03049926,0.9946180429719688,0.5,0.0,0.0009974839631468,0.0007353257969953,0.0005641502211801,False
+thank you,0.014369122,0.0405174341753898,0.5,0.0,0.0006253210594877,0.0004025503003504,0.0003329221799504,False
+"yeah, yeah, i know",0.024490505,0.0185919713431196,0.5,0.0,0.0009014412062242,0.000431701017078,0.0003738141385838,False
+"um, not really",0.017006932,0.999871339447844,0.55,0.0,0.0008060521795414,0.0004219564434606,0.0004592739569488,False
+i don't,0.018325835,0.9947236358226264,0.5,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
+"i don't feel that way, cause like i know, i know a lot of stuff about different parts of dc",0.040284947,0.1527395965262306,0.5,0.0,0.0006057731225155,0.0004405820800457,0.000429594045272,False
+"because of my dad, he's he's old and he's been out here for a long time",0.036508016,0.0043448343607898,0.4875,0.0,0.0440641082823276,0.0025941939093172,0.0069140587002038,False
+"well, my dad's like sixty seven, so i just like listen to him talk about the city, but i don't necessar",0.03994159,0.2148907496967223,0.5,0.0,0.0008698790916241,0.0005195013945922,0.0050969375297427,False
+"and like, i'm not a very adventurous person",0.0765103,0.9996235851809748,0.5961538461538461,0.21,0.0021583964116871,0.0011236136779189,0.0029304828494787,False
+"i like to stay at home, so i don't really go out a lot",0.034962907,0.0256192157887508,0.4,0.0,0.001620888360776,0.0007961424998939,0.0003548384993337,False
+i don't,0.018325835,0.9947236358226264,0.5,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
+i don't feel the need to,0.018048171,0.9961931735816524,0.5,0.0,0.0013491625431925,0.0004329221264924,0.0007410325924865,False
+"um, i guess, just like when when my brother was first born, he went to this night club called faces a lot",0.12888865,0.9894897710539567,0.375,0.0,0.0041817058809101,0.001797480857931,0.0019924310036003,False
+do you know where that is? i think it's on georgia avenue,0.022773718,0.9124860878513444,0.5,0.0,0.0007391086546704,0.0004099555662833,0.000481066526845,False
+"um, which isn't very helpful",0.08635602,0.9998830223147528,0.4,0.389,0.0008442364051006,0.0004620780237019,0.0009516671416349,False
+i can't,0.020408317,0.9897337105071412,0.5,0.0,0.0025350137148052,0.0019907883834093,0.0007195542566478,False
+uh,0.0253489,0.8297684098139897,0.5,0.0,0.0012679392239078,0.0013462513452395,0.0007708244374953,False
+"yeah, it is",0.023288755,0.0010238900322733,0.5,0.0,0.0009761764085851,0.0004419755132403,0.0006356015219353,False
+"um, but he used to go to that night club a lot, and my mom th",0.08330294,0.2468945628414258,0.5,0.0,0.0473494566977024,0.0068585947155952,0.004028542432934,False
+"and like my brother was seven when my dad met my mom, and so my mom would take care of my brother when my dad would go out to this night club and like my mom would tell me like you know you're dad, like he didn't really like check to see if mary, my brother",0.06492286,0.001344095955916,0.4,0.036,0.0520944818854332,0.0033097947016358,0.0016066809184849,False
+"he didn't check to see if mission san josé high school was doing his homework and he was like failing school when i met your father and all this stuff and i just think it's weird to think about my dad as like this social person who was going out to night clubs and stuff, because who he is now, i guess is like completely different",0.08170467,0.9999764554467908,0.5383333333333333,0.068,0.0107661681249737,0.0009427089244127,0.001159346778877,False
+"um, he doesn't have very many friends cause either they've died or he",0.22980565,0.9986609705935088,0.175,0.2,0.0175322536379098,0.0112143661826848,0.0171338245272636,False
+"yeah, i know he has really old friends cause he's really old, but like, um, yeah, he doesn't really like a lot of people, so just thinking about him being social is very funny and he took a gap year between uh, starting a cause",0.11085691,4.7863990447706536e-05,0.4368055555555555,0.053,0.0016426491783931,0.0006510246312245,0.0007238862453959,False
+"he, he went to howard and then eventually georgia tech",0.01721518,0.7786444226470229,0.5,0.0,0.0008328952826559,0.0003497213765513,0.0005015159840695,False
+"he took a gap year between graduating from high school and going to howard, and he just tells me he has interesting stories, but he won't tell me what they are",0.037023053,0.999124261833552,0.3349999999999999,0.0,0.0006593776633962,0.0004200319235678,0.0004489106649998,False
+"i mean, yeah, cause i don't really think he likes talking about how he grew up cause he was poor and then his mom died when he was like in his twenties, and him and his brother don't have a good relationship",0.14373457,0.9997893209536272,0.4765625,0.172,0.0125925187021493,0.0119405528530478,0.0308897886425256,False
+i guess he just likes how his life is now,0.04165838,0.0057821846293527,0.5,0.0,0.0011483737034723,0.0016142504755407,0.0012372591299936,False
+"like for him he's made it in life cause he never thought he'd be a doing the things he does, and like living where he live where we live",0.039254878,0.0014418803598132,0.4318181818181818,0.0,0.0013293833471834,0.0005582242738455,0.0007504533859901,False
+now,0.01999182,0.0840965841681417,0.5,0.0,0.0014697305159643,0.0004906950052827,0.0007275509997271,False
+"um, so i think he just likes life now compared to how it was",0.07730943,0.0072173592619861,0.5,0.0,0.0008581287693232,0.001492861425504,0.0009715484338812,False
+i think for my dad just being able to pay for things cause like money was such a big issue for him growing up,0.048525527,0.9919003458605457,0.4166666666666667,0.053,0.0036412696354091,0.0005826220149174,0.0006402113940566,False
+"the fact that like he really wants my sister and i to graduate debt free from college, and like the way it's going now i am gonna graduate debt free",0.03616466,0.0028792902348399,0.3333333333333333,0.123,0.005060663446784,0.0008388150017708,0.0005562115693464,False
+i'm really grateful about that,0.033932835,0.0020163674581133,0.4,0.0,0.0005711044650524,0.0003275830240454,0.0003817356191575,False
+"um, so i guess for him just the fact that he's like present, cause like he didn't know his dad",0.036508016,0.849612683158742,0.5,0.0,0.0016820671735331,0.0009167769458144,0.0033790299203246,False
+"um, so he just thinks the fact that he's around and paying for stuff he's like made it, but i think like as a father and a husband, it's way deeper than that",0.054534122,0.0336125617999816,0.5,0.0,0.0010989697184413,0.0013773108366876,0.0008164366008713,False
+"um, you actually have to be like, emotionally present and like more involved",0.026722329,0.0009638961264381,0.4166666666666667,0.0,0.0007016857271082,0.0005685731885023,0.0017973952926695,False
+"it's not just about like dropping us off places and picking us up, it's like actually talking to us about our days, and like my dad's like he's a gemini, so like he can be nice, but he can also be very mean and like, he yells a lot and so like my sister, and i don't like interacting with him a lot",0.15568043,0.923818856194876,0.4677083333333333,0.056,0.0022580318618565,0.0109804309904575,0.0143811060115695,False
+like we're more,0.021657806,0.0008822948774681,0.25,0.0,0.0031684706918895,0.0004415752191562,0.0005187839269638,False
+"we're closer with our mom, just cause, like our mom's a scorpio, she's nicer",0.12244874,0.0008009320543534,0.5,0.0,0.0964865237474441,0.0029767230153083,0.0410231575369834,False
+i'm also a scorpio,0.101391904,7.620686399426252e-05,0.5,0.0,0.0350280404090881,0.0039969510398805,0.0107958214357495,False
+"so we al, we're always on the same page",0.028439116,0.003791805589465,0.5,0.0,0.001173501368612,0.001218830468133,0.0003866083279717,False
+"um, and like she's more like a calm person",0.15334547,0.1652153486167485,0.3,0.0,0.0007494971505366,0.0009806181769818,0.0072955503128468,False
+my dad's has a temper that has nothing to do with success,0.13790205,0.0649330166402172,0.35,0.17,0.0432480908930301,0.0018664036178961,0.0191731061786413,False
+"but sorry, um, i don't know what success is for me",0.067320265,0.9159382558099612,0.55,0.377,0.0007000810001045,0.0007669674232602,0.0007282044389285,False
+i'll figure that out,0.10461388,0.0232860101722006,0.5,0.0,0.0006530355312861,0.0004060358915012,0.0003969691460952,False
+"i don't think i'm i mean, i don't know",0.022773718,0.954451869687872,0.65625,0.0,0.0008584117167629,0.0020930236205458,0.0006886976771056,False
+i don't know,0.017770508,0.9871422002796258,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+"mm, uh, i don't really know, because like i don't think my mom would consider where she is in life right now successful just because she's still struggling",0.052935857,0.7653991213053529,0.294047619047619,0.081,0.0036955871619284,0.0013399795861914,0.0006905621849,False
+like,0.022351967,0.0033588242362743,0.5,0.0,0.001461298437789,0.0012561561306938,0.0005801010993309,False
+"um, so with architecture, you can practice being an architect without being a registered architect",0.024662184,0.2410806079668569,0.5,0.0,0.0007403810741379,0.0011158973211422,0.0005017899675294,False
+"but if you're a registered architect, you can get higher paying jobs, and my mom's been trying to get registered for like ever",0.02809576,0.9750732026982176,0.375,0.0,0.007386200595647,0.0008930532494559,0.0007498643244616,False
+"but because she had my sister and i, it's been harder for her cause",0.045778666,0.1317807717177343,0.55,0.0,0.0012986992951482,0.0016677037347108,0.0017435363261029,False
+you have to take like a total of like ten tests,0.0224908,0.9888241158692436,0.5,0.0,0.0057762577198445,0.0006155798328109,0.0016969426069408,False
+"you have to actually pass those tests, but like she doesn't have time to study because she was taking care of us, or she was taking care of her parents and she's been taking care of her parents since she was twelve and she's like fifty two now, so she's just tired and so i don't think she's like very happy with where she's at right now",0.029640866,0.2335862276642658,0.3892857142857143,0.076,0.0021148235537111,0.0008144667954184,0.0006786255398765,False
+"mmhm, oh yeah, i mean i, my mom doesn't really care about like m material stuff",0.2022951,0.9997232173852504,0.528125,0.137,0.0330234467983245,0.0040188236162066,0.0057855979539453,False
+my dad's more into material,0.064523295,0.9800420273255104,0.25,0.0,0.0104334708303213,0.0007711459184065,0.0011471223551779,False
+things like he likes looking good,0.050585672,0.0099622369209112,0.15,0.0,0.000759373884648,0.00055163964862,0.0017561978893354,False
+he gets like two thousand dollar custom made suits,0.15743166,0.9739604096251564,0.5,0.0,0.0034110082779079,0.0008067786693572,0.0009131513070315,False
+"and um, that's like looking good is really important to him",0.027580723,0.0053650287923062,0.2249999999999999,0.0,0.0006195013993419,0.0004028900293633,0.0032213081140071,False
+but like my mom couldn't care less about how she looks,0.15159425,0.8624310234000672,0.5833333333333334,0.219,0.0430282801389694,0.0090437568724155,0.0066834138706326,False
+"um, yeah, no, he's very selfish",0.34388447,0.994333362500763,0.825,0.354,0.657669723033905,0.4935813248157501,0.8093497157096863,False
+"mmhm, no, i mean well, they just like my parents don't care",0.09924392,0.9997268533795436,0.421875,0.162,0.0583274364471435,0.0284608174115419,0.0146919917315244,False
+they don't care about p,0.12631269,0.99951772410123,0.5,0.396,0.049486119300127,0.009718351997435,0.0010343568865209,False
+like my dad doesn't care about christmas,0.09172598,0.9985732298787652,0.5,0.259,0.0439969450235366,0.0024879281409084,0.0037206057459115,False
+"like literally, he said to me, i don't give a shit about christmas, cause like presents and stuff, that just wasn't the concern when he was growing up, and like my mom, her family is kind of crazy, so like growing up, her main concern was taking care of everything, because her mother became bipolar when she was twelve, so she's had to take care of everything and like, because my m",0.5835036,0.2063620780339213,0.5041666666666667,0.03,0.5397753715515137,0.6273461580276489,0.7758803367614746,True
+my grandma became bipolar,0.13969667,0.9993874541745508,0.5,0.0,0.1568225771188736,0.2503710687160492,0.2212121784687042,False
+"my grandfather started drinking, so he was addicted to alcohol for awhile, and then we think that's what like made him become like it messed with him so much that he started getting dementia and now alzheimer's and then like her brother is no help",0.1019289,0.9999010830732902,0.55,0.089,0.0041241445578634,0.0484839156270027,0.0030846099834889,False
+"because like it's not his fault, he's schizophrenic, but like he's just no help because of that, so it's all been on her, so she doesn't really care about like presents and stuff she wants to make",0.3490159,0.9997567460211492,0.4,0.139,0.1201762482523918,0.1177630797028541,0.054456815123558,False
+"she likes to make sure that, like my sister and i, when we were little, we had like good christmases, just that we were like happy, but like my sister and i don't really care about l",0.13146462,0.0096253709906308,0.2987499999999999,0.072,0.0016639670357108,0.0037636486813426,0.0012965167406946,False
+i guess because of that we don't my sister and i don't care about like getting the most presents and stuff on christmas and like on our birthdays,0.052935857,0.9748622852259896,0.25,0.147,0.0047717788256704,0.0025111767463386,0.0030897064134478,False
+"mm, um, i guess like we go to dinner on people's birthdays, but i feel like everybody does that",0.035306264,0.0272266829050569,0.5,0.0,0.0008300905465148,0.0007114536711014,0.0009733805782161,False
+"um, okay, so yeah, we go to dinner for everyone's birthday",0.03616466,0.0198636454454939,0.25,0.0,0.001273107714951,0.0009534082491882,0.0023444157559424,False
+"um, yeah, i specifically like my birthday and my mom's birthday, cause we're three days, apa or two days apart",0.027752401,0.003780838000122,0.5,0.0,0.0013280229177325,0.0008580777212046,0.0033555685076862,False
+it's a fun time and we're both scorpios,0.05852979,0.0003030094588305,0.35,0.0,0.0178601779043674,0.0005346047109924,0.0043346639722585,False
+i like it two days after,0.048525527,0.0323129322660756,0.5,0.0,0.0008613535901531,0.0004835523723158,0.0002843804541043,False
+"yeah, so well, so my mom, we always go to cactus cantina",0.045778666,0.0155621151806695,0.5,0.0,0.0043266699649393,0.0013552552554756,0.0014844629913568,False
+"um, that's like our favorite restaurant",0.019297661,0.0010788471919156,0.25,0.0,0.0006657882477156,0.0004403545462992,0.0006601327913813,False
+it is so good and my brother used to work there like right when he got right when he got out of college and didn't have a job that was like his job,0.028267438,0.0103075371658223,0.288095238095238,0.0,0.0007007171516306,0.0006314323982223,0.0004572856705635,False
+it's so good,0.03599298,0.0041986197050386,0.15,0.0,0.0006091026007197,0.0003421761502977,0.0009816758101806,False
+"um, my, my mom and my sister make fun of me, cause like out of my sister and i, i guess i'm like they call me high maintenance, which i resent",0.22982138,0.9724914381275368,0.385,0.046,0.0113295521587133,0.1235072985291481,0.0134133668616414,False
+"i feel like that is incorrect, but like, i guess i'm like bougier like i'm i'm just like my dad, like we like really fancy restaurants, and like we either go big or we go home",0.05773066,0.0363068633743553,0.45,0.0,0.0010982601670548,0.0007263736333698,0.0044420659542083,False
+"like for our birthdays, you know the capitol grille",0.0495556,0.0116415298261207,0.5,0.0,0.0009087962098419,0.0005546252941712,0.0007589502492919,False
+"yeah, we like to go there and it's like, not very affordable, but it's our birthday, so we do it anyway",0.034962907,0.0083364408169805,0.55,0.0,0.0007853299030102,0.0004956469638273,0.0006293206242844,False
+"yeah, my sister just s",0.030670939,0.0261116843928342,0.5,0.0,0.00378411822021,0.0035647305194288,0.0254405811429023,False
+any like one year,0.020130653,0.1013852303765984,0.5,0.0,0.0011303480714559,0.0004241238348186,0.0002965539169963,False
+we went to um chipotle for my sister,0.21892473,0.0197460716956083,0.5,0.0,0.0018390826880931,0.0012371117481961,0.002515880158171,False
+"yeah, yeah, my dad",0.026894007,0.0006219636467329,0.5,0.0,0.0010284964228048,0.0009179661865346,0.0006735476199537,False
+he's so fake,0.5026305,0.9988664638775292,0.75,0.629,0.6469493508338928,0.6531208157539368,0.6228381991386414,False
+he's like,0.031701013,0.0038511438241981,0.5,0.0,0.0400553420186042,0.0012480351142585,0.010687232017517,False
+i wanna go with the house like whatever you all want to eat,0.082104236,0.0021414814256721,0.5,0.0,0.0101564228534698,0.0908096060156822,0.0349483750760555,False
+"but then when we would tell him like cause, there's sometimes where i like cause, like i resent that they call me high maintenance, cause, like sure, i'd love to go to the capitol grille all the time, but i also could eat at mcdonald's and like, get a fish fillet and be content with life, or like red lobster, but red lobster is like a big issue in our house just because like my mom, my sister and i love it, but like my dad, first of all, like he's allergic to shellfish, so he doesn't like going there, but they have options for him, but even that like he does not wanna eat there, so he'll be like, oh yeah, like i'll go wherever you guys wanna go",0.15859914,0.996245657073046,0.380625,0.044,0.0021486158948391,0.0036502021830528,0.0017920339014381,False
+"and then when we tell him he's like no, i don't really wanna do that",0.038911518,0.9996084451391644,0.4,0.0,0.002142064506188,0.0044043720699846,0.0005185134941712,False
+"so yeah, he'd rather like r, invest in like high quality things, and that applies to like material",0.028610796,0.9805001029999696,0.42,0.0,0.0006753892521373,0.0004295796970836,0.0003810077905654,False
+things,0.0224908,0.0036522966608935,0.5,0.0,0.0008836577762849,0.0004970632726326,0.0005979918641969,False
+"also like my mom will have like shoes like sh, worn out shoes that she probably shouldn't be wearing anymore, but she just wears them because they're there and like she doesn't care, but my dad is like",0.11472086,0.0005602113502151,0.5,0.105,0.0707694962620735,0.0051910891197621,0.0365901701152324,False
+"if like his dress shoes get like the smallest, like mark on them or like scuff, he takes them to his shoe guy and gets them shined and stuff, and he's like really into that",0.17242117,0.0053922689462721,0.4,0.0,0.0130194295197725,0.017383424565196,0.0147400284186005,False
+"um, and like he doesn't like shopping at like stores",0.029125832,0.0284112719637897,0.5,0.15,0.0045918775722384,0.0010200629476457,0.002926759654656,False
+"like, uh, uh, you know, like tj maxx and stuff, but my mom loves tj maxx, yeah, mmhm, um, it's just been weird for me, like trying to make friends because a lot of the uh, the m",0.16620636,0.0998859489921262,0.75,0.04,0.003182693850249,0.0011008777655661,0.0036899612750858,False
+"a lot of the black students here that i've encountered, they're in the georgetown scholarship program and so like, and and i'm not, but i still get some type of assistance from the school",0.27690583,0.2209815467925046,0.5833333333333334,0.0,0.0024485979229211,0.0645827054977417,0.0267074685543775,False
+"so like when i was a freshman, i noticed that it was like harder for me to like, become friends with people in the pro the scholarship program",0.05133759,0.8295911997970519,0.55,0.0,0.000640423153527,0.000445946236141,0.0006561598856933,False
+"um, just because i guess they made assumptions about me because i wasn't in the p program with them that like i had all this money when that's not necessarily true",0.064523295,0.9998657960467086,0.5875,0.069,0.0007636214722879,0.0005194251425564,0.0004495454777497,False
+"um, but in terms of being in school with like a bunch of rich people, i've been used to that since middle school, cause mission san josé high school was just a bunch of rich people",0.080905534,0.9872668075922422,0.38625,0.0,0.0009043421014212,0.0005620610318146,0.0006647583213634,False
+"um, yeah, i notice way more white people in like petworth, the petworth area, cause i went to to like kindergarten over there",0.27856,0.855133731870098,0.375,0.0,0.0423303321003913,0.0493460819125175,0.0767065286636352,False
+um,0.012811388,0.230066376565981,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+and it was,0.021796638,0.0140279640148625,0.5,0.0,0.0021468878258019,0.0003991432895418,0.0007547101704403,False
+"it's just way different now, and like the types of stores that they're building in petworth like, it's a complete like mismatch to how i remember petworth, um, when i was in kindergarten",0.03753809,0.997879708672216,0.475,0.0,0.0007017195457592,0.000383371283533,0.000422109500505,False
+"um, it's just like old black people",0.49688783,0.9637784036721396,0.5166666666666666,0.0,0.5601128935813904,0.6604291200637817,0.1558171659708023,False
+"there's like some young white families, but it's not a lot",0.2712817,0.9943753254512924,0.475,0.0,0.0129436636343598,0.0493721999228,0.0418234318494796,False
+"i think, like the people have the black families that live there",0.3063832,0.0044952512722403,0.5075757575757576,0.0,0.0520650371909141,0.2790627181529999,0.0394759662449359,False
+"they've just been passing down their houses and like saving them for their kids, which is why it's been able to stay mostly black",0.34388447,0.0418452873699148,0.4703703703703704,0.0,0.0363439507782459,0.2559916377067566,0.2803174257278442,False
+"um, cause like even the house we bought that was a family's house and the siblings just didn't want it anymore",0.01527153,0.9975551514767144,0.5,0.054,0.0008511003688909,0.0005184571491554,0.00036896916572,False
+"it cause it was their parents' house, but their parents had died, so they didn't feel like they needed it anymore",0.076110736,0.1753297310365612,0.5,0.285,0.0017498526722192,0.0012143857311457,0.0014767261454835,False
+"um, but yeah, my neighborhood's s mostly black people",0.31629145,0.9106095273541216,0.5833333333333334,0.0,0.1451999098062515,0.3662834167480469,0.2624061405658722,False
+"honestly, no, i mean just because the houses will probably s remain s with the family like even my brother has said, like, when our parents pass, we're keeping this house",0.029984225,0.9032041395020142,0.421875,0.0,0.0012432957300916,0.0005030127940699,0.0004789300728589,False
+i'm like okay,0.020685982,0.998467815847499,0.25,0.0,0.0006809046608395,0.0004177649097982,0.0004998360527679,False
+"yeah, sounds good",0.024490505,0.0027905660134434,0.15,0.0,0.0005770383868366,0.0003751014010049,0.0004058737540617,False
+"um, i don't really see my neighborhood changing too much",0.04543531,0.9903649727622305,0.4,0.0,0.0007076220936141,0.0005117386463098,0.0004964635591022,False
+"mmhm, so i went to a go go once",0.035134587,0.8956933376186407,0.5,0.0,0.0010785773629322,0.0010156555799767,0.0005220767925493,False
+i don't know if it was like an authentic go go because it was you know sidwell,0.033074442,0.245256815641499,0.25,0.0,0.0008280794718302,0.0009577646851539,0.0008995428215712,False
+it was the,0.01999182,0.0355950727866451,0.5,0.0,0.0021005903836339,0.0004181944823358,0.0013606015127152,False
+"yeah, all my all my black friends were like you have to go",0.3897107,0.0022798876346629,0.5833333333333334,0.0,0.5651193857192993,0.7114415764808655,0.2494074404239654,False
+"so i went and i was like i'm not having fun, but i don't like parties or crowds, so i just shouldn't have been there in the first place, but it was just like it was",0.0801064,0.0895931346228675,0.3625,0.171,0.0008736019954085,0.0006410756614059,0.0008672840776853,False
+so it was just really noisy to me and it was hot,0.38567963,0.9947428291039766,0.3875,0.153,0.0006733274785801,0.0031062932685017,0.0084532648324966,False
+i just did not,0.019158829,0.9996173861087374,0.5,0.0,0.0010477543110027,0.0003609459963627,0.0004500076756812,False
+i wasn't having fun,0.035477944,0.999924359397412,0.35,0.474,0.0043686246499419,0.0011740721529349,0.0007132843020372,False
+"um, but like i, it was fine like i'm glad i did it",0.038911518,0.0136568541711172,0.2708333333333333,0.0,0.0007328716455958,0.0004392910632304,0.0003749437164515,False
+"um, but yeah, i like",0.036508016,0.0402441385387737,0.5,0.0,0.000750319333747,0.0004243648436386,0.0004717199481092,False
+i like chuck brown,0.04165838,0.0104566427350688,0.5,0.0,0.0018308365251868,0.0007205732399597,0.0004868497780989,False
+that's about the only go go,0.030155903,0.0658747093588824,0.5,0.0,0.0067953942343592,0.0051005803979933,0.00131497066468,False
+i like,0.021796638,0.0263819400997955,0.5,0.0,0.0020028452854603,0.0004775806446559,0.0004349544178694,False
+and that's just because of my parents,0.020963646,0.0177211507099368,0.5,0.0,0.0012421073624864,0.0005249444511719,0.0005335318855941,False
+i,0.018187003,0.1366173296018097,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i feel that way too,0.02262963,0.86719545746292,0.5,0.0,0.0006221184739843,0.0002975729585159,0.0005396238993853,False
+"yeah, yeah, yeah, i feel like i'm really mature",0.09172598,0.0013364961317789,0.45,0.0,0.000734771718271,0.0005460627726279,0.0005359131027944,False
+i guess like i'm i'm really ready to graduate like i don't wanna be here anymore,0.06612156,0.999172364249855,0.4,0.0,0.0020811932627111,0.0059938947670161,0.0003740075335372,False
+i'm not really having fun here,0.0471521,0.999977111117893,0.45,0.368,0.0021703897509723,0.0087311845272779,0.0015542530454695,False
+"yeah, it's i've had like a really hard time making friends and like keeping friendships and it's really been really weird for me because in high school and middle school, i had like all the friends in the world, and i was really popular, but here i've just had a harder time making like meaningful connections, and like, i don't have a best friend here, which is why i go home so often, cause my best friend's at my house, my sister, um, i feel like",0.046122026,0.9949983620143742,0.3715833333333333,0.066,0.0007052546716295,0.000698413408827,0.0004878506006207,False
+"so, the first mistake i made was when i was a freshman",0.15743166,0.9995357252533036,0.375,0.179,0.0007621602271683,0.0007183332927525,0.0045378888025879,False
+"i applied to the living well community in vcw, so that i could have a bathroom in my room, but like that cut me off from like everyone else, cause i was like the only black girl on my floor, and like a lot of people",0.31682462,0.0010496698278756,0.5416666666666666,0.046,0.0162104200571775,0.1150169298052787,0.3305109441280365,False
+especially in my building,0.020963646,0.0016352139252143,0.5,0.0,0.0009450705256313,0.0004108722205273,0.0005918400711379,False
+you made friends with the people that were on your floor,0.28825936,0.0004406407837916,0.5,0.0,0.0018647547112777,0.0017114507500082,0.0033740971703082,False
+"and so i wasn't really connecting with the other people on my floor, except for like the one indian girl i lived with and we're still friends today",0.11407687,0.9966449905774102,0.48125,0.0,0.0008677821024321,0.0038920876104384,0.0165297202765941,False
+"but like so that was mistake, never one",0.05373499,0.9932242054219949,0.5,0.274,0.0012266383273527,0.0005196398706175,0.0003948830708395,False
+"and then, i guess, just like i've always struggled with",0.048525527,0.9766987007698296,0.5,0.186,0.0006315082428045,0.0003391939098946,0.0006597177125513,False
+"like well, not not even always, but like being like black enough, some people tell me that i'm not so like",0.30053464,0.0081449848551896,0.5416666666666666,0.119,0.0359642393887043,0.2724933922290802,0.1414717733860016,False
+i don't really wanna like encounter that cause if i try to become friends with someone and they tell and they reject me cause i'm black,0.35642847,0.999774776976455,0.4916666666666666,0.161,0.0354665070772171,0.3420001268386841,0.2767170071601867,False
+not black enough to them,0.42631236,0.9993004883438368,0.4791666666666667,0.0,0.3398880064487457,0.6119285225868225,0.6555327773094177,False
+i just don't wanna deal with that,0.10515087,0.9998634117881556,0.5,0.0,0.0044789030216634,0.0038369861431419,0.0011355327442288,False
+"so like that's also been what's stopping me in putting myself out there, but like even i'm in bsa, and like, i guess i'd i'd say i'm friends with the board members, but like none of them are like my best friends",0.1019289,0.9970226571321756,0.0,0.021,0.0012077717110514,0.0006393333896994,0.0005190057563595,False
+i don't know,0.017770508,0.9871422002796258,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+"like just i, i don't know",0.024662184,0.0910427340197454,0.5,0.0,0.0009579362813383,0.0019757195841521,0.0006041016313247,False
+like people tell me i talk white and stuff and that like i'm an oreo and i don't know,0.13082063,0.0055114520706808,0.5,0.0,0.011033060029149,0.0497747138142585,0.0300004612654447,False
+"like cause there's no one way of being black in my opinion, so i don't see like why people are saying that to me",0.30053464,0.9859102836886195,0.5833333333333334,0.155,0.0306372381746768,0.3446029722690582,0.1785763800144195,False
+i don't know,0.017770508,0.9871422002796258,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+"mmhm, mmhm, yeah, mmhm, i don't know",0.025520578,0.99877332877781,0.5,0.0,0.0012692598393186,0.0010854882420971,0.0008527580066584,False
+yeah,0.02124131,0.0197844284550767,0.5,0.0,0.0015659044729545,0.0005244363564997,0.0006040357402525,False
+"well, no cause i, well, i don't know",0.020408317,0.998807870723594,0.5,0.193,0.0009415626409463,0.0009510493837296,0.0004745603946503,False
+"yeah, i, j",0.02124131,0.0008938287282174,0.5,0.0,0.0016012067208066,0.0010431344853714,0.0005626415368169,False
+"yeah, i just think i'm like",0.022213135,0.001825745986816,0.5,0.0,0.0007222503772936,0.0005344997043721,0.0006987029337324,False
+"i just feel like i'm not like a partier and that's how like the black community connects here and i, j",0.355017,0.0139360508476516,0.5833333333333334,0.159,0.012377755716443,0.1572237461805343,0.0883937999606132,False
+i would rather not go to a party ever,0.084745035,0.9951591206472976,0.5,0.0,0.0118616130203008,0.0052779079414904,0.024310739710927,False
+"um, so like i don't",0.02397547,0.9892577230903042,0.5,0.0,0.0025336309336125,0.0010071510914713,0.0005331330467015,False
+"they don't see me out and stuff, so like sorry",0.05093802,0.9999165509506516,0.75,0.123,0.00187501788605,0.0063453493639826,0.0033694310113787,False
+"what was your question? oh like yeah, it's authentic with when i'm with bsa, just because like those are the people i know well and they know me well",0.080905534,0.0052277551061281,0.25,0.0,0.0007280174177139,0.0003987137461081,0.0005708081298507,False
+"but like people have already came in with like established friend friend groups, so it's kind of hard to like",0.04165838,0.9649322655987732,0.4229166666666666,0.059,0.0006140870391391,0.0004913843004032,0.0003761025727726,False
+enter those late into the game,0.040628307,0.0038503093337046,0.675,0.0,0.0026822213549166,0.0008238310692831,0.0137629844248294,False
+"um, yeah, no, so like one girl i know here, we went to elementary school together and like, i don't think she remembers who i am, but like i know her and then three other girls",0.065721996,0.1332157377277443,0.45625,0.0,0.0008908045710995,0.0028980358038097,0.0018086675554513,False
+we went to middle school together two of them,0.04783881,0.0034974986743522,0.5,0.0,0.001037931186147,0.0005499999970197,0.0004681660793721,False
+"i like we see each other, and we pretend like we don't know each other",0.03221605,0.001522885544145,0.5625,0.076,0.0009335098438896,0.0008167190244421,0.0007225512526929,False
+"um, cause, like just mission san josé high school culture",0.020269485,0.0498332389961699,0.42,0.0,0.0007753802929073,0.0004469211853574,0.0004046128306072,False
+"i'd rather not hang out with them, but one of them, we were best friends in middle school and like i hang out with her, but um, she's like in blue and gray, a group that gives tours and then she's also in gr",0.10461388,0.0239717229319895,0.3333333333333333,0.0,0.0017231239471584,0.0010412570554763,0.0008990921778604,False
+"the grace notes, which is one of the a capella groups, so she's always with them",0.044748597,0.0002879290234839,0.5,0.0,0.000642416649498,0.0003809198969975,0.0004429869586601,False
+"yeah, well, also all of the people i've been talking about are white",0.22775516,0.1215314402638325,0.5,0.0,0.0537330135703086,0.1236255541443824,0.1298366636037826,False
+"yeah, um, yeah, plus i like, cause, um, all, like my mom, my dad, my brother and my sister in law all went to howard, so i feel like this pressure to have black friends",0.3983115,0.0058988046758171,0.5833333333333334,0.055,0.0298472121357917,0.1701744347810745,0.0721511393785476,False
+"so, and like, i don't actively seek out white friends, but like that's also cause, like, i feel like i can't really connect to them as well as i can to like black girls on campus",0.46292964,0.998954085379345,0.5125,0.03,0.0450593046844005,0.3889537453651428,0.5028697848320007,False
+"no, yeah, that's all i do",0.024318827,0.9960952699648274,0.5,0.0,0.0012067293282598,0.0004416409065015,0.000861162377987,False
+it is a lot,0.043718524,0.0511859778893398,0.5,0.0,0.0010286904871463,0.0003867731138598,0.0006123217171989,False
+i'm tired,0.073313765,0.9999738923688468,0.7,0.744,0.0030947413761168,0.000994071480818,0.001020883442834,False
+"yeah, i can't wait",0.031014297,0.000892278960158,0.5,0.0,0.0012869567144662,0.0009750233730301,0.0004920493811368,False
+"yeah, they're fine",0.026722329,0.0013909764397106,0.2916666666666666,0.0,0.0007760138250887,0.0003806781314779,0.0006523292395286,False
+"yeah, yeah, yeah",0.021380141,0.0030459797109134,0.5,0.0,0.000976400100626,0.0004813715931959,0.0004511759907472,False
+okay,0.017145762,0.7800580793462172,0.25,0.0,0.0009591358248144,0.00058264285326,0.0005273594870232,False
+"i've never had it, but i don't like sauces, but my sister's had it and she said it was great",0.034791227,0.0009923284096804,0.0999999999999999,0.101,0.0006880189757794,0.0005427927826531,0.0005962080322206,False
+"yeah, i mean like i, i wanna try it because she said it was good, so like i trust her, so one day i'll try it",0.06612156,0.0042204058675649,0.403125,0.0,0.0006178430630825,0.0007319813594222,0.0002504304284229,False

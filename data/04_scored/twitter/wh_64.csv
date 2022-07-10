@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+outta all the bad things i am a hypocrite will never be one #icanadmitmymistakes,0.31540272,0.0,0.0,0.212,0.3434265255928039,0.9239587783813475,0.7901055812835693,False

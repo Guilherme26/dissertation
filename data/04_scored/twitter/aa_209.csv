@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user thanks man . so @user whats the move in atl ?,0.029812546,0.0,0.0,0.0,0.0006653315504081,0.0012807539897039,0.000785621756222,False

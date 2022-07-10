@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+just the thought of alcohol right meow <<<<<,0.0669207,0.0,0.0,0.0,0.0225091949105262,0.0048556961119174,0.0015749196754768,False

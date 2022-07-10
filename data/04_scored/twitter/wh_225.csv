@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user i'm 100% sure that i'm still drunk now . i literally don't even remember leaving there !,0.1580154,0.0,0.0,0.128,0.0112272491678595,0.0022560313809663,0.000809809542261,False

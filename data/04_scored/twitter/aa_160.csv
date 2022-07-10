@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user and u still lil smh,0.2008281,0.0,0.0,0.315,0.3789208829402923,0.0335414707660675,0.010121650993824,False

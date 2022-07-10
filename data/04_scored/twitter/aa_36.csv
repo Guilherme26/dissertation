@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+this semester ima be like kobe when he scored 80 taking all the shots,0.09494796,0.0,0.0,0.0,0.0051248422823846,0.0346240736544132,0.0027960473671555,False

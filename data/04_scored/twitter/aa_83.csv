@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user hell no !! leave it up & let us real siri fans enjoy it .,0.3093897,0.0,0.0,0.311,0.3859782814979553,0.4276849031448364,0.0173336155712604,True

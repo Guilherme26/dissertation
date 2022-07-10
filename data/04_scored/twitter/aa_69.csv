@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+say my ma fuckin name when we fuck and ' ll beat it harder,0.9390311,0.0,0.0,0.212,0.9953356385231018,0.995637595653534,0.991336464881897,True

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+philosophy is the worst thing to ever happen to the world,0.39284727,0.0,,0.291,0.4271901249885559,0.2870201766490936,0.3872133195400238,False

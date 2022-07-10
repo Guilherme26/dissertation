@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user i know dats rite,0.043718524,0.0,0.0,0.0,0.0012143278727307,0.0662209764122963,0.0006361402920447,False

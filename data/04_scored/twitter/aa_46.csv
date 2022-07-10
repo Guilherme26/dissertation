@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+got tired of not having shit i strapped on my own nuts .,0.81344116,0.0,0.0,0.287,0.9804410934448242,0.9587676525115968,0.9670413732528688,True

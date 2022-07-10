@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i stayed asleep because i was dreaming of you,0.15451296,0.0,0.0,0.0,0.0010712087387219,0.0029390989802777,0.0052500134333968,False

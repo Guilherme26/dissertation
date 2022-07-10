@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user ok :))) i get out if class at 1:45 so that whole day i'm yours ,0.059728492,0.0,0.0,0.0,0.0024508493952453,0.0017988117178902,0.0010894098086282,False

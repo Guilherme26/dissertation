@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user lol why i posted what ???,0.1024659,0.0,0.0,0.0,0.0015364716527983,0.0016165383858606,0.0008210376254282,False

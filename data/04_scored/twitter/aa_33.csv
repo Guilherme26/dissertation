@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+if u wit me den u pose to respect me,0.13835071,0.0,0.0,0.0,0.0132599733769893,0.0992331281304359,0.2934489846229553,False

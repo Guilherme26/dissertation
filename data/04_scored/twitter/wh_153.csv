@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user do you have a phone ipod ipad,0.040284947,0.0,0.0,0.0,0.0015546875074505,0.004066911060363,0.000985296908766,False

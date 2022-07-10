@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i just want to hit n run like i ain't got insurance ...,0.24769363,0.0,0.0,0.0,0.1676989197731018,0.3146151602268219,0.4102301299571991,False

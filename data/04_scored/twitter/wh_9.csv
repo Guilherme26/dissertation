@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i wish i could text/call anyone but tmobile is fucking queer,0.8546526,0.0,0.0,0.0,0.9963628649711608,0.977886438369751,0.9934285283088684,True

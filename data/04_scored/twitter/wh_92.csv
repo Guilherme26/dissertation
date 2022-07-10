@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user you just can't go wrong with chili's . they serve a mean chips and salsa,0.2712817,0.0,0.0,0.0,0.0010551356244832,0.0010492576984688,0.0130574069917202,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+nelly look soo good <3,0.055333257,0.0,0.0,0.0,0.0009774477221071,0.0065060635097324,0.0008279153844341,False

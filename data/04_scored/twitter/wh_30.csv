@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"#nameanamazingband the pretty reckless , squid the whale , brand new , @user , and bayside . and so so so many more . :)",0.1731117,0.0,0.0,0.087,0.0028076434973627,0.0005418447544798,0.0003729459713213,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user i kno that clown , u don't be around tho",0.39421332,0.0,0.0,0.0,0.2020468413829803,0.9802790880203248,0.8631355166435242,False

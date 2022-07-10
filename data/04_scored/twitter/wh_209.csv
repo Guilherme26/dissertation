@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+my kid is gonna be a dog a football #alreadydecided,0.22983712,0.0,0.0,0.0,0.19215127825737,0.1269074082374572,0.1799876540899276,False

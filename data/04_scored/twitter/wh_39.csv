@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+if its one thing that can put me in my feelings it's the end to friday night lights,0.043031808,0.0,0.0,0.0,0.0015711316373199,0.0011782449437305,0.0007110199076123,False

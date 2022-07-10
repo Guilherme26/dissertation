@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user i feel you . as long as you atleast dropping some hints . just don't expect a dude to know lol,0.1530536,0.0,0.0,0.0,0.0233915522694587,0.0086184116080403,0.001714380341582,False

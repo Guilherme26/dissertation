@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+mixed huh !? those black ass knees and elbows will give you away every time lol,0.7816909,0.0,0.0,0.184,0.9488719701766968,0.9783053994178772,0.9824009537696838,True

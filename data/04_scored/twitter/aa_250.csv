@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"shidd ion care if i go , u go den u go",,0.0,0.0,0.0,0.2986059784889221,0.1501376181840896,0.112843707203865,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+lemme getchoo ass alone .. lemme make you say my name ,0.7545523,0.0,0.0,0.379,0.978303849697113,0.9652501940727234,0.9362088441848756,True

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+jax keeps curling up on my bed and tossing and turning repeatedly . like he cant get comfy . #soocute #puppylove,0.2224569,0.0,0.0,0.0,0.0463525988161563,0.0217962134629488,0.0021748843137174,False

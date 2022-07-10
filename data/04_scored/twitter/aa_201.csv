@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"my mama raised a hustler , my mama was a hustler",0.40016344,0.0,0.0,0.0,0.0193901360034942,0.5528596043586731,0.7082390189170837,False

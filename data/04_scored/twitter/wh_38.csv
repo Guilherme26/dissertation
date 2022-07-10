@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+whenever my sister comes home ... she's super clingy to mee ,0.15859914,0.0,0.0,0.0,0.0122264204546809,0.0094715254381299,0.0084280464798212,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user on an insanity scale of 1-10 club swimmers are about a 17.5 so ...,0.15334547,0.0,0.0,0.209,0.0040408973582088,0.004073086194694,0.0210668575018644,False

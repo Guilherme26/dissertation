@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user whoa ... chill ... just get outta hollywoid,0.21036349,0.0,0.0,0.0,0.0097205452620983,0.0128478687256574,0.036163106560707,False

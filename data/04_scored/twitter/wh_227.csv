@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user can we get a case and play cod tonight ?,0.04783881,0.0,0.0,0.0,0.0021840627305209,0.0025480531621724,0.0008445305284112,False

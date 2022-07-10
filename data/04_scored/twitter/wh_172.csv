@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+and while you were gone who was he calling ? me .,0.023632111,0.0,0.0,0.0,0.0102434623986482,0.0061143958009779,0.0025296814274042,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i always make the dumb mistake of taking my contacts out n not knowing where my glasses are so it takes me an extra 15 minutes to find them ,0.40016344,0.0,0.0,0.174,0.0259009040892124,0.5404894351959229,0.7153752446174622,False

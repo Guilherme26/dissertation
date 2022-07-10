@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i've never had to wait in line for gas ... but ya know since there is only like three pumps ... ,0.039254878,0.0,0.0,0.0,0.0020588797051459,0.0005266010412015,0.0010464480146765,False

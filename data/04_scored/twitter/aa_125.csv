@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"oh y'all ain't know about jb smoove , cuz is jokes ....",0.19862764,0.0,0.0,0.0,0.0102568911388516,0.0881612747907638,0.0253390129655599,False

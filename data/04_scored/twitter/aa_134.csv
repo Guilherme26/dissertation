@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+woke up feelin like shit this mornin,0.7212062,0.0,0.0,0.324,0.9727120995521544,0.9835705757141112,0.98241925239563,True

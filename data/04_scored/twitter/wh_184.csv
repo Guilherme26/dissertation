@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+irritated . just pull your head out of your ass & see the good thing in front of you,0.83020335,0.0,0.0,0.256,0.9938546419143676,0.9894794821739196,0.987357497215271,True

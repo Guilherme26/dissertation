@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+alice in chains unplugged was the perfect choice for the ride to work this morning ,0.044405237,0.0,0.0,0.0,0.0010525474790483,0.0005007187719456,0.0004632100753951,False

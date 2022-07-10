@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user thank you for this . i'm sure ill be head deep diving into this . :) #sun,0.03599298,0.0,0.0,0.112,0.0007630115724168,0.0599141083657741,0.0005535553209483,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i wish #cameronpost would have been my teenage best friend . it's been a whole since i've felt such a kindred spirit with a book character .,0.03839648,0.0,0.0,0.0,0.0006881475565023,0.0004660266567952,0.0006974007701501,False

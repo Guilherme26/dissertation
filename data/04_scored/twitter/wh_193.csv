@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user time for you to go to sleep,0.16413476,0.0,0.0,0.0,0.0463035330176353,0.0139997480437159,0.0033283890224993,False

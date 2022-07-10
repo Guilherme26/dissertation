@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"they tell me that you're lonely , it's no surprise , when you walk around all day wearing those lonely eyes .",0.084745035,0.0,0.0,0.264,0.149498164653778,0.006122444756329,0.0110019845888018,False

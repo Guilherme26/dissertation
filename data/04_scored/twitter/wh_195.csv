@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"give a little , get a little",0.10461388,0.0,0.0,0.0,0.5162910223007202,0.0006999219185672,0.0011059764074161,False

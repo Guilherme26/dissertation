@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user amen . honestly have trouble watching that movie . just because of her .,0.16035037,0.0,0.0,0.144,0.0022080095950514,0.0005185159388929,0.0012871025828644,False

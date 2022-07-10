@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+the fact that my new professor is on time and prepared is amazing . #winningforonce,0.015202113,0.0,0.0,0.0,0.0006890866789035,0.0004438031464815,0.000474293337902,False

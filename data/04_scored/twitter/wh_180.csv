@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+my kids are the shit .,0.8635976,0.0,0.0,0.0,0.983523428440094,0.992472529411316,0.991296887397766,True

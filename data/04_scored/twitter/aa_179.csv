@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user lol u so silly,0.5026305,0.0,0.0,0.0,0.9103231430053712,0.9870852828025818,0.9546368718147278,False

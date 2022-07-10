@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i just want to make out in the pouring rain . #random,0.11729682,0.0,0.0,0.0,0.0006978791207075,0.0018109522061422,0.0008796397014521,False

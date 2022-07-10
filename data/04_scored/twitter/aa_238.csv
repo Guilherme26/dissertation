@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+don't play wit my feelings your liable to get your ass whooped or shot if u a nigga,0.9254919,0.0,0.0,0.257,0.9970375299453736,0.9968830943107604,0.9988883137702942,True

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+ohhhh hell naw dis bitch shay got my last name * johnson *,0.8129004,0.0,0.0,0.433,0.9910407662391664,0.9792124032974244,0.986203908920288,True

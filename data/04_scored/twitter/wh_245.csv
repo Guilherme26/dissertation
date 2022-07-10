@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+in the prime of my life and not a damn thing to do .,0.5535644,0.0,0.0,0.0,0.4990344941616058,0.6620864868164062,0.7771767377853394,True

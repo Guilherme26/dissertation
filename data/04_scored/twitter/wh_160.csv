@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user ohhhh now it all makes sense hahahah,0.06332459,0.0,0.0,0.0,0.0021802035626024,0.0006702505052089,0.000723453820683,False

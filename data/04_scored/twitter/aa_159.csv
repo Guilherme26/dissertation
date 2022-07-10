@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user you gone makee come looking for yo lil ass,0.5958905,0.0,0.0,0.28,0.9933452606201172,0.9791685938835144,0.9736571311950684,True

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+freee my cousins && my bros,0.21036349,0.0,0.0,0.0,0.0039941896684467,0.2592869997024536,0.4469451010227203,False

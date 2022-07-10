@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"tuh , who mad me or ol boy ?",0.22157386,0.0,0.0,0.286,0.0734110921621322,0.0563081242144107,0.0501588210463523,False

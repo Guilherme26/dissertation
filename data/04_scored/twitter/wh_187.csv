@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"i get so jealous sometimes , i don't know what gets into me .",0.10956893,0.0,0.0,0.229,0.0087679661810398,0.0043989620171487,0.0012028591008856,False

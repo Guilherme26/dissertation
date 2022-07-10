@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+tomorrow is going to be a hell of a day !,0.3411882,0.0,0.0,0.328,0.2974932491779327,0.0769126191735267,0.015428434126079,True

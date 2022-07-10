@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+nothing like an ice cream sundae and some tots !,0.048868883,0.0,0.0,0.211,0.0367337465286254,0.019337460398674,0.0052871014922857,False

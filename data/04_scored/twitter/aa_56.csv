@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+big difference between avoiding and distant . i promise .,0.024318827,0.0,0.0,0.189,0.0006682678358629,0.0004759311850648,0.0006494771805591,False

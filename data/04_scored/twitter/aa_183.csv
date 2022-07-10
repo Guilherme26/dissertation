@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+unless i was jus dat hungry,0.0051367874,0.0,0.0,0.0,0.0910067334771156,0.0326611325144767,0.0358451902866363,False

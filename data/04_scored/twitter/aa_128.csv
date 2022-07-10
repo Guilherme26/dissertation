@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i'll cut my beard next cut ....,0.3905958,0.0,0.0,0.457,0.1837266832590103,0.0749633312225341,0.6764228343963623,False

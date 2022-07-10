@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+you don't have to keep on smiling that smile that's driving me wild,0.13206954,0.0,0.0,0.0,0.0060925879515707,0.0013470202684402,0.0099603896960616,False

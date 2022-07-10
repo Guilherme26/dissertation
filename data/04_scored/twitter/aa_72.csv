@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"he talk shit too these hoes online , but he know who he got at home ",0.8831064,0.0,0.0,0.133,0.9614614844322203,0.9644432663917542,0.9721654653549194,True

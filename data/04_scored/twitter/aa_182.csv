@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+finna be a long boring ass night,0.8393344,0.0,0.0,0.537,0.9806721806526184,0.9341952204704284,0.9643855094909668,True

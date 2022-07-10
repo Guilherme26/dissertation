@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+shout out to the blue collar workers . gotta love it,0.05253629,0.0,0.0,0.0,0.0096829198300838,0.0141759645193815,0.0031131713185459,False

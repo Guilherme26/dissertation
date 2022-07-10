@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+32 days until i'm 21,0.022351967,0.0,0.0,0.0,0.0013776887208223,0.0005808817804791,0.000429168168921,False

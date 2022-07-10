@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i'm still alive but i'm barely breathing,0.07011723,0.0,0.0,0.0,0.0019976431503891,0.0139166302978992,0.0007211922202259,False

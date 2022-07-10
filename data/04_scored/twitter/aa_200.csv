@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+""" @user i'm cool with tht .. lmbo .. need to be playiin me in ruzzle",0.0681194,0.0,0.0,0.0,0.0891280472278595,0.1115066409111023,0.0278861429542303,False

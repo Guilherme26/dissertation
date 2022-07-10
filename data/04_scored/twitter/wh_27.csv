@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+on other news i think that was the best day booze all summer,0.053335425,0.0,0.0,0.0,0.1812583059072494,0.0005499992403201,0.0005809681606478,False

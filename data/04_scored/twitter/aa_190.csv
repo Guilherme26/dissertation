@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+dhat nigga claim he in love llh,0.44129625,0.0,0.0,0.0,0.9118658900260924,0.8022686243057251,0.8928639888763428,True

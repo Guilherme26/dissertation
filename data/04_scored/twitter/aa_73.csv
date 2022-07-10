@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"i think maybe i was numb to last year , but you know i feel it now more than ever",0.082104236,0.0,0.0,0.082,0.0008207474602386,0.0003917223657481,0.0019589588046073,False

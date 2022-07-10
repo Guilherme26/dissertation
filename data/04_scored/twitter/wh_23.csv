@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+""" the lord longs to be gracious to you . he will rise up in the morning to show compassion . "" isaiah 30:18",0.012564304,0.0,0.0,0.0,0.0006507104262709,0.0006553589482791,0.0003265082777943,False

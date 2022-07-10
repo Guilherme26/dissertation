@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user bestfrienddd i went tooo sleep on u,0.20816301,0.0,0.0,0.0,0.0415799655020237,0.1039926335215568,0.0323528386652469,False

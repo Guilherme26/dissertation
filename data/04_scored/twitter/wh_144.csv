@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user that ruined my day !!!,0.40636617,0.0,0.0,0.443,0.1029044538736343,0.0340134762227535,0.0021753273904323,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user just got out the shower . ..,0.15568043,0.0,0.0,0.0,0.1132193356752395,0.0057216542772948,0.0006948055815882,False

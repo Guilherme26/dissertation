@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user nall empty pockets ain't gone get u nun but hard times,0.2712817,0.0,0.0,0.206,0.2849161624908447,0.074653759598732,0.0303250718861818,False

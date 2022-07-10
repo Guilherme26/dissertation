@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+#itunesradio on the #appletv is awesome ! such a great addition .,0.007149853,0.0,0.0,0.0,0.0009901007870212,0.0003694029292091,0.0004166936269029,False

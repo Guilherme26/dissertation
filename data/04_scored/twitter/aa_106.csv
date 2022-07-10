@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i was always told when u want something done u must do it urself,0.05773066,0.0,0.0,0.0,0.0009727659053169,0.1288245469331741,0.0008381666848435,False

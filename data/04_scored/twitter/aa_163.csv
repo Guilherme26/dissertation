@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user lol ikr but i'm jp fool,0.13835071,0.0,0.0,0.322,0.3270353376865387,0.7791317105293274,0.8120278120040894,False

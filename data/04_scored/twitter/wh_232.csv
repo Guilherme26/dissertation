@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+my dad hates every pair of shoes i bring in the house .. don't make me no never mind tho .,0.20669603,0.0,0.0,0.122,0.1484563201665878,0.0164905339479446,0.0637490525841713,False

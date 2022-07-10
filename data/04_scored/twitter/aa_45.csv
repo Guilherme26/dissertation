@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user @user @user why are we so angry we just were loving eachother !!!!,0.13476147,0.0,0.0,0.254,0.2018718123435974,0.0015845500165596,0.0015295991906896,False

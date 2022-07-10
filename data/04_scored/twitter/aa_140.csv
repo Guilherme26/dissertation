@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user ctfu i know ! not a good one tho ! lol,0.35227737,0.0,0.0,0.152,0.1840809285640716,0.0860848426818847,0.0008117073448374,False

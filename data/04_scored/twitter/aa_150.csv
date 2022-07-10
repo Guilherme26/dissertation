@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+mm dis is unusual my phone dry af right,0.17173064,0.0,0.0,0.0,0.0041634039953351,0.0172665975987911,0.0048693413846194,False

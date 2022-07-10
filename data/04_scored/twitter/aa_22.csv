@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"nigga be jamming when i'm not on the phone with o ,",0.6556601,0.0,0.0,0.0,0.9248074293136596,0.7974918484687805,0.9770526885986328,True

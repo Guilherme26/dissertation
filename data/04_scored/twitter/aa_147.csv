@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user what yo number ?,0.007670473,0.0,0.0,0.0,0.0012335982173681,0.0019742881413549,0.0006657831836491,False

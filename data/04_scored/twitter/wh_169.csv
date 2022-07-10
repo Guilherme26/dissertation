@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i don't feel good at all ,0.07690986,0.0,0.0,0.325,0.0008514483342878,0.0060135517269372,0.0009498476283624,False

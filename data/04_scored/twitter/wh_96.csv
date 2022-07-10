@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user it's probably dead because he hasn't texted me back either,0.24418297,0.0,0.0,0.301,0.0015845244051888,0.062668964266777,0.003803473431617,False

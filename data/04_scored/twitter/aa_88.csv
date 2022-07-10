@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user yes , my amazon . lol im good . pop-a-lock came by . thx !",0.10031791,0.0,0.0,0.0,0.0160622578114271,0.0052264807745814,0.0008180388831533,False

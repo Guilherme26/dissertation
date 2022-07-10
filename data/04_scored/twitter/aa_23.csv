@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user 5:30 news is coming up with me , @user , & @user . see you in 30 seconds .",0.02655065,0.0,0.0,0.0,0.0007502503576688,0.0009485756745561,0.0004726079641841,False

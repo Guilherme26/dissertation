@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+ion trust no nigga . not even da ones who round me !,0.81344116,0.0,0.0,0.131,0.9019998908042908,0.8988470435142517,0.6472446322441101,True

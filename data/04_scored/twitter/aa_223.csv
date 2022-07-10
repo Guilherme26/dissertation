@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+. my bestfrienddd madd at me fuck him tho ! ! lol,0.8129004,0.0,0.0,0.242,0.9943439960479736,0.9945726990699768,0.9913139939308168,True

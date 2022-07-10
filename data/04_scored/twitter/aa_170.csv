@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user ain nun to do,0.0142302895,0.0,0.0,0.0,0.1120565831661224,0.0123928738757967,0.0004916016478091,False

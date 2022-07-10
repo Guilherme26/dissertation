@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"so fill up your cup and , lift your lighter , and toast to life .",0.16151784,0.0,0.0,0.0,0.0145619679242372,0.0019221149850636,0.1096256002783775,False

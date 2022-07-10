@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+ugh ma hair all messed up now cus of this fuqn rain,0.6777893,0.0,0.0,0.342,0.9445632100105286,0.9857256412506104,0.987022340297699,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user oh shit ! didnt do my homework ! thought it was day 3 !,0.62792164,0.0,0.0,0.242,0.9645251035690308,0.9652493000030518,0.9252456426620485,True

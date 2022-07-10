@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i hear it's fun but i know fun . i'll be the judge of this,0.04680874,0.0,0.0,0.0,0.0007614324567839,0.0005415412015281,0.0005407664575614,False

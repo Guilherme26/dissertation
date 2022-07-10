@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"just another day to be thankful for being here , never know what could happen out there . always praise",0.017909339,0.0,0.0,0.0,0.0006878347485326,0.0009594767470844,0.0005175689002498,False

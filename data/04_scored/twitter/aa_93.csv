@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+", 4 bitches  trying to leave with me  ' there's no room && i don't even know y'all .",0.7593913,0.0,0.0,0.313,0.911800742149353,0.9892207980155944,0.946168065071106,True

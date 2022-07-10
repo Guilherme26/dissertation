@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i need to take boxing to break a couple jaws & knock some niggas out ,0.81344116,0.0,0.0,0.146,0.9875621795654296,0.9577455520629884,0.9713621735572816,False

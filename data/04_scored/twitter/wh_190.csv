@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+we're happy free and lonely at the same time .,0.03204437,0.0,0.0,0.152,0.0006329477182589,0.0005147394258528,0.0005093492218293,False

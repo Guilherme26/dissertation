@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user miss you too girl , prolly cumin ova tumara",0.5174561,0.0,0.0,0.151,0.6667006015777588,0.0154873449355363,0.598709762096405,False

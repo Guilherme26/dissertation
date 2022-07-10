@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+you changed into someone i would have never thought you could be #suchawaste,0.39284727,0.0,0.0,0.0,0.3527824878692627,0.0125065017491579,0.0265798605978488,False

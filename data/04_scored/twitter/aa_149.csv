@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+ohhh shit lil reese bout to kill another mog .,0.8635976,0.0,0.0,0.509,0.994658887386322,0.9859521389007568,0.9803748726844788,True

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"annd now , i miss everything about you",0.055732824,0.0,0.0,0.186,0.0045235357247292,0.0416159145534038,0.0245489943772554,False

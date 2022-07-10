@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i could eat special k vanilla almond every day of my life,0.055732824,0.0,0.0,0.0,0.0012116382131353,0.0013168543810024,0.0054420847445726,False

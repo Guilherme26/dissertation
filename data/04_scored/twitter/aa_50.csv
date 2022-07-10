@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+about to try to get this do did !! its a must !!,0.08367105,0.0,0.0,0.0,0.0190224573016166,0.0022386144846677,0.0009768677409738,False

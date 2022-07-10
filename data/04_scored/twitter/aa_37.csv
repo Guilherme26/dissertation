@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"this weekend , if he's in town , is a must that i see him !",0.06851897,0.0,0.0,0.0,0.0010246768360957,0.0198778193444013,0.0037243934348225,False

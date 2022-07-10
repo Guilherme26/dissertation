@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+all my niggas off the porch and neva ina house,0.7663013,0.0,0.0,0.211,0.9714590311050416,0.9343243837356568,0.9703444242477416,False

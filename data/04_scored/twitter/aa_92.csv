@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+""" @user : i'm the nicest person until you fuck with me or the people i love """,0.7663013,0.0,0.0,0.135,0.9907506108283995,0.981779158115387,0.9515439867973328,True

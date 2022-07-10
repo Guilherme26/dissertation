@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user i mean yeah they do exist . but you know what shouldn't exist ?,0.040284947,0.0,0.0,0.0,0.0012872981606051,0.000944283499848,0.0004903632798232,False

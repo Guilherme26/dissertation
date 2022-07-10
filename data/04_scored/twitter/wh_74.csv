@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+it feels like a lightning bolt just hit the tip of my penis,0.867151,0.0,0.0,0.0,0.9693049192428588,0.9477308988571168,0.9838624596595764,True

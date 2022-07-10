@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"domino's pizza : "" now using real cheese ! "" wtf were they using before ? lol",0.37360558,0.0,0.0,0.187,0.2078586220741272,0.5044180154800415,0.3472606837749481,False

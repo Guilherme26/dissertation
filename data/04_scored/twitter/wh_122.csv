@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"the "" l "" word can ruin a relationship if used too soon #love #fact",0.10461388,0.0,0.0,0.16,0.0030330661684274,0.0008246761863119,0.0003353640204295,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+pissed im not watching the indians game right now,0.46457416,0.0,0.0,0.344,0.3633747696876526,0.1431902945041656,0.214753657579422,True

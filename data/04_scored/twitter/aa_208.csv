@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+what's the move tonight atl ?!,0.020685982,0.0,0.0,0.0,0.0010976148769259,0.0004715713730547,0.0003924654738511,False

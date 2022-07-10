@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user brantley says no cuz apparently we have too many friends for my house .. lol,0.0741129,0.0,0.0,0.104,0.0028080611955374,0.0011767116375267,0.0003822862636297,False

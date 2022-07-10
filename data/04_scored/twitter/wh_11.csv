@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"about time @user gave @user a push , too bad they can't find anything better then 3mb to do with @user #wwe #raw20",0.1024659,0.0,0.0,0.22,0.0088799204677343,0.0008608669741079,0.0005423806142061,False

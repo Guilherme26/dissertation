@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+""" i'm judging you while people are oding in my living room ... but i'm still judging you . "" -stupidbitch .",0.5958905,0.0,0.0,0.0,0.9380075335502625,0.9944688081741332,0.9847400784492492,False

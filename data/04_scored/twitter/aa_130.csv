@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"i'm dyin , me and this nigga @user was in tha whip doin the funniest version of 125 by dom kennedy lol",0.54375964,0.0,0.0,0.0,0.738396942615509,0.8994020819664001,0.8065341711044312,True

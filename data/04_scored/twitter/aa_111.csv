@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user awww u do too,0.019436494,0.0,0.0,0.0,0.0048749735578894,0.0038991763722151,0.0033829133026301,False

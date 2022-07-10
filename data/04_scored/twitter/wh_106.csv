@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+thank you i tke did thank you so do you you won to,0.023803791,0.0,0.0,0.0,0.0027850565966218,0.0018283068202435,0.0049588656984269,False

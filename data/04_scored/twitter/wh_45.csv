@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+""" are you okay ? are you cold ? do you need a jacket ? you sure ? "" haha (:",0.15918289,0.0,0.0,0.0,0.0070065683685243,0.0165342558175325,0.0095629934221506,False

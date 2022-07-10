@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user hahaha her name is gabby , it's my dads best friends daughter",0.040971663,0.0,0.0,0.0,0.0021494892425835,0.0026549957692623,0.0237192828208208,False

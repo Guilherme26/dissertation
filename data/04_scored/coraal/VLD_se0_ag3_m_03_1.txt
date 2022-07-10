@@ -1,0 +1,495 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"text, uh, growing up in atlanta, and uh, me as a kid, we did a lot of things that kids normally do socialize hang out play ball",0.045778666,0.9452871996315744,0.425,0.0,0.0012977578444406,0.000821900262963,0.0027352194301784,False
+"of course, my mom had enrolled me into a lot of um sports, but mainly just baseball",0.078108564,0.0421131065173439,0.4166666666666667,0.0,0.0016564603429287,0.0013368382351472,0.0017435994232073,False
+then i played football for one time didn't like the sport,0.0358213,0.9977762668806416,0.5,0.156,0.0008561889990232,0.0005277663003653,0.0005127999465912,False
+"i said, uh, let me get out of this",0.10031791,0.9992362223225226,0.5,0.0,0.0025220348034054,0.003492813790217,0.0013562364038079,False
+this ain't for me,0.038224805,0.999806946809092,0.5,0.0,0.0106242699548602,0.000968660111539,0.0009511431562714,False
+"i don't like getting hit and of course she had me into little camps and stuff basketball camp, which i had fun",0.15626417,0.9714027628752128,0.471875,0.083,0.0089285401627421,0.0736157074570655,0.0312149990350008,False
+"you know, i think that's something like most kids should do",0.03616466,0.0054864125217929,0.25,0.0,0.0045256768353283,0.0006484378245659,0.0007999829831533,False
+go to camps after school is out for the summer time,0.07211506,0.0248998378228011,0.5,0.0,0.0040498236194252,0.0005959532572887,0.0004789421509485,False
+then also did soccer,0.03736641,0.7694742518100934,0.5,0.0,0.0012738280929625,0.0006650944706052,0.0017466729041188,False
+soccer,0.020963646,0.0043278549286789,0.5,0.0,0.0029538173694163,0.0012521960306912,0.0005887133884243,False
+it's a really competitive sport,0.025692256,0.0019451666345308,0.4,0.0,0.0007515777833759,0.0003938323061447,0.0005616521812044,False
+"but other than that you know my friends, you know, we still stay in contact",0.0358213,0.0033356145820165,0.5625,0.0,0.0006445877370424,0.0005262778722681,0.0004978416254743,False
+"hang out from time to time whenever i do visit, or if someone do come down this way, um, just now you know, coming down here in valdosta, you know, i don't see too many kids hanging out and stuff, or they all just stay cooped up in the house, probably playing video games or god knows what, but that's the only thing i could say",0.09118898,0.023292939007263,0.4763888888888889,0.0,0.0025430128443986,0.0022978431079536,0.0006212427397258,False
+i had a great childhood life,0.046465382,0.0061156461042018,0.0999999999999999,0.0,0.0008560184505768,0.0003473977849353,0.0007159818778745,False
+"uh, we stayed in apartment",0.031185975,0.9763343970980444,0.5,0.0,0.0006907517672516,0.0005370319122448,0.0004726723709609,False
+at least,0.018881164,0.0452010037812136,0.65,0.0,0.0012937936699017,0.0006674280157312,0.0005407759454101,False
+"i, well, we stayed in apartment complex, which was like family oriented, so you know, it's a lot of families and stuff, and i could say we had like, like a little mixed culture",0.06532243,0.9879621484599604,0.58125,0.0,0.0006954928976483,0.0003752814955078,0.0003422462614253,False
+"and then i guess i could say at that age probably about ten years old, you know, i had experienced some racism, you know, cause, some of the kids, some of the white kids were a little bit prejudiced or racist towards the black kids",0.39157572,0.9959693700859475,0.4545138888888889,0.203,0.1224046796560287,0.2472559809684753,0.1295115649700164,False
+"and there been time or two, we had got into a lot of fights, and course, the parents have to try to break it up, or any other adults would have to try to break it up, you know, but at that time i really didn't know racism as i do",0.13835071,0.9985753646185216,0.48125,0.033,0.0014390313299372,0.0026437980122864,0.0066807866096496,False
+"now you know, cause i do one really stunting that you know",0.22985287,0.9737733499503536,0.4,0.0,0.0109936445951461,0.0096277901902794,0.0059347534552216,False
+it's like i try to treat everybody equal no matter what color you is,0.094410956,0.9019131222489288,0.5,0.062,0.0101063884794712,0.1127300709486007,0.0141463270410895,False
+not really cause i just wanted to get out,0.03444787,0.999920716151333,0.55,0.0,0.0051860678941011,0.0010704002343118,0.0005024904385209,False
+"i really didn't like school like, i guess, i guess each grade level i get higher and higher",0.10300289,0.998859087534108,0.3833333333333333,0.219,0.0016359011642634,0.0006354301003739,0.0009054784313775,False
+i guess certain classes just get tough and tougher,0.1539292,0.9984715802722588,0.5436507936507936,0.133,0.0008207118371501,0.0004064634558744,0.0021930783987045,False
+"for me, you know, like english was never my strong point",0.104076885,0.9979692604596336,0.3916666666666666,0.19,0.0010399137390777,0.0050361780449748,0.0009015219402499,False
+"you know, had a strict english teacher and most of my english teachers were black and they were just riding us really really hard, very very hard",0.42092466,0.9982716419050192,0.528125,0.136,0.0708323121070861,0.2762353122234344,0.1847761124372482,False
+"but i guess they were looking at the fact that you know as black people and african american, you know, we need to take education a little bit more serious",0.31089294,0.9987173602031264,0.515625,0.049,0.2053015828132629,0.1970474869012832,0.0403045564889907,False
+and i guess i was all about,0.024662184,0.8279583702567059,0.5,0.0,0.0009288599831052,0.0005511338240467,0.0006775754154659,False
+"um, i'm tryna get to the girls",0.12051678,0.8651593952597617,0.5,0.0,0.0161330606788396,0.0152957635000348,0.0049593336880207,False
+"i don't wanna study education, then my high school year",0.05253629,0.9594043446177996,0.42,0.0,0.002061003819108,0.0099105490371584,0.0006065787165425,False
+"uh, i think i took education a little more serious now, so i'll just try and try to be better",0.09548495,0.987546504373622,0.4401041666666667,0.059,0.0007663891883566,0.0007944173412397,0.0003876525443047,False
+try to do better,0.04783881,0.999764771378316,0.25,0.0,0.0036138545256108,0.0004656109958887,0.0005038950475864,False
+and then thing about college is that i wanna go to,0.05253629,0.0750351583630794,0.5,0.0,0.0042030322365462,0.0011837554629892,0.0007232966599985,False
+you know,0.03994159,0.0417974316146254,0.5,0.0,0.0024898352567106,0.0004940603976137,0.0006626065005548,False
+"it's one particular college i wanna go to, but didn't get enrolled due to my sat scores, but at the time i didn't know",0.037194733,0.753965466638057,0.4895833333333333,0.0,0.0006111122202128,0.0005507680471055,0.0004594482597894,False
+"like sat scores, you can retake and retake them until it gets better cause they like, say you know, the first go around, you may not score high as you think, but the more you take it, your scores get a little bit higher",0.056931525,0.1173673982847088,0.3772916666666666,0.0,0.0013392772525548,0.0004084175161551,0.0005211872630752,False
+"and then came to valdosta back in ohfive, to go to school down here",0.03839648,0.0769588050958292,0.5388888888888889,0.0,0.004332666285336,0.0010500526987016,0.0006189056439325,False
+and m,0.015202113,0.0871260048967016,0.5,0.0,0.0010536058107391,0.0013532302109524,0.0004176795191597,False
+i had a wonderful experience at val tech,0.0136749605,0.0047680889304874,0.0,0.0,0.0005902950651943,0.0003476250567473,0.0002551774086896,False
+"then after val tech, i went to vsu at vsu i just like yeah, yeah, and then my college professors",0.022074303,0.0118464674827875,0.5,0.0,0.0006464376347139,0.0005804716493003,0.000367822300177,False
+"you know, i had one particular professor for my um",0.034791227,0.0010984389755346,0.4166666666666667,0.0,0.0009911224478855,0.0005734072765335,0.0004737283161375,False
+"computer class like we couldn't understand a word that's coming out of his mouth cause he's foreign, so i always go to sleep in his class",0.17661177,0.9992645081768028,0.5625,0.0,0.0133785167708992,0.0276366136968135,0.1428613811731338,False
+"so i know that was a class i could pretty much chill and go to sleep in, but really don't say much",0.061726328,0.9998275427261704,0.39375,0.0,0.0009673089371062,0.0004946732660755,0.0007036360912024,False
+but just hearing him talk and stuff,0.020963646,0.0453463376331309,0.5,0.0,0.0006664196262136,0.0012147843372076,0.0008425720152445,False
+i'm just like looking at him,0.06612156,0.0063680429577775,0.5,0.0,0.000621355837211,0.0009614523733034,0.0201607756316661,False
+like,0.022351967,0.0032676569974449,0.5,0.0,0.001461298437789,0.0012561561306938,0.0005801010993309,False
+"what did you just say? but other than that i had fun and then if i was ever to go back and do it all over again, i think i'd probably choose a online school cause it's way more convenient for me",0.0471521,0.999867214456462,0.415625,0.0,0.0006672439048998,0.0004640274564735,0.0004866987292189,False
+"you know, i don't have to worry about trying to find a parking spot",0.02262963,0.0,0.5,0.0,0.0016755250981077,0.0007341714808717,0.0007232528878375,False
+trying to get up extra early,0.031185975,0.9855020540925086,0.475,0.0,0.0016390418168157,0.0010260883718729,0.0003736210346687,False
+"i could do everything in the comforts of my bed like, oh, okay, uh, my first grade teacher",0.2299237,0.0058428321692964,0.3125,0.0,0.001092292019166,0.0020253630355,0.0006301768007688,False
+i liked her,0.0358213,0.0084558907139507,0.2,0.0,0.0010359949665144,0.0004636836820282,0.0003301904944237,False
+she really pushed me,0.1710401,0.0416692063826836,0.4,0.0,0.0105094015598297,0.0041975933127105,0.0048738704062998,False
+"you know, i did get held back one grade, but she was my second year first grade teacher i had, and out of all of the kids she was more focused on me, so to this day we still talk, uh, math and science",0.01999182,0.0031073009426223,0.40625,0.0,0.000764624972362,0.0005509455222636,0.0003233600000385,False
+"well, i'm good at math and i love science, and with technology and everything, i'm always trying to stay on top of everything",0.017492844,0.0173125225351672,0.2166666666666666,0.0,0.0007502038497477,0.0004041340434923,0.0004257851105649,False
+"well, originally my aunt, who i call my mom, stays here it atlanta",0.020408317,0.0768854526328333,0.3125,0.0,0.0011537017999216,0.0011420322116464,0.0022999756038188,False
+"she was staying in atlanta, but she had to come get me because her sister was on some other stuff, so my grandmama on my daddy's side, said that somebody need to come get me because they feel like i wasn't in a good space",0.05493369,0.9295274184859952,0.35625,0.063,0.0019307450857013,0.0017584505258128,0.0009935753187164,False
+then i had met my godmothers up there,0.13700475,0.0033409796544827,0.5,0.0,0.0010297617409378,0.0013600288657471,0.0007444501970894,False
+"they had took me in for a second til my auntie came and got me, so we went back to atlanta, but she really wanted to get her sister to come so she could get her some help",0.064523295,0.9963446867109153,0.4666666666666667,0.0,0.0014216974377632,0.0010924043599516,0.0004596935468725,False
+but she was just being stubborn and hardheaded,0.36439645,0.9592334670597517,0.5,0.336,0.035168670117855,0.2495942115783691,0.3543708324432373,False
+"yes, yeah, well, my mama came first",0.036508016,0.0130314927667347,0.375,0.0,0.0011547930771484,0.0023434155154973,0.0051540699787437,False
+she had went to go spend some time with her friends cause they had an idea,0.060527626,0.0469191980444668,0.5,0.0,0.0008219139417633,0.0008237301954068,0.0010601630201563,False
+"oh, you can make it in valdosta, uh, cost of living is cheap",0.06372416,0.9862160856258412,0.3,0.0,0.0013015486765652,0.0006926374044269,0.000689837266691,False
+but not telling her that the jobs don't pay that much and it's hard to find jobs like who you know will get you in,0.029640866,0.8074444493690511,0.5229166666666667,0.057,0.0051463446579873,0.0008516503730788,0.00054114125669,False
+"but the original idea after i graduated from high school was to go to california, but that didn't go through, so we wound up in valdosta, i said, out of all places, i would've stuck with california, cause that's where i orig wanted to go",0.032387726,0.999937109428313,0.3662499999999999,0.052,0.000869924610015,0.0004110624431632,0.0006131124100647,False
+i coulda got discovered,0.026722329,0.9888545388468356,0.5,0.0,0.0029912628233432,0.000396690738853,0.0004605055728461,False
+"uh, wanna be a actor? you know comedy acting",0.19789414,0.0409975589218338,0.5,0.0,0.003461705520749,0.0017967820167541,0.0013399654999375,False
+"you know, that would be the place to be place to go anytime",0.028439116,0.0305373069404753,0.5,0.0,0.0009832216892391,0.0004682002181652,0.0009128507226705,False
+"any kind of comedy you know like, probably be like the next eddie murphy",0.056931525,3.925444687757104e-05,0.35,0.0,0.0023710771929472,0.0006029426003806,0.0007867365493439,False
+"o, no, no, i'll tell you a joke off off the k record",0.21109697,0.9963562514226756,0.5,0.0,0.0162237640470266,0.0176142137497663,0.0106470789760351,False
+"yeah, i wanted to get the hell out",0.34388447,0.087893061229575,0.5,0.359,0.7238523960113525,0.6236355900764465,0.3812664747238159,True
+i wanted to go back home,0.02397547,0.8862837719761938,0.5,0.0,0.0117797628045082,0.0150973387062549,0.0010303887538611,False
+i a,0.019852988,0.0332228237693812,0.5,0.0,0.0063241403549909,0.001144356210716,0.0007151673198677,False
+ask my mama,0.08689302,0.8495668255393783,0.5,0.0,0.0702632367610931,0.0526923090219497,0.0198127031326293,False
+i said mama,0.055333257,0.8381103690189241,0.5,0.0,0.0057116774842143,0.0044831079430878,0.0020383622031658,False
+"so where where we gonna stay at? she, looking at me just riding, just cheesin",0.16965903,0.9999765725168976,0.5,0.0,0.1885977089405059,0.0007536256453022,0.0699020251631736,False
+"i said okay, is you gonna tell where we're gonna stay at? and i said i know good when you ain't bring me all the way out from jonesboro to go sleep in no car for right now until we get our place",0.046465382,0.933077874414324,0.2523809523809524,0.047,0.0031264962162822,0.0019840865861624,0.0023439428769052,False
+"i said uh, uh, so slept in a car for about a week, but it's kind of funny cause it's like you could see a lot of things at night and other homeless people where we all normally have our little hang out spots and stuff",0.055732824,0.0031345435883673,0.43125,0.0,0.0009016069816425,0.0009436273830942,0.0007310392102226,False
+"and i just say you know what i could deal with one homeless person parking next to it, but a third one showing up",0.1256687,0.9991450757025138,0.5,0.0,0.0009483130997978,0.0014273319393396,0.0049865120090544,False
+"we got to go gots to go, so we finally got into a little a little house, which i call a shotgun house, cause you could see the front door and the back door stayed there for about one year and then moved to lakeland and i said we just goin",0.14014533,0.036660315116339,0.546875,0.0,0.0015907911583781,0.0032548250164836,0.0025110084097832,False
+"we just going even more backwards from bad to worse, but then staying at lakeland, you know, i actually had fun, you know, cause the little community actually do a lot of things you know, especially for the kids around the summer time",0.07091636,0.8124140861885181,0.53046875,0.091,0.0008258007001131,0.0008714071591384,0.001885095029138,False
+"so i had fun, and then i was also known for being the dvd man out there selling dvds and cds, so got my little recognition or fame out there pretty much and i told my mom we gotta go to valdosta, cause this driving back and forth from school and work, it just went out, me, so we went back to valdosta found us another apartment, and like i just said, we was gonna give that about six months",0.0801064,0.9425902671206988,0.453125,0.0,0.0016034630825743,0.0009922878816723,0.0010409832466393,False
+so that's when lease was up,0.026722329,0.9717480649003278,0.5,0.0,0.0010529787978157,0.0004605810681823,0.0004082904197275,False
+i'm gone,0.050585672,0.8426586092021305,0.5,0.0,0.0044671669602394,0.0012061415472999,0.0008261997136287,False
+found a better apartment,0.031529333,0.9827121269922192,0.25,0.0,0.0012319172965362,0.0005109816556796,0.0004395652504172,False
+"been there since and now, working on trying to find a house sometime next year",0.015549194,0.0144061137504452,0.5,0.0,0.0007286226609721,0.0004693150403909,0.0003206942637916,False
+"mmhm, well, being homeless, you know, a lot of folks think, oh, they homeless because they can't do nothing for themselves, but it's not always the case with most homeless people",0.11021292,0.9921721804360903,0.25,0.0,0.0020498158410191,0.0046476065181195,0.0006263687973842,False
+"you know, some homeless people just homeless until they get something better coming for 'em you know, tryna find a place",0.08635602,0.8509317595866915,0.25,0.0,0.0180006884038448,0.0036861030384898,0.0016230033943429,False
+"something, get established and everything",0.04234509,0.001073521194525,0.5,0.0,0.0011545550078153,0.0017289740499109,0.0006650485447607,False
+"and and that's the one reason why i say you know, one day i would like to help out homeless people you know, help out those you know that's less fortunate, can't help themselves cause you know, i had like a million ideas",0.029812546,0.8747305653155993,0.4416666666666666,0.038,0.0011198997963219,0.001662723836489,0.0011256106663495,False
+what i wanna do,0.11536485,0.0013230864820769,0.5,0.0,0.0017105140723288,0.0015592210693284,0.0006797969108447,False
+"that's like nonprofit pretty much, and that's when you know living how to be homeless and then not being homeless",0.06012806,0.0494091281760223,0.3875,0.0,0.0054086032323539,0.0016782216262072,0.0005910500185564,False
+"you know, i pretty much know what they would go through, you know, especially sleeping out when it's cold and y can't get warm, or trying to stay warm, and then tryna find something to eat at a reasonable price pretty much, but in our case scenario is like okay, my mama was working and i was going to school and i had to you know, just keep a smile on my face",0.060527626,0.0301910809306576,0.3863636363636363,0.016,0.0118215680122375,0.0019243648275732,0.0009931201348081,False
+"you know, not everybody know",0.021796638,0.9873429296794884,0.5,0.0,0.0015071070520207,0.000683601712808,0.0006109873065724,False
+"oh, i'm homeless",0.051737156,0.9987518158907426,0.5,0.0,0.0017929468303918,0.002078436082229,0.0014661910245195,False
+"they, you know, they just wasn't me, cause at that time at that age frame, you know i'm i ain't telling nobody this you know, cause not knowing what somebody may think or be like, oh he homeless",0.11729682,0.9999533238695442,0.5,0.0,0.0095387892797589,0.0172019638121128,0.0106923757120966,False
+i don't wanna talk to him,0.17242117,0.9998419688099128,0.5,0.0,0.0043337503448128,0.0439680442214012,0.0024659000337123,False
+"you know, some do and some don't and then some folks think",0.02193547,0.1809745350114048,0.5,0.0,0.0009970526443794,0.0004000626795459,0.000502937764395,False
+"oh, they homeless and they have a little sign out and you know they think",0.14911842,0.9298827353130472,0.59375,0.0,0.0261488836258649,0.0099799837917089,0.001936043263413,False
+"oh, they scamming folks, even though it has been a couple of talks about that in the news that some people fake to be homeless, got a lot of money and then got arrested for it",0.2835225,0.9997506433541552,0.75,0.154,0.0043107299134135,0.0221201870590448,0.0523111000657081,False
+"but me, you know, i just took it as a chance like you know, if there's a homeless person, i wanna try to help 'em best way i can",0.02809576,0.8740274129569898,0.0,0.0,0.001258363132365,0.0031346390023827,0.0011789050186052,False
+you know,0.03994159,0.0417974316146254,0.5,0.0,0.0024898352567106,0.0004940603976137,0.0006626065005548,False
+"i have gave money, have bought food for 'em you know, cause i know the struggle",0.084745035,0.954411250509272,0.5,0.133,0.0013874704018235,0.0007612351328134,0.0017197438282892,False
+i knows,0.024147147,0.0034230354572572,0.5,0.0,0.002098569413647,0.0004632226482499,0.0003899949952028,False
+it's a very struggle out here,0.08635602,0.9995666511745231,0.4,0.341,0.0015146392397582,0.0004197052912786,0.0008679731399752,False
+"well, we had to come up with the money first, and that was the only issue, just the money",0.031185975,0.8390500912673341,0.4375,0.0,0.0007789199007675,0.0005818936624564,0.0004203226708341,False
+"then, once we got the money up, then that was it",0.021518974,0.9974779688515218,0.5,0.0,0.0007414684514515,0.0004946100525557,0.0007455062586814,False
+so she was just like one more pay check in and then we got the place afterwords and then establish furniture,0.06612156,0.8314007795867577,0.25,0.073,0.0006252602906897,0.0005599846481345,0.0006026257178746,False
+"far as like moving our stuff from atlanta down here to have something to lay our heads on for a minute, cause i know just staying there was just gonna temporary too until we found something better cause my thing is, you know, i like to live in a nice comfortable neighborhood",0.055333257,0.9877491550830528,0.3682659932659933,0.0,0.0018109452212229,0.0004856009036302,0.0005422505782917,False
+that's how it always been for me,0.026722329,0.0049601883307348,0.5,0.0,0.0007203391287475,0.0003637394984252,0.0009109452948905,False
+"so even when i was telling one of my friends like mkay, y'all you stay in the projects and she was telling about her upbringing, then i said okay, don't you wanna like do something better? far as you know, you got a lot of kids",0.077709,0.051341776308132,0.3166666666666666,0.039,0.00161089876201,0.0019005908397957,0.0008958124089986,False
+don't you want to show your kids there's something better out there? instead of just being here like i don't like see nobody being just stuck in one spot and standing in one spot like i know you can do better be better even though i call my job like folks say,0.089041,0.9973928132291005,0.25,0.083,0.0040294951759278,0.0013106694677844,0.0011772739235311,False
+"oh, i just rather stay in this position",0.04268845,0.9993313331349648,0.5,0.0,0.0011113981017842,0.0005053773056715,0.0003752655757125,False
+i'm like,0.020963646,0.0296584186526401,0.5,0.0,0.0016913731815293,0.0005993730155751,0.0005510135088115,False
+"why you know you, you ain't gonna get any higher in your pay raise being in this position you always talking about",0.06132676,0.8087444362335653,0.375,0.062,0.0030115200206637,0.0025498182512819,0.0015796241350471,False
+"oh, i wanna do this",0.09279997,0.0219407022981198,0.5,0.0,0.001805547857657,0.0024980844464153,0.0006208147970028,False
+i wanna do that,0.14059398,0.9600362607364414,0.5,0.0,0.0011574355885386,0.0012745659332722,0.0005078301182948,False
+"okay, go out there and do it",0.1256687,0.8037609694495188,0.25,0.0,0.0031952566932886,0.004074125085026,0.0013063685037195,False
+don't be stuck as no cashiers no cook,0.14328592,0.2099046748827187,0.5,0.203,0.0483842268586158,0.0523690693080425,0.0187838897109031,False
+"you know, do something better",0.17449278,0.998614827707106,0.25,0.0,0.0014828169951215,0.0006138801691122,0.0015017220284789,False
+i even spoked about education,0.029640866,0.1658379368387306,0.5,0.0,0.0006033012759871,0.0005377238849177,0.0003415860410314,False
+some folks say,0.022213135,0.0455872889987788,0.5,0.0,0.0007256827666424,0.0004323453467804,0.0004588333249557,False
+"oh, i don't wanna do education",0.09494796,0.9933885615880066,0.5,0.0,0.0116904638707637,0.0283717699348926,0.0008432675967924,False
+"it just too much hard work, but it's not hard work, but it just what you, what you make seem like it's hard work, but it's not hard work",0.08367105,0.791786366152664,0.5364583333333334,0.085,0.0008379102800972,0.0006567567470483,0.0035873795859515,False
+you know,0.03994159,0.0417974316146254,0.5,0.0,0.0024898352567106,0.0004940603976137,0.0006626065005548,False
+"it's gonna be like some struggles here and there, cause i did",0.09065199,0.8961011094403547,0.5,0.167,0.0007335186819545,0.0003533838316798,0.0005031038890592,False
+it had to work forty fifty hours a week and still go to school,0.023288755,0.9932564317755478,0.5,0.0,0.0075723342597484,0.0005901876138523,0.0014580201823264,False
+"still had to come to work, still had to find a ride to work",0.023117077,0.9268936448004296,0.5,0.0,0.0066540162079036,0.0005990594509057,0.0011984297307208,False
+i passed,0.028439116,0.8943793682680822,0.5,0.0,0.0011271551484242,0.0004202233394607,0.0005516241071745,False
+"i made it, and the only difference is you know versus those who stays here, they got family members around here that can help 'em me",0.044748597,0.0193502366697397,0.5,0.0,0.0012248888378962,0.0005744833033531,0.0003721211396623,False
+it's just me and my mom,0.029984225,0.0016809368155713,0.5,0.0,0.0051331832073628,0.0017347637331113,0.0020575125236064,False
+i'm the only one doing it all by myself,0.049212243,0.1401694629672743,0.5,0.0,0.0044314400292932,0.0007376092253252,0.0004712190420832,False
+just me and my mom,0.06012806,0.0014763189129027,0.5,0.0,0.0106338020414114,0.0016609311569482,0.00072685664054,False
+"that's who i got right now, cause if it wasn't for her to encourage me and pray and everything, i don't where i would be at",0.039598234,0.0022465644832977,0.3571428571428571,0.0,0.0006359105464071,0.0011196752311661,0.0010954004246741,False
+"she is a sweet old lady, a sweet old little lady",0.087430015,0.0024375014511775,0.42875,0.0,0.0092629492282867,0.0040131341665983,0.0057144244201481,False
+sometime,0.020130653,0.7908296843140691,0.5,0.0,0.0007365330820903,0.0005245188367553,0.0004440566117409,False
+she can be a little bit nagging sometimes or just always ask a lot of questions,0.229845,0.8502980253046027,0.59375,0.139,0.3588615357875824,0.0754529982805252,0.0668924003839492,False
+and i guess that's what i get that from asking a lot of questions,0.023632111,0.8845183650752382,0.5,0.0,0.0006960306200198,0.000611156807281,0.0008398135541938,False
+but she still treats me like i'm a little child and i'm grown,0.16275369,0.0035555229412137,0.59375,0.0,0.0140669336542487,0.0061658122576773,0.0024623193312436,False
+i'm like,0.020963646,0.0296584186526401,0.5,0.0,0.0016913731815293,0.0005993730155751,0.0005510135088115,False
+"just like today, she gonna ask me where you going? uh? how long? you gonna be gone? i'm like mama",0.10515087,0.0049696070135088,0.525,0.0,0.0272912327200174,0.0240700002759695,0.0133805740624666,False
+really,0.015757442,0.0654064031961048,0.4,0.0,0.0014107627794146,0.0004142853140365,0.0003981906920671,False
+i'm grown,0.032731086,0.0004778789269461,0.5,0.0,0.0009748691809363,0.0005296677700243,0.0006336548249237,False
+i'll be back when i wanna be back,0.06132676,0.0071511647020913,0.5,0.0,0.0099667161703109,0.0483287349343299,0.0012441066792234,False
+but that just her cause i'm the only baby she has,0.06412373,0.0058637857578726,0.5,0.0,0.007891715504229,0.0043118125759065,0.0030875820666551,False
+"um, but i can understand",0.020269485,0.9097410014247546,0.5,0.0,0.0006990942638367,0.0003691811289172,0.0003955789725296,False
+"sometimes i say, maybe i shoulda had a little brother or sister, but i don't know",0.09172598,0.8256645335237894,0.59375,0.0,0.0008375599281862,0.0027804435230791,0.0017773328581824,False
+"oh, yeah, probably have about four five kids",0.05373499,0.0034867904017303,0.5,0.0,0.0010292492806911,0.0007953478489071,0.0018290439620614,False
+"you know, i'd just like to have a big family",0.03994159,0.0026173506026272,0.5,0.0,0.0014673111727461,0.0012996991863474,0.0004330544034019,False
+"yeah, uh, guess things just change cause with the military, it just a lot of lot of tape you gotta go through cause it was hell trying to get my medical records cause that's the only thing that was the hold up was my medical records, and knowing, now as i'm getting older, you know, i'm probably won't even be qualified anyway, due the fact that you know if you got asthma, you automatic disqualified",0.22989221,0.9998779446013945,0.5048611111111111,0.091,0.0077831796370446,0.0248042196035385,0.0460030958056449,True
+"yup, cause, when i went for the army at first, they might say he kept asking the same question",0.035306264,0.0655474747960072,0.4375,0.0,0.0005869043525308,0.0006101810140535,0.0007373839616775,False
+"you got asthma i'm like, and you know some people say, just lie, just lie",0.41256893,0.9998622666674098,0.5,0.0,0.0351864174008369,0.0843851268291473,0.0812580436468124,False
+"but even if i lie and then try to go out there and then if i do have that asthma attack, they'll know like oh, and i ain't tryna face no consequences after that",0.17380224,0.813684088259138,0.5,0.102,0.0294510796666145,0.0034521811176091,0.0020395168103277,False
+"uh, and far as the job goes, you know i was looking for work cause you know i was going",0.03994159,0.01354442350046,0.45,0.0,0.0010875149164348,0.0007684452575631,0.0008004615083336,False
+"i was still in college looking for work, so i like said",0.026035614,0.0041562024157192,0.5,0.0,0.0006415863754227,0.0004823184281121,0.0005064140423201,False
+"well, lemme try this place cause when i was in atlanta, uh, i had wanted to try to work at taco bell up there, but the gm at the time he wasn't just interested or looking for anybody right now, so this one i called, put an application and i just kept calling",0.029125832,0.1665502694324489,0.3660714285714286,0.052,0.0005725738592445,0.0004209438047837,0.000369259098079,False
+kept call,0.03204437,0.8587731110555992,0.5,0.0,0.0022497624158859,0.0628777146339416,0.0009239474893547,False
+"him, kept calling and nagging until he finally just say okay",0.15042676,0.8672185398782408,0.375,0.199,0.0447399355471134,0.0165181495249271,0.0383605286478996,False
+"come on, talk to my district manager and talked to the district manager and then she just hired me on the spot",0.026035614,0.0076794753102196,0.5,0.0,0.0007843886269256,0.0006053993711248,0.000546749215573,False
+"luckily, the gm that was there",0.031357653,0.8135764589442748,0.3333333333333333,0.0,0.0006495437119156,0.0008267998346127,0.0003261953243054,False
+"you know, he was a christian guy, so he understood",0.12953265,0.0145041753527438,0.5,0.0,0.0014054578496143,0.0069136759266257,0.0035788519307971,False
+understand my religion about,0.03599298,0.0061743340357902,0.5,0.0,0.0015680141514167,0.0009285640553571,0.002484236145392,False
+"you know, i can't work on this day, but i can work on all the other days",0.019852988,0.0267246479983406,0.5625,0.0,0.0008980608545243,0.001191672636196,0.0006312269251793,False
+"so he understood that, and the funny thing about it, one of his other managers, uh, pretty much told him",0.06372416,0.8769466681096725,0.428125,0.0,0.0006228989223018,0.0006653810851275,0.0005344452220015,False
+"oh, i don't think you don't need to hire him",0.049898956,0.1252271102238341,0.5,0.0,0.0018210348207503,0.0136647578328847,0.0013760160654783,False
+that man came in here with some church clothes and some glasses like he really want the job? i said,0.11472086,0.8761011923009183,0.4,0.0,0.0016906212549656,0.0022290758788585,0.0056294514797627,False
+"well, you gotta dress punctual",0.09655894,0.17943347755741,0.5,0.0,0.0728433951735496,0.0039754123426973,0.0019889674149453,False
+no matter what job it is,0.028610796,0.96621929811201,0.5,0.177,0.0021593947894871,0.000860377040226,0.0009317132062278,False
+you know,0.043718524,0.0417974316146254,0.5,0.0,0.0024898352567106,0.000538251013495,0.0007277476252056,False
+"i always believe you know suit and tie even if just to be a garbage man or something, you know",0.53837943,0.0103922347848705,0.5,0.0,0.0487379394471645,0.6270618438720703,0.6232491135597229,False
+but so i been working there,0.017701091,0.2087504391535358,0.5,0.0,0.0006513480329886,0.0004035910242237,0.0003851227520499,False
+started there,0.022213135,0.8050615822391541,0.5,0.0,0.0008179027936421,0.0004655475495383,0.0005458187079057,False
+"two thousand nine left, and got transferred to lake park",0.011800728,0.9809116682844844,0.5,0.0,0.0011492534540593,0.0005297407042235,0.000457115471363,False
+and s,0.07970683,0.759104967612995,0.5,0.0,0.0009765578433871,0.0022688307799398,0.00046922112233,False
+the funny thing about the manager that didn't want to hire me,0.06252546,0.9774959352869728,0.375,0.087,0.0009043101454153,0.0017432966269552,0.0016531030414626,False
+"she was the store manager in lake park, so she wanted me cause she know i do great job with my results and stuff, so she figured well, since he don't wanna promote me for whatever reason that may be, maybe she'll promote me manager",0.023117077,8.095298232306982e-05,0.0999999999999999,0.042,0.0006381463026627,0.0007094577304087,0.0005585142644122,False
+"so when i got to her store, maybe two months down the road, she went ahead and promoted me and stuff, and i've been under her reign for a minute",0.08290337,0.1553281473549343,0.5777777777777778,0.0,0.0009699622169137,0.0006242977688089,0.0007620008545927,False
+"then i left and got another job, and after that job had went up, after they did they little merger, everybody had to go",0.056931525,0.0996542836720666,0.546875,0.0,0.0026151114143431,0.0005046937149018,0.0005412495811469,False
+"so i came back to her, which, now she's a area coach",0.03753809,0.9720635907732555,0.5,0.0,0.0012523224577307,0.0008768748375587,0.0009269953588955,False
+"so i'm working out there in moultrie, pretty much first, it was adel and i just didn't like the atmosphere in adel, cause it was just some of the crew members kind of rubbed me the wrong way, you know, and then the store manager i had at the time he would just showing favoritism, you know, it's like he had me closing every night, and then when it comes to the other managers, oh, he make them come in like four or five o'clock, though you know, we close at twelve, but i'm the only one that had to come in at two to twelve, two to twelve every day, and then i'm always getting short handed on my shift and got one particular person who always show up four hours late every day",0.2995453,0.9999694190869428,0.4810185185185185,0.026,0.0008504805737175,0.0005412640748545,0.0006817165995016,False
+"doesn't matter which manager it was so i got fed up with him, so i said you know what, i'm gonna teach him a lesson",0.2818683,0.9980940580063884,0.5,0.043,0.0161189287900924,0.005148290656507,0.0129228932783007,False
+so i called in one day and said i was sick and i wasn't sick,0.13251819,0.9995257573999476,0.8571428571428572,0.174,0.0022545380052179,0.0070711770094931,0.0051558064296841,False
+"went to the little hospital, got my little doctor's note, and um, them three days",0.014438537,0.9976064027251706,0.59375,0.0,0.0014264461351558,0.0007953968015499,0.0010510694701224,False
+he was having the trouble with his own employees,0.112788886,0.9998992856674264,0.4,0.252,0.0044128131121397,0.0014070314355194,0.0019122617086395,False
+claim he had to fire somebody and then rehire them back,0.29021257,0.9997311204515698,0.5,0.194,0.0158643629401922,0.0297015588730573,0.102122962474823,False
+trying to beg me to come in talking about,0.09172598,0.9338584924581536,0.5,0.0,0.0011073932982981,0.0063887173309922,0.0035708653740584,False
+"well, i'll let you open",0.08367105,0.7878607128231998,0.5,0.0,0.0011367719853296,0.0005627608625218,0.0112324375659227,False
+"i'm like no, so i was sitting out at the bar playing cards like i normally do",0.03994159,0.9988874330003044,0.425,0.0,0.0014073839411139,0.0008612124365754,0.0005445645656436,False
+stayed like i was still sick,0.103539884,0.999410289118092,0.8571428571428572,0.337,0.0312056504189968,0.0169664435088634,0.0084781935438513,False
+"and then he got gone after a little money issue cause i told my big boss i said well, where do the safe normally be at at this particular store, so she was just wondering why the safe so short",0.09763293,0.9991575643989768,0.4193452380952381,0.0,0.0009059431613422,0.0006327854353003,0.0005065878503955,False
+"i'm like, i don't know",0.022945397,0.999394909243689,0.5,0.0,0.0008893670747056,0.0040761805139482,0.0006537137087434,False
+when i first got here,0.017909339,0.0325450064751953,0.375,0.0,0.0007010170374996,0.0004457829927559,0.0004114623297937,False
+it was about this much,0.04234509,0.9821296589581404,0.4,0.0,0.0008992305374704,0.0003819068951997,0.0006671691662631,False
+now it's that much,0.03427619,0.0216490509976665,0.4,0.0,0.0017016512574627,0.0003764187567867,0.0011332359863445,False
+so he got fired,0.09709594,0.9271848192055526,0.5,0.563,0.12130618840456,0.007026043254882,0.000591805379372,False
+"so me and him, he still don't like me to this day, which i don't care",0.1423886,0.9988367628714572,0.5,0.253,0.0675791949033737,0.0269304867833852,0.0055698668584227,False
+"but if we ever see each other in the streets, i just know he just better not say anything towards me, cause this day i still wanna kick his ass, though i hate to say it, but i still wanna kick his little tail and make a little facebook post and say okay, what's all this stuff? you were talking? now, you know, and moultrie? on the other hand, they needed help real bad, like managers and stuff, so you know, it's like i made they little statement out there in moultrie, it's like nobody don't wanna this store",0.6357597,0.999940149636044,0.5895833333333333,0.114,0.7369027733802795,0.9516874551773072,0.8880724310874939,True
+this store is rough,0.2406723,0.9993723461333728,0.55,0.0,0.0458864793181419,0.0189304184168577,0.1007467880845069,False
+"this store is very rough like crew members, not even that bad",0.2712817,0.8044103816655921,0.7075,0.0,0.0048627681098878,0.0050107571296393,0.0660893246531486,False
+it,0.017770508,0.1408823320682393,0.5,0.0,0.0016468944959342,0.0009156857267953,0.0006150004337541,False
+just the customers are rough out there and it's hard to keep help,0.08796701,0.9943067639346356,0.5979166666666667,0.093,0.0010237542446702,0.0013672723434865,0.0478275008499622,False
+and it's sad that you got five managers,0.123736724,0.9431123184776166,0.75,0.307,0.0010767817730084,0.0026970172766596,0.0011075331130996,False
+"that's from the outside, driving to that store",0.021518974,0.2254271707955022,0.5,0.0,0.0010149765294045,0.0005272200796753,0.0014614842366427,False
+the people that stays in that city don't even wanna work there,0.13521013,0.9973547808265067,0.5,0.0,0.0016418853774666,0.0080152880400419,0.0035971368197351,False
+it's like it's hard to keep help,0.05653196,0.999753325890388,0.6458333333333334,0.132,0.0008939740364439,0.0008639094885438,0.0010744899045675,False
+"and then they gonna say well, maybe we need to build another google",0.031185975,0.9267659262697764,0.5,0.0,0.0022479777690023,0.000441092706751,0.000500370922964,False
+i'm like i don't know what for,0.028439116,0.9988194456097746,0.5,0.0,0.0014313617721199,0.0042894887737929,0.0008372387383133,False
+why build another google,0.017145762,0.9864718505526874,0.5,0.0,0.007022141944617,0.0005019621457904,0.0003612208820413,False
+it's hard for them to keep help too hard to keep help,0.058929358,0.9976665809546664,0.6458333333333334,0.173,0.0007721128640696,0.0015833630459383,0.0012485785409808,False
+"i just say, just torch the place and just just don't ever build it ever again",0.16758743,0.9998710296191046,0.5,0.0,0.0013253050856292,0.0005911740008741,0.0110001061111688,False
+just say it's dead,0.23716165,0.9996749660264238,0.6,0.589,0.0014917069347575,0.1754221469163894,0.4157467186450958,False
+i always come in there every day,0.030670939,0.0032545423758609,0.5,0.0,0.0008059933898039,0.0005800621584057,0.0003276689385529,False
+i like to say i wish this place burn down,0.56268007,0.9999802088437916,0.5777777777777778,0.0,0.7227387428283691,0.8331226110458374,0.677524209022522,False
+"it almost burnt down until one manager decide that she wanted to save the day and i looked at her like she was crazy like, so you really tryna make us come to work? like, if you'd a let this place burn, you wouldn't even have to worry about driving here everyday like she was like, oh, i was stuck",0.2965773,0.9989735722193448,0.5944444444444444,0.099,0.0383004955947399,0.168369323015213,0.2130260020494461,False
+"uh, we coulda got you out",0.14822112,0.9688422820407268,0.5,0.0,0.0200191419571638,0.0471934862434864,0.0093128541484475,False
+you coulda called me,0.034791227,0.9325529020735082,0.5,0.0,0.0027744860853999,0.0016320226714015,0.000936725817155,False
+i be doing seventy five miles an hour trying to get you out of there,0.22157386,0.0887216370600607,0.5,0.0,0.031058007851243,0.0008858542423695,0.0086374627426266,False
+just let the place burn and i woulda have that usher song playing in the background,0.37083253,0.9962433762591788,0.5,0.0,0.0995545014739036,0.2135058641433715,0.1888819932937622,False
+"let it burn about good, forty five minutes to an hour",0.4151741,0.9988625152192948,0.15,0.0,0.0453206114470958,0.3630360960960388,0.4078155755996704,False
+"mmhm, cause, really, if you go the saint augustine way, it just a straight shot, but i don't know if they still working on the road, but i know it's forty five all the way, so then you know i had got a ticket coming back that way and i said i never going this route again, so the best way for me is i just take i75 get off exit thirty nine off of adel and take the back way cause least i know, it's fifty mile, fifty fiftyfive miles that way, but every day and then i had my mama to pick me up one day and she was like, uh, uh, i can't do this one",0.34388447,0.9974444371486082,0.4083333333333333,0.0,0.0027379002422094,0.0008015010389499,0.0010632134508341,False
+i can't pick you up every time,0.15246986,0.0293826837338364,0.5,0.0,0.0024917568080127,0.007344014942646,0.0100473258644342,False
+coming this way,0.03444787,0.0602345031446627,0.5,0.0,0.0008073428180068,0.0003808407345786,0.0012711393646895,False
+"it's a long drive, but i do what i gotta do",0.040628307,0.0017730074202826,0.525,0.0,0.0009810101473703,0.0004876718157902,0.0009398928377777,False
+it's alright,0.023632111,0.9947801123559435,0.5,0.0,0.0006218994385562,0.0003354436776135,0.0004947352572344,False
+it's straight until i find something else,0.065721996,0.9983799567569198,0.4,0.0,0.0007319736760109,0.0005610034568235,0.000643229635898,False
+"it's just temporary, you know, cause i'm looking looking and then i even think about asking one of my pastors at my church like do y'all have like any, open positions, like for the sound people or technology people in one of the universities",0.024318827,0.9949585904333188,0.4,0.0,0.0006030575605109,0.0011071064509451,0.0004573595360852,False
+"you know, i'll go try out there, but it just a temporary thing",0.029812546,0.997089090515598,0.5,0.0,0.0006978521705605,0.0005919125396758,0.0004174108325969,False
+don't get me wrong,0.03204437,0.985875671777862,0.75,0.0,0.0095332991331815,0.0005831470480188,0.0022922223433852,False
+"you know, google's okay place to work",0.019158829,0.9997046229547784,0.25,0.0,0.0010214695939794,0.000555639329832,0.000647398235742,False
+"you learn a lot of things, but really it be a great job",0.038224805,0.0041103906580496,0.0999999999999999,0.0,0.0007709871861152,0.0004999341908842,0.0007961114170029,False
+"once you get to that um home office position making the real money, then being a area coach, they make probably about seventy eighty thousand dollars a year, which that's okay, but i think i see myself now more as see myself more as a teacher than more as a manager",0.017354012,0.0634380773320949,0.2799999999999999,0.0,0.0008831396698951,0.0005041451076976,0.000457642134279,False
+"though, like i like to teach, train people, so i'm thinking about asking my boss like there's an open position for a field coach cause i'll do that",0.032387726,0.8252385467699745,0.5,0.0,0.00068899046164,0.0007876145537011,0.0003555150469765,False
+they pretty much just follow up on the training of all managers and then they come to store to store,0.04131502,0.0128371877255845,0.3875,0.0,0.0006708083674311,0.0008519247057847,0.0007908759871497,False
+"probably help out train new employees and stuff, the proper role and procedures, which we had one guy come to our store every tuesday just to follow up, cause we got a new store manager, which i give about four months, cause she still learning, still asking us",0.016382186,0.0193551844587919,0.4545454545454545,0.0,0.0006578987813554,0.0009792215423658,0.0003524723579175,False
+"oh, what? come on this",0.05373499,0.998698433419704,0.5,0.0,0.0044835400767624,0.0012038884451612,0.0028580501675605,False
+"what? come on that, but you know i look at it that you know",0.0741129,0.8136542524950344,0.5,0.0,0.0015063916798681,0.0008043203852139,0.002755724126473,False
+"i could see her manager ways, and she claims she got manager experience for twenty something years at mcdonald's",0.029125832,0.1430800445861366,0.5,0.0,0.000612279982306,0.0004548827710095,0.0004456636379472,False
+but mcdonalds and google is two different things,0.016798683,0.9980184402905736,0.5,0.0,0.0014729228569194,0.0004231850325595,0.0006096183205954,False
+"you will actually have to come out on that floor and work, work, work, work",0.09924392,0.0061373150357735,0.5,0.0,0.0212175343185663,0.003843706799671,0.0047773392871022,False
+"and i wanna ask my boss so bad, like why did you hire her? i understand she's your old boss and your friend, but sometimes you can't mix friends and pleasure at the same time, because looking at her and judging from what another store said about her, you know we gonna have our hands full, cause she, sorry, sorry, sorry, sorry, just sorry",0.2712817,0.9996565161383316,0.6527777777777778,0.175,0.0032979270908981,0.0100886011496186,0.0058989571407437,False
+"just like yesterday, you know, i'm just saying thing like okay",0.024662184,0.9409141886763052,0.25,0.0,0.0006982892518863,0.0004082476079929,0.0005537980468943,False
+"is she coming in this her store? everybody leaving due to overtime? i told her like this, i gotta go too, due to overtime",0.083939545,0.8577909749287481,0.5625,0.0,0.0014888466103002,0.0008428759756498,0.0009847652399912,False
+since y'all don't wanna give nobody no overtime,0.06931809,0.0237843796451654,0.5,0.239,0.0108587788417935,0.0288094580173492,0.0010249906918033,False
+y'all writing folks up left and right,0.03856816,0.0883480491806655,0.4285714285714286,0.0,0.0010262448340654,0.0008240006281994,0.0013029359979555,False
+so i had one of the managers laugh and they was like,0.07970683,0.0556926116305412,0.35,0.0,0.0022755989339202,0.0027856458909809,0.0030737768393009,False
+"so what you gonna? what you gonna do when she get here, mary? i'm gonna be gone too, due to overtime",0.049898956,0.894199221057051,0.5625,0.0,0.0363629721105098,0.0340928621590137,0.0448653399944305,False
+i'm gonna get off the clock and go home,0.15042676,0.961672756868418,0.5,0.0,0.0425888933241367,0.1041374057531356,0.0064084860496222,False
+"i'll have all this other stuff done about about time she gets here, but i'm not staying",0.048525527,0.9998593456835116,0.5625,0.0,0.0010882641654461,0.0010235235095024,0.0007509828428737,False
+no extra two hours,0.029469188,0.8372918377963334,0.5,0.423,0.0011561887804418,0.000598065147642,0.0006861648289486,False
+"no, not for free",0.02397547,0.996394850138474,0.3,0.474,0.0010708214249461,0.0005566899781115,0.0003973485145252,False
+"no, i' i don't",0.017631676,0.9869460931527398,0.5,0.0,0.0014208698412403,0.0010936117032542,0.0005233916454017,False
+i'm gone,0.050585672,0.8426586092021305,0.5,0.0,0.0044671669602394,0.0012061415472999,0.0008261997136287,False
+"and then i looked at her, she stayed hour off the clock for free to help us out cause we were just in bad shape and all i say shit",0.7569718,0.9998348749918742,0.5833333333333333,0.182,0.9023584127426147,0.9371698498725892,0.8744624257087708,True
+"well, you ain't even have to stay",0.06412373,0.016116439240748,0.5,0.0,0.0126717370003461,0.0036335105542093,0.001301021897234,False
+i'll just have to lock them doors and and and be done with it and just take orders in,0.15859914,0.9498008649033324,0.5,0.0,0.0644171014428138,0.039109218865633,0.0770881474018096,False
+drive through,0.09870692,0.9724186095407262,0.5,0.0,0.0078731039538979,0.0004659178084693,0.0011429628357291,False
+i still got my gas can,0.13296685,0.9904875774876672,0.5,0.0,0.0225431080907583,0.0007027364335954,0.0012875911779701,False
+i could've went outside,0.037881445,0.9970215204084824,0.5,0.0,0.0027917642146348,0.0006239158683456,0.0004483820521272,False
+throw some gasoline torch the place like it's sposta,0.44428605,0.8539598362925632,0.5,0.0,0.096237413585186,0.0045782038941979,0.2021001279354095,False
+"been, you know, like, like i said, this store got like the seven plagues that just came through here",0.23277332,0.9999693594750264,0.5,0.0,0.012449337169528,0.0011035741772502,0.0271968599408864,False
+"first the hurricanes, then then the bugs, then the power outages, but it's still standing like i don't know this google paying",0.112788886,0.2431741747825558,0.375,0.0,0.0013979078503325,0.0005818855715915,0.0009049993823282,False
+"it's tithe somewhere to church that we don't know of, but still standing",0.068918526,0.1771478076570254,0.5,0.0,0.0012583858333528,0.0056050936691462,0.0019787380006164,False
+"i think they would then illuminati thing, since they always post they little commercial about the bellumati, but it's still kicking like i see a thing like okay, all the restaurants across the street lost power and stayed out of power for two days, but this one still had power and i'm trying to figure out where this back up generator at",0.15626417,0.0402639150680414,0.4609375,0.042,0.0008062680135481,0.001172982272692,0.0011449455050751,False
+"i need to just hit that a couple of times, but i just say you know, i told the folks i said, man, y'all just call me when the store is actually on fire, so that way i could have some beers",0.16344422,0.9614702551887776,0.5,0.07,0.0008136248216032,0.3081187307834625,0.0216226913034915,False
+"we can just kick back and relax, but they gonna say? oh, if the store catch on fire, mary, they gonna suspect you? they'll know i will have an alibi",0.2712817,0.8568913118880855,0.5,0.178,0.1661590933799743,0.0113397696986794,0.0121861863881349,False
+i'll know where i will be at,0.027409043,0.0005074762433846,0.5,0.0,0.001062530092895,0.000732643646188,0.0015098067233338,False
+i can't help the store caught on fire,0.1256687,0.9997052190739414,0.5,0.437,0.105615347623825,0.001752323238179,0.0206076893955469,False
+i don't c,0.015063282,0.9968069473157932,0.5,0.0,0.0032805325463414,0.0074608377180993,0.0015931369271129,False
+i can't help if somebody got mad and wanted to torch the place cause we messed up on they food all the time or something,0.22981352,0.9980938195587232,0.8125,0.263,0.0078247683122754,0.0052361981943249,0.0429510362446308,False
+you know,0.03994159,0.0417974316146254,0.5,0.0,0.0024898352567106,0.0004940603976137,0.0006626065005548,False
+they got their own little facebook talking about taco bell,0.055732824,0.9824716227159432,0.396875,0.0,0.001107438118197,0.0004541167581919,0.0007340493611991,False
+"if it ain't taco bell, it's another restaurant and th c, and the customers they so petty like, even if we post a sign say, oh credit debit, only they take pictures and post it",0.10461388,0.9995477243911008,0.5,0.06,0.0022772049997001,0.0339925661683082,0.0510785654187202,False
+i'm like y'all is shout out,0.13476147,0.0006131383650102,0.5,0.0,0.0809623226523399,0.0047316374257206,0.0436252430081367,False
+"well, in this situation we had a bad lightning storm",0.077709,0.9989083865888808,0.8499999999999999,0.257,0.0010695165256038,0.000512222002726,0.0023717563599348,False
+"we take credit or debit, cause our credit",0.018048171,0.006478175973125,0.5,0.0,0.0023350091651082,0.0004071818548254,0.0004313049139454,False
+"um, no, we take cash only cause our credit debit machine is down",0.030842619,0.9619181195158714,0.5388888888888889,0.0,0.0045650149695575,0.0005189070361666,0.000576278544031,False
+"but in the case of we don't have cash, then yeah, we say credit or debit only and we figure you know half of everybody ain't got credit, so i just said credit only and they get mad talking about no cash",0.09065199,0.9998329674105528,0.5989583333333334,0.178,0.0151031268760561,0.0008339781779795,0.0050988942384719,False
+y'all can't do exact change,0.03994159,0.9996677529845526,0.375,0.0,0.0010386587819084,0.0034631339367479,0.0010166169377043,False
+i'm like,0.020963646,0.0296584186526401,0.5,0.0,0.0016913731815293,0.0005993730155751,0.0005510135088115,False
+"oh, we can do exact change, so like if you pay with the fi, pay with a hundred",0.03839648,0.998192089802729,0.375,0.133,0.0269878450781106,0.0046003093011677,0.0004651804629247,False
+"you know, we're gonna have to keep the rest cause we ain't got nothing to give you back with it",0.10031791,0.9918489050140448,0.5,0.0,0.0179455578327178,0.002286780392751,0.0012220029020681,False
+"oh, never mind, but it just crazy",0.27045983,0.1155686981285047,0.8,0.341,0.0076278341002762,0.034020572900772,0.1225043535232544,False
+"um, had a frequent customer keep saying we messed up on they food all the time like she thought she was gonna get away with it the second go around the second day, and i said, ma'am i was here yesterday",0.10031791,0.99633094616421,0.4833333333333333,0.055,0.0007893904112279,0.0007998728542588,0.0005508021567948,False
+you did not order nothing from us,0.050585672,0.9976461936792947,0.5,0.0,0.0065804263576865,0.0007165781571529,0.0008350743446499,False
+"you came and got your remade food, talking about the same thing that you had said that we messed up and you talking about the same thing all over again and she well, uh, uh, no, just go",0.20376207,0.997788219069858,0.5,0.059,0.0010511055588722,0.0016707177273929,0.0068991151638329,False
+just go,0.02809576,0.2381045985854271,0.5,0.0,0.0315907225012779,0.0010750746587291,0.0008159027202054,False
+"so she got crystals that way, but she ain't came back to our store no more after that foolishness cause she just flip flop and scamming folks out of food, and then she got her whole boyfriend just going along with it, and then one of my crew members gonna say oh ya, mary",0.3897107,0.9834880655006198,0.5083333333333333,0.164,0.1913902312517166,0.2941629588603973,0.398928552865982,False
+she she stay out there where i stay at? i said oh yeah,0.07451247,0.9401421249424632,0.5,0.0,0.0015943964244797,0.0015282889362424,0.0011943562421947,False
+so she's not no nurse like? nah,0.0801064,0.9955056489891204,0.5,0.149,0.017457265406847,0.0058623058721423,0.003024504519999,False
+"sure, she said she stay in norman parks, and i said okay, but he gonna say? oh, but she do got a big old booty alright for real",0.5031149,0.994542886735064,0.37,0.0,0.0011932480847463,0.0014462452381849,0.1085766181349754,False
+i say okay,0.021518974,0.8909591047649325,0.25,0.0,0.0006407501059584,0.0004408150271046,0.0004574133781716,False
+"i might need to come chill out there with y'all just to see what she look like for real for real, but it's crazy",0.22598907,0.0084631037558219,0.5333333333333333,0.115,0.0011949759209528,0.0161817856132984,0.0090126143768429,False
+"uh, it's uh, really, tell you the truth, i ran out of gas one time",0.111500904,0.986039187264248,0.4,0.0,0.000864646048285,0.0010063243098556,0.0013322172453626,False
+"that was it, but i ain't been running out for years",0.0334178,0.0776288430349392,0.5,0.0,0.0009147640084847,0.0005907565937377,0.0004120428930036,False
+it jus this year this year,0.019297661,0.0049044213830447,0.5,0.0,0.0093987323343753,0.0029334102291613,0.0006314426427707,False
+for the first time,0.019575324,0.00192573314982,0.375,0.0,0.0008703698986209,0.0003827587061095,0.000328901107423,False
+"all the other years i've been good, but one time i run out of gas, it was like on asher street and i told my mom i said momma, we just need to go ahead, pull into one of these little gas stations",0.15626417,0.9821176173510496,0.4354166666666667,0.0,0.0122357932850718,0.0015195742016658,0.0021933277603238,False
+"put two dollars worth cause i'm not paying that high ass gas and just make it on to where we need to go at and go to the other gas station, so apparently we thought we had a gas can in the car",0.48794,0.9991155678039496,0.451875,0.075,0.7675476670265198,0.6773360967636108,0.6753161549568176,True
+"we didn't? we left it in the other car, so to this day that why still keep the gas can? but if it ain't for gas, it might just be for my stove",0.029984225,0.9893124477818244,0.53125,0.0,0.0007434742874465,0.0007351295789703,0.0006691524176858,False
+"oh, it's all the time",0.030842619,0.0212902170675533,0.5,0.0,0.0012268434511497,0.0004164244164712,0.0006524660275317,False
+"even the one time i ran out of gas in your drive through, i was just like no, called",0.09709594,0.9994979186350396,0.5,0.0,0.0015856842510402,0.0016929665580391,0.0021488326601684,False
+your brother didn't wanna pick up or nothin,0.17380224,0.9943164806769912,0.5,0.0,0.1566866040229797,0.0052250502631068,0.0561602190136909,False
+"and i was like, said man, where is nearest gas station here and i said ooh, the nearest one was on eightyfour and i know i did not wanna call you cause you were gonna give me that speech called",0.14059398,0.9897055585638048,0.5,0.0,0.0213796347379684,0.0019215360516682,0.0024507746566087,False
+"i said, oh, let me just go ahead and call and then when you came out that door, you came in there looking like she gonna kill me",0.44805592,0.993022455004106,0.5,0.142,0.7782971858978271,0.7412850260734558,0.6078828573226929,False
+that kill me look and just l,0.41256893,0.8137954433187694,0.5,0.37,0.3620368540287018,0.3749849498271942,0.318879634141922,False
+"how you run out of gas in my drive way, i, uh, i",0.16551583,0.9938681990664834,0.5,0.0,0.0086678322404623,0.0017470096936449,0.0172115266323089,False
+"i look at your cousin, dude",0.18253209,0.9358161775951056,0.5,0.0,0.0082734562456607,0.0025677641388028,0.0334386937320232,False
+just sit there,0.08050597,0.9998703142761092,0.5,0.0,0.0043101939372718,0.0008111328934319,0.0010192188201472,False
+just be quiet while you gave me that little speech,0.18647896,0.989019812884752,0.546875,0.0,0.0016038914909586,0.0056531769223511,0.006537155713886,False
+i said,0.022945397,0.8928047791111738,0.5,0.0,0.0013531406875699,0.0004240644047968,0.0004578162042889,False
+"oh boy, to this day i never try to run out of gas in your in your vicinity, and you know y'all made the little gas jokes and you, mama said you need some change",0.2712817,0.0026409867274366,0.59375,0.0,0.1628955751657486,0.029297724366188,0.0186535827815532,False
+i gotcha don't want you to run out of gas,0.31650472,0.0004257781121078,0.5,0.12,0.2457319349050521,0.019762385636568,0.0228760652244091,False
+"and then the brother too, i said, man, you ain't even wanna pick up the phone",0.087430015,0.9990189368876422,0.5,0.0,0.0073833861388266,0.0036369320005178,0.0036658919416368,False
+man coulda picked up the phone,0.03221605,0.9964036130901688,0.5,0.0,0.00233616377227,0.0020557628013193,0.002097524004057,False
+took me to the gas station real quick,0.18647896,0.0142536562745312,0.25,0.0,0.001488952897489,0.0007115028565749,0.0128324273973703,False
+"she wouldn't even have to know, so i was even being crazy",0.21362646,0.9613433414189944,0.8,0.179,0.0346225276589393,0.0581319592893123,0.1757092624902725,False
+"probably just pull out the car and just push the car to the gas station, just like hope somebody has something like",0.19239926,0.0296135606856312,0.5,0.0,0.001409228076227,0.0048590498045086,0.0042410111054778,False
+"yeah, man i, i, i need a ride to the gas station",0.1423886,0.0008631805478925,0.5,0.0,0.0135366236791014,0.0019215671345591,0.0090834582224488,False
+i'm like why he ain't call nobody,0.087430015,0.0496663834007757,0.5,0.0,0.0047120540402829,0.0041688405908644,0.001314511639066,False
+i couldn't call this particular per,0.0253489,0.9900547949753952,0.4166666666666667,0.0,0.0020171564538031,0.0066668651998043,0.0010533896274864,False
+she woulda she woulda got,0.039598234,0.7601482059540442,0.5,0.0,0.0169631261378526,0.0099132945761084,0.0174076650291681,False
+"oh, okay, we met at the bar",0.043375164,0.9591984450589308,0.25,0.0,0.0006542088813148,0.00055644888198,0.0008238385198637,False
+you know we met,0.03599298,0.0048535128065322,0.5,0.0,0.0007335825939662,0.0004127469437662,0.0007069773855619,False
+"we really ain't officially meet the first go around, but i seen you the first go around, but i had thought at first you you",0.029469188,0.8196459356193092,0.38125,0.0,0.001413139514625,0.0014432596508413,0.0036293193697929,False
+that was the dude that you came with,0.087430015,0.010726955694844,0.5,0.0,0.0105169368907809,0.0022889552637934,0.0040908078663051,False
+i thought that was your husband at first and i was looking,0.046465382,0.1552640347389634,0.375,0.0,0.0045340587384998,0.0015297681093215,0.0161530394107103,False
+"i said, oh, she cute, and then i saw you had a thought that was your husband",0.10892494,0.0034129312374459,0.25,0.0,0.0046706567518413,0.0037710918113589,0.0213554203510284,False
+"at the time i said oh, she off limits, but i said that never really ain't never stopped me before",0.083939545,0.8696892153608343,0.55,0.101,0.0036081259604543,0.0014447371941059,0.0019477504538372,False
+"so the second go around, i wasn't even sposta, be at the bar",0.062925026,0.9988812631669683,0.5,0.0,0.004683346953243,0.0008982046274468,0.0017464335542172,False
+"i was sposta, still be at work closing, but we had a manager that was new that was in training and he pretty much just say cause we we talk about playing cards, and i told him i play poker and he was like, oh, okay, and you say well, i'll make a deal with you, mary",0.12051678,0.0106454065933581,0.3642045454545454,0.0,0.0015793384518474,0.0006986972875893,0.0014431881718337,False
+"you get all the dishes done, i'll let you go",0.10300289,0.9869336640681932,0.5,0.0,0.0140022560954093,0.0031322694849222,0.0383535735309124,False
+"okay, boy, they said that about the fastest thing",0.056931525,0.9405093045408572,0.25,0.0,0.000638676516246,0.0015075634000822,0.0017226139316335,False
+i even did dishes and made it just in time for the ten o'clock game,0.064523295,0.0733055782238146,0.6,0.0,0.0012058968422934,0.000360214151442,0.0005482014385052,False
+and that's when i saw you and that's when i carried a conversation and i was saying something about,0.07730943,0.0923160269706961,0.5,0.0,0.0007112306775525,0.0005153858219273,0.0015369181055575,False
+"oh, where you're um, where your husband at? or something",0.111500904,0.9173584803420316,0.5,0.0,0.0093822097405791,0.0063671022653579,0.0207796618342399,False
+be like my husband,0.054534122,0.008277263606785,0.5,0.0,0.1036416441202163,0.002370566362515,0.0010834004497155,False
+that wasn't my husband,0.035134587,0.9877102583076732,0.5,0.0,0.0023732732515782,0.0019251105841249,0.0004812660627067,False
+that was my brother,0.03049926,0.0017576871577959,0.5,0.0,0.0013597724027931,0.0014596788678318,0.0004924744716845,False
+more like,0.021796638,0.154545144834453,0.25,0.0,0.0018789869500324,0.0005050970357842,0.0006805404555052,False
+"oh, so you know, i had to put my little charm on",0.08796701,0.8821341268712665,0.59375,0.0,0.0013229468604549,0.0005555863608606,0.0013239923864603,False
+"then i said okay, so you know i like said, you know",0.028954152,0.9750999237295336,0.25,0.0,0.0007493739249184,0.0005358083872124,0.0007311081863008,False
+we need to go,0.04268845,0.1352003626550539,0.5,0.0,0.0070015336386859,0.0047097490169107,0.0005413486505858,False
+probably hang out,0.12180476,0.0174873046737322,0.5,0.0,0.0377270989120006,0.0380050167441368,0.0033990698866546,False
+go to the movies cause it was one particular movie that i wanted to go see called red tales,0.043375164,0.0078491308239836,0.4583333333333333,0.0,0.0009159173932857,0.0007862614002078,0.0002940151607617,False
+"still to this day i still ain't seen that movie yet still ain't seen that movie yet, so so we met up",0.05852979,0.0538607374429212,0.5,0.0,0.0006503880722448,0.000432096683653,0.0004401516343932,False
+"you know, i had a little spot that we met up at, had fun playing cards, and we ain't got a chance to play monopoly, cause i think we brought that monopoly game",0.049898956,0.8806828449632059,0.5479166666666667,0.046,0.0009696424240246,0.0006897844141349,0.0003046853234991,False
+"we were gonna play that cause i said i'm good at monopoly, but card, eh, i don't know",0.040284947,0.999034495597794,0.15,0.0,0.0014558682451024,0.0008769650594331,0.0005155076505616,False
+i think i just got rusty,0.16344422,0.9991095470004044,0.5,0.0,0.0083766737952828,0.000461326300865,0.0048906221054494,False
+"somehow, you beat me",0.16413476,0.0946903397906054,0.5,0.0,0.0409638248383998,0.0223190318793058,0.0758948922157287,False
+i don't,0.018325835,0.9947231531699278,0.5,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
+"i don't know, but the card game",0.020824814,0.0909616144266083,0.7,0.0,0.0007415040745399,0.0006650779978372,0.000480404618429,False
+"i like the cards, especially when i hit them little quads on you",0.28021416,0.0004214264422186,0.546875,0.0,0.0092624938115477,0.3835521042346954,0.1402023285627365,False
+that was my best moment to this day i remember,0.03444787,0.031911570252688,0.0,0.0,0.0006539015448652,0.0003218775091227,0.0004013851576019,False
+"oh fun times, fun times, mmhm, jacksonville, florida, oh yeah, the massage place, the little hotel",0.058929358,0.0008624055929807,0.43125,0.0,0.0007247391040436,0.000557123159524,0.0005408847355283,False
+then we had a little entertainment,0.036851373,0.019899441254528,0.59375,0.0,0.0006747629377059,0.0004221897979732,0.0008857031934894,False
+a little video,0.10031791,0.1724078555510273,0.59375,0.0,0.0009219179628416,0.0004065399698447,0.0004436659219209,False
+"yeah, mmhm, mmhm, yeah, my very first time",0.034962907,0.0462038252430176,0.3375,0.0,0.0039946301840245,0.0004779442679136,0.0011769173434004,False
+"uh, so many",0.02397547,0.8633785488724868,0.25,0.0,0.0021642663050442,0.0004165068094152,0.0006657682824879,False
+"i guess the club, the good old club that um, we went to, had fun at the club",0.038911518,0.9792947248610512,0.3166666666666666,0.0,0.000655144744087,0.0014720002654939,0.0007244341541081,False
+"first, i was scared and shy and i'm just like man",0.15130237,0.0006190697506812,0.5625,0.318,0.001103606307879,0.0027978015132248,0.0058568394742906,False
+"no, but a little bit more drinks",0.07211506,0.9889032715884032,0.421875,0.0,0.0008266411023214,0.0004046816611662,0.0005262134363874,False
+"oh, i'm on top of the world, on top of the world",0.043031808,0.0003082234131822,0.25,0.0,0.0068465359508991,0.0010371770476922,0.0005603445461019,False
+"oh halloween night, we all dre",0.029812546,0.0044590309504771,0.5,0.0,0.0236447695642709,0.0007578274817205,0.00316694076173,False
+"they all dressed up in costume, went up to atlanta for that one day came back",0.059728492,0.1666887777199509,0.5,0.0,0.0007454547449015,0.0008215834968723,0.0004121809615753,False
+"yes, uh, mmhm, yeah, about four, mmhm, hm, uh, when i'm at work, sometimes i feel that way when when i don't have somebody to come in like they supposed to like a manager",0.05413456,0.1718394559291934,0.5,0.0,0.0007098094210959,0.0007790211820974,0.0006592720746994,False
+"for instance, i'm stuck after i open and i gotta turn around and close, cussing everybody out, including the manager that didn't show up",0.27045983,0.9944336180925027,0.5,0.08,0.0234461612999439,0.0136217446997761,0.0017717125592753,False
+"call him every single name in the book, and then and i tell my employees well, y'all hungry, help y'all selves t and uh, and then had one manager who stole fifteen hundred dollars, but still kept they job",0.24418297,0.0010269940938599,0.5357142857142857,0.0,0.0248232204467058,0.0153617486357688,0.0079386625438928,False
+"i said, i wanna learn that trick one day, steal two thousand dollars and still keep my job cause i guarantee if that was me, they'll have me locked up underneath the jail",0.18450552,0.9957530384417278,0.55,0.121,0.1460339874029159,0.0821835473179817,0.0053725447505712,False
+throw away the key,0.1621016,0.9900226641525144,0.5,0.0,0.0187285672873258,0.0065715759992599,0.0514206513762474,False
+she was white,0.1943727,0.0816572673080889,0.5,0.0,0.108527548611164,0.1081413477659225,0.0405350141227245,False
+"yeah, but they looked at it",0.030327583,0.9981174854894908,0.5,0.0,0.0006134821451269,0.0003795420925598,0.0005568523774854,False
+"oh, she young",0.048525527,0.0743114696993076,0.45,0.0,0.0040161465294659,0.0020441564265638,0.0056355935521423,False
+"i say, i don't give a darn if she young",0.5958905,0.1790889802931648,0.45,0.0,0.7080298066139221,0.4227965474128723,0.8423470854759216,False
+she know that was a damn scam,0.8202001,0.999637529742993,0.5,0.561,0.8643239736557007,0.9492512345314026,0.9341763257980348,True
+i don't care what y'all believe,0.317855,0.9998949339975371,0.5,0.345,0.1247665509581565,0.0776813328266143,0.0128051284700632,False
+i believe she,0.021657806,0.0040399293729938,0.5,0.0,0.0006842489237897,0.0004677824035752,0.0008579591521993,False
+"she pocket half of that money, gave them folks their money, and then she gonna say she had to cut up the card and throw away the receipt for the first time",0.10699297,0.9999726977423388,0.4791666666666667,0.063,0.0053288177587091,0.0025336320977658,0.0007855416624806,False
+i woulda looked at it,0.03994159,0.999951654735888,0.5,0.0,0.0007293535163626,0.0006865920149721,0.0016012494452297,False
+"and when did she get some scissors at while she was at walmart, she got a phone call to somebody from taco bell from corporate, saying that, oh, your store's under investigation with three people",0.032902762,0.9994678742292292,0.5,0.0,0.0007182309636846,0.0006256561027839,0.0020166507456451,False
+"and uh, we need you to take the money out the safe and wired it here and at this location",0.10828095,0.9966932375854682,0.25,0.0,0.0010658908868208,0.0009754122584126,0.0015063788741827,False
+"and and i'm just like, first off, corporate won't even call you that late at night",0.028267438,0.9996904353187012,0.5083333333333333,0.0,0.0125110484659671,0.0014643630711361,0.0010915138991549,False
+"anyway, it's midnight",0.020269485,0.072457121819246,0.5,0.0,0.0012161111226305,0.0004012042481917,0.0008500778931193,False
+they wouldn't call you,0.094410956,0.9986794470243654,0.5,0.0,0.0132835647091269,0.0016750458162277,0.0008101526182144,False
+"they be closed around five o'clock in the afternoon, so my boss gonna ask everybody else like, oh, where was i at? i was riding home",0.05773066,0.9655495284265236,0.55,0.0,0.0023710841778665,0.0007832506671547,0.0017582847503945,False
+"that's where i was at cause, i guess apparently, when she got that phone call, i probably just left, probably about ten minutes ago, so she thought i probably mighta coulda been there to to a stop that i'm like, nah, i don't think i wouldn't have even stop that",0.043375164,0.9999809837987031,0.4916666666666666,0.067,0.0009453694801777,0.0005168545176275,0.0004878199251834,False
+"i'd probably a wait til she took all the money out the safe, and probably woulda whacked her on side of the head and take the money and dip",0.41807786,0.999761075439506,0.25,0.0,0.3530945181846618,0.6820850372314453,0.6474452614784241,False
+"she wouldn't even know what was coming, cause she was dinky anyway, and uh, she was just just the fall person that we could just put everything on her",0.42234805,0.9921330452130454,0.5,0.0,0.0118058416992425,0.1879465878009796,0.095072217285633,False
+"but you know she did a lot of crazy things, you know, but i think when she made that decision and uh, she was scared, and then when my my boss was interviewing her, she asked her this one question, like where are your parents at? you know, cause i know she probably say, if her parents wasn't here, she probably wanna choke the shit out of her cause the look she had like ah, he gave me all my damn money",0.58919406,0.9975087584062862,0.7,0.149,0.8529939651489258,0.947131872177124,0.9491747617721558,True
+"if they don't know who call, and then you say, oh, they called the store, but then the phone went dead",0.11343288,0.99993812283089,0.6,0.229,0.0050987610593438,0.0012837657704949,0.0013331001391634,False
+but then they called your cell phone,0.01721518,0.9976047037855564,0.5,0.0,0.0108200209215283,0.0006563737406395,0.0007628462044522,False
+but how they got your cell phone number? then they call private,0.028267438,0.9964601549927709,0.5,0.0,0.0012311548925936,0.0009755349601618,0.0005079192342236,False
+it's crazy and then she ain't wanna,0.2712817,0.8985456152916964,0.8,0.286,0.0866575539112091,0.0751607120037078,0.2160744220018386,False
+by the subpoena her phone records,0.03461955,0.9997293320940812,0.5,0.0,0.0007851626724004,0.0005119076813571,0.0021980602759867,False
+i say,0.024662184,0.1685202346241568,0.5,0.0,0.0014184808824211,0.0008329706615768,0.0006124163046479,False
+"oh, i know she guilty",0.13017663,0.7831895826745595,0.75,0.412,0.0131386695429682,0.0171514265239238,0.0142046548426151,False
+she guilty,0.23891698,0.9614235194464056,0.75,0.737,0.0259462147951126,0.0432827845215797,0.1056478023529052,False
+"mmhm, well, they called her and n they pretty much gave her simple instructions on what to do cause they say she don't do it",0.08635602,0.9994856087743256,0.425,0.0,0.0015725004486739,0.0005788779817521,0.000406219594879,False
+"they were gonna close taco bell down for two weeks, or whatever case may be, so we looked at her, so you really want us to work? hell, i wouldn't even gave 'em the damn money",0.5851118,0.9998972588622728,0.4888888888888889,0.173,0.4122101366519928,0.9512764811515808,0.912864863872528,True
+talking about closing store,0.018187003,0.9833440133049028,0.5,0.0,0.001344270654954,0.0004401946207508,0.0007133798208087,False
+"now, i coulda work at another store in valdosta and been done with it, you know, but you really tryna make us work",0.058130227,0.0692392109659458,0.4,0.0,0.0012995444703847,0.0007965788827277,0.0010922425426542,False
+"so we now where your mind at right now, so after that incident she never did it no more",0.04234509,0.9996238488082044,0.4910714285714286,0.0,0.0011284997453913,0.0017666992498561,0.0005845785490237,False
+"so we wound up had to babysit her, especially me",0.31650472,0.0033379096407937,0.5,0.0,0.0066971918568015,0.0007690067868679,0.0009863451123237,False
+"like some nights i have to close with her or, or i have to work with her all up to a certain time just to make sure",0.06771983,0.0510663394489098,0.3214285714285714,0.0,0.0020626953337341,0.0009846161119639,0.0172024630010128,False
+and i told her this before i go,0.058929358,0.8155188536246981,0.5,0.0,0.0011241110041737,0.000754669192247,0.000733544875402,False
+"i said whatever you do, don't answer that damn phone",0.74195385,0.9997194961278932,0.5,0.0,0.9185771346092224,0.9788970351219176,0.9674578309059144,True
+i don't give a damn who it is,0.6556601,0.9999066179331304,0.5,0.0,0.8706001043319702,0.7577317357063293,0.734465479850769,True
+don't pick up the damn phone,0.74195385,0.9998822366593672,0.5,0.351,0.9137133955955504,0.9739587306976318,0.9454796314239502,True
+"don't nah, aye, y'all watch this damn phone for her",0.73034537,0.8981042784694366,0.5,0.252,0.7945570945739746,0.9749314785003662,0.950668454170227,True
+"don't even pick up, you know, so ever since that day i, i just don't even put money in the system",0.055732824,0.9999906409291424,0.5,0.0,0.0021182901691645,0.0007131462916731,0.0006789273465983,False
+"no more like i literally have to check to validate, just to make sure everybody drop what they supposed to drop cause she taught everybody a lesson and then the safe situation",0.043718524,0.9995210480585606,0.375,0.212,0.0012398893013596,0.0005030295578762,0.0006058955332264,False
+"count the damn safe cause like this girl came at me, talking about rd_name2 did you know about the safe, n? n? what? what about? what's wrong with the safe? it's short, so you know i'm sitting here making food",0.56268007,0.999968465296282,0.4,0.112,0.4421967267990112,0.873190701007843,0.8710681200027466,True
+i'm like,0.020963646,0.0296584186526401,0.5,0.0,0.0016913731815293,0.0005993730155751,0.0005510135088115,False
+okay,0.017145762,0.7800379602721749,0.25,0.0,0.0009591358248144,0.00058264285326,0.0005273594870232,False
+"a how much short? you talking about? a hundred dollars short, two hundred dollars short, shook my face real short",0.28021416,0.9999730554138364,0.5,0.085,0.0602837540209293,0.0272531192749738,0.6254476308822632,False
+i say,0.024662184,0.1685202346241568,0.5,0.0,0.0014184808824211,0.0008329706615768,0.0006124163046479,False
+"well, shit, this ain't my damn store",0.8890526,0.9984077955218276,0.6,0.301,0.977013885974884,0.9753938913345336,0.981023907661438,True
+"i'm just visiting, so i ain't have nothing to do with it",0.036508016,0.990132052018908,0.5,0.0,0.0012876752298325,0.0007880601333454,0.0007803533808328,False
+"i just came here to make food, so the girl tried to call me in earlier, trying to get me to help her out cause she was way behind, but i came in at my normal time cause i ain't stunting that",0.17034957,0.0012093469457939,0.5416666666666666,0.0,0.0024665840901434,0.0024064609315246,0.0033499805722385,False
+"so all i said that safe situation that between the girl who call who closed last night and the opening manager, i was just there to make food, and that's my story, and i'm sticking with it",0.09870692,0.0903502644190867,0.4333333333333333,0.0,0.0007593137561343,0.0017274882411584,0.0009900371078401,False
+"you know, so the other girl she got the hell on, she had finally got her job being a nurse",0.2885035,0.0237054832739544,0.53125,0.195,0.4528255462646484,0.0618778802454471,0.2656636238098144,True
+so and then the other girl that stole the money she left too,0.35227737,0.9947794268189064,0.53125,0.0,0.0122947348281741,0.0099224215373396,0.0027826961595565,False
+"she quit after her brother died, so she was still grieving over that, so she thinking about, she wants to come back, my big boss, thinking about wanting her to get her to come back",0.14418322,0.1018897901448924,0.475,0.173,0.0020101135596632,0.0020695086568593,0.0023119761608541,False
+"i say yeah, right on, be less stress and less problems",0.03839648,0.0039942666451149,0.5079365079365079,0.325,0.0020605283789336,0.0024014306254684,0.0011532793287187,False
+"but yeah, well, i was coming back from my high school reunion and i was like, probably about thirty forty minutes away from valdosta, and i had got sandwiched in",0.06252546,0.9164585192417876,0.46,0.0,0.0006817552493885,0.0005516441306099,0.0012199159245938,False
+"yeah, and i got sandwiched in by two semi trucks, and they swore up and down that they claim i hit them, pushed them off the road",0.28972426,0.7684437108072142,0.5777777777777778,0.0,0.1111418753862381,0.0456302799284458,0.0941696465015411,False
+like how can i hit y'all i'm a itty bitty car,0.5174561,0.9458696676656532,0.5,0.0,0.3215014338493347,0.354510098695755,0.4696460962295532,False
+i can't even move,0.033246122,0.9999964828969388,0.5,0.0,0.0070369127206504,0.0019517053151503,0.0009698693174868,False
+no damn semi truck,0.5026305,0.9975817830037426,0.5,0.0,0.8901733160018921,0.9605093002319336,0.9171661734580994,True
+"so one of the witness said that one of the trucks came in my lane, but he don't know which one he can't remember",0.0334178,0.9808793586258548,0.5,0.0,0.0007714483654126,0.0008144718012772,0.0005147983320057,False
+"it'd been that long ago, so of course they wind up paying the settlement out and everything, but after that you know i still have my fear from time to time, so i don't try to get by any trucks, period or its, just like i just developed a case of claustrophobic, like two cars riding side by side with me and i don't like that",0.07251463,0.9997268880055132,0.6166666666666667,0.092,0.0022588928695768,0.0005295801674947,0.0005969441263005,False
+"i mean, just just in general when i'm driving uh, two thousand, fifteen, mm, um, i wanna say, probably the late part of two thousand, sixteen, late part, but you know i still drive",0.023460433,0.9160381956200204,0.6078125,0.0,0.0008289460092782,0.0005552528309635,0.0005579192074947,False
+"you know, i don't like driving long distance for a while or certain times of the days",0.027237365,0.997699069449045,0.4589285714285714,0.11,0.0009234929457306,0.0006663659005425,0.0008027970325201,False
+like all these damn semi trucks,0.6809553,0.0030861685182972,0.5,0.293,0.9245173335075378,0.9805732369422911,0.9669362306594848,True
+"i don't like being around them all the time, not on the back roads, but it just like when you leaving, coming on the express way at a certain time at night, probably about nine or ten o'clock",0.05613239,0.0030728750609643,0.4642857142857143,0.037,0.0013047744287177,0.0024811895564198,0.0014917678199708,False
+seems like there's more of 'em coming out at night than versus during the day time,0.027065687,0.99113362163047,0.25,0.0,0.0025011743418872,0.0015979229938238,0.0005704372306354,False
+"but uh, i guess technology wise, technology job wise, you know, it's like now all of a sudden valdosta decide they wanna add a little camera on they street light on",0.03204437,0.9974268218273444,0.33875,0.0,0.0006998114986345,0.0004624616412911,0.0005043424316681,False
+"they, you know on they street lights, so i guess they tryna be like florida",0.048525527,0.8871197694902576,0.5,0.0,0.0045158979482948,0.0019177392823621,0.000667194603011,False
+"i guess so if you speed, they send you a ticket in the mail or something, but job wise, you know, it still need a lot more jobs",0.08290337,0.8888889319419395,0.2,0.0,0.0007085297256708,0.0009690486476756,0.0009370145853608,False
+we don't need no more damn restaurants,0.7007861,0.0066794258025231,0.625,0.0,0.556527316570282,0.9412442445755004,0.9060526490211488,True
+"we do not need no more damn restaurants, you know, but plus, in atlanta, it's a lot to do",0.62792164,0.0019341682359752,0.625,0.0,0.2874041795730591,0.9143019318580629,0.8590809106826782,True
+way more things to do versus valdosta,0.13476147,0.0007773691943917,0.25,0.0,0.0013835469726473,0.0003422118606977,0.0005774603923782,False
+just like,0.017770508,0.0073980474534102,0.5,0.0,0.0129908034577965,0.0004319607978686,0.0005892815534025,False
+ugh,0.0825038,0.9999713862801805,0.5,1.0,0.0454722233116626,0.004369796719402,0.0009731399477459,False
+"okay, i have",0.021380141,0.0384136804102039,0.25,0.0,0.0007555517950095,0.0003717313229572,0.0004714237293228,False
+"i even say you know, just blow this little place up and just put florida close to atlanta",0.22598907,0.0078429609906475,0.59375,0.0,0.1911222338676452,0.1226388290524482,0.0536386854946613,False
+"be done with it after i take all the cute girls out of valdosta, or really the two two nine area up here cause i really never knew it was the two two nine",0.21715863,0.9992111555117222,0.4,0.0,0.0016710946802049,0.002233299659565,0.0069715119898319,False
+"i just knew the main area codes, but two two nine, kind of like snuck up on me on that one cause i'm like who is y'all where did y'all come from? seem like i just brain wash a lot of folks like oh valdosta never existed",0.28517663,0.9999481972447432,0.3083333333333333,0.0,0.0260230060666799,0.0166254378855228,0.0121577773243188,False
+that was just a myth,0.029469188,0.9752955402328424,0.5,0.0,0.0011169896461069,0.0003581393102649,0.0004123409162275,False
+it might,0.022773718,0.7864643036840849,0.5,0.0,0.0010662204585969,0.0004779017181135,0.0004185588040854,False
+i don't know,0.017770508,0.9871410241190112,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+mm,0.033246122,0.1479092357308222,0.5,0.0,0.0010840946342796,0.0008179078577086,0.0005002457182854,False
+"i guess maybe the customers like when they give you your money, they just slap it on the ground on the counter",0.1473238,0.9993533299320762,0.5,0.0,0.1096863076090812,0.0556888058781623,0.2178548872470855,False
+don't wanna touch your hand or nothing,0.16035037,0.9999036373373156,0.5,0.0,0.3596827983856201,0.0653215199708938,0.0188168883323669,False
+me,0.019852988,0.0165052877707137,0.5,0.0,0.0023152583744376,0.0006619607447646,0.0004138014046475,False
+i just be funny,0.04680874,0.0004628865299989,0.375,0.0,0.0008276175940409,0.000339716556482,0.0004971314920112,False
+i take the money,0.03736641,0.9915798168239076,0.5,0.0,0.0019261194393038,0.0009680436924099,0.0005105704767629,False
+"then when i give 'em the money, i just give them a a sh, a handshake or something like hey, have a great day",0.16965903,0.902396574890048,0.0999999999999999,0.0,0.0225768219679594,0.4459069371223449,0.5837166905403137,False
+come back again just to see what they gonna do,0.057331093,0.0767881957914046,0.5,0.0,0.0135244997218251,0.0015599272446706,0.0023891918826848,False
+"but other than that, that's it, you know, and then maybe when i get a work at home job i may experience when one person call me the n word, but you know, mmhm, so i told my boss that and he had asked me what's his account number and everything, and he sent it up to higher commands whatnot and they went ahead and disconnected they service cause they don't tolerate that",0.09978092,0.9999738303687484,0.46875,0.0,0.0020600017160177,0.0005757701583206,0.0006329175666905,False
+"uh, i believe i can say yeah, i mean the opportunity's out there",0.040971663,0.1007331699390578,0.65625,0.0,0.0005872490582987,0.0004033185250591,0.0004653166397474,False
+"just gotta grab it, you know, cause it's really no excuse",0.17380224,0.9730321055772344,0.4875,0.127,0.0013319294666871,0.0013732911320403,0.0017994754016399,False
+"i mean other then, everybody's upbringings may be a little bit different, but everybody had the same chance that you have",0.058929358,0.1274758803480346,0.5625,0.0,0.0005642935284413,0.000438541319454,0.0006112998235039,False
+"some may have a better chance because they parents may be little bit well off a little bit, or may had the extra means, but i wouldn't say i wouldn't have that deterred you from not getting to what you need to get to just because of that, you know, cause like just listening to everybody's stories and stuff",0.038053125,0.9369834981399144,0.484375,0.0,0.0009741992689669,0.0004478442424442,0.000690754095558,False
+"you know, even one of my friends",0.032902762,0.0005188919253543,0.5,0.0,0.0007685404270887,0.0004659768601413,0.0005018861265853,False
+you know,0.03994159,0.0417974316146254,0.5,0.0,0.0024898352567106,0.0004940603976137,0.0006626065005548,False
+he's doing good,0.032731086,0.0048580135062122,0.15,0.0,0.000682923826389,0.0003912174724973,0.0022747470065951,False
+"despite of an in high school, his parents were going through a divorce or something or being separated, but he's doing well, you know, got his own family and everything else me",0.030670939,0.001003447386925,0.31,0.0,0.0058583472855389,0.000514718121849,0.0005780404899269,False
+i'm just the last one still waiting,0.036508016,0.9977533460988278,0.5,0.0,0.0058220759965479,0.0006405449821613,0.0006735100760124,False
+"i don't know, waiting on the right person",0.03994159,0.2131997831676156,0.3571428571428571,0.0,0.0007576303905807,0.0009804238798096,0.0011005711276084,False
+i guess,0.024490505,0.9950506014261138,0.5,0.0,0.0008824201067909,0.0004216697416268,0.0004230588092468,False
+"i mean, i probably want to have a child with a particular person, but she was like, uh, uh, she said no, n it's not happening",0.11021292,0.999861908995912,0.5364583333333334,0.0,0.0020076010841876,0.0023797363974153,0.0009522380423732,False
+even if i tried,0.0186035,0.9953832657249752,0.5,0.0,0.0014548163162544,0.0005300528719089,0.000503062386997,False
+it's not happening,0.019714156,0.9999563044653588,0.5,0.0,0.0010661660926416,0.0004459064512047,0.0003075620916206,False
+"i said, even if i was to be like chucky, put the little base inside of you",0.3897107,0.0110972351128851,0.746875,0.0,0.0773172602057457,0.0288999732583761,0.1642829924821853,False
+i'm like she getting pregnant,0.1731117,0.992400166209945,0.3333333333333333,0.0,0.2899299561977386,0.0240746568888425,0.0043378919363021,False
+i don't care and then get twins,0.18746567,0.9867964374368916,0.5,0.305,0.3143410980701446,0.0193659700453281,0.0095297107473015,False
+it'd be alright,0.0253489,0.9992769372613493,0.5,0.0,0.0006307196454145,0.0003472167009022,0.0003868784115184,False
+"mmhm, um, it's the young folks",0.046122026,0.0453489307514895,0.45,0.0,0.0007606198778375,0.001274496782571,0.0022072533611208,False
+i'll just tell them,0.037023053,0.9123101855990188,0.5,0.0,0.0012353296624496,0.0005856485222466,0.0024070446379482,False
+don't give up,0.044748597,0.0065447028717057,0.5,0.0,0.0092849601060152,0.0018619461916387,0.0035522726830095,False
+"you know, don't give up cause it may seem tough",0.0495556,0.1694431165062147,0.6944444444444444,0.143,0.0011112028732895,0.0010453027207404,0.0019886107183992,False
+"now you know, it may be like you may experience like a little struggle, or you may feel like",0.11729682,0.7989699895431757,0.59375,0.082,0.0007734033861197,0.0005313189467415,0.0007891065324656,False
+"oh, this person's being hard on you, or, or you feel like you can't make it",0.19634613,0.9992904393603892,0.6458333333333334,0.078,0.0268139708787202,0.0115235699340701,0.0182946976274251,False
+just don't give up,0.043718524,0.015882849946762,0.5,0.0,0.0027499774005264,0.0008365927496924,0.0008627306087873,False
+"you know, just keep trying",0.02792408,0.9957122340850268,0.5,0.0,0.0010743988677859,0.0006347588496282,0.0009871409274637,False
+"keep going, you know, because some folks wanna see you fail, and then there's some folks wanna see you succeed",0.23628397,0.2260878794697126,0.75,0.142,0.1222127079963684,0.0078529762104153,0.0050694146193563,False
+"you know, cause simple fact that me, me coming back to google",0.019575324,0.996414313429143,0.5,0.0,0.0042072748765349,0.000602962099947,0.0013924709055572,False
+"you know, lot of folks felt intimidated cause the simple fact that they figured that i would take they job or be in a better position than them, and they've been here a lot longer than me, you know, cause, even like at moultrie, we had three assistant managers and no store manager and they all got gone in a mysterious way, i would say so now, since they all gone, i'm next in line to be the assistant, and you know, and you know, i just never gave up cause i knew eventually they gonna go",0.029812546,0.0038659221893406,0.4375,0.049,0.0009211303549818,0.0005343494703993,0.0004923149244859,False
+one of them's on his last leg,0.14283726,0.1133062172635573,0.5,0.0,0.1747068464756012,0.0263687781989574,0.0062700868584215,False
+the other one,0.026207292,0.0326949900565833,0.5625,0.0,0.0012983221095055,0.000475143577205,0.0005843229009769,False
+it was just unforeseen mistake,0.06132676,0.9992854319594208,0.5,0.375,0.0013213652418926,0.0007322164601646,0.0005428814911283,False
+but you know it's you know,0.017354012,0.0135620686276821,0.5,0.0,0.0014998648548498,0.000878999591805,0.0008250923710875,False
+"i say folks fire they own selves pretty much, you know",0.21980777,0.8196573214953208,0.3249999999999999,0.164,0.1445653438568115,0.0319984816014766,0.028762312605977,False
+"and then one person you know, they just don't like change or they feel like",0.06012806,0.978917023759432,0.5,0.12,0.0014364757807925,0.0008093782817013,0.0012387259630486,False
+"oh, okay, i think i met my match, so just don't ever give up",0.12824467,0.0181877148841923,0.25,0.0,0.0042000971734523,0.0009366133599542,0.001835003728047,False

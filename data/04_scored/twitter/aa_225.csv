@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user @user #fight . people ask "" what do you want to be when you grow up ? "" let's ask "" what did god call you to be ? """,0.14822112,0.0,0.0,0.095,0.0704394355416297,0.0037749330513179,0.0019214958883821,False

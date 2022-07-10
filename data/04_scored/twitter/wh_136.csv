@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user the wise words of the ghost of ccbc's past . hahaha jokinnng ! haven't heard from you in a while though stranger,0.13146462,0.0,0.0,0.079,0.0453755930066108,0.0021505581680685,0.0010943120578303,False

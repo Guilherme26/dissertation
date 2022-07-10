@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user dont be a loser,0.5124461,0.0,0.0,0.0,0.8892049193382263,0.9770914912223816,0.8070150017738342,False

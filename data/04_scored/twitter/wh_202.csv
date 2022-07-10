@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"joey really loves 90210 . he doesn't want to admit it , but he totally does .",0.029812546,0.0,0.0,0.127,0.0012831545900553,0.0004915941390208,0.0004685950989369,False

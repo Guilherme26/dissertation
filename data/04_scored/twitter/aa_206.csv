@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+loveeeeee lovee l-o-v-eeee & affection,,0.0,0.0,0.0,0.0498539768159389,0.0054777730256319,0.0062976200133562,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+it's cold in here . #imfreezing,0.033246122,0.0,0.0,0.0,0.0029513919726014,0.0008333374862559,0.0011318905744701,False

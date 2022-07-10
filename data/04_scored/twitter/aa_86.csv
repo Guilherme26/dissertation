@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+ik dis nig saw my stats/tweets why tf he woke me out my sleep,0.37360558,0.0,0.0,0.0,0.5842260122299194,0.245238110423088,0.0981369167566299,False

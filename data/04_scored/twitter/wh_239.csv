@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user you dont love my pretty pictures ?,0.12631269,0.0,0.0,0.5,0.0020331956911832,0.0194949731230735,0.0097921397536993,False

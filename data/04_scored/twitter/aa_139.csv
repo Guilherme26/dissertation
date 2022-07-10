@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+lets see if i got enough strength to make myself some breakfast so then i can take my meds,0.11021292,0.0,0.0,0.0,0.0026903206016868,0.000920372782275,0.000928005494643,False

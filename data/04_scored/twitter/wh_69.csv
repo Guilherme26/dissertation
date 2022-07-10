@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+peter jackson you didnt let me down !!! 2 words for the hobbit kick arse,0.83020335,0.0,0.0,0.0,0.5331568121910095,0.3273146748542785,0.9771503210067748,True

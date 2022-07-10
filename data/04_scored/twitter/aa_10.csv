@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user at da house i was dwn ridin around nigga wasn't out dere doe,0.45353866,0.0,0.0,0.0,0.7766443490982056,0.8294009566307068,0.7615769505500793,True

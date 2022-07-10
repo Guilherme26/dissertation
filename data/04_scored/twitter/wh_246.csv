@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user wait ... didn't i show you this ?,0.032731086,0.0,0.0,0.0,0.0011082718847319,0.0015291600720956,0.0006684187683276,False

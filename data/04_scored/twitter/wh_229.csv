@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user what wrong grumpy ,0.2712817,0.0,0.0,0.508,0.0137110371142625,0.2093730419874191,0.0718587264418602,False

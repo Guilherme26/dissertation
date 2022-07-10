@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+it took for a whole stranger to tell me he proud of what i'm doing n how i'm fighting for my babies !!!,0.13655609,0.0,0.0,0.089,0.004450031556189,0.0028419946320354,0.0216731820255517,False

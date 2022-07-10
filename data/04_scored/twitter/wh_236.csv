@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i hate mondays . and tuesdays . and wednesday . and the next two days after that too . i just like weekends . i have learned to live for them .,0.15743166,0.0,0.0,0.102,0.0180669892579317,0.0035164321307092,0.0077249384485185,False

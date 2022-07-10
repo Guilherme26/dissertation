@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i'm soo in love with my prom dress  #goinoutwithabang,0.23277332,0.0,0.0,0.0,0.0151016227900981,0.0151436729356646,0.0006999772740527,False

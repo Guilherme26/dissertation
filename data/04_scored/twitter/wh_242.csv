@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+pretty sure i just pulled a muscle !! ugh,0.12180476,0.0,0.0,0.188,0.0312005393207073,0.0154819302260875,0.0050010127015411,False

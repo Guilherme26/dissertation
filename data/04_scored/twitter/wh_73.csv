@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"anddddd , i can't seem find permanent happiness . it's always temporary .",0.024147147,0.0,0.0,0.0,0.0019160240190103,0.0004076698969583,0.0004862542264163,False

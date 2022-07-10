@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+why can't people just leave me alone ? im happy for once and everyone is trying to ruin it . damn !,0.6887467,0.0,0.0,0.287,0.8384026885032654,0.9541960954666138,0.9340245723724364,True

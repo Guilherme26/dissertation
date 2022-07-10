@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i'm allergic to fake ppl,0.39230084,0.0,0.0,0.639,0.0386677980422973,0.1536931246519088,0.0880313739180564,False

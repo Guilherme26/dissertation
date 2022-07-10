@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user lol shut up he funny thoe .,0.5535644,0.0,0.0,0.0,0.8974623084068298,0.6572059392929077,0.5861997604370117,False

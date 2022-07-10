@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i put alot of stuff off til the last min,0.15071863,0.0,0.0,0.0,0.0133186168968677,0.2485563606023788,0.1223356127738952,False

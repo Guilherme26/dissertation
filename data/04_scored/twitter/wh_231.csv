@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+we still doing lunch at 1 tomorrow ? @user @user,0.016937515,0.0,0.0,0.0,0.0009306086576543,0.0007062547956593,0.0003441749431658,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+turned out to be everything you said you wouldn't be . #goodbye,0.05613239,0.0,0.0,0.0,0.0036476864479482,0.00685331877321,0.0009750117314979,False

@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+that's why it was a must that i got a pepsi before this class .,0.035477944,0.0,0.0,0.0,0.0009931281674653,0.0009971524123102,0.0006673182942904,False

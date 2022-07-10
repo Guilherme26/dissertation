@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+i got pair of 5's size 12 hit me if you want them,0.45964533,0.0,0.0,0.0,0.0230439342558383,0.0702388286590576,0.0314847491681575,False

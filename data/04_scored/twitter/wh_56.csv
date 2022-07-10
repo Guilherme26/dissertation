@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"“ @user : probably the coolest thing i can do @user ” yeah , pretty frickin ' sweet ! thanks",0.28948012,0.0,0.0,0.0,0.0163352154195308,0.7568880915641785,0.4271857440471649,False

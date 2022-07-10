@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"@user yes , when he wasn’t wrestling the giant anaconda .",0.068918526,0.0,0.0,0.0,0.0069936085492372,0.0005906836595386,0.0006859141285531,False

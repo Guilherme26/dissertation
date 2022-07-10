@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+lol my bestfrienddd snapping bro,0.1464265,0.0,0.0,0.0,0.0080689536407589,0.0057450742460787,0.2034041434526443,False

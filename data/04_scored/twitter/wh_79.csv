@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+@user a 20 dollar bike for the game bike race lol,0.11794081,0.0,0.0,0.0,0.0016404398484155,0.0006799821858294,0.0003990658442489,False

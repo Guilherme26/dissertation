@@ -1,0 +1,605 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+"text, i know i don't",0.0224908,0.9975958940710384,0.5,0.0,0.001731993863359,0.0019925152882933,0.0004028639232274,False
+i,0.018187003,0.1366178956965055,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i guess it's just over the course of the year,0.020130653,0.99910956942405,0.5,0.0,0.0006143387290649,0.0003692467871587,0.0003516488941386,False
+"everything balances out yknow, so um-hum uh, until they start getting a little bit better equipment, because the equipment is really ancient",0.10300289,0.1550111866357627,0.4145833333333333,0.0,0.0009118949528783,0.0004731396329589,0.0009437288972549,False
+"i mean, there's stuff there that's older than i am",0.033246122,0.9944786866797224,0.5364583333333334,0.0,0.000703333702404,0.0004559817316476,0.0020477683283388,False
+"so, but they like, uh, port columbus is getting a new tower and they're it's supposed be done in about three and a half years, and the equipment they're getting is all brand new stuff",0.044405237,0.7800560181179689,0.4823232323232323,0.0,0.0007281294674612,0.0004098295466974,0.0004776470887009,False
+"it's not like they're taking all the old junk we've got and moving it over there, so yknow that will help",0.26589394,0.9998416257294708,0.45,0.089,0.0094562023878097,0.3593522906303406,0.1737163513898849,False
+"and and nationwide, they're also putting new stuff in, but the bad part is is um, picture, your father is your father computer literate",0.13521013,0.9731385435110508,0.6409090909090909,0.171,0.186230719089508,0.1863528043031692,0.0512466877698898,False
+"okay, he's he's at his job and tomorrow morning they come in and they go",0.028954152,0.003741554887235,0.25,0.0,0.0062096258625388,0.001294040121138,0.000707347295247,False
+everybody's gonna put all their work on computer,0.033761155,0.978573814957219,0.5,0.0,0.0189275033771991,0.0025555207394063,0.0023047151044011,False
+"well, his speed was like say seventy mile an hour before, and now it's gonna be twenty because he doesn't know how to do it and that's the problem they're running into",0.08689302,0.9983501239664618,0.5,0.074,0.0019205843564122,0.0007870304398238,0.0027643167413771,False
+"they have all these qualified people who know how to separate airplanes and how to get them in trail, and yknow everything",0.058929358,0.0005963622795046,0.5,0.0,0.0009030504734255,0.0003919898590538,0.0012334918137639,False
+"but now they've gotta do this extra part, which is going to make their job easier down the road, but everybody hates change",0.17661177,0.1223059758719153,0.5388888888888889,0.135,0.0193385332822799,0.0037304193247109,0.007766387425363,False
+"so what they're doing now is it? they're having problems because people can't take the volume of airplanes because they're trying to keep up with the computer, so it's making it even slower yet, but once they get in yknow in the swing of things, it'll be okay, but yknow, you're you're talking a while",0.061726328,0.9912122546040748,0.25,0.032,0.0008027400472201,0.0008072985801845,0.0043757483363151,False
+"yknow, because it's not something that you can do overnight, but it'd be like your dad learning the computer",0.09924392,0.8744462786665923,0.5,0.0,0.0213843937963247,0.0021372926421463,0.0222198497503995,False
+"he's not going to do it overnight and right, and if he, if he's open minded enough to do it, eventually he'll see the light and say boy, this would make it a lot easier",0.05613239,0.9704451974060476,0.4142857142857142,0.0,0.0006184761296026,0.0015053722308948,0.0009114710264839,False
+but there are people who are like i will not do this yknow,0.05253629,0.93478475971011,0.5,0.0,0.0114954030141234,0.008440469391644,0.0013668629107996,False
+"so those the ones that hafta be drug screaming and kicking, right, um-hum right, um-hum there's a lot of uh money money in town here and there's sometimes like you'll see a uh, one entire airplane that goes to cancun, and it's like people are going on vacation or people who are gonna go gambling in jamaica",0.21715863,0.9843443427393264,0.4047619047619047,0.042,0.1726083904504776,0.0687348470091819,0.0275663007050752,False
+that's all it is,0.026722329,0.1412602824808074,0.5,0.0,0.0015872062649577,0.0004362565814517,0.0009574918658472,False
+"so then when that comes in, we have these really weird painted airplanes and we're like who is that and they'll go",0.05653196,0.2158175185070498,0.75,0.081,0.000922207836993,0.0006831308710388,0.0059132408350706,False
+"that's transmeridian, and we go write that down because i don't know that name yknow, so um-hum um-hum right i, the accents sometimes, but uh they? they? uh, they're okay",0.1539292,0.9166205362611214,0.394973544973545,0.0,0.0027009269688278,0.0007748433272354,0.0010329359211027,False
+"i mean, no big",0.022945397,0.996391129014232,0.578125,0.423,0.0021950190421193,0.0013957109767943,0.0012767926091328,False
+no big problem,0.02792408,0.0087226849833236,0.5,0.403,0.0015937528805807,0.000749060884118,0.000981078017503,False
+"but uh, the the accent sometime",0.046122026,0.9597470959004788,0.5,0.0,0.0005952448118478,0.0003783524734899,0.0004232153005432,False
+"it's like, um, there's sort of a uh, running joke",0.090114996,0.999338517701469,0.5,0.0,0.0009733387851156,0.0013404568890109,0.0007496424950659,False
+"i don't know if i should say this, but it's like if i can talk like this and uh talk all the time like this, why is it that they can't talk like we do yknow? it's like yknow if i could, if i could talk that way",0.048868883,0.1075925471702893,0.5,0.045,0.0010755064431577,0.0009776777587831,0.0004984040278941,False
+"we have do have pilots that do talk like, and sometimes it's even easier to understand them because their, they enunciate so well, but uh yknow, it",0.089577995,0.7607173692823654,0.5,0.0,0.0006396277458406,0.0005802484811283,0.001415422419086,False
+that's something we've never understood yknow,0.030155903,0.04794570927622,0.5,0.0,0.0009581744670867,0.0005039210082031,0.0008237019646912,False
+"if we can fake that accent, why can't they fake ours to make it easier for us to understand but yknow, but no, usually there's no problem",0.2835225,0.9986911919288132,0.6458333333333334,0.065,0.0013867352390661,0.0005668663070537,0.0012588725658133,False
+the only problem you usually have is like somebody like yourself who has never flown and is taking lessons,0.34575438,0.0013260045247237,0.5625,0.114,0.067532368004322,0.0559395551681518,0.1239903271198272,False
+"and you, you have about ten or fifteen hours and we tell you to do something, and you like",0.10956893,0.0003376405929289,0.5,0.0,0.0018728043651208,0.0052882367745041,0.0043451394885778,False
+"um, well, i think i know what they mean, so i'll just keep flying and it, that's the worst thing you can do",0.19535941,0.999979972241288,0.828125,0.151,0.0596592351794242,0.0522513762116432,0.0359517186880111,False
+"the best thing to do is say okay, i heard what you said, but i'm brand new at this and i've got no idea what you mean",0.043031808,0.0019425733822145,0.3345170454545454,0.091,0.0005628520739264,0.0008516499656252,0.0006756164948455,False
+can you try it again and they'll go okay,0.037881445,0.1559195885487713,0.25,0.0,0.0008378117345273,0.000668913940899,0.0006601966451853,False
+"now we know where you're coming from and they'll make it really easy for you, because if they just yknow yknow, zoom out some phraseology and you go nine, eight, juliet, which is the what? how you respond with a call signing the airplane",0.044748597,0.0298816246207913,0.2833333333333333,0.0,0.0022332349326461,0.000770449929405,0.0008386383997276,False
+they go,0.031701013,0.0110369342269925,0.5,0.0,0.0073263356462121,0.0011947265593335,0.0011536638485267,False
+she's got it and they go on to the next guy and then all a sudden you're going off this way and they go,0.047495455,0.003306189560948,0.5,0.0,0.0052174744196236,0.0024695482570677,0.0010403839405626,False
+"uh, six nine, juliet, uh, where where are you going? and you're like uh, i uh, told me to, and then they go",0.047495455,0.0931618913476207,0.5,0.0,0.0015419202391058,0.0016869218088686,0.002628484275192,False
+"oh, brother, yknow, so now yknow, the attention is diverted to you so that's usually what the problem is, because most pilots are there are really professional",0.10515087,0.1783828955787828,0.4416666666666666,0.094,0.0024187613744288,0.0004794212873093,0.0009418053668923,False
+"yeah, um-hum oh, understanding, yeah, um-hum we don't really have that much yknow the foreign ones, um, it",0.13431281,0.2265791306581771,0.4541666666666666,0.0,0.0017751565901562,0.0016192033654078,0.0011122789001092,False
+it'd probably be like maybe two or three percent of our total pilot,0.016729267,0.9997183298399002,0.5,0.0,0.0010273032821714,0.0004611137264873,0.0006577065796591,False
+"yeah, um-hum right, no, um, i used to be a charter pilot and a flight instructor and i used to go to work at like eight o'clock in the morning and get home for my first meal with johnny carson and i did this six days a week, and to get my my one day off, i would get up at like at seven o'clock get in my car and drive to the mall and park and sleep in my car, because i, i didn't own a telephone because i couldn't afford one",0.020685982,0.9970471871281118,0.3107142857142857,0.0,0.0014659927692264,0.0006772568449378,0.0006940924795344,False
+"and and also i thought if i had one, they'll call me",0.03427619,0.995877679271538,0.5,0.0,0.0010570416925475,0.001148022012785,0.0008633959223516,False
+"well, they would come yknow",0.03187269,0.1016254075961831,0.5,0.0,0.0060688094235956,0.0009173099533654,0.0004508470883592,False
+"if i didn't get up that time on my day off, they'd come knocking at the door and say we need you to come for a trip",0.082104236,0.7979626822056642,0.5,0.0,0.0124991536140441,0.0086787296459078,0.0382037758827209,False
+"so yknow one day, um, it was a really bad day",0.1621016,0.9999870057994072,0.8499999999999999,0.275,0.0017819885397329,0.0011728978715837,0.0008737663738429,False
+"i'd gone to like tulsa, oklahoma with somebody and came back and yknow, i, like i said, i hadn't had anything to eat the entire day and uh, it was like it was like midnight and i got home and i thought, oh, i'm too hungry, yknow to, i'm too tired and hungry and i just thought, uh, i'm not making anything, so i just went to bed and uh, a guy knocked on my door, which he lived upstairs, in the apartment above me and he tell me name, are you in there? and i wouldn't answer? well, it was a real cheap apartment",0.2945986,0.9999536262015538,0.48,0.041,0.0015723865944892,0.0020153010264039,0.0019460327457636,False
+"he took a credit card and punched the uh, the door knob and opened it up, and it grabbed on the chain, and he reached in and flipped the lights on",0.17173064,0.0142540419861695,0.5,0.0,0.0027803576085716,0.0090721854940056,0.0385857783257961,False
+and he goes name,0.025863936,0.0075722809858783,0.5,0.0,0.0050562596879899,0.0005534951342269,0.0003834807430393,False
+do you hear me and i go,0.05852979,0.0051694565950485,0.5,0.0,0.0141266966238617,0.0008526369347237,0.0023989721667021,False
+"yeah, and he goes",0.037881445,0.0013515160745116,0.5,0.0,0.0087585924193263,0.0007272013463079,0.0009475879487581,False
+you got a trip,0.08420804,0.0011571097202283,0.5,0.0,0.020339360460639,0.0004909266135655,0.0020149855408817,False
+be out the airport at four thirty and i go,0.032731086,0.1096069760975256,0.5,0.0,0.0073610157705843,0.0011241853935644,0.006367820315063,False
+"ah, he says you hear me and i go",0.040971663,0.000770264023678,0.5,0.0,0.0037620649673044,0.0008039277163334,0.0016151160234585,False
+"yeah, uh, yeah, he goes",0.04680874,0.0023949861459767,0.5,0.0,0.0015914615942165,0.0006623473018407,0.0017444619443267,False
+"well, get some sleep and he turns the lights off, pulls the door shut and uh, i'm laying there and i'm like i've been home like three hours and now i'm just fuming and i thought i know a college education doesn't guarantee you financial security, but i thought what am i doing working yknow from dust",0.090114996,0.9999947546346232,0.5,0.061,0.0602118372917175,0.001956314779818,0.0098159052431583,False
+"i mean dawn to way past dusk six days a week, and making nothing and having people like this come tell me you gotta go to work tomorrow, so i went upstairs and knocked on his door and told him i quit, and uh, he wasn't very thrilled about that, but one of my students was a uh controller, and uh, he came and talked to me and he says, uh, he says i know i heard you quit",0.06332459,0.9999634016552108,0.46375,0.022,0.0044274237006902,0.0014334870502352,0.0018172382842749,False
+"he says, i want to tell you about my job and he was a controller at owensboro, kentucky, and uh, he said he worked forty hours a week and i go well",0.038911518,0.0120932792862011,0.5,0.0,0.0005329580162651,0.0004795842396561,0.0005863790865987,False
+"i usually do that by wednesday and he said that he had uh annual leave and sick leave, and i said what are and he said that he had a health plan and i said what is that? and i, he said he had insurance, life insurance, and i go",0.032387726,0.948986675877846,0.7410714285714286,0.108,0.0009163538343273,0.0005814479081891,0.0003433946112636,False
+what is that? so he goes yknow,0.085282035,0.9526203133330928,0.5,0.0,0.0104639837518334,0.0006163257057778,0.0008057987433858,False
+we really need to get you over here,0.19042583,0.8173185871012293,0.4,0.0,0.2218199521303177,0.0486040227115154,0.0121617009863257,False
+so that's how i,0.018742332,0.1413563382342729,0.5,0.0,0.001085807220079,0.0004664670850615,0.0009625357342883,False
+i went and took the test and started that way,0.021796638,0.0468969938393779,0.5,0.0,0.0007543546380475,0.0004412402922753,0.0004560889210551,False
+"well, actually anybody can try yknow, there is a civil service exam you hafta take and they place you on a list from that and like say, if you have an eighty, well, everybody that takes it after you",0.0224908,0.0189304044325721,0.5,0.0,0.005830627400428,0.0005616136477328,0.0005918237147852,False
+that gets an eighty one is gonna get hired before you do,0.052136723,0.2024561721409704,0.5,0.0,0.0238876454532146,0.0015412538778036,0.0013307608896866,False
+"uh, so you can take it again, but if you score lower, you gotta keep that lower score",0.1256687,0.8806566124536299,0.5,0.259,0.0072582922875881,0.0006834625964984,0.001009568106383,False
+"so and that, sometimes people are yknow, kind of apprehensive about doing that, but uh, once you pass that and then they say yknow, the government goes okay",0.058929358,0.9858743800559288,0.2249999999999999,0.0,0.0028807234484702,0.0004549825098365,0.0005425362614914,False
+we're ready to hire a thousand people throughout the united states,0.045091953,0.0036546487199669,0.4,0.0,0.0006476833950728,0.0015081615420058,0.0012601549969986,False
+"well, each region there's regions in the united states",0.023803791,0.0075418817092619,0.5,0.0,0.0006031164666637,0.0003837638068944,0.0002635572454892,False
+"they may get like thirty for the great lakes region, so they go down the list the first thirty and they call yknow",0.018464668,0.9693348489260264,0.3509259259259259,0.0,0.0019041271880269,0.0003666091361083,0.0004549247969407,False
+they write each one of them and say we're offering you a position,0.04165838,0.0495776139726996,0.5,0.0,0.000739003997296,0.0004702702281065,0.0022283503785729,False
+"yknow, do you want it or not? and yknow, some the people have said well, i've been on the list for two years and i have a job yknow, like you, i have a job and i don't want it now yknow, so and then those people hafta go to oklahoma city to the academy and go through a screening program, which is really hard because at one time only forty percent of the people were making it through that",0.046465382,0.7995680620431354,0.5729166666666666,0.035,0.0103658763691782,0.0005752278957515,0.0007082130759954,False
+"yeah, so it's it's a really tough thing to do",0.05653196,0.9939617797643936,0.6944444444444444,0.15,0.0006889946525916,0.0004275156825315,0.002401445293799,False
+"i mean you hafta be sort of organized and i don't know, sort of a maverick",0.06252546,0.1899008834566242,0.65625,0.0,0.0009034859249368,0.0616651400923728,0.0019305915338918,False
+"i guess, because if if you could give a test, that would tell who could be an air traffic controller, who couldn't, you'd be a millionaire because the government would buy that from you because intelligence is not a factor there",0.1024659,0.9999117526881752,0.5,0.0,0.0008542653522454,0.0016115575563162,0.000624434906058,False
+"i mean, there are people who do this job who i mean are not stupid, but they're not college educated and really intelligent, but they're extreme good at it",0.49542332,0.0012423469076037,0.4041666666666667,0.0,0.3025646209716797,0.894853413105011,0.9387065172195436,True
+"and then the other people, uh that i know of one that i work with every got a masters degree and he's yknow",0.029984225,0.1510054858773007,0.5625,0.0,0.0015017684781923,0.0007067446131259,0.0011200945591554,False
+he reads continuously,0.033074442,0.0020318638064722,0.5,0.0,0.000815367908217,0.0004451237618923,0.0009427291806787,False
+he's always up,0.04406188,0.0004533068601332,0.5,0.0,0.0017661394085735,0.002139531308785,0.0003796503006014,False
+"i mean, if you ask him anything about, like what's going on on overseas or anywhere, he knows that like the back of his hand",0.05773066,0.0112140845213142,0.578125,0.0,0.0007136143976822,0.0058580609038472,0.0013307014014571,False
+but he's one of our weakest ones,0.2590451,0.956535412325953,0.5,0.426,0.4674237370491028,0.0004228171019349,0.0257121659815311,False
+"yknow, and it's um right",0.021518974,0.0011372309775781,0.3571428571428571,0.0,0.0008183159516192,0.0004447181127034,0.0016157397767528,False
+"and and also the other thing is you have you hafta be sort of compassionate, because like yknow, you're you're working a lot of airplanes and you're wanting answers like this",0.036508016,0.0014868524618794,0.5625,0.0,0.0119573175907135,0.0008206915226764,0.0029659813735634,False
+"when you something out, you want an answer yknow, the each airplane is supposed to respond with their call sign like if i tell somebody yknow turn left, heading three, six zero, and he's supposed to respond t",0.036851373,0.999439789017099,0.5,0.0,0.0054327142424881,0.0006205172394402,0.0008733722497709,False
+w a three ninety six,0.04234509,0.1548796352563657,0.5,0.0,0.001235962845385,0.0023224111646413,0.0008467645384371,False
+roger,0.017284594,0.003604668732824,0.5,0.0,0.0015109026571735,0.0006261348025873,0.0006934263510629,False
+"well, if he doesn't respond then i've got to say it again, which means instead of ten airplanes, i now have eleven i'm talking to, because i hafta tell them talk to them two times each, so yknow there are some people that get really mad quick because they want that answer like that where yknow i was a pilot, so sometimes i'm thinking yknow, yeah, um-hum yeah, right, and it well and there's nothing wrong with that",0.111500904,0.0005765431432792,0.5505952380952381,0.073,0.0021870648488402,0.0006602054927498,0.001530218985863,False
+"oh yeah, um-hum um-hum yeah, right, um-hum oh yeah, right, right, um-hum exactly, um-hum right, and it's all the bucks",0.089577995,0.0014923064497429,0.3607142857142857,0.123,0.0073017585091292,0.002325493376702,0.0010213737841695,False
+"yeah, because people i work with yknow, uh there, uh, there are some people i work with that house payments",0.07970683,0.0017355006626744,0.5,0.0,0.0007287004264071,0.0005701925838366,0.0006039441796019,False
+"one guy, he has the biggest, twenty two hundred dollars a month, and a lot of them have like fifteen hundred and up, and yknow, i bought my house years and years ago, and it's like four eighty five, and i wouldn't dare tell them that, but it's like yknow, they, because they're always at yknow",0.043031808,0.0003812724958372,0.5,0.0,0.0029590842314064,0.0013609818415716,0.0009458633139729,False
+there are people there that make a lot more money than i do,0.052935857,0.8728696887322697,0.25,0.0,0.0007212864002212,0.0007286261534318,0.0005755424499511,False
+"and and they're always like broke, but yet yknow, like when they go do something, they've gotta have the best of everything",0.11665283,0.0008188730630519,0.0,0.062,0.0026973099447786,0.0012044039322063,0.0398216620087623,False
+the best of that,0.04165838,0.0001089903476336,0.0,0.0,0.000666533014737,0.0003749291063286,0.0006462417659349,False
+"it's like yknow, yknow you",0.0253489,0.0050500649262981,0.5,0.0,0.055958017706871,0.0005184386391192,0.0010590273886919,False
+"i to me, you just hafta kind of think about things little bit",0.20449556,0.9684667409561408,0.396875,0.0,0.0024909819476306,0.0010497220791876,0.0008648100774735,False
+"and it's like yknow, do i do? i really need to go to",0.031701013,0.9991010755085248,0.4,0.0,0.0018276697956025,0.0031688667368143,0.0006794548826292,False
+um,0.012811388,0.2300668813888773,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"oh, what'd i say? um, uh, t",0.12116077,0.8292918488512203,0.5,0.0,0.0010669606272131,0.0007080915966071,0.003741129534319,False
+g,0.04783881,0.7645144773574565,0.5,0.0,0.0014935695799067,0.0103629129007458,0.0005836802884005,False
+i fridays for lunch and spend twelve dollars,0.035477944,0.986630457750519,0.5,0.0,0.0010569370351731,0.0005873962654732,0.0004724147147499,False
+can i go to taco bell and spend like three and use the other part for,0.040971663,0.913750725335681,0.5625,0.0,0.0028691482730209,0.0006739161908626,0.0009268673020415,False
+"maybe like a book for my kid or yknow, uh, they have like my daughter is in swimming",0.083939545,0.9710092828065566,0.5,0.0,0.0013098601484671,0.0022783437743782,0.0012805686565116,False
+i need the money for a swimsuit,0.19042583,0.9985150251404998,0.5,0.0,0.0034777149558067,0.0016985516995191,0.0031001670286059,False
+"well, why don't i use it for that yknow? so it's um-hum right, um-hum me too, um-hum right, um-hum cutoff",0.16482529,0.2107193213927756,0.3571428571428571,0.0,0.0054895193316042,0.0148682370781898,0.0478323474526405,False
+"it's like a car dealer goes yknow, the uh, c d player with the blah, blah, blah blah, will only raise your payment another eight dollars and you're like, yeah, but that's about the fourteenth, eight dollars you've added onto this yknow, and it all adds up exactly right",0.13610743,0.9993937728572012,0.4285714285714286,0.092,0.0445638932287693,0.0012203825172036,0.0010206685401499,False
+"yeah, yeah, and yknow, a lot of people i work with don't see that and yknow they think i'm a real cheapskate yknow, because yknow i will",0.15976663,0.1221231331640312,0.4,0.0,0.010270245373249,0.2554802298545837,0.0063139903359115,False
+i spend money,0.03736641,0.9840212163108212,0.5,0.0,0.0057316650636494,0.0008840809459798,0.000565675611142,False
+yknow it,0.0224908,0.0077317877784774,0.5,0.0,0.0050567439757287,0.0003995375009253,0.0006508881342597,False
+"well, i i'm very selective",0.048868883,0.9891106214774464,0.4,0.0,0.0008108523325063,0.0025972037110477,0.0004478321061469,False
+"i mean, like, uh, i'd love to go to disney world and there are people at work that will not go to disney world just because of what it costs to get in",0.043031808,0.8669451975550637,0.453125,0.0,0.0009801478590816,0.0007772330427542,0.0005136075778864,False
+"yknow, now i drive there, i don't fly because i'm really that cheap, but yknow, i'd love to fly, but i just go",0.057331093,0.0326465878451174,0.2299999999999999,0.0,0.0023273571860045,0.0013200606917962,0.0007965872646309,False
+"oh, my gosh, and uh yknow, but yknow i will do that, but yknow like um, like at uh thanksgiving time, we don't buy a butterball turkey",0.13700475,0.9710524974644916,0.5,0.0,0.0121104335412383,0.0013202331028878,0.005626109894365,False
+we buy a meijer and it's like it's just as good,0.104076885,0.0078499575155207,0.15,0.0,0.0007288602064363,0.0006120635080151,0.0037676969077438,False
+"yknow and yknow we make do yknow, oh, yeah, you don't you? you don't use coupons, yknow, why? right because everything that has a coupon has tons of fat, tons of sugar and is overpriced",0.13146462,0.9888123211248449,0.3571428571428571,0.0,0.3006906509399414,0.0042394748888909,0.0049371160566806,False
+"yeah, right",0.019714156,0.005016059460985,0.3571428571428571,0.0,0.0009761039400473,0.0004182335396762,0.0005704026552848,False
+"well, here's here's a can of manwich",0.06372416,0.04099512330036,0.5,0.0,0.0018932978855445,0.0019130682339891,0.0055374987423419,False
+it's a dollar fifty and we'll give you fifty cents off,0.14104263,0.9999176835274368,0.5,0.0,0.0403457060456275,0.0005668041412718,0.0007446556701324,False
+"well, gee, if i just use the recipe out the microwave cookbook",0.052935857,0.8974230354392979,0.5,0.0,0.0006762829143553,0.0004414845316205,0.0012916476698592,False
+i can make it at home for like three cents,0.027409043,0.9055531133478754,0.5,0.0,0.0010308767668902,0.0008305846713483,0.0007460250635631,False
+"but but yknow, why it's convenience",0.021657806,0.1329912023897407,0.5,0.0,0.0008325207745656,0.0004688707995228,0.0004302089801058,False
+i can throw it in the microwave and it'll be done in five minutes,0.2712817,0.0320752602640028,0.5,0.0,0.0075375218875706,0.0316369272768497,0.1806355565786361,False
+"yknow, like mashed potatoes, the microwave or yknow",0.045091953,0.0439851305812848,0.5,0.0,0.0028277025558054,0.0004534056643024,0.0008439891389571,False
+"it's like hello, it's yknow",0.028610796,0.0409816522483692,0.5,0.0,0.0009745947318151,0.0004424617800395,0.0017703562043607,False
+i can,0.024147147,0.0055843173112257,0.5,0.0,0.0018566127400845,0.0005442918627522,0.0005534144002012,False
+i can understand how people do it because they come home from work and it's like i don't want to be a cook,0.17518331,0.9958042143530482,0.5,0.049,0.0012832498177886,0.0039554336108267,0.0044715334661304,False
+"i don't want to be a clean up, so i'll pay somebody do this",0.19338597,0.9998449636892562,0.3166666666666666,0.175,0.0262694638222455,0.0157292690128088,0.0042126928456127,False
+"pay somebody do that, and pretty soon you see all the money they've been making gone yknow, and yeah, yeah, um-hum oh, my gosh, they just price is so high, right right exactly? oh, you're you're in our neighborhood",0.104076885,0.0993187283684559,0.3768571428571429,0.032,0.091478481888771,0.0011236484861001,0.0038671402726322,False
+"yeah, you're exactly",0.017284594,0.0001137588616126,0.375,0.0,0.0056942077353596,0.0004923923406749,0.0015192283317446,False
+oh,0.020685982,0.1958512438221666,0.5,0.0,0.0028098204638808,0.000768010795582,0.000794137653429,False
+well we use,0.01527153,0.0032605012363862,0.5,0.0,0.0007585384882986,0.0003830766654573,0.0003423952730372,False
+i'm trying to think it it,0.02124131,0.9694214272579584,0.5,0.0,0.000645009917207,0.0005241292528808,0.0003626324178185,False
+they're meijer,0.028954152,0.0,0.5,0.0,0.0058156982995569,0.0014424064429476,0.1361186206340789,False
+it's a meijer brand,0.023632111,0.0005520449027118,0.5,0.0,0.0010182686382904,0.0007194027421064,0.0415169186890125,False
+i know that's what we have,0.02655065,0.0007818574732896,0.5,0.0,0.0007642770651727,0.0003596618771553,0.0007065496174618,False
+"it's like fruit o's instead of uh, fruit fruit loops",0.044748597,0.9863329918878636,0.5,0.0,0.0008952244534157,0.0007349100196734,0.0044389711692929,False
+"yeah, and it's like, what is the difference yknow, besides the price it is",0.02929751,0.0003509030224331,0.5,0.0,0.0021300774533301,0.0005046944716013,0.0005667109508067,False
+"yeah, right",0.019714156,0.005016059460985,0.3571428571428571,0.0,0.0009761039400473,0.0004182335396762,0.0005704026552848,False
+right,0.016521018,0.0051751192053986,0.3571428571428571,0.0,0.000928676337935,0.0005848494474776,0.0005620717420242,False
+"well, yknow, my and my girls",0.03204437,0.003411096868487,0.5,0.0,0.0028727313037961,0.0043128444813191,0.0032550413161516,False
+"there are certain products that brand name like uh, one of them i know is the meijer, uh pudding that you can uh take to for lunches, which they do and it's like edventure yknow adventure, but it's edventure",0.042001735,0.0003683975080938,0.3928571428571428,0.0,0.0008314565056934,0.0012548191007226,0.0013623526319861,False
+"well, every once in while, hunts will be the same price, and they'll be a coupon in the paper",0.05493369,0.0645795079668457,0.5,0.0,0.0006695655174553,0.0004622795677278,0.0006613850709982,False
+"so joyce will or joyce or i, we we trade",0.058130227,0.0349695992332229,0.5,0.0,0.0016804313054308,0.0005288759712129,0.0004652013303712,False
+"she goes the grocery store once, then next two weeks i go, and the next two weeks she goes",0.04234509,0.8002344618717073,0.5,0.0,0.0013226476730778,0.0005574710667133,0.0013156633358448,False
+"so um, she'll uh, she yknow, she'll buy stuff like that with a coupon and she goes and i go",0.074912034,0.2158449076592169,0.5,0.0,0.0116129340603947,0.0009043989120982,0.0014162685256451,False
+why are you buying that and she goes,0.10956893,0.9234850505596596,0.5,0.0,0.0363915376365184,0.0012896679108962,0.0020196577534079,False
+"it was cheaper than the meijer brand and then when we eat it it's like it's too sweet, yknow, or it's too overpowering or too sugary",0.07011723,0.9998782538774724,0.325,0.0,0.0014695316785946,0.0009946319041773,0.0019822574686259,False
+"and the girls, even they the same way they would go",0.067320265,0.0020144587304487,0.5,0.0,0.0037951278500258,0.0052281497046351,0.0023883634712547,False
+we don't like this,0.08796701,0.9999963044016662,0.5,0.413,0.0135927721858024,0.0122211407870054,0.0006703907274641,False
+"it's too chocolatey, so yknow like the manwich stuff, it's like they just pour sugar in it, i guess because that's what people like and so i find that the unbrand stuff",0.09655894,0.9996610182625144,0.5,0.0,0.0009437496773898,0.0010985106928274,0.0026741363108158,False
+"well, not unbrand, but it's all like a meijer brand or something like that, or food club or something like that",0.040284947,0.9924392528573084,0.5,0.0,0.0007021961500868,0.0005910981562919,0.0008303072536364,False
+"yeah, oh, we do, too",0.027752401,0.0003723911385512,0.5,0.0,0.0007867946987971,0.0003782412386499,0.0005029722815379,False
+we make vegetable soup and chili,0.017909339,6.488159332741838e-05,0.5,0.0,0.0018561152974143,0.00045997343841,0.0006365902954712,False
+"oh, yeah, yeah, right, yeah, right",0.021796638,0.0035872338535881,0.3571428571428571,0.0,0.0010248505277559,0.0004033304285258,0.0008384690154343,False
+exactly yeah,0.014507953,0.0007057996753238,0.375,0.0,0.0011642982717603,0.0004107586573809,0.0006113598356023,False
+"well, see the you, you're you're intelligent yknow and the house smells wonderful yknow, it's like cakes, uh birthday cakes yknow, i think, but my, i think my wife's was the last one",0.1580154,0.0097949151547248,0.2,0.0,0.0147444885224103,0.0061933863908052,0.0078138327226042,False
+i,0.018187003,0.1366178956965055,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+"i make her one, and yknow we we trade off and i bought a, um, um, what is it, betty crocker at odd lots, it was twenty two cents",0.22988434,0.9996885862339558,0.5833333333333334,0.076,0.0028200289234519,0.0009973552078008,0.001034562359564,False
+the icing was twenty two cents,0.09172598,0.9999618518881676,0.5,0.0,0.0020643323659896,0.000653721159324,0.0005927110905759,False
+i made it and everybody goes,0.051737156,0.0002311239119219,0.5,0.0,0.0014984009321779,0.0004595564096234,0.000614620745182,False
+this is really good,0.040284947,0.0039551843134964,0.15,0.0,0.000580578460358,0.0003280130622442,0.000603410822805,False
+it's like a sour cream icing i go,0.09333697,0.995566921176166,0.575,0.0,0.010181232355535,0.0026808914262801,0.0021776615176349,False
+"yeah, and they go",0.028439116,0.0031458780816149,0.5,0.0,0.0032924411352723,0.0006920128944329,0.0006912736571393,False
+"boy, this is really good",0.052136723,0.002711824096672,0.15,0.0,0.000603171007242,0.0023419286590069,0.0014045138377696,False
+they go,0.031701013,0.0110369342269925,0.5,0.0,0.0073263356462121,0.0011947265593335,0.0011536638485267,False
+"did you buy this and i go? no, i made it",0.052935857,0.9979188416802692,0.5,0.0,0.0022837971337139,0.0007784909685142,0.0007583787664771,False
+they go really like,0.02929751,0.0054280888719871,0.4,0.0,0.0017708447994664,0.0003593907458707,0.0012864811578765,False
+"oh yeah, it cost me forty four cents",0.04268845,0.9958817325084202,0.5,0.0,0.0044422284699976,0.0006826954777352,0.0007244680309668,False
+and i go,0.021380141,0.007635970450711,0.5,0.0,0.004970028065145,0.000640659709461,0.0005658462760038,False
+the same cake at meijer,0.027580723,0.9501662870234132,0.5,0.0,0.0008191487868316,0.0010611735051497,0.0013861344195902,False
+"would have been like seven dollars or something like that and yknow, but uh yknow, i'm i don't try to be the the cheapskate",0.15568043,0.9307444872253,0.5,0.0,0.0090739130973815,0.1201961860060691,0.0085785398259758,False
+"i mean, i won't go without health plan or anything like that, but yknow there are certain areas like my car",0.029984225,0.0014496580528428,0.5245535714285714,0.0,0.0016654933569952,0.0005647121579386,0.0006493302062153,False
+"i love cars, and yknow you can take the car to carwash",0.089041,0.0003537641308206,0.25,0.0,0.0024844678118824,0.0014155862154439,0.0010924953967332,False
+"it's like seven fifty or eight bucks, and you wash in the driveway and it's about a quarter yknow",0.08170467,0.997409236551971,0.5,0.0,0.0849851965904235,0.0006219234201125,0.0022171966265887,False
+"it's like it takes time if you, if you have no time, and yknow that i, i have friends at work that their mom, the mom is a taxi cab driver, and the dad is the worker bee, and when they get home they don't want to do anything, so they pay to have the yard done",0.08850401,0.0557138271705754,0.5,0.081,0.0369766540825367,0.0032748186495155,0.0170280523598194,False
+"they do this and it's like they have, and then they always go",0.045091953,0.0018984050214836,0.5,0.0,0.0008307030075229,0.0004743729077745,0.000983546837233,False
+"we have no money, and it's like because you'd pay to do everything yknow, slow your life down a little bit yknow, it's it's like you making your soup yknow when if and when you have children, when they get my age, they're gonna go",0.20302857,0.9991474195037586,0.607175925925926,0.073,0.1938053667545318,0.0118138836696743,0.0157202873378992,False
+i can remember walking around the house and going,0.016104523,0.0107012904492923,0.5,0.0,0.0008696644799783,0.0004998132353648,0.0003639184869825,False
+"mom is making bean soup or mom is making vegetable soup, or mom baked a cake",0.032731086,0.0071170369169411,0.5,0.0,0.0510708726942539,0.0018613685388118,0.0086596459150314,False
+"it's like uh, as opposed to open it up",0.029812546,0.8892500111016967,0.5,0.0,0.0007439207984134,0.0004977096687071,0.0009731018799357,False
+"oh, here's a meijer cake",0.049898956,0.0001427573872477,0.5,0.0,0.0152950752526521,0.0028170659206807,0.0090940259397029,False
+"yknow, it's a lot of memories",0.028954152,0.0018379343035868,0.5,0.0,0.0008243960910476,0.0003620224015321,0.0004389057867228,False
+"um-hum yeah, right, i have a neighbor",0.05773066,0.0128089140216067,0.3571428571428571,0.0,0.0008845224510878,0.0009277976932935,0.0008366310503333,False
+that's that way,0.024490505,0.0046423569810895,0.5,0.0,0.0007979163783602,0.0003286061983089,0.0007966418634168,False
+i know well to me the cholesterol level and the health from that food has gotta be so bad,0.10031791,0.99982815467748,0.8499999999999999,0.19,0.0025716200470924,0.0016148815630003,0.0017167731421068,False
+"i mean, uh, my, my only downfall is i love taco bell",0.051737156,0.0014345478241717,0.46875,0.0,0.0014286470832303,0.0014966169837862,0.0069144945591688,False
+"so when i'm like working out in the yard and mowing and edging and trimming and wash the car, and it's look up at my watch and i go",0.06971766,0.0553431646183415,0.5,0.0,0.0044004847295582,0.0013758877757936,0.0018922673771157,False
+"oh hell, i deserve a break",0.39284727,0.9998600143115026,0.5,0.479,0.4556590318679809,0.5632336139678955,0.8651371002197266,True
+i'm going out to lunch,0.034791227,0.0258888584564975,0.5,0.0,0.0086128441616892,0.0010280541609972,0.0008976625977084,False
+"well, most people would go somewhere really expensive",0.028610796,0.9513626773775438,0.5,0.0,0.0010448158718645,0.0010821615578606,0.0009111115941777,False
+i go what i want,0.06012806,0.005180960635023,0.5,0.0,0.0025816014967858,0.0008411221788264,0.0008764149970375,False
+a mexican pizza and a coke like,0.08850401,0.0460676598487844,0.5,0.0,0.0324651375412941,0.0440712608397007,0.0101656466722488,False
+"so that's my big treat, but uh yknow, i, um",0.15743166,0.0088152239577295,0.5,0.0,0.0010836104629561,0.0005879754899069,0.0030517072882503,False
+"i, i'm not a big fan of eating out either",0.06012806,0.9995753042237412,0.5,0.179,0.0031354036182165,0.001145681948401,0.0007595613133162,False
+"i mean, we do like to go to chinese restaurant, but and uh, when i go, we have something nice, but um, yknow, we're not cheap, but we don't go like we don't",0.06412373,0.9983157906658128,0.4890625,0.07,0.0022629436571151,0.0023395146708935,0.0050523267127573,False
+"we do go to movies every once in a while, but yknow, we do get a lot from the library because they're free, but uh yknow, like they're yeah, yeah, yeah, right, like magazines",0.0741129,0.0068542917966955,0.3285714285714285,0.082,0.0022345846518874,0.0006260622758418,0.0005268540699034,False
+"i, i love read magazines and my wife loves reading magazines because i love all the car magazines and they're a fortune and they're all at the library",0.027580723,0.0231922041949213,0.25,0.0,0.0008987717446871,0.0007762049790471,0.0011611256049945,False
+yknow,0.02054715,0.8117362666052323,0.5,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
+it's like people,0.028439116,0.0044140643743426,0.5,0.0,0.0012746935244649,0.0005496352678164,0.022152217105031,False
+just don't you pay all these taxes and you don't use this stuff,0.029812546,0.9998734257570686,0.5,0.0,0.0382955521345138,0.001063177594915,0.0010630463948473,False
+i mean the library has c,0.030155903,0.9336590923789312,0.65625,0.0,0.0007009288528934,0.0006204111268743,0.0016450601397082,False
+d's,0.027237365,0.017285863174048,0.5,0.0,0.0022595634218305,0.0013786362251266,0.0018327361904084,False
+"i mean, uh, my thing now is uh, in traffic",0.055333257,0.7519693217653158,0.65625,0.0,0.0008195048430934,0.0006244140677154,0.0049457559362053,False
+"everybody gets all upset that this big road rage crap yknow, which is just and i'd just love to slap a couple of them people",0.7699882,0.9715573340788112,0.55,0.254,0.9744424819946288,0.984582781791687,0.9493216872215272,False
+"but anyway, and what i do is i go to the library on my day off and i get two or three books on tape and when i'm sitting there i go",0.038911518,0.8968441676454538,0.5,0.0,0.0025728337932378,0.0010629647877067,0.0005891442415304,False
+oh good,0.029469188,0.0064818112485072,0.15,0.0,0.0008051148615777,0.0003972761624027,0.0008522255229763,False
+"it's a traffic jam and i'm not moving as i'm yeah, and i'm going",0.058130227,0.225688372246891,0.5,0.0,0.0037823675666004,0.0006395710515789,0.0032987233716994,False
+"oh, this is really interesting",0.038053125,0.0006998390328499,0.25,0.0,0.0006309382151812,0.0003177852777298,0.0004856476734858,False
+"yknow, and then i'll drive along and people are just like and blowing the horns and i'm like well, i could care, and i said yknow",0.14193995,0.002141837660114,0.5,0.0,0.0116585306823253,0.0016201278194785,0.0085885096341371,False
+i don't know why you are insecure,0.17957193,0.9962007460936184,0.75,0.318,0.5467535853385925,0.0319882407784462,0.0480365082621574,False
+"i said everything you do you do well, i said i i try things and just bomb at them and i said you just zip through them and i said you'd maybe some day when you're older you'll look back and go",0.42631236,0.0355455761154671,0.4583333333333333,0.071,0.2349023222923278,0.2479882091283798,0.6558200120925903,False
+"oh, i see what dad was talking about, but she just can't see that",0.0669207,0.9966067850589344,0.5,0.0,0.0007470662822015,0.0004898034385405,0.0008333029691129,False
+"um, yeah, right, yeah, yeah, if if she passed a hundred people and ninety nine of them said, oh, that's really pretty hair",0.112788886,0.1867238610180837,0.3660714285714286,0.1,0.0016387695213779,0.0015973693225532,0.0052885836921632,False
+"oh, those are nice earrings",0.1008549,0.0001483007847483,0.2,0.0,0.0008306364761665,0.0120182847604155,0.0077875922434031,False
+"oh, that's a nice shirt",0.111500904,0.0010305950837216,0.2,0.0,0.0010237537790089,0.0007830689428374,0.0009590270929038,False
+those are nice pants and one guy goes,0.21109697,0.0056150742263905,0.2,0.0,0.1572388857603073,0.0050561516545712,0.0029364116489887,False
+"what's with that? uh lipstick? she will remember that, what's with that lipstick for about a month and i'm like gosh, yknow, yknow, and that's sad",0.20596254,0.9999840254781702,0.75,0.115,0.0061047216877341,0.0050879456102848,0.0029218059498816,False
+"yeah, because i told her things like i said yknow, what you really need to do is like in the morning when you're all done dressed, you need to look the mirror and go",0.104076885,0.0754546107506743,0.4,0.0,0.0404686778783798,0.0039110286161303,0.0018296169582754,False
+"i look pretty good today or when you've done something like, say, uh, she's in a play right now, and when you come home at night you need to look in the mirror and go",0.068918526,0.0193957517905024,0.294047619047619,0.0,0.0150202699005603,0.0019041298655793,0.0014561939751729,False
+i did pretty good at the play today,0.027409043,0.0594293340501999,0.2625,0.0,0.0006791509804315,0.000338030338753,0.0003530662797857,False
+"other people did well, but i think i did the best i've done so far, yknow, and it, uh, and it's not to make yourself an egomaniac, it's just to yknow, that's like those little subtle hints",0.22979778,0.0024424924664929,0.4545833333333333,0.0,0.0478504486382007,0.0584277920424938,0.0357655957341194,False
+"yeah, that and i think i, i'm a firm believer that uh little subtleties like that to yourself are much better than look in the mirror and going, look at them hips",0.20449556,0.0060267459988442,0.48125,0.0,0.0033142224419862,0.0590392351150512,0.0383374504745006,False
+and you go,0.033761155,0.0081045663587895,0.5,0.0,0.0693086981773376,0.0009264020482078,0.0013836213620379,False
+this one,0.032559406,0.0042031172371945,0.5,0.0,0.0022792229428887,0.000407091632951,0.0005411190795712,False
+you go,0.05493369,0.0065970900739507,0.5,0.0,0.0208471044898033,0.001473517040722,0.0030889709014445,False
+i'm getting a gut and yknow it's like that's so negative to yourself,0.30337667,0.9992988198225934,0.65,0.228,0.0218000710010528,0.0172893162816762,0.0403026491403579,False
+"would you tell your mom that yknow? yeah, hey, everybody has it right, um-hum right, yeah, yeah, i mean, uh, i had",0.18647896,0.1957754542531121,0.4568452380952381,0.0,0.106145292520523,0.0018884992459788,0.0088763330131769,False
+i had parents that everything i did was negative,0.09816993,0.9995007067831814,0.65,0.316,0.0016383529873564,0.0005442557740025,0.0011236516293138,False
+"i mean, they just told me i couldn't do this, couldn't do that",0.034104515,0.9999464734305852,0.65625,0.0,0.0010711586801335,0.0005206370842643,0.0004643360734917,False
+"and and so what i try to do is when anything comes up, i always think of how my parents would handle it, and i do a hundred and eighty degrees, so yknow because the yknow, they just, i don't know how i got",0.040971663,0.9996333906846484,0.5,0.0,0.0016611019382253,0.0005505415610969,0.00073911214713,False
+"i sort of feel i'm mentally okay now, but i don't know how i got here because i've been the other way",0.036508016,0.9845946599200142,0.40625,0.0,0.0007559176301583,0.0007609624881297,0.0010337391868233,False
+"it hurt me yknow, and it's well yknow, yeah, yeah, okay, you're in there flying and you're turning and you're putting your flaps down and i go six, nine, eight, juliet, uh, say your altitude and you're like, um, did? did they call me yknow? because you have a lot of things going on and i'm not i'd i'm i'm mister",0.12888865,0.9998759888333324,0.4138888888888888,0.049,0.0984781458973884,0.0242916997522115,0.0028861497994512,False
+"laid back in that area, had a lot of people go",0.037881445,0.0023238756812641,0.5,0.0,0.0018918882124125,0.0007467868272215,0.0078013399615883,False
+"i don't see how you can be so calm, but yknow, i always look at it, though, as yknow, i can scare you to death, and you'll never come back to columbus or any airport that has a tower, or i can be nice to you and you can go out and spread the word that yknow there",0.31714454,0.1344756705946307,0.35,0.139,0.2034459114074707,0.1537616401910781,0.0935721471905708,False
+"there's some people there that are pretty yknow, so i figure it's it's much better to be nice to them because there's also times when yknow everybody makes errors, and yknow, maybe one of these times you make an error and i tell you to turn one way and you go uh, yknow, like there's an airplane over there and i tell you to turn that way and i really meant for you, turn left instead of right and you may come back and go",0.073313765,0.998006761156758,0.3688775510204081,0.053,0.009545256383717,0.00072944664862,0.000484007759951,False
+"uh, do? do you? do you mean left or right there? and i go",0.022074303,0.1748147059778985,0.5044642857142857,0.0,0.0018668816192075,0.0016885711811482,0.0020789543632417,False
+"yes, that is right, correct, turn left, yknow, so yknow everybody helps everybody out",0.044748597,0.0003780537489013,0.4285714285714286,0.0,0.0013106056721881,0.0004461828502826,0.0004374271957203,False
+"yknow, i, i feel kindness goes a long way, and the pilots the same way they're most",0.045778666,0.0003317991633046,0.425,0.0,0.0006064605549909,0.0004501900402829,0.0010314539540559,False
+"most often they're yknow, pretty decent",0.032731086,0.001645584370957,0.3472222222222222,0.0,0.0014152539661154,0.0003925034543499,0.001193746109493,False
+"no, i don't",0.017770508,0.9765441267852496,0.5,0.0,0.001315614557825,0.0006667897105216,0.0004324224428273,False
+i just got too expensive,0.038053125,0.9996562497485354,0.75,0.0,0.0049965064972639,0.0006339399260468,0.0006498251459561,False
+"yeah, i've never",0.019714156,0.9482329526370328,0.5,0.0,0.0009808026952669,0.0004071586008649,0.0004958118661306,False
+i've never known of him,0.02809576,0.0066612861933936,0.5,0.0,0.0007712473161518,0.0006733467453159,0.0007569779991172,False
+"we don't know who's in the airplane and there, but there are c planes that do come in and out of there very often",0.036336336,0.8858759894293966,0.4,0.0,0.0007055074092932,0.0004396020958665,0.0005385368713177,False
+"i mean, maybe like",0.019436494,0.9178135886554668,0.65625,0.0,0.0007867672247812,0.0004004125366918,0.0004746612394228,False
+"there's like one or two that come during the year, but yeah, i don't",0.025863936,0.0500443620816113,0.5,0.0,0.0006679933867417,0.0004408419481478,0.0003710619639605,False
+"yeah, yeah, yeah, now, if you, the, the, the thing you do is if you know the call sign and you know about what time of the year he's coming in, you could call the operations over there and say yknow is this airplane on the ground and you, you could actually walk out and take a picture of it over there now at port columbus",0.03599298,0.0137831214275261,0.5,0.0,0.0008960915729403,0.0006033263052813,0.0007982981624081,False
+"you couldn't do that, but you could over there because you can walk around on the ramp over there at o",0.057331093,0.2093249482988773,0.5,0.0,0.0008961829007603,0.0007784179178997,0.0005336760659702,False
+s,0.04818217,0.1787450344122791,0.5,0.0,0.0025115853641182,0.0012000821297988,0.0023576095700263,False
+u,,0.8028579492469176,0.5,0.0,0.0550489127635955,0.0032731131650507,0.0010994247859343,False
+"sunday, uh, nothing for a while",0.0224908,0.999690702262034,0.5,0.0,0.0009848121553659,0.0006129617104306,0.0004243636503815,False
+"i don't want to do anything until past january yknow, because i've i like said it since nineteen seventy four",0.050585672,0.9241983606445004,0.625,0.056,0.0010541270021349,0.0007222555577754,0.0009041042649187,False
+"i've never had thanksgiving, christmas or new years off without having to work either a seven to three or a three to eleven yknow",0.02397547,0.0054571768072593,0.4318181818181818,0.0,0.0068551693111658,0.0004720271390397,0.0008769408450461,False
+"and it's like i, i figure i deserve this yknow",0.07970683,0.00944097220463,0.5,0.0,0.0255398470908403,0.0023411023430526,0.0047780312597751,False
+"it's about time i get to not eat uh thanksgiving dinner at ten thirty in the morning, so i can go to noon, uh, go to work at noon or something, yknow or or open the christmas presents",0.0253489,0.8535840300082584,0.5,0.0,0.0020301337353885,0.0008476747316308,0.0038872654549777,False
+"uh, yknow at five o'clock in the afternoon, because i work christmas day, so yknow, i think it's my time",0.038053125,0.0004677018117074,0.5,0.0,0.0013037625467404,0.0005274276481941,0.0005265776999294,False
+"yeah, and yknow, i'd i would like to have another job, but i would",0.02929751,0.0442977662790361,0.5,0.0,0.0025077739264816,0.0022059546317905,0.0005060039693489,False
+i would love,0.029812546,0.0219214548259298,0.25,0.0,0.0008938559913076,0.0007937386399134,0.0005874234484508,False
+"i know you'll say this is really stupid, but i would love to have a monday through friday eight to five job",0.54375964,0.0232722556233446,0.575,0.083,0.3555726110935211,0.971678912639618,0.9358866810798644,True
+"never work another evening, a saturday or a sunday, if if it can be now, i know i'll probably not be able to do that because o",0.02054715,0.9996304699698362,0.25,0.0,0.0013055227464064,0.00081664865138,0.0006115649593994,False
+s,0.04818217,0.1787450344122791,0.5,0.0,0.0025115853641182,0.0012000821297988,0.0023576095700263,False
+"u wants me to come back there so as a contractor, so i don't know yknow, you mean at o s u",0.070516795,0.9862033777172706,0.51875,0.0,0.005296601448208,0.003928258549422,0.0209849812090396,False
+"oh, yeah, i would have to work shift work",0.044748597,0.0947383024626692,0.5,0.0,0.0008690058602951,0.0012420322746038,0.0009913004469126,False
+"yeah, so yeah, um-hum right",0.047495455,0.8438491087200325,0.3571428571428571,0.0,0.0008342292858287,0.000914734788239,0.0034658650401979,False
+"yeah, media hype, yeah, there is",0.06132676,0.0307143263743825,0.5,0.0,0.0007975666667334,0.00042075527017,0.001154878293164,False
+there's like two people who are like from the uh,0.033761155,0.7955361344577887,0.5,0.0,0.0011275530559942,0.001112051657401,0.0321441367268562,False
+they,0.023288755,0.0583123692570327,0.5,0.0,0.0147170908749103,0.0013960419455543,0.0021094267722219,False
+"i mean, they're not old, but they're like from the forties and they have bought generators",0.09816993,0.0063783344951618,0.590625,0.0,0.0039480198174715,0.0009612577268853,0.0036646923981606,False
+they've bought water,0.025692256,0.1903794932440588,0.5,0.0,0.0011128209298476,0.0006032906821928,0.0017871420131996,False
+they've got extra food,0.032559406,0.0041407093104937,0.5,0.0,0.0014634298859164,0.0005625602789223,0.0019817508291453,False
+"they've got a freezer, extra freezers",0.08367105,0.0005979716529725,0.5,0.18,0.0022426578216254,0.0004216759698465,0.0018134760903194,False
+they bought ammunition,0.118584804,0.2027833518063578,0.5,0.0,0.001001458032988,0.0006183900404721,0.0079414611682295,False
+"it's like hello yknow, i just think it's yknow",0.02262963,0.0027601649071346,0.5,0.0,0.0010968131246045,0.0004702507285401,0.0009676951449364,False
+"the only thing i'm going to do is maybe two weeks before i might get a hundred dollars from the bank machine, and uh, i have three cars, so i'll probably have one of them full of gas, and other than that it's like yknow to me, if you are, say bank one and i'm huntington and january the second second people have all kinds of problems",0.12888865,0.9996636409452028,0.4775,0.038,0.0073321321979165,0.0005345214158296,0.0007548429421149,False
+"you and i are going to be the laughing stock of the corporate america, and do you really think you and i want to do that? so to me nobody's gonna have a problem because years they're gonna go",0.14911842,0.0028315734039709,0.45,0.062,0.0088597238063812,0.0104484483599662,0.0077372142113745,False
+"remember bank one yknow, you go get ten bucks and you get five hundred out the machine",0.031529333,0.9997959970113338,0.5,0.0,0.0216543786227703,0.0007317212875932,0.0006114880088716,False
+"uh, yknow, it's like who wants to do business with them? nobody's gonna do that",0.11600884,0.9971130522274474,0.4,0.0,0.0022529370617121,0.0013961370568722,0.0006074923439882,False
+"yeah, yknow, maybe some little company",0.023632111,0.0056314659931935,0.59375,0.0,0.0008540468406863,0.000433043052908,0.0004894550074823,False
+"um, that really doesn't yknow have a big impact, but i don't see where anything's gonna happen at all",0.033761155,0.9968309052159496,0.45,0.0,0.0012672437587752,0.0004596731741912,0.0004120850935578,False
+yknow,0.02054715,0.8117362666052323,0.5,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
+"yeah, i mean, there are people who think cars won't run and it's like a car has a computer, but it does not know if it is uh monday or two thousand and fifty",0.04131502,0.996302136622098,0.65625,0.0,0.0011772352736443,0.0006425274768844,0.0007577491924166,False
+it has no idea it,0.044405237,0.9197370581785528,0.5,0.355,0.0008054525242187,0.0005393390310928,0.0009771361947059,False
+it means nothing,0.02262963,0.9998834396364248,0.5,0.0,0.0019084158120676,0.0005184974288567,0.0006420742138288,False
+"it's not date sensitive yknow, so she's a librarian at an elementary school one block from our house, um-hum, yeah, it was it is",0.082104236,0.9967699576466548,0.4,0.107,0.0012141799088567,0.0025318444240838,0.000552077544853,False
+"she doesn't even drive to work yknow, so uh, she's undecided right now",0.09763293,0.8097328648665725,0.3571428571428571,0.153,0.0011939842952415,0.0005918975803069,0.0014723325148224,False
+"um, right, um-hum at o",0.09484491,0.9906340722841152,0.3571428571428571,0.0,0.0007956260815262,0.0012617901666089,0.004022654145956,False
+"yeah, uh, she really likes it",0.08367105,0.0039436206670972,0.4,0.0,0.0008392827585339,0.0005959949921816,0.0015108025399968,False
+"well, yeah, she went to name columbus alternative high school right, um-hum uh, college, without the tuition so hard, i mean every summer they have homework that has to be done, or else the first grading period is an f",0.079307266,0.9479766152074468,0.4908452380952381,0.043,0.0013037159806117,0.0019006322836503,0.0007341624004766,False
+"and when, uh, my yeah, oldest daughter went to northland first, because she thought about being a teacher and they had a teaching academy there and once she got into it she went uh, maybe not",0.02517722,0.9883101667996388,0.375,0.0,0.000718553783372,0.0006715590716339,0.0006153578287921,False
+so i said,0.02262963,0.9833037337762488,0.5,0.0,0.0010254443623125,0.0004101236409042,0.0004924467648379,False
+"well what yknow, whatever",0.023288755,0.8705647976972846,0.5,0.0,0.0010513073066249,0.0006846080068498,0.0005011904868297,False
+"so then she wanted to go to name, because it's basically a columbus public school that's geared to college",0.024662184,0.2049213150488638,0.5,0.0,0.0006510451203212,0.0004020425258204,0.0006278716609813,False
+only,0.017562259,0.2270637010880855,0.5,0.0,0.0008309361292049,0.0006965910433791,0.0006965196225792,False
+"i mean if if you're not going to college, don't go there because you will flunk out",0.22157386,0.9948180260557564,0.65625,0.126,0.1139181479811668,0.0188471395522356,0.0465141050517559,False
+"it's very hard and she got in the second year three weeks before school started, and so we go over there and they hand her this stack of material that's got to be done in three weeks, so i thought well, i'll just call and i called and i talked to the principal and i said yknow, they gave us all this stuff and yknow everybody else has had june, july, august to get this done, and she's got three weeks and she goes and the principal goes",0.026722329,0.951549483912673,0.5947916666666667,0.018,0.0010134363546967,0.0003750148753169,0.0004032075812574,False
+that's correct and i go,0.024147147,0.0063829241898667,0.5,0.0,0.0009526386857032,0.0003841930010821,0.0006487864302471,False
+"well, there's no way she can get this done and i, i said yknow, everybody else has had all this time and she's gonna get it done in three weeks and they go",0.044748597,0.9979401211739009,0.5,0.062,0.0030509559437632,0.0006392712239176,0.0010978396749123,False
+"that's right, so they take",0.04783881,0.0191169725420024,0.3571428571428571,0.0,0.0007137256325222,0.000484893185785,0.0011919639073312,False
+"there's no excuses, yknow, and it's it is very hard",0.09118898,0.9986796878888388,0.6895833333333333,0.327,0.0021505786571651,0.000720904674381,0.0020688865333795,False
+i know my youngest daughter who is just as smart as my oldest would do horrible there,0.2224569,0.8879083598904791,0.6964285714285714,0.165,0.0200137458741664,0.0372408293187618,0.0890559777617454,False
+"because yknow, basically they say, uh, we're talking about china this week, and uh, on december the fifteenth, we want a report on why chinese people do what they do yknow, and it's like, and every week they don't come by and go",0.08420804,0.995630402018512,0.5,0.0,0.0009328892338089,0.0018901557195931,0.0018030488863587,False
+have you started? have you started? have you started? do you have the outline right? and it's up to you to go gosh? i have to have an outline,0.10515087,0.0023945689010035,0.3571428571428571,0.0,0.0162644013762474,0.0039313719607889,0.003501754021272,False
+i have to bibliography,0.013883209,0.1665086401002818,0.5,0.0,0.0012302194954827,0.0018467041663825,0.0004911522264592,False
+i have to have the facts,0.020408317,0.0050658308256413,0.5,0.0,0.0008491853368468,0.0003940124006476,0.0003411439538467,False
+"i have to interview some people, and if you don't sit down with a little calendar and go this week, i'm getting this done this week",0.03770977,0.0005256392565529,0.5857638888888889,0.0,0.0006429826607927,0.0004973895847797,0.00319011695683,False
+i'm getting this done and this,0.032559406,0.0119326101683196,0.5,0.0,0.0011447551660239,0.0004435699083842,0.0007550446898676,False
+you just fail,0.2712817,0.9997716477868284,0.75,0.636,0.646959662437439,0.0688168779015541,0.0861852541565895,False
+"so my oldest daughter is pretty uh, detail oriented, so after we kind of helped helped helped her start yknow, and say yknow, you're you're gonna hafta do these things, so you get this done and i said, and basically get it done like two weeks before it's done",0.05093802,0.0007330100082167,0.2875,0.0,0.001153805758804,0.0005886584403924,0.001530414330773,False
+"so then you can say oh, this isn't very good, and yknow amend it or whatever, or or help somebody",0.08367105,0.999921021487222,0.045,0.112,0.000860555388499,0.0005986827309243,0.0007823652122169,False
+yknow get somebody with typing whatever,0.06771983,0.9977530762130729,0.5,0.0,0.0030373600311577,0.0010338239371776,0.0035701885353773,False
+so she's really good and it's it's helped her at school a lot because i know they,0.039598234,0.0093605035312336,0.15,0.0,0.0005941636045463,0.0003617181500885,0.0014145753812044,False
+"uh, she",0.03856816,0.0959049194076432,0.5,0.0,0.0013781131710857,0.0017422462115064,0.0015364980790764,False
+she toured here at ohio state and there were some people here that were come from cahs,0.033246122,0.0821410210520951,0.5,0.0,0.0007204342400655,0.0008983321022242,0.0014602724695578,False
+and they go,0.025863936,0.0186080230843761,0.5,0.0,0.014203512109816,0.0009004097664728,0.0010578088695183,False
+this will be easier than your highschool,0.25447917,0.0508290806632883,0.5,0.0,0.0028355254326015,0.0034045956563204,0.0010471371933817,False
+"so hum, um-hum um-hum yeah, um-hum yeah, no, because um, all the kids take that california achievement test",0.04680874,0.9993254638944512,0.5,0.0,0.0020864061079919,0.0007651778287254,0.0006460573640652,False
+"i don't know if you're familiar with that and it's like yknow, because it's say, like you and i go to school",0.045091953,0.0044762934817692,0.3125,0.0,0.008939690887928,0.0018305053235962,0.0035329421516507,False
+"you go to you, go to dublin and i go to the worst school in columbus, and we both make straight a's well when you take the california achievement test, that really the a's mean nothing because it's like let's see what you understand and have learned the score on",0.25219622,0.8912217916320329,0.6140625,0.11,0.0173182226717472,0.002306839916855,0.0074252896010875,False
+"that is what really matters to me and both my daughters have really scored exceptionally high on those because yknow, they always pick on columbus public schools",0.04783881,0.0015382033967913,0.43,0.0,0.0008789803250692,0.0005769281415268,0.0011249406961724,False
+they go,0.031701013,0.0110369342269925,0.5,0.0,0.0073263356462121,0.0011947265593335,0.0011536638485267,False
+"oh, it's so look how bad their test scores",0.1539292,0.9999600040890008,0.8499999999999999,0.32,0.0556622482836246,0.0055057532154023,0.006584495306015,False
+"well, yknow, if you take, say, like, uh, the worst school in town which i don't know what it what it would be",0.22990796,0.999896791475566,1.0,0.143,0.010140118189156,0.017874451354146,0.0047565381973981,False
+"but lets just say it's uh, brown school",0.19535941,0.1074025218882242,0.5,0.0,0.0006860762950964,0.2332541346549987,0.0015789686003699,False
+"well, you have children there who have not seen dad in probably ten years, and mom is basically sometimes there or in prison",0.070516795,0.2027921437540066,0.5,0.125,0.0534281507134437,0.0010721591534093,0.0011475529754534,False
+so they live with grandma,0.036851373,0.0116384822654494,0.4318181818181818,0.0,0.0527403280138969,0.0005764722009189,0.0006859507993794,False
+"how do you expect them to do well? nobody's there to yknow, i'm not a uh, yknow, like an ogre or anything, but yknow",0.11729682,0.964996246285402,0.5,0.0,0.0136979082599282,0.0179801117628812,0.0031044301576912,False
+"i always keep tabs on my kids yknow, like i've always gone to conferences, even though they got straight a's",0.09978092,0.0022211738114404,0.4,0.0,0.0008957338286563,0.0008986009052023,0.0005416240310296,False
+i go to conferences and teachers go,0.015826859,0.0147584017490909,0.5,0.0,0.0077532511204481,0.0010027607204392,0.0009474123944528,False
+"well, what do you come for? and i go",0.046122026,0.0036295842183645,0.5,0.0,0.0010189736494794,0.0013361074961721,0.005230959970504,False
+"if i don't come then it's like saying i don't really care, so i always go",0.07730943,0.2046530265311177,0.4,0.147,0.0047488720156252,0.0049679721705615,0.0008798937778919,False
+so they know that i'm keeping tabs on things and i don't demand a's,0.04680874,0.0019936560882151,0.5,0.0,0.0011840098304674,0.0009141728514805,0.0004574543563649,False
+"i just demand them to do their best and i said yknow, if your best is a c, then that's what it will be",0.07011723,0.001667072487075,0.0,0.049,0.0013911314308643,0.0020272550173103,0.0172186587005853,False
+"but i said if your best is an a, and you're getting a c, you got me to talk to, so uh, back to the brown school",0.22422299,0.7884429699139551,0.25,0.0,0.0026470692828297,0.0323272347450256,0.0152056403458118,False
+"uh, there are kids like my daughter there who make straight a's and when they take the um, what is that thing? the proficiency test zoom through it and get like outstanding on it",0.13431281,0.0007097038961441,0.325,0.0,0.0007080393261276,0.0007883868529461,0.0008708270033821,False
+"and uh, then you have uh",0.030327583,0.1662031273702867,0.5,0.0,0.0009817740647122,0.000801597663667,0.0026488134171813,False
+this,0.028439116,0.0229099975769988,0.5,0.0,0.0022365439217537,0.000669838336762,0.0005347292753867,False
+"this probably sounds really biased or bigoted, but you, then you have the kid whose mom and dad aren't together",0.18450552,0.7678723754918647,0.4,0.082,0.0347137190401554,0.0640526264905929,0.0214141868054866,False
+"and and he comes to school maybe twice a week, and when he takes proficiency test, he gets like a th",0.11536485,0.1389157233701591,0.5,0.0,0.0458026304841041,0.0110640134662389,0.0024873341899365,False
+careless,0.14866976,0.9995300331441525,0.75,1.0,0.0595874302089214,0.1877152323722839,0.0904023349285125,False
+this means i get to hear more of my book,0.021102477,0.0034135705351136,0.25,0.0,0.0007739360444247,0.0004058905760757,0.000444340344984,False
+and why don't people use their time yknow? and it's free,0.05413456,0.9618654188260336,0.3,0.0,0.0012407575268298,0.0006656350451521,0.0007078503840602,False
+"yknow, rather they get all tensed up and mad because they left five minutes late and expect everybody to get out of the way because they got to get there yknow, um-hum um-hum uh, well, my oldest one",0.23803931,0.915152340610185,0.6541666666666667,0.123,0.0117052663117647,0.0062275100499391,0.0160091388970613,False
+"this is really odd because uh, the school she goes to it's sort of like uh, thrift store chic, and a lot of kids there go to thrift stores and buy their clothes and i told her i said yknow, we are not in the poor house",0.14822112,0.9945151062052374,0.6416666666666666,0.049,0.0059471689164638,0.000678744574543,0.0006509480299428,False
+"you're not buying clothes in the thrift store, so she basically went through my closet and took everything that was old of mine and wore it and i thought, oh, my gosh, yknow, because she just looks like a bum, i think, and yknow when it was time for like a, um, a, a dance or something, she would go out and buy a dress yknow at penny's or someplace at the mall, yknow and maybe spend like eighty dollars for a dress, and the same thing would happen every time she would go and come home",0.28996843,0.9999783032613954,0.475,0.0,0.0174431540071964,0.1026261076331138,0.3627349436283111,False
+i'd go,0.02517722,0.0653273301716098,0.5,0.0,0.0033656142186373,0.0013599569210782,0.000631846836768,False
+"what did they say yknow about your dress and she goes, jalena",0.1256687,0.0011757963343836,0.5,0.0,0.0043006027117371,0.0009743788978084,0.0074740978889167,False
+is that you and i go see you clean up,0.29021257,0.0096593999480828,0.3166666666666666,0.0,0.0067770010791718,0.1395985633134842,0.1606788635253906,False
+really nice,0.029125832,0.0180498387199162,0.2,0.0,0.0006126830703578,0.0003538359014783,0.0006585248047485,False
+i said yknow,0.0224908,0.7715341769828002,0.5,0.0,0.0020279951859265,0.0005649547092616,0.0004129220906179,False
+you have the best shape you're ever gone have in your life,0.1008549,0.0013652553554137,0.0,0.0,0.0489073172211647,0.0151531985029578,0.0531586892902851,False
+"and what do you do you wear? these big baggy clothes and these saggy pants? i said yknow when you get when you get in your fifties, and you've got a gut and a big ass",0.7663013,0.9989547119325805,0.5,0.099,0.9841167330741882,0.964085578918457,0.9651223421096802,True
+you could do that,0.04406188,0.9873415623976446,0.5,0.0,0.0008521236013621,0.0004565264971461,0.0004729853826574,False
+"why are you doing it now? but and then, my, my, my youngest one",0.058130227,0.8983870799497995,0.5,0.0,0.0010303043527528,0.0008289432153105,0.0010673800716176,False
+she likes to dress totally different,0.11536485,0.7706145690619409,0.5,0.0,0.0071113989688456,0.0005990069475956,0.0034057849552482,False
+"she's sort of like, uh, little bit of a preppy, but she uh, does not understand why people want to have like izod on their shirt or yknow a name on their pants and she says, i just think that's stupid",0.7138269,0.9998318502758138,0.746875,0.096,0.8006181716918945,0.9942031502723694,0.988913118839264,True
+"she says you can buy nice clothes without that, so she's neither one of them pressure me, and uh, the one thing that was really odd when they little is we would go like to toys r us, and up and down the rows and i see kids",0.16344422,0.854663144721717,0.4887152777777778,0.089,0.0028213206678628,0.0013090500142425,0.0024755946360528,False
+"it's like in y, yknow, and they would walk over and pick something up and go and then put it back down and keep walking and it's like yknow, i told joyce, i says yknow",0.05653196,0.000436170013021,0.5388888888888889,0.0,0.0020742954220622,0.0016331784427165,0.0003611845604609,False
+"i feel like i'm an ogre, because are they terrified to even ask for this stuff? and she goes",0.2145095,0.9696766321654746,0.5,0.17,0.0323369987308979,0.0041226623579859,0.0358335971832275,False
+"no, she says they don't want it",0.040628307,0.9977929529112224,0.5,0.169,0.0010886177187785,0.0027826325967907,0.0006962651386857,False
+"she says they just want to see what it's like, yknow, because their favorite toy when they were little is, i would go to, um, um, what do you call it, lazy boy, and get five or six of them killer boxes from the sofas and the chairs, and take a knife and cut doors in it, and they would play with that for weeks, yknow, until somebody, one of their friends would come over and have a little accident, and then we go",0.38965073,0.9260641013452277,0.515625,0.118,0.026891415938735,0.1300414055585861,0.229770079255104,False
+"well, we hafta build a new house, but yknow, they just reading and playing with stuff like that",0.047495455,0.8792776476205264,0.4318181818181818,0.0,0.0095240687951445,0.000637735298369,0.0010748436907306,False
+they,0.02054715,0.0583123692570327,0.5,0.0,0.0147170908749103,0.0010553121101111,0.0013982686214148,False
+"they enjoyed yknow, so right, yeah, yeah, well, my oldest, my oldest daughter is the biggest cheapskate yknow, because i keep asking her when i yknow when i call her on the phone or i e mail her every day",0.39230084,0.0230490891691251,0.3035714285714286,0.0,0.0238708965480327,0.2268724590539932,0.0844269916415214,False
+yknow and she goes,0.038053125,0.0030847814962583,0.5,0.0,0.0166336707770824,0.0005850334418937,0.0007967250421643,False
+"i said, do you? are you out of money? and she goes well, i have like three dollars, but i'm not going to the bank machine because you're picking me up tuesday and i'm not paying a two service service, uh charge to get money out",0.04131502,0.9995733372117248,0.5,0.0,0.0231107901781797,0.0021876050159335,0.002096363576129,False
+i'll wait till i get home and i'm like yknow,0.036508016,0.8198361538596799,0.5,0.0,0.0081399055197834,0.0011524661676958,0.000622474879492,False
+i can't complain,0.035477944,0.0007855828748357,0.5,0.0,0.0014113582437857,0.0009262052481062,0.0007738335407339,False
+"uh, yeah, yeah, because if she was, they're charging her two bucks down there and i told her i says you need to really not get twenty dollars out at a time, because i said you need to get like sixty or eighty because i says you get eighty bucks out",0.05613239,0.9999215579450448,0.5638888888888889,0.0,0.0069574834778904,0.000832829857245,0.0004701057623606,False
+"you're gonna pay eight dollars for it, twenty bucks at a time, but if you get eighty bucks out, you're gonna get two bucks and she goes, but if i have eighty dollars, i'll spend it and i says well, you have a footlocker with a lock on it",0.1464265,0.8812793803792935,0.5,0.024,0.0116732269525527,0.0013306189794093,0.0018097760621458,False
+put seventy dollars in there and have ten on you,0.25447917,0.0208191532132482,0.5,0.0,0.0037164294626563,0.0006393903167918,0.002460449701175,False
+"and she's like, oh, and i said the i know that's because that's what dad's gotta do",0.07690986,0.0014284381656361,0.5,0.0,0.0099387597292661,0.0009284998523071,0.0036979757715016,False
+i said i can't carry money or i'll spend it yknow,0.039598234,0.999695947627411,0.5,0.0,0.020152436569333,0.000895504723303,0.0008656439604237,False
+"oh yeah, by the oh yeah, yeah, oh yeah, right, um-hum right, yeah, yeah, yeah, right, because uh, take you'd like, uh, i, i always keep using my oldest daughter",0.12309273,0.0018106643642691,0.3571428571428571,0.074,0.0019995854236185,0.0018808319000527,0.009175295010209,False
+"uh, she can, uh, get up in the morning and brush her teeth and just barely comb her hair",0.355017,0.9832331597693588,0.475,0.0,0.0185244232416152,0.0410718880593776,0.0534393936395645,False
+put on a shirt and a pair of pants and go somewhere because she's comfortable with herself,0.29855597,0.0166886962078094,0.3,0.0,0.0639574527740478,0.006653883960098,0.0013663475401699,False
+she doesn't hafta be made up,0.03461955,0.9992967335977276,0.5,0.0,0.0091440239921212,0.0030734816100448,0.000813363934867,False
+she doesn't hafta look perfect,0.101391904,0.9998686572430896,0.0,0.428,0.0460357666015625,0.0037946647498756,0.0030569490045309,False
+"now my youngest one hasta do that, and and the oldest one i look at her as yknow",0.06252546,0.0020763600025392,0.5,0.0,0.0013930153800174,0.0006460443837568,0.0071960259228944,False
+i like myself,0.026894007,0.0057353897947244,0.5,0.0,0.0054358760826289,0.0004500055511016,0.0004050527641084,False
+"and if you don't like me well, then move on",0.15859914,0.9560793635702818,0.5,0.329,0.0194127988070249,0.0232677906751632,0.0165135096758604,False
+"maybe somebody else does, and that's way i'm gonna be yknow",0.031014297,0.0419323747229418,0.5,0.0,0.0153255052864551,0.0006369723123498,0.000749223283492,False
+"and and then, like i said, she can clean up and look like a beauty queen, but she can also look just like yknow, just basically yknow, like she was raking leaves ten minutes ago and my other one will not leave the house without looking perfect, and i just think that's sort of shallow because yknow i look at people who got to yknow",0.13476147,0.1856560715253254,0.4091666666666667,0.052,0.0074474667198956,0.0009793484350666,0.0008885280112735,False
+they hafta have the face lifts and they got to have the perfect hair and they got to have the perfect clothes,0.1250247,0.0002635200037671,0.0,0.0,0.0170847568660974,0.0035952420439571,0.0026604989543557,False
+"it's like you're so insecure about the image you present that you've got to be perfect, and by gosh, if your hair is out of place, you're gonna be out of the loop and yknow if if people were just a little more comfortable with themselves, yknow and i've like, i'm a big one to talk",0.16620636,0.003448887341771,0.4133928571428571,0.047,0.1322594285011291,0.0196432918310165,0.0151478834450244,False
+i was like mister insecure for thirty years,0.111500904,0.9754325861767336,0.75,0.248,0.0321698933839798,0.0017970701446756,0.0199614539742469,False
+at least then i finally got the point and i went,0.028439116,0.0302837891684993,0.575,0.0,0.0010210187174379,0.0003669522993732,0.0005818462232127,False
+"oh, the hell with it, yknow, it's too much work",0.39230084,0.9897428072182188,0.4,0.338,0.5519980192184448,0.5474970936775208,0.4239652454853058,True
+"yknow you either like me or don't if you don't go to somebody else, and yknow a lot of people are, uh, are really worried and yknow, i don't know if boys so much, but i know girls are really worried about what people think of them and how they look and it's like um, yknow, why don't you kind of like go past the outside and go inside, because yknow, um, my wife was saying the other day she says, uh, well, i'm getting wrinkles and i'm i'm thinning on top",0.20963,0.9617657568838714,0.4171875,0.049,0.0092546558007597,0.0042599458247423,0.002424684818834,False
+"and and i go well, obviously you're not looking too close at me because i said yknow",0.0765103,0.0625387926062998,0.5,0.0,0.0011362441582605,0.0010492542060092,0.003448179224506,False
+"mother nature has a way of making your vision get a little worse as time goes by, and i honestly feel it's so that that tight butt, tight skinned woman woman that you married who is not there anymore still kind of looks that way because yknow, it's yknow",0.39230084,0.9989927706347757,0.4639030612244898,0.052,0.4183630645275116,0.153531402349472,0.1440879553556442,False
+"yeah, right, exactly yeah, yknow and yknow, it's like uh, i, i honestly feel the older you get, the more you kind of look at what's in there as opposed to yknow gosh",0.073313765,0.0019208170371851,0.2998015873015873,0.0,0.0109269227832555,0.0005902762641198,0.0029190052300691,False
+that's just a hundred four hundred dollar dress and a three hundred dollar hair do,0.13790205,0.9997506663253204,0.5,0.0,0.0180880427360534,0.0015611709095537,0.0015023548621684,False
+"and yknow, what does that mean? yknow? it's like uh, when we're food for maggots, my feeling is uh, some people they're gonna say gee, she had a really big house and some other people are gonna go",0.3897707,0.8550091600173216,0.5729166666666666,0.0,0.2790227830410003,0.2391214966773986,0.0183150116354227,False
+gosh,0.04543531,0.0186725470391551,0.5,0.0,0.0429747365415096,0.0020180158317089,0.0089723607525229,False
+she did work in this area for free and she volunteered at this and she did this and she did this and this and they're gonna go,0.025692256,0.0043333572752472,0.3,0.0,0.0008453312329947,0.0004430720582604,0.0004114505427423,False
+"oh, yknow",0.022351967,0.9929624780536594,0.5,0.0,0.0028783865272998,0.0004897504113614,0.0006302779656834,False
+"it's like yknow, what? what? what do you want at the very end yknow, so yeah, you can't",0.05653196,0.233847895729289,0.4,0.0,0.0097897723317146,0.0023585259914398,0.001190886250697,False
+"you can't have a beer gut and a big ass and it means you're it means you're sloppy and lazy if you do, but if a man does, it's like by god, he's probably got some power behind him and it's like duh",0.77806646,0.0142870043390496,0.6366666666666667,0.078,0.8943998217582703,0.8753135204315186,0.9279494285583496,True
+he's probably just as lazy as anybody else,0.44805592,0.9999665011892972,0.625,0.263,0.6033360362052917,0.6436881422996521,0.895042359828949,False
+"it's like yknow, i've yknow",0.0224908,0.049894779758731,0.5,0.0,0.003210307797417,0.0005638937582261,0.0007305789040401,False
+"i hate to see girls starve themselves to death yknow, it's like uh, yknow, there are certain times in your life where you're gonna be fat yknow, yknow, my my youngest daughter has a problem with that yknow",0.42631236,0.995087864340546,0.6464285714285715,0.265,0.96795254945755,0.2885684967041015,0.3571911752223968,False
+"she's i don't know why she's so insecure, because she out of the four of us, including her sister, is like yknow right at the top",0.20376207,0.8103108981704702,0.4523809523809524,0.117,0.1129936873912811,0.0178840141743421,0.0119317006319761,False
+"i mean, she has done television commercials",0.05093802,0.8715495256371704,0.65625,0.0,0.0006761359982192,0.00053368776571,0.0011800724314525,False
+she's done radio voice overs,0.06012806,0.99617761880082,0.5,0.0,0.0009562880150042,0.0007642704877071,0.0007848137174732,False
+"she's been in plays and she was in a play highschool play when she was in kindergarten, uh, a kindergarten student and actually had speaking part, and i'm sitting there in the audience like in tears",0.065721996,0.0180238801219428,0.5,0.045,0.0048689073882997,0.0006323821726255,0.0008321361383423,False
+"because, and i'd i'm like",0.016451603,0.0038222917895428,0.5,0.0,0.0042794500477612,0.0005977590917609,0.0006978281890042,False
+"why am i crying? but it's like yknow, how can she do this? and yknow like you see her, i saw her in a few tv commercials and i'm like i tried to do that",0.13610743,0.0921219976616399,0.6,0.047,0.0023286452051252,0.0009927790379151,0.0010390497045591,False
+"and if you can picture driving along a highway at night with your bright lights on and a deer doing this, that's about how good i am in those",0.14866976,0.0063360437368102,0.15,0.0,0.0010667386231943,0.0007723836461082,0.0009184600203298,False
+"and she's just like yknow, and she's she's not a smart ass yknow",0.77806646,0.9354907978111328,0.5535714285714286,0.128,0.9383527636528016,0.9108571410179138,0.9092917442321776,True
+"she doesn't show off, but she's just so relaxed doing this and it's it looks so natural, but she doesn't see that because yknow yknow, uh, she always thinks she's very uh, mediocre",0.42750368,0.9984225159693064,0.6375,0.0,0.2339396774768829,0.5278149843215942,0.7653425931930542,False
+"uh, and i go, but janelle, i said yknow, you've been in front of television cameras and you do so well",0.04406188,0.0112271383283318,0.5,0.0,0.0048425225540995,0.0005085022421553,0.0054027806036174,False
+i said you get on the radio,0.05773066,0.7892315927164525,0.5,0.0,0.0383877418935298,0.0004993574693799,0.0032812485005706,False
+"you do well, i said you do well in school",0.07730943,0.0243402239353771,0.5,0.0,0.001281751669012,0.0005373539752326,0.0009817226091399,False
+"you have a ton of friends, i said you have a great body, i said yknow",0.27359754,0.0023770148089181,0.0999999999999999,0.0,0.0019297795370221,0.0009119344176724,0.0042214230634272,False
+"i said, i never compare the two of them, but there are sometimes when i hafta, i said, look at your sister",0.22598907,0.9065279466212544,0.5,0.0,0.0218419786542654,0.0074902703054249,0.0195140428841114,False
+she has the same chest,0.13017663,0.0188902297022986,0.5,0.0,0.0716581791639328,0.0072011277079582,0.0398362763226032,False
+i do,0.020824814,0.0058703983467562,0.5,0.0,0.0019158989889547,0.0003391294158063,0.0004902878426946,False
+i said you definitely are well built there,0.05373499,0.0043622961944576,0.5,0.0,0.0008116973331198,0.0004132906906306,0.0007647550082765,False
+i said you have a nice shape,0.1256687,0.0973775259340103,0.2,0.0,0.0008573579834774,0.0006481400341726,0.0024189972318708,False
+"i said when you have a bathing suit on, it's like i go",0.17173064,0.0002753220758652,0.5,0.0,0.000772047729697,0.0088044153526425,0.0044376165606081,False
+"somebody put a towel on her yknow, and i said yknow, you just don't realize all the physical and and also the character attributes you have",0.16151784,0.9999573217998876,0.5,0.0,0.0135015854611992,0.0041294242255389,0.0105934850871562,False
+i said you have a great personality,0.057331093,0.0101853968431841,0.0999999999999999,0.0,0.0012412357609719,0.0050461082719266,0.0022865585051476,False
+"i said you go in a room of a hundred people with me and your sister, and about three days later somebody will go john and jalena, who, but in ten minutes they'll go",0.20963,0.9790334400983745,0.5,0.0,0.0179580580443143,0.0051651503890752,0.0025159218348562,False
+where's janelle at? because they all know you,0.050585672,0.0014701626629527,0.5,0.0,0.0009390393388457,0.0010397913865745,0.0008665616624057,False
+"you're just so easy to get along with and everybody likes you, and i said you just don't realize this gigantic list of character, physical and mental traits you have that i can never even come close to having okay test, one, two, three, four, five, five, four, three, two, one test, one, two, three, four, five, five, four, three, two, one",0.16151784,0.0184804355322242,0.3958333333333333,0.0,0.0029343196656554,0.0084137134253978,0.0155414957553148,False
+"okay, um-hum, okay, okay, uh, i've been in columbus since nineteen seventy seven, and uh, i'm an air traffic controller and i have three more days to work before i retire",0.028439116,0.967290139935023,0.25,0.0,0.0007855030708014,0.0005611243541352,0.0006652979645878,False
+i'm retiring,0.036679696,0.9709969144734234,0.5,0.0,0.0010127071291208,0.0006895822589285,0.00073474511737,False
+i,0.018187003,0.1366178956965055,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i have,0.024318827,0.006713084176491,0.5,0.0,0.0008579267887398,0.0003512880066409,0.0004848058451898,False
+i'm retiring sunday,0.03444787,0.9719358646791104,0.5,0.0,0.0011344904778525,0.0005709961405955,0.000413860194385,False
+"so and tomorrow's my retirement dinner? so, uh, a little nervous about what i have to do there",0.09387396,0.1944894754426,0.59375,0.096,0.0006193774170242,0.0005400468362495,0.0008471523178741,False
+"yknow, they've told me nothing except show up",0.05653196,0.9476484818392636,0.5,0.0,0.0027310629375278,0.0024336166679859,0.0091568073257803,False
+"uh, i have a daughter at o",0.07451247,0.0324016650458686,0.5,0.0,0.0007614303613081,0.0014495889190584,0.0012354125501587,False
+u,,0.8028579492469176,0.5,0.0,0.0550489127635955,0.0032731131650507,0.0010994247859343,False
+i know that's a bad word for you guys and i have one at northland highschool,0.11021292,0.9871101702568112,0.8499999999999999,0.189,0.0013080879580229,0.002236753469333,0.0014305128715932,False
+"she's a sophomore there, and the one at o u's a freshman",0.29855597,0.043844876663876,0.5,0.0,0.0085484599694609,0.0007172083714976,0.0146452561020851,False
+"and uh, i'm married",0.044405237,0.0065981331863836,0.375,0.0,0.0007761088199913,0.0007088721613399,0.0004245131567586,False
+"and uh, what else? i live in uh, northeast columbus by seventy one and one sixty one",0.050585672,0.0546404942803165,0.4318181818181818,0.0,0.0006292636389844,0.0003810137568507,0.0006227454869076,False
+and that's about it,0.021796638,0.1426689313134305,0.5,0.0,0.0012029593344777,0.0005281961057335,0.0008024616981856,False
+"uh, i'm originally from indiana, but i lived up in uh, amherst, ohio",0.048525527,0.1187667549934537,0.3125,0.0,0.0007134702755138,0.0004103860410396,0.0002905024157371,False
+"i lived there for about four years, and then i because i worked at a place called cleveland center, which is an air route traffic control center, and i moved from there to ohio state airport and i worked there for nineteen years, and uh, then i transferred to port columbus about two years, two and a half years ago, right, um-hum name, um-hum oh, okay, oh, yeah, yeah, oh, wow",0.027409043,0.0403365617166411,0.4567460317460317,0.0,0.0006743649719282,0.0004654224321711,0.0006124938954599,False
+"oh, so you have it on the speed dial? yeah, um-hum yeah, right, yeah, um-hum oh, i don't know what kind that is because i know they got they traded airplanes since i've been gone",0.047495455,0.9796437204780556,0.2785714285714286,0.209,0.0007345788180828,0.0006597233586944,0.001080848975107,False
+"yeah, oh, because uh, some, some of the newer ones jets",0.04543531,0.0032631537222871,0.5,0.0,0.0006624622037634,0.0004309524956624,0.0005481792613863,False
+there's like some that sound like a vacuum cleaner,0.14014533,0.999002337465946,0.4020833333333333,0.0,0.0036141497548669,0.0034134080633521,0.0263995248824358,False
+"i mean it's there are prop planes that are like five times as noisy, so oh, um, oh, they do now because they wouldn't let them when we",0.15042676,0.901245595457752,0.65625,0.056,0.0007759043946862,0.0004582178662531,0.0094007039442658,False
+i was there,0.020824814,0.0286460132391829,0.5,0.0,0.0009773666970431,0.0003906820784322,0.000409300730098,False
+"oh, okay, oh, yeah, uh, they",0.026894007,0.991323718618335,0.25,0.0,0.0012914101826027,0.0005312602152116,0.0016521989600732,False
+"uh, stopped federally funding",0.0186035,0.9964525534349246,0.5,0.388,0.0007028697291389,0.0007271631620824,0.000441842188593,False
+"uh, o, s",0.06332459,0.959004399848242,0.5,0.0,0.0169453099370002,0.0013362570898607,0.0018883923767134,False
+u,,0.8028579492469176,0.5,0.0,0.0550489127635955,0.0032731131650507,0.0010994247859343,False
+"that was a federal control tower and they contracted it out, so you either lost your job and stayed there and worked for the contractor or you picked up and moved on, and yknow, some people moved like to arizona and california, and and i thought well, since i only have like two and a half years til i retire, and i really like columbus, and i thought i don't want to root uproot my daughters out of school and leave and leave and start over",0.046122026,0.9897558014188116,0.4944444444444444,0.066,0.0036095269024372,0.000957797979936,0.0044810762628912,False
+"so i thought well, i'll just go to port columbus and suffer it out until i can retire",0.16275369,0.9995486005454584,0.5,0.16,0.0013387275394052,0.1389768421649933,0.0131848603487014,False
+"yeah, well, i don't really like the",0.032902762,0.999895182102098,0.4,0.219,0.0012622355716302,0.0113477539271116,0.0007990511949174,False
+"uh, i don't like like like, i really don't like that job, but uh yknow",0.14104263,0.9751139600332962,0.4,0.366,0.0019966452382504,0.0223166532814502,0.0008717816672287,False
+"i like the people there, but it's like uh, way too busy",0.089041,0.9987333634743154,0.45,0.0,0.0006583033245988,0.0004775983979925,0.0018022594740614,False
+i think,0.021518974,0.0872167763474554,0.5,0.0,0.0007737225387245,0.0004390265094116,0.000335821066983,False
+"oh, it can be",0.026894007,0.0024394823420437,0.5,0.0,0.0008786479011178,0.0004051466239616,0.0005048749153502,False
+"yeah, yeah, there are there are times when it all just",0.023460433,0.8189721885363136,0.5,0.0,0.0007379919989034,0.0004112884344067,0.001135746948421,False
+there's a uh group over there called star check and they fly checks,0.0334178,0.0039397462494892,0.0999999999999999,0.0,0.0007303383899852,0.0007345535559579,0.0004844326467718,False
+like if you write a check today and you deposit at the bank,0.01492445,0.95840857402656,0.5,0.0,0.0019303399603813,0.0006303100963123,0.0004421727498993,False
+"well, that check has to go from your bank to clearinghouse, and that's all they do all night long, right tuesday, wednesday and thursday every night, so like thirty of them will go out at one time and thirty will come back",0.020408317,0.9807706693473662,0.4607142857142857,0.0,0.0012026780750602,0.0005530437338165,0.000567661889363,False
+"well, that isn't too bad, but they're mixed in with everybody else that's normally flying like all the airliners and stuff",0.049212243,0.9992559628032068,0.5916666666666667,0.0,0.0009321380057372,0.0006008028867654,0.0029687534552067,False
+so and they want to get there a s a p,0.34388447,0.9300500425738888,0.5,0.0,0.0465572774410247,0.0694783702492713,0.0145052829757332,False
+"so yknow, i, i just don't feel comfortable doing that much at one time",0.050585672,0.9999572621934628,0.35,0.172,0.0007428259705193,0.0005274032591842,0.0004895658348686,False
+"i mean, not that o",0.023803791,0.985320248928351,0.65625,0.0,0.0011602781014516,0.0006826304015703,0.0005851988098584,False
+"s u is not a, was not a a dead place",0.1550967,0.9998187368623714,0.45,0.0,0.0547078512609005,0.048620332032442,0.0464126244187355,False
+"yknow, it was very busy",0.076110736,0.997081937673734,0.435,0.0,0.0010382155887782,0.0004522908711805,0.0007541321683675,False
+"it's like the third busiest in ohio, but uh yeah, it's amazing and they're only open sixteen hours a day, so yknow, um, it",0.089041,0.0015478596375988,0.425,0.0,0.0008413353934884,0.0004475461901165,0.0008912422345019,False
+"it's pretty pretty busy there, but it",0.060927194,0.1294303145758868,0.4,0.0,0.0006306358263827,0.0003562130732461,0.0007045295205898,False
+"it's spread spread out over the sixteen hours is where, as port columbus, sometimes you have like maybe seventy five eighty airplanes in an hours time",0.032559406,0.7835673133864407,0.5,0.0,0.0006396502722054,0.0003719652886502,0.0006538332672789,False
+"so uh, well, we have an upstairs and downstairs",0.06372416,0.8779458910758154,0.5,0.0,0.0007092866580933,0.0004564932314679,0.0004600880783982,False
+"upstairs is the tower and there's like a uh, ground control a clearance which reads all the clearances, all the airplanes, and the ground control taxis them to and from the runway, and the tower works, everybody, landing and departing, or any airplane within five mile radius",0.012425472,0.0205251147200152,0.5,0.0,0.0006491566309705,0.0004022539651487,0.0005271740956231,False
+"then once they get out of that radius downstairs, which is called the approach control, they work everything from there to ten thousand feet, and out to about sixty miles, and when they get to that point then they go to the en route centers",0.020408317,0.0006491437686102,0.5,0.0,0.0006450716755352,0.0003812132345046,0.0004576883511617,False
+"so yknow downstairs, there's five different sectors, so they split the uh area up into five different areas, and uh, yknow, there are some sectors down there that get extremely busy and then sometimes it's just like yknow, you're just twiddling your thumbs",0.07371333,0.964815668621658,0.5069444444444444,0.0,0.0587714090943336,0.0053855557925999,0.0026612582150846,False
+"it's uh, it's like feast or famine yknow, it's not like steady",0.10892494,0.999786400376951,0.4166666666666667,0.144,0.0016321641160175,0.0009210342541337,0.0104271220043301,False
+"like if you're working at meijer running the cash register, it's just kind of like steady",0.08581903,0.0178835069916846,0.3083333333333333,0.0,0.0006743161357007,0.0005122915608808,0.0049840593710541,False
+"it's like you look at yknow you sitting, so you'd be like sitting at meijer and there's no one in your line and then you turn your back and turn back around and there's like seventy five waiting and they all want to go right now, yknow",0.05413456,0.7851904857416961,0.4523809523809524,0.041,0.0200351402163505,0.0033400277607142,0.0025443460326641,False
+and that's how most airplanes are yknow,0.0186035,0.1459220115499369,0.25,0.0,0.0053440546616911,0.0005694928113371,0.0006026731571182,False
+they all,0.023632111,0.0107925478855663,0.5,0.0,0.0025547151453793,0.0004884282825514,0.0018871964421123,False
+they don't think about anybody else,0.09172598,0.9564733322345882,0.5,0.0,0.0008773762965574,0.0069999229162931,0.000526986666955,False
+they think i'm here,0.028439116,0.0004405808884516,0.5,0.0,0.0063598118722438,0.0010078186169266,0.0019672333728522,False
+"why? um? why aren't i first yknow? so right, uh, well, the problem is is, um, like say, every airline wants to go to new york city and they want all their business men there at eight a m",0.06332459,0.9742350334973204,0.3909902597402597,0.061,0.0027256708126515,0.0013411542167887,0.0013344243634492,False
+"well, an airport has so many runways and so many taxi ways, and yknow, like say, ten airplanes every ten minutes can come in and out of those airports",0.016243355,0.0511357259153535,0.375,0.0,0.0008058666717261,0.0004263023438397,0.0005494320648722,False
+"well, they end up shooting like thirty there",0.29045674,0.8078035241106498,0.5,0.0,0.0008428763831034,0.1022422164678573,0.3573163747787475,False
+"so instead of letting them all get in the air and staying up there and hold while they're uh, yknow, shooting them in what they do is they uh, like, uh, say, going to o'hare",0.38261065,0.9815249588492144,0.5,0.0,0.0171736981719732,0.4989653825759887,0.3594794273376465,False
+"they'll you hafta call for release times at these different airports and they will say well, uh, he can't go right now, but he can go like at twenty seven past the hour, so he they know by looking at the entire picture and how many airplanes are coming to that airport when he will fit in, so it's not so much air traffic delays",0.018881164,0.1675109221322529,0.4188775510204081,0.0,0.0006639889907091,0.0004456334863789,0.0004944806569255,False
+it's airlines that cause it themself,0.04268845,0.0173130139005162,0.5,0.0,0.0008939706021919,0.0007397378794848,0.0016942443326115,False
+"it's like uh, yknow, like you and i and five hundred people want to get to this room at ten o'clock today",0.040628307,0.0128320711176174,0.5,0.0,0.0051053613424301,0.0019476467277854,0.0021650358103215,False
+"well, rather than say, why don't some of you come at ten and another group come at ten, fifteen, another group and we're all trying to do the same thing at once and it doesn't work",0.045778666,0.9999523148602096,0.5,0.0,0.0015973055269569,0.000764345517382,0.0004924667300656,False
+"yknow you, you can't get",0.030842619,0.1744627896462448,0.5,0.0,0.0884417295455932,0.0118234949186444,0.0080508226528763,False
+"you can only get so many people through that door, and if you say well, i'm gonna take five at a time",0.11343288,0.8601778715320609,0.375,0.0,0.0030039260163903,0.0028996428009122,0.0058311386965215,False
+"well they can get in, but if you say i'm taking five hundred at time, it doesn't work",0.059328925,0.998966305382192,0.5,0.0,0.0010626520961523,0.0006604820373468,0.0005928080063313,False
+and so the airplane airlines always go well,0.012217224,0.0132703273555043,0.5,0.0,0.0006561023183166,0.0004117550561204,0.0004973544855602,False
+it's the government and regulations and blah blah blah,0.15743166,0.9998797440380908,0.5,0.412,0.0035807397216558,0.0005839379155077,0.0023180963471531,False
+"that's why we're delayed and it's really them themselves because they're right yknow, because every businessman goes",0.123736724,0.0370719774401603,0.3785714285714285,0.106,0.0010483799269422,0.0023058876395225,0.0019024696666747,False
+"i want to be there at yknow, and it doesn't work that way, yknow, you can't",0.06372416,0.9926896594476332,0.5,0.0,0.0029511575121432,0.0052575943991541,0.0012887733755633,False
+you just can't physically do it,0.039254878,0.9998809361665856,0.5,0.0,0.0171396546065807,0.0060032056644558,0.000498857232742,False
+"i that i don't know, but uh yknow, it's like if if you and i are running an airline and everybody wants to get new york at eight a m, and you go at eight and i go at eight thirty",0.058130227,0.1358069800911561,0.4159090909090909,0.0,0.0014345769304782,0.0010987943969666,0.0007189065217971,False
+"who are they gonna fly so that i think that's a problem, too, yknow",0.0789077,0.9934301500621546,0.0999999999999999,0.172,0.0108559262007474,0.0023803545627743,0.0109145827591419,False
+"everybody says well, i don't want to get there at eight thirty yknow, so yeah, the one thing they've done is they've put on bigger airplanes because it used to be yknow",0.053335425,0.8972503556268316,0.5,0.035,0.002782188123092,0.0007728799246251,0.0028685331344604,False
+"you like a uh, say uh, seven thirty seven would go from here to new york city",0.060927194,0.0489213174331208,0.4318181818181818,0.0,0.0010240570409223,0.000579014304094,0.0062366412021219,False
+and now it's a seven fifty seven,0.01999182,0.0218457546665124,0.5,0.0,0.0070801586844027,0.0004446208185981,0.0009193245787173,False
+so that adds more seats,0.023803791,0.003378223925244,0.25,0.0,0.0007252565701492,0.0004661068378482,0.0004565848212223,False
+"so instead of because i would when i first got there, i couldn't understand at o s u",0.037881445,0.9999334792299924,0.375,0.0,0.001529470202513,0.0019376776181161,0.0024565905332565,False
+"when it was like christmas time or something, it was just you'd drive up and the parking lot was just full of cars",0.031185975,0.970648574527254,0.325,0.0,0.0040275095961987,0.0006207011756487,0.0024483546148985,False
+"and you're like oh boy, gonna be a really busy day and i would the same thing at port columbus, yknow",0.14597784,0.7860439007278839,0.475,0.0,0.0040932213887572,0.0032870424911379,0.0016188587760552,False
+"i, i'd see all these cars, but it would be just about the same traffic and i'm like, and i mentioned somebody",0.03839648,0.939632103185874,0.5,0.0,0.0005892978515475,0.0005425468552857,0.0006601369241252,False
+i go,0.024318827,0.0135217472550496,0.5,0.0,0.0017460836097598,0.0006575972656719,0.0005695033469237,False
+where are the extra airplanes? and they go,0.016798683,0.7911062445776781,0.5,0.0,0.001539452583529,0.0006302199908532,0.0007184870191849,False
+they can't add extra airplanes,0.019019997,0.969700087293609,0.5,0.0,0.0009302380494773,0.0004944156389683,0.0009618469048291,False
+it's they have certain routes they can do,0.02929751,0.0006631214752113,0.3928571428571428,0.0,0.0009714571642689,0.0003843395097646,0.0005332517321221,False
+they just hafta be put bigger airplanes on,0.023460433,0.9970624761760573,0.5,0.0,0.0074079558253288,0.0009320985991507,0.0417663231492042,False
+"so he said, yknow, you'll see larger airplanes when it's holiday time, so they can put more people on, so oh yeah, yeah, thirty on it and his report card, he's got like a one point two five average",0.0358213,0.0571301652319896,0.4416666666666666,0.0,0.0008359038620255,0.0004013549769297,0.0006176669849082,False
+so they take jalena who has an a,0.04234509,0.045104926679627,0.5,0.0,0.0020773159340023,0.003533927956596,0.000471928884508,False
+"him who has a d, and they go well",0.20376207,0.002973794333396,0.5,0.0,0.0067951851524412,0.005285769701004,0.0011373054003342,False
+"gee, the average student kid in the school is like c plus and they're stupid at this school",0.8202001,0.999801182770286,0.7375,0.155,0.8980859518051147,0.9941113591194152,0.9923311471939088,True
+columbus public schools don't do any good,0.20816301,0.9999411684587834,0.325,0.286,0.0015108702937141,0.0122988456860184,0.0155486967414617,False
+"then you go to dublin, worthington westerville, in order to get there you, you're not gonna be in his condition and you're not gonna be stupid because you're trying to yknow",0.5810591,0.0904202640385796,0.8999999999999999,0.0,0.7873919010162354,0.992110550403595,0.983340322971344,True
+you probably both husband and wife work,0.10634898,0.0090130576814352,0.5,0.0,0.0086419265717267,0.0033255950547754,0.0114301647990942,False
+"so the intelligence is there, and you're not gonna have dumb people living and going to those schools because it's very expensive, live in that area, so there's a natural prejudice that columbus is stupid and worthington dublin, and it's really not true",0.6556601,0.9901812422753798,0.646969696969697,0.169,0.4239668548107147,0.9868488311767578,0.9872924089431764,True
+"it's just that yknow, you can't tell all the poor people and the people that don't have two parents, don't come to school because we want our scores higher, but yknow when the and when the news media goes, look how bad brown school did this year, but they don't look to see like jalena",0.22980565,0.9985425931119412,0.6416666666666666,0.109,0.009660480543971,0.011398397386074,0.0030026179738342,False
+they don't go,0.022074303,0.9866661619989372,0.5,0.0,0.0024035836104303,0.0008746813982725,0.000992618734017,False
+"well, look at the uh scores on the california achievement tests",0.017770508,0.781522574592225,0.5,0.0,0.0006147405365481,0.0003960349713452,0.0003894581168424,False
+"there's like seventy five percent the kids that are getting like yknow nineties and above, but twenty five percent are getting f's and d's",0.09602194,0.971211765831392,0.5,0.0,0.1232350245118141,0.001038396032527,0.000389321707189,False
+"so it brings that down and it's uh, like yknow, they're they're not comparing it fairly if you would take all the people who are making the same score on the test at both schools",0.051737156,0.9990037084137152,0.4092592592592592,0.0,0.0008233257103711,0.0004031954740639,0.0007557742646895,False
+i'll bet you they're all about the same,0.035477944,0.0519939094155202,0.5,0.0,0.0050144223496317,0.0012373292120173,0.0028299528639763,False
+"because like i think, it's archie griffin that went to a really crummy school in uh, in in columbus, and to me, no matter how bad of an area you live in and and bad bad a school, bad a school you think you're going to",0.2712817,0.9998435927414872,0.7053030303030302,0.262,0.029184628278017,0.0094714807346463,0.018441192805767,False
+"if you want to do it, you can, because it, and really in columbus public schools, if you have a learning disability or yknow, if you have problems reading or you have problems at home, there is a psychologist or a tutor or something to help you, and and in uh, like worthington and westerville, dublin, yknow, they don't have the money to throw away, and like catholic schools, they don't have the money to put on those programs, so some of those people kind of get pushed aside, and so yknow as you can see, i'm standing on my soapbox here",0.1530536,0.0120204998415959,0.4,0.049,0.0115336878225207,0.0027193669229745,0.0034617271739989,False
+"i do like columbus public schools, but yknow i",0.042001735,0.9696868248641048,0.5,0.0,0.0010198943782597,0.0004794185224454,0.0006340852705761,False
+i,0.018187003,0.1366178956965055,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+"i hate when people say yknow, look at these test scores because it really doesn't reflect what's there, because it's like saying all kids carry guns to school",0.2818683,0.9990264482647526,0.65,0.115,0.0996685549616813,0.0146417617797851,0.0069741206243634,False
+they don't yknow,0.024318827,0.9990582780955628,0.5,0.0,0.0135193215683102,0.000641698250547,0.0009174279985018,False
+and the media says,0.016035106,0.955221418495814,0.5,0.0,0.0007113001774996,0.0006122940103523,0.0003956830769311,False
+"well, what has there been like? maybe five or six people who have taken guns to school and killed people",0.3897107,0.9896412676736774,0.6,0.172,0.1070951521396637,0.2212077677249908,0.2955974638462066,False
+"well, what about the uh, millions and millions of kids that go to school every day do their homework and yknow do community service and stuff",0.010481823,0.0640193565903694,0.5,0.0,0.0017029007431119,0.0006010016077198,0.0009806246962398,False
+"well, well, well, that's just to boring",0.22977416,0.9990235871563652,1.0,0.198,0.0163933113217353,0.0111979972571134,0.002454234752804,False
+"we don't want to hear that stuff yknow, it's like that that irritates me",0.1668969,0.9998475863719448,0.5,0.225,0.0036018057726323,0.002171391621232,0.0038762451149523,False
+"oh, there we go",0.03444787,0.0008766614918355,0.5,0.0,0.0009798313258215,0.0005764499073848,0.0011269893730059,False
+"um-hum um-hum right, um-hum right, um-hum uh, they really have no self worth because yknow, uh, i, uh, i know a long time ago, uh, we went to a um, uh seminar",0.24242763,0.9999119315074496,0.3978571428571428,0.121,0.0011030749883502,0.0682780742645263,0.0662410855293273,False
+"what was that? it's like a a seminar for the ivy league schools, which i looked at the tuition and went yknow",0.054534122,0.9998042823043723,0.5,0.0,0.0012838428374379,0.0004246740136295,0.0004172387998551,False
+"there was no way, but and i thought this is so stupid to be here",0.6777893,0.999514505670508,0.8999999999999999,0.37,0.5878269672393799,0.990261733531952,0.923123300075531,True
+but i listened to the man there,0.04165838,0.1668590960745294,0.5,0.0,0.0006152205751277,0.0027373924385756,0.0017820028588175,False
+"there was like four or five men talking and some women talking whatever, and uh, they said yknow if your kid, if your child makes straight a's and uh, applies at our school, we don't want them and i'm like what he says",0.22069082,0.9974396656317998,0.4,0.026,0.0036848110612481,0.0038911872543394,0.0044707055203616,False
+"uh, he says",0.026894007,0.8024118547641776,0.5,0.0,0.0008950304472818,0.0005706694209948,0.0008430253947153,False
+we look at two two children sitting side by side,0.15217799,0.960700143025616,0.5,0.0,0.0015512767713516,0.0011700635077431,0.0052837645635008,False
+this one's making straight a's,0.14822112,0.0020488218343102,0.4,0.0,0.0074067218229174,0.0018484542379155,0.0005841617239639,False
+"this one sort of made b's, but this one over here got into track when he or she was in freshman's and and we noticed every track meet they basically was, were like last or second to last, but they did it for four years, then they were yeah, and and never got any better",0.080905534,0.0143768610243423,0.4375,0.051,0.0008074321085587,0.000402781937737,0.000386355939554,False
+"then they got in marching band and they were in that for four years, and sometimes we notice they marched, and sometimes they didn't because they didn't learn their music, but they stayed with it and they said, then they like volunteered down at cosi",0.058929358,0.0034544307392716,0.5777777777777778,0.0,0.0006141446647234,0.0004212059138808,0.0004175799840595,False
+"they didn't get paid a dime for this, but they did it because they enjoyed helping and definite",0.034791227,0.0125086764602009,0.375,0.0,0.0007318642456084,0.0003804716980084,0.0005433476762846,False
+"so like they go, we want that student over there, said you, as a straight a student have proved nothing to us, and you over there as a b student have proved that by gosh, yknow, you'll try out for something, and if you don't do well, you go",0.15334547,0.7737133282648003,0.4,0.034,0.0213560964912176,0.0044558527879416,0.0014460192760452,False
+"but i like doing it and i'm gonna keep with it yknow, and to me the straight, a student who does nothing is like the kids who go to school and shoot people",0.5012814,0.0050328684727612,0.4,0.143,0.4336478114128113,0.3251616358757019,0.243158683180809,False
+"they have nothing in their life at all, and the other one has yknow activities and they're giving of themselves to the community yknow yknow, like my, both my daughters have like volunteered for the library reading reading program and then they went on and they volunteer at cosi",0.09602194,0.9875288457841715,0.5625,0.0,0.0030702953226864,0.0031767631880939,0.0007886318489909,False
+and and my oldest one was in key club and they would have like easter egg hunts,0.14014533,0.0555906504938541,0.5,0.0,0.0008997237309813,0.001353662693873,0.0010812227847054,False
+for the name school is a grade school and it's attached to columbus columbus alternative high school,0.016590435,0.0561889201789504,0.42,0.0,0.0007201194530352,0.000414993846789,0.0003625406243372,False
+"so um, yknow, i read",0.03221605,0.9907048549134916,0.5,0.0,0.0008791423751972,0.0004076281038578,0.0005223821499384,False
+"i read an um, uh, a uh resume that she put in for a scholarship and it was explaining how the the closest she got to crying at school was when she would uh, do these projects because she says there were kids there that she knew had no easter candy and it it was just they were just so excited that the kids went out and bought like a dollar or twos worth of candy and hid it out, and they'd have an easter egg hunt for them at school and she says yknow those and things that were important to her and yknow to me",0.20009461,0.0006967096955512,0.390625,0.058,0.0010229586623609,0.0006484655896201,0.000778311106842,False
+that makes you feel like you're worth something,0.13879937,0.0004819775504322,0.35,0.0,0.0803221836686134,0.0019053419819101,0.0024648518301546,False
+"but the kids that go yknow, the ones who went to school",0.042001735,0.0091970329113893,0.5,0.0,0.0068962578661739,0.0006843063165433,0.000585347705055,False
+"i yknow, i don't see any community service or i don't know about i, i'm not a big gung ho, have to be religious person",0.13476147,0.9999859924901864,0.5,0.0,0.0590196140110492,0.020184226334095,0.022447058930993,True
+"i mean, i, i feel i'm a christian, but i'm not a church goer and i don't think you hafta go there to be a religious person yknow, but uh yknow, i think religion and community service and feeling like you have given something to the community and yknow, you're just not asking continuously for it, yknow, and and trying things and failing at them and going okay well, but i still like to play basketball",0.13655609,0.984696646512741,0.4765625,0.05,0.0042823948897421,0.0071969972923398,0.0047917934134602,False
+"i'm terrible, but i like to play and i can't make the team",0.16620636,0.999109330998351,1.0,0.111,0.0030678196344524,0.0199192501604557,0.0037991593126207,False
+so what do i do? i know i'll go to the y and play there,0.06612156,0.986652810159796,0.5,0.0,0.0050528710708022,0.0021202536299824,0.0005120435962453,False
+"yknow that that's what keeps kids out of trouble, and those that go to school and come home and either sit on the computer and yknow what do the chat room stuff or the e mail stuff, or sit on the playing with video games? i think those the ones that are the big problem children",0.12051678,0.0094581090517422,0.55,0.09,0.0275928676128387,0.0013566517736762,0.0058891251683235,False
+because they yknow mom and dad go,0.036851373,0.0029112969970581,0.5,0.0,0.095198206603527,0.0022456697188317,0.002927103312686,False
+"how can i get them to do something and stay out of my hair? oh, i know, i'll buy them a nintendo",0.15568043,0.967625038632414,0.5,0.0,0.0376022234559059,0.020185088738799,0.0174325425177812,False
+i'll buy them this sega,0.040284947,0.0002687057627193,0.5,0.0,0.0160837043076753,0.0010743911843746,0.001081247581169,False
+i'll buy this look,0.084745035,0.0002062382295938,0.5,0.0,0.0010920324129983,0.0004793568805325,0.0004761265299748,False
+"they're out of my way, yknow, because yknow, oh yeah, and and i, i'll probably step on your toes here, but i, i'm not a firm believer of mom and dad both working",0.20376207,0.1568221788353679,0.45,0.0,0.0115592340007424,0.0048048892058432,0.0049570281989872,False
+i,0.018187003,0.1366178956965055,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+my wife worked until we had children,0.028439116,0.0089308902249337,0.5,0.0,0.0019522634102031,0.0018584303325042,0.0006163729703985,False
+"then she stayed home, and once they got into school, she worked at a school, so when they were gone she was gone",0.027752401,0.0260502130482636,0.5,0.0,0.001469051814638,0.000628680048976,0.000523334252648,False
+"when they were home, she was home and yknow, my parents didn't do that and i hated it",0.2286382,0.9997323969561384,0.95,0.198,0.0241016279906034,0.0119955334812402,0.018077116459608,False
+i hated coming home from school by myself,0.24242763,0.9966772994593996,0.95,0.375,0.0480051860213279,0.035902976989746,0.0280579105019569,False
+every day,0.018187003,0.0030667207495627,0.5,0.0,0.0016193682095035,0.0004937553312629,0.0004705993633251,False
+there was nobody there to talk to yknow,0.07011723,0.9717630954570068,0.5,0.0,0.0025877084117382,0.001380271743983,0.0004925151006318,False
+and i did it for years,0.023117077,0.0067515601236594,0.5,0.0,0.000764254189562,0.0003446775081101,0.0003929931554012,False
+and and i just feel that yknow,0.021796638,0.0289944723982019,0.5,0.0,0.0010424023494124,0.0003695043560583,0.0004848872194997,False
+"i, i hope you don't have children yet",0.44750816,0.0062777486534163,0.5,0.0,0.2983352243900299,0.3675356209278106,0.0056517482735216,False
+"do you good? because to me, parents who put kids in daycare and uh yknow after school programs are like people who have cats and dogs",0.17449278,0.7944510889050688,0.15,0.0,0.0119167286902666,0.0069627002812922,0.0329676643013954,False
+i get up in the morning and i feed my pet my child,0.12824467,0.0010222501842583,0.5,0.0,0.0208925195038318,0.0098245665431022,0.0066825151443481,False
+"then i put him in the kennel, and i go to work and i go",0.112788886,0.007112268402962,0.5,0.0,0.0167859308421611,0.0050408178940415,0.0940016731619834,False
+"gee, i'd like to go for some drinks after work or go to a movie",0.04406188,0.9883606534413918,0.5,0.0,0.0100251864641904,0.0021394619252532,0.0011795705650001,False
+we'll just put her in another kennel after work and we take her from one kennel to the other kennel,0.20742953,0.847034446254824,0.5625,0.0,0.0083380015566945,0.0169781856238842,0.0165012944489717,False
+we go,0.026035614,0.0104888829547381,0.5,0.0,0.0012298234505578,0.000576933613047,0.0005211328389123,False
+"we'll be back a little bit, and then i go and i have all my fun and i go pick her up at the kennel, and i bring her home and i dust her off and feed her and i go",0.39230084,0.0003224111514083,0.48125,0.0,0.0545482374727726,0.135013923048973,0.0357923619449138,False
+don't bother me,0.10300289,0.9998018384409582,0.5,0.0,0.0534982718527317,0.0029183642473071,0.0263467077165842,False
+i've had a bad day and i'm tired,0.08501353,0.999967454892093,0.7749999999999999,0.516,0.0031615309417247,0.0009756250656209,0.0022460983600467,False
+you go watch t,0.040284947,0.2072546681516614,0.5,0.0,0.0611270517110824,0.0011109715560451,0.0005408476572483,False
+v,,0.2468957123012461,0.5,0.0,0.0012605079682543,0.0009020361467264,0.0007577532087452,False
+"and how are we raising children doing that yknow, yknow, and say people say, uh, you hafta have both those incomes because we hafta do this",0.060927194,0.8119455447624878,0.5,0.0,0.0282090697437524,0.0005758137558586,0.0004912964650429,False
+i go,0.024318827,0.0135217472550496,0.5,0.0,0.0017460836097598,0.0006575972656719,0.0005695033469237,False
+"well, why do you hafta have a house that's three hundred thousand dollars? why do you have have a brand new car? yknow isn't life sacrifices that aren't aren't you supposed to like do best for your children yknow, i mean i, my children don't have everything",0.06931809,0.9996476664233732,0.3626893939393939,0.0,0.0232491884380579,0.0046601900830864,0.0018478860147297,False
+they don't have a sega yknow,0.02517722,0.9998880889375542,0.5,0.0,0.0129717169329524,0.0008855302003212,0.0004581755492836,False
+my daughter has a car that goes to name and it's twelve years old,0.025005542,0.0013651361425642,0.45,0.0,0.0044707860797643,0.000844563532155,0.0006180191994644,False
+yknow and i made her buy it,0.12824467,0.0015160596100011,0.5,0.0,0.0010336569976061,0.0004916694015264,0.0005616735434159,False
+i told her i says i will not buy you a car,0.054534122,0.9995109888914486,0.5,0.0,0.0328945964574813,0.0285024642944335,0.0185653995722532,False
+"i said if you want a car, you hafta buy it, and i said, when it's time for maintenance, you have to pay for it because she has to be responsible for things, and she appreciates that yknow and yknow",0.019019997,0.0023978174511517,0.4,0.032,0.0028392111416906,0.0010381008032709,0.0005120892310515,False
+i admire her,0.02193547,0.0012056889563898,0.5,0.0,0.0006905930931679,0.0004532580787781,0.000431238731835,False
+"i mean, she's the person i never was that age yknow, but yknow and i'd i don't take full responsibility for that, but i'm very proud of the way her and her sister are, but i just think it's because mom was home and yknow there was somebody there to listen to them and it doesn't have to be mom",0.026207292,0.0046064441101848,0.3270833333333333,0.0,0.002497486770153,0.0014543439028784,0.0006609783158637,False
+"i mean, um, yknow, mom can go work and dad can stay home",0.05133759,0.9324325113706706,0.65625,0.0,0.0211833640933036,0.0022631795145571,0.0022651723120361,False
+"there's nothing wrong with that either, but i just think they need mom or dad there everyday when they come home, so they know when they come home and they've had a really bad day and something's really bothering them",0.09279997,0.1635825011034639,0.65,0.189,0.0025457576848566,0.0013040699996054,0.0011641146847978,False
+they can talk to it as opposed to sitting for two or three hours and letting it kind of fade away,0.06492286,0.0707847752077805,0.2,0.0,0.0006519767921417,0.0004887239774689,0.0007477086619473,False
+"and then when everybody comes home, it's like",0.022213135,0.8197941015270271,0.5,0.0,0.0013889868278056,0.0005648160004056,0.0010548693826422,False
+"well, how how's school? okay? yknow, anything bothering you? no yknow, so oh, there we go",0.10461388,0.9920327966470194,0.25,0.25,0.001564621925354,0.0013058852637186,0.002046232111752,False
+"okay, um-hum, yeah, well, you're very smart, yknow",0.14193995,0.011216409171879,0.3053571428571429,0.0,0.0032280858140438,0.0013060750206932,0.0074288649484515,False

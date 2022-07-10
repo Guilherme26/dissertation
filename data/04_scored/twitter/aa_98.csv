@@ -1,0 +1,2 @@
+text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
+these niggas talmbout money but . really ain't getting no money .. i be laughing at these niggas cause that shit funny @user,0.91406596,0.0,0.0,0.258,0.9931634664535522,0.9886118769645692,0.990759015083313,True
