@@ -49,7 +49,7 @@ def get_video_id(url):
     return captured_value
 
 def get_movies_dataset(csv_path='../data/download_descriptions.csv', path_00_raw='../data/00_raw/'):
-    subs_df = get_clean_subtitles_df()
+    subs_df = get_clean_subtitles_df(path_00_raw)
     df = pd.read_csv(csv_path)
 
     df['id'] = df.url.apply(get_video_id)
