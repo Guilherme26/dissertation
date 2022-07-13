@@ -2,7 +2,6 @@
 00_buckeye_data_description: "/home/guilherme/Desktop/dissertation/data/buckeye_data_description.csv"
 00_inputation_schema: "/home/guilherme/Desktop/dissertation/data/inputation_schema.csv"
 00_bad_words: "/home/guilherme/Desktop/dissertation/data/noswearing.csv"
-00_bad_words_scored: "/home/guilherme/Desktop/dissertation/data/noswearing_scored.csv"
 
 01_youtube_raw: "/home/guilherme/Desktop/dissertation/data/01_raw/youtube/"
 01_coraal_raw: "/home/guilherme/Desktop/dissertation/data/01_raw/coraal/"
@@ -25,5 +24,5 @@
 04_twitter_scored: "/home/guilherme/Desktop/dissertation/data/04_scored/twitter/"
 
 youtube_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/youtube"
-buckeye_vs_coraal_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/coraal"
+buckeye_vs_coraal_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/buckeye_vs_coraal"
 twitter_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/twitter"
