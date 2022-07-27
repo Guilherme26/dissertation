@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-i hate looking at that ..,0.25219622,0.0,0.0,0.425,0.0287627447396516,0.0846897810697555,0.0068400483578443,False
+i hate looking at that ..,0.25219622,0.9998371601104736,0.8,0.425,0.0287627447396516,0.0846897810697555,0.0068400483578443,False

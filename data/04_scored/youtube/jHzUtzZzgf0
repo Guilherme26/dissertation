@@ -1,68 +1,68 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hey, everybody, steph, cozier, and logan finally came out and oh my god, it was so much more amazing than i already thought it was going to be",0.053335425,0.0002854982109196,0.3166666666666666,0.0,False,0.0010387017391622066,0.09535493701696396,0.014001446776092052
-i am in love with this movie,0.036508016,0.0001094424710822,0.25,0.0,False,0.0011472688056528568,0.0005811542505398393,0.0006966182263568044
-i love this movie so much,0.05133759,0.0022183857748154,0.325,0.0,False,0.0009661953081376851,0.0004305375914555043,0.00030697855981998146
-i want to watch it again,0.06412373,0.0005439934592029,0.5,0.0,False,0.0011854905169457197,0.0007129934383556247,0.00044207010068930686
-"it was so so beautiful, so in the near future, logan is pretty much just worn out",0.14508054,0.006731695523177,0.36,0.089,False,0.007129440549761057,0.00102694658562541,0.013937696814537048
-he's sick of doing the wolverine thing,0.27856,0.9157689373773876,0.8571428571428572,0.355,False,0.0719665139913559,0.008217916823923588,0.08247632533311844
-"he's just driving limos and taking care of charles xavier, who at this point is pretty much his only friend left and the only thing left that's really holding him together",0.08050597,0.9633864862511108,0.4535714285714285,0.0,False,0.0011780406348407269,0.0028190852608531713,0.00123962655197829
-he feels pretty meaningless,0.23628397,0.9999923104146136,0.5625,0.358,False,0.0013719210401177406,0.0012562889605760574,0.031967028975486755
-he kind of just wants to kill himself,0.7138269,0.9996555781057118,0.3,0.402,False,0.8473230004310608,0.9042553901672363,0.9476605653762817
-he's very depressed,0.12888865,0.99997758694492,0.4,0.642,False,0.19768863916397095,0.04735269397497177,0.06186914071440697
-everything is just shitty for logan and charles xavier is also not doing so great,0.6955873,0.9872666426918508,0.0999999999999999,0.165,True,0.8833617568016052,0.910730242729187,0.871669590473175
-she's she's just old and weary and his brain isn't really all there and there's some like seizure things happening to him,0.42631236,0.9999853957486846,0.425,0.085,False,0.10188306123018265,0.17831172049045563,0.6596673130989075
-his powers are going all wonky and causing all sorts of problems,0.2712817,0.9993638805391316,0.65,0.197,False,0.024238407611846924,0.03290309011936188,0.10756752640008926
-"as much as logan appreciates him being around, he's also kind of a nuisance and making his life even harder, so basically everything is shitty for logan",0.57816684,0.9972953522655694,0.3833333333333333,0.113,True,0.6304374933242798,0.8442919850349426,0.815461277961731
-"then he meets laura, aka x-23 a k, his like daughter slash clone own daughter",0.19789414,0.9060471257134548,0.2,0.119,False,0.02181342802941799,0.0017171148210763931,0.09459560364484787
-"her name's laura, and suddenly he has some kind of purpose in the world, or at least he's supposed to",0.051737156,0.0002395395261677,0.45,0.0,False,0.0012309273006394506,0.0017323499778285623,0.001221262849867344
-"it takes him a while to get there, but regardless, she shows up in his life and he has to protect her and he asked to take her to freakin north dakota",0.26132804,0.0020394091847149,0.5,0.0,False,0.010924527421593666,0.4739866554737091,0.45262452960014343
-even though he really really doesn't want to,0.024662184,0.9992736918361104,0.4,0.201,False,0.0014347858959808946,0.0016297238180413842,0.0006491881795227528
-that's pretty much where the story takes off,0.029984225,0.0647767394453138,0.3875,0.0,False,0.0006570058758370578,0.00042635499266907573,0.0006104087806306779
-"he meets his daughter clones, trying to take care of her, trying to save her while also trying to take care of charles xavier, while also going on this crazy adventure while also trying to battle himself, because not only is he sick and getting old, he also just has a lot of guilt and a lot of that happened in his life that he feels bad about, but without giving away any spoilers, this is a beautiful beautiful story about a very old logan nearing his end, realizing what he has in his life and how grateful he is for it, and also realizing that maybe there isn't so much bad inside of him if he could create something like x-23 while she might have been trained to be a psycho killing machine, he's also his daughter and he cares about her a lot and it's so beautiful",0.029469188,0.0,0.4967142857142857,0.096,False,0.015549135394394398,0.029995912685990334,0.03890204429626465
-"he used to say, i cried a lot of tituba tears watching this movie and everything about it was beautiful",0.060527626,0.0025152395362476,0.075,0.177,False,0.0016896589659154415,0.004132374655455351,0.0030407377053052187
-"hugh jackman's acting was obviously amazing, but this is probably the best he's ever been",0.03770977,0.0004082633357528,0.2333333333333333,0.0,False,0.0007618335075676441,0.0018623449141159654,0.002076419536024332
-clang wolverine,0.040971663,0.8999985514967063,0.5,0.0,False,0.0037565415259450674,0.007073839195072651,0.020625928416848183
-he was just and and just the best he's been at being anybody,0.032387726,0.0036203044873141,0.0,0.0,False,0.0008493172354064882,0.0005156095721758902,0.006742204539477825
-you had so much sympathy for him and he just had so much character and just all over his face and is so good,0.089577995,0.9883889346985508,0.3166666666666666,0.0,False,0.0007584109553135931,0.0020500088576227427,0.0033760908991098404
-"and of course, patrick stewart, as charles xavier, just steals my heart",0.23540631,0.0004803010407108,0.5,0.189,False,0.0008417684002779424,0.02096998132765293,0.02122689224779606
-i just want to hug him and daphne can do plays,0.06652113,0.0050131327984839,0.5,0.0,False,0.003703000023961067,0.012570423074066639,0.061642128974199295
-laura did a fabulous fabulous job,0.026035614,0.0041765774394598,0.3,0.0,False,0.0018503343453630805,0.0004922965890727937,0.0006899974541738629
-i'm always impressed when child actors just like kill it,0.36944604,0.0001413631918145,0.0,0.272,False,0.05275028571486473,0.8278522491455078,0.7744304537773132
-she was so good at being fierce and relentlessly murdering people,0.5535644,0.0110185499623657,0.15,0.252,False,0.6747274398803711,0.6715915203094482,0.593224823474884
-"and speaking of relentlessly murdering people, the action in this movie is freakin crazy",0.5958905,0.1340908707513625,0.625,0.358,False,0.5170411467552185,0.5016500949859619,0.6161951422691345
-i am so happy,0.045778666,0.0037856901823129,0.0999999999999999,0.0,False,0.0007562367827631533,0.0003820050333160907,0.0004528810386545956
-this has an r rating,0.036336336,0.2301207676209084,0.5,0.0,False,0.0010605377610772848,0.0013888704124838114,0.0005765521200373769
-"because the gore and just the violence in this movie is so awesome and so entertaining and so brutal, also just shot beautifully like the action scenes are really well choreographed and really well shot",0.15743166,0.0003792932698781,0.3589285714285714,0.155,False,0.0010446148226037621,0.0011399606009945273,0.004102948121726513
-"and then the overall movie is just very gritty, very kind of post-apocalyptic the way that old man logan is supposed to be, and very like sepia",0.23014031,0.7695102813035123,0.392,0.0,False,0.0053213415667414665,0.001513877883553505,0.08361887186765671
-it's just very gritty and very good very often,0.14956708,0.0022701265509044,0.315,0.0,False,0.0006083715707063675,0.00030171548132784665,0.001730352989397943
-and i love it now,0.027409043,0.005373440541652,0.25,0.0,False,0.0007627414888702333,0.0005215388373471797,0.0006096299621276557
-i don't want to compare this to the comic because you know it is its own movie,0.056931525,0.002332477762643,0.2875,0.071,False,0.0010286811739206314,0.0010154630290344357,0.0007111121085472405
-while it is based on the comic,0.027065687,0.9364437288957392,0.375,0.0,False,0.0007739600259810686,0.0005664816708303988,0.0007761960732750595
-i don't want to be one of those people who's like a static,0.15684792,0.996160840375116,0.25,0.083,False,0.002440866082906723,0.011332608759403229,0.042959317564964294
-"the comics, but like there are certain things that they change, but i feel like didn't really benefit the story",0.035649624,0.9997161112371844,0.3964285714285714,0.124,False,0.0006139518227428198,0.00040376398828811944,0.0003395381791051477
-"like logan, in this movie obviously has a lot of guilt for a lot of things that he did",0.123736724,0.0790903363549827,0.5,0.097,False,0.0033878860995173454,0.0012439762940630317,0.0016624737763777375
-"it's not even really specified exactly what happened and i don't really want to give away any spoilers, so i'm not going to go into any more detail than that, but in the comic, he's supposed to have pretty much killed all the x-men just everybody",0.2712817,0.9999616712914456,0.3964285714285714,0.136,False,0.009381327778100967,0.047119949012994766,0.20299257338047028
-"he kills everybody, and then he just feel so guilty about it and that's why he was just like torturing himself and wanting to die the entire time during old man logan, and in this movie he feels all of those things, but there's not really any real justification for why he feels those things, but it's just like i don't know",0.39157572,0.999916070261828,0.53,0.135,False,0.46677812933921814,0.14920584857463837,0.2466384917497635
-"it makes it so much less dark and i feel like it's already a pretty dark movie, but it could have been even darker",0.09816993,0.9760896515050098,0.5270833333333333,0.0,False,0.0007794949342496693,0.001793032162822783,0.0009020250290632248
-it would have been so awesome,0.039598234,0.963292393146207,0.0,0.0,False,0.0009154279832728207,0.0003357018285896629,0.0008426861022599041
-we would have actually understood all of his guilt,0.15159425,0.9989186595061724,0.5,0.208,False,0.0057396539486944675,0.0007111754384823143,0.0008997670374810696
-i guess that's just a nitpicky thing and i'll let it slide because it was so good,0.16551583,0.9425116462943322,0.15,0.0,False,0.000584032793994993,0.023364830762147903,0.24945925176143646
-seriously,0.020408317,0.076291863756999,0.6666666666666666,1.0,False,0.0036900751292705536,0.0004640533297788352,0.0024727326817810535
-i really really really loved logan,0.03461955,0.000856166782219,0.15,0.0,False,0.0007437432068400085,0.0014113091165199876,0.0006794827058911324
-it was a beautiful film,0.031701013,0.0017908090618127,0.075,0.0,False,0.0008679660386405885,0.00038131175097078085,0.0004812382976524532
-even if you take it out of this marvel x-men universe and just put it over here as its own separate film,0.11472086,0.818811372503366,0.2,0.0,False,0.0008238357841037214,0.0009707022691145539,0.0015445571625605226
-"it's amazing just by itself, standalone beautiful films, but also an amazing way to, and logan's saga honestly couldn't of wish for anything better",0.06412373,0.0011005346526992,0.1849999999999999,0.074,False,0.0005773035227321088,0.00037867328501306474,0.00039510539500042796
-it was so good and the soundtrack,0.039598234,0.0044242834245264,0.15,0.0,False,0.0006043000030331314,0.00037172582233324647,0.00037651960155926645
-everything,0.020824814,0.00123310548913,0.5,0.0,False,0.00197399128228426,0.0005888657760806382,0.0004977803910151124
-"oh, it just gets me",0.04406188,0.0025252240754123,0.5,0.0,False,0.004634911194443703,0.0006077390280552208,0.0021590269170701504
-logan was awesome,0.02792408,0.0012779912084791,0.0,0.0,False,0.0034442900214344263,0.002507975324988365,0.0013408355880528688
-everything about it was awesome,0.040628307,0.0051138723279659,0.0,0.0,False,0.0009559901664033532,0.00038460580981336534,0.000861752952914685
-it was so awesome,0.04268845,0.00766606956142,0.0,0.0,False,0.0016716110985726118,0.00033197193988598883,0.0007195582729764283
-"if you thought it was awesome, let me know in the comments below",0.034962907,0.245874641756225,0.0,0.0,False,0.0005671086255460978,0.0004358278529252857,0.0005060473922640085
-"if you didn't think i was awesome, let me know why and what the is wrong with you? so it's okay",0.16151784,0.9839005713958034,0.3333333333333333,0.113,False,0.005036710761487484,0.006831268314272165,0.00468038534745574
-you're allowed to have an opinion,0.031701013,0.0025581879569528,0.5,0.0,False,0.0008211479289457202,0.0015943016624078155,0.0004340314189903438
-just know that your opinion is wrong,0.1423886,0.9505191572905884,0.75,0.341,False,0.0010237034875899553,0.0017983742291107774,0.0007366994395852089
-thanks for watching my video,0.019019997,0.1444434668537441,0.4,0.0,False,0.0008402081439271569,0.00039536182885058224,0.00046396732795983553
-"be sure to like comment, and subscribe to agressive comics",0.19862764,0.9990675334558063,0.25,0.0,False,0.0018011453794315457,0.0007718030828982592,0.012870367616415024
-and until next time i'm steph koza and this is raisin,0.05653196,0.0002234152405317,0.5,0.0,False,0.0019121653167530894,0.013510555028915405,0.00317947193980217
-bye you,0.21539254,0.030180251630654,0.5,0.0,False,0.02488095685839653,0.0047819120809435844,0.040888089686632156
+"hey, everybody, steph, cozier, and logan finally came out and oh my god, it was so much more amazing than i already thought it was going to be",0.053335425,0.0,0.0,0.0,False,0.0010387017391622,0.0953549370169639,0.014001446776092
+i am in love with this movie,0.036508016,0.0,0.0,0.0,False,0.0011472688056528,0.0005811542505398,0.0006966182263568
+i love this movie so much,0.05133759,0.0,0.0,0.0,False,0.0009661953081376,0.0004305375914555,0.0003069785598199
+i want to watch it again,0.06412373,0.0,0.0,0.0,False,0.0011854905169457,0.0007129934383556,0.0004420701006893
+"it was so so beautiful, so in the near future, logan is pretty much just worn out",0.14508054,0.0,0.0,0.089,False,0.007129440549761,0.0010269465856254,0.013937696814537
+he's sick of doing the wolverine thing,0.27856,0.8315507173538208,0.7142857142857143,0.355,False,0.0719665139913559,0.0082179168239235,0.0824763253331184
+"he's just driving limos and taking care of charles xavier, who at this point is pretty much his only friend left and the only thing left that's really holding him together",0.08050597,0.9267785549163818,0.0,0.0,False,0.0011780406348407,0.0028190852608531,0.0012396265519782
+he feels pretty meaningless,0.23628397,0.999984622001648,0.125,0.358,False,0.0013719210401177,0.001256288960576,0.0319670289754867
+he kind of just wants to kill himself,0.7138269,0.9993112087249756,0.0,0.402,False,0.8473230004310608,0.9042553901672364,0.9476605653762816
+he's very depressed,0.12888865,0.9999551773071289,0.0,0.642,False,0.1976886391639709,0.0473526939749717,0.0618691407144069
+everything is just shitty for logan and charles xavier is also not doing so great,0.6955873,0.9745352268218994,0.0,0.165,True,0.8833617568016052,0.910730242729187,0.871669590473175
+she's she's just old and weary and his brain isn't really all there and there's some like seizure things happening to him,0.42631236,0.9999707937240601,0.0,0.085,False,0.1018830612301826,0.1783117204904556,0.6596673130989075
+his powers are going all wonky and causing all sorts of problems,0.2712817,0.9987278580665588,0.3,0.197,False,0.0242384076118469,0.0329030901193618,0.1075675264000892
+"as much as logan appreciates him being around, he's also kind of a nuisance and making his life even harder, so basically everything is shitty for logan",0.57816684,0.9945911169052124,0.0,0.113,True,0.6304374933242798,0.8442919850349426,0.815461277961731
+"then he meets laura, aka x-23 a k, his like daughter slash clone own daughter",0.19789414,0.81210857629776,0.0,0.119,False,0.0218134280294179,0.0017171148210763,0.0945956036448478
+"her name's laura, and suddenly he has some kind of purpose in the world, or at least he's supposed to",0.051737156,0.0,0.0,0.0,False,0.0012309273006394,0.0017323499778285,0.0012212628498673
+"it takes him a while to get there, but regardless, she shows up in his life and he has to protect her and he asked to take her to freakin north dakota",0.26132804,0.0,0.0,0.0,False,0.0109245274215936,0.4739866554737091,0.4526245296001434
+even though he really really doesn't want to,0.024662184,0.9985474944114685,0.0,0.201,False,0.0014347858959808,0.0016297238180413,0.0006491881795227
+that's pretty much where the story takes off,0.029984225,0.0,0.0,0.0,False,0.000657005875837,0.000426354992669,0.0006104087806306
+"he meets his daughter clones, trying to take care of her, trying to save her while also trying to take care of charles xavier, while also going on this crazy adventure while also trying to battle himself, because not only is he sick and getting old, he also just has a lot of guilt and a lot of that happened in his life that he feels bad about, but without giving away any spoilers, this is a beautiful beautiful story about a very old logan nearing his end, realizing what he has in his life and how grateful he is for it, and also realizing that maybe there isn't so much bad inside of him if he could create something like x-23 while she might have been trained to be a psycho killing machine, he's also his daughter and he cares about her a lot and it's so beautiful",0.029469188,0.0,0.0,0.096,False,0.0155491353943943,0.0299959126859903,0.0389020442962646
+"he used to say, i cried a lot of tituba tears watching this movie and everything about it was beautiful",0.060527626,0.0,0.0,0.177,False,0.0016896589659154,0.0041323746554553,0.0030407377053052
+"hugh jackman's acting was obviously amazing, but this is probably the best he's ever been",0.03770977,0.0,0.0,0.0,False,0.0007618335075676,0.0018623449141159,0.0020764195360243
+clang wolverine,0.040971663,0.8000123500823975,0.0,0.0,False,0.003756541525945,0.0070738391950726,0.0206259284168481
+he was just and and just the best he's been at being anybody,0.032387726,0.0,0.0,0.0,False,0.0008493172354064,0.0005156095721758,0.0067422045394778
+you had so much sympathy for him and he just had so much character and just all over his face and is so good,0.089577995,0.9767796397209167,0.0,0.0,False,0.0007584109553135,0.0020500088576227,0.0033760908991098
+"and of course, patrick stewart, as charles xavier, just steals my heart",0.23540631,0.0,0.0,0.189,False,0.0008417684002779,0.0209699813276529,0.021226892247796
+i just want to hug him and daphne can do plays,0.06652113,0.0,0.0,0.0,False,0.003703000023961,0.0125704230740666,0.0616421289741992
+laura did a fabulous fabulous job,0.026035614,0.0,0.0,0.0,False,0.001850334345363,0.0004922965890727,0.0006899974541738
+i'm always impressed when child actors just like kill it,0.36944604,0.0,0.0,0.272,False,0.0527502857148647,0.8278522491455078,0.7744304537773132
+she was so good at being fierce and relentlessly murdering people,0.5535644,0.0,0.0,0.252,False,0.6747274398803711,0.6715915203094482,0.593224823474884
+"and speaking of relentlessly murdering people, the action in this movie is freakin crazy",0.5958905,0.0,0.25,0.358,False,0.5170411467552185,0.5016500949859619,0.6161951422691345
+i am so happy,0.045778666,0.0,0.0,0.0,False,0.0007562367827631,0.000382005033316,0.0004528810386545
+this has an r rating,0.036336336,0.0,0.0,0.0,False,0.0010605377610772,0.0013888704124838,0.0005765521200373
+"because the gore and just the violence in this movie is so awesome and so entertaining and so brutal, also just shot beautifully like the action scenes are really well choreographed and really well shot",0.15743166,0.0,0.0,0.155,False,0.0010446148226037,0.0011399606009945,0.0041029481217265
+"and then the overall movie is just very gritty, very kind of post-apocalyptic the way that old man logan is supposed to be, and very like sepia",0.23014031,0.5390557050704956,0.0,0.0,False,0.0053213415667414,0.0015138778835535,0.0836188718676567
+it's just very gritty and very good very often,0.14956708,0.0,0.0,0.0,False,0.0006083715707063,0.0003017154813278,0.0017303529893979
+and i love it now,0.027409043,0.0,0.0,0.0,False,0.0007627414888702,0.0005215388373471,0.0006096299621276
+i don't want to compare this to the comic because you know it is its own movie,0.056931525,0.0,0.0,0.071,False,0.0010286811739206,0.0010154630290344,0.0007111121085472
+while it is based on the comic,0.027065687,0.8728971481323242,0.0,0.0,False,0.000773960025981,0.0005664816708303,0.000776196073275
+i don't want to be one of those people who's like a static,0.15684792,0.9923222661018372,0.0,0.083,False,0.0024408660829067,0.0113326087594032,0.0429593175649642
+"the comics, but like there are certain things that they change, but i feel like didn't really benefit the story",0.035649624,0.9994322657585144,0.0,0.124,False,0.0006139518227428,0.0004037639882881,0.0003395381791051
+"like logan, in this movie obviously has a lot of guilt for a lot of things that he did",0.123736724,0.0,0.0,0.097,False,0.0033878860995173,0.001243976294063,0.0016624737763777
+"it's not even really specified exactly what happened and i don't really want to give away any spoilers, so i'm not going to go into any more detail than that, but in the comic, he's supposed to have pretty much killed all the x-men just everybody",0.2712817,0.9999233484268188,0.0,0.136,False,0.0093813277781009,0.0471199490129947,0.2029925733804702
+"he kills everybody, and then he just feel so guilty about it and that's why he was just like torturing himself and wanting to die the entire time during old man logan, and in this movie he feels all of those things, but there's not really any real justification for why he feels those things, but it's just like i don't know",0.39157572,0.9998321533203125,0.06,0.135,False,0.4667781293392181,0.1492058485746383,0.2466384917497635
+"it makes it so much less dark and i feel like it's already a pretty dark movie, but it could have been even darker",0.09816993,0.952182948589325,0.0541666666666666,0.0,False,0.0007794949342496,0.0017930321628227,0.0009020250290632
+it would have been so awesome,0.039598234,0.9265903830528259,0.0,0.0,False,0.0009154279832728,0.0003357018285896,0.0008426861022599
+we would have actually understood all of his guilt,0.15159425,0.997837483882904,0.0,0.208,False,0.0057396539486944,0.0007111754384823,0.000899767037481
+i guess that's just a nitpicky thing and i'll let it slide because it was so good,0.16551583,0.885032057762146,0.0,0.0,False,0.0005840327939949,0.0233648307621479,0.2494592517614364
+seriously,0.020408317,0.0,0.3333333333333333,1.0,False,0.0036900751292705,0.0004640533297788,0.002472732681781
+i really really really loved logan,0.03461955,0.0,0.0,0.0,False,0.00074374320684,0.0014113091165199,0.0006794827058911
+it was a beautiful film,0.031701013,0.0,0.0,0.0,False,0.0008679660386405,0.0003813117509707,0.0004812382976524
+even if you take it out of this marvel x-men universe and just put it over here as its own separate film,0.11472086,0.6376503705978394,0.0,0.0,False,0.0008238357841037,0.0009707022691145,0.0015445571625605
+"it's amazing just by itself, standalone beautiful films, but also an amazing way to, and logan's saga honestly couldn't of wish for anything better",0.06412373,0.0,0.0,0.074,False,0.0005773035227321,0.000378673285013,0.0003951053950004
+it was so good and the soundtrack,0.039598234,0.0,0.0,0.0,False,0.0006043000030331,0.0003717258223332,0.0003765196015592
+everything,0.020824814,0.0,0.0,0.0,False,0.0019739912822842,0.0005888657760806,0.0004977803910151
+"oh, it just gets me",0.04406188,0.0,0.0,0.0,False,0.0046349111944437,0.0006077390280552,0.0021590269170701
+logan was awesome,0.02792408,0.0,0.0,0.0,False,0.0034442900214344,0.0025079753249883,0.0013408355880528
+everything about it was awesome,0.040628307,0.0,0.0,0.0,False,0.0009559901664033,0.0003846058098133,0.0008617529529146
+it was so awesome,0.04268845,0.0,0.0,0.0,False,0.0016716110985726,0.0003319719398859,0.0007195582729764
+"if you thought it was awesome, let me know in the comments below",0.034962907,0.0,0.0,0.0,False,0.000567108625546,0.0004358278529252,0.000506047392264
+"if you didn't think i was awesome, let me know why and what the is wrong with you? so it's okay",0.16151784,0.9678035974502563,0.0,0.113,False,0.0050367107614874,0.0068312683142721,0.0046803853474557
+you're allowed to have an opinion,0.031701013,0.0,0.0,0.0,False,0.0008211479289457,0.0015943016624078,0.0004340314189903
+just know that your opinion is wrong,0.1423886,0.9010458588600159,0.5,0.341,False,0.0010237034875899,0.0017983742291107,0.0007366994395852
+thanks for watching my video,0.019019997,0.0,0.0,0.0,False,0.0008402081439271,0.0003953618288505,0.0004639673279598
+"be sure to like comment, and subscribe to agressive comics",0.19862764,0.9981352090835571,0.0,0.0,False,0.0018011453794315,0.0007718030828982,0.012870367616415
+and until next time i'm steph koza and this is raisin,0.05653196,0.0,0.0,0.0,False,0.001912165316753,0.0135105550289154,0.0031794719398021
+bye you,0.21539254,0.0,0.0,0.0,False,0.0248809568583965,0.0047819120809435,0.0408880896866321

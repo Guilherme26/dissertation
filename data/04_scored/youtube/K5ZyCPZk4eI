@@ -1,135 +1,135 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"yeah, sorry man, get out",0.21715863,0.9953177081098094,0.75,0.2,False,0.19409090280532837,0.023491811007261276,0.00799644086509943
-yo,,0.13271941714471,0.5,0.0,False,0.14953866600990295,0.001203927444294095,0.0008704312494955957
-i really do not want to spoil this movie,0.17518331,0.0005012600794434,0.55,0.157,False,0.0020140919368714094,0.0017070408212020993,0.0008598512504249811
-i'ma try my best to not give away too much,0.09709594,0.8667102091469608,0.2,0.0,False,0.001854541595093906,0.0015334062045440078,0.0009893459500744939
-but y'all know i had to do a review on this movie,0.03358948,0.0710835610298079,0.5,0.0,False,0.0007836795412003994,0.0005918840761296451,0.000400686141801998
-"i went and saw get out, which is a movie written and directed by jordan peele, and if you guys are familiar with who he is, he's an actor and comedian",0.06492286,0.0364851711180731,0.3125,0.0,False,0.001157173770479858,0.0010146473068743944,0.0005773764569312334
-"he's most known for his show key and peele, which is like funny is",0.09387396,8.872413678001421e-05,0.375,0.0,False,0.0027922061271965504,0.002173323417082429,0.019064439460635185
-"oh, now, after seeing this movie twice, i saw once with a group of people and i went to see it again by myself",0.056931525,0.0078041476522228,0.5,0.0,False,0.0005966235767118633,0.0006719524972140789,0.0003503928310237825
-i just knew that i was gonna have to come on here and talk to you guys about this movie,0.057331093,0.0109736289334267,0.5,0.0,False,0.0006005939212627709,0.0018372769700363278,0.0016661467961966991
-"when i first saw the preview of this movie, i was super skeptical one, because i mean it was a black guy he loved",0.37221906,0.9934711314249746,0.4746527777777778,0.074,False,0.001969188218936324,0.09453240036964417,0.04592349752783775
-black people are in scary movies and definitely not the lead,0.43622825,0.999149207950064,0.6111111111111112,0.215,False,0.16570714116096497,0.7064992189407349,0.6384316682815552
-"and when they are, you know, they in like two seconds, and i was also skeptical because it said from the mind of jordan peele, who's known for you know, for comedy, i saw that cat movie and if i mean, it was funny, but it was just like pure ridiculousness, so i was really curious about how he was gonna jump from comedy into into like suspense thriller horror, and for anyone who knows me like i love scary movies, like horror thriller, suspense is my favorite genre of movies, so i didn't really",0.21980777,0.9999930856567912,0.4860119047619047,0.14,False,0.0007927827537059784,0.10211165249347687,0.032274410128593445
-"i didn't really see the connection between him and this genre movies, but i went to go and see it anyways",0.035134587,0.9863961489492584,0.4,0.0,False,0.000553046353161335,0.00041273003444075584,0.00035527211730368435
-i'm gonna start by saying that this movie was both hilarious and terrifying and it was a hilarious,0.23101798,0.0001073809421627,0.5,0.154,False,0.0011803405359387398,0.0013861998450011015,0.00156146299559623
-in the sense that i felt like i was watching a comedy,0.027065687,0.9800406754121188,0.5,0.0,False,0.0009457010310143232,0.00048228184459730983,0.0007181474356912076
-there was just a bit more comic relief than your average horror flick and it wasn't terrifying in that it was scary,0.25676212,0.9413395765083996,0.59,0.221,False,0.0014831467997282743,0.0007933136075735092,0.0028201190289109945
-"it was just there were parts that make you jump, and this movie just made you feel so uneasy, like i was in that theater, stressed out like i was on the edge of my seat the whole time",0.23014031,0.9999668588377228,0.4,0.125,False,0.001167911570519209,0.000647285021841526,0.0015647879336029291
-this,0.028439116,0.0229102887811205,0.5,0.0,False,0.002236543921753764,0.00047119639930315316,0.0005406324053183198
-just the emotions this movie brought out of me was just befuddling,0.18746567,0.98672157012813,0.5,0.0,False,0.009521649219095707,0.025941386818885803,0.08045260608196259
-"is funneling a word, but fettle funnily",0.2885035,0.003640103667463,0.375,0.106,False,0.0020553860813379288,0.022358600050210953,0.0060850330628454685
-"whatever, but it is very clear that this movie is meant to be a thriller and not a comedy",0.08796701,0.9993720465025344,0.435,0.111,False,0.0006749590975232422,0.0005554023664444685,0.0006540557951666415
-and honestly how this movie got made and passed through hollywood,0.046122026,0.0107840507560476,0.2,0.0,False,0.0007715604733675718,0.0003678365028463304,0.00046251603635028005
-"i have no idea, but i'm gonna break it down for you guys and tell you what i liked about it and what i didn't like",0.17242117,0.020113734985146,0.3888888888888889,0.138,False,0.0007075556786730886,0.018571848049759865,0.0021496345289051533
-now,0.018742332,0.0840974576675297,0.5,0.0,False,0.0014697305159643292,0.0004906950052827597,0.0007275509997271001
-"the first thing that i liked about the movie is that it opened up playing redbone by childish gambino, like i love that song",0.084745035,0.8733505417030266,0.35625,0.068,False,0.0006709615117870271,0.002053433796390891,0.04436224326491356
-"but the reason why i feel like this is important isn't just because like, oh, much movie with song at? like no, there's a lot of movies with music",0.035649624,0.9348963325369918,0.35,0.073,False,0.0006265714764595032,0.000535570434294641,0.0007132720784284174
-"i like this song and this album in particular, like it really gives you the feel of blackness",0.29855597,0.0004377792560166,0.4083333333333333,0.0,False,0.0005610315129160881,0.03341240808367729,0.04861583188176155
-"that sounds probably really weird for me to say, it sets the tone and it sets the vibe",0.076110736,0.0001587914681773,0.75,0.105,False,0.0007295425748452544,0.0004009069816675037,0.000596061407122761
-the only reason i'm saying this is important is because the way he interacted with the other black pete,0.34388447,0.0092715679822992,0.4864583333333333,0.0,False,0.05396869406104088,0.2772524654865265,0.1380690336227417
-i'm try not to give away too much,0.05852979,0.0015993889151157,0.4,0.0,False,0.002190546365454793,0.0006409477209672332,0.0009467283962294459
-"but the way he interacted with the other black people in the movie like it just gives you a certain feeling, and when you watch this movie you'll know what i mean",0.30053464,0.0023240836110991,0.5487351190476191,0.0,False,0.010792536661028862,0.26466482877731323,0.066715307533741
-i also liked the imagery,0.04818217,0.0009360888183149,0.2,0.0,False,0.000648802553769201,0.00035372478305362165,0.0002387476124567911
-the cinematography,0.011870144,0.0,0.5,0.0,False,0.0012484934413805604,0.0004234428924974054,0.0006201982614584267
-it was very well shot,0.2299237,0.0014655427282567,0.4,0.0,False,0.0012895254185423255,0.03920730948448181,0.3050273060798645
-"the shot angles, the color palettes was really really good",0.08420804,0.0029263169439556,0.15,0.0,False,0.0005962634459137917,0.0008253039559349418,0.0013462071074172854
-"um, the way it was filmed it was",0.03461955,0.963323313496321,0.5,0.0,False,0.0006481350283138454,0.000528092379681766,0.004683676175773144
-"there was a lot of like symbolic shots within the movie, a lot of nods to like older horror flicks which i thought was really really cool",0.09494796,0.9937011525494852,0.3708333333333333,0.107,False,0.000639268197119236,0.0004751408996526152,0.00044628852629102767
-the performances were really really good,0.05653196,0.0035677712926006,0.15,0.0,False,0.0005541687132790685,0.0003147939860355109,0.000527636322658509
-"especially chris, the main character and his real name is daniel",0.033074442,0.0001783125664611,0.4388888888888889,0.0,False,0.0007533564348705113,0.0005307469982653856,0.001076271990314126
-a poop,0.38965073,0.8676546130590485,0.5,0.0,False,0.5069506168365479,0.399065226316452,0.8638407588005066
-i don't know,0.017770508,0.9871422125421416,0.5,0.0,False,0.001086112461052835,0.002273131860420108,0.00042783142998814583
-i'm sorry,0.023117077,0.9999284723116318,0.75,0.565,False,0.0010547674028202891,0.0010944564128294587,0.0005002485704608262
-sorry,0.023803791,0.9990517216714592,0.75,1.0,False,0.0011068538296967745,0.0004733956593554467,0.00045304838567972183
-"his performance was really really good like he really captured the feeling that i feel like most people, especially the black audiences",0.29070088,0.0006630616711729,0.3766666666666667,0.0,False,0.0006704211118631065,0.07252194732427597,0.06857206672430038
-i have to keep going back to black people,0.50743616,0.9951784675431192,0.5416666666666666,0.0,False,0.544878363609314,0.8868175745010376,0.8689979314804077
-"but me with this move, you kind of have to, but he really captured the same feeling that we were feeling",0.030327583,0.0008526100453485,0.3666666666666667,0.0,False,0.0006101583712734282,0.0003594759036786854,0.001000029849819839
-there were times in the movie where i was like this is crazy,0.20302857,0.9899579894043652,0.8,0.151,False,0.0017712014960125089,0.036603398621082306,0.14095903933048248
-i think he would literally be like this is crazy,0.23716165,0.2467453411632309,0.8,0.186,False,0.05187390372157097,0.1848752349615097,0.4624596834182739
-you feel me? so he really captured the feel of how i feel like most people would react if they were in that situation,0.032902762,9.504241591920232e-05,0.325,0.0,False,0.0008965808665379882,0.0003852158260997385,0.0006845496245659888
-the best thing about this movie is the plot,0.037194733,0.9998928574834652,0.0,0.0,False,0.0005999711574986577,0.0006627340335398912,0.00030056104878894985
-"it is the writing like jordan peele, nailed the out of this movie like he did such a good job",0.10699297,0.0005788676213228,0.325,0.0,False,0.0011520989937707782,0.0009581412305124104,0.00179874908644706
-the way he wrote this,0.02637897,0.0028136608347758,0.5,0.0,False,0.0006923400796949863,0.0004167999140918255,0.0004621277912519872
-in the way he went about,0.039254878,0.2493569660815701,0.5,0.0,False,0.000774528831243515,0.0006348371971398592,0.0018362138653174043
-"it was very, very special",0.043031808,0.0032942672942029,0.2678571428571428,0.0,False,0.0007437358144670725,0.0003215986944269389,0.0008900346583686769
-like i'm gonna go,0.03358948,0.0011578246522562,0.5,0.0,False,0.0054565053433179855,0.004970539826899767,0.0003419322310946882
-"i'm gonna go into that a little bit later, but the reason why i'm putting emphases on the writing when you watch scary movies",0.05253629,0.0734407858031844,0.6145833333333334,0.158,False,0.0006937012658454478,0.0016853733686730266,0.0031448937952518463
-"if you're someone who genuinely loves scary movies, you know that scary movies for the past like decade have been asked for the most part",0.05413456,0.0005679298456432,0.535,0.19,False,0.0006490792729891837,0.000574092788156122,0.0017567453905940056
-that's partially because the writing is so trash,0.650189,0.9999421221788288,0.55,0.0,False,0.7283409237861633,0.9428232908248901,0.9113441705703735
-"they think if a nut stuff pops out at you and there's enough creepy sounds and the actors can look scared enough that it's a scary movie and a lot of people buy into that that, like paranormal activity, cameras moving doors shut",0.1731117,0.9193849572502848,0.625,0.126,False,0.005405717995017767,0.008463786914944649,0.04120376706123352
-"that is, it's not scary",0.05413456,0.9991720670071385,0.375,0.0,False,0.0012487099738791585,0.00044935784535482526,0.0013504030648618937
-"the only good scary movie i've seen recently that like automatically pops up off the top of my head is insidious, and ironically, the producers from insidious were on this movie",0.2022951,0.9999790185447454,0.43,0.086,False,0.001028774306178093,0.013764208182692528,0.05440544709563255
-"to the fact that the plot was so enticing is what helps make a scary movie scary, or at least entertaining",0.060927194,0.0027088131649094,0.6,0.221,False,0.000768980709835887,0.0005586268962360919,0.0008106584427878261
-running away from the deal with a knife and door shutting by itself is not scary,0.29070088,0.99921900705263,0.375,0.0,False,0.019353151321411133,0.0685013085603714,0.14341393113136292
-the fact that you got comedians out here making better scary movies than scary movie people,0.2752517,0.999581980267895,0.5833333333333334,0.272,False,0.0008876844076439738,0.005310593172907829,0.0020359938498586416
-"yeah, study game up now, the next thing that i absolutely loved was low-res character laura, as a comedian",0.082104236,0.0035477435398576,0.45,0.0,False,0.0007502113585360348,0.001576717826537788,0.000801913149189204
-"his name in the movie was rot, and what i loved about his character was he gave a voice to every black person who's ever watched a scary movie",0.34575438,0.0002235240261505,0.4944444444444444,0.094,False,0.06279655545949936,0.40121859312057495,0.1616957187652588
-"literally, everything he was saying in the movie is what we say when we watch scary movies",0.061726328,0.0252954987625709,0.75,0.167,False,0.0007807620568200946,0.0009118544403463602,0.0019296151585876942
-and it was just refreshing to actually see a voice of reason in a scary movie scene on scary movies,0.035477944,8.991626491948366e-05,0.5625,0.262,False,0.0006067823269404471,0.0005221492028795183,0.0006478858995251358
-"everybody are like they're all idiots and it's probably why black people are never in scary movies, or they kill us in like the first two minutes",0.86967754,0.9999543414922584,0.6520833333333333,0.133,False,0.9889479875564575,0.9919794797897339,0.9724047183990479
-"because we don't put ourselves in these situation, we don't chase demons with video cameras",0.1731117,0.9958106232922764,0.5,0.0,False,0.011616075411438942,0.0007198508828878403,0.004211914725601673
-"if we hear a creepy noise, we don't investigate, we don't buy dolls from the 1800s",0.13745339,0.9650836695134688,0.75,0.0,False,0.0024685864336788654,0.002383246086537838,0.006200043950229883
-we don't do that,0.020963646,0.9998537556804906,0.5,0.0,False,0.0009929309599101543,0.0004546252603176981,0.0005785942194052041
-"let's split a bullet, and if we're running, we don't fall",0.38261065,0.880459082585869,0.5,0.0,False,0.0863918587565422,0.6079246997833252,0.26713991165161133
-now,0.018742332,0.0840974576675297,0.5,0.0,False,0.0014697305159643292,0.0004906950052827597,0.0007275509997271001
-"what i didn't like about this movie was, i honestly can't think of anything i dislike about this movie",0.2015616,0.1033018969142955,0.2,0.199,False,0.001133147394284606,0.004833841696381569,0.0056129926815629005
-"i'm not saying it's the perfect film or whatever, but i really don't have any complaints like i think this movie was really well done",0.059728492,0.0005702544955152,0.2666666666666667,0.0,False,0.0006161803030408919,0.00044896375038661063,0.00038939222577027977
-there are some things that were in the trailer and on the movie poster that weren't in the actual movie or that didn't quite like connect,0.0334178,0.999970792860583,0.5,0.085,False,0.0006634396268054843,0.000378717522835359,0.00030684747616760433
-in the trailer,0.031014297,0.964722424884006,0.5,0.0,False,0.0008090058690868318,0.000858647283166647,0.0061748092994093895
-"there was like this deer skeleton thing like 1 rawr or whatever, and you didn't see that in the movie",0.09816993,0.9999919531350586,0.5,0.0,False,0.0009455226827412844,0.0005349140847101808,0.00225346558727324
-"also on the movie poster, there's like a guy in like an old knights helmet, and there's a point in the movie where you see that same helmet inside of the car",0.06412373,0.9899469324158716,0.475,0.0,False,0.000820145767647773,0.004069210030138493,0.004653433337807655
-"it didn't really make that much sense, but at the same time it wasn't relevant enough that it leaves you really baffled or confused",0.09763293,0.99992811467319,0.4571428571428571,0.127,False,0.0006569029064849019,0.0004229698970448226,0.003888909239321947
-"if you don't understand, this movie is not going to be because of that one 3 second clip in the trailer or that quick glance at that little knight, thinking so it's not like a huge deal, but you really don't want to see stuff in the trailer that's not actually in the movie itself",0.103539884,0.9999138091355164,0.4378472222222222,0.086,False,0.000709510175511241,0.001685467199422419,0.000759395188651979
-"now something i find very annoying and it isn't even with the movie itself is with the people who like review this movie or review the trailer or just making commentary about it, saying that this movie is race baiting and all that other stuff",0.2590451,0.999979733821629,0.78125,0.062,False,0.0008385085966438055,0.0026022421661764383,0.002297170925885439
-and it's racist and it's just there's a difference between race baiting and calling out racism like that,0.2712817,0.9911475544683348,0.5,0.316,False,0.12972906231880188,0.10290366411209106,0.14957790076732635
-those two things are not synonymous,0.016243355,0.9998434139688808,0.5,0.0,False,0.0007593618938699365,0.00045208135270513594,0.0005903777782805264
-like if you need clarification,0.017770508,0.927081843173159,0.5,0.0,False,0.0008818481001071632,0.0008295583538711071,0.0004012342542409897
-"this movie was a psychological thriller that used horror and suspense to point out how racism still exists in a society that people are claiming as post-racial part of this movies intent was to show passive racism, as opposed to blatant racism",0.22982925,0.0010914231148877,0.625,0.29,False,0.004133685491979122,0.017527054995298386,0.0033622682094573975
-a lot of us who are sitting here saying that racism still exists and you guys are arguing it with us because the kkk isn't ever,0.20522906,0.9992746198303364,0.5,0.228,False,0.02252837084233761,0.020015738904476166,0.032335489988327026
-i mean they are around,0.031185975,0.0088162346394289,0.65625,0.0,False,0.001443139393813908,0.0006061346502974629,0.001218037330545485
-"but because people aren't getting lynched, they aren't getting which",0.15976663,0.9642000045300868,0.5,0.0,False,0.0032691939268261194,0.00800155196338892,0.005444645415991545
-and this is why i think what he did was very unique and special because the way jordan peele chose to point out racism was very clever and it wasn't clever in a way that he was trying to be sneaky about it,0.2590451,0.0001821273765074,0.3465029761904762,0.161,False,0.0014396103797480464,0.01033056527376175,0.03389506787061691
-"he chose to point out passive racism, as opposed to blatant racism, because when we see movies nowadays where racism is involved, it's very leyton",0.18647896,0.999707749786609,0.575,0.35,False,0.0017635687254369259,0.04350721836090088,0.03036310523748398
-"it's very in-your-face and that's because, in most cases movies with black people in it, especially what a black lead is about slavery, or it's about the civil rights era",0.39694545,0.0129559592101435,0.4633333333333333,0.142,False,0.09928514063358307,0.47742483019828796,0.19273994863033295
-it's black people trying to overcome some huge thing because of their blackness,0.5810591,0.8461267160684568,0.4416666666666666,0.0,False,0.14378881454467773,0.7221757173538208,0.6326096057891846
-even though that still exists,0.017909339,0.9780627858127214,0.5,0.0,False,0.0008483979618176818,0.00032434059539809823,0.0004959073266945779
-that's not our everyday,0.016798683,0.9970611359073764,0.6,0.0,False,0.0013686246238648891,0.00045987279736436903,0.000524085306096822
-blame racism for the most part is not our everyday,0.15684792,0.9985319836058538,0.425,0.448,False,0.008141406811773777,0.023967433720827103,0.01956905983388424
-"we deal with a lot of passive races of a lot of under-the-table systematic, very coded language",0.19936113,0.9852943841227606,0.4,0.0,False,0.000847865070682019,0.0004393846611492336,0.0006855109822936356
-that's the type of racism we deal with on a day-to-day unless biro,0.18549223,0.9974089392920666,0.5,0.255,False,0.026743188500404358,0.3459545075893402,0.0071577038615942
-most of us would be a little taken aback as someone randomly on the street jumped into our face and caught us a like twenty thirty years ago,0.12888865,0.0558919145101068,0.53125,0.0,False,0.007536865305155516,0.0006607610266655684,0.009981854818761349
-"that was the norm and back then black people, most of them wouldn't even think of reacting to the way that we react to blatant racism now",0.37221906,0.955288131410669,0.5208333333333334,0.136,False,0.2409719079732895,0.42400163412094116,0.1485777050256729
-"and what was so clever and accurate about it is the way that he wrote the white characters, and let's be real",0.1785852,0.0001546786260961,0.4041666666666667,0.0,False,0.0006902549066580832,0.03181851655244827,0.02110445499420166
-"if you watch king pill, they know how to write like people, but he didn't write them as blatant racist like you know",0.41523102,0.999665250418437,0.75,0.18,False,0.5622543096542358,0.564014196395874,0.7940841317176819
-"before, i'm not even gonna get into the plot twist",0.09709594,0.9999836678444892,0.5,0.0,False,0.0007952963351272047,0.0008713793358765543,0.0009230354917235672
-they weren't malicious,0.07970683,0.9282361212442004,0.5,0.0,False,0.0029402603395283222,0.005718047730624676,0.04014913737773895
-they didn't like imply black people were inferior to white people,0.42631236,0.9980513473432232,0.5416666666666666,0.348,False,0.28491148352622986,0.743389904499054,0.6523416042327881
-"they weren't saying, i don't want this black guy in my house or dating my daughter",0.6221407,0.9977761147590232,0.5833333333333334,0.075,False,0.364641934633255,0.9027315974235535,0.9570189714431763
-"if anything, they were just really ignorant",0.4497033,0.9999159549661674,0.4,0.285,False,0.2546965479850769,0.9876543879508972,0.9394810199737549
-you know,0.03994159,0.0418859884411255,0.5,0.0,False,0.0024898352567106485,0.000538251013495028,0.0007277476252056658
-"they kept saying that black people have special capabilities and their genetic makeup makes them better at this, and that they were just saying a lot of ignorant",0.50255704,0.999991178251768,0.3849206349206349,0.064,False,0.21007303893566132,0.9740052819252014,0.8687902092933655
-they were doing what a lot of white people do to black people,0.4292556,0.9656692726587796,0.5416666666666666,0.0,False,0.612921953201294,0.6317378878593445,0.37530046701431274
-they always try to connect with us on a black level before they try to connect with us as just regular human beings,0.31389946,0.0059816221526019,0.5277777777777778,0.0,False,0.02290997840464115,0.049940310418605804,0.03802741318941116
-and sometimes it just goes too far,0.038911518,0.9847539030275286,0.45,0.0,False,0.0011818328639492393,0.00036270605050958693,0.0008239067974500358
-"and so that's why a lot of people get so sensitive when we talk about racism, because they think we're automatically calling them a kkk member or hitler, or think that they're trying to exterminate the black population like no, you're you're just a little ignorant like that",0.53837943,0.9970201266993788,0.5423611111111111,0.108,False,0.9104290008544922,0.9828364253044128,0.9395968317985535
-it's all we're saying,0.021657806,0.0327626615929693,0.5,0.0,False,0.0007939556962810457,0.0003727323783095926,0.0012307614088058472
-just pull it back a little bit,0.09602194,0.8694045677581792,0.546875,0.0,False,0.005886172875761986,0.027851000428199768,0.04215870425105095
-so when we say this movie is about race and racism is not about it in the same way that we're used to seeing it on tv and in movies there's certain things that were set in a moving,0.11729682,0.9638831666738196,0.4464285714285714,0.095,False,0.0019436604343354702,0.0035228843335062265,0.0012651850702241063
-"you're just like, like, aha, like, i don't want to give too much away, but there's like a point where he says it's a privilege to be able to experience another person's culture when ironically okay, i don't want to spoil it",0.10634898,0.048963981040394,0.3,0.048,False,0.002787698293104768,0.006172419060021639,0.0016929390840232372
-i don't wanna give nothing,0.05373499,0.9830116375548976,0.5,0.0,False,0.36423879861831665,0.014730226248502731,0.00347932823933661
-wait,0.030327583,0.9886206004511012,0.5,0.0,False,0.0020275935530662537,0.0006911992095410824,0.0010427887318655849
-there's another part where there's a party full of white people and the white guy says to chris black isn't style,0.38874862,0.9998207635342308,0.4770833333333333,0.0,False,0.12560787796974182,0.36740782856941223,0.18001364171504974
-"you know what i'm saying? he's like black is what's poppin right now? that's not what he said, but he said black is him style attack at the extra puppet",0.3955794,0.9769522886476022,0.5059523809523809,0.132,False,0.044286973774433136,0.6321466565132141,0.7397788763046265
-um,0.012811388,0.2300671108536114,0.5,0.0,False,0.0011565451277419925,0.0034721060656011105,0.0014047900913283229
-"there's another point in the movie where chris, the main guy, the black guy says why black people in the guy responds, it's a white guy and he's blind, so i mean he doesn't know chris is black unless someone tells him he's black, so it's not like pele was trying to portray white people as the white devil who are trying to single out black people",0.44670263,0.9997187471686956,0.5646081349206349,0.129,False,0.13194270431995392,0.674243688583374,0.7869221568107605
-"i mean, in a sense they were, but again, plot twist",0.051737156,0.1781363699221302,0.65625,0.0,False,0.000618079851847142,0.00044056298793293536,0.0008350584539584816
-"but anyway, to wrap this up, i really really enjoyed this movie",0.070516795,0.0072326116189576,0.25,0.0,False,0.0005570902139879763,0.00039980816654860973,0.0003928661753889173
-i honestly might do a second video to kind of explain the actual movie because this movie was super intricate,0.18647896,0.0042871014119565,0.3466666666666667,0.0,False,0.000752384657971561,0.0003773403004743159,0.0005671705002896488
-"there were so many layers to it and when reading comments and speaking to people about it, there was a lot of stuff that they didn't understand",0.043031808,0.999957500631828,0.25,0.0,False,0.0006353589706122875,0.00039543872117064893,0.0005139829590916634
-a lot of metaphors,0.020963646,0.8458961286830798,0.5,0.0,False,0.0006897321436554193,0.0004490071441978216,0.0005061754491180182
-"they didn't understand that like really popped out to me, so i kind of want to like, open up the discussion to talk about it",0.039254878,0.9997008950498072,0.3666666666666667,0.076,False,0.0005629510269500315,0.0005041096010245383,0.0005157435080036521
-"um, but that'll be for a later time, but i'm just gonna say i genuinely enjoyed this movie",0.03994159,0.0007167372406525,0.375,0.0,False,0.0005567412008531392,0.000472806190373376,0.000384324521292001
-i would encourage everyone to go and watch it and i would rate this,0.2298686,0.0010342307673967,0.5,0.0,False,0.0006599878543056548,0.0008523444994352758,0.0003644381940830499
-i never know if it's supposed to be rating out of five or out of ten,0.019714156,0.9981287164594748,0.5,0.0,False,0.0012086648494005203,0.0005739502375945449,0.0006593534490093589
-well already a four out of five or nine editing boom,0.050242316,0.8535464321989042,0.5,0.0,False,0.0007303300080820918,0.0016476425807923079,0.002901507308706641
+"yeah, sorry man, get out",0.21715863,0.9906356930732727,0.5,0.2,False,0.1940909028053283,0.0234918110072612,0.0079964408650994
+yo,,0.0,0.0,0.0,False,0.1495386660099029,0.001203927444294,0.0008704312494955
+i really do not want to spoil this movie,0.17518331,0.0,0.1,0.157,False,0.0020140919368714,0.001707040821202,0.0008598512504249
+i'ma try my best to not give away too much,0.09709594,0.7334282994270325,0.0,0.0,False,0.0018545415950939,0.001533406204544,0.0009893459500744
+but y'all know i had to do a review on this movie,0.03358948,0.0,0.0,0.0,False,0.0007836795412003,0.0005918840761296,0.0004006861418019
+"i went and saw get out, which is a movie written and directed by jordan peele, and if you guys are familiar with who he is, he's an actor and comedian",0.06492286,0.0,0.0,0.0,False,0.0011571737704798,0.0010146473068743,0.0005773764569312
+"he's most known for his show key and peele, which is like funny is",0.09387396,0.0,0.0,0.0,False,0.0027922061271965,0.0021733234170824,0.0190644394606351
+"oh, now, after seeing this movie twice, i saw once with a group of people and i went to see it again by myself",0.056931525,0.0,0.0,0.0,False,0.0005966235767118,0.000671952497214,0.0003503928310237
+i just knew that i was gonna have to come on here and talk to you guys about this movie,0.057331093,0.0,0.0,0.0,False,0.0006005939212627,0.0018372769700363,0.0016661467961966
+"when i first saw the preview of this movie, i was super skeptical one, because i mean it was a black guy he loved",0.37221906,0.9869426488876343,0.0,0.074,False,0.0019691882189363,0.0945324003696441,0.0459234975278377
+black people are in scary movies and definitely not the lead,0.43622825,0.9982984662055969,0.2222222222222222,0.215,False,0.1657071411609649,0.7064992189407349,0.6384316682815552
+"and when they are, you know, they in like two seconds, and i was also skeptical because it said from the mind of jordan peele, who's known for you know, for comedy, i saw that cat movie and if i mean, it was funny, but it was just like pure ridiculousness, so i was really curious about how he was gonna jump from comedy into into like suspense thriller horror, and for anyone who knows me like i love scary movies, like horror thriller, suspense is my favorite genre of movies, so i didn't really",0.21980777,0.9999861717224121,0.0,0.14,False,0.0007927827537059,0.1021116524934768,0.0322744101285934
+"i didn't really see the connection between him and this genre movies, but i went to go and see it anyways",0.035134587,0.9727931022644043,0.0,0.0,False,0.0005530463531613,0.0004127300344407,0.0003552721173036
+i'm gonna start by saying that this movie was both hilarious and terrifying and it was a hilarious,0.23101798,0.0,0.0,0.154,False,0.0011803405359387,0.0013861998450011,0.0015614629955962
+in the sense that i felt like i was watching a comedy,0.027065687,0.9600825309753418,0.0,0.0,False,0.0009457010310143,0.0004822818445973,0.0007181474356912
+there was just a bit more comic relief than your average horror flick and it wasn't terrifying in that it was scary,0.25676212,0.8826826214790344,0.18,0.221,False,0.0014831467997282,0.0007933136075735,0.0028201190289109
+"it was just there were parts that make you jump, and this movie just made you feel so uneasy, like i was in that theater, stressed out like i was on the edge of my seat the whole time",0.23014031,0.9999337196350098,0.0,0.125,False,0.0011679115705192,0.0006472850218415,0.0015647879336029
+this,0.028439116,0.0,0.0,0.0,False,0.0022365439217537,0.0004711963993031,0.0005406324053183
+just the emotions this movie brought out of me was just befuddling,0.18746567,0.9734439253807068,0.0,0.0,False,0.0095216492190957,0.0259413868188858,0.0804526060819625
+"is funneling a word, but fettle funnily",0.2885035,0.0,0.0,0.106,False,0.0020553860813379,0.0223586000502109,0.0060850330628454
+"whatever, but it is very clear that this movie is meant to be a thriller and not a comedy",0.08796701,0.9987441301345825,0.0,0.111,False,0.0006749590975232,0.0005554023664444,0.0006540557951666
+and honestly how this movie got made and passed through hollywood,0.046122026,0.0,0.0,0.0,False,0.0007715604733675,0.0003678365028463,0.0004625160363502
+"i have no idea, but i'm gonna break it down for you guys and tell you what i liked about it and what i didn't like",0.17242117,0.0,0.0,0.138,False,0.000707555678673,0.0185718480497598,0.0021496345289051
+now,0.018742332,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+"the first thing that i liked about the movie is that it opened up playing redbone by childish gambino, like i love that song",0.084745035,0.7467085719108582,0.0,0.068,False,0.000670961511787,0.0020534337963908,0.0443622432649135
+"but the reason why i feel like this is important isn't just because like, oh, much movie with song at? like no, there's a lot of movies with music",0.035649624,0.8697965145111084,0.0,0.073,False,0.0006265714764595,0.0005355704342946,0.0007132720784284
+"i like this song and this album in particular, like it really gives you the feel of blackness",0.29855597,0.0,0.0,0.0,False,0.000561031512916,0.0334124080836772,0.0486158318817615
+"that sounds probably really weird for me to say, it sets the tone and it sets the vibe",0.076110736,0.0,0.5,0.105,False,0.0007295425748452,0.0004009069816675,0.0005960614071227
+the only reason i'm saying this is important is because the way he interacted with the other black pete,0.34388447,0.0,0.0,0.0,False,0.0539686940610408,0.2772524654865265,0.1380690336227417
+i'm try not to give away too much,0.05852979,0.0,0.0,0.0,False,0.0021905463654547,0.0006409477209672,0.0009467283962294
+"but the way he interacted with the other black people in the movie like it just gives you a certain feeling, and when you watch this movie you'll know what i mean",0.30053464,0.0,0.097470238095238,0.0,False,0.0107925366610288,0.2646648287773132,0.066715307533741
+i also liked the imagery,0.04818217,0.0,0.0,0.0,False,0.0006488025537692,0.0003537247830536,0.0002387476124567
+the cinematography,0.011870144,0.0,0.0,0.0,False,0.0012484934413805,0.0004234428924974,0.0006201982614584
+it was very well shot,0.2299237,0.0,0.0,0.0,False,0.0012895254185423,0.0392073094844818,0.3050273060798645
+"the shot angles, the color palettes was really really good",0.08420804,0.0,0.0,0.0,False,0.0005962634459137,0.0008253039559349,0.0013462071074172
+"um, the way it was filmed it was",0.03461955,0.9266487956047058,0.0,0.0,False,0.0006481350283138,0.0005280923796817,0.0046836761757731
+"there was a lot of like symbolic shots within the movie, a lot of nods to like older horror flicks which i thought was really really cool",0.09494796,0.9874026775360107,0.0,0.107,False,0.0006392681971192,0.0004751408996526,0.000446288526291
+the performances were really really good,0.05653196,0.0,0.0,0.0,False,0.000554168713279,0.0003147939860355,0.0005276363226585
+"especially chris, the main character and his real name is daniel",0.033074442,0.0,0.0,0.0,False,0.0007533564348705,0.0005307469982653,0.0010762719903141
+a poop,0.38965073,0.735317051410675,0.0,0.0,False,0.5069506168365479,0.399065226316452,0.8638407588005066
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+i'm sorry,0.023117077,0.9998569488525391,0.5,0.565,False,0.0010547674028202,0.0010944564128294,0.0005002485704608
+sorry,0.023803791,0.9981034994125366,0.5,1.0,False,0.0011068538296967,0.0004733956593554,0.0004530483856797
+"his performance was really really good like he really captured the feeling that i feel like most people, especially the black audiences",0.29070088,0.0,0.0,0.0,False,0.0006704211118631,0.0725219473242759,0.0685720667243003
+i have to keep going back to black people,0.50743616,0.9903572201728821,0.0833333333333333,0.0,False,0.544878363609314,0.8868175745010376,0.8689979314804077
+"but me with this move, you kind of have to, but he really captured the same feeling that we were feeling",0.030327583,0.0,0.0,0.0,False,0.0006101583712734,0.0003594759036786,0.0010000298498198
+there were times in the movie where i was like this is crazy,0.20302857,0.9799165725708008,0.6,0.151,False,0.0017712014960125,0.0366033986210823,0.1409590393304824
+i think he would literally be like this is crazy,0.23716165,0.0,0.6,0.186,False,0.0518739037215709,0.1848752349615097,0.4624596834182739
+you feel me? so he really captured the feel of how i feel like most people would react if they were in that situation,0.032902762,0.0,0.0,0.0,False,0.0008965808665379,0.0003852158260997,0.0006845496245659
+the best thing about this movie is the plot,0.037194733,0.9997857213020325,0.0,0.0,False,0.0005999711574986,0.0006627340335398,0.0003005610487889
+"it is the writing like jordan peele, nailed the out of this movie like he did such a good job",0.10699297,0.0,0.0,0.0,False,0.0011520989937707,0.0009581412305124,0.001798749086447
+the way he wrote this,0.02637897,0.0,0.0,0.0,False,0.0006923400796949,0.0004167999140918,0.0004621277912519
+in the way he went about,0.039254878,0.0,0.0,0.0,False,0.0007745288312435,0.0006348371971398,0.0018362138653174
+"it was very, very special",0.043031808,0.0,0.0,0.0,False,0.000743735814467,0.0003215986944269,0.0008900346583686
+like i'm gonna go,0.03358948,0.0,0.0,0.0,False,0.0054565053433179,0.0049705398268997,0.0003419322310946
+"i'm gonna go into that a little bit later, but the reason why i'm putting emphases on the writing when you watch scary movies",0.05253629,0.0,0.2291666666666666,0.158,False,0.0006937012658454,0.001685373368673,0.0031448937952518
+"if you're someone who genuinely loves scary movies, you know that scary movies for the past like decade have been asked for the most part",0.05413456,0.0,0.0699999999999999,0.19,False,0.0006490792729891,0.0005740927881561,0.001756745390594
+that's partially because the writing is so trash,0.650189,0.9998842477798462,0.1,0.0,False,0.7283409237861633,0.94282329082489,0.9113441705703736
+"they think if a nut stuff pops out at you and there's enough creepy sounds and the actors can look scared enough that it's a scary movie and a lot of people buy into that that, like paranormal activity, cameras moving doors shut",0.1731117,0.8387746810913086,0.25,0.126,False,0.0054057179950177,0.0084637869149446,0.0412037670612335
+"that is, it's not scary",0.05413456,0.9983441829681396,0.0,0.0,False,0.0012487099738791,0.0004493578453548,0.0013504030648618
+"the only good scary movie i've seen recently that like automatically pops up off the top of my head is insidious, and ironically, the producers from insidious were on this movie",0.2022951,0.9999580383300781,0.0,0.086,False,0.001028774306178,0.0137642081826925,0.0544054470956325
+"to the fact that the plot was so enticing is what helps make a scary movie scary, or at least entertaining",0.060927194,0.0,0.2,0.221,False,0.0007689807098358,0.000558626896236,0.0008106584427878
+running away from the deal with a knife and door shutting by itself is not scary,0.29070088,0.9984380602836609,0.0,0.0,False,0.0193531513214111,0.0685013085603714,0.1434139311313629
+the fact that you got comedians out here making better scary movies than scary movie people,0.2752517,0.9991639852523804,0.1666666666666666,0.272,False,0.0008876844076439,0.0053105931729078,0.0020359938498586
+"yeah, study game up now, the next thing that i absolutely loved was low-res character laura, as a comedian",0.082104236,0.0,0.0,0.0,False,0.000750211358536,0.0015767178265377,0.0008019131491892
+"his name in the movie was rot, and what i loved about his character was he gave a voice to every black person who's ever watched a scary movie",0.34575438,0.0,0.0,0.094,False,0.0627965554594993,0.4012185931205749,0.1616957187652588
+"literally, everything he was saying in the movie is what we say when we watch scary movies",0.061726328,0.0,0.5,0.167,False,0.00078076205682,0.0009118544403463,0.0019296151585876
+and it was just refreshing to actually see a voice of reason in a scary movie scene on scary movies,0.035477944,0.0,0.125,0.262,False,0.0006067823269404,0.0005221492028795,0.0006478858995251
+"everybody are like they're all idiots and it's probably why black people are never in scary movies, or they kill us in like the first two minutes",0.86967754,0.9999086856842041,0.3041666666666667,0.133,False,0.9889479875564576,0.991979479789734,0.972404718399048
+"because we don't put ourselves in these situation, we don't chase demons with video cameras",0.1731117,0.9916214942932129,0.0,0.0,False,0.0116160754114389,0.0007198508828878,0.0042119147256016
+"if we hear a creepy noise, we don't investigate, we don't buy dolls from the 1800s",0.13745339,0.930169403553009,0.5,0.0,False,0.0024685864336788,0.0023832460865378,0.0062000439502298
+we don't do that,0.020963646,0.9997075200080872,0.0,0.0,False,0.0009929309599101,0.0004546252603176,0.0005785942194052
+"let's split a bullet, and if we're running, we don't fall",0.38261065,0.7609252333641052,0.0,0.0,False,0.0863918587565422,0.6079246997833252,0.2671399116516113
+now,0.018742332,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+"what i didn't like about this movie was, i honestly can't think of anything i dislike about this movie",0.2015616,0.0,0.0,0.199,False,0.0011331473942846,0.0048338416963815,0.0056129926815629
+"i'm not saying it's the perfect film or whatever, but i really don't have any complaints like i think this movie was really well done",0.059728492,0.0,0.0,0.0,False,0.0006161803030408,0.0004489637503866,0.0003893922257702
+there are some things that were in the trailer and on the movie poster that weren't in the actual movie or that didn't quite like connect,0.0334178,0.9999415874481201,0.0,0.085,False,0.0006634396268054,0.0003787175228353,0.0003068474761676
+in the trailer,0.031014297,0.9294469356536865,0.0,0.0,False,0.0008090058690868,0.0008586472831666,0.0061748092994093
+"there was like this deer skeleton thing like 1 rawr or whatever, and you didn't see that in the movie",0.09816993,0.9999839067459106,0.0,0.0,False,0.0009455226827412,0.0005349140847101,0.0022534655872732
+"also on the movie poster, there's like a guy in like an old knights helmet, and there's a point in the movie where you see that same helmet inside of the car",0.06412373,0.9798944592475891,0.0,0.0,False,0.0008201457676477,0.0040692100301384,0.0046534333378076
+"it didn't really make that much sense, but at the same time it wasn't relevant enough that it leaves you really baffled or confused",0.09763293,0.9998562335968018,0.0,0.127,False,0.0006569029064849,0.0004229698970448,0.0038889092393219
+"if you don't understand, this movie is not going to be because of that one 3 second clip in the trailer or that quick glance at that little knight, thinking so it's not like a huge deal, but you really don't want to see stuff in the trailer that's not actually in the movie itself",0.103539884,0.9998276233673096,0.0,0.086,False,0.0007095101755112,0.0016854671994224,0.0007593951886519
+"now something i find very annoying and it isn't even with the movie itself is with the people who like review this movie or review the trailer or just making commentary about it, saying that this movie is race baiting and all that other stuff",0.2590451,0.9999594688415527,0.5625,0.062,False,0.0008385085966438,0.0026022421661764,0.0022971709258854
+and it's racist and it's just there's a difference between race baiting and calling out racism like that,0.2712817,0.9822956323623657,0.0,0.316,False,0.1297290623188018,0.102903664112091,0.1495779007673263
+those two things are not synonymous,0.016243355,0.9996868371963501,0.0,0.0,False,0.0007593618938699,0.0004520813527051,0.0005903777782805
+like if you need clarification,0.017770508,0.8541679978370667,0.0,0.0,False,0.0008818481001071,0.0008295583538711,0.0004012342542409
+"this movie was a psychological thriller that used horror and suspense to point out how racism still exists in a society that people are claiming as post-racial part of this movies intent was to show passive racism, as opposed to blatant racism",0.22982925,0.0,0.25,0.29,False,0.0041336854919791,0.0175270549952983,0.0033622682094573
+a lot of us who are sitting here saying that racism still exists and you guys are arguing it with us because the kkk isn't ever,0.20522906,0.9985492825508118,0.0,0.228,False,0.0225283708423376,0.0200157389044761,0.032335489988327
+i mean they are around,0.031185975,0.0,0.3125,0.0,False,0.0014431393938139,0.0006061346502974,0.0012180373305454
+"but because people aren't getting lynched, they aren't getting which",0.15976663,0.9284021258354187,0.0,0.0,False,0.0032691939268261,0.0080015519633889,0.0054446454159915
+and this is why i think what he did was very unique and special because the way jordan peele chose to point out racism was very clever and it wasn't clever in a way that he was trying to be sneaky about it,0.2590451,0.0,0.0,0.161,False,0.001439610379748,0.0103305652737617,0.0338950678706169
+"he chose to point out passive racism, as opposed to blatant racism, because when we see movies nowadays where racism is involved, it's very leyton",0.18647896,0.9994155168533325,0.15,0.35,False,0.0017635687254369,0.0435072183609008,0.0303631052374839
+"it's very in-your-face and that's because, in most cases movies with black people in it, especially what a black lead is about slavery, or it's about the civil rights era",0.39694545,0.0,0.0,0.142,False,0.099285140633583,0.4774248301982879,0.1927399486303329
+it's black people trying to overcome some huge thing because of their blackness,0.5810591,0.6922625303268433,0.0,0.0,False,0.1437888145446777,0.7221757173538208,0.6326096057891846
+even though that still exists,0.017909339,0.956126868724823,0.0,0.0,False,0.0008483979618176,0.000324340595398,0.0004959073266945
+that's not our everyday,0.016798683,0.9941224455833435,0.2,0.0,False,0.0013686246238648,0.0004598727973643,0.0005240853060968
+blame racism for the most part is not our everyday,0.15684792,0.9970640540122986,0.0,0.448,False,0.0081414068117737,0.0239674337208271,0.0195690598338842
+"we deal with a lot of passive races of a lot of under-the-table systematic, very coded language",0.19936113,0.9705896377563477,0.0,0.0,False,0.000847865070682,0.0004393846611492,0.0006855109822936
+that's the type of racism we deal with on a day-to-day unless biro,0.18549223,0.9948180317878723,0.0,0.255,False,0.0267431885004043,0.3459545075893402,0.0071577038615942
+most of us would be a little taken aback as someone randomly on the street jumped into our face and caught us a like twenty thirty years ago,0.12888865,0.0,0.0625,0.0,False,0.0075368653051555,0.0006607610266655,0.0099818548187613
+"that was the norm and back then black people, most of them wouldn't even think of reacting to the way that we react to blatant racism now",0.37221906,0.9105789065361023,0.0416666666666666,0.136,False,0.2409719079732895,0.4240016341209411,0.1485777050256729
+"and what was so clever and accurate about it is the way that he wrote the white characters, and let's be real",0.1785852,0.0,0.0,0.0,False,0.000690254906658,0.0318185165524482,0.0211044549942016
+"if you watch king pill, they know how to write like people, but he didn't write them as blatant racist like you know",0.41523102,0.9993305206298828,0.5,0.18,False,0.5622543096542358,0.564014196395874,0.7940841317176819
+"before, i'm not even gonna get into the plot twist",0.09709594,0.9999673366546631,0.0,0.0,False,0.0007952963351272,0.0008713793358765,0.0009230354917235
+they weren't malicious,0.07970683,0.8564764857292175,0.0,0.0,False,0.0029402603395283,0.0057180477306246,0.0401491373777389
+they didn't like imply black people were inferior to white people,0.42631236,0.9961028099060059,0.0833333333333333,0.348,False,0.2849114835262298,0.743389904499054,0.6523416042327881
+"they weren't saying, i don't want this black guy in my house or dating my daughter",0.6221407,0.9955523610115051,0.1666666666666666,0.075,False,0.364641934633255,0.9027315974235536,0.9570189714431764
+"if anything, they were just really ignorant",0.4497033,0.9998319149017334,0.0,0.285,False,0.2546965479850769,0.9876543879508972,0.9394810199737548
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"they kept saying that black people have special capabilities and their genetic makeup makes them better at this, and that they were just saying a lot of ignorant",0.50255704,0.9999823570251465,0.0,0.064,False,0.2100730389356613,0.9740052819252014,0.8687902092933655
+they were doing what a lot of white people do to black people,0.4292556,0.9313405752182007,0.0833333333333333,0.0,False,0.612921953201294,0.6317378878593445,0.3753004670143127
+they always try to connect with us on a black level before they try to connect with us as just regular human beings,0.31389946,0.0,0.0555555555555555,0.0,False,0.0229099784046411,0.0499403104186058,0.0380274131894111
+and sometimes it just goes too far,0.038911518,0.969508707523346,0.0,0.0,False,0.0011818328639492,0.0003627060505095,0.00082390679745
+"and so that's why a lot of people get so sensitive when we talk about racism, because they think we're automatically calling them a kkk member or hitler, or think that they're trying to exterminate the black population like no, you're you're just a little ignorant like that",0.53837943,0.9940404295921326,0.0847222222222222,0.108,False,0.9104290008544922,0.9828364253044128,0.9395968317985536
+it's all we're saying,0.021657806,0.0,0.0,0.0,False,0.000793955696281,0.0003727323783095,0.0012307614088058
+just pull it back a little bit,0.09602194,0.7388168573379517,0.09375,0.0,False,0.0058861728757619,0.0278510004281997,0.0421587042510509
+so when we say this movie is about race and racism is not about it in the same way that we're used to seeing it on tv and in movies there's certain things that were set in a moving,0.11729682,0.9277684688568115,0.0,0.095,False,0.0019436604343354,0.0035228843335062,0.0012651850702241
+"you're just like, like, aha, like, i don't want to give too much away, but there's like a point where he says it's a privilege to be able to experience another person's culture when ironically okay, i don't want to spoil it",0.10634898,0.0,0.0,0.048,False,0.0027876982931047,0.0061724190600216,0.0016929390840232
+i don't wanna give nothing,0.05373499,0.9660242795944214,0.0,0.0,False,0.3642387986183166,0.0147302262485027,0.0034793282393366
+wait,0.030327583,0.9772418737411499,0.0,0.0,False,0.0020275935530662,0.000691199209541,0.0010427887318655
+there's another part where there's a party full of white people and the white guy says to chris black isn't style,0.38874862,0.9996415376663208,0.0,0.0,False,0.1256078779697418,0.3674078285694122,0.1800136417150497
+"you know what i'm saying? he's like black is what's poppin right now? that's not what he said, but he said black is him style attack at the extra puppet",0.3955794,0.9539059400558472,0.0119047619047619,0.132,False,0.0442869737744331,0.6321466565132141,0.7397788763046265
+um,0.012811388,0.0,0.0,0.0,False,0.0011565451277419,0.0034721060656011,0.0014047900913283
+"there's another point in the movie where chris, the main guy, the black guy says why black people in the guy responds, it's a white guy and he's blind, so i mean he doesn't know chris is black unless someone tells him he's black, so it's not like pele was trying to portray white people as the white devil who are trying to single out black people",0.44670263,0.9994375109672546,0.1292162698412698,0.129,False,0.1319427043199539,0.674243688583374,0.7869221568107605
+"i mean, in a sense they were, but again, plot twist",0.051737156,0.0,0.3125,0.0,False,0.0006180798518471,0.0004405629879329,0.0008350584539584
+"but anyway, to wrap this up, i really really enjoyed this movie",0.070516795,0.0,0.0,0.0,False,0.0005570902139879,0.0003998081665486,0.0003928661753889
+i honestly might do a second video to kind of explain the actual movie because this movie was super intricate,0.18647896,0.0,0.0,0.0,False,0.0007523846579715,0.0003773403004743,0.0005671705002896
+"there were so many layers to it and when reading comments and speaking to people about it, there was a lot of stuff that they didn't understand",0.043031808,0.9999150037765503,0.0,0.0,False,0.0006353589706122,0.0003954387211706,0.0005139829590916
+a lot of metaphors,0.020963646,0.6918013691902161,0.0,0.0,False,0.0006897321436554,0.0004490071441978,0.000506175449118
+"they didn't understand that like really popped out to me, so i kind of want to like, open up the discussion to talk about it",0.039254878,0.9994018077850342,0.0,0.076,False,0.00056295102695,0.0005041096010245,0.0005157435080036
+"um, but that'll be for a later time, but i'm just gonna say i genuinely enjoyed this movie",0.03994159,0.0,0.0,0.0,False,0.0005567412008531,0.0004728061903733,0.000384324521292
+i would encourage everyone to go and watch it and i would rate this,0.2298686,0.0,0.0,0.0,False,0.0006599878543056,0.0008523444994352,0.000364438194083
+i never know if it's supposed to be rating out of five or out of ten,0.019714156,0.9962575435638428,0.0,0.0,False,0.0012086648494005,0.0005739502375945,0.0006593534490093
+well already a four out of five or nine editing boom,0.050242316,0.7071015238761902,0.0,0.0,False,0.000730330008082,0.0016476425807923,0.0029015073087066

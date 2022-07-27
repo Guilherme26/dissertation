@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-from now on i'm done biting my nails ... if u see me biting them please yell at me,0.29045674,0.0,0.0,0.0,0.0890334919095039,0.5050674676895142,0.4687280356884002,False
+from now on i'm done biting my nails ... if u see me biting them please yell at me,0.29045674,0.9799581170082092,0.0,0.0,0.0890334919095039,0.5050674676895142,0.4687280356884002,False

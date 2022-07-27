@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"omg leave me alone , my mother forever complaining about something !!",0.23891698,0.0,0.0,0.439,0.1475218683481216,0.1720518618822097,0.0295819398015737,False
+"omg leave me alone , my mother forever complaining about something !!",0.23891698,0.9984751343727112,0.0,0.439,0.1475218683481216,0.1720518618822097,0.0295819398015737,False

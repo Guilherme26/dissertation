@@ -1,43 +1,43 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hi guys, my name is jimmy cage, and right now the vn rd",0.09065199,0.0048090721058289,0.2857142857142857,0.0,False,0.0008729046676307917,0.01571742445230484,0.006061537191271782
-"vienna international film festival is right on my doorstep, and today i want to talk about a great movie called spotlight, the boston priest molested kids in six different parishes",0.22157386,0.001349358606088,0.2936507936507936,0.077,False,0.001024329336360097,0.2813504636287689,0.6028059720993042
-"over the last 30 years, the church found out about it and did nothing",0.043375164,0.9993545897849392,0.4444444444444445,0.0,False,0.0010367092909291387,0.0013689565239474177,0.0006722832913510501
-we haven't committed any long-term investigative resources to the case,0.014299706,0.9997567863972062,0.4444444444444445,0.168,False,0.0005960935377515852,0.0003904806508217007,0.0002865665010176599
-"no, we haven't and that's the kind of thing you're a team with you",0.027409043,0.0081436617447207,0.1111111111111111,0.0,False,0.0009848918998613954,0.001360331429168582,0.00476856017485261
-"spotlight is the newest film of director tom mccarthy, whose last movie was the magnificent cobbler, wait, what",0.04165838,0.000340230793614,0.1666666666666666,0.0,False,0.0008412824245169759,0.000539818371180445,0.002625749446451664
-"yeah, it's the same director and i don't know what happened there, but maybe i don't really want to know",0.03616466,0.2456242787978989,0.3888888888888889,0.078,False,0.0005969756748527288,0.0011580327991396189,0.00036776269553229213
-so let's just forget about that because spotlight is wonderfully classic filmmaking,0.05613239,0.000857745228088,0.3518518518518519,0.135,False,0.0005908278399147093,0.00032826143433339894,0.0005996547406539321
-"first, you take a great story",0.04406188,0.0184496593295739,0.1527777777777778,0.0,False,0.0006578207248821855,0.0004052360018249601,0.0008942990098148584
-everybody's going to be interested in this,0.040628307,0.0002503669440523,0.3055555555555556,0.0,False,0.000585285248234868,0.0005375637556426227,0.001132948324084282
-"obviously, the church will fight us very hard",0.22333995,0.884575563202676,0.5497685185185186,0.417,False,0.06330828368663788,0.023508315905928612,0.0070585329085588455
-in this case,0.017492844,0.9075007402963065,0.4444444444444445,0.0,False,0.0006773300701752305,0.00037939107278361917,0.0015305767301470041
-that's the actual events of how the boston globe uncovered a massive scandal of child molestation and cover up within the local catholic archdiocese,0.1539292,0.1982275808696406,0.4444444444444445,0.209,False,0.0034603176172822714,0.034860361367464066,0.03217050060629845
-"second transform it into a gripping and leia baleia unfolding screenplay, and then a third cast a bunch of great actors for all the lead roles",0.11729682,3.135547918370242e-05,0.2638888888888889,0.0,False,0.0006948657683096826,0.00038914079777896404,0.0020013046450912952
-"well, these are only the basics, but i built a strong foundation for the whole movie",0.031185975,0.000760280953439,0.3271604938271605,0.0,False,0.0005653586704283953,0.00043406488839536905,0.0002303676592418924
-spotlight is very much in the vein of great biographical thrillers,0.084745035,9.299343636231136e-06,0.15,0.0,False,0.0007195473881438375,0.0005009337910450995,0.00046384945744648576
-"like all the president's men, it's done slow and then keeps on building tension, drama, revelations, and also satisfaction",0.22990796,0.0032890168939566,0.6111111111111112,0.097,False,0.0006514699780382216,0.0022470795083791018,0.0043703713454306126
-that's what these stories are born,0.04234509,0.0001651825718974,0.4444444444444445,0.0,False,0.0008467661100439727,0.0006654667085967958,0.001042083720676601
-you're going to give me the names and the names of their victims,0.09709594,0.9992093173462118,0.4444444444444445,0.161,False,0.0015297309728339314,0.008195565082132816,0.004739982541650534
-are you threatening me? i was doing my job,0.2995453,0.0229150431935138,0.4444444444444445,0.298,False,0.05313960090279579,0.03813711181282997,0.13367147743701935
-"yeah, you never more nose, suspense mystery, and also a lot of hard work",0.2712817,0.97562177065762,0.5949074074074076,0.09,False,0.01285586692392826,0.004969106055796146,0.041770439594984055
-i think that's the main reason why i'm really into stuff like this,0.024147147,0.1789630367483533,0.3425925925925926,0.0,False,0.000708782288711518,0.001152554526925087,0.003333491273224354
-"the people involved, the journalists of the boston globe laughed their jobs, and it's great to see what they can accomplish when working together",0.025863936,0.0021528576629646,0.0277777777777778,0.0,False,0.0005310328560881317,0.0004547836724668741,0.0026963057462126017
-"it's a well-crafted story with, of course a groundbreaking pulitzer prize-winning source material",0.042001735,0.0001314128400389,0.4444444444444445,0.0,False,0.0005849450826644897,0.0003868951753247529,0.0007066193502396345
-and it's so important to tell it because now roughly 10 years later those molestation scandals are still around and they keep coming,0.089577995,0.0338443948578802,0.3888888888888889,0.214,False,0.002266336465254426,0.0012508424697443843,0.001579510630108416
-"the movie shows how important investigative journalism is, but also more in general, their victims should never be silenced, and that even big institutions like the church must be challenged and fought when doing wrong",0.10461388,0.0054681928916353,0.3944444444444445,0.257,False,0.0006593588041141629,0.001338670845143497,0.0007277042604982853
-"that said, let's talk about the performances",0.021796638,0.0671714839204065,0.4444444444444445,0.0,False,0.0005948491743765771,0.0003666245029307902,0.0006141154444776475
-"i'm herself, was totally surprised by mark ruffalo",0.030327583,0.0510093140974025,0.3888888888888889,0.0,False,0.0007361250463873148,0.001857076771557331,0.0023809841368347406
-"i was aware that michael keaton did a fantastic job as head of the spotlight team at the boston globe, but i had no idea what is strange, but powerful performance ruffalo would deliver",0.010828903,0.0014438721274677,0.3194444444444445,0.122,False,0.0005969921476207674,0.0005401418311521411,0.0006866332259960473
-"he portrays michael resendiz, who was the lead writer and lead reporter of the opening story about the scandals",0.031529333,0.0007354528981538,0.4444444444444445,0.151,False,0.0007350133382715285,0.0005942318239249289,0.00036121587618254125
-ruffalo plays him as an eccentric but also very lovable character who absolutely lives for his field of work from the spotlight team,0.06771983,0.0001053925612106,0.287037037037037,0.0,False,0.0008548923651687801,0.00114868872333318,0.00550925824791193
-he is the most fleshed out character,0.22598907,3.3441870384138895e-05,0.1666666666666666,0.0,False,0.0008595592225901783,0.049269020557403564,0.2533586919307709
-"as mentioned before, keaton is also great, and yet another surprise for me, liev schreiber",0.019158829,0.0001304590612044,0.0,0.0,False,0.0007188959280028939,0.001755441422574222,0.0007328513893298805
-"by the way, a great name for his role as editor of the boston globe",0.008052262,0.0007902355699596,0.0,0.0,False,0.0007126564742065966,0.00046040903544053435,0.00043109734542667866
-"because shabba means writer, in germany, the whole cast forms a greater samba, and it's nice to see that the people involved are not written as superheroes but they too have flaws and are only human",0.13835071,0.0392249295135087,0.3,0.0,False,0.0009617088944651186,0.0006591724813915789,0.00551261892542243
-they also very few moments that feel sensational in any way,0.09387396,0.999552290253975,0.3314814814814815,0.0,False,0.0007842989289201796,0.00035570590989664197,0.00048520785639993846
-"most of the time, the facts and a true story speak for themselves",0.017006932,0.0072980771967724,0.2083333333333333,0.0,False,0.000610372400842607,0.00034631515154615045,0.0004045582318212837
-i am here because i care,0.034104515,0.0011198853796285,0.4444444444444445,0.0,False,0.1616813987493515,0.004165791440755129,0.003285110229626298
-we're going to tell this story,0.02655065,0.0005477671068803,0.4444444444444445,0.0,False,0.0008515992667526007,0.00039373169420287013,0.0003536158474162221
-we're going to tell it right,0.026722329,0.0013150821792236,0.2857142857142857,0.0,False,0.0007640243857167661,0.000394266564399004,0.0007372715044766665
-"spotlight takes the audience and a real-life subject seriously, and i think it's a great movie",0.033246122,0.0,0.3888888888888889,0.086,False,0.0005784036475233734,0.0007224004366435111,0.0003988553653471172
-"are you on the same page or other things you didn't like that much? please tell me in the comments below, and my next movie review from the via nada will be a pretty strange one, the lobster",0.13296685,0.998942885189916,0.4189814814814814,0.09,False,0.001080682734027505,0.002198902191594243,0.0022194941993802786
+"hi guys, my name is jimmy cage, and right now the vn rd",0.09065199,0.0,0.0,0.0,False,0.0008729046676307,0.0157174244523048,0.0060615371912717
+"vienna international film festival is right on my doorstep, and today i want to talk about a great movie called spotlight, the boston priest molested kids in six different parishes",0.22157386,0.0,0.0,0.077,False,0.00102432933636,0.2813504636287689,0.6028059720993042
+"over the last 30 years, the church found out about it and did nothing",0.043375164,0.9987093210220337,0.0,0.0,False,0.0010367092909291,0.0013689565239474,0.000672283291351
+we haven't committed any long-term investigative resources to the case,0.014299706,0.9995136260986328,0.0,0.168,False,0.0005960935377515,0.0003904806508217,0.0002865665010176
+"no, we haven't and that's the kind of thing you're a team with you",0.027409043,0.0,0.0,0.0,False,0.0009848918998613,0.0013603314291685,0.0047685601748526
+"spotlight is the newest film of director tom mccarthy, whose last movie was the magnificent cobbler, wait, what",0.04165838,0.0,0.0,0.0,False,0.0008412824245169,0.0005398183711804,0.0026257494464516
+"yeah, it's the same director and i don't know what happened there, but maybe i don't really want to know",0.03616466,0.0,0.0,0.078,False,0.0005969756748527,0.0011580327991396,0.0003677626955322
+so let's just forget about that because spotlight is wonderfully classic filmmaking,0.05613239,0.0,0.0,0.135,False,0.0005908278399147,0.0003282614343333,0.0005996547406539
+"first, you take a great story",0.04406188,0.0,0.0,0.0,False,0.0006578207248821,0.0004052360018249,0.0008942990098148
+everybody's going to be interested in this,0.040628307,0.0,0.0,0.0,False,0.0005852852482348,0.0005375637556426,0.0011329483240842
+"obviously, the church will fight us very hard",0.22333995,0.7691764235496521,0.1895833333333333,0.417,False,0.0633082836866378,0.0235083159059286,0.0070585329085588
+in this case,0.017492844,0.8150217533111572,0.0,0.0,False,0.0006773300701752,0.0003793910727836,0.001530576730147
+that's the actual events of how the boston globe uncovered a massive scandal of child molestation and cover up within the local catholic archdiocese,0.1539292,0.0,0.0,0.209,False,0.0034603176172822,0.034860361367464,0.0321705006062984
+"second transform it into a gripping and leia baleia unfolding screenplay, and then a third cast a bunch of great actors for all the lead roles",0.11729682,0.0,0.0,0.0,False,0.0006948657683096,0.0003891407977789,0.0020013046450912
+"well, these are only the basics, but i built a strong foundation for the whole movie",0.031185975,0.0,0.0,0.0,False,0.0005653586704283,0.0004340648883953,0.0002303676592418
+spotlight is very much in the vein of great biographical thrillers,0.084745035,0.0,0.0,0.0,False,0.0007195473881438,0.000500933791045,0.0004638494574464
+"like all the president's men, it's done slow and then keeps on building tension, drama, revelations, and also satisfaction",0.22990796,0.0,0.3,0.097,False,0.0006514699780382,0.0022470795083791,0.0043703713454306
+that's what these stories are born,0.04234509,0.0,0.0,0.0,False,0.0008467661100439,0.0006654667085967,0.0010420837206766
+you're going to give me the names and the names of their victims,0.09709594,0.9984188079833984,0.0,0.161,False,0.0015297309728339,0.0081955650821328,0.0047399825416505
+are you threatening me? i was doing my job,0.2995453,0.0,0.0,0.298,False,0.0531396009027957,0.0381371118128299,0.1336714774370193
+"yeah, you never more nose, suspense mystery, and also a lot of hard work",0.2712817,0.9512488842010498,0.2708333333333333,0.09,False,0.0128558669239282,0.0049691060557961,0.041770439594984
+i think that's the main reason why i'm really into stuff like this,0.024147147,0.0,0.0,0.0,False,0.0007087822887115,0.001152554526925,0.0033334912732243
+"the people involved, the journalists of the boston globe laughed their jobs, and it's great to see what they can accomplish when working together",0.025863936,0.0,0.0,0.0,False,0.0005310328560881,0.0004547836724668,0.0026963057462126
+"it's a well-crafted story with, of course a groundbreaking pulitzer prize-winning source material",0.042001735,0.0,0.0,0.0,False,0.0005849450826644,0.0003868951753247,0.0007066193502396
+and it's so important to tell it because now roughly 10 years later those molestation scandals are still around and they keep coming,0.089577995,0.0,0.0,0.214,False,0.0022663364652544,0.0012508424697443,0.0015795106301084
+"the movie shows how important investigative journalism is, but also more in general, their victims should never be silenced, and that even big institutions like the church must be challenged and fought when doing wrong",0.10461388,0.0,0.0,0.257,False,0.0006593588041141,0.0013386708451434,0.0007277042604982
+"that said, let's talk about the performances",0.021796638,0.0,0.0,0.0,False,0.0005948491743765,0.0003666245029307,0.0006141154444776
+"i'm herself, was totally surprised by mark ruffalo",0.030327583,0.0,0.0,0.0,False,0.0007361250463873,0.0018570767715573,0.0023809841368347
+"i was aware that michael keaton did a fantastic job as head of the spotlight team at the boston globe, but i had no idea what is strange, but powerful performance ruffalo would deliver",0.010828903,0.0,0.0,0.122,False,0.0005969921476207,0.0005401418311521,0.000686633225996
+"he portrays michael resendiz, who was the lead writer and lead reporter of the opening story about the scandals",0.031529333,0.0,0.0,0.151,False,0.0007350133382715,0.0005942318239249,0.0003612158761825
+ruffalo plays him as an eccentric but also very lovable character who absolutely lives for his field of work from the spotlight team,0.06771983,0.0,0.0,0.0,False,0.0008548923651687,0.0011486887233331,0.0055092582479119
+he is the most fleshed out character,0.22598907,0.0,0.0,0.0,False,0.0008595592225901,0.0492690205574035,0.2533586919307709
+"as mentioned before, keaton is also great, and yet another surprise for me, liev schreiber",0.019158829,0.0,0.0,0.0,False,0.0007188959280028,0.0017554414225742,0.0007328513893298
+"by the way, a great name for his role as editor of the boston globe",0.008052262,0.0,0.0,0.0,False,0.0007126564742065,0.0004604090354405,0.0004310973454266
+"because shabba means writer, in germany, the whole cast forms a greater samba, and it's nice to see that the people involved are not written as superheroes but they too have flaws and are only human",0.13835071,0.0,0.0,0.0,False,0.0009617088944651,0.0006591724813915,0.0055126189254224
+they also very few moments that feel sensational in any way,0.09387396,0.9991046786308289,0.0,0.0,False,0.0007842989289201,0.0003557059098966,0.0004852078563999
+"most of the time, the facts and a true story speak for themselves",0.017006932,0.0,0.0,0.0,False,0.0006103724008426,0.0003463151515461,0.0004045582318212
+i am here because i care,0.034104515,0.0,0.0,0.0,False,0.1616813987493515,0.0041657914407551,0.0032851102296262
+we're going to tell this story,0.02655065,0.0,0.0,0.0,False,0.0008515992667526,0.0003937316942028,0.0003536158474162
+we're going to tell it right,0.026722329,0.0,0.0,0.0,False,0.0007640243857167,0.000394266564399,0.0007372715044766
+"spotlight takes the audience and a real-life subject seriously, and i think it's a great movie",0.033246122,0.0,0.0,0.086,False,0.0005784036475233,0.0007224004366435,0.0003988553653471
+"are you on the same page or other things you didn't like that much? please tell me in the comments below, and my next movie review from the via nada will be a pretty strange one, the lobster",0.13296685,0.9978860020637512,0.0,0.09,False,0.0010806827340275,0.0021989021915942,0.0022194941993802

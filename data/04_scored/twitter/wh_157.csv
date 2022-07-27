@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-that nap . now time to play some soccer . it looks great up here in indianapolis .,0.033761155,0.0,0.0,0.0,0.000876108999364,0.000689348031301,0.0020068599842488,False
+that nap . now time to play some soccer . it looks great up here in indianapolis .,0.033761155,0.793732225894928,0.0,0.0,0.000876108999364,0.000689348031301,0.0020068599842488,False

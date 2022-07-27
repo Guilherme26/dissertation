@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user act like they matter . you have like 20 days left . and you have 2 classes a day haha,0.37221906,0.0,0.0,0.0,0.043896447867155,0.0042478069663047,0.0008745364029891,False
+@user act like they matter . you have like 20 days left . and you have 2 classes a day haha,0.37221906,0.7134888768196106,0.0,0.0,0.043896447867155,0.0042478069663047,0.0008745364029891,False

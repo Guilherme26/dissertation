@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"im really lost with my soul , << where my boyfriend ugh",0.07251463,0.0,0.0,0.35,0.0482530295848846,0.0299411173909902,0.0414230152964592,False
+"im really lost with my soul , << where my boyfriend ugh",0.07251463,0.9993224143981934,0.0,0.35,0.0482530295848846,0.0299411173909902,0.0414230152964592,False

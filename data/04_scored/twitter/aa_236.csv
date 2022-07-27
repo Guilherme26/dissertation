@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-cramps got me bent over,0.17034957,0.0,0.0,0.0,0.0141193801537156,0.0115072932094335,0.0472067669034004,False
+cramps got me bent over,0.17034957,0.9999871253967285,0.0,0.0,0.0141193801537156,0.0115072932094335,0.0472067669034004,False

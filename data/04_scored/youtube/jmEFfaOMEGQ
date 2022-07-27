@@ -1,72 +1,72 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"get out, get out",0.14956708,0.9882314611627848,0.5,0.0,False,0.8014220595359802,0.10667684674263,0.001594209810718894
-"get out is the directorial debut of jordan peele, you may know from key & peele, a very, very hilarious sketch comedy show that i've been a big fan of",0.09172598,2.831239527394001e-05,0.3916666666666666,0.0,False,0.0013679151888936758,0.0006370627670548856,0.0007531550945714116
-"i like the movie keanu, i didn't love it, but i really think this guy's talented",0.06132676,0.1258624253625655,0.2666666666666667,0.102,False,0.0006134461727924645,0.0012642225483432412,0.0009278936195187271
-as well as keegan,0.029125832,0.009624158019167,0.5,0.0,False,0.0014233340043574572,0.0007892509456723928,0.0043397932313382626
-they're both hilarious,0.1550967,0.0001316973418058,0.25,0.0,False,0.006569379009306431,0.0006727883592247963,0.03654312342405319
-so i was very curious to see where jordan peele could bring to a horror film and this is definitely told from a very unique perspective we don't commonly see in genre filmmaking,0.1008549,3.325961381654426e-05,0.4928125,0.095,False,0.0006162126082926989,0.000539835833478719,0.0004279990680515766
-"at the center of the film is a mantid in the middle of an interracial relationship and he's told by a girlfriend he's about to meet her family for the first time, although they are unaware of the fact that he's black",0.28923595,0.2448728338335388,0.5016666666666667,0.042,False,0.06977513432502747,0.23279379308223724,0.1642208844423294
-"and so that really makes him feel awkward when he gets there, though all seems okay for a while until he begins to realize there's some sinister stuff going on behind the scenes",0.13700475,0.9849343784243098,0.58,0.147,False,0.0005988979246467352,0.00045350202708505094,0.0018421306740492582
-i'm a big fan of horror,0.19338597,0.0007846407818655,0.5,0.37,False,0.004447292070835829,0.005084109026938677,0.0039421250112354755
-"you guys know that i've loved these movies in my entire life, and when a good one comes along, it gives me the chills",0.08050597,8.228476142247196e-05,0.2666666666666667,0.0,False,0.0006778056849725544,0.0017313038697466254,0.0008675844874233007
-it gives me the tingles,0.2712817,0.0002926607595685,0.5,0.0,False,0.021310878917574883,0.004328272305428982,0.013152997009456158
-"it gives me something to think about and talk about, and it inspires me",0.027752401,0.0003780151806891,0.5,0.0,False,0.0005667252698913217,0.00044701126171275973,0.0005052754422649741
-"that's why when i saw the trailer for this movie, i was particularly enticed because it's definitely a courageous viewpoint",0.042001735,6.485028643799311e-05,0.4583333333333333,0.0,False,0.000560626620426774,0.0003775677178055048,0.0015612890711054206
-you don't commonly see films like this told from this perspective,0.050242316,0.018875456693837,0.65,0.0,False,0.0006949870148673654,0.0004671715141739696,0.0006750610191375017
-"and i got to say, walking out of it",0.06372416,0.9982943420986125,0.5,0.0,False,0.0017433546017855406,0.0013317257398739457,0.001899761613458395
-i'm really impressed with jordan peele and i cannot wait to see what else he does,0.09655894,0.0001822722205214,0.0,0.0,False,0.000693650683388114,0.0008242296171374619,0.000860088097397238
-"this is a very special debut because not only does he show that he understands how to direct genre films, how to make a horror scene interesting or fun, particularly the fantastic opening scene",0.061726328,0.0,0.3620748299319727,0.081,False,0.000613995420280844,0.00038711284287273884,0.000503622111864388
-"that to my knowledge, was one take which i really liked, but also that his singular voice can be maintained and come through your stereotypical genre filmmaking",0.0741129,0.000160993220284,0.475,0.0,False,0.0006043169996701181,0.0004420397453941405,0.0005378343630582094
-"because yes, this film has a lot of horror tropes, jump-scares things popping out of you",0.24418297,0.9124549147457154,0.5,0.181,False,0.017394334077835083,0.003040110692381859,0.009834344498813152
-"people walking past the hallway corridor, accompanied by a loud jolt of music, but all through that it maintains its originality because of its central story, and that unique perspective is told through quite a bit of racial commentary and satire",0.13924801,0.002065880976836,0.471875,0.0,False,0.0005836397176608443,0.00047713881940580904,0.0009789402829483151
-"because this film definitely has a satirical edge to it, and there are a lot of moments throughout the movie",0.08796701,0.0006194156035511,0.5,0.0,False,0.0005927144666202366,0.0003457268176134676,0.0005539548583328724
-"they cause some serious laughter to come from the entire audience because it understands that, although this is a over the top for a movie with some very sinister elements behind the scenes, there's definitely something to be said about the awkwardness that one feels when he's in the middle of something that he's not entirely used to, and in this case, jordan peele had said that he does sometimes feel very awkward when he's the only black person around",0.31725118,8.097345048346843e-05,0.5831818181818182,0.101,False,0.003854622133076191,0.1459072083234787,0.07958997786045074
-and so we wanted to tell a story from the perspective of somebody dealing with that,0.027237365,0.7953601825440195,0.5,0.0,False,0.0005439812084659934,0.0003466613416094333,0.0003775997902266681
-"see, i grew up in a very mixed race environment",0.104076885,0.9013352066006148,0.5,0.0,False,0.0007341672899201512,0.0005938773974776268,0.0012432086514309049
-"i had tons of friends of color, so i never really saw this myself",0.355017,0.998109357848649,0.55,0.0,False,0.0007062844233587384,0.002537607215344906,0.004237432032823563
-"personally, i grew up in a very all-inclusive family that believed that everyone is people",0.018048171,0.002076282056784,0.45,0.0,False,0.0006958628073334694,0.00040891498792916536,0.0003143666253890842
-we're all human and like it doesn't matter and i still feel that way and i'm really really grateful for that upbringing because i've since learned as an adult that that's rare,0.090114996,0.0004048076473746,0.425,0.03,False,0.0006754078785888851,0.0006169389234855771,0.0007652387139387429
-"so seeing a film like this can sometimes get under my skin, because i genuinely don't understand racism, and that's because i never was really exposed to it on a full scale, so when i see it in movies like this, i have a hard time connecting with it and that's why i am so glad that jordan peele wrote and directed this movie because he has taken this aspect of the story that could get under a lot of people's skin and made it so refreshing from his viewpoint because he has some amazing comic relief from lil rel howery, who stole every scene he was in this guy-- look for him, man, he is going to be in so much",0.20009461,0.0014394319782484,0.349537037037037,0.01,False,0.0015572136035189033,0.0013765698531642556,0.0018613720312714577
-now he was so fricking hilarious,0.39230084,0.0002225652293745,0.25,0.0,False,0.6461106538772583,0.625440239906311,0.7675601243972778
-in this movie,0.028267438,8.711276987971226e-05,0.5,0.0,False,0.0007347618811763823,0.0004763723409269005,0.0006066389032639563
-he had cane stitches in virtually every single sequence,0.21980777,0.0305894271144769,0.5357142857142857,0.0,False,0.0007441806956194341,0.0004334775439929217,0.012955798767507076
-"so jordan peele understands the seriousness of this subject matter, but also he is able to find considerable humor in it, and that was so refreshing",0.10031791,0.0001748811952289,0.3833333333333333,0.039,False,0.0006234497996047139,0.00037188248825259507,0.0006034620455466211
-"daniel kaluga plays the lead character, and i apologize, sir",0.048525527,0.9981895266310562,0.5,0.0,False,0.0006722768885083497,0.000996697461232543,0.0005373736494220793
-"if i said your name incorrectly, i thought he was brilliant in the film",0.053335425,0.2452012278161952,0.0499999999999999,0.0,False,0.000687004707287997,0.0004488533013500273,0.0020394031889736652
-i didn't realize until after i saw it that he's actually from london,0.044748597,0.0618142439839438,0.5,0.0,False,0.0006650117575190961,0.0005651444662362337,0.0005226605571806431
-his accent is perfect,0.032559406,0.0004840525516203,0.0,0.0,False,0.0007217312813736498,0.0005536009557545185,0.0017248046351596713
-i didn't even know for a second he was from the uk,0.049212243,0.9692774748252142,0.5,0.0,False,0.0006893174722790718,0.008520454168319702,0.0011958390241488814
-fantastic performance,0.007739889,0.0016133594927944,0.3,0.0,False,0.0006270948215387762,0.0005177001003175974,0.0003705729031935334
-bradley whitford is also really funny and good in this film,0.03049926,0.000106722828922,0.2625,0.0,False,0.0006668675341643393,0.00048049597535282373,0.0009169618133455515
-"really all around, the performances are very strong",0.05373499,0.0017394241580668,0.3091666666666666,0.0,False,0.0005610882071778178,0.00032511085737496614,0.0006383457803167403
-there's a good sense to the horror as well towards the third act,0.13476147,0.0352226760947539,0.325,0.198,False,0.000796702632214874,0.0005072300555184484,0.0005171371158212423
-that builds to some really satisfying moments that had a lot of people in my audience cheering,0.08447654,0.0003168902094187,0.25,0.0,False,0.0007032325374893844,0.00032919534714892507,0.0005669751553796232
-"as for issues with this movie, there was a shot in the trailer of a roaring deer skeletal monster, and i was really enticed by that and i was excited to see where that would play into this film",0.10461388,0.000451865828572,0.35625,0.0,False,0.000551847624592483,0.000871417170856148,0.001291142776608467
-"it's not in the movie, though i hate when trailers do that when i insert things in their trailer that end up just being on the cutting room floor road",0.2712817,0.9997266810767818,0.85,0.157,False,0.0028558659832924604,0.011753620579838753,0.0010671421186998487
-"one, excuse me, that was a still getting over that cold",0.083939545,0.99936994489633,0.6625,0.0,False,0.003911673091351986,0.0011399122886359692,0.0041052792221307755
-sorry,0.020963646,0.9990517433759724,0.75,1.0,False,0.0011068538296967745,0.0004733956593554467,0.00045304838567972183
-also sometimes the pacing does suffer,0.09494796,0.9998924427004804,0.5,0.412,False,0.0023573068901896477,0.0004404080391395837,0.0024142691399902105
-"there are a lot of sequences that are just very weird that are meant to make you feel like you're watching a very awkward episode of the twilight zone and sometimes it works, but there are other times where you jump between tones a little too quickly",0.07091636,0.9999421831085984,0.6409166666666667,0.06,False,0.0006784800789318979,0.00036074078525416553,0.0008416761411353946
-"also, there's some scares in the movie that in retrospect, don't really make sense",0.1024659,0.9990402992077776,0.4,0.156,False,0.000613865558989346,0.00039193921838887036,0.0006096886354498565
-"there's one sequence where this guy is just running at full speed towards our main character, and then he just kind of darts to the right instantly",0.16035037,0.9963437670768448,0.3597619047619048,0.0,False,0.0006366281886585057,0.0008656361605972052,0.00459093414247036
-in retrospect,0.025692256,0.0121372258287246,0.5,0.0,False,0.0006328741437755525,0.00033278000773862004,0.0008818220812827349
-"once i know what's going on under the surface of this movie, i don't really get what's happening there",0.050242316,0.999754069593894,0.4,0.0,False,0.0006119710742495954,0.0006501451134681702,0.0006663510575890541
-it seemed like it was just a scare meant for the audience and it doesn't really do much for the story,0.060527626,0.99998199927711,0.4,0.13,False,0.000642738479655236,0.00038208990008570254,0.0004088013665750623
-i think you'll enjoy yourself,0.124380715,0.0013136653381894,0.3,0.0,False,0.0009359589894302189,0.01240315567702055,0.0014853996690362692
-i'm impressed with the way jordan peele handled this directorial debut,0.044405237,1.3411134603445266e-05,0.0,0.0,False,0.0005802977248094976,0.0004715055110864341,0.00043288496090099216
-"his voice is still heard, while also being a very entertaining genre film for horror fans",0.10892494,0.00056583067018,0.175,0.177,False,0.000810581143014133,0.0004644170985557139,0.00174627301748842
-the pacing does suffer,0.13879937,0.9998585274311944,0.5,0.538,False,0.033789217472076416,0.0005985318566672504,0.018591120839118958
-"sometimes it's not a perfect tone, and sometimes the humor does feel a little tacked on and i'm looking forward to seeing it again",0.045778666,0.2149972069076999,0.671875,0.111,False,0.0005925953155383468,0.0008645225316286087,0.0004243156872689724
-i'm going to give get out a b+ guys,0.2459383,0.966955321967367,0.5,0.0,False,0.08529162406921387,0.032574623823165894,0.29456180334091187
-thank you so much as always for watching,0.02637897,0.0164442564104031,0.4,0.0,False,0.000656270538456738,0.0004350694944150746,0.0003932648687623441
-i do hope you checked out my review of angel's egg,0.043375164,0.0182878105780354,0.5,0.0,False,0.0006404576706700027,0.018900124356150627,0.0016697030514478683
-i did a very in-depth analysis of a 1985 anime film directed by mamoru oshii that i think is very special,0.025863936,4.076984919447361e-05,0.3339285714285714,0.0,False,0.0006156475865282118,0.0006013379897922277,0.00039519224083051085
-i thank you also for all the people who have reached out to criterion,0.024833864,0.0113046625925427,0.5,0.0,False,0.0005883174017071724,0.00035084490082226694,0.0004080324142705649
-hopefully we'll get a release one day if they can notice us,0.052136723,0.9784617774319097,0.5,0.0,False,0.001602213946171105,0.0005855511408299208,0.0002838939253706485
-"little people here, you know, scrambling for our anime or whatever",0.24242763,0.9774529322819956,0.59375,0.0,False,0.0013413975248113275,0.001616778550669551,0.030931711196899414
-"but guys, thank you so much as always for watching",0.04268845,0.0112534022558362,0.4,0.0,False,0.0006199866766110063,0.000842941110022366,0.0005121929571032524
-i do hope you check out that angels egg video,0.15626417,0.015748546352219,0.5,0.0,False,0.0006923298351466656,0.022905100136995316,0.006545484997332096
-i'm gonna have a link to that in a second,0.03358948,0.0026411292437598,0.5,0.0,False,0.0006767735467292368,0.0004839980392716825,0.0008687885128892958
-you guys are the best,0.05133759,0.0005578137919393,0.0,0.0,False,0.001139054773375392,0.0006793387001380324,0.012780347838997841
-"thank you very much, and if you liked this, you can click right here and get stuck",0.22979778,0.2002785164829401,0.309047619047619,0.094,False,0.0008330846321769059,0.13394764065742493,0.02516397088766098
-mine eyes you,0.13296685,0.000545028510284,0.5,0.0,False,0.02708326280117035,0.008170120418071747,0.031184805557131767
+"get out, get out",0.14956708,0.9764630794525146,0.0,0.0,False,0.8014220595359802,0.10667684674263,0.0015942098107188
+"get out is the directorial debut of jordan peele, you may know from key & peele, a very, very hilarious sketch comedy show that i've been a big fan of",0.09172598,0.0,0.0,0.0,False,0.0013679151888936,0.0006370627670548,0.0007531550945714
+"i like the movie keanu, i didn't love it, but i really think this guy's talented",0.06132676,0.0,0.0,0.102,False,0.0006134461727924,0.0012642225483432,0.0009278936195187
+as well as keegan,0.029125832,0.0,0.0,0.0,False,0.0014233340043574,0.0007892509456723,0.0043397932313382
+they're both hilarious,0.1550967,0.0,0.0,0.0,False,0.0065693790093064,0.0006727883592247,0.0365431234240531
+so i was very curious to see where jordan peele could bring to a horror film and this is definitely told from a very unique perspective we don't commonly see in genre filmmaking,0.1008549,0.0,0.0,0.095,False,0.0006162126082926,0.0005398358334787,0.0004279990680515
+"at the center of the film is a mantid in the middle of an interracial relationship and he's told by a girlfriend he's about to meet her family for the first time, although they are unaware of the fact that he's black",0.28923595,0.0,0.0033333333333333,0.042,False,0.0697751343250274,0.2327937930822372,0.1642208844423294
+"and so that really makes him feel awkward when he gets there, though all seems okay for a while until he begins to realize there's some sinister stuff going on behind the scenes",0.13700475,0.9698689579963684,0.16,0.147,False,0.0005988979246467,0.000453502027085,0.0018421306740492
+i'm a big fan of horror,0.19338597,0.0,0.0,0.37,False,0.0044472920708358,0.0050841090269386,0.0039421250112354
+"you guys know that i've loved these movies in my entire life, and when a good one comes along, it gives me the chills",0.08050597,0.0,0.0,0.0,False,0.0006778056849725,0.0017313038697466,0.0008675844874233
+it gives me the tingles,0.2712817,0.0,0.0,0.0,False,0.0213108789175748,0.0043282723054289,0.0131529970094561
+"it gives me something to think about and talk about, and it inspires me",0.027752401,0.0,0.0,0.0,False,0.0005667252698913,0.0004470112617127,0.0005052754422649
+"that's why when i saw the trailer for this movie, i was particularly enticed because it's definitely a courageous viewpoint",0.042001735,0.0,0.0,0.0,False,0.0005606266204267,0.0003775677178055,0.0015612890711054
+you don't commonly see films like this told from this perspective,0.050242316,0.0,0.3,0.0,False,0.0006949870148673,0.0004671715141739,0.0006750610191375
+"and i got to say, walking out of it",0.06372416,0.9965887069702148,0.0,0.0,False,0.0017433546017855,0.0013317257398739,0.0018997616134583
+i'm really impressed with jordan peele and i cannot wait to see what else he does,0.09655894,0.0,0.0,0.0,False,0.0006936506833881,0.0008242296171374,0.0008600880973972
+"this is a very special debut because not only does he show that he understands how to direct genre films, how to make a horror scene interesting or fun, particularly the fantastic opening scene",0.061726328,0.0,0.0,0.081,False,0.0006139954202808,0.0003871128428727,0.0005036221118643
+"that to my knowledge, was one take which i really liked, but also that his singular voice can be maintained and come through your stereotypical genre filmmaking",0.0741129,0.0,0.0,0.0,False,0.0006043169996701,0.0004420397453941,0.0005378343630582
+"because yes, this film has a lot of horror tropes, jump-scares things popping out of you",0.24418297,0.8249109983444214,0.0,0.181,False,0.017394334077835,0.0030401106923818,0.0098343444988131
+"people walking past the hallway corridor, accompanied by a loud jolt of music, but all through that it maintains its originality because of its central story, and that unique perspective is told through quite a bit of racial commentary and satire",0.13924801,0.0,0.0,0.0,False,0.0005836397176608,0.0004771388194058,0.0009789402829483
+"because this film definitely has a satirical edge to it, and there are a lot of moments throughout the movie",0.08796701,0.0,0.0,0.0,False,0.0005927144666202,0.0003457268176134,0.0005539548583328
+"they cause some serious laughter to come from the entire audience because it understands that, although this is a over the top for a movie with some very sinister elements behind the scenes, there's definitely something to be said about the awkwardness that one feels when he's in the middle of something that he's not entirely used to, and in this case, jordan peele had said that he does sometimes feel very awkward when he's the only black person around",0.31725118,0.0,0.1663636363636363,0.101,False,0.0038546221330761,0.1459072083234787,0.0795899778604507
+and so we wanted to tell a story from the perspective of somebody dealing with that,0.027237365,0.5907230973243713,0.0,0.0,False,0.0005439812084659,0.0003466613416094,0.0003775997902266
+"see, i grew up in a very mixed race environment",0.104076885,0.8026717305183411,0.0,0.0,False,0.0007341672899201,0.0005938773974776,0.0012432086514309
+"i had tons of friends of color, so i never really saw this myself",0.355017,0.996218740940094,0.1,0.0,False,0.0007062844233587,0.0025376072153449,0.0042374320328235
+"personally, i grew up in a very all-inclusive family that believed that everyone is people",0.018048171,0.0,0.0,0.0,False,0.0006958628073334,0.0004089149879291,0.000314366625389
+we're all human and like it doesn't matter and i still feel that way and i'm really really grateful for that upbringing because i've since learned as an adult that that's rare,0.090114996,0.0,0.0,0.03,False,0.0006754078785888,0.0006169389234855,0.0007652387139387
+"so seeing a film like this can sometimes get under my skin, because i genuinely don't understand racism, and that's because i never was really exposed to it on a full scale, so when i see it in movies like this, i have a hard time connecting with it and that's why i am so glad that jordan peele wrote and directed this movie because he has taken this aspect of the story that could get under a lot of people's skin and made it so refreshing from his viewpoint because he has some amazing comic relief from lil rel howery, who stole every scene he was in this guy-- look for him, man, he is going to be in so much",0.20009461,0.0,0.0,0.01,False,0.0015572136035189,0.0013765698531642,0.0018613720312714
+now he was so fricking hilarious,0.39230084,0.0,0.0,0.0,False,0.6461106538772583,0.625440239906311,0.7675601243972778
+in this movie,0.028267438,0.0,0.0,0.0,False,0.0007347618811763,0.0004763723409269,0.0006066389032639
+he had cane stitches in virtually every single sequence,0.21980777,0.0,0.0714285714285714,0.0,False,0.0007441806956194,0.0004334775439929,0.012955798767507
+"so jordan peele understands the seriousness of this subject matter, but also he is able to find considerable humor in it, and that was so refreshing",0.10031791,0.0,0.0,0.039,False,0.0006234497996047,0.0003718824882525,0.0006034620455466
+"daniel kaluga plays the lead character, and i apologize, sir",0.048525527,0.9963790774345398,0.0,0.0,False,0.0006722768885083,0.0009966974612325,0.000537373649422
+"if i said your name incorrectly, i thought he was brilliant in the film",0.053335425,0.0,0.0,0.0,False,0.0006870047072879,0.00044885330135,0.0020394031889736
+i didn't realize until after i saw it that he's actually from london,0.044748597,0.0,0.0,0.0,False,0.000665011757519,0.0005651444662362,0.0005226605571806
+his accent is perfect,0.032559406,0.0,0.0,0.0,False,0.0007217312813736,0.0005536009557545,0.0017248046351596
+i didn't even know for a second he was from the uk,0.049212243,0.9385553598403931,0.0,0.0,False,0.000689317472279,0.0085204541683197,0.0011958390241488
+fantastic performance,0.007739889,0.0,0.0,0.0,False,0.0006270948215387,0.0005177001003175,0.0003705729031935
+bradley whitford is also really funny and good in this film,0.03049926,0.0,0.0,0.0,False,0.0006668675341643,0.0004804959753528,0.0009169618133455
+"really all around, the performances are very strong",0.05373499,0.0,0.0,0.0,False,0.0005610882071778,0.0003251108573749,0.0006383457803167
+there's a good sense to the horror as well towards the third act,0.13476147,0.0,0.0,0.198,False,0.0007967026322148,0.0005072300555184,0.0005171371158212
+that builds to some really satisfying moments that had a lot of people in my audience cheering,0.08447654,0.0,0.0,0.0,False,0.0007032325374893,0.0003291953471489,0.0005669751553796
+"as for issues with this movie, there was a shot in the trailer of a roaring deer skeletal monster, and i was really enticed by that and i was excited to see where that would play into this film",0.10461388,0.0,0.0,0.0,False,0.0005518476245924,0.0008714171708561,0.0012911427766084
+"it's not in the movie, though i hate when trailers do that when i insert things in their trailer that end up just being on the cutting room floor road",0.2712817,0.9994533658027649,0.7,0.157,False,0.0028558659832924,0.0117536205798387,0.0010671421186998
+"one, excuse me, that was a still getting over that cold",0.083939545,0.9987398982048035,0.325,0.0,False,0.0039116730913519,0.0011399122886359,0.0041052792221307
+sorry,0.020963646,0.9981034994125366,0.5,1.0,False,0.0011068538296967,0.0004733956593554,0.0004530483856797
+also sometimes the pacing does suffer,0.09494796,0.9997848868370056,0.0,0.412,False,0.0023573068901896,0.0004404080391395,0.0024142691399902
+"there are a lot of sequences that are just very weird that are meant to make you feel like you're watching a very awkward episode of the twilight zone and sometimes it works, but there are other times where you jump between tones a little too quickly",0.07091636,0.9998843669891357,0.2818333333333334,0.06,False,0.0006784800789318,0.0003607407852541,0.0008416761411353
+"also, there's some scares in the movie that in retrospect, don't really make sense",0.1024659,0.9980806112289429,0.0,0.156,False,0.0006138655589893,0.0003919392183888,0.0006096886354498
+"there's one sequence where this guy is just running at full speed towards our main character, and then he just kind of darts to the right instantly",0.16035037,0.9926875829696655,0.0,0.0,False,0.0006366281886585,0.0008656361605972,0.0045909341424703
+in retrospect,0.025692256,0.0,0.0,0.0,False,0.0006328741437755,0.0003327800077386,0.0008818220812827
+"once i know what's going on under the surface of this movie, i don't really get what's happening there",0.050242316,0.9995081424713135,0.0,0.0,False,0.0006119710742495,0.0006501451134681,0.000666351057589
+it seemed like it was just a scare meant for the audience and it doesn't really do much for the story,0.060527626,0.9999639987945557,0.0,0.13,False,0.0006427384796552,0.0003820899000857,0.000408801366575
+i think you'll enjoy yourself,0.124380715,0.0,0.0,0.0,False,0.0009359589894302,0.0124031556770205,0.0014853996690362
+i'm impressed with the way jordan peele handled this directorial debut,0.044405237,0.0,0.0,0.0,False,0.0005802977248094,0.0004715055110864,0.0004328849609009
+"his voice is still heard, while also being a very entertaining genre film for horror fans",0.10892494,0.0,0.0,0.177,False,0.0008105811430141,0.0004644170985557,0.0017462730174884
+the pacing does suffer,0.13879937,0.9997170567512512,0.0,0.538,False,0.0337892174720764,0.0005985318566672,0.0185911208391189
+"sometimes it's not a perfect tone, and sometimes the humor does feel a little tacked on and i'm looking forward to seeing it again",0.045778666,0.0,0.34375,0.111,False,0.0005925953155383,0.0008645225316286,0.0004243156872689
+i'm going to give get out a b+ guys,0.2459383,0.9339110851287842,0.0,0.0,False,0.0852916240692138,0.0325746238231658,0.2945618033409118
+thank you so much as always for watching,0.02637897,0.0,0.0,0.0,False,0.0006562705384567,0.000435069494415,0.0003932648687623
+i do hope you checked out my review of angel's egg,0.043375164,0.0,0.0,0.0,False,0.00064045767067,0.0189001243561506,0.0016697030514478
+i did a very in-depth analysis of a 1985 anime film directed by mamoru oshii that i think is very special,0.025863936,0.0,0.0,0.0,False,0.0006156475865282,0.0006013379897922,0.0003951922408305
+i thank you also for all the people who have reached out to criterion,0.024833864,0.0,0.0,0.0,False,0.0005883174017071,0.0003508449008222,0.0004080324142705
+hopefully we'll get a release one day if they can notice us,0.052136723,0.9569238424301147,0.0,0.0,False,0.0016022139461711,0.0005855511408299,0.0002838939253706
+"little people here, you know, scrambling for our anime or whatever",0.24242763,0.954906165599823,0.1875,0.0,False,0.0013413975248113,0.0016167785506695,0.0309317111968994
+"but guys, thank you so much as always for watching",0.04268845,0.0,0.0,0.0,False,0.000619986676611,0.0008429411100223,0.0005121929571032
+i do hope you check out that angels egg video,0.15626417,0.0,0.0,0.0,False,0.0006923298351466,0.0229051001369953,0.006545484997332
+i'm gonna have a link to that in a second,0.03358948,0.0,0.0,0.0,False,0.0006767735467292,0.0004839980392716,0.0008687885128892
+you guys are the best,0.05133759,0.0,0.0,0.0,False,0.0011390547733753,0.000679338700138,0.0127803478389978
+"thank you very much, and if you liked this, you can click right here and get stuck",0.22979778,0.0,0.0,0.094,False,0.0008330846321769,0.1339476406574249,0.0251639708876609
+mine eyes you,0.13296685,0.0,0.0,0.0,False,0.0270832628011703,0.0081701204180717,0.0311848055571317

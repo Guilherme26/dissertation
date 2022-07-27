@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user they got rid of the hate attendant position !!! i don't know what i'm gonna do,0.2995453,0.0,0.0,0.222,0.0647352561354637,0.0049855448305606,0.0025936004240065,False
+@user they got rid of the hate attendant position !!! i don't know what i'm gonna do,0.2995453,0.9998261332511902,0.2046875,0.222,0.0647352561354637,0.0049855448305606,0.0025936004240065,False

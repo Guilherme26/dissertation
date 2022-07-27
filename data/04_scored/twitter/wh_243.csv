@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-long week coming to a close .,0.02124131,0.0,0.0,0.0,0.0015614785952493,0.0004830410180147,0.0003475457197055,False
+long week coming to a close .,0.02124131,0.9973159432411194,0.05,0.0,0.0015614785952493,0.0004830410180147,0.0003475457197055,False

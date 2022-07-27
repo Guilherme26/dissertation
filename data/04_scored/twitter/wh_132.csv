@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user you know what i meant haha,0.064523295,0.0,0.0,0.0,0.0031781329307705,0.0014728850219398,0.0009869034402072,False
+@user you know what i meant haha,0.064523295,0.9896620512008667,0.0,0.0,0.0031781329307705,0.0014728850219398,0.0009869034402072,False

@@ -1,62 +1,62 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-i guess you love movies,0.06132676,0.0049170060755931,0.25,0.0,False,0.0011067193700000644,0.0008503873832523823,0.0005881887627765536
-"i do, too, hi guys, and welcome back to another classic movie review",0.029812546,0.0015865972750284,0.3388888888888889,0.0,False,0.0006421727011911571,0.0006927552167326212,0.0005713293212465942
-and today we're going to talk about all about eve,0.02193547,0.0027158277465895,0.5,0.0,False,0.0008440357632935047,0.0004423449281603098,0.0010917223989963531
-"one of the great films from the 1950s and hollywood's golden era starts betty davis, and baxter and george saunders, and it's about a theatre diva who, as her career goes on, becomes more and more paranoid about her age, and during this time she takes a young fan under her wing called eve, but before too long, margo realizes that eve isn't as fresh-faced and innocent as she seems, is actually a conniving upstart trying to steal her glory",0.14822112,0.8425732494722221,0.334375,0.066,False,0.05358811467885971,0.004593532532453537,0.005825110711157322
-now what does i think about? what about you? now? i was expecting to like this film going into its new on netflix,0.08555053,0.0032098232351515,0.4318181818181818,0.0,False,0.0007247242028824985,0.0007940385257825255,0.003706838935613632
-i've seen all good things about,0.040284947,0.001513161082943,0.15,0.0,False,0.0005732184508815408,0.00032435142202302814,0.0007475654128938913
-it's 100% on tomorrow,0.019019997,0.0016406610950134,0.5,0.0,False,0.0011256481520831585,0.0004376632277853787,0.0002879369421862066
-it's a classic from any other side,0.038911518,0.0019036186935403,0.4895833333333333,0.0,False,0.0011827528942376375,0.0003528499510139227,0.0008034621132537723
-"it's a great film and well, i agree, it's brilliant and it's one of the best films i've seen in a while",0.04406188,0.0003913517200788,0.0499999999999999,0.0,False,0.0005826394772157073,0.00033944964525289834,0.0002844156988430768
-i really really can't rate this film high enough,0.18746567,0.998618720065587,0.44,0.0,False,0.0008902144618332386,0.0004990596207790077,0.00127219851128757
-so this is why i think all about youth is a fantastic movie,0.037194733,0.003871464251506,0.3,0.0,False,0.0009055902482941747,0.0005867657018825412,0.0005266499938443303
-"well, firstly, baek davis as margo, the theatre diva and great actress is fantastic in this movie",0.04234509,0.0002473106825995,0.2583333333333333,0.0,False,0.0008855281048454344,0.0004780614108312875,0.0016773975221440196
-"i mean, she's brilliant",0.050242316,0.0007619004928867,0.353125,0.0,False,0.00092273426707834,0.0003532610717229545,0.007868140935897827
-she's so iconic,0.14956708,0.0006450701872962,0.25,0.0,False,0.0036082614678889513,0.0019169215811416507,0.037162307649850845
-she has great lines of dialogue,0.032559406,0.0007095652845661,0.0999999999999999,0.0,False,0.0005918352981097996,0.0006003518356010318,0.0006933909608051181
-she's really really charismatic and she's got an incredible screen presence watching this movie,0.037023053,0.000767801615465,0.15,0.0,False,0.00058998994063586,0.00042092433432117105,0.001567843253724277
-"this character is so powerful on the screen and i really enjoyed it performance a lot because even though her humor and her cynicism and i kind of sarcasm throughout the film was a really good reshot and razor with a razor sharp, she also had some real good sensitivity and sentimentality to a character regarding to a character, bill, who, they kind of on and off relationship with travel is very integral to her, her as a person, and her as character, because it kind of shows her reasoning for her continued career in theatre and what she really wants to do, and how its kind of covering up her real ambitions of life, and i really enjoyed her performance",0.09279997,6.565743959590067e-05,0.2740384615384615,0.035,False,0.0006375213852152228,0.0007737837731838226,0.0005154531099833548
-specifically,0.012772553,0.0039602195193756,0.5,0.0,False,0.0009110485552810133,0.0004793657863046974,0.0006368989124894142
-i put in a really really great anne baxter plays,0.050242316,0.0013130891846192,0.0999999999999999,0.0,False,0.0008846408454701304,0.0016022041672840714,0.0013402310432866216
-"even that's a very different cat, and in a very different performance is a great foil for betty davis's character",0.09709594,0.0029139922113526,0.3666666666666667,0.0,False,0.0007882355130277574,0.0011368007399141788,0.005299299955368042
-"i really enjoyed her performance a lot, playing that some type in the beginning and almost too innocent for your own good you're looking at and you're like ii",0.06771983,0.0025451124429103,0.2125,0.0,False,0.0009099195012822747,0.0007640579133294523,0.0016400058520957828
-"i don't trust you, and as the film goes along, you understand her scheming and how she's completely heartless and doesn't care about anybody else but herself",0.37083253,0.1920110244891222,0.45,0.198,False,0.017483506351709366,0.03389451652765274,0.02468124032020569
-"no, she wanted to get to the top",0.084745035,0.7752007886760915,0.25,0.0,False,0.003856827039271593,0.0017509583849459887,0.0009353893692605197
-so who she hurt and who she stabbed in the back,0.30788645,0.9982087410646424,0.5,0.422,False,0.47815626859664917,0.2799873650074005,0.44841036200523376
-she goes along,0.062925026,0.0040304965246262,0.5,0.0,False,0.0008710294496268034,0.001108555938117206,0.0022978242486715317
-the character specifically was very interesting,0.024318827,0.0292762440058155,0.175,0.0,False,0.0005693142302334309,0.00032611319329589605,0.00048265073564834893
-in this case is george saunders character who is a theater critic who helps eve become a successful,0.02792408,0.2004174418347508,0.125,0.089,False,0.0010775194969028234,0.0005868274602107704,0.0009833205258473754
-"she does through his reviews, and she, by the end of the film is trying to even take him for a fool, and he pretty much tells her that i got you here and i know things about you that the art room",0.34388447,0.9886709175810476,0.3875,0.062,False,0.017583513632416725,0.7560126781463623,0.5833425521850586
-"i know that your back story that you've told me isn't true, and that i can expose you and i, you know i can destroy you, and it kind of shows that eve's idea of alienating everyone to get to the top, starting everyone in the back",0.39230084,0.9998692513901464,0.440625,0.142,False,0.37492266297340393,0.47556084394454956,0.5428441762924194
-"really, it comes back to bite her in the end, and by the end and a certain theme can definitely show that i won't go into it",0.26817688,0.9899173658056412,0.4482142857142857,0.0,False,0.0013322719605639577,0.005683728959411383,0.13933072984218597
-"obviously, if you haven't seen the film, but really over all the performances are fantastic",0.034791227,0.1593524835291621,0.3999999999999999,0.0,False,0.0005603298777714372,0.00035618708352558315,0.000605959037784487
-they're really really layered,0.18253209,0.0006560677339194,0.4,0.0,False,0.0007978053181432188,0.00039011193439364433,0.0016017213929444551
-i really think there's a lot of great characters throughout this film,0.0358213,0.0001407328323975,0.25,0.0,False,0.0005737213068641722,0.00033026261371560395,0.00030080959550105035
-great ensemble cast,0.07371333,0.0029088659836584,0.0999999999999999,0.0,False,0.0010158090153709054,0.00041213832446374,0.0002805550175253302
-there's also a very early before words from marilyn monroe in this film,0.031701013,0.2262183716966901,0.435,0.0,False,0.000664321007207036,0.0003448937786743045,0.0024699666537344456
-she's actually very good in the live in the small time that she's in,0.031701013,0.0017536467298333,0.3672727272727273,0.0,False,0.0006518491427414119,0.00043639945215545595,0.0039197541773319244
-it is not a very important role,0.1250247,0.999366404217717,0.5769230769230769,0.232,False,0.0008093832875601947,0.00046079212916083634,0.0010321130976080894
-"it's not very big or anything, which is very good washings in it",0.103539884,0.8502715619121044,0.2725,0.0,False,0.0006956132128834724,0.014049147255718708,0.008204946294426918
-and you can you know,0.0253489,0.0068969519152093,0.5,0.0,False,0.0011989579070359468,0.0005015874048694968,0.0006579721230082214
-"it, sort of the start of a meteoric rise becomes star",0.023117077,0.8373461066211251,0.5,0.0,False,0.0008746485109440982,0.00041538168443366885,0.007679264061152935
-but becky davis is definitely the star of this movie,0.029469188,0.0009238237199973,0.5,0.0,False,0.0007735986728221178,0.00043774774530902505,0.005523936823010445
-there's a lot of other good performances,0.0765103,0.0064393168788974,0.35625,0.0,False,0.0005826764390803874,0.00033562039607204497,0.0005938329850323498
-"as i said, but betty davis is probably the best",0.02655065,0.0083458861337269,0.0,0.0,False,0.0006353880162350833,0.000532806443516165,0.001499517122283578
-i think that the script in this movie,0.02193547,0.9129934612581468,0.5,0.0,False,0.0006083973567001522,0.00042718672193586826,0.0003461443411651999
-really,0.015757442,0.0654787965214849,0.4,0.0,False,0.0014107627794146538,0.00037016402347944677,0.0006866139592602849
-what makes it great? it's brilliantly brilliantly written,0.028782474,9.73685225419008e-05,0.0749999999999999,0.0,False,0.0006192095461301506,0.00035534915514290333,0.0013343392638489604
-"it's razor-sharp the dialogues fantastic, cutting some really great insults in this movie and probably some of the best movie insult",0.15859914,0.0009755330516808,0.3,0.225,False,0.0044661047868430614,0.0007043358054943383,0.0012132383417338133
-"or in this film, the overt and all of the actors really deliver these lines so brilliantly and i think that's what makes this feel so good, because some of the lines are really powerful emotionally",0.040284947,9.075211237835566e-05,0.29,0.0,False,0.0006129584508016706,0.00036135915433987975,0.0005966315511614084
-"some of them are cutting and funny, and some of them are just really really well-written and i really enjoyed the script specifically in this new",0.037194733,0.0020296285231415,0.4513636363636363,0.048,False,0.0005780801875516772,0.0010493895970284939,0.0006309911259450018
-it's also pretty well shot as well,0.22069082,0.0009959485515098,0.375,0.0,False,0.0007377613801509142,0.10261767357587814,0.014479350298643112
-"you know, good black-and-white cinematography",0.092262976,0.0,0.15,0.0,False,0.027321496978402138,0.11059149354696274,0.03165443241596222
-that's not really what you what you come for this movie,0.0813051,0.9995024280735118,0.55,0.0,False,0.001289875479415059,0.006299891509115696,0.050275370478630066
-"though it's really the script, the character than the performances that really make already a fantastic fantastic movie",0.033761155,0.0619949883375339,0.35,0.0,False,0.0006433951784856617,0.00035144397406838834,0.0003511279937811196
-"and overall, i loved all",0.022213135,0.0069240732361499,0.325,0.0,False,0.000814670929685235,0.0003431730146985501,0.00028802340966649354
-"evalute is brilliant, a top-notch hollywood drama and i'm going to get it ten out of ten",0.089577995,2.7717393928364784e-05,0.2625,0.0,False,0.0010465731611475348,0.003955057822167873,0.0004352605319581926
-so there you go,0.028782474,0.0072678881354592,0.5,0.0,False,0.0013243954163044691,0.0006892196252010763,0.0011405732948333025
-there's my classic real review,0.03427619,0.0004538201691905,0.4083333333333333,0.0,False,0.0008376791956834495,0.0003628974955063313,0.0003820647543761879
-all about eve,0.020408317,0.000646679584363,0.5,0.0,False,0.0021003626752644777,0.0004784685152117163,0.0005465527647174895
-"hopefully you enjoyed if you did and like subscribe, but your comments down the section below do you like? what about it? what's your favorite hollywood movie of the 1950's for me, it's pretty difficult to make that decision, but i'm probably going to have to go in vertigo, matwork, my favorite hitchcock film and i truly love that movie",0.028954152,0.8916734504739943,0.386111111111111,0.038,False,0.0005913506611250341,0.0004236286331433803,0.000516494968906045
-but all about eve is brilliant and hopefully you enjoyed this video and hopefully i'll see you next time,0.06252546,0.0084163121572245,0.2666666666666667,0.0,False,0.0008024646667763591,0.000444402830908075,0.00043209546129219234
-"goodbye, you",0.046465382,0.9467080647304268,0.5,0.0,False,0.008823915384709835,0.0005468430463224649,0.0033670365810394287
+i guess you love movies,0.06132676,0.0,0.0,0.0,False,0.00110671937,0.0008503873832523,0.0005881887627765
+"i do, too, hi guys, and welcome back to another classic movie review",0.029812546,0.0,0.0,0.0,False,0.0006421727011911,0.0006927552167326,0.0005713293212465
+and today we're going to talk about all about eve,0.02193547,0.0,0.0,0.0,False,0.0008440357632935,0.0004423449281603,0.0010917223989963
+"one of the great films from the 1950s and hollywood's golden era starts betty davis, and baxter and george saunders, and it's about a theatre diva who, as her career goes on, becomes more and more paranoid about her age, and during this time she takes a young fan under her wing called eve, but before too long, margo realizes that eve isn't as fresh-faced and innocent as she seems, is actually a conniving upstart trying to steal her glory",0.14822112,0.6851605176925659,0.0,0.066,False,0.0535881146788597,0.0045935325324535,0.0058251107111573
+now what does i think about? what about you? now? i was expecting to like this film going into its new on netflix,0.08555053,0.0,0.0,0.0,False,0.0007247242028824,0.0007940385257825,0.0037068389356136
+i've seen all good things about,0.040284947,0.0,0.0,0.0,False,0.0005732184508815,0.000324351422023,0.0007475654128938
+it's 100% on tomorrow,0.019019997,0.0,0.0,0.0,False,0.0011256481520831,0.0004376632277853,0.0002879369421862
+it's a classic from any other side,0.038911518,0.0,0.0,0.0,False,0.0011827528942376,0.0003528499510139,0.0008034621132537
+"it's a great film and well, i agree, it's brilliant and it's one of the best films i've seen in a while",0.04406188,0.0,0.0,0.0,False,0.0005826394772157,0.0003394496452528,0.000284415698843
+i really really can't rate this film high enough,0.18746567,0.9972375631332397,0.0,0.0,False,0.0008902144618332,0.000499059620779,0.0012721985112875
+so this is why i think all about youth is a fantastic movie,0.037194733,0.0,0.0,0.0,False,0.0009055902482941,0.0005867657018825,0.0005266499938443
+"well, firstly, baek davis as margo, the theatre diva and great actress is fantastic in this movie",0.04234509,0.0,0.0,0.0,False,0.0008855281048454,0.0004780614108312,0.001677397522144
+"i mean, she's brilliant",0.050242316,0.0,0.0,0.0,False,0.0009227342670783,0.0003532610717229,0.0078681409358978
+she's so iconic,0.14956708,0.0,0.0,0.0,False,0.0036082614678889,0.0019169215811416,0.0371623076498508
+she has great lines of dialogue,0.032559406,0.0,0.0,0.0,False,0.0005918352981097,0.000600351835601,0.0006933909608051
+she's really really charismatic and she's got an incredible screen presence watching this movie,0.037023053,0.0,0.0,0.0,False,0.0005899899406358,0.0004209243343211,0.0015678432537242
+"this character is so powerful on the screen and i really enjoyed it performance a lot because even though her humor and her cynicism and i kind of sarcasm throughout the film was a really good reshot and razor with a razor sharp, she also had some real good sensitivity and sentimentality to a character regarding to a character, bill, who, they kind of on and off relationship with travel is very integral to her, her as a person, and her as character, because it kind of shows her reasoning for her continued career in theatre and what she really wants to do, and how its kind of covering up her real ambitions of life, and i really enjoyed her performance",0.09279997,0.0,0.0,0.035,False,0.0006375213852152,0.0007737837731838,0.0005154531099833
+specifically,0.012772553,0.0,0.0,0.0,False,0.000911048555281,0.0004793657863046,0.0006368989124894
+i put in a really really great anne baxter plays,0.050242316,0.0,0.0,0.0,False,0.0008846408454701,0.001602204167284,0.0013402310432866
+"even that's a very different cat, and in a very different performance is a great foil for betty davis's character",0.09709594,0.0,0.0,0.0,False,0.0007882355130277,0.0011368007399141,0.005299299955368
+"i really enjoyed her performance a lot, playing that some type in the beginning and almost too innocent for your own good you're looking at and you're like ii",0.06771983,0.0,0.0,0.0,False,0.0009099195012822,0.0007640579133294,0.0016400058520957
+"i don't trust you, and as the film goes along, you understand her scheming and how she's completely heartless and doesn't care about anybody else but herself",0.37083253,0.0,0.0,0.198,False,0.0174835063517093,0.0338945165276527,0.0246812403202056
+"no, she wanted to get to the top",0.084745035,0.5504215955734253,0.0,0.0,False,0.0038568270392715,0.0017509583849459,0.0009353893692605
+so who she hurt and who she stabbed in the back,0.30788645,0.9964176416397095,0.0,0.422,False,0.4781562685966491,0.2799873650074005,0.4484103620052337
+she goes along,0.062925026,0.0,0.0,0.0,False,0.0008710294496268,0.0011085559381172,0.0022978242486715
+the character specifically was very interesting,0.024318827,0.0,0.0,0.0,False,0.0005693142302334,0.0003261131932958,0.0004826507356483
+in this case is george saunders character who is a theater critic who helps eve become a successful,0.02792408,0.0,0.0,0.089,False,0.0010775194969028,0.0005868274602107,0.0009833205258473
+"she does through his reviews, and she, by the end of the film is trying to even take him for a fool, and he pretty much tells her that i got you here and i know things about you that the art room",0.34388447,0.9773428440093994,0.0,0.062,False,0.0175835136324167,0.7560126781463623,0.5833425521850586
+"i know that your back story that you've told me isn't true, and that i can expose you and i, you know i can destroy you, and it kind of shows that eve's idea of alienating everyone to get to the top, starting everyone in the back",0.39230084,0.9997385144233704,0.0,0.142,False,0.3749226629734039,0.4755608439445495,0.5428441762924194
+"really, it comes back to bite her in the end, and by the end and a certain theme can definitely show that i won't go into it",0.26817688,0.9798356294631958,0.0,0.0,False,0.0013322719605639,0.0056837289594113,0.1393307298421859
+"obviously, if you haven't seen the film, but really over all the performances are fantastic",0.034791227,0.0,0.0,0.0,False,0.0005603298777714,0.0003561870835255,0.0006059590377844
+they're really really layered,0.18253209,0.0,0.0,0.0,False,0.0007978053181432,0.0003901119343936,0.0016017213929444
+i really think there's a lot of great characters throughout this film,0.0358213,0.0,0.0,0.0,False,0.0005737213068641,0.0003302626137156,0.000300809595501
+great ensemble cast,0.07371333,0.0,0.0,0.0,False,0.0010158090153709,0.0004121383244637,0.0002805550175253
+there's also a very early before words from marilyn monroe in this film,0.031701013,0.0,0.0,0.0,False,0.000664321007207,0.0003448937786743,0.0024699666537344
+she's actually very good in the live in the small time that she's in,0.031701013,0.0,0.0,0.0,False,0.0006518491427414,0.0004363994521554,0.0039197541773319
+it is not a very important role,0.1250247,0.99873286485672,0.1538461538461538,0.232,False,0.0008093832875601,0.0004607921291608,0.001032113097608
+"it's not very big or anything, which is very good washings in it",0.103539884,0.7005564570426941,0.0,0.0,False,0.0006956132128834,0.0140491472557187,0.0082049462944269
+and you can you know,0.0253489,0.0,0.0,0.0,False,0.0011989579070359,0.0005015874048694,0.0006579721230082
+"it, sort of the start of a meteoric rise becomes star",0.023117077,0.6747066974639893,0.0,0.0,False,0.000874648510944,0.0004153816844336,0.0076792640611529
+but becky davis is definitely the star of this movie,0.029469188,0.0,0.0,0.0,False,0.0007735986728221,0.000437747745309,0.0055239368230104
+there's a lot of other good performances,0.0765103,0.0,0.0,0.0,False,0.0005826764390803,0.000335620396072,0.0005938329850323
+"as i said, but betty davis is probably the best",0.02655065,0.0,0.0,0.0,False,0.000635388016235,0.0005328064435161,0.0014995171222835
+i think that the script in this movie,0.02193547,0.8259946703910828,0.0,0.0,False,0.0006083973567001,0.0004271867219358,0.0003461443411651
+really,0.015757442,0.0,0.0,0.0,False,0.0014107627794146,0.0003701640234794,0.0006866139592602
+what makes it great? it's brilliantly brilliantly written,0.028782474,0.0,0.0,0.0,False,0.0006192095461301,0.0003553491551429,0.0013343392638489
+"it's razor-sharp the dialogues fantastic, cutting some really great insults in this movie and probably some of the best movie insult",0.15859914,0.0,0.0,0.225,False,0.004466104786843,0.0007043358054943,0.0012132383417338
+"or in this film, the overt and all of the actors really deliver these lines so brilliantly and i think that's what makes this feel so good, because some of the lines are really powerful emotionally",0.040284947,0.0,0.0,0.0,False,0.0006129584508016,0.0003613591543398,0.0005966315511614
+"some of them are cutting and funny, and some of them are just really really well-written and i really enjoyed the script specifically in this new",0.037194733,0.0,0.0,0.048,False,0.0005780801875516,0.0010493895970284,0.000630991125945
+it's also pretty well shot as well,0.22069082,0.0,0.0,0.0,False,0.0007377613801509,0.1026176735758781,0.0144793502986431
+"you know, good black-and-white cinematography",0.092262976,0.0,0.0,0.0,False,0.0273214969784021,0.1105914935469627,0.0316544324159622
+that's not really what you what you come for this movie,0.0813051,0.9990049004554749,0.1,0.0,False,0.001289875479415,0.0062998915091156,0.05027537047863
+"though it's really the script, the character than the performances that really make already a fantastic fantastic movie",0.033761155,0.0,0.0,0.0,False,0.0006433951784856,0.0003514439740683,0.0003511279937811
+"and overall, i loved all",0.022213135,0.0,0.0,0.0,False,0.0008146709296852,0.0003431730146985,0.0002880234096664
+"evalute is brilliant, a top-notch hollywood drama and i'm going to get it ten out of ten",0.089577995,0.0,0.0,0.0,False,0.0010465731611475,0.0039550578221678,0.0004352605319581
+so there you go,0.028782474,0.0,0.0,0.0,False,0.0013243954163044,0.000689219625201,0.0011405732948333
+there's my classic real review,0.03427619,0.0,0.0,0.0,False,0.0008376791956834,0.0003628974955063,0.0003820647543761
+all about eve,0.020408317,0.0,0.0,0.0,False,0.0021003626752644,0.0004784685152117,0.0005465527647174
+"hopefully you enjoyed if you did and like subscribe, but your comments down the section below do you like? what about it? what's your favorite hollywood movie of the 1950's for me, it's pretty difficult to make that decision, but i'm probably going to have to go in vertigo, matwork, my favorite hitchcock film and i truly love that movie",0.028954152,0.7833565473556519,0.0,0.038,False,0.000591350661125,0.0004236286331433,0.000516494968906
+but all about eve is brilliant and hopefully you enjoyed this video and hopefully i'll see you next time,0.06252546,0.0,0.0,0.0,False,0.0008024646667763,0.000444402830908,0.0004320954612921
+"goodbye, you",0.046465382,0.8934208750724792,0.0,0.0,False,0.0088239153847098,0.0005468430463224,0.0033670365810394

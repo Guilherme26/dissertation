@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-""" my phone won't fit in there "" i know .",0.015757442,0.0,0.0,0.174,0.0015777099179103,0.0011230594245716,0.0004348986258264,False
+""" my phone won't fit in there "" i know .",0.015757442,0.9996477365493774,0.0,0.174,0.0015777099179103,0.0011230594245716,0.0004348986258264,False

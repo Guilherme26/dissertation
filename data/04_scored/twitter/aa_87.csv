@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user * he bites his lips and manages to kick off his remaining clothes *,0.33600304,0.0,0.0,0.0,0.3857287466526031,0.2394186556339264,0.0761428549885749,False
+@user * he bites his lips and manages to kick off his remaining clothes *,0.33600304,0.9998453855514526,0.0,0.0,0.3857287466526031,0.2394186556339264,0.0761428549885749,False

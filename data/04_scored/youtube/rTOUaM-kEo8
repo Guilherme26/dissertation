@@ -1,107 +1,107 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hello, there, inside out is the newest movie by pixar films or studios, or whatever",0.029125832,0.1653437672779499,0.5,0.0,False,0.000755357788875699,0.0005797214107587934,0.0010336998384445906
-"i don't really know what it's called exactly and stars amy poehler, bill hader, the one chick from the office who played phyllis lewis, black & mindy kaling, and it's about a young girl named riley, who's about 12 years old and lives in minnesota, and she said, incredible life, friends, family plays hockey",0.055732824,2.306706902310784e-05,0.3847222222222222,0.0,False,0.000991331646218896,0.01457145530730486,0.002113645663484931
-everything's great until her whole life is upturned by her moving to san francisco and the movie,0.08796701,0.9001748746093201,0.25,0.0,False,0.0007352567627094686,0.00053577491780743,0.0022956642787903547
-instead of just being you know drama about a normal girl as it is pixar,0.22598907,0.0072435961167215,0.425,0.0,False,0.006332125514745712,0.008380667306482792,0.06530246883630753
-we've got to do something interesting,0.035477944,0.0064598522134015,0.25,0.0,False,0.000630511378403753,0.0003192203294020146,0.0004855916486121714
-we've got to do something personified,0.055732824,0.9636766976826358,0.5,0.0,False,0.0007424968644045293,0.0005447384319268167,0.00043785604066215456
-and so this movie is not about riley so much as it is about riley's emotions,0.06851897,0.2019270658616676,0.4,0.0,False,0.0007714718813076615,0.0007683574222028255,0.0010147560387849808
-"riley's brain, the five emotions inside her head that our joy, sadness, anger, disgust, and fear, and through this you could see how these emotions interact and how they influence one another, which kind of makes up how our brain chemistry works, and its really really interesting take on how we are able to make our own decisions, and how the memories that we have in our past affect us, and how we forget things and our imagination, and just so many many incredible ideas that really make this film one of the best animated movies to come out in a long long time",0.04131502,0.0,0.3196428571428571,0.127,False,0.0011801335494965315,0.01403071265667677,0.0027061556465923786
-now,0.018742332,0.0841216966109409,0.5,0.0,False,0.0014697305159643292,0.0004906950052827597,0.0007275509997271001
-"i've been disillusioned with pixar for a little bit, because in my personal opinion, i really haven't loved any of their movies since 2006",0.10300289,0.1890774865167915,0.4109375,0.223,False,0.0006172368302941322,0.0006881229346618056,0.001045121462084353
-i think cars is an absolute masterpiece,0.03204437,4.076970338967897e-05,0.4,0.0,False,0.0035141773987561464,0.00043917298899032176,0.0006867310730740428
-in every single movie they made before that was an absolute masterpiece,0.07251463,0.0002222962116839,0.4678571428571428,0.0,False,0.0006807388854213059,0.0003955516149289906,0.0011742969509214163
-"ratatouille was the first one where was like, yeah, it was okay and all the other ones really just weren't that memorable",0.043718524,0.9999889731065392,0.3675,0.0,False,0.0016804991755634546,0.0005185139598324895,0.0010674155782908201
-toy story 3 notwithstanding,0.028439116,0.2161408209397011,0.5,0.0,False,0.0007675634115003049,0.0008162102312780917,0.0005088644684292376
-"of course, so when people were acting, oh my god, pit, inside outs coming out in my mind, it was like this looks really great",0.19634613,0.9052406294651468,0.3,0.0,False,0.00744475657120347,0.0012884406605735421,0.008834084495902061
-"i love the concept and the premise and i was like, you know what, i feel like, pixar's back, and my opinion, this is their comeback",0.03049926,0.0002366311731827,0.375,0.0,False,0.0007917910697869956,0.0008710149559192359,0.0012282062089070678
-for me,0.027580723,0.0571298879834517,0.5,0.0,False,0.001279025455005467,0.0005845719133503735,0.0005781835061497986
-"i like they've had a dry spell for a while, and i'm just as excited for the next movie the good dinosaur, but to focus in on inside out, this movie is incredible",0.08050597,0.0006219763960106,0.3091666666666667,0.0,False,0.0006172136054374278,0.0008619865984655917,0.0013422832125797868
-it is so well done,0.038911518,0.0056203181896535,0.5,0.0,False,0.0007341939490288496,0.00032414213637821376,0.0007727752672508359
-i think it's probably at least in their top three of greatest films that they've made,0.070516795,0.001927888408315,0.3,0.0,False,0.0008599819848313928,0.0003460229199845344,0.0004853112332057208
-first off,0.09279997,0.0918651388279926,0.375,0.0,False,0.00553380511701107,0.0037226651329547167,0.0005131018697284162
-the animation itself was just beautiful,0.037194733,0.00238455080966,0.075,0.0,False,0.0006495743873529136,0.00034567146212793887,0.0004964839317835867
-"i love how the emotions in the film look like they're made out of like this, sort of fuzzy, sparkly, kind of like imaginative",0.055732824,0.0024688320385972,0.2166666666666666,0.0,False,0.0006130601395852864,0.0003597688628360629,0.0006224482203833759
-"you know, brain matter or whatever",0.3897107,0.9857939935498038,0.5,0.0,False,0.1102481260895729,0.029507197439670563,0.11223234236240387
-the first emotion,0.021518974,0.0005384104250277,0.375,0.0,False,0.0008794239256531,0.0004244915035087615,0.0002551645156927407
-that dough that is in somebody's head is a shot,0.30187345,0.9958209265880692,0.5,0.0,False,0.20722071826457977,0.6599395871162415,0.6206722259521484
-that riley,0.02124131,0.0074120691673515,0.5,0.0,False,0.0016142127569764853,0.0007287098560482264,0.014493592083454132
-"as a child, her mind is joy, and when joy shows up, she only has one button the press and that's just flat because there's nothing else on this like this is tiny little control panel and that's it didn't like",0.0669207,0.999996423710229,0.3843749999999999,0.043,False,0.01268050353974104,0.0009760355460457504,0.0008932042983360589
-little parts of her mind will start appearing and it's like the brain is starting to develop itself core memories,0.10699297,0.0116484526228628,0.546875,0.0,False,0.0060218689031898975,0.018661655485630035,0.019751889631152153
-the things that really make you a person,0.090114996,9.796053731131196e-05,0.4,0.0,False,0.002099617151543498,0.0006353032076731324,0.00278172898106277
-"the train of thought, which a meat, which made me chuckle immediately",0.23891698,3.3915147995215404e-05,0.5,0.0,False,0.0010517541086301208,0.001418153289705515,0.013701780699193478
-"as soon as they said, there was a train of thought",0.024490505,0.8396490312665478,0.5,0.0,False,0.0005945397424511611,0.0007421155460178852,0.0007633588975295424
-i took a second and i got it,0.03839648,0.0004383637186833,0.5,0.0,False,0.0008096818928606808,0.0007812838302925229,0.0008453545160591602
-"the tracks disappear, and literally that they is described by another character as oh, it just kind of goes all over the place",0.049898956,0.9999970197585242,0.2,0.079,False,0.0007622797274962068,0.0004380067402962595,0.0008683660416863859
-"um, besides the animation itself, all the voice acting is great",0.052935857,0.02587532076339,0.3,0.0,False,0.0006546660442836583,0.00038837757892906666,0.0008209171355701983
-amy poehler just completely its best role ever,0.027409043,0.0014868126698886,0.2249999999999999,0.0,False,0.0006685723201371729,0.0012300072703510523,0.01884988695383072
-"i've seen her and she's so good as joy, and her relationship with sadness was really interesting",0.032902762,0.014565930213235,0.1666666666666666,0.109,False,0.0005858410731889307,0.0003486506175249815,0.0007386804791167378
-mindy kaling is really really entertaining,0.03994159,0.0010467204111493,0.25,0.0,False,0.0009840942220762372,0.0007882452919147909,0.0012046729680150747
-is discussed,0.030327583,0.0072338805295102,0.5,0.0,False,0.000618696038145572,0.0004187601152807474,0.0004075319448020309
-liked her much more than i thought i would,0.040971663,0.0084548556597527,0.2249999999999999,0.0,False,0.0011202007299289107,0.00047561785322614014,0.001295252237468958
-"and of course, lewis black is just completely perfect",0.1668969,4.1186937196298495e-05,0.2916666666666666,0.0,False,0.0015744968550279737,0.09595541656017303,0.10585752874612808
-"casting as anger, who i'm sure all the kids loved when he",0.16551583,0.0105955333094437,0.4166666666666667,0.196,False,0.007572168949991465,0.0007272289949469268,0.0069691953249275684
-his head catches on fire,0.39230084,0.9990769298076838,0.5,0.375,False,0.641939640045166,0.15925605595111847,0.8991578817367554
-my favorite character in the film was actually fear,0.08447654,0.9367835946528268,0.375,0.242,False,0.0006558112800121307,0.0005287491949275136,0.0003985328658018261
-i thought he was really really well done and kind of an underused player,0.13386416,0.1189976744579715,0.3,0.0,False,0.0008612751844339073,0.015181075781583786,0.007116198074072599
-"in all of this, bill hader plays him expertly part of joy and sadness",0.09602194,0.0001281801858764,0.0999999999999999,0.147,False,0.003239256329834461,0.00045240166946314275,0.006092787254601717
-"adventure takes them to dream productions, which is at night when riley goes to sleep",0.056931525,0.0003603409968454,0.5,0.0,False,0.0007644310826435685,0.0013550828443840146,0.0014645610935986042
-"there's this movie studio that puts on these shows and they are watched by only one thing, which is fear, ever, anger, disgust",0.2712817,0.8795984529924128,0.675,0.351,False,0.04317864403128624,0.015347372740507126,0.008929110132157803
-everything else is asleep except fear,0.08367105,0.9998043471471102,0.5,0.39,False,0.0018043194431811571,0.0010059491032734513,0.0012295200722292066
-he stays awake,0.07730943,0.0011223887422212,0.5,0.0,False,0.009253519587218761,0.0013966397382318974,0.0027067570481449366
-okay and he's just sitting there watching these things that,0.064523295,0.9961766184082124,0.25,0.0,False,0.000643414503429085,0.000476361921755597,0.0008412544266320765
-"basically it's just it's just hidden, reacting whether he gets afraid or not, and it's just like him gone",0.119228795,0.860041571984395,0.6916666666666667,0.0,False,0.00386422430165112,0.0029236720874905586,0.0011859467485919595
-"oh yeah, this is boring",0.24418297,0.9999660252471751,1.0,0.307,False,0.02595178782939911,0.009662940166890621,0.012823236174881458
-"oh, she's a bad actress",0.39694545,0.998292798472972,0.8499999999999999,0.467,False,0.7964601516723633,0.18566836416721344,0.3077501356601715
-"blah, blah",0.14193995,0.999957799780702,0.5,1.0,False,0.04695886746048927,0.0015958553412929177,0.001592976157553494
-"and it was app, that was my favorite scene in the movie",0.025005542,0.0013294559199635,0.25,0.0,False,0.0007488128612749279,0.00037017796421423554,0.0004659369005821645
-"by far, it was not just because it was funny, it was just so clever and the way they were doing it on how like everybody was being played by, like a thought figment of her imagination",0.05373499,0.0005952138275575,0.4138888888888889,0.0,False,0.0010036190506070852,0.00042009036405943334,0.0016231168992817402
-and then they put on a rat reality distortion filter over the lens and it just looks like they're all people,0.28972426,0.8744083326597988,0.5,0.0,False,0.04005972295999527,0.010175001807510853,0.11739981174468994
-"uh, and it was it was funny",0.048868883,0.0092128502767213,0.375,0.0,False,0.0007615177892148495,0.0005417224019765854,0.0016273321816697717
-i also like how they have a little bit,0.112788886,0.0004049850141537,0.59375,0.0,False,0.0008976844837889075,0.000487803656142205,0.0005624691839329898
-they have a little joke about film predictability where they were fears,0.11665283,0.9978169433165224,0.59375,0.19,False,0.0008501410484313965,0.0006337834638543427,0.00043468395597301424
-just going,0.0224908,0.779702219040119,0.5,0.0,False,0.0012245610123500228,0.0009057917050085962,0.0008961961721070111
-"oh yeah, her pants are probably going to be down, isn't it? oh, yep, fan, sir, down",0.36553472,0.1949592910935364,0.5777777777777778,0.093,False,0.7323911786079407,0.013064474798738956,0.03335654363036156
-that was,0.031014297,0.153448967894693,0.5,0.0,False,0.003346807789057493,0.00038866812246851623,0.0007434562430717051
-it's just the things that these people must have thought up when they were coming up with this movie,0.06532243,0.9958061445903492,0.5,0.0,False,0.0005629008519463241,0.0005988060147501528,0.001141545013524592
-they must have had a ball with it,0.3063832,0.9854361261533832,0.5,0.0,False,0.002639440121129155,0.481751948595047,0.7672180533409119
-"there is a really really powerful subplot, or may, perhaps the main plot, which is the joys relationship with sadness, and how you would imagine those two don't get along, and how joy just really doesn't understand sadness",0.0765103,0.0220030930138133,0.3166666666666666,0.059,False,0.0006694885669276118,0.00033880784758366644,0.00033183241612277925
-she doesn't understand her purpose,0.0717155,0.9997565142714228,0.5,0.0,False,0.002039960352703929,0.016167351976037025,0.001746258931234479
-"why is she here? of course, and her mind said this should just you know not really exist",0.13745339,0.9997169664670382,0.55,0.0,False,0.010466132313013077,0.007916652597486973,0.0030451295897364616
-"why should a person be sad and sadness also doesn't really understand who she is or why she exists, and that whole relationship and the the coming to understand each other is a huge core of the film and that, and that, of course, at a time in a girl's life where she is moving, dealing with all these emotions, joy and sadness are struggling with each other",0.050585672,0.0001322333142836,0.4392857142857143,0.147,False,0.0009668233687989414,0.0008763305959291756,0.0005836967029608786
-that's exactly what would happen,0.026722329,0.9477469791676352,0.375,0.0,False,0.0027610049583017826,0.0003906686615664512,0.0014330470003187656
-it's the exact point in time where an adventure such of this would occur in her head,0.10461388,0.9954933682474584,0.4375,0.0,False,0.000728588318452239,0.05182763934135437,0.022231947630643845
-"we're both joy and sadness, kind of become lost to you know, anger and fear and disgust, and it totally makes sense",0.10828095,0.0076617239957837,0.4125,0.447,False,0.016524581238627434,0.0007319419528357685,0.0008979141130112112
-"during a fight between these two characters, they accidentally become lost somewhere in the confines of riley's brain, and they must work their way through it",0.06412373,0.906766125669392,0.5,0.241,False,0.0013170174788683653,0.011070155538618565,0.03199944272637367
-try and find their way back to the control center where they can try and make riley happy again,0.031701013,0.0886205499332306,0.3833333333333333,0.0,False,0.001247960259206593,0.000871629745233804,0.0009168473770841956
-"some kids would see it as just a interesting fantasy adventure about these personified emotions, but it's actually a really really deep story and a really really interesting take on",0.027409043,0.0003182599872064,0.3333333333333333,0.0,False,0.0006025545299053192,0.00033189443638548255,0.00042295418097637594
-"you know, the way a person reacts to change, and the way kids sometimes have to act a certain way in front of their parents versus the way they would act in front of other people",0.037023053,0.0050767519468725,0.4776785714285714,0.0,False,0.0011303476057946682,0.00045104374294169247,0.00046296551590785384
-"what would cause certain things to happen, such as why do you start crying in the middle of happy memory? sometimes because it's nostalgic and sad, because you just don't have the thing more, and they explore all these different aspects of it and that was really interesting",0.042001735,0.0001436774415509,0.4592857142857143,0.107,False,0.001112946541979909,0.0006393251824192703,0.0008510500192642212
-to be honest,0.01999182,0.0022343764416918,0.2,0.0,False,0.0007626168662682176,0.00045189610682427883,0.00044522411189973354
-a lot of the emotions were totally different than i thought,0.025005542,0.9985086871654828,0.5,0.0,False,0.0006872192025184631,0.0003532959381118417,0.00044632150093093514
-they were going to be a particularly fear,0.11729682,0.999949157080422,0.4166666666666667,0.333,False,0.007494365330785513,0.0012696214253082871,0.001009579747915268
-"instead of you know, just being afraid of everything",0.11472086,0.8483287759480684,0.8,0.0,False,0.001149629009887576,0.0007258968544192612,0.0024606310762465
-he's trying to keep riley safe,0.023288755,0.9331710353430412,0.25,0.0,False,0.0012877120170742273,0.0010383006883785129,0.006378485821187496
-no matter what he's trying to help her,0.021518974,0.9978609018782912,0.5,0.11,False,0.0021772896870970726,0.0007907192339189351,0.00079531833762303
-he's not actually a very unhappy person,0.09494796,0.0147731166006364,0.305,0.34,False,0.012480116449296474,0.0018230685964226723,0.098102867603302
-"her constantly afraid as i thought he would be, he just has a tendency to become afraid",0.12051678,0.9999077615263224,0.8,0.0,False,0.0025684016291052103,0.0038788458332419395,0.006348961498588324
-most of,0.0224908,0.1497773103964412,0.25,0.0,False,0.0030592125840485096,0.0004643856664188206,0.001078283996321261
-maybe he's just being cautious,0.07850813,0.9989723829367108,0.5,0.259,False,0.0008013605256564915,0.0007184685091488063,0.001446648733690381
-"he's just trying to be, you know, helpful, and i really really like that",0.026035614,0.001196835174288,0.4,0.0,False,0.0007295248215086758,0.0004008533142041415,0.0017884047701954842
-i thought that was really interesting,0.027065687,0.0541386792189669,0.25,0.0,False,0.0005787436384707689,0.00030576929566450417,0.0003617398615460843
-similarly anger isn't just this villain,0.11729682,0.9124055770093206,0.85,0.665,False,0.0061861383728682995,0.000718537310604006,0.0019520275527611375
-"one of the best things about this movie is that they don't go that route and they don't take emotions like anger or sadness or fear, and they make them villains",0.10461388,0.9455616276982212,0.425,0.358,False,0.0007828316884115338,0.0005010789609514177,0.0004772129759658128
-there is no villain in this movie and that is one of the best things about it,0.07131593,0.0003442774952906,0.0,0.0,False,0.000699247233569622,0.0005132434889674187,0.0010663707507774234
-it's that the the real enemy is just life and the problems we encounter like there's no enemy to fight,0.123736724,0.1189891509673506,0.4,0.302,False,0.0032333466224372387,0.0008325521484948695,0.0036119387950748205
-there's no bad guy to defeat,0.1785852,0.0023520661775732,0.325,0.305,False,0.005250835325568914,0.004685808438807726,0.01194516010582447
-"there's just a situation that you need to overcome, which is that's the way life is",0.04406188,0.0018055494957312,0.5,0.0,False,0.001666378346271813,0.0006684286636300385,0.0007706893375143409
-there's no enemy,0.04783881,0.0135916892747785,0.5,0.0,False,0.0012372737983241677,0.000659637269563973,0.0009245375404134393
-"there's no no one you can point the finger at, except this is just the things we're going through and i think that that's one of the most powerful things about it, and i love that, and of course where the story goes ends up being really interesting of joy",0.045091953,0.0001080933583292,0.24,0.0,False,0.0006600507185794413,0.000337578181643039,0.0005558684351854026
-"coming to terms with sadnesses existence, and satisfying a purpose",0.06931809,0.0004765108095742,0.25,0.0,False,0.001662032213062048,0.0005477843806147575,0.0009357683011330664
-"and it was really, really, really beautiful and really really interesting",0.032387726,0.0012126304541101,0.1624999999999999,0.0,False,0.0006542362971231341,0.0002972120128106326,0.0008417547214776278
-and it just all came up and wrapped together in this little bow,0.1884524,0.0033760473462618,0.59375,0.0,False,0.0006204908713698387,0.0010559074580669403,0.0024710146244615316
-"and when i won't finish the movie, i'm like that was perfect",0.076110736,0.0028867214983414,0.0,0.0,False,0.0006758241797797382,0.0008800450596027076,0.003169225063174963
-"all things considered, i would give inside out a nine out of ten",0.06372416,0.9644646437264368,0.5,0.0,False,0.001759175444021821,0.0010393625125288963,0.002178444992750883
-thanks for watching,0.017423427,0.0285460343595616,0.4,0.0,False,0.00074954325100407,0.0004319150757510215,0.0002572489029262215
-"if you liked this video, then you can hit the yellow subscribe button up above or click in the links below to check out some of the other things that i've made",0.08447654,0.2489583459993596,0.440625,0.0,False,0.0006037505227141082,0.0006182598299346864,0.000416055612731725
-i hope you had a great day and have a spectacular tomorrow,0.060527626,0.0021619267714138,0.15,0.0,False,0.0008089730981737375,0.006773737724870443,0.0003399995621293783
+"hello, there, inside out is the newest movie by pixar films or studios, or whatever",0.029125832,0.0,0.0,0.0,False,0.0007553577888756,0.0005797214107587,0.0010336998384445
+"i don't really know what it's called exactly and stars amy poehler, bill hader, the one chick from the office who played phyllis lewis, black & mindy kaling, and it's about a young girl named riley, who's about 12 years old and lives in minnesota, and she said, incredible life, friends, family plays hockey",0.055732824,0.0,0.0,0.0,False,0.0009913316462188,0.0145714553073048,0.0021136456634849
+everything's great until her whole life is upturned by her moving to san francisco and the movie,0.08796701,0.8003503680229187,0.0,0.0,False,0.0007352567627094,0.0005357749178074,0.0022956642787903
+instead of just being you know drama about a normal girl as it is pixar,0.22598907,0.0,0.0,0.0,False,0.0063321255147457,0.0083806673064827,0.0653024688363075
+we've got to do something interesting,0.035477944,0.0,0.0,0.0,False,0.0006305113784037,0.000319220329402,0.0004855916486121
+we've got to do something personified,0.055732824,0.9273536205291748,0.0,0.0,False,0.0007424968644045,0.0005447384319268,0.0004378560406621
+and so this movie is not about riley so much as it is about riley's emotions,0.06851897,0.0,0.0,0.0,False,0.0007714718813076,0.0007683574222028,0.0010147560387849
+"riley's brain, the five emotions inside her head that our joy, sadness, anger, disgust, and fear, and through this you could see how these emotions interact and how they influence one another, which kind of makes up how our brain chemistry works, and its really really interesting take on how we are able to make our own decisions, and how the memories that we have in our past affect us, and how we forget things and our imagination, and just so many many incredible ideas that really make this film one of the best animated movies to come out in a long long time",0.04131502,0.0,0.0,0.127,False,0.0011801335494965,0.0140307126566767,0.0027061556465923
+now,0.018742332,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+"i've been disillusioned with pixar for a little bit, because in my personal opinion, i really haven't loved any of their movies since 2006",0.10300289,0.0,0.0,0.223,False,0.0006172368302941,0.0006881229346618,0.0010451214620843
+i think cars is an absolute masterpiece,0.03204437,0.0,0.0,0.0,False,0.0035141773987561,0.0004391729889903,0.000686731073074
+in every single movie they made before that was an absolute masterpiece,0.07251463,0.0,0.0,0.0,False,0.0006807388854213,0.0003955516149289,0.0011742969509214
+"ratatouille was the first one where was like, yeah, it was okay and all the other ones really just weren't that memorable",0.043718524,0.9999779462814331,0.0,0.0,False,0.0016804991755634,0.0005185139598324,0.0010674155782908
+toy story 3 notwithstanding,0.028439116,0.0,0.0,0.0,False,0.0007675634115003,0.000816210231278,0.0005088644684292
+"of course, so when people were acting, oh my god, pit, inside outs coming out in my mind, it was like this looks really great",0.19634613,0.81048184633255,0.0,0.0,False,0.0074447565712034,0.0012884406605735,0.008834084495902
+"i love the concept and the premise and i was like, you know what, i feel like, pixar's back, and my opinion, this is their comeback",0.03049926,0.0,0.0,0.0,False,0.0007917910697869,0.0008710149559192,0.001228206208907
+for me,0.027580723,0.0,0.0,0.0,False,0.0012790254550054,0.0005845719133503,0.0005781835061497
+"i like they've had a dry spell for a while, and i'm just as excited for the next movie the good dinosaur, but to focus in on inside out, this movie is incredible",0.08050597,0.0,0.0,0.0,False,0.0006172136054374,0.0008619865984655,0.0013422832125797
+it is so well done,0.038911518,0.0,0.0,0.0,False,0.0007341939490288,0.0003241421363782,0.0007727752672508
+i think it's probably at least in their top three of greatest films that they've made,0.070516795,0.0,0.0,0.0,False,0.0008599819848313,0.0003460229199845,0.0004853112332057
+first off,0.09279997,0.0,0.0,0.0,False,0.005533805117011,0.0037226651329547,0.0005131018697284
+the animation itself was just beautiful,0.037194733,0.0,0.0,0.0,False,0.0006495743873529,0.0003456714621279,0.0004964839317835
+"i love how the emotions in the film look like they're made out of like this, sort of fuzzy, sparkly, kind of like imaginative",0.055732824,0.0,0.0,0.0,False,0.0006130601395852,0.000359768862836,0.0006224482203833
+"you know, brain matter or whatever",0.3897107,0.9715880751609802,0.0,0.0,False,0.1102481260895729,0.0295071974396705,0.1122323423624038
+the first emotion,0.021518974,0.0,0.0,0.0,False,0.0008794239256531,0.0004244915035087,0.0002551645156927
+that dough that is in somebody's head is a shot,0.30187345,0.9916418790817261,0.0,0.0,False,0.2072207182645797,0.6599395871162415,0.6206722259521484
+that riley,0.02124131,0.0,0.0,0.0,False,0.0016142127569764,0.0007287098560482,0.0144935920834541
+"as a child, her mind is joy, and when joy shows up, she only has one button the press and that's just flat because there's nothing else on this like this is tiny little control panel and that's it didn't like",0.0669207,0.999992847442627,0.0,0.043,False,0.012680503539741,0.0009760355460457,0.000893204298336
+little parts of her mind will start appearing and it's like the brain is starting to develop itself core memories,0.10699297,0.0,0.09375,0.0,False,0.0060218689031898,0.01866165548563,0.0197518896311521
+the things that really make you a person,0.090114996,0.0,0.0,0.0,False,0.0020996171515434,0.0006353032076731,0.0027817289810627
+"the train of thought, which a meat, which made me chuckle immediately",0.23891698,0.0,0.0,0.0,False,0.0010517541086301,0.0014181532897055,0.0137017806991934
+"as soon as they said, there was a train of thought",0.024490505,0.6792990565299988,0.0,0.0,False,0.0005945397424511,0.0007421155460178,0.0007633588975295
+i took a second and i got it,0.03839648,0.0,0.0,0.0,False,0.0008096818928606,0.0007812838302925,0.0008453545160591
+"the tracks disappear, and literally that they is described by another character as oh, it just kind of goes all over the place",0.049898956,0.9999940395355225,0.0,0.079,False,0.0007622797274962,0.0004380067402962,0.0008683660416863
+"um, besides the animation itself, all the voice acting is great",0.052935857,0.0,0.0,0.0,False,0.0006546660442836,0.000388377578929,0.0008209171355701
+amy poehler just completely its best role ever,0.027409043,0.0,0.0,0.0,False,0.0006685723201371,0.001230007270351,0.0188498869538307
+"i've seen her and she's so good as joy, and her relationship with sadness was really interesting",0.032902762,0.0,0.0,0.109,False,0.0005858410731889,0.0003486506175249,0.0007386804791167
+mindy kaling is really really entertaining,0.03994159,0.0,0.0,0.0,False,0.0009840942220762,0.0007882452919147,0.001204672968015
+is discussed,0.030327583,0.0,0.0,0.0,False,0.0006186960381455,0.0004187601152807,0.000407531944802
+liked her much more than i thought i would,0.040971663,0.0,0.0,0.0,False,0.0011202007299289,0.0004756178532261,0.0012952522374689
+"and of course, lewis black is just completely perfect",0.1668969,0.0,0.0,0.0,False,0.0015744968550279,0.095955416560173,0.105857528746128
+"casting as anger, who i'm sure all the kids loved when he",0.16551583,0.0,0.0,0.196,False,0.0075721689499914,0.0007272289949469,0.0069691953249275
+his head catches on fire,0.39230084,0.9981538653373718,0.0,0.375,False,0.641939640045166,0.1592560559511184,0.8991578817367554
+my favorite character in the film was actually fear,0.08447654,0.8735675811767578,0.0,0.242,False,0.0006558112800121,0.0005287491949275,0.0003985328658018
+i thought he was really really well done and kind of an underused player,0.13386416,0.0,0.0,0.0,False,0.0008612751844339,0.0151810757815837,0.0071161980740725
+"in all of this, bill hader plays him expertly part of joy and sadness",0.09602194,0.0,0.0,0.147,False,0.0032392563298344,0.0004524016694631,0.0060927872546017
+"adventure takes them to dream productions, which is at night when riley goes to sleep",0.056931525,0.0,0.0,0.0,False,0.0007644310826435,0.001355082844384,0.0014645610935986
+"there's this movie studio that puts on these shows and they are watched by only one thing, which is fear, ever, anger, disgust",0.2712817,0.7591976523399353,0.35,0.351,False,0.0431786440312862,0.0153473727405071,0.0089291101321578
+everything else is asleep except fear,0.08367105,0.9996086955070496,0.0,0.39,False,0.0018043194431811,0.0010059491032734,0.0012295200722292
+he stays awake,0.07730943,0.0,0.0,0.0,False,0.0092535195872187,0.0013966397382318,0.0027067570481449
+okay and he's just sitting there watching these things that,0.064523295,0.9923532605171204,0.0,0.0,False,0.000643414503429,0.0004763619217555,0.000841254426632
+"basically it's just it's just hidden, reacting whether he gets afraid or not, and it's just like him gone",0.119228795,0.720084011554718,0.3833333333333333,0.0,False,0.0038642243016511,0.0029236720874905,0.0011859467485919
+"oh yeah, this is boring",0.24418297,0.999932050704956,1.0,0.307,False,0.0259517878293991,0.0096629401668906,0.0128232361748814
+"oh, she's a bad actress",0.39694545,0.9965856075286865,0.6999999999999998,0.467,False,0.7964601516723633,0.1856683641672134,0.3077501356601715
+"blah, blah",0.14193995,0.999915599822998,0.0,1.0,False,0.0469588674604892,0.0015958553412929,0.0015929761575534
+"and it was app, that was my favorite scene in the movie",0.025005542,0.0,0.0,0.0,False,0.0007488128612749,0.0003701779642142,0.0004659369005821
+"by far, it was not just because it was funny, it was just so clever and the way they were doing it on how like everybody was being played by, like a thought figment of her imagination",0.05373499,0.0,0.0,0.0,False,0.001003619050607,0.0004200903640594,0.0016231168992817
+and then they put on a rat reality distortion filter over the lens and it just looks like they're all people,0.28972426,0.7488174438476562,0.0,0.0,False,0.0400597229599952,0.0101750018075108,0.1173998117446899
+"uh, and it was it was funny",0.048868883,0.0,0.0,0.0,False,0.0007615177892148,0.0005417224019765,0.0016273321816697
+i also like how they have a little bit,0.112788886,0.0,0.1875,0.0,False,0.0008976844837889,0.0004878036561422,0.0005624691839329
+they have a little joke about film predictability where they were fears,0.11665283,0.9956339001655579,0.1875,0.19,False,0.0008501410484313,0.0006337834638543,0.000434683955973
+just going,0.0224908,0.5594058036804199,0.0,0.0,False,0.00122456101235,0.0009057917050085,0.000896196172107
+"oh yeah, her pants are probably going to be down, isn't it? oh, yep, fan, sir, down",0.36553472,0.0,0.1555555555555555,0.093,False,0.7323911786079407,0.0130644747987389,0.0333565436303615
+that was,0.031014297,0.0,0.0,0.0,False,0.0033468077890574,0.0003886681224685,0.0007434562430717
+it's just the things that these people must have thought up when they were coming up with this movie,0.06532243,0.9916123151779175,0.0,0.0,False,0.0005629008519463,0.0005988060147501,0.0011415450135245
+they must have had a ball with it,0.3063832,0.9708723425865173,0.0,0.0,False,0.0026394401211291,0.481751948595047,0.7672180533409119
+"there is a really really powerful subplot, or may, perhaps the main plot, which is the joys relationship with sadness, and how you would imagine those two don't get along, and how joy just really doesn't understand sadness",0.0765103,0.0,0.0,0.059,False,0.0006694885669276,0.0003388078475836,0.0003318324161227
+she doesn't understand her purpose,0.0717155,0.9995130300521851,0.0,0.0,False,0.0020399603527039,0.016167351976037,0.0017462589312344
+"why is she here? of course, and her mind said this should just you know not really exist",0.13745339,0.9994339346885681,0.1,0.0,False,0.010466132313013,0.0079166525974869,0.0030451295897364
+"why should a person be sad and sadness also doesn't really understand who she is or why she exists, and that whole relationship and the the coming to understand each other is a huge core of the film and that, and that, of course, at a time in a girl's life where she is moving, dealing with all these emotions, joy and sadness are struggling with each other",0.050585672,0.0,0.0,0.147,False,0.0009668233687989,0.0008763305959291,0.0005836967029608
+that's exactly what would happen,0.026722329,0.895494282245636,0.0,0.0,False,0.0027610049583017,0.0003906686615664,0.0014330470003187
+it's the exact point in time where an adventure such of this would occur in her head,0.10461388,0.9909867644309998,0.0,0.0,False,0.0007285883184522,0.0518276393413543,0.0222319476306438
+"we're both joy and sadness, kind of become lost to you know, anger and fear and disgust, and it totally makes sense",0.10828095,0.0,0.0,0.447,False,0.0165245812386274,0.0007319419528357,0.0008979141130112
+"during a fight between these two characters, they accidentally become lost somewhere in the confines of riley's brain, and they must work their way through it",0.06412373,0.813532829284668,0.0,0.241,False,0.0013170174788683,0.0110701555386185,0.0319994427263736
+try and find their way back to the control center where they can try and make riley happy again,0.031701013,0.0,0.0,0.0,False,0.0012479602592065,0.0008716297452338,0.0009168473770841
+"some kids would see it as just a interesting fantasy adventure about these personified emotions, but it's actually a really really deep story and a really really interesting take on",0.027409043,0.0,0.0,0.0,False,0.0006025545299053,0.0003318944363854,0.0004229541809763
+"you know, the way a person reacts to change, and the way kids sometimes have to act a certain way in front of their parents versus the way they would act in front of other people",0.037023053,0.0,0.0,0.0,False,0.0011303476057946,0.0004510437429416,0.0004629655159078
+"what would cause certain things to happen, such as why do you start crying in the middle of happy memory? sometimes because it's nostalgic and sad, because you just don't have the thing more, and they explore all these different aspects of it and that was really interesting",0.042001735,0.0,0.0,0.107,False,0.0011129465419799,0.0006393251824192,0.0008510500192642
+to be honest,0.01999182,0.0,0.0,0.0,False,0.0007626168662682,0.0004518961068242,0.0004452241118997
+a lot of the emotions were totally different than i thought,0.025005542,0.9970173835754395,0.0,0.0,False,0.0006872192025184,0.0003532959381118,0.0004463215009309
+they were going to be a particularly fear,0.11729682,0.9998983144760132,0.0,0.333,False,0.0074943653307855,0.0012696214253082,0.0010095797479152
+"instead of you know, just being afraid of everything",0.11472086,0.6966584920883179,0.6,0.0,False,0.0011496290098875,0.0007258968544192,0.0024606310762465
+he's trying to keep riley safe,0.023288755,0.8663424849510193,0.0,0.0,False,0.0012877120170742,0.0010383006883785,0.0063784858211874
+no matter what he's trying to help her,0.021518974,0.9957218170166016,0.0,0.11,False,0.002177289687097,0.0007907192339189,0.000795318337623
+he's not actually a very unhappy person,0.09494796,0.0,0.0,0.34,False,0.0124801164492964,0.0018230685964226,0.098102867603302
+"her constantly afraid as i thought he would be, he just has a tendency to become afraid",0.12051678,0.9998155236244202,0.6,0.0,False,0.0025684016291052,0.0038788458332419,0.0063489614985883
+most of,0.0224908,0.0,0.0,0.0,False,0.0030592125840485,0.0004643856664188,0.0010782839963212
+maybe he's just being cautious,0.07850813,0.9979447722434998,0.0,0.259,False,0.0008013605256564,0.0007184685091488,0.0014466487336903
+"he's just trying to be, you know, helpful, and i really really like that",0.026035614,0.0,0.0,0.0,False,0.0007295248215086,0.0004008533142041,0.0017884047701954
+i thought that was really interesting,0.027065687,0.0,0.0,0.0,False,0.0005787436384707,0.0003057692956645,0.000361739861546
+similarly anger isn't just this villain,0.11729682,0.8248116970062256,0.7,0.665,False,0.0061861383728682,0.000718537310604,0.0019520275527611
+"one of the best things about this movie is that they don't go that route and they don't take emotions like anger or sadness or fear, and they make them villains",0.10461388,0.8911235928535461,0.0,0.358,False,0.0007828316884115,0.0005010789609514,0.0004772129759658
+there is no villain in this movie and that is one of the best things about it,0.07131593,0.0,0.0,0.0,False,0.0006992472335696,0.0005132434889674,0.0010663707507774
+it's that the the real enemy is just life and the problems we encounter like there's no enemy to fight,0.123736724,0.0,0.0,0.302,False,0.0032333466224372,0.0008325521484948,0.0036119387950748
+there's no bad guy to defeat,0.1785852,0.0,0.0,0.305,False,0.0052508353255689,0.0046858084388077,0.0119451601058244
+"there's just a situation that you need to overcome, which is that's the way life is",0.04406188,0.0,0.0,0.0,False,0.0016663783462718,0.00066842866363,0.0007706893375143
+there's no enemy,0.04783881,0.0,0.0,0.0,False,0.0012372737983241,0.0006596372695639,0.0009245375404134
+"there's no no one you can point the finger at, except this is just the things we're going through and i think that that's one of the most powerful things about it, and i love that, and of course where the story goes ends up being really interesting of joy",0.045091953,0.0,0.0,0.0,False,0.0006600507185794,0.000337578181643,0.0005558684351854
+"coming to terms with sadnesses existence, and satisfying a purpose",0.06931809,0.0,0.0,0.0,False,0.001662032213062,0.0005477843806147,0.000935768301133
+"and it was really, really, really beautiful and really really interesting",0.032387726,0.0,0.0,0.0,False,0.0006542362971231,0.0002972120128106,0.0008417547214776
+and it just all came up and wrapped together in this little bow,0.1884524,0.0,0.1875,0.0,False,0.0006204908713698,0.0010559074580669,0.0024710146244615
+"and when i won't finish the movie, i'm like that was perfect",0.076110736,0.0,0.0,0.0,False,0.0006758241797797,0.0008800450596027,0.0031692250631749
+"all things considered, i would give inside out a nine out of ten",0.06372416,0.9289295077323914,0.0,0.0,False,0.0017591754440218,0.0010393625125288,0.0021784449927508
+thanks for watching,0.017423427,0.0,0.0,0.0,False,0.000749543251004,0.000431915075751,0.0002572489029262
+"if you liked this video, then you can hit the yellow subscribe button up above or click in the links below to check out some of the other things that i've made",0.08447654,0.0,0.0,0.0,False,0.0006037505227141,0.0006182598299346,0.0004160556127317
+i hope you had a great day and have a spectacular tomorrow,0.060527626,0.0,0.0,0.0,False,0.0008089730981737,0.0067737377248704,0.0003399995621293

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"@user it's all out of love , i'm missing some sam in my life !",0.07850813,0.0,0.0,0.112,0.0018488211790099,0.0018354126950725,0.001385276671499,False
+"@user it's all out of love , i'm missing some sam in my life !",0.07850813,0.7518192529678345,0.0,0.112,0.0018488211790099,0.0018354126950725,0.001385276671499,False

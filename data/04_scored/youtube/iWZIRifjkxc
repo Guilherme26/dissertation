@@ -1,83 +1,83 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"wonder woman is directed by patty jenkins, the director of monster, and stars gal gadot as diana prince",0.067320265,0.0257844353431146,0.5,0.0,False,0.0009711874299682677,0.004877634346485138,0.028686191886663437
-"the film shows us her origins as she trained to become a warrior, and eventually she meets chris pine, a man who washes up on shore at her homeland, and a man is very rare around those parts, and she then learns of world war 1, and wants to help and take part and battle against the german, and i went to this screening really excited, but at the same time realistic, i want to be a little reserved and i don't like to get my hopes up, because disappointment always sucks, especially with big movies i'm excited for and the dc movie since man of steel, haven't impressed me that much",0.22775516,0.8043504877087639,0.442172619047619,0.137,False,0.0028096588794142008,0.07078036665916443,0.05386580526828766
-i haven't yet seen a great one,0.06372416,0.9801920899974208,0.0999999999999999,0.0,False,0.0006137997261248529,0.00039591395761817694,0.0008209507795982063
-one that i want to watch over and over and over,0.1019289,0.0001582887481228,0.5,0.0,False,0.0047691394574940205,0.012135457247495651,0.0006706991116516292
-that's a breath i've been holding since 2013,0.03994159,0.0001668722840783,0.5,0.0,False,0.0009043235331773758,0.0006758576491847634,0.0006743373814970255
-wonder woman is the first really really legitimately good dc eu movie,0.04818217,0.0047712538334578,0.3083333333333333,0.0,False,0.0009637144976295531,0.0026281566824764013,0.006339261308312416
-"despite all of the hate that went her way when she got cast, gal gadot owns the role of wonder woman",0.17173064,0.0250822246117037,0.9,0.156,False,0.003654184052720666,0.006264387629926205,0.004801421891897917
-"she reminded me of christopher reeve in the first superman movie, full of joy, hope, and completely without cynicism",0.09602194,0.0012616307657294,0.3125,0.0,False,0.001071204082109034,0.00516974413767457,0.05041121691465378
-this is a fantastic casting choice,0.079307266,0.0002026072132817,0.3,0.0,False,0.0006269800942391157,0.0003444513713475317,0.0007751967059448361
-she really nailed this role,0.15626417,0.0005286921677559,0.4,0.0,False,0.0005867058644071221,0.00041500688530504704,0.0016543271485716105
-this movie was a total blast from start to finish,0.29261994,0.0002717225600896,0.5,0.0,False,0.0013391661923378706,0.0004956889897584915,0.002104263985529542
-it has a lot of the things that i want to see in a superhero movie,0.047495455,0.000397048145828,0.5,0.0,False,0.0006792312487959862,0.0005363622913137078,0.0005717413732782006
-it's extremely funny,0.06372416,0.0,0.375,0.0,False,0.0007575759082101285,0.00032852066215127707,0.0008021023822948337
-chris pine has amazing chemistry with gal gadot and there's two fish-out-of-water stories in this movie,0.062925026,0.0002431405775157,0.1999999999999999,0.0,False,0.0006990912952460349,0.0005244506173767149,0.002164854435250163
-"the first act is chris pine in this place and he's like i don't get any of this and everything is surprising to him and he's learning a lot about diana and her upbringing and then we have another fish out of the water story, and that's diana going away from her homeland and learning about the real world and what's going on there, and world war one, and so we get to see two characters who sort of teach each other things which i was really happy about because i didn't want to just go to this movie and see a perfect character with no flaws",0.12244874,0.0015332937179305,0.2645833333333333,0.061,False,0.0007752738893032074,0.0007839025347493589,0.0004942580126225948
-"from the very beginning, she has a lot to learn",0.07131593,0.0143364721059222,0.4,0.0,False,0.0007241035928018391,0.0007703412557020783,0.0012269357684999704
-"she's very naive and the film was wise to understand that, and it allows you to go on this journey with her and feel like you're experiencing all of her ups and downs emotionally",0.2008281,4.229179694715814e-05,0.4483333333333333,0.061,False,0.0008990051574073732,0.02442784421145916,0.11239761114120483
-it's not just like she's born,0.038911518,0.1246006644014476,0.5,0.297,False,0.0022034947760403156,0.008553363382816315,0.0022797544952481985
-she's a perfect fighter,0.1473238,0.0009073512799572,0.0,0.0,False,0.00835035927593708,0.0016346104675903916,0.0048580653965473175
-she's a superhero,0.035306264,0.0001988519163012,0.5,0.0,False,0.06350982189178467,0.00658187223598361,0.014744599349796772
-nobody can touch her,0.30487993,0.999992787445482,0.5,0.0,False,0.19670464098453522,0.2717525064945221,0.00447955122217536
-she's not a mary sue,0.027065687,0.9838929947796008,0.5,0.0,False,0.0584346242249012,0.0063973986543715,0.03679148852825165
-that term that describes someone who's just perfect at everything,0.08796701,0.001306634721607,0.0,0.0,False,0.0006918997969478369,0.0005026454455219209,0.0008591715013608336
-"a lot of people complain about ray in the force awakens that, this very self-sufficient character that had virtually no flaws",0.08689302,0.0001382903015044,0.4,0.198,False,0.0008587917545810342,0.0005243393825367093,0.0010423253988847136
-that's very much so not the case in wonder woman,0.059728492,0.9881045901471855,0.37,0.0,False,0.0010589209850877523,0.00531720370054245,0.015529884956777096
-"this isn't just about empowerment, like this perfect person who hates men and doesn't like men and men suck",0.6955873,0.1072105099675417,0.0,0.275,False,0.9441846013069153,0.8789785504341125,0.8546841740608215
-"it's actually a very equal movie, which is something i was really excited about because i really didn't want to watch another ghostbusters movie, where the entire time i'm just reminded about how horrible i am because i'm a man",0.2590451,0.0186133679154459,0.5425,0.112,False,0.0006960790487937629,0.016326406970620155,0.06917443126440048
-this,0.028439116,0.0228860017609362,0.5,0.0,False,0.002236543921753764,0.00047119639930315316,0.0005406324053183198
-"actually, it's very much so, the opposite of that, which brings me to chris pine",0.044405237,0.970241208685847,0.435,0.0,False,0.0008238035952672362,0.0035119839012622833,0.0011715245200321078
-their chemistry is amazing,0.04234509,0.0012956668701083,0.1999999999999999,0.0,False,0.0006163805956020951,0.0003511994727887213,0.0009033955866470933
-"they both learn from each other, and their relationship in the film went to emotional heights that i did not expect and i was genuinely touched by the end of the film",0.037881445,0.0004632129021513,0.4541666666666666,0.0,False,0.000579508428927511,0.00034222574322484434,0.0003848341293632984
-"i was really into that aspect of the movie, which was a major surprise, and i found myself really caring",0.034104515,0.0010064791986649,0.4229166666666666,0.0,False,0.0005654653650708497,0.00039753984310664237,0.0004985164268873632
-but he brings a lot to the movie,0.058130227,0.0021408471222771,0.5,0.0,False,0.0006862796144559979,0.00044614094076678157,0.00043148978147655725
-he's not just some guy that she's constantly saving because he's some weak guy like he actually brings quite a bit to her character and her to him,0.27690583,0.0054054221600551,0.5625,0.092,False,0.023493409156799316,0.04781240224838257,0.013119419105350971
-"they both really learn from each other, and there's a lot of times in the movie where patty jenkins and the screenwriter",0.02655065,0.0050877419178707,0.48125,0.0,False,0.0005998993874527514,0.0021792100742459297,0.0006750301690772176
-they took the time to have smaller moments,0.037881445,0.9991919554624162,0.5,0.0,False,0.0006403566221706569,0.0004465545353014022,0.0008574891835451126
-"there's a scene where he teaches her how to dance, and it really means a lot for their characters, but it's also the type of quiet small moment you don't normally get in movies like this, and it makes their relationship so much more fleshed out",0.11536485,0.0051469027472858,0.44,0.0,False,0.0006717175128869712,0.0009888055501505733,0.00045937945833429694
-and there's a lot of scenes like that,0.036851373,0.0070674987212617,0.5,0.0,False,0.0007362895994447172,0.0003791256749536842,0.0009337264928035438
-"i won't get into any spoilers, but there's a lot of times where the movie does slow down and lets these characters just be people",0.090114996,0.9938798494519324,0.6138888888888889,0.0,False,0.0007252852665260434,0.0005427350988611579,0.000645348452962935
-it's not just a mindless series of action scenes,0.1894391,0.9997374570547516,0.525,0.0,False,0.0009430368663743138,0.001973795937374234,0.034072041511535645
-"there's quite a bit of action in it, and when the action is going down, my god, it's satisfying",0.07690986,0.0003779438175383,0.4319444444444444,0.0,False,0.0007505005924031138,0.0004508982819970697,0.0011247091460973024
-"there's a lot of tiny action moments, but there's like three major set pieces in each act",0.048868883,0.0611663666303595,0.4729166666666666,0.0,False,0.0007323672180064023,0.0004112152964808047,0.00031825521728023887
-"there's an incredible sequence on her homeland, an amazing world war one sequence, and of course the big epic finale",0.09387396,0.0003234324034323,0.3,0.152,False,0.0005622442695312202,0.0004341565363574773,0.00041090630111284554
-"that finale did get a little cgi heavy, and it reminded me of some of the doomsday stuff in the end of vbs, for some people, that might be a turn-off, but here i thought it was handled considerably better in regards to the way it was all cut together",0.10300289,0.9736559061910124,0.48125,0.087,False,0.0007963276584632695,0.00046572709106840193,0.0008620021981187165
-"there is a lot of cgi and that's to be expected, because wonder woman is not normal, so that kind of shit's going to happen",0.7007861,0.9999079952239776,0.471875,0.0,False,0.9175188541412354,0.6908167600631714,0.8501034379005432
-"but since i actually cared about the characters this time around, i didn't mind as much when it got cgi heavy",0.07251463,0.9679188853467896,0.5,0.0,False,0.0008176748524419963,0.0005541422870010138,0.007073570974171162
-"my biggest gripe with wonder woman is pretty much the same one i've had with most superhero movies as of late, whether it's marvel or dc, and that's the villain characters",0.1580154,0.1968089453319959,0.435,0.096,False,0.0007427597884088755,0.0018244738457724452,0.005100389011204243
-they're pretty weak,0.38953075,0.9999921317587076,0.53125,0.408,False,0.42836734652519226,0.5206074714660645,0.652600109577179
-"there's like two or three in this movie and some of them are just so poorly underdeveloped, and they feel very hammy, which doesn't really fit in with the rest of the movie",0.31389946,0.9999948141136936,0.4666666666666667,0.065,False,0.0013033379800617695,0.012291942723095417,0.0030217927414923906
-and that was a major disappointment,0.1550967,0.9999681693874986,0.634375,0.418,False,0.0006795821827836335,0.0006572582642547786,0.0018801785772666335
-for me,0.027580723,0.0570814976338946,0.5,0.0,False,0.001279025455005467,0.0005845719133503735,0.0005781835061497986
-"the movie is really long, but i think it works for this character",0.034104515,0.0019735277790345,0.525,0.0,False,0.0005693983403034508,0.0004191123880445957,0.0004510102153290063
-you really needed to see her upbringing,0.14059398,0.0367225425053422,0.4,0.0,False,0.0005644457414746284,0.002464157762005925,0.0011301457416266203
-her roots where she came from,0.08290337,0.0023427390408959,0.5,0.0,False,0.000609750859439373,0.0004179497482255101,0.002405595500022173
-why she is the way she is,0.02809576,0.000235451159889,0.5,0.0,False,0.006520605646073818,0.0032723774202167988,0.005069960840046406
-"it wasn't just a bunch of padded scenes, and they also wisely understood which elements of her origin to poke fun, at, which things sounded silly enough to make a joke out of it",0.2752517,0.136749407780725,0.4375,0.0,False,0.0015375694492831826,0.32391345500946045,0.2814486622810364
-and so it wasn't just,0.018742332,0.951887462929109,0.5,0.0,False,0.0009680917137302458,0.00034150300780311227,0.0004996071802452207
-it was kind of like the way they did it with,0.039254878,0.9627639057306012,0.2,0.0,False,0.000665229803416878,0.00035124632995575666,0.0010700873099267483
-"for like thor has some really silly and cheesy origins, and they found ways to poke fun at it and make it entertaining enough so that you could at least get a joke out of it",0.39010584,0.9963264254347336,0.5416666666666666,0.0,False,0.10040204226970673,0.3192138075828552,0.8756458163261414
-"i talked about it briefly, but some of the action scenes are genuinely epic",0.078108564,0.0484061357260893,0.4666666666666667,0.0,False,0.0005400648806244135,0.00035016125184483826,0.00047481784713454545
-like the very definition of epic,0.023288755,0.0004257493441791,0.425,0.0,False,0.0025291400961577892,0.0008123496081680059,0.0005670870305038989
-the score is also really exciting and i'm looking forward to buying it all in all,0.045778666,0.0006932397441796,0.35,0.0,False,0.0006276697968132794,0.0003623796219471842,0.00030750728910788894
-wonder woman is pretty much exactly what i would want out of a wonder woman movie,0.04543531,3.454277143182261e-05,0.375,0.0,False,0.0009507503709755838,0.005102226044982672,0.024659521877765656
-i am so happy to say that this is the first great dc eu movie and i had a blast with it,0.12953265,0.0007371707580627,0.1916666666666666,0.0,False,0.0006771639455109835,0.00042319815838709474,0.003570446278899908
-the villain characters could be better,0.13146462,0.999448448206974,0.25,0.343,False,0.0006596149178221822,0.0007006202940829098,0.0006939293816685677
-this isn't like the best dc movie since the dark knight,0.09494796,0.9995864106650912,0.2875,0.378,False,0.0010740346042439342,0.01577356457710266,0.0013398590963333845
-i would say the dark knight rises is probably still a better film,0.06372416,0.99741719018785,0.4125,0.0,False,0.0007731035002507269,0.0026766073424369097,0.0012087805662304163
-but this is a blast,0.19862764,0.0027239910962504,0.5,0.0,False,0.005703965201973915,0.0012965135974809527,0.002107446314767003
-it's really fun,0.04268845,0.0027014295104231,0.35,0.0,False,0.0006708196015097201,0.00032072453177534044,0.0007189821917563677
-also colorful,0.047495455,0.0009503881755116,0.35,0.0,False,0.0007147043361328542,0.0004953918978571892,0.0007551234448328614
-this is a really colorful movie,0.08555053,0.001241840946721,0.35,0.0,False,0.0006880206055939198,0.0004718276613857597,0.0010266193421557546
-it's not be saturated and depressing,0.06971766,0.9977330523894328,0.8,0.342,False,0.0015427088364958763,0.0006021015578880906,0.01880958303809166
-"there's a ton of colors in almost every scene which, oh my god, just colors people",0.1539292,0.9848646331673908,0.5,0.0,False,0.0008924854337237775,0.0010336219565942883,0.011548805050551891
-they really matter,0.044748597,0.0001793601367357,0.4,0.0,False,0.006524931639432907,0.0005702284397557378,0.001989862183108926
-i'm going to give wonder woman an a,0.17518331,0.1006944438235289,0.5,0.0,False,0.01373251248151064,0.022509798407554626,0.054974377155303955
--,,0.0150967409208095,0.5,0.0,False,0.000781749258749187,0.001182269654236734,0.0006779019022360444
-"i really did have a blast with this one guys, and i hope you do, too",0.25219622,4.223218905857864e-05,0.4,0.0,False,0.0006937578436918557,0.0008902139961719513,0.006819610018283129
-i also met a lot of really great fans at this screening and i want to give them a nice shout out,0.086087525,0.0019049190992795,0.15,0.0,False,0.0007217336678877473,0.0004774065164383501,0.000863374094478786
-"it was so cool to meet you guys, matt, angelique, camille, josh and andrew",0.019297661,0.0014980058478915,0.325,0.0,False,0.0006337961531244218,0.0007331740926019847,0.0008255371358245611
-"i always love meeting you guys, so if you ever see me at a movie, just come up and say hi",0.08689302,0.0009882093808153,0.25,0.0,False,0.0005987566546536982,0.0021069541107863188,0.0013788036303594708
-i'd love to meet you,0.094410956,0.0014245391252172,0.25,0.0,False,0.0010285371681675315,0.02912243828177452,0.00420084735378623
-"thank you so much as always for watching guys are the best and if you like this, you can click right here and get stuck my knives",0.1894391,0.0020932800271907,0.2523809523809524,0.058,False,0.0012405355228111148,0.047602396458387375,0.16601786017417908
+"wonder woman is directed by patty jenkins, the director of monster, and stars gal gadot as diana prince",0.067320265,0.0,0.0,0.0,False,0.0009711874299682,0.0048776343464851,0.0286861918866634
+"the film shows us her origins as she trained to become a warrior, and eventually she meets chris pine, a man who washes up on shore at her homeland, and a man is very rare around those parts, and she then learns of world war 1, and wants to help and take part and battle against the german, and i went to this screening really excited, but at the same time realistic, i want to be a little reserved and i don't like to get my hopes up, because disappointment always sucks, especially with big movies i'm excited for and the dc movie since man of steel, haven't impressed me that much",0.22775516,0.6087222695350647,0.0,0.137,False,0.0028096588794142,0.0707803666591644,0.0538658052682876
+i haven't yet seen a great one,0.06372416,0.960386335849762,0.0,0.0,False,0.0006137997261248,0.0003959139576181,0.0008209507795982
+one that i want to watch over and over and over,0.1019289,0.0,0.0,0.0,False,0.004769139457494,0.0121354572474956,0.0006706991116516
+that's a breath i've been holding since 2013,0.03994159,0.0,0.0,0.0,False,0.0009043235331773,0.0006758576491847,0.000674337381497
+wonder woman is the first really really legitimately good dc eu movie,0.04818217,0.0,0.0,0.0,False,0.0009637144976295,0.0026281566824764,0.0063392613083124
+"despite all of the hate that went her way when she got cast, gal gadot owns the role of wonder woman",0.17173064,0.0,0.8,0.156,False,0.0036541840527206,0.0062643876299262,0.0048014218918979
+"she reminded me of christopher reeve in the first superman movie, full of joy, hope, and completely without cynicism",0.09602194,0.0,0.0,0.0,False,0.001071204082109,0.0051697441376745,0.0504112169146537
+this is a fantastic casting choice,0.079307266,0.0,0.0,0.0,False,0.0006269800942391,0.0003444513713475,0.0007751967059448
+she really nailed this role,0.15626417,0.0,0.0,0.0,False,0.0005867058644071,0.000415006885305,0.0016543271485716
+this movie was a total blast from start to finish,0.29261994,0.0,0.0,0.0,False,0.0013391661923378,0.0004956889897584,0.0021042639855295
+it has a lot of the things that i want to see in a superhero movie,0.047495455,0.0,0.0,0.0,False,0.0006792312487959,0.0005363622913137,0.0005717413732782
+it's extremely funny,0.06372416,0.0,0.0,0.0,False,0.0007575759082101,0.0003285206621512,0.0008021023822948
+chris pine has amazing chemistry with gal gadot and there's two fish-out-of-water stories in this movie,0.062925026,0.0,0.0,0.0,False,0.000699091295246,0.0005244506173767,0.0021648544352501
+"the first act is chris pine in this place and he's like i don't get any of this and everything is surprising to him and he's learning a lot about diana and her upbringing and then we have another fish out of the water story, and that's diana going away from her homeland and learning about the real world and what's going on there, and world war one, and so we get to see two characters who sort of teach each other things which i was really happy about because i didn't want to just go to this movie and see a perfect character with no flaws",0.12244874,0.0,0.0,0.061,False,0.0007752738893032,0.0007839025347493,0.0004942580126225
+"from the very beginning, she has a lot to learn",0.07131593,0.0,0.0,0.0,False,0.0007241035928018,0.000770341255702,0.0012269357684999
+"she's very naive and the film was wise to understand that, and it allows you to go on this journey with her and feel like you're experiencing all of her ups and downs emotionally",0.2008281,0.0,0.0,0.061,False,0.0008990051574073,0.0244278442114591,0.1123976111412048
+it's not just like she's born,0.038911518,0.0,0.0,0.297,False,0.0022034947760403,0.0085533633828163,0.0022797544952481
+she's a perfect fighter,0.1473238,0.0,0.0,0.0,False,0.008350359275937,0.0016346104675903,0.0048580653965473
+she's a superhero,0.035306264,0.0,0.0,0.0,False,0.0635098218917846,0.0065818722359836,0.0147445993497967
+nobody can touch her,0.30487993,0.9999855756759644,0.0,0.0,False,0.1967046409845352,0.2717525064945221,0.0044795512221753
+she's not a mary sue,0.027065687,0.9677877426147461,0.0,0.0,False,0.0584346242249012,0.0063973986543715,0.0367914885282516
+that term that describes someone who's just perfect at everything,0.08796701,0.0,0.0,0.0,False,0.0006918997969478,0.0005026454455219,0.0008591715013608
+"a lot of people complain about ray in the force awakens that, this very self-sufficient character that had virtually no flaws",0.08689302,0.0,0.0,0.198,False,0.000858791754581,0.0005243393825367,0.0010423253988847
+that's very much so not the case in wonder woman,0.059728492,0.9762104749679565,0.0,0.0,False,0.0010589209850877,0.0053172037005424,0.015529884956777
+"this isn't just about empowerment, like this perfect person who hates men and doesn't like men and men suck",0.6955873,0.0,0.0,0.275,False,0.9441846013069152,0.8789785504341125,0.8546841740608215
+"it's actually a very equal movie, which is something i was really excited about because i really didn't want to watch another ghostbusters movie, where the entire time i'm just reminded about how horrible i am because i'm a man",0.2590451,0.0,0.085,0.112,False,0.0006960790487937,0.0163264069706201,0.0691744312644004
+this,0.028439116,0.0,0.0,0.0,False,0.0022365439217537,0.0004711963993031,0.0005406324053183
+"actually, it's very much so, the opposite of that, which brings me to chris pine",0.044405237,0.9404856562614441,0.0,0.0,False,0.0008238035952672,0.0035119839012622,0.0011715245200321
+their chemistry is amazing,0.04234509,0.0,0.0,0.0,False,0.000616380595602,0.0003511994727887,0.000903395586647
+"they both learn from each other, and their relationship in the film went to emotional heights that i did not expect and i was genuinely touched by the end of the film",0.037881445,0.0,0.0,0.0,False,0.0005795084289275,0.0003422257432248,0.0003848341293632
+"i was really into that aspect of the movie, which was a major surprise, and i found myself really caring",0.034104515,0.0,0.0,0.0,False,0.0005654653650708,0.0003975398431066,0.0004985164268873
+but he brings a lot to the movie,0.058130227,0.0,0.0,0.0,False,0.0006862796144559,0.0004461409407667,0.0004314897814765
+he's not just some guy that she's constantly saving because he's some weak guy like he actually brings quite a bit to her character and her to him,0.27690583,0.0,0.125,0.092,False,0.0234934091567993,0.0478124022483825,0.0131194191053509
+"they both really learn from each other, and there's a lot of times in the movie where patty jenkins and the screenwriter",0.02655065,0.0,0.0,0.0,False,0.0005998993874527,0.0021792100742459,0.0006750301690772
+they took the time to have smaller moments,0.037881445,0.9983839988708496,0.0,0.0,False,0.0006403566221706,0.0004465545353014,0.0008574891835451
+"there's a scene where he teaches her how to dance, and it really means a lot for their characters, but it's also the type of quiet small moment you don't normally get in movies like this, and it makes their relationship so much more fleshed out",0.11536485,0.0,0.0,0.0,False,0.0006717175128869,0.0009888055501505,0.0004593794583342
+and there's a lot of scenes like that,0.036851373,0.0,0.0,0.0,False,0.0007362895994447,0.0003791256749536,0.0009337264928035
+"i won't get into any spoilers, but there's a lot of times where the movie does slow down and lets these characters just be people",0.090114996,0.9877603650093079,0.2277777777777778,0.0,False,0.000725285266526,0.0005427350988611,0.0006453484529629
+it's not just a mindless series of action scenes,0.1894391,0.9994749426841736,0.05,0.0,False,0.0009430368663743,0.0019737959373742,0.0340720415115356
+"there's quite a bit of action in it, and when the action is going down, my god, it's satisfying",0.07690986,0.0,0.0,0.0,False,0.0007505005924031,0.000450898281997,0.0011247091460973
+"there's a lot of tiny action moments, but there's like three major set pieces in each act",0.048868883,0.0,0.0,0.0,False,0.0007323672180064,0.0004112152964808,0.0003182552172802
+"there's an incredible sequence on her homeland, an amazing world war one sequence, and of course the big epic finale",0.09387396,0.0,0.0,0.152,False,0.0005622442695312,0.0004341565363574,0.0004109063011128
+"that finale did get a little cgi heavy, and it reminded me of some of the doomsday stuff in the end of vbs, for some people, that might be a turn-off, but here i thought it was handled considerably better in regards to the way it was all cut together",0.10300289,0.9473146796226501,0.0,0.087,False,0.0007963276584632,0.0004657270910684,0.0008620021981187
+"there is a lot of cgi and that's to be expected, because wonder woman is not normal, so that kind of shit's going to happen",0.7007861,0.9998160004615784,0.0,0.0,False,0.9175188541412354,0.6908167600631714,0.8501034379005432
+"but since i actually cared about the characters this time around, i didn't mind as much when it got cgi heavy",0.07251463,0.9358412623405457,0.0,0.0,False,0.0008176748524419,0.000554142287001,0.0070735709741711
+"my biggest gripe with wonder woman is pretty much the same one i've had with most superhero movies as of late, whether it's marvel or dc, and that's the villain characters",0.1580154,0.0,0.0,0.096,False,0.0007427597884088,0.0018244738457724,0.0051003890112042
+they're pretty weak,0.38953075,0.9999842643737793,0.0625,0.408,False,0.4283673465251922,0.5206074714660645,0.652600109577179
+"there's like two or three in this movie and some of them are just so poorly underdeveloped, and they feel very hammy, which doesn't really fit in with the rest of the movie",0.31389946,0.9999896287918091,0.0,0.065,False,0.0013033379800617,0.0122919427230954,0.0030217927414923
+and that was a major disappointment,0.1550967,0.9999363422393799,0.26875,0.418,False,0.0006795821827836,0.0006572582642547,0.0018801785772666
+for me,0.027580723,0.0,0.0,0.0,False,0.0012790254550054,0.0005845719133503,0.0005781835061497
+"the movie is really long, but i think it works for this character",0.034104515,0.0,0.05,0.0,False,0.0005693983403034,0.0004191123880445,0.000451010215329
+you really needed to see her upbringing,0.14059398,0.0,0.0,0.0,False,0.0005644457414746,0.0024641577620059,0.0011301457416266
+her roots where she came from,0.08290337,0.0,0.0,0.0,False,0.0006097508594393,0.0004179497482255,0.0024055955000221
+why she is the way she is,0.02809576,0.0,0.0,0.0,False,0.0065206056460738,0.0032723774202167,0.0050699608400464
+"it wasn't just a bunch of padded scenes, and they also wisely understood which elements of her origin to poke fun, at, which things sounded silly enough to make a joke out of it",0.2752517,0.0,0.0,0.0,False,0.0015375694492831,0.3239134550094604,0.2814486622810364
+and so it wasn't just,0.018742332,0.9037801623344421,0.0,0.0,False,0.0009680917137302,0.0003415030078031,0.0004996071802452
+it was kind of like the way they did it with,0.039254878,0.9255318641662598,0.0,0.0,False,0.0006652298034168,0.0003512463299557,0.0010700873099267
+"for like thor has some really silly and cheesy origins, and they found ways to poke fun at it and make it entertaining enough so that you could at least get a joke out of it",0.39010584,0.9926532506942749,0.0833333333333333,0.0,False,0.1004020422697067,0.3192138075828552,0.8756458163261414
+"i talked about it briefly, but some of the action scenes are genuinely epic",0.078108564,0.0,0.0,0.0,False,0.0005400648806244,0.0003501612518448,0.0004748178471345
+like the very definition of epic,0.023288755,0.0,0.0,0.0,False,0.0025291400961577,0.000812349608168,0.0005670870305038
+the score is also really exciting and i'm looking forward to buying it all in all,0.045778666,0.0,0.0,0.0,False,0.0006276697968132,0.0003623796219471,0.0003075072891078
+wonder woman is pretty much exactly what i would want out of a wonder woman movie,0.04543531,0.0,0.0,0.0,False,0.0009507503709755,0.0051022260449826,0.0246595218777656
+i am so happy to say that this is the first great dc eu movie and i had a blast with it,0.12953265,0.0,0.0,0.0,False,0.0006771639455109,0.000423198158387,0.0035704462788999
+the villain characters could be better,0.13146462,0.9988969564437866,0.0,0.343,False,0.0006596149178221,0.0007006202940829,0.0006939293816685
+this isn't like the best dc movie since the dark knight,0.09494796,0.9991728663444519,0.0,0.378,False,0.0010740346042439,0.0157735645771026,0.0013398590963333
+i would say the dark knight rises is probably still a better film,0.06372416,0.9948346614837646,0.0,0.0,False,0.0007731035002507,0.0026766073424369,0.0012087805662304
+but this is a blast,0.19862764,0.0,0.0,0.0,False,0.0057039652019739,0.0012965135974809,0.002107446314767
+it's really fun,0.04268845,0.0,0.0,0.0,False,0.0006708196015097,0.0003207245317753,0.0007189821917563
+also colorful,0.047495455,0.0,0.0,0.0,False,0.0007147043361328,0.0004953918978571,0.0007551234448328
+this is a really colorful movie,0.08555053,0.0,0.0,0.0,False,0.0006880206055939,0.0004718276613857,0.0010266193421557
+it's not be saturated and depressing,0.06971766,0.9954663515090942,0.6,0.342,False,0.0015427088364958,0.000602101557888,0.0188095830380916
+"there's a ton of colors in almost every scene which, oh my god, just colors people",0.1539292,0.9697309136390686,0.0,0.0,False,0.0008924854337237,0.0010336219565942,0.0115488050505518
+they really matter,0.044748597,0.0,0.0,0.0,False,0.0065249316394329,0.0005702284397557,0.0019898621831089
+i'm going to give wonder woman an a,0.17518331,0.0,0.0,0.0,False,0.0137325124815106,0.0225097984075546,0.0549743771553039
+-,,0.0,0.0,0.0,False,0.0007817492587491,0.0011822696542367,0.000677901902236
+"i really did have a blast with this one guys, and i hope you do, too",0.25219622,0.0,0.0,0.0,False,0.0006937578436918,0.0008902139961719,0.0068196100182831
+i also met a lot of really great fans at this screening and i want to give them a nice shout out,0.086087525,0.0,0.0,0.0,False,0.0007217336678877,0.0004774065164383,0.0008633740944787
+"it was so cool to meet you guys, matt, angelique, camille, josh and andrew",0.019297661,0.0,0.0,0.0,False,0.0006337961531244,0.0007331740926019,0.0008255371358245
+"i always love meeting you guys, so if you ever see me at a movie, just come up and say hi",0.08689302,0.0,0.0,0.0,False,0.0005987566546536,0.0021069541107863,0.0013788036303594
+i'd love to meet you,0.094410956,0.0,0.0,0.0,False,0.0010285371681675,0.0291224382817745,0.0042008473537862
+"thank you so much as always for watching guys are the best and if you like this, you can click right here and get stuck my knives",0.1894391,0.0,0.0,0.058,False,0.0012405355228111,0.0476023964583873,0.166017860174179

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user nope i wanna fight punk,0.39230084,0.0,0.0,0.0,0.6877365708351135,0.1485880464315414,0.2446159869432449,False
+@user nope i wanna fight punk,0.39230084,0.9823922514915466,0.0,0.0,0.6877365708351135,0.1485880464315414,0.2446159869432449,False

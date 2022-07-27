@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user lol nall fool jus a guess,0.36667302,0.0,0.0,0.271,0.707109808921814,0.9402695298194884,0.5326359868049622,False
+@user lol nall fool jus a guess,0.36667302,0.9991933703422546,0.0,0.271,0.707109808921814,0.9402695298194884,0.5326359868049622,False

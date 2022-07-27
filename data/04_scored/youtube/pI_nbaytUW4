@@ -1,75 +1,75 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hi, that, i want to another one of my classic reviews",0.045778666,0.0299647835531995,0.4166666666666667,0.0,False,0.0007732920348644257,0.0006127601373009384,0.0005120274727232754
-"well, i pick one of my favorite movies",0.03358948,6.852237416465071e-05,0.25,0.0,False,0.0007869588444009423,0.0004843217902816832,0.0004129124281462282
-give it a rewatch and i come to view it and then it's better,0.10956893,0.8054692419038013,0.25,0.0,False,0.0005997630069032311,0.0009591614361852407,0.00044112798059359193
-"i'm gonna psych, real window, one of the average hitchcock's many classic movies",0.09763293,0.006632244530989,0.4104166666666666,0.0,False,0.0031178409699350595,0.0038251359947025776,0.0009620300843380392
-a lot of his very best work,0.030155903,0.0002307525971216,0.0,0.0,False,0.000644630694296211,0.0004069698043167591,0.002673748414963484
-"so this is one 1954, and he's a real gem of hollywood",0.08796701,3.5289469774226376e-05,0.4,0.0,False,0.0012087062932550907,0.000396295334212482,0.0012144969077780843
-it's one of the very finest films from that entire ear,0.062125895,0.0002836569964875,0.45,0.0,False,0.0009606160456314683,0.0014980542473495007,0.0055680712684988976
-"basically the premise that the photographer of a book and leg is cooped up in a room all day, and he spends his days looking out of his apartment window",0.0789077,0.9991855703027188,0.5,0.0,False,0.0025922046042978764,0.0006403620936907828,0.001994042657315731
-i just watching all you know people in their apartments and then he begin to suspect somebody even murder,0.2995453,0.9780127229864548,0.5,0.289,False,0.0056347972713410854,0.011852835305035114,0.06185171753168106
-it's not a particularly complex family,0.02517722,0.9994301823622096,0.425,0.0,False,0.0012931092642247677,0.0004213227948639542,0.0005325853126123548
-"actually quite simple, but it's a lot going on here, and part of i just hustling me well made",0.17173064,0.009106799377725,0.5,0.0,False,0.000959394033998251,0.003169133560732007,0.012276571244001389
-it is average,0.033761155,0.9664263316670684,0.575,0.0,False,0.0008500280673615634,0.002670826856046915,0.015617765486240387
-hit is obviously a very well-respected director and he's working a wonder is exemplary,0.020824814,2.700359764818336e-05,0.4,0.0,False,0.0007194880745373666,0.0016803607577458024,0.02476186864078045
-"there is so many beautiful technical shots in via window, and there's so many long panning shots and just complex camera movements and it's all beautifully executed",0.13565879,4.992386982418005e-05,0.3321428571428571,0.0,False,0.0006745352875441313,0.0004329206421971321,0.00044820792390964925
-"the government never leaves the apartment, and in fact the whole film never leaves you apartment blocks that the film takes person",0.09172598,0.9945073311340006,0.4,0.083,False,0.0012075739214196801,0.0006555588915944099,0.0009450997458770871
-it really traps its characters,0.13431281,0.9989886765211916,0.4,0.0,False,0.0006780347321182489,0.0010608899174258113,0.013356304727494717
-if i'd i think this is why it's one of his most dispensable movies is because it literally entrapped it,0.1473238,0.997424256175322,0.25,0.0,False,0.001266881707124412,0.0007948943530209363,0.02155412547290325
-share these characters,0.031185975,0.0003056234992102,0.5,0.0,False,0.0007342288736253977,0.0009828568436205387,0.0007179209496825933
-it's so entrapping that you know it,0.20009461,0.0033019200422281,0.5,0.0,False,0.0016001955373212695,0.005828455090522766,0.017843732610344887
-how does can't escape,0.039254878,0.0018442324592483,0.5,0.336,False,0.0017547638854011893,0.0004384871863294393,0.003066826378926635
-you know they're stuck there,0.058130227,0.983061114118962,0.5,0.333,False,0.004415606148540974,0.004520182963460684,0.0007453347207047045
-"so whatever happens, they are really confined",0.05773066,0.9993689920907178,0.4,0.0,False,0.0006217619520612061,0.0004151024331804365,0.0010314451064914465
-it wish you one of the reason why it's just so tense,0.17173064,0.999079105787488,0.6666666666666666,0.197,False,0.0006867818301543593,0.00437029218301177,0.014030125923454762
-"obviously in the master of suspense is hitchcock, and so you'll expect that, but beyond that rear window has many other great things, so the film is obviously kind of about voyeurism",0.18450552,0.9850882318708918,0.3225,0.0,False,0.0010011170525103807,0.0003777695237658918,0.011413253843784332
-"it's about people looking at lies above us, and it's keeping time watching papa peed and i feel like the film mix or years of the audience, because the audience themselves go along with it",0.09978092,0.0004482418377825,0.5,0.073,False,0.010941717773675919,0.019792193546891212,0.011773808859288692
-"in fact, something as trivial as one character not being seen for a few days leads to the lead couch through your window to suspect a murder, and in a way they want it to be murder if you don't want to be too boring",0.2835225,0.9998403628377442,0.8,0.292,False,0.03409076854586601,0.019630812108516693,0.08877421170473099
-"if it isn't, and yeah, that's what the audience wants to, and it's kind of perverse",0.355017,0.8164104677985824,0.3,0.262,False,0.0008333216537721455,0.005114968866109848,0.0589907132089138
-in that way,0.020408317,0.0158830034855802,0.5,0.0,False,0.0007251809001900256,0.0003701866080518812,0.0012931899400427938
-"these kind of playing with that sense of well, you're obviously you don't want it to be murder, but you kind of do for the sake of the story, for the sake of your going at the tab for the second file",0.21036349,0.9993904519034184,0.35,0.088,False,0.006350044161081314,0.0038902966771274805,0.012106982991099358
-"you're watching these people, and also a few depressing subplots",0.1621016,0.8918034394416753,0.7,0.224,False,0.002271486446261406,0.03449592739343643,0.014188684523105621
-"and if you introduce applause just to do with the characters in wilander, because they're obviously filmed from within one apartment",0.055333257,0.1082429077926988,0.5,0.0,False,0.0006836752872914076,0.000504263851325959,0.0035811548586934805
-you don't hear what's going on,0.054534122,0.9755054121200551,0.5,0.0,False,0.0011880792444571853,0.0007223539869301021,0.0009251300944015384
-"leave a palace, but you can see it, and particularly would support for him",0.04818217,0.0066377585106413,0.4166666666666667,0.064,False,0.0006806036690250039,0.00042191240936517715,0.0010517716873437166
-it's lonely hearts,0.018742332,0.0747248859463114,0.55,0.321,False,0.000869874085765332,0.00043812175863422453,0.006020542234182358
-a single lady is very interesting in how depressing,0.22991583,0.0366238230447689,0.5035714285714286,0.206,False,0.008996845223009586,0.007049445062875748,0.030277764424681664
-that kinda gets impasse,0.08796701,0.9884818926124148,0.5,0.0,False,0.004616883583366871,0.0032465329859405756,0.024357179179787636
-so it's a lot of these interesting aspects to which are kind of fast made,0.05653196,0.0098688313656622,0.2833333333333333,0.0,False,0.000598524697124958,0.00033072009682655334,0.000573063618503511
-"there's also a lot of ways that the film mommy, there's two counters by jeff stewart and grace kelly, and they are absolutely greatly the male lead of analyzes manage, which is kind of a key theme in the the way he looks at marion, and why he wants to do his life, conflict with the female lead",0.049898956,0.012214776362672,0.3666666666666667,0.038,False,0.0007726107141934335,0.0013882409548386931,0.007064370438456535
-"and what are you know? coming to this grand stage of all these characters in their lives, and he sees various stage of mary doing them",0.03427619,0.0038024701734683,0.375,0.0,False,0.0013575319899246097,0.0011737450258806348,0.001074530417099595
-"he sees the newlyweds, he sees a woman who's playing a bunch of men she doesn't love",0.22598907,0.9659398794405606,0.25,0.167,False,0.014452368952333927,0.02255910448729992,0.09508408606052399
-"he sees the man ii might have murdered his wife, and you start toward the mmm",0.41950125,0.9505298561879594,0.5,0.227,False,0.05705178156495094,0.02317751757800579,0.4646405279636383
-"he's right to analyze marriage if i was a lot of things in here which i think, which i see which some people have talked about before",0.027065687,0.0268292366699914,0.3571428571428571,0.0,False,0.0005864394479431212,0.00046243186807259917,0.0006108947563916445
-"some people have a view via window in a feminist lens or in the lens of a being about patriarchy, i mean, is certainly a lot of strong female characters here, and also a lot of stuff about women who are strong world, and women who don't want to do what's expected of them are women who don't fall in love or don't fall for men that they have traditionally expected to, and things like this, which play into an interesting perspective via window",0.09494796,0.000297397237675,0.4128637566137566,0.047,False,0.0009895939147099853,0.003300983225926757,0.004621134139597416
-"if you really want to go down that route, obviously, we, window is also just fantastic",0.043031808,0.0039935519223893,0.4444444444444444,0.0,False,0.0006392492796294391,0.0004143390106037259,0.0007535822805948555
-"he's short, fantastic",0.16620636,0.0001053319140051,0.4,0.0,False,0.002287000184878707,0.022812284529209137,0.05718979239463806
-he made it really really tense towards the end when the characters have really really trapped,0.13476147,0.878625981842316,0.6333333333333333,0.332,False,0.0006068129441700876,0.00039061580901034176,0.0008630952797830105
-it is some of hitchcock's be really sever suspense work,0.10461388,0.1060453931668677,0.4,0.0,False,0.0009738202788867056,0.000426274084020406,0.002182727912440896
-it also has just one of her performances across the board,0.027237365,0.938085847298232,0.5,0.0,False,0.000642714905552566,0.0003786256129387766,0.0009098423179239035
-it also has a wonderful look,0.033074442,0.0025014690284978,0.0,0.0,False,0.0006145483930595219,0.00032106961589306593,0.0006510636885650456
-it feels light and vibrant even though it sometimes isn't,0.1621016,0.0002734933907502,0.3583333333333333,0.0,False,0.0005960989510640502,0.000360989710316062,0.0005250448011793196
-there's also a lot of interesting ways they work,0.031529333,0.0006221557365432,0.25,0.0,False,0.0005945998127572238,0.00038417085306718946,0.0003518330049701035
-you really don't know which way it's gonna go it,0.043375164,0.9433242769943208,0.4,0.0,False,0.0010559200309216976,0.0027516845148056746,0.0021644537337124348
-"it's really well, sort of really cut unprintable and all the things just kind of slot in towards the end in a very perfect way",0.047495455,8.211358887499466e-05,0.25,0.086,False,0.0006207905244082212,0.0003865001490339637,0.0004959662328474224
-"it's obvious, classic enough one has already made the case that we wonder where the masterpiece and i got video",0.1024659,0.0013495241659099,0.4722222222222222,0.0,False,0.0006038287538103759,0.00036181622999720275,0.00035512345493771136
-"much want to say, i think it's wonderful",0.031014297,0.0026208988472354,0.2,0.0,False,0.0005668646190315485,0.00030864542350172997,0.0012299780501052737
-i think it's great,0.022773718,0.0047619324382505,0.0999999999999999,0.0,False,0.0005715101142413914,0.00032998970709741116,0.0006105519132688642
-it makes the audience part of the experience,0.015757442,0.0004602533718358,0.5,0.0,False,0.0007387896184809506,0.000338118989020586,0.000248804222792387
-i can integrate how it makes audience do all the characters are doing,0.02929751,0.0001901875900585,0.5,0.0,False,0.0007144602714106441,0.00038693685200996697,0.0003655359905678779
-"i think it's really fascinating to the work i think is pulling at me, mayor",0.06492286,0.0007660258975231,0.15,0.0,False,0.0007467669784091413,0.0009084130870178342,0.0017016747733578086
-i think it's tense and exciting,0.13386416,0.0004112832714649,0.5083333333333333,0.25,False,0.0005727753159590065,0.00036239135079085827,0.0010859417961910367
-that thing is to enjoy a,0.039254878,0.0298517618729766,0.3,0.0,False,0.0009594749426469207,0.0005162280285730958,0.006469518877565861
-but i think it's mysterious,0.037023053,0.0200771748514243,0.5,0.0,False,0.0006477102288044989,0.00035253993701189756,0.0009445723262615502
-i think it has a couple of things that were analyzed in a social context,0.016104523,0.0085008577218888,0.4833333333333333,0.0,False,0.000558486848603934,0.0003219686623197049,0.00027344623231329024
-"because why not any film that's have this much cultural impact deserves to be analyzed like that, and i think there's perfectly many ways that this is a significant work",0.03444787,0.0001072394529118,0.3375,0.0,False,0.0006134496652521193,0.000398999109165743,0.0003739376552402973
-"so yeah, i think we window is absolutely fantastic",0.03599298,0.0006918107119337,0.3,0.0,False,0.0006400131387636065,0.00040942284977063537,0.0005858846707269549
-"i find it be one of my favorite hitchcock's and one of his obvious masterpieces that on sundays you might be my favorite hitchcock movie, although there's many contenders, so yeah, this is fantastic cinema and one of the very finest films ever made in hollywood",0.057331093,0.0,0.3249999999999999,0.0,False,0.0006337647209875286,0.0004551165329758078,0.00039934899541549385
-and me a window is just an obvious classic,0.06012806,0.9343369968512196,0.4583333333333333,0.0,False,0.0009620044729672372,0.0004343759792391211,0.0021562171168625355
-across the board,0.020824814,0.00403679940604,0.5,0.0,False,0.0012697447091341019,0.0014566675527021289,0.0005235757562331855
-i can't recommend this enough,0.06652113,0.0028650042167041,0.5,0.345,False,0.0007189136813394725,0.000759475864470005,0.0004878671024926007
-"it's obviously great, and one of the greatest films of 1950 is undoubtably",0.04818217,0.0002961454152674,0.0499999999999999,0.0,False,0.000941081962082535,0.00039635729626752436,0.0004357208963483572
-so have you seen via window? i would love to tell your fault,0.14866976,0.9896643879028056,0.25,0.151,False,0.056183990091085434,0.07995657622814178,0.014537799172103405
-"so leave me a comment if you want, and give this video a like",0.15626417,0.0387884028191636,0.5,0.092,False,0.010417413897812366,0.004870723467320204,0.001031500636599958
-"if you like what i said here, you can subscribe because i post reviews all the time and you feel like your moves on boxing",0.0753116,0.961479695813116,0.5,0.0,False,0.0035445860121399164,0.001565534737892449,0.015328174456954002
-you can follow me on letterbox or twitter links in the description and thank you for watching,0.02193547,0.0556166216383166,0.5,0.0,False,0.0006190024432726204,0.0006720456294715405,0.0004398330638650805
+"hi, that, i want to another one of my classic reviews",0.045778666,0.0,0.0,0.0,False,0.0007732920348644,0.0006127601373009,0.0005120274727232
+"well, i pick one of my favorite movies",0.03358948,0.0,0.0,0.0,False,0.0007869588444009,0.0004843217902816,0.0004129124281462
+give it a rewatch and i come to view it and then it's better,0.10956893,0.610977292060852,0.0,0.0,False,0.0005997630069032,0.0009591614361852,0.0004411279805935
+"i'm gonna psych, real window, one of the average hitchcock's many classic movies",0.09763293,0.0,0.0,0.0,False,0.003117840969935,0.0038251359947025,0.000962030084338
+a lot of his very best work,0.030155903,0.0,0.0,0.0,False,0.0006446306942962,0.0004069698043167,0.0026737484149634
+"so this is one 1954, and he's a real gem of hollywood",0.08796701,0.0,0.0,0.0,False,0.001208706293255,0.0003962953342124,0.001214496907778
+it's one of the very finest films from that entire ear,0.062125895,0.0,0.0,0.0,False,0.0009606160456314,0.0014980542473495,0.0055680712684988
+"basically the premise that the photographer of a book and leg is cooped up in a room all day, and he spends his days looking out of his apartment window",0.0789077,0.9983713030815125,0.0,0.0,False,0.0025922046042978,0.0006403620936907,0.0019940426573157
+i just watching all you know people in their apartments and then he begin to suspect somebody even murder,0.2995453,0.9560298323631287,0.0,0.289,False,0.005634797271341,0.0118528353050351,0.061851717531681
+it's not a particularly complex family,0.02517722,0.9988604784011841,0.0,0.0,False,0.0012931092642247,0.0004213227948639,0.0005325853126123
+"actually quite simple, but it's a lot going on here, and part of i just hustling me well made",0.17173064,0.0,0.0,0.0,False,0.0009593940339982,0.003169133560732,0.0122765712440013
+it is average,0.033761155,0.9328593611717224,0.15,0.0,False,0.0008500280673615,0.0026708268560469,0.0156177654862403
+hit is obviously a very well-respected director and he's working a wonder is exemplary,0.020824814,0.0,0.0,0.0,False,0.0007194880745373,0.0016803607577458,0.0247618686407804
+"there is so many beautiful technical shots in via window, and there's so many long panning shots and just complex camera movements and it's all beautifully executed",0.13565879,0.0,0.0,0.0,False,0.0006745352875441,0.0004329206421971,0.0004482079239096
+"the government never leaves the apartment, and in fact the whole film never leaves you apartment blocks that the film takes person",0.09172598,0.9890157580375671,0.0,0.083,False,0.0012075739214196,0.0006555588915944,0.000945099745877
+it really traps its characters,0.13431281,0.9979775547981262,0.0,0.0,False,0.0006780347321182,0.0010608899174258,0.0133563047274947
+if i'd i think this is why it's one of his most dispensable movies is because it literally entrapped it,0.1473238,0.9948490262031555,0.0,0.0,False,0.0012668817071244,0.0007948943530209,0.0215541254729032
+share these characters,0.031185975,0.0,0.0,0.0,False,0.0007342288736253,0.0009828568436205,0.0007179209496825
+it's so entrapping that you know it,0.20009461,0.0,0.0,0.0,False,0.0016001955373212,0.0058284550905227,0.0178437326103448
+how does can't escape,0.039254878,0.0,0.0,0.336,False,0.0017547638854011,0.0004384871863294,0.0030668263789266
+you know they're stuck there,0.058130227,0.9661256074905396,0.0,0.333,False,0.0044156061485409,0.0045201829634606,0.0007453347207047
+"so whatever happens, they are really confined",0.05773066,0.9987381100654602,0.0,0.0,False,0.0006217619520612,0.0004151024331804,0.0010314451064914
+it wish you one of the reason why it's just so tense,0.17173064,0.9981583952903748,0.3333333333333333,0.197,False,0.0006867818301543,0.0043702921830117,0.0140301259234547
+"obviously in the master of suspense is hitchcock, and so you'll expect that, but beyond that rear window has many other great things, so the film is obviously kind of about voyeurism",0.18450552,0.9701794385910034,0.0,0.0,False,0.0010011170525103,0.0003777695237658,0.0114132538437843
+"it's about people looking at lies above us, and it's keeping time watching papa peed and i feel like the film mix or years of the audience, because the audience themselves go along with it",0.09978092,0.0,0.0,0.073,False,0.0109417177736759,0.0197921935468912,0.0117738088592886
+"in fact, something as trivial as one character not being seen for a few days leads to the lead couch through your window to suspect a murder, and in a way they want it to be murder if you don't want to be too boring",0.2835225,0.999680757522583,0.6,0.292,False,0.034090768545866,0.0196308121085166,0.0887742117047309
+"if it isn't, and yeah, that's what the audience wants to, and it's kind of perverse",0.355017,0.6328575611114502,0.0,0.262,False,0.0008333216537721,0.0051149688661098,0.0589907132089138
+in that way,0.020408317,0.0,0.0,0.0,False,0.00072518090019,0.0003701866080518,0.0012931899400427
+"these kind of playing with that sense of well, you're obviously you don't want it to be murder, but you kind of do for the sake of the story, for the sake of your going at the tab for the second file",0.21036349,0.9987810254096985,0.0,0.088,False,0.0063500441610813,0.0038902966771274,0.0121069829910993
+"you're watching these people, and also a few depressing subplots",0.1621016,0.7836284637451172,0.4,0.224,False,0.0022714864462614,0.0344959273934364,0.0141886845231056
+"and if you introduce applause just to do with the characters in wilander, because they're obviously filmed from within one apartment",0.055333257,0.0,0.0,0.0,False,0.0006836752872914,0.0005042638513259,0.0035811548586934
+you don't hear what's going on,0.054534122,0.9510157108306885,0.0,0.0,False,0.0011880792444571,0.0007223539869301,0.0009251300944015
+"leave a palace, but you can see it, and particularly would support for him",0.04818217,0.0,0.0,0.064,False,0.000680603669025,0.0004219124093651,0.0010517716873437
+it's lonely hearts,0.018742332,0.0,0.0999999999999999,0.321,False,0.0008698740857653,0.0004381217586342,0.0060205422341823
+a single lady is very interesting in how depressing,0.22991583,0.0,0.0071428571428571,0.206,False,0.0089968452230095,0.0070494450628757,0.0302777644246816
+that kinda gets impasse,0.08796701,0.9769660830497742,0.0,0.0,False,0.0046168835833668,0.0032465329859405,0.0243571791797876
+so it's a lot of these interesting aspects to which are kind of fast made,0.05653196,0.0,0.0,0.0,False,0.0005985246971249,0.0003307200968265,0.0005730636185035
+"there's also a lot of ways that the film mommy, there's two counters by jeff stewart and grace kelly, and they are absolutely greatly the male lead of analyzes manage, which is kind of a key theme in the the way he looks at marion, and why he wants to do his life, conflict with the female lead",0.049898956,0.0,0.0,0.038,False,0.0007726107141934,0.0013882409548386,0.0070643704384565
+"and what are you know? coming to this grand stage of all these characters in their lives, and he sees various stage of mary doing them",0.03427619,0.0,0.0,0.0,False,0.0013575319899246,0.0011737450258806,0.0010745304170995
+"he sees the newlyweds, he sees a woman who's playing a bunch of men she doesn't love",0.22598907,0.9318865537643433,0.0,0.167,False,0.0144523689523339,0.0225591044872999,0.0950840860605239
+"he sees the man ii might have murdered his wife, and you start toward the mmm",0.41950125,0.9010695815086365,0.0,0.227,False,0.0570517815649509,0.0231775175780057,0.4646405279636383
+"he's right to analyze marriage if i was a lot of things in here which i think, which i see which some people have talked about before",0.027065687,0.0,0.0,0.0,False,0.0005864394479431,0.0004624318680725,0.0006108947563916
+"some people have a view via window in a feminist lens or in the lens of a being about patriarchy, i mean, is certainly a lot of strong female characters here, and also a lot of stuff about women who are strong world, and women who don't want to do what's expected of them are women who don't fall in love or don't fall for men that they have traditionally expected to, and things like this, which play into an interesting perspective via window",0.09494796,0.0,0.0,0.047,False,0.0009895939147099,0.0033009832259267,0.0046211341395974
+"if you really want to go down that route, obviously, we, window is also just fantastic",0.043031808,0.0,0.0,0.0,False,0.0006392492796294,0.0004143390106037,0.0007535822805948
+"he's short, fantastic",0.16620636,0.0,0.0,0.0,False,0.0022870001848787,0.0228122845292091,0.057189792394638
+he made it really really tense towards the end when the characters have really really trapped,0.13476147,0.757276177406311,0.2666666666666666,0.332,False,0.00060681294417,0.0003906158090103,0.000863095279783
+it is some of hitchcock's be really sever suspense work,0.10461388,0.0,0.0,0.0,False,0.0009738202788867,0.0004262740840204,0.0021827279124408
+it also has just one of her performances across the board,0.027237365,0.8761840462684631,0.0,0.0,False,0.0006427149055525,0.0003786256129387,0.0009098423179239
+it also has a wonderful look,0.033074442,0.0,0.0,0.0,False,0.0006145483930595,0.000321069615893,0.000651063688565
+it feels light and vibrant even though it sometimes isn't,0.1621016,0.0,0.0,0.0,False,0.000596098951064,0.000360989710316,0.0005250448011793
+there's also a lot of interesting ways they work,0.031529333,0.0,0.0,0.0,False,0.0005945998127572,0.0003841708530671,0.0003518330049701
+you really don't know which way it's gonna go it,0.043375164,0.8866598606109619,0.0,0.0,False,0.0010559200309216,0.0027516845148056,0.0021644537337124
+"it's really well, sort of really cut unprintable and all the things just kind of slot in towards the end in a very perfect way",0.047495455,0.0,0.0,0.086,False,0.0006207905244082,0.0003865001490339,0.0004959662328474
+"it's obvious, classic enough one has already made the case that we wonder where the masterpiece and i got video",0.1024659,0.0,0.0,0.0,False,0.0006038287538103,0.0003618162299972,0.0003551234549377
+"much want to say, i think it's wonderful",0.031014297,0.0,0.0,0.0,False,0.0005668646190315,0.0003086454235017,0.0012299780501052
+i think it's great,0.022773718,0.0,0.0,0.0,False,0.0005715101142413,0.0003299897070974,0.0006105519132688
+it makes the audience part of the experience,0.015757442,0.0,0.0,0.0,False,0.0007387896184809,0.0003381189890205,0.0002488042227923
+i can integrate how it makes audience do all the characters are doing,0.02929751,0.0,0.0,0.0,False,0.0007144602714106,0.0003869368520099,0.0003655359905678
+"i think it's really fascinating to the work i think is pulling at me, mayor",0.06492286,0.0,0.0,0.0,False,0.0007467669784091,0.0009084130870178,0.0017016747733578
+i think it's tense and exciting,0.13386416,0.0,0.0166666666666666,0.25,False,0.000572775315959,0.0003623913507908,0.001085941796191
+that thing is to enjoy a,0.039254878,0.0,0.0,0.0,False,0.0009594749426469,0.000516228028573,0.0064695188775658
+but i think it's mysterious,0.037023053,0.0,0.0,0.0,False,0.0006477102288044,0.0003525399370118,0.0009445723262615
+i think it has a couple of things that were analyzed in a social context,0.016104523,0.0,0.0,0.0,False,0.0005584868486039,0.0003219686623197,0.0002734462323132
+"because why not any film that's have this much cultural impact deserves to be analyzed like that, and i think there's perfectly many ways that this is a significant work",0.03444787,0.0,0.0,0.0,False,0.0006134496652521,0.0003989991091657,0.0003739376552402
+"so yeah, i think we window is absolutely fantastic",0.03599298,0.0,0.0,0.0,False,0.0006400131387636,0.0004094228497706,0.0005858846707269
+"i find it be one of my favorite hitchcock's and one of his obvious masterpieces that on sundays you might be my favorite hitchcock movie, although there's many contenders, so yeah, this is fantastic cinema and one of the very finest films ever made in hollywood",0.057331093,0.0,0.0,0.0,False,0.0006337647209875,0.0004551165329758,0.0003993489954154
+and me a window is just an obvious classic,0.06012806,0.868687093257904,0.0,0.0,False,0.0009620044729672,0.0004343759792391,0.0021562171168625
+across the board,0.020824814,0.0,0.0,0.0,False,0.0012697447091341,0.0014566675527021,0.0005235757562331
+i can't recommend this enough,0.06652113,0.0,0.0,0.345,False,0.0007189136813394,0.00075947586447,0.0004878671024926
+"it's obviously great, and one of the greatest films of 1950 is undoubtably",0.04818217,0.0,0.0,0.0,False,0.0009410819620825,0.0003963572962675,0.0004357208963483
+so have you seen via window? i would love to tell your fault,0.14866976,0.979330837726593,0.0,0.151,False,0.0561839900910854,0.0799565762281417,0.0145377991721034
+"so leave me a comment if you want, and give this video a like",0.15626417,0.0,0.0,0.092,False,0.0104174138978123,0.0048707234673202,0.0010315006365999
+"if you like what i said here, you can subscribe because i post reviews all the time and you feel like your moves on boxing",0.0753116,0.9229670763015747,0.0,0.0,False,0.0035445860121399,0.0015655347378924,0.015328174456954
+you can follow me on letterbox or twitter links in the description and thank you for watching,0.02193547,0.0,0.0,0.0,False,0.0006190024432726,0.0006720456294715,0.000439833063865

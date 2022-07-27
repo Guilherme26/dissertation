@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user all day everyday twice a day ;) sometimes more ... if possible ...,0.027752401,0.0,0.0,0.0,0.0007692948565818,0.0007349660154432,0.0003826676693279,False
+@user all day everyday twice a day ;) sometimes more ... if possible ...,0.027752401,0.5207200646400452,0.0,0.0,0.0007692948565818,0.0007349660154432,0.0003826676693279,False

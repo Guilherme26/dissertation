@@ -1,118 +1,118 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-pixar itself must be a bundle of emotions,0.031014297,0.0005693212979631,0.5,0.0,False,0.00114376877900213,0.0008238977752625942,0.010658814571797848
-as the animation studio tries to reclaim its former glory,0.15684792,0.9656019725583735,0.525,0.0,False,0.0007912250002846122,0.0003580353513825685,0.0003791462804656476
-"you're watching beyond the trailers, review of inside out, i'm joy, this is sadness",0.094410956,0.0107660228048004,0.0999999999999999,0.155,False,0.0009326680446974933,0.0004189931496512145,0.0008792827138677239
-that's anger,0.13565879,0.9432928211096696,0.85,0.787,False,0.05287764221429825,0.0006331670447252691,0.0035971764009445906
-"yeah, this is disgust and that's fear",0.30187345,0.9997165463610466,0.5,0.534,False,0.07669603824615479,0.05032600834965706,0.016945045441389084
-we're riley's emotions,0.0100653265,0.000110180643803,0.5,0.0,False,0.004092943388968706,0.0010328232310712337,0.0023531881161034107
-these are rice memories,0.08850401,0.005713538432451,0.5,0.0,False,0.000787465600296855,0.0005169730284251273,0.0014183714520186186
-they're mostly happy,0.03736641,0.0015800506336236,0.0999999999999999,0.0,False,0.0007279852288775146,0.00037262344267219305,0.0007189246825873852
-you'll notice,0.03204437,0.0072448318214812,0.5,0.0,False,0.0009480172302573919,0.00046348615433089435,0.0004431973211467266
-not drag,0.034791227,0.0058179373492057,0.475,0.0,False,0.031010687351226807,0.0020246405620127916,0.0031344201415777206
-i wanted to maybe hold more,0.034104515,0.0596834868034166,0.25,0.0,False,0.0008934669313021004,0.0005183807807043195,0.0004470377170946449
-what happened? sadness,0.083939545,0.9982908439974408,0.5,0.592,False,0.0008294290746562183,0.00040584529051557183,0.001381169306114316
-she did something to the memory,0.04268845,0.0072302284902766,0.5,0.0,False,0.0007843893254175782,0.000555275590158999,0.0007494378369301558
-"is everything okay? thank you, pat, joey, great joy",0.020685982,0.0036135496025092,0.1499999999999999,0.0,False,0.0005921540432609618,0.0010628732852637768,0.0014330428093671799
-"no, the core memories",0.02054715,0.2088624457992892,0.5,0.0,False,0.0006926172645762563,0.00039768367423675954,0.00044481115764938295
-"can i say that curse word? now? yes, ironically, the studio, which claimed it would never make a sequel, got sidetracked by them",0.42631236,0.993631844894264,0.5,0.14,False,0.005912688560783863,0.4457190930843353,0.7168571352958679
-"in fact, pixar has a dicey history with sequels, as it was the threat of making toy story 2 without them that force then-fledgling animation studio to stay in business with disney, even though the two companies weren't getting along",0.08635602,0.9840470527676174,0.5,0.08,False,0.0007429654360748827,0.0005244968342594802,0.001462428830564022
-eventually,0.01665985,0.0670508077907162,0.5,0.0,False,0.0009018711862154305,0.0006238465430215001,0.0005607022321783006
-"in 2006, disney fully acquired pixar and, even though pixar insisted it was still semi-autonomous it became sequel centric after the acquisition toy story 3 cars 2, monsters university and coming soon, finding dory toy story 4 and the incredibles 2",0.014438537,0.0471475998620491,0.5,0.0,False,0.0009373731445521116,0.00045964514720253646,0.000480132905067876
-"the box office numbers for these sequels are pretty impressive with toy story 3 pixar's most successful film ever, but their new focus on sequels has cost pixar some of its prestige, allowing its step-sibling disney animation to make some big moves",0.033761155,0.871609061790211,0.2803030303030303,0.0,False,0.0008046469883993268,0.000411771732615307,0.0004278142878320068
-"frozen in big hero 6 not only dominated at the box office, but also won the last two best animated feature oscars",0.04543531,0.0006672530251843,0.375,0.0,False,0.0008349800482392311,0.0004400058533065021,0.00046368478797376156
-"in fact, frozen surpassed toy story 3 to become the most successful animated film of all time",0.055333257,6.997677891522164e-05,0.1875,0.0,False,0.0009498581057414412,0.0003494704142212868,0.00041924824472516775
-"but while pixar set out 2014, disney animation is sitting out 2015, giving pixar just the opening they need",0.028439116,0.1419436938464661,0.5,0.0,False,0.0007662306888960302,0.0004932094598188996,0.0005510402843356133
-"they're releasing two original films this year, the good dinosaur for thanksgiving, and this summer inside out, and true pixar fashion inside out is an ambitious project that hopes to be both intellectual and mainstream, ironically, calling to mind some of the classic animated shorts from friendly competitor disney animation on how the mind and body work, and let's not forget that the sitcom herman's head already laid the groundwork for this idea",0.03770977,0.0647621081583506,0.3202380952380952,0.0,False,0.0007671502535231411,0.0017930971225723624,0.0005666350480169058
-as well,0.017284594,0.0245701643572144,0.5,0.0,False,0.000799667090177536,0.0003282958932686597,0.0003456342383287847
-"speaking of television, inside, add is a little light on star power for a pixar film",0.024318827,0.0664448589538745,0.446875,0.0,False,0.0007250692578963935,0.0005362436641007662,0.0022506744135171175
-"going with mostly tv talent, there's former saturday night live performers amy poehler and bill hader, the offices, phyllis smith and mindy kaling, now over on hulu, with the mindy project books, comedy central's lewis black, and alas, who would seem that even here sequel itis is at work as pixar already has a short plan for the blu-ray release of inside out, entitled riley's first date, but everyone might be able to relate to being highly emotional",0.004997955,0.7750948113827781,0.4590151515151515,0.019,False,0.0006308597512543201,0.004289898090064526,0.0028955566231161356
-"well, these personified versions of emotions ironically keep us for making an emotional connection with riley herself",0.0789077,0.0088997468795661,0.5,0.0,False,0.0006242063827812672,0.0005526680033653975,0.001613949309103191
-"so inside out is an interesting case because, while i think it succeeds wildly as an introduction to psychology 101, i think it fails miserably as a film",0.26132804,0.9795796553303888,0.52,0.165,False,0.0008010684396140277,0.03478345274925232,0.022763250395655632
-now this is my non-spoiler review,0.05373499,0.0047113922792128,0.5,0.0,False,0.012587621808052063,0.001051544677466154,0.0006692901952192187
-"my spoiler review will also go up today, so i'm going to try and explain what i mean by that without giving anything away about the film",0.0753116,0.0214131625725085,0.65625,0.073,False,0.0007081435760483146,0.00040518370224162936,0.0003683674440253526
-"and i guess the crux of my argument is that this is a message first, an entertainment second, and with filmmaking it's supposed to do the other way around, basically inside-out swaps",0.094410956,0.987347942068764,0.4791666666666667,0.071,False,0.000876394915394485,0.0004119619552511722,0.0004998241784051061
-"it's a and b storylines, but even worse than that, i mean that implies still some kind of structure and inside out is is out of control creatively as the emotions in riley's head and logic isn't just missing from the filmmaking process here, but from the movie itself",0.08501353,0.9999061512449728,0.48125,0.074,False,0.0006673138123005629,0.0006383731961250305,0.000542242603842169
-literally,0.019297661,0.0137733553460172,0.5,0.0,False,0.0011210418306291103,0.0006145855877548456,0.0008568516932427883
-"yes, while i was watching inside out, i was like something's missing here",0.05653196,0.8893396516682309,0.6,0.126,False,0.0008755518938414752,0.0010930242715403438,0.0008621780434623361
-this isn't a complete picture of the human mind,0.14193995,0.9996637061442591,0.475,0.0,False,0.0012312904000282288,0.017040923237800598,0.0020080895628780127
-i just i couldn't put my finger on it,0.2818683,0.9983637712453136,0.5,0.0,False,0.0009627238032408059,0.04122188687324524,0.008513565175235271
-i was like this is not a complete picture,0.031357653,0.9999685879365516,0.525,0.0,False,0.0011264241766184568,0.0014906893484294415,0.0011237115832045674
-so i thought about and i thought about it and i just couldn't crack it,0.14373457,0.999982177975387,0.5,0.0,False,0.0008380660437978804,0.0010483514051884413,0.0024973584804683924
-so i was googling emotions,0.021102477,0.0646642062338461,0.5,0.0,False,0.018344907090067863,0.005742375738918781,0.0008559316047467291
-i was like,0.020269485,0.0246237794446371,0.5,0.0,False,0.0018684471724554896,0.0012496832059696317,0.001308841397985816
-"what are they? give me the list of emotions because i know that someone's absent and lo and behold i found an article talking about inside out and how they had originally intended to have a sixth emotion in riley's head, and that would be logic, and i was like eureka",0.0813051,0.0142656664239136,0.3125,0.0,False,0.0012910438235849142,0.0018635056912899017,0.0015704893739894032
-it was a really bad idea to cut logic out of this movie because emotions are governed by logic and i think the logic could have represented riley,0.16151784,0.9998957202941124,0.8499999999999999,0.185,False,0.0008341216016560793,0.0005466475849971175,0.0006337641389109194
-heck more than represented her,0.32304016,0.0210370522871975,0.25,0.0,False,0.003320606192573905,0.669189989566803,0.12763765454292297
-i think it should have been riley inside her own head,0.22952124,0.0977794949440883,0.2,0.0,False,0.009707688353955746,0.2256680279970169,0.7627118229866028
-"you know, the voice in our head when we're kind of like",0.027580723,0.0127057624268089,0.2,0.0,False,0.001532271271571517,0.0016596815548837185,0.004231500905007124
-"when we talk to ourselves, we're thinking things through because riley was really absent from her own persona, which made it very difficult difficult to not only emotionally connect with the character but the film itself",0.04783881,0.9997041186281642,0.5291666666666667,0.1,False,0.0005450768512673676,0.00040447438368573785,0.0005470314645208418
-"there just was this detachment and i think it's like you know the really popular idea of an angel and a devil on your shoulder, right, which is, i guess, kind of like the origin of this idea",0.13146462,0.999981820342786,0.2523809523809524,0.095,False,0.0010247124591842294,0.013281584717333317,0.0013685679296031594
-this idea evolved from that,0.023632111,0.0049806896277128,0.5,0.0,False,0.0006771932239644229,0.00037972070276737213,0.0004328843206167221
-but the fun thing about the angel and the devil on your shoulders is that you talk to them,0.13745339,0.0293269461740285,0.35,0.221,False,0.0034109922125935555,0.028533918783068657,0.03842838853597641
-they talk to you,0.043031808,0.0006331289145123,0.5,0.0,False,0.0013097877381369472,0.0014201750745996833,0.0013310853391885757
-there's a dialogue,0.019714156,0.0512610602352245,0.5,0.0,False,0.000629585178103298,0.0004108859575353563,0.0002897550293710083
-you are wrestling with your emotions,0.13700475,0.0050992448349209,0.5,0.0,False,0.05481367185711861,0.005205956287682056,0.005978845059871674
-"as i said, logic governs emotions, but here the angel and the devil are talking amongst themselves and you are just left out",0.18253209,0.97704603697182,0.5,0.217,False,0.004654144402593374,0.009552652016282082,0.008941697888076305
-and i think that ultimately doesn't ring true as representative of who we are,0.03599298,0.9981577450644616,0.4125,0.152,False,0.0006491124513559043,0.0004068530397489667,0.0010523133678361773
-i mean we all,0.020269485,0.0016131614519263,0.65625,0.0,False,0.0008444142295047641,0.000417164817918092,0.000793586194049567
-we all are emotional,0.032387726,0.0008277406548515,0.5,0.0,False,0.0066956221126019955,0.0006797994719818234,0.0012532867258414626
-but we are,0.015479778,0.0030773987282823,0.5,0.0,False,0.0015442997682839632,0.0004276546824257821,0.0006161415367387235
-that's not all we are right there,0.04131502,0.9988447274881304,0.3571428571428571,0.0,False,0.0009260331862606108,0.0005637293797917664,0.0006575656007044017
-there's like a,0.025005542,0.8494601893521568,0.5,0.0,False,0.0014621906448155642,0.0005220578168518841,0.0026634307578206062
-i guess a soul missing,0.11343288,0.9965741479075452,0.6,0.355,False,0.001726822229102254,0.0027864736039191484,0.0015354239149019122
-like emotions are reactionary,0.06652113,0.0118441956884528,0.5,0.0,False,0.004809590522199869,0.0005693378625437617,0.0003687301941681653
-what was where is the driving force of riley that wasn't in the film,0.030155903,0.9885454748329766,0.5,0.0,False,0.0006519746384583414,0.0004744635953102261,0.0010485470993444324
-"and when we're not, we're not all",0.017423427,0.1595035141575421,0.5,0.0,False,0.0016309027560055256,0.0028549914713948965,0.000928774185013026
-yeager's controlled by an argumentative team of five desperately in need of a team-building exercise,0.049212243,0.9995155270366074,0.8,0.282,False,0.0014475045027211308,0.0009250036673620343,0.00968419574201107
-"now that said, uh, what i think is the fatal flaw of the film",0.1609341,0.9990128148105674,0.5,0.212,False,0.0014315580483525991,0.000681397330481559,0.003088659606873989
-i still did enjoy a number of elements in the movie,0.04268845,0.008875874903454,0.3,0.0,False,0.0005352734006009996,0.00036370306042954326,0.0002894650970119983
-"for instance, i'm again, no spoilers here, but i really liked the first 15 to 20 minutes of the film",0.055333257,0.0006429340083211,0.2875,0.067,False,0.0006204090313985944,0.0003823571605607867,0.0002464261488057673
-they were brilliant and i was very happy,0.056931525,0.0039883485682834,0.025,0.0,False,0.0005682164337486029,0.00032769644167274237,0.0010853848652914166
-"i was like who looks like i'm gonna like this film after all, and then it just totally fell apart",0.101391904,0.9999845621927266,0.5,0.0,False,0.0010557762579992414,0.0006229146383702755,0.0016693256329745054
-"i'd say when joy and sadness start their little road trip again, i don't want to give anything away",0.08290337,0.0087785690332845,0.346875,0.172,False,0.0012633950682356954,0.0006107483059167862,0.0008658827864564955
-that's when the movie starts to go off the rails,0.077709,0.990134883519658,0.5,0.0,False,0.0012148694368079305,0.0009682112140581012,0.002155770780518651
-"but the beginning of the film is excellent, pixar at its best, and i think when you start watching this movie, if you haven't already, you'll be like that",0.05413456,0.002573196366405,0.0,0.0,False,0.0005911221378482878,0.0007427208474837244,0.012261235155165195
-grace is crazy,0.5174561,0.0129863252022382,0.8,0.387,False,0.845859706401825,0.8577769994735718,0.43984267115592957
-"this movie's great and then you'll be like, oh yeah it is",0.077709,0.0016803069727508,0.0999999999999999,0.0,False,0.0008300667977891862,0.0005609866348095238,0.005084707401692867
-it is kind of boring,0.20742953,0.9999666209572464,0.6,0.393,False,0.007756281178444624,0.021131372079253197,0.01862504705786705
-more on that,0.039598234,0.0037458140594197,0.25,0.0,False,0.0008198593859560788,0.0004436792223714292,0.0004296890692785382
-in a moment,0.017770508,0.0095575822462593,0.5,0.0,False,0.0006691744201816618,0.0003190706192981452,0.0007034516893327236
-"now, i also really liked the world-building which i think does good a job as possible when trying to depict such a complex and difficult and abstract subject as the human mind",0.017701091,0.0014144667393932,0.4791666666666667,0.067,False,0.0006454065442085266,0.00040009719668887556,0.000599496706854552
-"i also like the world-building of san francisco, but that was very well done - i thought it was very well realized",0.033761155,0.0008142698268831,0.4,0.0,False,0.000600786879658699,0.0003228348505217582,0.0002088494220515713
-so i liked that,0.03221605,0.0195177097875817,0.2,0.0,False,0.0008081760024651885,0.00039628118975088,0.00041229589260183275
-i also liked the animation,0.027752401,0.001466085044794,0.2,0.0,False,0.0006470281514339149,0.00035051177837885916,0.00031041394686326385
-"you know, we talked recently about the good dinosaur and how the animation looks really wonky there with the dinosaurs, but here this was classic pixar",0.17380224,0.0,0.4291666666666667,0.0,False,0.0006588484393432736,0.0007385675562545657,0.0018166033551096916
-"everything was beautifully realized in the mind and in the real world, but the best of all was by far and away joy",0.039598234,0.0088837130179578,0.2049999999999999,0.0,False,0.0005709441611543298,0.00036123895552009344,0.000310639530653134
-"joy is offense, pastic character",0.4151741,0.9859097225641256,0.0999999999999999,0.227,False,0.0015233895974233747,0.0009239211212843657,0.031953707337379456
-i love how she glows,0.31671798,0.0005776660586515,0.25,0.0,False,0.0014233927940949798,0.004969966597855091,0.0027085235342383385
-"i love little pixelation of her skin, and amy poehler to such a wonderful and nuanced job providing her voice, and i also thought the expressiveness of joy was really good",0.062925026,0.0004694523941535,0.265625,0.0,False,0.0008611262310296297,0.0006267162971198559,0.004846228286623955
-it was just it was the full package,0.025692256,0.795393471559923,0.325,0.0,False,0.0008255902212113142,0.00038901768857613206,0.00045035441871732473
-that character more than anybody else in the movie just really came together,0.059728492,0.013559878485979,0.325,0.0,False,0.0006322043482214212,0.00041100915404967964,0.0005818468052893877
-"i was like that's a winner and then i also like riley, even though i think that riley, because i want to get to know her better",0.03839648,0.0046830796983059,0.25,0.0,False,0.0005633182008750737,0.0008132907096296549,0.00045276316814124584
-but what was very odd about riley and this occurred to me after i watched the film was that really is like not emotionally where she should be as a tween,0.118584804,0.9995323059661344,0.5027777777777778,0.094,False,0.005468312185257673,0.002485821256414056,0.015749095007777214
-"she, actually, i think had the emotional capacity and maturity of like a six or seven year old, and i don't want to give anything away",0.36211988,0.0009300235787173,0.4833333333333333,0.043,False,0.0058576916344463825,0.08985517919063568,0.023581823334097862
-that's you could imply,0.013952625,0.0081781635017572,0.5,0.0,False,0.0007353202090598643,0.0004885663511231542,0.004033366683870554
-"that's part of the message of the film, but she just seemed, um, you know, a little bit, not developed enough for the age that she was supposed to be in the film, and i think that also made it hard to emotionally connect because she didn't seem like a real fully realized character",0.09387396,0.9998425820501576,0.5274305555555555,0.076,False,0.0006865115719847381,0.00039184806519187987,0.00046556637971661985
-"i mean, i know the joy had to be",0.038911518,0.0014986594141954,0.378125,0.0,False,0.000712729524821043,0.00032952098990790546,0.0011028480948880315
-"uh, but i think that riley needed to be as well, and cuz it just kind of created the idea that joy was riley and i'm like, wait a minute",0.06971766,0.9810503895989948,0.15,0.0,False,0.0006394613301381469,0.0007223206339403987,0.0008201778982765973
-"are you saying i'm not my own self? i just again, i applaud pixar for trying to depict the human mind no easy task, and i think that they gave it a decent shot, but all the dots don't connect",0.119228795,0.999808726163936,0.43125,0.041,False,0.000739046314265579,0.0029374812729656696,0.0043069738894701
-i'd also say that i think this is not a good film for children,0.1580154,0.9998521487222324,0.675,0.156,False,0.007004000712186098,0.001301551703363657,0.0025441295001655817
-"why? well, i think that the messages of the film won't be appreciated by children",0.112144895,0.9981402806724494,0.4,0.152,False,0.003432408208027482,0.0005517987301573157,0.0018150917021557689
-i think they're a little bit too adult,0.21715863,0.9991741667190202,0.521875,0.0,False,0.17030854523181915,0.007344863843172789,0.060809336602687836
-i also think the middle of the film is just downright,0.124380715,0.9962882802485356,0.5,0.0,False,0.0007127567077986896,0.0009249322465620935,0.0010576803470030427
-"as i said, boring",0.20596254,0.9999160755496486,1.0,0.434,False,0.048536889255046844,0.061747729778289795,0.02502923086285591
-"i mean, they're gonna be like",0.029812546,0.0018747696995063,0.65625,0.0,False,0.010204646736383438,0.003608045168220997,0.002969391644001007
-i'm super bored,0.14822112,0.999997317755493,0.5416666666666666,0.3,False,0.0030020270496606827,0.008969749324023724,0.02335210330784321
-"i mean i was like, oh man, maybe i should like go get another snack from the concession stand like i was really like, oh, i'm not having a good time",0.09172598,0.9999483816945992,0.4020833333333333,0.062,False,0.0008053081692196429,0.002732286462560296,0.014580133371055126
-"and then also, it wouldn't be a pixar movie if someone didn't commit suicide",0.28972426,0.2062677020686781,0.5,0.108,False,0.09943711757659912,0.3050709664821625,0.02471105568110943
-ah pics,0.030670939,0.9788809306363224,0.5,0.0,False,0.042443759739398956,0.005646067205816507,0.002988132881000638
-"aw, you just can't help yourself",0.13251819,0.8800710067608059,0.5,0.311,False,0.05323509871959686,0.03477456048130989,0.007319132797420025
-we'll talk about that more in the spoiler review,0.05373499,0.7737094917003606,0.25,0.0,False,0.0007648431928828359,0.00035256947739981115,0.00032296287827193737
-"so at the end of the day, i guess i have to say that inside out is certainly on provement on some of the films that pixar has been making lately, but at the end of the day they're just a little bit too inside their own heads",0.12051678,0.9998643678360974,0.4591517857142857,0.0,False,0.0010605023708194494,0.050025466829538345,0.09091974794864655
-on this one,0.02517722,0.0023443711072436,0.5,0.0,False,0.0007014473667368293,0.0003832769871223718,0.0006619383930228651
-"alright, that's my non-spoiler review",0.038224805,0.0969156631992596,0.5,0.0,False,0.005299566779285669,0.0012066494673490524,0.0006742984405718744
-"i look forward to talking about the movie with you down below in the comments, this is the non-spoiler review",0.059728492,0.0990702506062766,0.5777777777777778,0.0,False,0.0006933509721420705,0.0005363364471122622,0.0004539953370112926
-so don't put any spoilers in there,0.0813051,0.0282227853213752,0.5,0.0,False,0.006637898739427328,0.0006738461670465767,0.0007897271425463259
-"and then also there is a contest from channel frederator, which beyond the trailer is affiliated with, and all you have to do is enter your email and your, you have the chance to win some inside out swag",0.19862764,0.978584095577551,0.0999999999999999,0.0,False,0.09538708627223969,0.01313423179090023,0.0008618141291663051
-so there's a link for that in the video description,0.035306264,0.977840398583918,0.5,0.0,False,0.0006091676186770201,0.00033925764728337526,0.0002758587070275098
-"alright, thanks so much for watching, and you can check out that spoiler review once you've seen the film bye",0.035649624,0.1021077136941218,0.4,0.0,False,0.0006112109404057264,0.0004199642571620643,0.0003815629752352834
+pixar itself must be a bundle of emotions,0.031014297,0.0,0.0,0.0,False,0.0011437687790021,0.0008238977752625,0.0106588145717978
+as the animation studio tries to reclaim its former glory,0.15684792,0.9312048554420471,0.05,0.0,False,0.0007912250002846,0.0003580353513825,0.0003791462804656
+"you're watching beyond the trailers, review of inside out, i'm joy, this is sadness",0.094410956,0.0,0.0,0.155,False,0.0009326680446974,0.0004189931496512,0.0008792827138677
+that's anger,0.13565879,0.8865871429443359,0.7,0.787,False,0.0528776422142982,0.0006331670447252,0.0035971764009445
+"yeah, this is disgust and that's fear",0.30187345,0.9994331002235413,0.0,0.534,False,0.0766960382461547,0.050326008349657,0.016945045441389
+we're riley's emotions,0.0100653265,0.0,0.0,0.0,False,0.0040929433889687,0.0010328232310712,0.0023531881161034
+these are rice memories,0.08850401,0.0,0.0,0.0,False,0.0007874656002968,0.0005169730284251,0.0014183714520186
+they're mostly happy,0.03736641,0.0,0.0,0.0,False,0.0007279852288775,0.0003726234426721,0.0007189246825873
+you'll notice,0.03204437,0.0,0.0,0.0,False,0.0009480172302573,0.0004634861543308,0.0004431973211467
+not drag,0.034791227,0.0,0.0,0.0,False,0.0310106873512268,0.0020246405620127,0.0031344201415777
+i wanted to maybe hold more,0.034104515,0.0,0.0,0.0,False,0.0008934669313021,0.0005183807807043,0.0004470377170946
+what happened? sadness,0.083939545,0.9965817332267761,0.0,0.592,False,0.0008294290746562,0.0004058452905155,0.0013811693061143
+she did something to the memory,0.04268845,0.0,0.0,0.0,False,0.0007843893254175,0.0005552755901589,0.0007494378369301
+"is everything okay? thank you, pat, joey, great joy",0.020685982,0.0,0.0,0.0,False,0.0005921540432609,0.0010628732852637,0.0014330428093671
+"no, the core memories",0.02054715,0.0,0.0,0.0,False,0.0006926172645762,0.0003976836742367,0.0004448111576493
+"can i say that curse word? now? yes, ironically, the studio, which claimed it would never make a sequel, got sidetracked by them",0.42631236,0.9872638583183289,0.0,0.14,False,0.0059126885607838,0.4457190930843353,0.7168571352958679
+"in fact, pixar has a dicey history with sequels, as it was the threat of making toy story 2 without them that force then-fledgling animation studio to stay in business with disney, even though the two companies weren't getting along",0.08635602,0.968094527721405,0.0,0.08,False,0.0007429654360748,0.0005244968342594,0.001462428830564
+eventually,0.01665985,0.0,0.0,0.0,False,0.0009018711862154,0.0006238465430215,0.0005607022321783
+"in 2006, disney fully acquired pixar and, even though pixar insisted it was still semi-autonomous it became sequel centric after the acquisition toy story 3 cars 2, monsters university and coming soon, finding dory toy story 4 and the incredibles 2",0.014438537,0.0,0.0,0.0,False,0.0009373731445521,0.0004596451472025,0.0004801329050678
+"the box office numbers for these sequels are pretty impressive with toy story 3 pixar's most successful film ever, but their new focus on sequels has cost pixar some of its prestige, allowing its step-sibling disney animation to make some big moves",0.033761155,0.7432215213775635,0.0,0.0,False,0.0008046469883993,0.0004117717326153,0.000427814287832
+"frozen in big hero 6 not only dominated at the box office, but also won the last two best animated feature oscars",0.04543531,0.0,0.0,0.0,False,0.0008349800482392,0.0004400058533065,0.0004636847879737
+"in fact, frozen surpassed toy story 3 to become the most successful animated film of all time",0.055333257,0.0,0.0,0.0,False,0.0009498581057414,0.0003494704142212,0.0004192482447251
+"but while pixar set out 2014, disney animation is sitting out 2015, giving pixar just the opening they need",0.028439116,0.0,0.0,0.0,False,0.000766230688896,0.0004932094598188,0.0005510402843356
+"they're releasing two original films this year, the good dinosaur for thanksgiving, and this summer inside out, and true pixar fashion inside out is an ambitious project that hopes to be both intellectual and mainstream, ironically, calling to mind some of the classic animated shorts from friendly competitor disney animation on how the mind and body work, and let's not forget that the sitcom herman's head already laid the groundwork for this idea",0.03770977,0.0,0.0,0.0,False,0.0007671502535231,0.0017930971225723,0.0005666350480169
+as well,0.017284594,0.0,0.0,0.0,False,0.0007996670901775,0.0003282958932686,0.0003456342383287
+"speaking of television, inside, add is a little light on star power for a pixar film",0.024318827,0.0,0.0,0.0,False,0.0007250692578963,0.0005362436641007,0.0022506744135171
+"going with mostly tv talent, there's former saturday night live performers amy poehler and bill hader, the offices, phyllis smith and mindy kaling, now over on hulu, with the mindy project books, comedy central's lewis black, and alas, who would seem that even here sequel itis is at work as pixar already has a short plan for the blu-ray release of inside out, entitled riley's first date, but everyone might be able to relate to being highly emotional",0.004997955,0.550195574760437,0.0,0.019,False,0.0006308597512543,0.0042898980900645,0.0028955566231161
+"well, these personified versions of emotions ironically keep us for making an emotional connection with riley herself",0.0789077,0.0,0.0,0.0,False,0.0006242063827812,0.0005526680033653,0.0016139493091031
+"so inside out is an interesting case because, while i think it succeeds wildly as an introduction to psychology 101, i think it fails miserably as a film",0.26132804,0.9591598510742188,0.0399999999999999,0.165,False,0.000801068439614,0.0347834527492523,0.0227632503956556
+now this is my non-spoiler review,0.05373499,0.0,0.0,0.0,False,0.012587621808052,0.0010515446774661,0.0006692901952192
+"my spoiler review will also go up today, so i'm going to try and explain what i mean by that without giving anything away about the film",0.0753116,0.0,0.3125,0.073,False,0.0007081435760483,0.0004051837022416,0.0003683674440253
+"and i guess the crux of my argument is that this is a message first, an entertainment second, and with filmmaking it's supposed to do the other way around, basically inside-out swaps",0.094410956,0.9746962189674377,0.0,0.071,False,0.0008763949153944,0.0004119619552511,0.0004998241784051
+"it's a and b storylines, but even worse than that, i mean that implies still some kind of structure and inside out is is out of control creatively as the emotions in riley's head and logic isn't just missing from the filmmaking process here, but from the movie itself",0.08501353,0.9998123049736023,0.0,0.074,False,0.0006673138123005,0.000638373196125,0.0005422426038421
+literally,0.019297661,0.0,0.0,0.0,False,0.0011210418306291,0.0006145855877548,0.0008568516932427
+"yes, while i was watching inside out, i was like something's missing here",0.05653196,0.7786822319030762,0.2,0.126,False,0.0008755518938414,0.0010930242715403,0.0008621780434623
+this isn't a complete picture of the human mind,0.14193995,0.9993274211883545,0.0,0.0,False,0.0012312904000282,0.0170409232378005,0.002008089562878
+i just i couldn't put my finger on it,0.2818683,0.9967275857925415,0.0,0.0,False,0.0009627238032408,0.0412218868732452,0.0085135651752352
+i was like this is not a complete picture,0.031357653,0.9999371767044067,0.05,0.0,False,0.0011264241766184,0.0014906893484294,0.0011237115832045
+so i thought about and i thought about it and i just couldn't crack it,0.14373457,0.9999643564224243,0.0,0.0,False,0.0008380660437978,0.0010483514051884,0.0024973584804683
+so i was googling emotions,0.021102477,0.0,0.0,0.0,False,0.0183449070900678,0.0057423757389187,0.0008559316047467
+i was like,0.020269485,0.0,0.0,0.0,False,0.0018684471724554,0.0012496832059696,0.0013088413979858
+"what are they? give me the list of emotions because i know that someone's absent and lo and behold i found an article talking about inside out and how they had originally intended to have a sixth emotion in riley's head, and that would be logic, and i was like eureka",0.0813051,0.0,0.0,0.0,False,0.0012910438235849,0.0018635056912899,0.0015704893739894
+it was a really bad idea to cut logic out of this movie because emotions are governed by logic and i think the logic could have represented riley,0.16151784,0.9997914433479309,0.6999999999999998,0.185,False,0.000834121601656,0.0005466475849971,0.0006337641389109
+heck more than represented her,0.32304016,0.0,0.0,0.0,False,0.0033206061925739,0.669189989566803,0.1276376545429229
+i think it should have been riley inside her own head,0.22952124,0.0,0.0,0.0,False,0.0097076883539557,0.2256680279970169,0.7627118229866028
+"you know, the voice in our head when we're kind of like",0.027580723,0.0,0.0,0.0,False,0.0015322712715715,0.0016596815548837,0.0042315009050071
+"when we talk to ourselves, we're thinking things through because riley was really absent from her own persona, which made it very difficult difficult to not only emotionally connect with the character but the film itself",0.04783881,0.9994082450866699,0.0583333333333333,0.1,False,0.0005450768512673,0.0004044743836857,0.0005470314645208
+"there just was this detachment and i think it's like you know the really popular idea of an angel and a devil on your shoulder, right, which is, i guess, kind of like the origin of this idea",0.13146462,0.999963641166687,0.0,0.095,False,0.0010247124591842,0.0132815847173333,0.0013685679296031
+this idea evolved from that,0.023632111,0.0,0.0,0.0,False,0.0006771932239644,0.0003797207027673,0.0004328843206167
+but the fun thing about the angel and the devil on your shoulders is that you talk to them,0.13745339,0.0,0.0,0.221,False,0.0034109922125935,0.0285339187830686,0.0384283885359764
+they talk to you,0.043031808,0.0,0.0,0.0,False,0.0013097877381369,0.0014201750745996,0.0013310853391885
+there's a dialogue,0.019714156,0.0,0.0,0.0,False,0.0006295851781032,0.0004108859575353,0.000289755029371
+you are wrestling with your emotions,0.13700475,0.0,0.0,0.0,False,0.0548136718571186,0.005205956287682,0.0059788450598716
+"as i said, logic governs emotions, but here the angel and the devil are talking amongst themselves and you are just left out",0.18253209,0.9540926814079285,0.0,0.217,False,0.0046541444025933,0.009552652016282,0.0089416978880763
+and i think that ultimately doesn't ring true as representative of who we are,0.03599298,0.9963155388832092,0.0,0.152,False,0.0006491124513559,0.0004068530397489,0.0010523133678361
+i mean we all,0.020269485,0.0,0.3125,0.0,False,0.0008444142295047,0.000417164817918,0.0007935861940495
+we all are emotional,0.032387726,0.0,0.0,0.0,False,0.0066956221126019,0.0006797994719818,0.0012532867258414
+but we are,0.015479778,0.0,0.0,0.0,False,0.0015442997682839,0.0004276546824257,0.0006161415367387
+that's not all we are right there,0.04131502,0.9976894855499268,0.0,0.0,False,0.0009260331862606,0.0005637293797917,0.0006575656007044
+there's like a,0.025005542,0.6989243626594543,0.0,0.0,False,0.0014621906448155,0.0005220578168518,0.0026634307578206
+i guess a soul missing,0.11343288,0.9931483864784241,0.2,0.355,False,0.0017268222291022,0.0027864736039191,0.0015354239149019
+like emotions are reactionary,0.06652113,0.0,0.0,0.0,False,0.0048095905221998,0.0005693378625437,0.0003687301941681
+what was where is the driving force of riley that wasn't in the film,0.030155903,0.9770912528038025,0.0,0.0,False,0.0006519746384583,0.0004744635953102,0.0010485470993444
+"and when we're not, we're not all",0.017423427,0.0,0.0,0.0,False,0.0016309027560055,0.0028549914713948,0.000928774185013
+yeager's controlled by an argumentative team of five desperately in need of a team-building exercise,0.049212243,0.9990310668945312,0.6,0.282,False,0.0014475045027211,0.000925003667362,0.009684195742011
+"now that said, uh, what i think is the fatal flaw of the film",0.1609341,0.99802565574646,0.0,0.212,False,0.0014315580483525,0.0006813973304815,0.0030886596068739
+i still did enjoy a number of elements in the movie,0.04268845,0.0,0.0,0.0,False,0.0005352734006009,0.0003637030604295,0.0002894650970119
+"for instance, i'm again, no spoilers here, but i really liked the first 15 to 20 minutes of the film",0.055333257,0.0,0.0,0.067,False,0.0006204090313985,0.0003823571605607,0.0002464261488057
+they were brilliant and i was very happy,0.056931525,0.0,0.0,0.0,False,0.0005682164337486,0.0003276964416727,0.0010853848652914
+"i was like who looks like i'm gonna like this film after all, and then it just totally fell apart",0.101391904,0.9999691247940063,0.0,0.0,False,0.0010557762579992,0.0006229146383702,0.0016693256329745
+"i'd say when joy and sadness start their little road trip again, i don't want to give anything away",0.08290337,0.0,0.0,0.172,False,0.0012633950682356,0.0006107483059167,0.0008658827864564
+that's when the movie starts to go off the rails,0.077709,0.9802700281143188,0.0,0.0,False,0.0012148694368079,0.0009682112140581,0.0021557707805186
+"but the beginning of the film is excellent, pixar at its best, and i think when you start watching this movie, if you haven't already, you'll be like that",0.05413456,0.0,0.0,0.0,False,0.0005911221378482,0.0007427208474837,0.0122612351551651
+grace is crazy,0.5174561,0.0,0.6,0.387,False,0.845859706401825,0.8577769994735718,0.4398426711559295
+"this movie's great and then you'll be like, oh yeah it is",0.077709,0.0,0.0,0.0,False,0.0008300667977891,0.0005609866348095,0.0050847074016928
+it is kind of boring,0.20742953,0.9999332427978516,0.2,0.393,False,0.0077562811784446,0.0211313720792531,0.018625047057867
+more on that,0.039598234,0.0,0.0,0.0,False,0.000819859385956,0.0004436792223714,0.0004296890692785
+in a moment,0.017770508,0.0,0.0,0.0,False,0.0006691744201816,0.0003190706192981,0.0007034516893327
+"now, i also really liked the world-building which i think does good a job as possible when trying to depict such a complex and difficult and abstract subject as the human mind",0.017701091,0.0,0.0,0.067,False,0.0006454065442085,0.0004000971966888,0.0005994967068545
+"i also like the world-building of san francisco, but that was very well done - i thought it was very well realized",0.033761155,0.0,0.0,0.0,False,0.0006007868796586,0.0003228348505217,0.0002088494220515
+so i liked that,0.03221605,0.0,0.0,0.0,False,0.0008081760024651,0.0003962811897508,0.0004122958926018
+i also liked the animation,0.027752401,0.0,0.0,0.0,False,0.0006470281514339,0.0003505117783788,0.0003104139468632
+"you know, we talked recently about the good dinosaur and how the animation looks really wonky there with the dinosaurs, but here this was classic pixar",0.17380224,0.0,0.0,0.0,False,0.0006588484393432,0.0007385675562545,0.0018166033551096
+"everything was beautifully realized in the mind and in the real world, but the best of all was by far and away joy",0.039598234,0.0,0.0,0.0,False,0.0005709441611543,0.00036123895552,0.0003106395306531
+"joy is offense, pastic character",0.4151741,0.9718198180198669,0.0,0.227,False,0.0015233895974233,0.0009239211212843,0.0319537073373794
+i love how she glows,0.31671798,0.0,0.0,0.0,False,0.0014233927940949,0.004969966597855,0.0027085235342383
+"i love little pixelation of her skin, and amy poehler to such a wonderful and nuanced job providing her voice, and i also thought the expressiveness of joy was really good",0.062925026,0.0,0.0,0.0,False,0.0008611262310296,0.0006267162971198,0.0048462282866239
+it was just it was the full package,0.025692256,0.5907923579216003,0.0,0.0,False,0.0008255902212113,0.0003890176885761,0.0004503544187173
+that character more than anybody else in the movie just really came together,0.059728492,0.0,0.0,0.0,False,0.0006322043482214,0.0004110091540496,0.0005818468052893
+"i was like that's a winner and then i also like riley, even though i think that riley, because i want to get to know her better",0.03839648,0.0,0.0,0.0,False,0.000563318200875,0.0008132907096296,0.0004527631681412
+but what was very odd about riley and this occurred to me after i watched the film was that really is like not emotionally where she should be as a tween,0.118584804,0.9990646243095398,0.0055555555555555,0.094,False,0.0054683121852576,0.002485821256414,0.0157490950077772
+"she, actually, i think had the emotional capacity and maturity of like a six or seven year old, and i don't want to give anything away",0.36211988,0.0,0.0,0.043,False,0.0058576916344463,0.0898551791906356,0.0235818233340978
+that's you could imply,0.013952625,0.0,0.0,0.0,False,0.0007353202090598,0.0004885663511231,0.0040333666838705
+"that's part of the message of the film, but she just seemed, um, you know, a little bit, not developed enough for the age that she was supposed to be in the film, and i think that also made it hard to emotionally connect because she didn't seem like a real fully realized character",0.09387396,0.9996851682662964,0.0548611111111111,0.076,False,0.0006865115719847,0.0003918480651918,0.0004655663797166
+"i mean, i know the joy had to be",0.038911518,0.0,0.0,0.0,False,0.000712729524821,0.0003295209899079,0.001102848094888
+"uh, but i think that riley needed to be as well, and cuz it just kind of created the idea that joy was riley and i'm like, wait a minute",0.06971766,0.9621012806892395,0.0,0.0,False,0.0006394613301381,0.0007223206339403,0.0008201778982765
+"are you saying i'm not my own self? i just again, i applaud pixar for trying to depict the human mind no easy task, and i think that they gave it a decent shot, but all the dots don't connect",0.119228795,0.9996174573898315,0.0,0.041,False,0.0007390463142655,0.0029374812729656,0.0043069738894701
+i'd also say that i think this is not a good film for children,0.1580154,0.9997043013572693,0.35,0.156,False,0.007004000712186,0.0013015517033636,0.0025441295001655
+"why? well, i think that the messages of the film won't be appreciated by children",0.112144895,0.9962806105613708,0.0,0.152,False,0.0034324082080274,0.0005517987301573,0.0018150917021557
+i think they're a little bit too adult,0.21715863,0.9983483552932739,0.04375,0.0,False,0.1703085452318191,0.0073448638431727,0.0608093366026878
+i also think the middle of the film is just downright,0.124380715,0.9925766587257385,0.0,0.0,False,0.0007127567077986,0.000924932246562,0.001057680347003
+"as i said, boring",0.20596254,0.9998321533203125,1.0,0.434,False,0.0485368892550468,0.0617477297782897,0.0250292308628559
+"i mean, they're gonna be like",0.029812546,0.0,0.3125,0.0,False,0.0102046467363834,0.0036080451682209,0.002969391644001
+i'm super bored,0.14822112,0.9999946355819702,0.0833333333333333,0.3,False,0.0030020270496606,0.0089697493240237,0.0233521033078432
+"i mean i was like, oh man, maybe i should like go get another snack from the concession stand like i was really like, oh, i'm not having a good time",0.09172598,0.999896764755249,0.0,0.062,False,0.0008053081692196,0.0027322864625602,0.0145801333710551
+"and then also, it wouldn't be a pixar movie if someone didn't commit suicide",0.28972426,0.0,0.0,0.108,False,0.0994371175765991,0.3050709664821625,0.0247110556811094
+ah pics,0.030670939,0.9577624201774597,0.0,0.0,False,0.0424437597393989,0.0056460672058165,0.0029881328810006
+"aw, you just can't help yourself",0.13251819,0.7601451873779297,0.0,0.311,False,0.0532350987195968,0.0347745604813098,0.00731913279742
+we'll talk about that more in the spoiler review,0.05373499,0.5474249720573425,0.0,0.0,False,0.0007648431928828,0.0003525694773998,0.0003229628782719
+"so at the end of the day, i guess i have to say that inside out is certainly on provement on some of the films that pixar has been making lately, but at the end of the day they're just a little bit too inside their own heads",0.12051678,0.9997287392616272,0.0,0.0,False,0.0010605023708194,0.0500254668295383,0.0909197479486465
+on this one,0.02517722,0.0,0.0,0.0,False,0.0007014473667368,0.0003832769871223,0.0006619383930228
+"alright, that's my non-spoiler review",0.038224805,0.0,0.0,0.0,False,0.0052995667792856,0.001206649467349,0.0006742984405718
+"i look forward to talking about the movie with you down below in the comments, this is the non-spoiler review",0.059728492,0.0,0.1555555555555555,0.0,False,0.000693350972142,0.0005363364471122,0.0004539953370112
+so don't put any spoilers in there,0.0813051,0.0,0.0,0.0,False,0.0066378987394273,0.0006738461670465,0.0007897271425463
+"and then also there is a contest from channel frederator, which beyond the trailer is affiliated with, and all you have to do is enter your email and your, you have the chance to win some inside out swag",0.19862764,0.9571687579154968,0.0,0.0,False,0.0953870862722396,0.0131342317909002,0.0008618141291663
+so there's a link for that in the video description,0.035306264,0.9556813836097717,0.0,0.0,False,0.000609167618677,0.0003392576472833,0.0002758587070275
+"alright, thanks so much for watching, and you can check out that spoiler review once you've seen the film bye",0.035649624,0.0,0.0,0.0,False,0.0006112109404057,0.000419964257162,0.0003815629752352

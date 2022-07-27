@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user fell asleep on me :((,0.042001735,0.0,0.0,0.0,0.0029761388432234,0.0044246795587241,0.0026507831644266,False
+@user fell asleep on me :((,0.042001735,0.999982476234436,0.75,0.0,0.0029761388432234,0.0044246795587241,0.0026507831644266,False

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-finna fuck with dis weights for a min bbl,0.8457076,0.0,0.0,0.304,0.9974973797798156,0.9889257550239564,0.986666977405548,True
+finna fuck with dis weights for a min bbl,0.8457076,0.999887228012085,0.4,0.304,0.9974973797798156,0.9889257550239564,0.986666977405548,True

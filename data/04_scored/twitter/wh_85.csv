@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user you said we were hanging all day ... lol i don't have a car alslo,0.16551583,0.0,0.0,0.0,0.0207516830414533,0.0031579772476106,0.0034305590670555,False
+@user you said we were hanging all day ... lol i don't have a car alslo,0.16551583,0.956749439239502,0.0,0.0,0.0207516830414533,0.0031579772476106,0.0034305590670555,False

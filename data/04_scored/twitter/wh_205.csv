@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user how you goin to diss my favorite people tho ! ,0.14193995,0.0,0.0,0.0,0.0810930207371711,0.002751643769443,0.0445559062063694,False
+@user how you goin to diss my favorite people tho ! ,0.14193995,0.9971267580986023,0.0,0.0,0.0810930207371711,0.002751643769443,0.0445559062063694,False

@@ -1,47 +1,47 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"so do you have to leave home? to love home, hello, everyone, and welcome to movie reviews by josh",0.034962907,0.0068553875901442,0.0294117647058823,0.049,False,0.0007664973381906748,0.0007116055930964649,0.0005320355412550271
-"my name is josh terry, and today i'm gonna tell you about a little indie movie called ladybird and it's not a sequel or a companion to lbj because his wife was named ladybird",0.118584804,0.9461924890945485,0.4669117647058823,0.0,False,0.0006326184375211596,0.002460506046190858,0.0029296122957021
-"actually, it's kind of a coming-of-age story about a teenage girl in 2002",0.025692256,0.8217042743087377,0.2352941176470587,0.0,False,0.0007126215496100485,0.0019899767357856035,0.0013415272114798427
-therefore it is a period piece,0.02809576,0.9233915697611946,0.4117647058823529,0.0,False,0.0009926344500854611,0.0005798694910481572,0.0013547150883823633
-wrap your head around that about a teenage girl senior in high school and she's getting right to go to college and she hates where she is at and she is at sacramento,0.2752517,0.8978494253480995,0.3243697478991596,0.083,False,0.050326209515333176,0.029313011094927788,0.08586233109235764
-"that's where she's grown up, but she wants culture she wants of ai brron steam wants community and enthusiasm and excitement",0.0765103,0.082869927457148,0.2941176470588235,0.0,False,0.0006771309999749064,0.0020544289145618677,0.0006496520945802331
-"and so she wants to go to new york to go to college because new york is the only place that has culture right, that's like chicago",0.089577995,0.9049051708343164,0.3225362872421696,0.0,False,0.0014648735523223877,0.0190399419516325,0.0032936492934823036
-"what's interesting about this is it kind of plays with a little bit of a little bit of a stereotype, kind of a east coast elitist type of thing, and lady bird is played by sushi ronin",0.112144895,0.9757197943854662,0.2558823529411764,0.055,False,0.0012235251488164067,0.0008803931414149702,0.0007360969902947545
-that's actually the name of the character,0.017423427,0.0525081950164892,0.4117647058823529,0.0,False,0.0006998081807978451,0.0003830706118606031,0.0009688921854831278
-"technically, it's the nickname because her real name is christine, but she wants every to call her lady bird because she's at that one little spot in adolescence where you're aware of your own intellectual capabilities, but you're not wise enough to really know what to do with yourself and so she's kind of in this really agitating stage where she's smart, but also really really annoying",0.2712817,0.999982831575701,0.3518157262905162,0.145,False,0.001435832236893475,0.023029902949929237,0.01760115660727024
-"and so this movie is really about her, just kind of navigating the the ups and downs of her senior years",0.13296685,0.0420825799420404,0.176470588235294,0.0,False,0.0011727449018508196,0.0004950662259943783,0.0009122181800194085
-"she gets ready to head off to college and she, she's kind of boy-crazy and so she falls in love with this kid danny from her acting class, and then when things don't work out there, she goes after a bass player in a local band who's a conspiracy theorist and this kind of thing, and this this movie and put it this way",0.22986074,0.0004013715305736,0.2647058823529412,0.048,False,0.10076472163200378,0.2010890692472458,0.08121123164892197
-if saoirse ronan is performance wasn't so warm and quirky because lady bird is kind of quirky,0.31089294,0.1475076440471782,0.2352941176470587,0.116,False,0.0008824154501780868,0.001637230976484716,0.04213644936680794
-as well as annoying,0.1835188,0.9994607445617748,0.8823529411764706,0.397,False,0.03570951148867607,0.020252106711268425,0.0022019215393811464
-this movie,0.034962907,0.0001159762828948,0.4117647058823529,0.0,False,0.0013336723204702139,0.0006141065969131887,0.00043293199269101024
-drive you crazy as an adult,0.52368855,0.075278652319229,0.5588235294117647,0.324,False,0.5891732573509216,0.7566202878952026,0.5896559953689575
-"i guess from the perspective an adult, because there, the movie really kind of brings out the the foibles and the absurdity and the weaknesses of late adolescence, and kind of when you think you know everything and you don't so from an adult perspective, this kind of interesting movie to see",0.09816993,0.0005346354629362,0.2268907563025209,0.046,False,0.0008045998401939869,0.0008883680566214025,0.0013054555747658014
-"it's kind of one of those things that's it's fun to watch, but it's also painful to watch because it brings back memories and i i want to be given this one",0.07690986,0.8689613159931056,0.3823529411764705,0.106,False,0.0006190696731209755,0.0004788677324540913,0.0004699854180216789
-it could solve,0.019297661,0.1056074786133147,0.4117647058823529,0.0,False,0.0008094442309811711,0.0004409541725181043,0.0004203489515930414
-three stars out of four,0.028439116,0.0367673132754274,0.4117647058823529,0.0,False,0.0008347362163476646,0.0007207065355032682,0.0004556202329695225
-this is from greta gerwig and it's got it,0.040284947,0.0,0.4117647058823529,0.0,False,0.0015225643292069435,0.0015209103003144264,0.005129931028932333
-really kind of a clever script,0.02792408,0.0003604474914025,0.1862745098039215,0.0,False,0.0006967865629121661,0.00048353991587646306,0.0005744124064221978
-you know it's it's pretty funny,0.0495556,9.222066802279335e-05,0.2647058823529412,0.0,False,0.0007830268004909158,0.000344206637237221,0.0035135881043970585
-it's not quite as riotous as i was,0.13431281,0.9985691191373296,0.4117647058823529,0.0,False,0.001220503356307745,0.010061255656182766,0.0527864545583725
-just when i went to see this movie,0.029984225,0.8384059916847002,0.4117647058823529,0.0,False,0.0006648752023465931,0.0007904499070718884,0.0012232366716489196
-there were people who were practically almost literally falling in the aisles with laughter,0.0813051,0.0367858825954591,0.4117647058823529,0.08,False,0.0008956105448305607,0.0028080332558602095,0.004062891937792301
-and i thought you know it's good,0.022351967,0.022723482586255,0.0,0.0,False,0.0005688255187124014,0.0004668059991672635,0.0009150660480372608
-"it's not that funny people i don't know, so who knows you might find this completely life-changing i found it three stars out of four life-changing so whatever, if that's worth",0.07690986,0.9999629209725208,0.284313725490196,0.072,False,0.0008151286747306585,0.0005291298730298877,0.0035903106909245253
-the movie is rated r,0.11343288,0.1442494884420588,0.4117647058823529,0.0,False,0.001966311363503337,0.0010309774661436677,0.0009435676038265228
-it's a little bit annoying because it didn't,0.16413476,0.9816865073740916,0.7022058823529411,0.257,False,0.0010018936591222882,0.0014790735440328717,0.0020405456889420748
-"it's got you know, a handful of f-bombs here and there, so it's mostly language",0.27856,0.9930255660788656,0.1176470588235293,0.0,False,0.007751189637929201,0.018743781372904778,0.02938597835600376
-"at one point, in order to kind of celebrate her 18th birthday, she goes and buys a dirty magazine, playgirl magazine, and so you actually see in the magazine",0.36944604,0.9564475823714024,0.4117647058823529,0.087,False,0.03359992429614067,0.1489744931459427,0.07101957499980927
-"and so that's kind of where the the nudity comes from, so be prepared for that",0.2995453,0.9949995771977452,0.0588235294117646,0.0,False,0.0012667224509641528,0.0004685109306592494,0.08968672901391983
-"there's also some sexual experimentation with her boyfriends, which doesn't really get too graphic or anything",0.317855,0.093406123875606,0.2745098039215686,0.0,False,0.1724182814359665,0.4151133596897125,0.7017697095870972
-but so it's i don't vote,0.017076347,0.8875385943048582,0.4117647058823529,0.0,False,0.0008751824498176575,0.007133441977202892,0.0008956724195741117
-call it a soft r,0.06372416,0.8504098201240937,0.3529411764705882,0.0,False,0.021001793444156647,0.00540470564737916,0.0027638725005090237
-but it's r enough to be concerning,0.035477944,0.0250455119726957,0.4117647058823529,0.0,False,0.0009942259639501572,0.0007916760514490306,0.003195687895640731
-if that's kind of an area where you are concerned,0.019436494,0.8347996687805587,0.0588235294117646,0.0,False,0.0006295551429502666,0.0004699437995441258,0.0016991881420835853
-so are teenagers just the worst? leave your answers in the comments below,0.31389946,0.9989655428234004,1.0,0.325,False,0.4202123284339905,0.02635166235268116,0.13763366639614105
-so thanks for watching,0.021102477,0.0392453487951685,0.2941176470588235,0.0,False,0.0007589940214529634,0.00041377716115675867,0.00027406166191212833
-this has been movie reviews by josh,0.036851373,0.0151036232141299,0.4117647058823529,0.0,False,0.0006841419963166118,0.0007853673305362463,0.00024293178285006434
-"my name is josh terry, i'm most definitely not a teenager anymore",0.05253629,0.9441213988820196,0.2647058823529412,0.0,False,0.0032183483708649874,0.0026339441537857056,0.030582623556256294
-"thank goodness, and bless the hearts of those of you who are, and go ahead and feel free to say nasty things in the comments, because that's what teenagers do",0.22991583,0.0175698852484576,0.5882352941176471,0.083,False,0.001676811370998621,0.0078012957237660885,0.011059715412557125
-"be sure to subscribe to my channel on your way out and keep you notifications on so you can see all of my other anti teenager rants whenever as soon as they're posted, and check out our friends at rocky gator, who produce fine waterproof backpacks and don't put up with teenagers",0.07970683,0.9991752002826352,0.2565359477124183,0.078,False,0.04537809267640114,0.001844804035499692,0.004148599226027727
-either,0.016729267,0.8044743298226589,0.4117647058823529,0.0,False,0.001351126586087048,0.0006101993494667113,0.0005343902157619596
-we'll see ya,0.055732824,0.0046570245099823,0.4117647058823529,0.0,False,0.0008137143449857831,0.0013313745148479939,0.004108690191060305
+"so do you have to leave home? to love home, hello, everyone, and welcome to movie reviews by josh",0.034962907,0.0,0.0,0.049,False,0.0007664973381906,0.0007116055930964,0.000532035541255
+"my name is josh terry, and today i'm gonna tell you about a little indie movie called ladybird and it's not a sequel or a companion to lbj because his wife was named ladybird",0.118584804,0.8923993110656738,0.09375,0.0,False,0.0006326184375211,0.0024605060461908,0.0029296122957021
+"actually, it's kind of a coming-of-age story about a teenage girl in 2002",0.025692256,0.6434560418128967,0.0,0.0,False,0.00071262154961,0.0019899767357856,0.0013415272114798
+therefore it is a period piece,0.02809576,0.8468035459518433,0.0,0.0,False,0.0009926344500854,0.0005798694910481,0.0013547150883823
+wrap your head around that about a teenage girl senior in high school and she's getting right to go to college and she hates where she is at and she is at sacramento,0.2752517,0.7957260608673096,0.0,0.083,False,0.0503262095153331,0.0293130110949277,0.0858623310923576
+"that's where she's grown up, but she wants culture she wants of ai brron steam wants community and enthusiasm and excitement",0.0765103,0.0,0.0,0.0,False,0.0006771309999749,0.0020544289145618,0.0006496520945802
+"and so she wants to go to new york to go to college because new york is the only place that has culture right, that's like chicago",0.089577995,0.80983567237854,0.0,0.0,False,0.0014648735523223,0.0190399419516325,0.0032936492934823
+"what's interesting about this is it kind of plays with a little bit of a little bit of a stereotype, kind of a east coast elitist type of thing, and lady bird is played by sushi ronin",0.112144895,0.9514460563659668,0.0,0.055,False,0.0012235251488164,0.0008803931414149,0.0007360969902947
+that's actually the name of the character,0.017423427,0.0,0.0,0.0,False,0.0006998081807978,0.0003830706118606,0.0009688921854831
+"technically, it's the nickname because her real name is christine, but she wants every to call her lady bird because she's at that one little spot in adolescence where you're aware of your own intellectual capabilities, but you're not wise enough to really know what to do with yourself and so she's kind of in this really agitating stage where she's smart, but also really really annoying",0.2712817,0.9999656677246094,0.0,0.145,False,0.0014358322368934,0.0230299029499292,0.0176011566072702
+"and so this movie is really about her, just kind of navigating the the ups and downs of her senior years",0.13296685,0.0,0.0,0.0,False,0.0011727449018508,0.0004950662259943,0.0009122181800194
+"she gets ready to head off to college and she, she's kind of boy-crazy and so she falls in love with this kid danny from her acting class, and then when things don't work out there, she goes after a bass player in a local band who's a conspiracy theorist and this kind of thing, and this this movie and put it this way",0.22986074,0.0,0.0,0.048,False,0.1007647216320037,0.2010890692472458,0.0812112316489219
+if saoirse ronan is performance wasn't so warm and quirky because lady bird is kind of quirky,0.31089294,0.0,0.0,0.116,False,0.000882415450178,0.0016372309764847,0.0421364493668079
+as well as annoying,0.1835188,0.9989216327667236,0.8,0.397,False,0.035709511488676,0.0202521067112684,0.0022019215393811
+this movie,0.034962907,0.0,0.0,0.0,False,0.0013336723204702,0.0006141065969131,0.000432931992691
+drive you crazy as an adult,0.52368855,0.0,0.25,0.324,False,0.5891732573509216,0.7566202878952026,0.5896559953689575
+"i guess from the perspective an adult, because there, the movie really kind of brings out the the foibles and the absurdity and the weaknesses of late adolescence, and kind of when you think you know everything and you don't so from an adult perspective, this kind of interesting movie to see",0.09816993,0.0,0.0,0.046,False,0.0008045998401939,0.0008883680566214,0.0013054555747658
+"it's kind of one of those things that's it's fun to watch, but it's also painful to watch because it brings back memories and i i want to be given this one",0.07690986,0.7379575371742249,0.0,0.106,False,0.0006190696731209,0.000478867732454,0.0004699854180216
+it could solve,0.019297661,0.0,0.0,0.0,False,0.0008094442309811,0.0004409541725181,0.000420348951593
+three stars out of four,0.028439116,0.0,0.0,0.0,False,0.0008347362163476,0.0007207065355032,0.0004556202329695
+this is from greta gerwig and it's got it,0.040284947,0.0,0.0,0.0,False,0.0015225643292069,0.0015209103003144,0.0051299310289323
+really kind of a clever script,0.02792408,0.0,0.0,0.0,False,0.0006967865629121,0.0004835399158764,0.0005744124064221
+you know it's it's pretty funny,0.0495556,0.0,0.0,0.0,False,0.0007830268004909,0.0003442066372372,0.003513588104397
+it's not quite as riotous as i was,0.13431281,0.9971386194229126,0.0,0.0,False,0.0012205033563077,0.0100612556561827,0.0527864545583725
+just when i went to see this movie,0.029984225,0.6768550276756287,0.0,0.0,False,0.0006648752023465,0.0007904499070718,0.0012232366716489
+there were people who were practically almost literally falling in the aisles with laughter,0.0813051,0.0,0.0,0.08,False,0.0008956105448305,0.0028080332558602,0.0040628919377923
+and i thought you know it's good,0.022351967,0.0,0.0,0.0,False,0.0005688255187124,0.0004668059991672,0.0009150660480372
+"it's not that funny people i don't know, so who knows you might find this completely life-changing i found it three stars out of four life-changing so whatever, if that's worth",0.07690986,0.9999258518218994,0.0,0.072,False,0.0008151286747306,0.0005291298730298,0.0035903106909245
+the movie is rated r,0.11343288,0.0,0.0,0.0,False,0.0019663113635033,0.0010309774661436,0.0009435676038265
+it's a little bit annoying because it didn't,0.16413476,0.9633778929710388,0.49375,0.257,False,0.0010018936591222,0.0014790735440328,0.002040545688942
+"it's got you know, a handful of f-bombs here and there, so it's mostly language",0.27856,0.9860529899597168,0.0,0.0,False,0.0077511896379292,0.0187437813729047,0.0293859783560037
+"at one point, in order to kind of celebrate her 18th birthday, she goes and buys a dirty magazine, playgirl magazine, and so you actually see in the magazine",0.36944604,0.9129067659378052,0.0,0.087,False,0.0335999242961406,0.1489744931459427,0.0710195749998092
+"and so that's kind of where the the nudity comes from, so be prepared for that",0.2995453,0.9900004863739014,0.0,0.0,False,0.0012667224509641,0.0004685109306592,0.0896867290139198
+"there's also some sexual experimentation with her boyfriends, which doesn't really get too graphic or anything",0.317855,0.0,0.0,0.0,False,0.1724182814359665,0.4151133596897125,0.7017697095870972
+but so it's i don't vote,0.017076347,0.7751071453094482,0.0,0.0,False,0.0008751824498176,0.0071334419772028,0.0008956724195741
+call it a soft r,0.06372416,0.7008594870567322,0.0,0.0,False,0.0210017934441566,0.0054047056473791,0.002763872500509
+but it's r enough to be concerning,0.035477944,0.0,0.0,0.0,False,0.0009942259639501,0.000791676051449,0.0031956878956407
+if that's kind of an area where you are concerned,0.019436494,0.6696433424949646,0.0,0.0,False,0.0006295551429502,0.0004699437995441,0.0016991881420835
+so are teenagers just the worst? leave your answers in the comments below,0.31389946,0.9979313611984253,1.0,0.325,False,0.4202123284339905,0.0263516623526811,0.137633666396141
+so thanks for watching,0.021102477,0.0,0.0,0.0,False,0.0007589940214529,0.0004137771611567,0.0002740616619121
+this has been movie reviews by josh,0.036851373,0.0,0.0,0.0,False,0.0006841419963166,0.0007853673305362,0.00024293178285
+"my name is josh terry, i'm most definitely not a teenager anymore",0.05253629,0.8882576823234558,0.0,0.0,False,0.0032183483708649,0.0026339441537857,0.0305826235562562
+"thank goodness, and bless the hearts of those of you who are, and go ahead and feel free to say nasty things in the comments, because that's what teenagers do",0.22991583,0.0,0.3,0.083,False,0.0016768113709986,0.007801295723766,0.0110597154125571
+"be sure to subscribe to my channel on your way out and keep you notifications on so you can see all of my other anti teenager rants whenever as soon as they're posted, and check out our friends at rocky gator, who produce fine waterproof backpacks and don't put up with teenagers",0.07970683,0.9983506202697754,0.0,0.078,False,0.0453780926764011,0.0018448040354996,0.0041485992260277
+either,0.016729267,0.6090007424354553,0.0,0.0,False,0.001351126586087,0.0006101993494667,0.0005343902157619
+we'll see ya,0.055732824,0.0,0.0,0.0,False,0.0008137143449857,0.0013313745148479,0.0041086901910603

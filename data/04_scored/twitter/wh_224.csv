@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user no you do not ... please take that back . you would hate it ...,0.3955794,0.0,0.0,0.418,0.0400634929537773,0.1121334731578826,0.134011223912239,False
+@user no you do not ... please take that back . you would hate it ...,0.3955794,0.9995840191841125,0.4,0.418,0.0400634929537773,0.1121334731578826,0.134011223912239,False

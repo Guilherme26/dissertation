@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-datum dryer broke so i'm at dis dry cleaner,0.15976663,0.0,0.0,0.243,0.0172992758452892,0.0013126976555213,0.00950856693089,False
+datum dryer broke so i'm at dis dry cleaner,0.15976663,0.9996113181114197,0.0666666666666666,0.243,0.0172992758452892,0.0013126976555213,0.00950856693089,False

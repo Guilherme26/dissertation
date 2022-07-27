@@ -1,54 +1,54 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"mmm, jordan peelers shouldn't direct another or write another movie",0.10300289,0.9979742462877896,0.380281690140845,0.0,False,0.003133368445560336,0.0011697837617248297,0.01041078008711338
-"hey, everybody, welcome back to the movie, couple channel, wendy here, giving you my review of get out, so get out is from the creative mind of jordan peele, that's right, jordan peele, as in key and peele, you've seen him in numerous comedy sketches",0.0801064,0.0029094241659607,0.2877263581488933,0.0,False,0.0010949153220281005,0.0007240763516165316,0.0004472497384995222
-"you've also seen him in keanu, if you have seen that movie, and when i first saw the trailer for get out and i heard that it was from jordan peele, i was like this is very interesting",0.053335425,0.0001187447074926,0.1830985915492957,0.0,False,0.0006203652592375875,0.00045416958164423704,0.00042274658335372806
-"it's definitely not anything i was expecting, but i was excited to see jordan peele taking this approach to it",0.080905534,0.9877361217197632,0.3309859154929577,0.0,False,0.0006043763714842498,0.0004642393905669451,0.0005320751224644482
-so he wrote it and he directed and you guys,0.05253629,0.0061473038230281,0.4366197183098591,0.0,False,0.0013838795712217689,0.0006064692279323936,0.0007845826330594718
-i love this movie so much,0.05133759,0.0021914717276869,0.2394366197183098,0.0,False,0.0009661953081376851,0.0004305375914555043,0.00030697855981998146
-i literally sat down on whistle and i was thinking my thought process was okay,0.03427619,0.0449021010391681,0.3395931142410015,0.0,False,0.0007404399802908301,0.0008725126390345395,0.0013380054151639342
-i really like the trailer,0.038224805,0.0010101645648446,0.323943661971831,0.0,False,0.0008903589914552867,0.00046874256804585457,0.0003470851224847138
-"it's really creepy, so it can be really awesome or it could be just like",0.1835188,0.1394410098855863,0.2957746478873239,0.0,False,0.002915516961365938,0.0018465662142261863,0.004829916637390852
-"mmm, jordan peele, shouldn't direct another or write another movie",0.09978092,0.990294557513376,0.380281690140845,0.0,False,0.0021989578381180763,0.0011406786506995559,0.0049885474145412445
-and at this point i like the movie so much,0.036679696,0.0046913697187106,0.323943661971831,0.0,False,0.0007472342695109546,0.0004978333017788827,0.000423466699430719
-i want to see more horror movies from jordan appeal,0.119228795,0.0333351921966843,0.1549295774647887,0.3,False,0.0008203932084143162,0.00949763786047697,0.007712199818342924
-"alright, so get out is basically about an interracial relationship",0.29021257,0.9959239329272428,0.4366197183098591,0.0,False,0.011641647666692734,0.0015978682786226273,0.015801964327692986
-"it's a white girl dating a black guy and it's the first black guy she's ever dated and now it's time to meet her parents and how they may or may not be able to handle the fact that she is in an interracial relationship and it's very prominent, like the first half of the movie, the the racism and and the rate in the interracial relationship is very prominent in the first half of the movie",0.34388447,0.0032322166313586,0.3401621852326077,0.048,False,0.028574546799063683,0.12630800902843475,0.12817521393299103
-seeing how he's nervous about it,0.068918526,0.0006031718487773,0.4366197183098591,0.296,False,0.0006699555087834597,0.0005468281451612711,0.0019417512230575085
-"she's kind of like it's gonna be fun, but they're like",0.09387396,0.0528499489835897,0.1830985915492957,0.0,False,0.0012531655374914408,0.0008938483078964055,0.01684371381998062
-they're like awkward,0.355017,0.9999308514755564,0.7746478873239437,0.314,False,0.0014685062924399972,0.0045033772476017475,0.749376118183136
-"you know about this? sure enough, they get to her family's house and it's not like just the house",0.02397547,0.0854802733119273,0.2957746478873239,0.097,False,0.0014644369948655367,0.0005160169093869627,0.0006706876447424293
-it's in a state and they have hired help who are black,0.39230084,0.7794976651792084,0.5305164319248826,0.0,False,0.466781347990036,0.6588457822799683,0.1671777218580246
-"and immediately when i was watching this movie i was like well, that's just really hitting it on the nose with the undertone of the racism that's there, and it reminds you subtly throughout the movie of that's what it is",0.22422299,0.0088603700238881,0.4741784037558685,0.088,False,0.0008002971298992634,0.008822464384138584,0.008357038721442223
-"and as it unravels from that into a thriller, it just really pulls you in every single time the help that they have",0.11665283,0.0005157824204719,0.4004024144869215,0.0,False,0.0007186065195128322,0.0003832289366982877,0.001108599710278213
-there's something not right with them,0.1423886,0.8705688053301829,0.5171026156941649,0.0,False,0.0008847955614328384,0.005467669572681189,0.0020055968780070543
-"you see that in the trailer, so i really don't feel like i'm spoiling it right now",0.1024659,0.0013479491456714,0.2997987927565392,0.129,False,0.0006733397021889687,0.0011442400282248855,0.001480568666011095
-they play an important role in the movie,0.024318827,0.0001032459002897,0.2112676056338027,0.0,False,0.0005916378577239811,0.00043933483539149165,0.0010191556066274643
-i would say my favorite part of seeing this movie is actually seeing the performances of the team,0.029125832,0.000460135741534,0.2957746478873239,0.0,False,0.0006065036286599934,0.00038250244688242674,0.00041094099287874997
-"the two leaves, alice and williams and daniel",0.042001735,0.0407831738034153,0.4366197183098591,0.0,False,0.0007804009364917874,0.000661816040519625,0.0018706893315538764
-"i'm gonna butcher his last name, but i'm gonna attempt it",0.4489545,0.9938741858692666,0.4366197183098591,0.0,False,0.0037912288680672646,0.4824388325214386,0.39314907789230347
-"i think it's clue yah, so i'm hope i'm saying that right, and i am so pleased with both of their performances",0.043031808,0.0010893575085715,0.2152917505030181,0.0,False,0.0006798108224757016,0.0006664818502031267,0.0005286934901960194
-he really drew me in,0.09978092,0.0002915862132029,0.323943661971831,0.0,False,0.0037451235111802816,0.0007321045268326998,0.005189212970435619
-and knowing that he's going to be in black panther makes me really excited because i get to see him perform a lot more,0.16482529,0.0003973059615655,0.3035993740219092,0.0,False,0.000925385276786983,0.04807772859930992,0.06227845698595047
-"there are some jump scares in the movie, but the movie does not rely on it to be scary",0.0681194,0.9967357723706876,0.7183098591549295,0.261,False,0.0007139691733755171,0.00048158864956349134,0.0006327212322503328
-"it's really the undertone when the thriller and psychologically it really, it really gets you thinking, and it makes you slightly uncomfortable, and towards the end of the movie i am on the edge of my seat wondering what is gonna happen",0.07451247,0.0109183433718412,0.4553990610328637,0.053,False,0.0007295384421013296,0.00046323658898472786,0.0005761829670518637
-"it really went down the route that i thought it was gonna go, and i'm so happy that it got there because i love this movie",0.036679696,0.0019281410322306,0.2472613458528951,0.0,False,0.0006392727955244482,0.00046153063885867596,0.0003525252977851778
-satisfied,0.043718524,0.0090424810085216,0.1549295774647887,0.0,False,0.0012937462888658047,0.0020763552747666836,0.0019619313534349203
-"creeped out, kept on thinking about it and wanted to talk to people about it non-stop like i wouldn't shut up about it at the office, and as of right now, this movie is still at a hundred percent on rotten tomatoes, which i was not expecting i buy",0.2712817,0.999011831819224,0.2756539235412474,0.062,False,0.0016423246124759316,0.027526771649718285,0.017418988049030304
-"now, since that the movie has opened, i expected to drop to like, i don't know 94 or something like that, but i'm so happy to see that it's still at a hundred percent",0.123736724,0.0,0.2394366197183097,0.037,False,0.0006120334728620946,0.0006655415054410696,0.0005064312135800719
-i really enjoy the script,0.027065687,0.0019715376923986,0.2112676056338027,0.0,False,0.0005945652374066412,0.00044491334119811654,0.00029372714925557375
-"i thought it explored the relationship of the two leads really really well, and explored the relationship between her and her parents and her parents interaction with him",0.10461388,0.0173537461764517,0.323943661971831,0.0,False,0.0005374159663915634,0.0003540731268003583,0.0012662423541769385
-really really well,0.02193547,0.0049462356810022,0.323943661971831,0.0,False,0.0006044218316674232,0.00030052036163397133,0.000563006557058543
-"it had your standard, jordan peels a humor",0.1334155,0.0062574049649653,0.4366197183098591,0.0,False,0.0030585303902626038,0.0017883554100990295,0.0016093173762783408
-"it's definitely in there, but it doesn't take you out of the movie and it's it's not in those funny lines that are in there",0.06012806,0.997400909642878,0.3661971830985915,0.111,False,0.0009599252371117473,0.0003929125959984958,0.0005349951679818332
-it's not in there to be like,0.021796638,0.993431635312828,0.4366197183098591,0.0,False,0.001166132977232337,0.0005487751914188266,0.0025559670757502317
-"oh ha, ha, he's jordan peele, a comedian, so he has to have those funny lines in the movie",0.14059398,0.0733416969268458,0.2957746478873239,0.0,False,0.001369963982142508,0.0013278787955641747,0.001971485558897257
-"it is natural and it is welcoming too, because it comes at the right time",0.028954152,0.001431910953153,0.3279678068410462,0.0,False,0.0005598501884378493,0.00031463170307688415,0.0005514469812624156
-"there's another character who plays the leads, best friend, and i loved him in the movie and he's gets his own shining moment which was great",0.045778666,0.0004840396711045,0.0,0.0,False,0.0006410741480067372,0.0004094901669304818,0.0015582229243591428
-oh no,0.024318827,0.99689827140313,0.4366197183098591,0.688,False,0.0020685361232608557,0.0009464131435379386,0.000578132807277143
-i love this movie and i hope you guys go see it for yourself,0.09118898,0.0009650988023624,0.1549295774647887,0.0,False,0.000720188079867512,0.006765279453247786,0.0005067972233518958
-why this is still out a hundred percent on rotten tomatoes for my score,0.16620636,0.9914036760011312,0.4366197183098591,0.202,False,0.0012766217114403844,0.008726187981665134,0.003378594759851694
-i'm gonna give this movie 9 out of 10,0.09602194,0.9972157287022024,0.4366197183098591,0.0,False,0.003963275346904993,0.002395845018327236,0.00036132935201749206
-"yes, it's a really high score because i loved it and i think you should at least give it a chance to see what it's all about",0.02792408,0.0013529266472154,0.3314553990610328,0.0,False,0.0006100072059780359,0.0004413488204590976,0.0008189845248125494
-"alright, guys, that's it for this review",0.049212243,0.1432664135572358,0.4366197183098591,0.0,False,0.0006428619381040335,0.000956742325797677,0.000596750935073942
-thank you so much for watching,0.027409043,0.04305032143781,0.323943661971831,0.0,False,0.0006891845259815454,0.000440869276644662,0.0003386667522136122
-"don't forget to like share, subscribe, and i will see you in the next video",0.0729142,0.0074786811671519,0.4366197183098591,0.117,False,0.0012715401826426387,0.0009266725974157453,0.0005182718741707504
+"mmm, jordan peelers shouldn't direct another or write another movie",0.10300289,0.9959489107131958,0.0,0.0,False,0.0031333684455603,0.0011697837617248,0.0104107800871133
+"hey, everybody, welcome back to the movie, couple channel, wendy here, giving you my review of get out, so get out is from the creative mind of jordan peele, that's right, jordan peele, as in key and peele, you've seen him in numerous comedy sketches",0.0801064,0.0,0.0,0.0,False,0.0010949153220281,0.0007240763516165,0.0004472497384995
+"you've also seen him in keanu, if you have seen that movie, and when i first saw the trailer for get out and i heard that it was from jordan peele, i was like this is very interesting",0.053335425,0.0,0.0,0.0,False,0.0006203652592375,0.0004541695816442,0.0004227465833537
+"it's definitely not anything i was expecting, but i was excited to see jordan peele taking this approach to it",0.080905534,0.9754747748374939,0.0,0.0,False,0.0006043763714842,0.0004642393905669,0.0005320751224644
+so he wrote it and he directed and you guys,0.05253629,0.0,0.0,0.0,False,0.0013838795712217,0.0006064692279323,0.0007845826330594
+i love this movie so much,0.05133759,0.0,0.0,0.0,False,0.0009661953081376,0.0004305375914555,0.0003069785598199
+i literally sat down on whistle and i was thinking my thought process was okay,0.03427619,0.0,0.0,0.0,False,0.0007404399802908,0.0008725126390345,0.0013380054151639
+i really like the trailer,0.038224805,0.0,0.0,0.0,False,0.0008903589914552,0.0004687425680458,0.0003470851224847
+"it's really creepy, so it can be really awesome or it could be just like",0.1835188,0.0,0.0,0.0,False,0.0029155169613659,0.0018465662142261,0.0048299166373908
+"mmm, jordan peele, shouldn't direct another or write another movie",0.09978092,0.9805911183357239,0.0,0.0,False,0.002198957838118,0.0011406786506995,0.0049885474145412
+and at this point i like the movie so much,0.036679696,0.0,0.0,0.0,False,0.0007472342695109,0.0004978333017788,0.0004234666994307
+i want to see more horror movies from jordan appeal,0.119228795,0.0,0.0,0.3,False,0.0008203932084143,0.0094976378604769,0.0077121998183429
+"alright, so get out is basically about an interracial relationship",0.29021257,0.9918487071990967,0.0,0.0,False,0.0116416476666927,0.0015978682786226,0.0158019643276929
+"it's a white girl dating a black guy and it's the first black guy she's ever dated and now it's time to meet her parents and how they may or may not be able to handle the fact that she is in an interracial relationship and it's very prominent, like the first half of the movie, the the racism and and the rate in the interracial relationship is very prominent in the first half of the movie",0.34388447,0.0,0.0,0.048,False,0.0285745467990636,0.1263080090284347,0.128175213932991
+seeing how he's nervous about it,0.068918526,0.0,0.0,0.296,False,0.0006699555087834,0.0005468281451612,0.0019417512230575
+"she's kind of like it's gonna be fun, but they're like",0.09387396,0.0,0.0,0.0,False,0.0012531655374914,0.0008938483078964,0.0168437138199806
+they're like awkward,0.355017,0.9998617172241211,0.6,0.314,False,0.0014685062924399,0.0045033772476017,0.749376118183136
+"you know about this? sure enough, they get to her family's house and it's not like just the house",0.02397547,0.0,0.0,0.097,False,0.0014644369948655,0.0005160169093869,0.0006706876447424
+it's in a state and they have hired help who are black,0.39230084,0.5590408444404602,0.1666666666666666,0.0,False,0.466781347990036,0.6588457822799683,0.1671777218580246
+"and immediately when i was watching this movie i was like well, that's just really hitting it on the nose with the undertone of the racism that's there, and it reminds you subtly throughout the movie of that's what it is",0.22422299,0.0,0.0666666666666666,0.088,False,0.0008002971298992,0.0088224643841385,0.0083570387214422
+"and as it unravels from that into a thriller, it just really pulls you in every single time the help that they have",0.11665283,0.0,0.0,0.0,False,0.0007186065195128,0.0003832289366982,0.0011085997102782
+there's something not right with them,0.1423886,0.7411643266677856,0.1428571428571428,0.0,False,0.0008847955614328,0.0054676695726811,0.002005596878007
+"you see that in the trailer, so i really don't feel like i'm spoiling it right now",0.1024659,0.0,0.0,0.129,False,0.0006733397021889,0.0011442400282248,0.001480568666011
+they play an important role in the movie,0.024318827,0.0,0.0,0.0,False,0.0005916378577239,0.0004393348353914,0.0010191556066274
+i would say my favorite part of seeing this movie is actually seeing the performances of the team,0.029125832,0.0,0.0,0.0,False,0.0006065036286599,0.0003825024468824,0.0004109409928787
+"the two leaves, alice and williams and daniel",0.042001735,0.0,0.0,0.0,False,0.0007804009364917,0.0006618160405196,0.0018706893315538
+"i'm gonna butcher his last name, but i'm gonna attempt it",0.4489545,0.9877496361732483,0.0,0.0,False,0.0037912288680672,0.4824388325214386,0.3931490778923034
+"i think it's clue yah, so i'm hope i'm saying that right, and i am so pleased with both of their performances",0.043031808,0.0,0.0,0.0,False,0.0006798108224757,0.0006664818502031,0.000528693490196
+he really drew me in,0.09978092,0.0,0.0,0.0,False,0.0037451235111802,0.0007321045268326,0.0051892129704356
+and knowing that he's going to be in black panther makes me really excited because i get to see him perform a lot more,0.16482529,0.0,0.0,0.0,False,0.0009253852767869,0.0480777285993099,0.0622784569859504
+"there are some jump scares in the movie, but the movie does not rely on it to be scary",0.0681194,0.9934722185134888,0.5,0.261,False,0.0007139691733755,0.0004815886495634,0.0006327212322503
+"it's really the undertone when the thriller and psychologically it really, it really gets you thinking, and it makes you slightly uncomfortable, and towards the end of the movie i am on the edge of my seat wondering what is gonna happen",0.07451247,0.0,0.0333333333333333,0.053,False,0.0007295384421013,0.0004632365889847,0.0005761829670518
+"it really went down the route that i thought it was gonna go, and i'm so happy that it got there because i love this movie",0.036679696,0.0,0.0,0.0,False,0.0006392727955244,0.0004615306388586,0.0003525252977851
+satisfied,0.043718524,0.0,0.0,0.0,False,0.0012937462888658,0.0020763552747666,0.0019619313534349
+"creeped out, kept on thinking about it and wanted to talk to people about it non-stop like i wouldn't shut up about it at the office, and as of right now, this movie is still at a hundred percent on rotten tomatoes, which i was not expecting i buy",0.2712817,0.9980238676071167,0.0,0.062,False,0.0016423246124759,0.0275267716497182,0.0174189880490303
+"now, since that the movie has opened, i expected to drop to like, i don't know 94 or something like that, but i'm so happy to see that it's still at a hundred percent",0.123736724,0.0,0.0,0.037,False,0.000612033472862,0.000665541505441,0.00050643121358
+i really enjoy the script,0.027065687,0.0,0.0,0.0,False,0.0005945652374066,0.0004449133411981,0.0002937271492555
+"i thought it explored the relationship of the two leads really really well, and explored the relationship between her and her parents and her parents interaction with him",0.10461388,0.0,0.0,0.0,False,0.0005374159663915,0.0003540731268003,0.0012662423541769
+really really well,0.02193547,0.0,0.0,0.0,False,0.0006044218316674,0.0003005203616339,0.0005630065570585
+"it had your standard, jordan peels a humor",0.1334155,0.0,0.0,0.0,False,0.0030585303902626,0.001788355410099,0.0016093173762783
+"it's definitely in there, but it doesn't take you out of the movie and it's it's not in those funny lines that are in there",0.06012806,0.9948023557662964,0.0,0.111,False,0.0009599252371117,0.0003929125959984,0.0005349951679818
+it's not in there to be like,0.021796638,0.9868646264076233,0.0,0.0,False,0.0011661329772323,0.0005487751914188,0.0025559670757502
+"oh ha, ha, he's jordan peele, a comedian, so he has to have those funny lines in the movie",0.14059398,0.0,0.0,0.0,False,0.0013699639821425,0.0013278787955641,0.0019714855588972
+"it is natural and it is welcoming too, because it comes at the right time",0.028954152,0.0,0.0,0.0,False,0.0005598501884378,0.0003146317030768,0.0005514469812624
+"there's another character who plays the leads, best friend, and i loved him in the movie and he's gets his own shining moment which was great",0.045778666,0.0,0.0,0.0,False,0.0006410741480067,0.0004094901669304,0.0015582229243591
+oh no,0.024318827,0.9937971830368042,0.0,0.688,False,0.0020685361232608,0.0009464131435379,0.0005781328072771
+i love this movie and i hope you guys go see it for yourself,0.09118898,0.0,0.0,0.0,False,0.0007201880798675,0.0067652794532477,0.0005067972233518
+why this is still out a hundred percent on rotten tomatoes for my score,0.16620636,0.9828091263771057,0.0,0.202,False,0.0012766217114403,0.0087261879816651,0.0033785947598516
+i'm gonna give this movie 9 out of 10,0.09602194,0.9944320321083069,0.0,0.0,False,0.0039632753469049,0.0023958450183272,0.0003613293520174
+"yes, it's a really high score because i loved it and i think you should at least give it a chance to see what it's all about",0.02792408,0.0,0.0,0.0,False,0.000610007205978,0.000441348820459,0.0008189845248125
+"alright, guys, that's it for this review",0.049212243,0.0,0.0,0.0,False,0.000642861938104,0.0009567423257976,0.0005967509350739
+thank you so much for watching,0.027409043,0.0,0.0,0.0,False,0.0006891845259815,0.0004408692766446,0.0003386667522136
+"don't forget to like share, subscribe, and i will see you in the next video",0.0729142,0.0,0.0,0.117,False,0.0012715401826426,0.0009266725974157,0.0005182718741707

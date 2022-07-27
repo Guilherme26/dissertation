@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"simple concept : if the bottle is empty , throw it away .",0.19634613,0.0,0.0,0.13,0.0010625154245644,0.1139926016330719,0.0491024404764175,False
+"simple concept : if the bottle is empty , throw it away .",0.19634613,0.999782145023346,0.05,0.13,0.0010625154245644,0.1139926016330719,0.0491024404764175,False

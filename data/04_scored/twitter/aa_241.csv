@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-watcince ice age ... its boring :\,0.28972426,0.0,0.0,0.479,0.0168054271489381,0.0101350462064147,0.0054794512689113,False
+watcince ice age ... its boring :\,0.28972426,0.9988963603973389,0.625,0.479,0.0168054271489381,0.0101350462064147,0.0054794512689113,False

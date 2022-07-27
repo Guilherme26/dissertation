@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"poor poor merle , bravo for michael rooker and norman reedus's performance on last night's show .",0.023460433,0.0,0.0,0.292,0.0134583953768014,0.0009357102680951,0.0004420972836669,False
+"poor poor merle , bravo for michael rooker and norman reedus's performance on last night's show .",0.023460433,0.9986454844474792,0.2666666666666666,0.292,0.0134583953768014,0.0009357102680951,0.0004420972836669,False

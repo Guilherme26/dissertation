@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user them are strong accusations that need evidence and witnesses ! i'm pretty sure the league may investigate,0.053335425,0.0,0.0,0.091,0.0021595726720988,0.0009645715472288,0.000380379933631,False
+@user them are strong accusations that need evidence and witnesses ! i'm pretty sure the league may investigate,0.053335425,0.9527477025985718,0.0,0.091,0.0021595726720988,0.0009645715472288,0.000380379933631,False

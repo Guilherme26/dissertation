@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-i wanna go home .. instead of being outside in the cold .,0.062925026,0.0,0.0,0.0,0.0113457478582859,0.0098397554829716,0.0009700014488771,False
+i wanna go home .. instead of being outside in the cold .,0.062925026,0.0,0.3,0.0,0.0113457478582859,0.0098397554829716,0.0009700014488771,False

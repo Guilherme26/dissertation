@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"look what jesus did , look what jesus did",0.12244874,0.0,0.0,0.0,0.015266066417098,0.0232541020959615,0.0063155377283692,False
+"look what jesus did , look what jesus did",0.12244874,0.8794776201248169,0.0,0.0,0.015266066417098,0.0232541020959615,0.0063155377283692,False

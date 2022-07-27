@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-“ @user : cough drops are my best friend right now . ” same ,0.08555053,0.0,0.0,0.0,0.001655780011788,0.0054718893952667,0.001115953666158,False
+“ @user : cough drops are my best friend right now . ” same ,0.08555053,0.9901241660118103,0.0,0.0,0.001655780011788,0.0054718893952667,0.001115953666158,False

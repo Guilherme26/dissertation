@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-hate hate hate hate hate hate hate having to work there . ,0.39206567,0.0,0.0,0.838,0.4063798785209656,0.1383160203695297,0.0597019530832767,False
+hate hate hate hate hate hate hate having to work there . ,0.39206567,0.9559401273727417,0.7999999999999999,0.838,0.4063798785209656,0.1383160203695297,0.0597019530832767,False

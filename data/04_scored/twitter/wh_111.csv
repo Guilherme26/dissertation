@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"@user it's not about you , dee . if it was i would've texted you and talked to you personally about it .",0.04783881,0.0,0.0,0.0,0.0045088464394211,0.0011851872550323,0.0007862438214942,False
+"@user it's not about you , dee . if it was i would've texted you and talked to you personally about it .",0.04783881,0.9999040365219116,0.0,0.0,0.0045088464394211,0.0011851872550323,0.0007862438214942,False

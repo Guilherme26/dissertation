@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-my boss fired somebody on site n front of everybody #she's a savage,0.4151741,0.0,0.0,0.375,0.8558902144432068,0.007867251522839,0.676105260848999,False
+my boss fired somebody on site n front of everybody #she's a savage,0.4151741,0.9823492169380188,0.0,0.375,0.8558902144432068,0.007867251522839,0.676105260848999,False

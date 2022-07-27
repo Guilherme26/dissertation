@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user pet stores always have bearded dragon temps about 30 degrees too cool ... go figure :(,0.12953265,0.0,0.0,0.144,0.000700814591255,0.0026217463891953,0.0006749266176484,False
+@user pet stores always have bearded dragon temps about 30 degrees too cool ... go figure :(,0.12953265,0.9910354614257812,0.2,0.144,0.000700814591255,0.0026217463891953,0.0006749266176484,False

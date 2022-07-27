@@ -1,92 +1,92 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"morning, everybody movie review time, the favorite throwing, olivia : rachel weisz and emma stone, he's really good",0.06372416,0.0080851435186071,0.2,0.0,False,0.0006451070075854659,0.0006486272322945297,0.0008389980648644269
-"what's it like? should you spend your money, stick around and you'll find out now",0.13745339,0.9960131484881556,0.5,0.0,False,0.013287960551679134,0.010803365148603916,0.0057016396895051
-"first things first, have i seen the best film of 2019? well, quite possibly, he's not the first film i've seen in 2019",0.051737156,0.9959873374508196,0.325,0.0,False,0.0006487357895821333,0.00037824144237674773,0.00033471675124019384
-"the first film i saw was spider-man in the spider-verse now you'll be wondering why is he not done review of spider-man in the spider-verse well, it's a kid's film and i'm 62, as many of you know, so not really designed for me, so anything that i say about it would would be a bit snippy",0.13655609,0.9997510695336828,0.3916666666666666,0.0,False,0.0011235660640522838,0.02338019199669361,0.023242557421326637
-"yeah, well, you get the 62 year old",0.058929358,0.895073453860744,0.45,0.0,False,0.10722695291042328,0.0005912004853598773,0.012071208097040653
-you don't understand cartoons for kids,0.09924392,0.9999046541473002,0.5,0.0,False,0.018175292760133743,0.0021109720692038536,0.16565603017807007
-it's a white,0.1621016,0.1105521898876886,0.5,0.0,False,0.005286386702209711,0.10203493386507034,0.04799327626824379
-"actually, i quite in",0.022945397,0.1377508834319309,0.5,0.0,False,0.0009112791158258915,0.00034341358696110547,0.0018390871118754148
-"i quite enjoyed it, but i did think part of the time what am i doing here? why am i watching this rubbish? no, it wasn't but it was alright",0.45120096,0.9987111172072052,0.25,0.0,False,0.041343461722135544,0.7656261324882507,0.5063471794128418
-if you've got kids,0.07131593,0.0073391270468733,0.5,0.0,False,0.010996823199093342,0.0009248339920304716,0.0007052264409139752
-"if you've got kids, go and see it",0.09602194,0.0045304331503372,0.5,0.0,False,0.002801475813612342,0.0069623179733753204,0.001275762333534658
-it's it's a nice update,0.015063282,0.1268818436877617,0.2,0.0,False,0.0006582418573088944,0.0005054206703789532,0.00040623644599691033
-"you do wonder how many spider-man films they can make, but it's a nice update of the spider-man franchise",0.07251463,0.0010491620384138,0.2249999999999999,0.0,False,0.0006496037822216749,0.0013639357639476657,0.0025409767404198647
-and who can blame them anyway? that's not what i'm here to talk about,0.09763293,0.9998281449869748,0.5,0.156,False,0.0017994334921240807,0.0011091998312622309,0.001707978779450059
-one of you to talk about is the favorite,0.050242316,0.0003030561520011,0.25,0.0,False,0.000685338512994349,0.0004143267578911036,0.0014580971328541636
-"now what is the favorite? we may have heard something about it because olivia colman won the best actress award at the golden globes couple of nights ago for her performance as queen and queen anne, you say who is queen anne? well, queen anne was a queen of england",0.016243355,0.0001388013866905,0.2,0.0,False,0.0007415207219310105,0.0009158816537819803,0.0009449003846384585
-"yes, funny enough in the early 1700s now i don't know very much about queen n",0.06252546,0.0266769588923166,0.42375,0.0,False,0.0006444421596825123,0.0014601910952478647,0.0005716452724300325
-"when i was all about 16 or something, i learnt a mnemonic which is blong, 4, 6, 8, 9, which stands for the battles of blenheim families, luton, odd and mal placa in 1704, 1706, 1708, and 1709, and that was doing a war against the french during the reign of queen anne, but i don't know much about her apart from that",0.1019289,0.91980924987701,0.4944444444444444,0.09,False,0.000658838078379631,0.0009366446756757796,0.0005921608535572886
-"now what happens in this film? well, this film is about queen anne, a not a mad monarch but certainly a monarch with her issues, i suppose is what we could",0.20742953,0.9927766649624228,0.3683035714285714,0.0,False,0.0006433188682422042,0.002828548662364483,0.03930153325200081
-"so we'd say to it in this in this modern day, and she has a lesbian relationship with a couple of people, one of whom is lady moba, who is the wife of john churchill, ancestor of winston churchill, the first duke of alba, who was gifted blenheim by a grateful nation after his victories against the french, now in this film, lady marber is portrayed as not just the power behind the throne, but in almost you could say, the power inside the throne, as she spends a certain amount of time nuzzling",0.2712817,0.1490163282529701,0.4363095238095238,0.0,True,0.004812855739146471,0.02044259011745453,0.007428509648889303
-nuzzling,0.16482529,0.2464042035867327,0.5,0.0,False,0.15941961109638214,0.046209972351789474,0.09353992342948914
-"is that a good word? nuzzling up to queen anne until she is supplanted in anne's affections by emma stone, who plays a lady who has fallen from grace to become a servant girl for some other complicated reason, and then, as a consequence of her becoming the favorite of the queen queen anne, and develops a bigger place at court, and in an intense rivalry with lady mor burr, who is played by rachel weisz and must-own plays abigail",0.09602194,0.0122401840416376,0.4125,0.027,False,0.0009966623038053513,0.0027173401322215796,0.003642025636509061
-that's the name of the other lady,0.042001735,0.028129530157455,0.5625,0.0,False,0.0016826774226501584,0.002484434749931097,0.0027329062577337027
-"now, couple of things about this film that are wonderful",0.04783881,0.0009749776597424,0.0,0.0,False,0.0005763669614680111,0.00034129031701013446,0.0013171741738915443
-the first thing is it's a film about women and the three lead characters are women,0.08581903,0.920445882391442,0.375,0.0,False,0.016593683511018753,0.007693476974964142,0.009368241764605045
-"there are men characters who sort of dance around them, but they're not lead characters",0.07131593,0.9925031156544896,0.5,0.0,False,0.0007816110737621784,0.0023433887399733067,0.003470680443570018
-"these are three strong, interesting, powerful women",0.048868883,0.000119189767098,0.2944444444444444,0.0,False,0.0007903422228991985,0.005559122655540705,0.002202918054535985
-"and if that isn't a statement about hollywood in these modern days, i don't know what is, and let's have more of it, guys",0.07091636,0.0428142817178753,0.325,0.0,False,0.000702819786965847,0.0012070415541529655,0.0011857801582664251
-the other thing is it's very funny,0.073313765,0.0002525070534769,0.45,0.0,False,0.0007007669191807508,0.00033207927481271327,0.0028614795301109552
-it's very rude,0.21892473,0.99933475478829,0.6950000000000001,0.622,False,0.016106894239783287,0.03270241245627403,0.03451869264245033
-the certificate is a 15,0.020963646,0.1813270676295078,0.5,0.0,False,0.0009801501873880625,0.0004280713328626007,0.0004182977427262813
-"and when you see the certificate and at the front of the film it's there's strong sex scenes, so oh dear, but there weren't any strong sex scenes",0.41665444,0.9974899213264083,0.2833333333333333,0.109,False,0.003144983435049653,0.2670111656188965,0.538695216178894
-"there's a little strong sexual language and there is a lot of sexual innuendo and it is very well handled, but there isn't a lot of sex scene so you can take your 15 year old",0.40636617,0.0183660433092515,0.3711805555555555,0.0,False,0.5029695630073547,0.5515258312225342,0.7830240726470947
-i think it's 15,0.030327583,0.0877212841926948,0.5,0.0,False,0.0010131689487025142,0.0004225678858347237,0.0005362820229493082
-you can tell your children this certain amount of what's the word lack of fear,0.060927194,0.9898437144669792,0.3928571428571428,0.277,False,0.012171833775937557,0.0009193106088787317,0.0007681275019422174
-"they'd probably rather go and see spider-man in the spider verse, but this is a fabulous film",0.044405237,0.0,0.3,0.0,False,0.0007247145404107869,0.0011350844288244843,0.0012420333223417401
-now,0.018742332,0.0840455361539611,0.5,0.0,False,0.0014697305159643292,0.0004906950052827597,0.0007275509997271001
-it reminded me very strongly of three other films,0.048525527,6.873008325281541e-05,0.3904166666666666,0.0,False,0.0006956075667403638,0.0004308834904804826,0.000526612566318363
-"the first, and perhaps most obviously is the madness of king george, where nigel havers played george the third in his descent into madness, and it's film",0.13206954,0.0033311438658937,0.40625,0.18,False,0.0007793913246132433,0.2074175477027893,0.004787945654243231
-it's it's set in a similar period,0.01596569,0.7548699555889211,0.5,0.0,False,0.000700372620485723,0.00032938027288764715,0.0008088293252512813
-"not quite the same period, but very similar period",0.022351967,0.9948070338832156,0.5,0.0,False,0.0006261846283450723,0.000318324426189065,0.0004135649651288986
-"the second film it reminded me of is barry lyndon, stanley kubrick's film starring ryan o'neal of all people, and the reason for that is that kubrick's film was shot entirely with natural light",0.08635602,0.0008412132999685,0.4375,0.0,False,0.00068841123720631,0.0005962168797850609,0.0006222949014045298
-"lots of scenes lit purely by candles, and large parts of this film are lit either by candles or just by fly, alight and it is beautifully lit, beautifully filmed",0.043718524,6.267968997427182e-05,0.2071428571428571,0.0,False,0.0006534227868542075,0.0003738510131370276,0.0005003646947443485
-"the interiors are sumptuous, the costumes are fabulous",0.1008549,0.0011114244598861,0.3,0.0,False,0.0009769975440576673,0.0008226728532463312,0.0015745088458061218
-it is an absolutely wonderful piece of filmmaking,0.040284947,0.0001737327212838,0.0,0.0,False,0.0005765562527813017,0.00034992097062058747,0.0005331084248609841
-"in that sense, the third film it reminded me of is peter greenaway the draftsmen contract, which is about probably 30, 35 years old now, and and it reminded me of that because of its episodic nature now, though it's divided up into a series of chapters, eight chapters",0.024147147,0.0200545501073602,0.475,0.0,False,0.0006254238542169333,0.0003797679382842034,0.00032147299498319626
-"i think in each chapter has a little title, and then the scene follows on from that",0.024490505,0.7653289992250132,0.59375,0.0,False,0.0005761335487477481,0.00035174511140212417,0.0002310050476808101
-the music is also very similar to the music that philip glass,0.034791227,0.0133119977987298,0.5,0.0,False,0.0007291894871741533,0.0005112722865305841,0.0009971627732738853
-that was it philip glass that peter greenaway? was it phillippe loss? i think so,0.046465382,0.9960660819781196,0.5,0.16,False,0.0008016961510293186,0.0012707653222605586,0.0008551979553885758
-i thought peter greenaway used,0.015549194,0.9958578053858514,0.5,0.0,False,0.0007066409452818334,0.0007247694884426892,0.0004082141094841063
-"or was it michael nyman actually, i think it was not from michael nyman sorry, i'm getting a bit confused here",0.044405237,0.9997390581618046,0.65,0.159,False,0.0006986959488131106,0.0014549721963703632,0.000441184762166813
-"anyway, the music is very similar to the music in the draftsmen contract",0.05852979,0.8357535800594298,0.5,0.0,False,0.0006621648790314794,0.000388853601180017,0.0011785704409703612
-"i did find at certain places in this film that the music was rather intrusive, a bit too loud, and a little bit annoying",0.19716066,0.9998716303258588,0.5841517857142857,0.091,False,0.001057460787706077,0.0013857906451448798,0.0011139038251712918
-so just a minor criticism,0.040284947,0.9988253593620656,0.525,0.42,False,0.0009360241238027811,0.0005232151015661657,0.0005784431123174727
-there,0.020408317,0.7814513599942869,0.5,0.0,False,0.0009486791677772999,0.00044457081821747124,0.0009494753321632743
-"the other minor criticism i would have is that one point one of the characters says, from now on it's okay now, i, not sufficient of a student of the english language to know for certain whether the word okay was in common parlance in 1708 at the court of queen anne, but somehow i doubt i doubt it anyway",0.04165838,0.9992062360896838,0.4471938775510204,0.126,False,0.0006253994652070105,0.0005511849885806441,0.0006075612036511302
-"back to the film, it is a wonderful film",0.040284947,0.0018650113744413,0.25,0.0,False,0.0007018528995104134,0.00035636828397400677,0.00087357236770913
-it is beautifully acted,0.046465382,0.0005879611241666,0.075,0.0,False,0.0006339598912745714,0.0004819213645532727,0.0009637608309276402
-olivia colman is brilliant,0.026035614,0.0003413852443962,0.0499999999999999,0.0,False,0.000867698632646352,0.00043845706386491656,0.005686939228326082
-emma stone is excellent,0.01999182,0.0012498383829677,0.0,0.0,False,0.0006698226789012551,0.0007488714181818068,0.0012853855732828379
-rachel weisz is excellent,0.019575324,0.0029740514428876,0.0,0.0,False,0.0006988151581026614,0.0005311958957463503,0.0009278569486923516
-the minor characters are all excellent,0.049212243,0.0011803333724969,0.2625,0.0,False,0.0006054671830497682,0.00035326709621585906,0.0007936020265333354
-it is superb,0.031185975,0.0010028750395883,0.0,0.0,False,0.0006731462199240923,0.000420285650761798,0.0007108688587322831
-super hard to think of enough good things to say about this film,0.09655894,0.0121786071327043,0.4072916666666666,0.077,False,0.000626891094725579,0.0004130037850700319,0.0005393171450123191
-one does kind of wonder,0.031529333,0.0516412392183034,0.2,0.0,False,0.0011135839158669114,0.0003612058935686946,0.0006634813034906983
-"not well, not wonder",0.05253629,0.9999433707033044,0.5,0.377,False,0.0012270427541807294,0.000372118316590786,0.0014221064047887921
-"when kind of longs for a time when our monarchs were mad, can't really say mad, can you? but you want a monarch that is absolutely and utterly corrupted and destroyed by power, and our monarchs are kind of, you know, they're becoming close to normal people",0.2995453,0.2241929118122692,0.4472222222222222,0.12,False,0.005820436868816614,0.01743679866194725,0.14782236516475677
-"i don't think we want that, and i don't think i want prince harry as a normal person",0.23628397,0.9999756195975278,0.425,0.133,False,0.001286247163079679,0.023207364603877068,0.004076103214174509
-"i want him as a mad, crazed pal, obsessed lunatic monarch",0.7007861,0.7635830583980979,0.78125,0.568,False,0.7258790731430054,0.9777299165725708,0.9793861508369446
-"i, if i'm gonna be ruled by a royal family, and i did test the idea of being ruled by law finally, but if i'm going to be ruled by the wall family, and it looks like i am until death us do part",0.13251819,0.0059366578068641,0.5,0.106,False,0.02107595093548298,0.1375260204076767,0.019355766475200653
-i want it to be moved,0.038053125,0.0195387466291411,0.5,0.0,False,0.0007224224973469973,0.03509462624788284,0.007477752864360809
-i want,0.034791227,0.0271233169698509,0.5,0.0,False,0.030064309015870094,0.0024938294664025307,0.0007881472120061517
-i want my royalty to be off the wall,0.14463188,0.181283552485731,0.5,0.0,False,0.25877439975738525,0.0615130178630352,0.05060819163918495
-that's queen anne,0.026894007,0.0131964442285775,0.5,0.0,False,0.0027689910493791103,0.12285123765468597,0.16576316952705383
-"i mean, she's not mad, can't say mad, but she is",0.30788645,0.0103630718806392,0.6041666666666666,0.0,False,0.01985038071870804,0.1774723082780838,0.29628950357437134
-she has issues,0.18746567,0.9930328976275246,0.5,0.0,False,0.0015707152197137475,0.07333913445472717,0.009348997846245766
-"she has issues, and the issues are not really resolved",0.123736724,0.99988218125798,0.55,0.162,False,0.0007128724828362465,0.005849633365869522,0.0029006728436797857
-so the film is funny,0.058929358,0.0010803677613825,0.375,0.0,False,0.0008365676621906459,0.0004256966640241444,0.0006421289872378111
-"it is sad, it is tragic",0.054534122,0.9657764123957596,0.8125,0.604,False,0.0014308391837403178,0.00043746488518081605,0.00328602222725749
-it is enlightening,0.028782474,0.0025753215843637,0.35,0.0,False,0.0006119217723608017,0.00037056440487504005,0.0008824541582725942
-i have no idea how close to the truth it is and i don't really care,0.090114996,0.9999970791204862,0.4,0.248,False,0.022610746324062347,0.00506063224747777,0.001620852155610919
-it is an master class in filmmaking and filmmaking for adults,0.084745035,0.000397239613874,0.5,0.0,False,0.0009018874843604863,0.0004747970378957689,0.000625869317445904
-it's not a children's film,0.054534122,0.9998177728842116,0.5,0.0,False,0.0017274644924327731,0.0006777604576200247,0.0016232143389061093
-it's not a film for young people,0.076110736,0.9998438223606918,0.45,0.0,False,0.0014661707682535052,0.000602451735176146,0.002804399933665991
-it's a film for thinking that sounds a bit snobbish,0.21539254,0.9915114472546684,0.5,0.174,False,0.0012189849512651563,0.002314200159162283,0.06501501798629761
-it's a film for thinking adults,0.08796701,0.0207760669570497,0.5,0.0,False,0.0025001028552651405,0.0008805218967609107,0.003232900984585285
-"i saw it as i always do at the dunnage picture house with my darling wife, jane, and we loved it",0.02809576,0.0025197652638159,0.15,0.0,False,0.0006468758801929653,0.006062347441911697,0.00255654938519001
-"we saw it on monday monday's cheap seats day, which means the cinema is full of people who have plenty of money, but like a bargain, and there are a few things that annoy me more than somebody who has money and likes a bargain",0.19634613,0.9999622670054648,0.36875,0.07,False,0.000729931693058461,0.0005795200122520328,0.002214437583461404
-and we were there on a monday because we like a bargain,0.105704986,0.0036140221053353,0.5,0.0,False,0.000669146073050797,0.0004105206753592938,0.005982135888189077
-"but if you want to see a great film and possibly the best film of 2019, already close second spider-man in the spider-verse that only being the two films that i've seen so fine, 2019, go and see it",0.057331093,0.0036838549696291,0.3152777777777777,0.0,False,0.0005995704559609294,0.0006014285027049482,0.0007199644460342824
-see you next time,0.048525527,0.020189089394352,0.5,0.0,False,0.0015481477603316307,0.0006439813878387213,0.0008449252927675843
+"morning, everybody movie review time, the favorite throwing, olivia : rachel weisz and emma stone, he's really good",0.06372416,0.0,0.0,0.0,False,0.0006451070075854,0.0006486272322945,0.0008389980648644
+"what's it like? should you spend your money, stick around and you'll find out now",0.13745339,0.9920269846916199,0.0,0.0,False,0.0132879605516791,0.0108033651486039,0.0057016396895051
+"first things first, have i seen the best film of 2019? well, quite possibly, he's not the first film i've seen in 2019",0.051737156,0.9919753670692444,0.0,0.0,False,0.0006487357895821,0.0003782414423767,0.0003347167512401
+"the first film i saw was spider-man in the spider-verse now you'll be wondering why is he not done review of spider-man in the spider-verse well, it's a kid's film and i'm 62, as many of you know, so not really designed for me, so anything that i say about it would would be a bit snippy",0.13655609,0.9995021820068359,0.0,0.0,False,0.0011235660640522,0.0233801919966936,0.0232425574213266
+"yeah, well, you get the 62 year old",0.058929358,0.7901650071144104,0.0,0.0,False,0.1072269529104232,0.0005912004853598,0.0120712080970406
+you don't understand cartoons for kids,0.09924392,0.9998093247413635,0.0,0.0,False,0.0181752927601337,0.0021109720692038,0.16565603017807
+it's a white,0.1621016,0.0,0.0,0.0,False,0.0052863867022097,0.1020349338650703,0.0479932762682437
+"actually, i quite in",0.022945397,0.0,0.0,0.0,False,0.0009112791158258,0.0003434135869611,0.0018390871118754
+"i quite enjoyed it, but i did think part of the time what am i doing here? why am i watching this rubbish? no, it wasn't but it was alright",0.45120096,0.997422456741333,0.0,0.0,False,0.0413434617221355,0.7656261324882507,0.5063471794128418
+if you've got kids,0.07131593,0.0,0.0,0.0,False,0.0109968231990933,0.0009248339920304,0.0007052264409139
+"if you've got kids, go and see it",0.09602194,0.0,0.0,0.0,False,0.0028014758136123,0.0069623179733753,0.0012757623335346
+it's it's a nice update,0.015063282,0.0,0.0,0.0,False,0.0006582418573088,0.0005054206703789,0.0004062364459969
+"you do wonder how many spider-man films they can make, but it's a nice update of the spider-man franchise",0.07251463,0.0,0.0,0.0,False,0.0006496037822216,0.0013639357639476,0.0025409767404198
+and who can blame them anyway? that's not what i'm here to talk about,0.09763293,0.9996563196182251,0.0,0.156,False,0.001799433492124,0.0011091998312622,0.00170797877945
+one of you to talk about is the favorite,0.050242316,0.0,0.0,0.0,False,0.0006853385129943,0.0004143267578911,0.0014580971328541
+"now what is the favorite? we may have heard something about it because olivia colman won the best actress award at the golden globes couple of nights ago for her performance as queen and queen anne, you say who is queen anne? well, queen anne was a queen of england",0.016243355,0.0,0.0,0.0,False,0.000741520721931,0.0009158816537819,0.0009449003846384
+"yes, funny enough in the early 1700s now i don't know very much about queen n",0.06252546,0.0,0.0,0.0,False,0.0006444421596825,0.0014601910952478,0.00057164527243
+"when i was all about 16 or something, i learnt a mnemonic which is blong, 4, 6, 8, 9, which stands for the battles of blenheim families, luton, odd and mal placa in 1704, 1706, 1708, and 1709, and that was doing a war against the french during the reign of queen anne, but i don't know much about her apart from that",0.1019289,0.8396323323249817,0.0,0.09,False,0.0006588380783796,0.0009366446756757,0.0005921608535572
+"now what happens in this film? well, this film is about queen anne, a not a mad monarch but certainly a monarch with her issues, i suppose is what we could",0.20742953,0.985554575920105,0.0,0.0,False,0.0006433188682422,0.0028285486623644,0.0393015332520008
+"so we'd say to it in this in this modern day, and she has a lesbian relationship with a couple of people, one of whom is lady moba, who is the wife of john churchill, ancestor of winston churchill, the first duke of alba, who was gifted blenheim by a grateful nation after his victories against the french, now in this film, lady marber is portrayed as not just the power behind the throne, but in almost you could say, the power inside the throne, as she spends a certain amount of time nuzzling",0.2712817,0.0,0.0,0.0,True,0.0048128557391464,0.0204425901174545,0.0074285096488893
+nuzzling,0.16482529,0.0,0.0,0.0,False,0.1594196110963821,0.0462099723517894,0.0935399234294891
+"is that a good word? nuzzling up to queen anne until she is supplanted in anne's affections by emma stone, who plays a lady who has fallen from grace to become a servant girl for some other complicated reason, and then, as a consequence of her becoming the favorite of the queen queen anne, and develops a bigger place at court, and in an intense rivalry with lady mor burr, who is played by rachel weisz and must-own plays abigail",0.09602194,0.0,0.0,0.027,False,0.0009966623038053,0.0027173401322215,0.003642025636509
+that's the name of the other lady,0.042001735,0.0,0.125,0.0,False,0.0016826774226501,0.002484434749931,0.0027329062577337
+"now, couple of things about this film that are wonderful",0.04783881,0.0,0.0,0.0,False,0.000576366961468,0.0003412903170101,0.0013171741738915
+the first thing is it's a film about women and the three lead characters are women,0.08581903,0.840905487537384,0.0,0.0,False,0.0165936835110187,0.0076934769749641,0.009368241764605
+"there are men characters who sort of dance around them, but they're not lead characters",0.07131593,0.9850075244903564,0.0,0.0,False,0.0007816110737621,0.0023433887399733,0.00347068044357
+"these are three strong, interesting, powerful women",0.048868883,0.0,0.0,0.0,False,0.0007903422228991,0.0055591226555407,0.0022029180545359
+"and if that isn't a statement about hollywood in these modern days, i don't know what is, and let's have more of it, guys",0.07091636,0.0,0.0,0.0,False,0.0007028197869658,0.0012070415541529,0.0011857801582664
+the other thing is it's very funny,0.073313765,0.0,0.0,0.0,False,0.0007007669191807,0.0003320792748127,0.0028614795301109
+it's very rude,0.21892473,0.9986696243286133,0.39,0.622,False,0.0161068942397832,0.032702412456274,0.0345186926424503
+the certificate is a 15,0.020963646,0.0,0.0,0.0,False,0.000980150187388,0.0004280713328626,0.0004182977427262
+"and when you see the certificate and at the front of the film it's there's strong sex scenes, so oh dear, but there weren't any strong sex scenes",0.41665444,0.9949802756309509,0.0,0.109,False,0.0031449834350496,0.2670111656188965,0.538695216178894
+"there's a little strong sexual language and there is a lot of sexual innuendo and it is very well handled, but there isn't a lot of sex scene so you can take your 15 year old",0.40636617,0.0,0.0,0.0,False,0.5029695630073547,0.5515258312225342,0.7830240726470947
+i think it's 15,0.030327583,0.0,0.0,0.0,False,0.0010131689487025,0.0004225678858347,0.0005362820229493
+you can tell your children this certain amount of what's the word lack of fear,0.060927194,0.9796891808509827,0.0,0.277,False,0.0121718337759375,0.0009193106088787,0.0007681275019422
+"they'd probably rather go and see spider-man in the spider verse, but this is a fabulous film",0.044405237,0.0,0.0,0.0,False,0.0007247145404107,0.0011350844288244,0.0012420333223417
+now,0.018742332,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+it reminded me very strongly of three other films,0.048525527,0.0,0.0,0.0,False,0.0006956075667403,0.0004308834904804,0.0005266125663183
+"the first, and perhaps most obviously is the madness of king george, where nigel havers played george the third in his descent into madness, and it's film",0.13206954,0.0,0.0,0.18,False,0.0007793913246132,0.2074175477027893,0.0047879456542432
+it's it's set in a similar period,0.01596569,0.5097821950912476,0.0,0.0,False,0.0007003726204857,0.0003293802728876,0.0008088293252512
+"not quite the same period, but very similar period",0.022351967,0.9896149635314941,0.0,0.0,False,0.000626184628345,0.000318324426189,0.0004135649651288
+"the second film it reminded me of is barry lyndon, stanley kubrick's film starring ryan o'neal of all people, and the reason for that is that kubrick's film was shot entirely with natural light",0.08635602,0.0,0.0,0.0,False,0.0006884112372063,0.000596216879785,0.0006222949014045
+"lots of scenes lit purely by candles, and large parts of this film are lit either by candles or just by fly, alight and it is beautifully lit, beautifully filmed",0.043718524,0.0,0.0,0.0,False,0.0006534227868542,0.000373851013137,0.0005003646947443
+"the interiors are sumptuous, the costumes are fabulous",0.1008549,0.0,0.0,0.0,False,0.0009769975440576,0.0008226728532463,0.0015745088458061
+it is an absolutely wonderful piece of filmmaking,0.040284947,0.0,0.0,0.0,False,0.0005765562527813,0.0003499209706205,0.0005331084248609
+"in that sense, the third film it reminded me of is peter greenaway the draftsmen contract, which is about probably 30, 35 years old now, and and it reminded me of that because of its episodic nature now, though it's divided up into a series of chapters, eight chapters",0.024147147,0.0,0.0,0.0,False,0.0006254238542169,0.0003797679382842,0.0003214729949831
+"i think in each chapter has a little title, and then the scene follows on from that",0.024490505,0.5306984782218933,0.1875,0.0,False,0.0005761335487477,0.0003517451114021,0.0002310050476808
+the music is also very similar to the music that philip glass,0.034791227,0.0,0.0,0.0,False,0.0007291894871741,0.0005112722865305,0.0009971627732738
+that was it philip glass that peter greenaway? was it phillippe loss? i think so,0.046465382,0.992132842540741,0.0,0.16,False,0.0008016961510293,0.0012707653222605,0.0008551979553885
+i thought peter greenaway used,0.015549194,0.9917163252830505,0.0,0.0,False,0.0007066409452818,0.0007247694884426,0.0004082141094841
+"or was it michael nyman actually, i think it was not from michael nyman sorry, i'm getting a bit confused here",0.044405237,0.9994781613349915,0.3,0.159,False,0.0006986959488131,0.0014549721963703,0.0004411847621668
+"anyway, the music is very similar to the music in the draftsmen contract",0.05852979,0.6715354919433594,0.0,0.0,False,0.0006621648790314,0.00038885360118,0.0011785704409703
+"i did find at certain places in this film that the music was rather intrusive, a bit too loud, and a little bit annoying",0.19716066,0.9997432827949524,0.1683035714285714,0.091,False,0.001057460787706,0.0013857906451448,0.0011139038251712
+so just a minor criticism,0.040284947,0.9976509213447571,0.05,0.42,False,0.0009360241238027,0.0005232151015661,0.0005784431123174
+there,0.020408317,0.5629404187202454,0.0,0.0,False,0.0009486791677772,0.0004445708182174,0.0009494753321632
+"the other minor criticism i would have is that one point one of the characters says, from now on it's okay now, i, not sufficient of a student of the english language to know for certain whether the word okay was in common parlance in 1708 at the court of queen anne, but somehow i doubt i doubt it anyway",0.04165838,0.9984126091003418,0.0,0.126,False,0.000625399465207,0.0005511849885806,0.0006075612036511
+"back to the film, it is a wonderful film",0.040284947,0.0,0.0,0.0,False,0.0007018528995104,0.000356368283974,0.0008735723677091
+it is beautifully acted,0.046465382,0.0,0.0,0.0,False,0.0006339598912745,0.0004819213645532,0.0009637608309276
+olivia colman is brilliant,0.026035614,0.0,0.0,0.0,False,0.0008676986326463,0.0004384570638649,0.005686939228326
+emma stone is excellent,0.01999182,0.0,0.0,0.0,False,0.0006698226789012,0.0007488714181818,0.0012853855732828
+rachel weisz is excellent,0.019575324,0.0,0.0,0.0,False,0.0006988151581026,0.0005311958957463,0.0009278569486923
+the minor characters are all excellent,0.049212243,0.0,0.0,0.0,False,0.0006054671830497,0.0003532670962158,0.0007936020265333
+it is superb,0.031185975,0.0,0.0,0.0,False,0.000673146219924,0.0004202856507617,0.0007108688587322
+super hard to think of enough good things to say about this film,0.09655894,0.0,0.0,0.077,False,0.0006268910947255,0.00041300378507,0.0005393171450123
+one does kind of wonder,0.031529333,0.0,0.0,0.0,False,0.0011135839158669,0.0003612058935686,0.0006634813034906
+"not well, not wonder",0.05253629,0.9998867511749268,0.0,0.377,False,0.0012270427541807,0.0003721183165907,0.0014221064047887
+"when kind of longs for a time when our monarchs were mad, can't really say mad, can you? but you want a monarch that is absolutely and utterly corrupted and destroyed by power, and our monarchs are kind of, you know, they're becoming close to normal people",0.2995453,0.0,0.0,0.12,False,0.0058204368688166,0.0174367986619472,0.1478223651647567
+"i don't think we want that, and i don't think i want prince harry as a normal person",0.23628397,0.9999512434005737,0.0,0.133,False,0.0012862471630796,0.023207364603877,0.0040761032141745
+"i want him as a mad, crazed pal, obsessed lunatic monarch",0.7007861,0.5272068977355957,0.5625,0.568,False,0.7258790731430054,0.9777299165725708,0.9793861508369446
+"i, if i'm gonna be ruled by a royal family, and i did test the idea of being ruled by law finally, but if i'm going to be ruled by the wall family, and it looks like i am until death us do part",0.13251819,0.0,0.0,0.106,False,0.0210759509354829,0.1375260204076767,0.0193557664752006
+i want it to be moved,0.038053125,0.0,0.0,0.0,False,0.0007224224973469,0.0350946262478828,0.0074777528643608
+i want,0.034791227,0.0,0.0,0.0,False,0.03006430901587,0.0024938294664025,0.0007881472120061
+i want my royalty to be off the wall,0.14463188,0.0,0.0,0.0,False,0.2587743997573852,0.0615130178630352,0.0506081916391849
+that's queen anne,0.026894007,0.0,0.0,0.0,False,0.0027689910493791,0.1228512376546859,0.1657631695270538
+"i mean, she's not mad, can't say mad, but she is",0.30788645,0.0,0.2083333333333333,0.0,False,0.019850380718708,0.1774723082780838,0.2962895035743713
+she has issues,0.18746567,0.986066997051239,0.0,0.0,False,0.0015707152197137,0.0733391344547271,0.0093489978462457
+"she has issues, and the issues are not really resolved",0.123736724,0.9997643828392029,0.1,0.162,False,0.0007128724828362,0.0058496333658695,0.0029006728436797
+so the film is funny,0.058929358,0.0,0.0,0.0,False,0.0008365676621906,0.0004256966640241,0.0006421289872378
+"it is sad, it is tragic",0.054534122,0.9315587282180786,0.625,0.604,False,0.0014308391837403,0.0004374648851808,0.0032860222272574
+it is enlightening,0.028782474,0.0,0.0,0.0,False,0.0006119217723608,0.000370564404875,0.0008824541582725
+i have no idea how close to the truth it is and i don't really care,0.090114996,0.999994158744812,0.0,0.248,False,0.0226107463240623,0.0050606322474777,0.0016208521556109
+it is an master class in filmmaking and filmmaking for adults,0.084745035,0.0,0.0,0.0,False,0.0009018874843604,0.0004747970378957,0.0006258693174459
+it's not a children's film,0.054534122,0.9996355772018433,0.0,0.0,False,0.0017274644924327,0.00067776045762,0.0016232143389061
+it's not a film for young people,0.076110736,0.999687671661377,0.0,0.0,False,0.0014661707682535,0.0006024517351761,0.0028043999336659
+it's a film for thinking that sounds a bit snobbish,0.21539254,0.9830243587493896,0.0,0.174,False,0.0012189849512651,0.0023142001591622,0.0650150179862976
+it's a film for thinking adults,0.08796701,0.0,0.0,0.0,False,0.0025001028552651,0.0008805218967609,0.0032329009845852
+"i saw it as i always do at the dunnage picture house with my darling wife, jane, and we loved it",0.02809576,0.0,0.0,0.0,False,0.0006468758801929,0.0060623474419116,0.00255654938519
+"we saw it on monday monday's cheap seats day, which means the cinema is full of people who have plenty of money, but like a bargain, and there are a few things that annoy me more than somebody who has money and likes a bargain",0.19634613,0.9999245405197144,0.0,0.07,False,0.0007299316930584,0.000579520012252,0.0022144375834614
+and we were there on a monday because we like a bargain,0.105704986,0.0,0.0,0.0,False,0.0006691460730507,0.0004105206753592,0.005982135888189
+"but if you want to see a great film and possibly the best film of 2019, already close second spider-man in the spider-verse that only being the two films that i've seen so fine, 2019, go and see it",0.057331093,0.0,0.0,0.0,False,0.0005995704559609,0.0006014285027049,0.0007199644460342
+see you next time,0.048525527,0.0,0.0,0.0,False,0.0015481477603316,0.0006439813878387,0.0008449252927675

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-why the long face coach k,0.03736641,0.0,0.0,0.0,0.0124681806191802,0.00308074709028,0.0227013379335403,False
+why the long face coach k,0.03736641,0.8887450098991394,0.05,0.0,0.0124681806191802,0.00308074709028,0.0227013379335403,False

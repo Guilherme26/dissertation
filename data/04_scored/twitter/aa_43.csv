@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-stop acting perfect like you aint no on the low ratttt,0.42390585,0.0,0.0,0.234,0.7882561683654785,0.0431649684906005,0.1544679254293441,False
+stop acting perfect like you aint no on the low ratttt,0.42390585,0.9879913926124573,0.0,0.234,0.7882561683654785,0.0431649684906005,0.1544679254293441,False

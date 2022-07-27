@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-ritz is good & all but too many without anything to drink will kill you .,0.38965073,0.0,0.0,0.291,0.9114715456962584,0.5430722236633301,0.6374431848526001,False
+ritz is good & all but too many without anything to drink will kill you .,0.38965073,0.5850174427032471,0.0,0.291,0.9114715456962584,0.5430722236633301,0.6374431848526001,False

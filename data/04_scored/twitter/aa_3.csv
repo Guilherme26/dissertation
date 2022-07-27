@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user yep look to yo left when you pass by blanton kml,0.060927194,0.0,0.0,0.0,0.0096858646720647,0.005745347123593,0.0009500096784904,False
+@user yep look to yo left when you pass by blanton kml,0.060927194,0.9114384651184082,0.0,0.0,0.0096858646720647,0.005745347123593,0.0009500096784904,False

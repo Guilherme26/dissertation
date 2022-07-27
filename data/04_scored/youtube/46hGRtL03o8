@@ -1,40 +1,40 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-you're not gonna appreciate it,0.11085691,0.9997634088016932,0.4117647058823529,0.361,False,0.0023194707464426756,0.005129378288984299,0.0008504841825924814
-you're gonna think very low of me and that's okay,0.15743166,0.9896838428657708,0.2647058823529412,0.195,False,0.008219199255108833,0.02154870703816414,0.018872074782848358
-i'm gonna confess it,0.028439116,0.907911153060497,0.4117647058823529,0.0,False,0.0008029156015254557,0.0008396647172048688,0.0011712238192558289
-anyway,0.017284594,0.8340865326495853,0.4117647058823529,0.0,False,0.0013368750223889947,0.0004841468471568078,0.0005255279829725623
-i have tried watching this movie,0.029812546,0.239922103137787,0.4117647058823529,0.0,False,0.0007257547113113105,0.0004675000091083348,0.0004225360753480345
-"probably, i gave it a try like four or five times throughout my life, and each time i turned it off within about maybe about a half an hour",0.03444787,0.9999859320930208,0.5098039215686275,0.0,False,0.0006684943218715489,0.0006377206882461905,0.0005256590084172785
-i just turned it off,0.06532243,0.9998573836125098,0.4117647058823529,0.0,False,0.0024956294801086187,0.0017831415170803666,0.0009879881981760263
-"i got kind of just bored, very bored",0.16035037,0.9999924891683076,0.5196078431372549,0.428,False,0.001381587702780962,0.00452180951833725,0.01310933381319046
-"now before you judge me, and before you decide not to subscribe, i was gonna say unsubscribe, but at this point i don't have any subscribers, so bear with me, hear me out",0.22687212,0.2132925685923724,0.4117647058823529,0.0,False,0.019731100648641586,0.005785353481769562,0.0030976657290011644
-"i started checking out other mob movies that have gone down as great movies, but i've seen quite a handful of mafia movies in the last couple of years, and i have really grown to appreciate that type of story and setting, so i popped in the godfather again and this time i sat through a slide through and it wasn't difficult",0.09118898,0.0009236832737116,0.3902505446623093,0.0,False,0.0005368371494114399,0.0008472605259157717,0.00035630306228995323
-i really enjoyed it because i had more of an understanding of how the mafia worked and i really loved the suspense in this movie because you're constantly wondering who's gonna be next,0.06372416,0.0001341517993926,0.2117647058823529,0.0,False,0.0005733384168706834,0.0005072092753835022,0.0005524736479856074
-who's gonna be next? i'm sure you've seen it already,0.06771983,6.089138550523934e-05,0.2647058823529412,0.0,False,0.0009473604150116444,0.0005483587738126516,0.0006495245615951717
-i don't need to say,0.027065687,0.8867297135416481,0.4117647058823529,0.0,False,0.0009250278817489743,0.002263572532683611,0.00047411638661287725
-there might be some spoilers in this review,0.105704986,0.9879495858670468,0.4117647058823529,0.0,False,0.0008538247202523053,0.00034093603608198464,0.00022450006508734077
-i'm not even gonna really talk about the godfather that much,0.1250247,0.99994581471422,0.2941176470588235,0.0,False,0.0006571101839654148,0.003147474955767393,0.002444514539092779
-i need to see it a few more times to be able to give a real review and dissect it,0.08796701,0.0007517090718686,0.2647058823529412,0.0,False,0.0006046128692105412,0.000512179802171886,0.0004812052648048848
-because there was a lot to dissect in this movie,0.11343288,0.9950125693172271,0.4117647058823529,0.0,False,0.000669262430164963,0.00037593371234834194,0.0007481038919650018
-"it is a very heavy movie with a lot of themes and in fact, i am gonna pick up the book by mario puzo and i think once i dive into that book and then watch this movie again, i want to come back and do a more analytical review on this movie",0.04783881,0.1649675496305028,0.3647058823529411,0.0,False,0.0005680228350684047,0.00045537491678260267,0.0004735156544484198
-"the performances were top-notch it's funny, cuz, i couldn't recognize a single actor in this movie",0.0813051,0.0029918742338653,0.180672268907563,0.0,False,0.000646844448056072,0.004201890900731087,0.0006870011566206813
-"james caan was in it, diane keaton i couldn't tell you that was her for the world, marlon brando",0.040971663,0.0002421647123005,0.4117647058823529,0.0,False,0.0011662079486995935,0.0013626704458147287,0.001982244197279215
-"obviously, i would only recognize him from superman and guys and dolls, and he does not look like the marlon brando from superman and guys and dolls, al pacino plays michael the son, and i would never be able to say that was him",0.09816993,0.9999926083878584,0.3137254901960784,0.046,False,0.0008748723194003105,0.004055073484778404,0.0015640135388821363
-"he wrinkle-free let me say away, but i have to say upon my first full viewing of the godfather without getting into it, really, which i will sometime in the future, this is a movie that if you've steered away from or you thought would just be kind of boring and you've avoided like i did for so long",0.17242117,0.9990842150215204,0.3823529411764705,0.099,False,0.00724044069647789,0.0029822445940226316,0.0116679472848773
-don't make that mistake,0.024833864,0.9947225975651076,0.4117647058823529,0.0,False,0.0014777015894651413,0.0005443553673103452,0.0005682565388269722
-give this movie a fair shot,0.13565879,0.9172398146565176,0.0,0.0,False,0.000903804088011384,0.020844193175435066,0.010933676734566689
-the hype is real in it and it's very fitting and it makes me really excited to go into godfather 2 because i've heard that one is even better at any rain,0.089577995,0.0001875025483178,0.1580882352941176,0.0,False,0.0005760808126069605,0.00040911854011937976,0.0007767240749672055
-at this point,0.016937515,0.1213511962370494,0.4117647058823529,0.0,False,0.0007076588808558881,0.00035733223194256425,0.000963397731538862
-"as of the first viewing of the godfather, this is a highly likeable movie that you are likely going to like",0.04268845,0.0,0.3313725490196078,0.0,False,0.0006037582643330097,0.000652401358820498,0.0005241454928182065
-"thank you for watching beam light reviews, where i talk about movies of every genre, age and style, and if you like this video, please click that thumbs up button down below",0.030327583,0.9097862977632266,0.3398692810457516,0.0,False,0.0005324776866473258,0.0005441844696179032,0.0003301653196103871
-punch that subscribe button and claim that taco bell button for alerts for next videos,0.23277332,0.9973023894220784,0.4117647058823529,0.0,False,0.07296319305896759,0.03842931240797043,0.04199167340993881
-i started to getting into other mob movies,0.06532243,0.977748863062755,0.4852941176470588,0.0,False,0.0013698915718123317,0.010177124291658401,0.0011841936502605677
-goodfellas,0.02397547,0.0003871356859165,0.4117647058823529,0.0,False,0.0017075934447348118,0.0005715888692066073,0.001428320654667914
-it's all i could think of,0.030155903,0.0787090155970169,0.4117647058823529,0.0,False,0.0009755916544236243,0.0006456372211687267,0.0017383950762450695
-"there's so many others, such as goodfellas, the departed road to perdition",0.07371333,0.0782873956560687,0.2647058823529412,0.0,False,0.0007814599666744471,0.0004668518668040633,0.00194226682651788
-"okay, though, not that, i just couldn't think of any others",0.028439116,0.993546556307513,0.1176470588235293,0.0,False,0.0006680297083221376,0.0006384136504493654,0.00042006775038316846
-"but and in fact, i am gonna pick up the book by mario routh",0.02262963,0.0369720093954543,0.4117647058823529,0.0,False,0.0006740568787790835,0.0007378971204161644,0.0005451244069263339
-"and in fact i am gonna, and in fact i am gonna pick up the book by mario luigi, who's them? and it's funny, but it's funny because i did not recognize",0.035649624,0.9994686682675468,0.2647058823529412,0.0,False,0.0008568696212023497,0.0007692837971262634,0.0006114941206760705
-it's funny because the only marlon brando all i would recognize him,0.11665283,0.0345967684825473,0.338235294117647,0.0,False,0.0012055098777636886,0.0020535942167043686,0.003476470708847046
-"from what all i would write, all i would recognize marlon brando",0.022074303,0.8513392409005082,0.4117647058823529,0.0,False,0.0006789241451770067,0.0007269462803378701,0.004792871419340372
-marlon brando is in the marlon brando obviously,0.05133759,0.0123847653628101,0.4117647058823529,0.0,False,0.0024883258156478405,0.0010077966144308448,0.005843369755893946
+you're not gonna appreciate it,0.11085691,0.999526858329773,0.0,0.361,False,0.0023194707464426,0.0051293782889842,0.0008504841825924
+you're gonna think very low of me and that's okay,0.15743166,0.9793694615364075,0.0,0.195,False,0.0082191992551088,0.0215487070381641,0.0188720747828483
+i'm gonna confess it,0.028439116,0.8158381581306458,0.0,0.0,False,0.0008029156015254,0.0008396647172048,0.0011712238192558
+anyway,0.017284594,0.6682016253471375,0.0,0.0,False,0.0013368750223889,0.0004841468471568,0.0005255279829725
+i have tried watching this movie,0.029812546,0.0,0.0,0.0,False,0.0007257547113113,0.0004675000091083,0.000422536075348
+"probably, i gave it a try like four or five times throughout my life, and each time i turned it off within about maybe about a half an hour",0.03444787,0.999971866607666,0.1666666666666666,0.0,False,0.0006684943218715,0.0006377206882461,0.0005256590084172
+i just turned it off,0.06532243,0.9997147917747498,0.0,0.0,False,0.0024956294801086,0.0017831415170803,0.000987988198176
+"i got kind of just bored, very bored",0.16035037,0.9999849796295166,0.1833333333333333,0.428,False,0.0013815877027809,0.0045218095183372,0.0131093338131904
+"now before you judge me, and before you decide not to subscribe, i was gonna say unsubscribe, but at this point i don't have any subscribers, so bear with me, hear me out",0.22687212,0.0,0.0,0.0,False,0.0197311006486415,0.0057853534817695,0.0030976657290011
+"i started checking out other mob movies that have gone down as great movies, but i've seen quite a handful of mafia movies in the last couple of years, and i have really grown to appreciate that type of story and setting, so i popped in the godfather again and this time i sat through a slide through and it wasn't difficult",0.09118898,0.0,0.0,0.0,False,0.0005368371494114,0.0008472605259157,0.0003563030622899
+i really enjoyed it because i had more of an understanding of how the mafia worked and i really loved the suspense in this movie because you're constantly wondering who's gonna be next,0.06372416,0.0,0.0,0.0,False,0.0005733384168706,0.0005072092753835,0.0005524736479856
+who's gonna be next? i'm sure you've seen it already,0.06771983,0.0,0.0,0.0,False,0.0009473604150116,0.0005483587738126,0.0006495245615951
+i don't need to say,0.027065687,0.7734789252281189,0.0,0.0,False,0.0009250278817489,0.0022635725326836,0.0004741163866128
+there might be some spoilers in this review,0.105704986,0.9759012460708618,0.0,0.0,False,0.0008538247202523,0.0003409360360819,0.0002245000650873
+i'm not even gonna really talk about the godfather that much,0.1250247,0.9998916387557983,0.0,0.0,False,0.0006571101839654,0.0031474749557673,0.0024445145390927
+i need to see it a few more times to be able to give a real review and dissect it,0.08796701,0.0,0.0,0.0,False,0.0006046128692105,0.0005121798021718,0.0004812052648048
+because there was a lot to dissect in this movie,0.11343288,0.9900259971618652,0.0,0.0,False,0.0006692624301649,0.0003759337123483,0.000748103891965
+"it is a very heavy movie with a lot of themes and in fact, i am gonna pick up the book by mario puzo and i think once i dive into that book and then watch this movie again, i want to come back and do a more analytical review on this movie",0.04783881,0.0,0.0,0.0,False,0.0005680228350684,0.0004553749167826,0.0004735156544484
+"the performances were top-notch it's funny, cuz, i couldn't recognize a single actor in this movie",0.0813051,0.0,0.0,0.0,False,0.000646844448056,0.004201890900731,0.0006870011566206
+"james caan was in it, diane keaton i couldn't tell you that was her for the world, marlon brando",0.040971663,0.0,0.0,0.0,False,0.0011662079486995,0.0013626704458147,0.0019822441972792
+"obviously, i would only recognize him from superman and guys and dolls, and he does not look like the marlon brando from superman and guys and dolls, al pacino plays michael the son, and i would never be able to say that was him",0.09816993,0.9999852180480957,0.0,0.046,False,0.0008748723194003,0.0040550734847784,0.0015640135388821
+"he wrinkle-free let me say away, but i have to say upon my first full viewing of the godfather without getting into it, really, which i will sometime in the future, this is a movie that if you've steered away from or you thought would just be kind of boring and you've avoided like i did for so long",0.17242117,0.9981685876846313,0.0,0.099,False,0.0072404406964778,0.0029822445940226,0.0116679472848773
+don't make that mistake,0.024833864,0.9894461035728455,0.0,0.0,False,0.0014777015894651,0.0005443553673103,0.0005682565388269
+give this movie a fair shot,0.13565879,0.83449387550354,0.0,0.0,False,0.0009038040880113,0.020844193175435,0.0109336767345666
+the hype is real in it and it's very fitting and it makes me really excited to go into godfather 2 because i've heard that one is even better at any rain,0.089577995,0.0,0.0,0.0,False,0.0005760808126069,0.0004091185401193,0.0007767240749672
+at this point,0.016937515,0.0,0.0,0.0,False,0.0007076588808558,0.0003573322319425,0.0009633977315388
+"as of the first viewing of the godfather, this is a highly likeable movie that you are likely going to like",0.04268845,0.0,0.0,0.0,False,0.000603758264333,0.0006524013588204,0.0005241454928182
+"thank you for watching beam light reviews, where i talk about movies of every genre, age and style, and if you like this video, please click that thumbs up button down below",0.030327583,0.8195881247520447,0.0,0.0,False,0.0005324776866473,0.0005441844696179,0.0003301653196103
+punch that subscribe button and claim that taco bell button for alerts for next videos,0.23277332,0.9946052432060242,0.0,0.0,False,0.0729631930589675,0.0384293124079704,0.0419916734099388
+i started to getting into other mob movies,0.06532243,0.9555015563964844,0.125,0.0,False,0.0013698915718123,0.0101771242916584,0.0011841936502605
+goodfellas,0.02397547,0.0,0.0,0.0,False,0.0017075934447348,0.0005715888692066,0.0014283206546679
+it's all i could think of,0.030155903,0.0,0.0,0.0,False,0.0009755916544236,0.0006456372211687,0.001738395076245
+"there's so many others, such as goodfellas, the departed road to perdition",0.07371333,0.0,0.0,0.0,False,0.0007814599666744,0.000466851866804,0.0019422668265178
+"okay, though, not that, i just couldn't think of any others",0.028439116,0.9870942234992981,0.0,0.0,False,0.0006680297083221,0.0006384136504493,0.0004200677503831
+"but and in fact, i am gonna pick up the book by mario routh",0.02262963,0.0,0.0,0.0,False,0.000674056878779,0.0007378971204161,0.0005451244069263
+"and in fact i am gonna, and in fact i am gonna pick up the book by mario luigi, who's them? and it's funny, but it's funny because i did not recognize",0.035649624,0.9989374279975891,0.0,0.0,False,0.0008568696212023,0.0007692837971262,0.000611494120676
+it's funny because the only marlon brando all i would recognize him,0.11665283,0.0,0.0,0.0,False,0.0012055098777636,0.0020535942167043,0.003476470708847
+"from what all i would write, all i would recognize marlon brando",0.022074303,0.7027040719985962,0.0,0.0,False,0.000678924145177,0.0007269462803378,0.0047928714193403
+marlon brando is in the marlon brando obviously,0.05133759,0.0,0.0,0.0,False,0.0024883258156478,0.0010077966144308,0.0058433697558939

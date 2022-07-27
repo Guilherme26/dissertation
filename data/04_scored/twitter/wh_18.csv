@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"sometimes bad things happen , and there is nothing you can do about it",0.076110736,0.0,0.0,0.212,0.0033876285888254,0.0014533326029777,0.0005530492635443,False
+"sometimes bad things happen , and there is nothing you can do about it",0.076110736,0.9992096424102783,0.6999999999999998,0.212,0.0033876285888254,0.0014533326029777,0.0005530492635443,False

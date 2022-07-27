@@ -1,61 +1,61 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-screw anatomy,0.19338597,0.9992894310906713,0.5,0.583,False,0.384604275226593,0.532565712928772,0.05019731819629669
-i think i prefer that this is what actually goes on inside,0.028782474,0.0241482859141888,0.5,0.0,False,0.0010490772547200322,0.0006511096726171672,0.0021843435242772102
-everyone's heads inside out,0.16151784,0.9814754667456016,0.5,0.0,False,0.04454214125871658,0.04675633832812309,0.015006676316261292
-so inside out is the newest movie from pixar animation studios,0.03599298,0.0032692964968434,0.5,0.0,False,0.0011017275974154472,0.0004217183741275221,0.0005031844484619796
-"everyone loves them, or at least we used to love them before cars, too",0.08170467,0.0004907997986254,0.45,0.0,False,0.000902415718883276,0.0005813877796754241,0.0008079354302026331
-"let's face it, pixar has kind of fallen from grace ever since cars 2 and brave",0.09978092,0.9984021885593936,0.15,0.127,False,0.0049078501760959625,0.0008190430817194283,0.006525655277073383
-i really liked monsters university,0.085282035,0.0212876812826934,0.2,0.0,False,0.0032870671711862087,0.03179803118109703,0.09130387753248215
-"i thought it was right up there with all the other great pixar films, so i thought all right, if pixar can get another one right, then they can remain immortal and we can forget all about cars 2 and brave",0.060927194,0.0300687894602382,0.3056547619047619,0.039,False,0.0008872809703461826,0.0005119830602779984,0.00040966219967231154
-"so this movie revolves around this 11 year old girl, riley, or rather, more specifically all the personified emotions inside her head",0.12695669,0.0007984288684221,0.35,0.0,False,0.004968926776200533,0.012285536155104637,0.013550671748816967
-riley's family is moving from minnesota where she grew up to san francisco to start a new life,0.016104523,0.0022802460889502,0.4318181818181818,0.0,False,0.0010049217380583286,0.0005116544780321419,0.0006719969096593559
-"so this is really the story of how she deals with it, and how all these emotions deal with it",0.059328925,0.0018543875558825,0.4,0.0,False,0.0006792406202293932,0.00037217032513581216,0.000561544846277684
-"there's joy, sadness, disgust, fear and anger, and i will say this about them",0.22985287,0.0041131455069406,0.475,0.517,False,0.007361977361142635,0.002711611334234476,0.002339353319257498
-all these characters were portrayed wonderfully,0.027409043,0.0021032446313332,0.0,0.0,False,0.0005751136341132224,0.00035013016895391047,0.001266472740098834
-i love these emotion characters,0.030670939,0.0020004532477129,0.25,0.0,False,0.0006185400998219848,0.0003666187112685293,0.0002911742776632309
-"if fix our excels at one thing, it's making relatable characters",0.02397547,0.0235778220481765,0.5,0.0,False,0.0006766642327420413,0.0004606125003192574,0.0005929591716267169
-"i mean, given that these characters are emotions, it's really a no-brainer that they're all relatable",0.2286382,0.0001106594396585,0.528125,0.0,False,0.0034100681077688932,0.00048375315964221954,0.002806949196383357
-"you have joy, voiced by amy poehler, who's always hilarious",0.12116077,5.781829058376088e-06,0.175,0.0,False,0.0038571753539144993,0.0006342908018268645,0.016322126612067223
-it's funny,0.043031808,0.0003813324886697,0.375,0.0,False,0.0007317456183955073,0.00035745283821597695,0.000617198005784303
-"the guys at pixar must be huge fans of saturday night live in the office, got amy poehler, and fear is voiced by bill hader and sadness and discuss their voice by phyllis smith and mindy kaling respectively, plus anger is voiced by the always hilarious lewis black",0.15276173,0.0,0.4858585858585859,0.166,False,0.002309277653694153,0.0686451643705368,0.058538682758808136
-all the voice acting in this movie was perfect,0.043718524,0.0003934028019101,0.25,0.0,False,0.0007083980599418283,0.0004449281841516495,0.0009826289024204016
-these were excellent casting decisions,0.09602194,0.000419748868341,0.0,0.0,False,0.0006363540305756032,0.00040689297020435333,0.0005601736484095454
-i bought them all,0.04165838,0.0037830447922469,0.5,0.0,False,0.001640232978388667,0.001945439144037664,0.0010002570925280452
-i empathize with them,0.050585672,0.0003369256572419,0.5,0.0,False,0.001760977553203702,0.0003658410278148949,0.0005495732184499502
-i laugh with them,0.062925026,0.0003776368865911,0.35,0.0,False,0.007343525532633066,0.0009460187284275889,0.004867348354309797
-"i gotta say, though the funniest out of all of them was definitely fear",0.15071863,0.9291294687428956,0.5,0.156,False,0.0012421865249052644,0.0009692859603092074,0.0019532169681042433
-just the way he moved and reacted to everything made me laugh out loud,0.104076885,0.0001608779033871,0.4,0.0,False,0.004094185773283243,0.0007791778189130127,0.0033665422815829515
-"so props to bill hader, the movie has a really good story, but with the story comes the movies biggest flaw",0.14687516,0.9995903544308898,0.15,0.0,False,0.0028557218611240387,0.0008525459561496973,0.0007276463438756764
-"also, you see as the story's going along and you're seeing more of this world that pixar has created",0.025520578,0.0003045295325695,0.25,0.0,False,0.0010563033865764737,0.0010758209973573685,0.0009721470414660871
-at a point it feels like that becomes the point that pic stars trying to get across like it felt like pixar,0.036851373,0.9991591313141596,0.5,0.0,False,0.0011224161135032773,0.0008386328117921948,0.0036157811991870403
-"what's going? hey, look what we can do",0.055732824,0.8634573084643951,0.5,0.0,False,0.0006872385274618864,0.0005415288032963872,0.007041045930236578
-we can make all sorts of cool stuff that shouldn't really be the point of a movie,0.054534122,0.9974199630940488,0.3625,0.0,False,0.0007001894409768283,0.0004243470903020352,0.0005170683725737035
-"the point of a movie should be to tell a good story, but the movie did have a really good story, so i'd say it feels like half and half at the time it felt like they were showing this big world just for the sake of doing it, and the other half of the time it felt like it was more focused on the story",0.023288755,0.999990939814259,0.4203125,0.0,False,0.0005980576970614493,0.00032878259662538767,0.00033961099688895047
-"and don't get me wrong, i like seeing this big world that pixar has brought to us",0.04131502,0.0002958567889819,0.625,0.0,False,0.0028246468864381313,0.001485715969465673,0.010144508443772793
-they've never failed at that,0.03444787,0.0006212485913497,0.375,0.0,False,0.0009918927680701017,0.0005892571061849594,0.0005621928721666336
-they've never disappointed us with our animation ever,0.12888865,0.0005758284496746,0.3125,0.0,False,0.0009574895375408232,0.0005587504128925502,0.000565996509976685
-and it's also really cool to see how these emotions interact with riley's consciousness,0.0186035,0.000118229463271,0.325,0.0,False,0.0005633431137539446,0.00040866227936930954,0.0009602202335372567
-i wouldn't say they really control her thoughts,0.060927194,0.9654541376378116,0.4,0.0,False,0.0010586940916255116,0.0014953783247619867,0.0004657310782931745
-it's more like they help her out,0.06132676,0.0027166549698873,0.25,0.0,False,0.0007650673505850136,0.001588821760378778,0.0036727339029312134
-i love how that was illustrated and it sure as hell take it over whatever science our anatomy tells us,0.2459383,0.0001676432394503,0.25,0.164,True,0.034856151789426804,0.0056446269154548645,0.0035683840978890657
-"this is what i believe now as good as a story of this movie is, it is also a tat predictable, which was very shocking to me because i don't remember pixar movies being predictable at all, but when i think back to all the great pixar movies we've gotten, they do follow a pretty basic formula",0.04406188,0.9839402247092962,0.478125,0.03,False,0.0006136113661341369,0.0006284484989009798,0.00043649578583426774
-there's always that one point,0.019852988,0.9108105480589804,0.5,0.0,False,0.0006259710062295198,0.00033916966640390456,0.0004345271154306829
-"i think back to the first toy story where woody and buzz are on the street and they're trying to catch up to the moving van, and woody gets out the match to light the rocket, and the car drives by and blows out the match",0.043718524,0.0623205472256817,0.3916666666666666,0.0,False,0.0010205255821347237,0.0027950010262429714,0.0007091877050697803
-hope just doesn't seem lost,0.043031808,0.003860890861837,0.5,0.0,False,0.0008317457395605743,0.0005206174682825804,0.00041592094930820167
-hope is lost,0.10763696,0.9884813745827696,0.5,0.371,False,0.0025708202738314867,0.15149764716625214,0.0006975875585339963
-"there is just absolutely no hope for these characters that we have grown to love over the course of an hour and a half they've lost, and then by some glimmer of hope they actually managed to pull through the situation and it's a happy ending",0.07690986,0.0072343794947015,0.3966666666666666,0.087,False,0.0006382247665897012,0.0003935716231353581,0.0005038160597905517
-i'm just saying the pics are formulas getting kind of tired,0.11536485,0.999987899883517,0.45,0.242,False,0.0073317959904670715,0.0020434928592294455,0.0014415514888241887
-"they're still pulling it off very well, but i think next time they should try something new",0.060927194,0.837078696892559,0.4439393939393939,0.0,False,0.0006820317939855158,0.0010444332147017121,0.0004808079975191504
-"that being said, i'll be damned if the movie didn't give me the feels quite a few times",0.39230084,0.9924239859357308,0.6,0.133,False,0.016880566254258156,0.49057620763778687,0.48286473751068115
-i swear there were a couple of scenes in this movie where i wanted to dear up,0.08050597,0.1906240131401304,0.5,0.064,False,0.0008306012605316937,0.0019543105736374855,0.005646664183586836
-"i didn't, but i wanted to, so inside out was very enjoyable",0.06612156,0.0130419585546571,0.175,0.0,False,0.0006899303407408297,0.000930174661334604,0.00045063873403705657
-the characters were perfect,0.022074303,0.0007231458776929,0.0,0.0,False,0.0006681166123598814,0.0003701204259414226,0.0013146625133231282
-the story was good,0.023288755,0.7952139628429862,0.15,0.0,False,0.0005635005072690547,0.0003634280583355576,0.0003483804757706821
-"it kind of lacked focus from time to time, but i still like what i was watching",0.06332459,0.0657154047834681,0.2,0.0,False,0.0006044336478225887,0.00043850994552485645,0.00047242577420547605
-"it's not pixar's best movie, but it is a lot better than cars to and brave, and it is a solid animated movie 4 2015, so i will say go see this movie while it's in",0.055732824,0.0007605191438744,0.2125,0.049,False,0.0006950144888833165,0.00047580013051629066,0.00045742906513623893
-and the scourge of this movie was great,0.17759849,0.9296496843419366,0.0999999999999999,0.0,False,0.004237207118421793,0.005868901032954454,0.0026799149345606565
-"once again, it's michael giacchino",0.033761155,5.552344090595181e-05,0.5,0.0,False,0.0011061260011047125,0.004349773284047842,0.021842021495103836
-this guy is on a roll,0.2088965,0.0001957178939502,0.5,0.0,False,0.11912181973457336,0.010867678560316563,0.11036450415849686
-so what is your favorite pixar movie? you gotta have one,0.043375164,7.391204157099329e-06,0.25,0.0,False,0.0022986410185694695,0.0019957125186920166,0.0025859882589429617
-whatever it is,0.036851373,0.0049301119922406,0.5,0.0,False,0.0008932524360716343,0.0005090383347123861,0.001260890974663198
-go ahead and leave a comment and don't forget to subscribe,0.073313765,0.8340883289429183,0.5,0.101,False,0.0014917487278580666,0.0021353939082473516,0.0006538753514178097
+screw anatomy,0.19338597,0.9985789060592651,0.0,0.583,False,0.384604275226593,0.532565712928772,0.0501973181962966
+i think i prefer that this is what actually goes on inside,0.028782474,0.0,0.0,0.0,False,0.00104907725472,0.0006511096726171,0.0021843435242772
+everyone's heads inside out,0.16151784,0.9629520773887634,0.0,0.0,False,0.0445421412587165,0.046756338328123,0.0150066763162612
+so inside out is the newest movie from pixar animation studios,0.03599298,0.0,0.0,0.0,False,0.0011017275974154,0.0004217183741275,0.0005031844484619
+"everyone loves them, or at least we used to love them before cars, too",0.08170467,0.0,0.0,0.0,False,0.0009024157188832,0.0005813877796754,0.0008079354302026
+"let's face it, pixar has kind of fallen from grace ever since cars 2 and brave",0.09978092,0.9968044757843018,0.0,0.127,False,0.0049078501760959,0.0008190430817194,0.0065256552770733
+i really liked monsters university,0.085282035,0.0,0.0,0.0,False,0.0032870671711862,0.031798031181097,0.0913038775324821
+"i thought it was right up there with all the other great pixar films, so i thought all right, if pixar can get another one right, then they can remain immortal and we can forget all about cars 2 and brave",0.060927194,0.0,0.0,0.039,False,0.0008872809703461,0.0005119830602779,0.0004096621996723
+"so this movie revolves around this 11 year old girl, riley, or rather, more specifically all the personified emotions inside her head",0.12695669,0.0,0.0,0.0,False,0.0049689267762005,0.0122855361551046,0.0135506717488169
+riley's family is moving from minnesota where she grew up to san francisco to start a new life,0.016104523,0.0,0.0,0.0,False,0.0010049217380583,0.0005116544780321,0.0006719969096593
+"so this is really the story of how she deals with it, and how all these emotions deal with it",0.059328925,0.0,0.0,0.0,False,0.0006792406202293,0.0003721703251358,0.0005615448462776
+"there's joy, sadness, disgust, fear and anger, and i will say this about them",0.22985287,0.0,0.0,0.517,False,0.0073619773611426,0.0027116113342344,0.0023393533192574
+all these characters were portrayed wonderfully,0.027409043,0.0,0.0,0.0,False,0.0005751136341132,0.0003501301689539,0.0012664727400988
+i love these emotion characters,0.030670939,0.0,0.0,0.0,False,0.0006185400998219,0.0003666187112685,0.0002911742776632
+"if fix our excels at one thing, it's making relatable characters",0.02397547,0.0,0.0,0.0,False,0.000676664232742,0.0004606125003192,0.0005929591716267
+"i mean, given that these characters are emotions, it's really a no-brainer that they're all relatable",0.2286382,0.0,0.0562499999999999,0.0,False,0.0034100681077688,0.0004837531596422,0.0028069491963833
+"you have joy, voiced by amy poehler, who's always hilarious",0.12116077,0.0,0.0,0.0,False,0.0038571753539144,0.0006342908018268,0.0163221266120672
+it's funny,0.043031808,0.0,0.0,0.0,False,0.0007317456183955,0.0003574528382159,0.0006171980057843
+"the guys at pixar must be huge fans of saturday night live in the office, got amy poehler, and fear is voiced by bill hader and sadness and discuss their voice by phyllis smith and mindy kaling respectively, plus anger is voiced by the always hilarious lewis black",0.15276173,0.0,0.0,0.166,False,0.0023092776536941,0.0686451643705368,0.0585386827588081
+all the voice acting in this movie was perfect,0.043718524,0.0,0.0,0.0,False,0.0007083980599418,0.0004449281841516,0.0009826289024204
+these were excellent casting decisions,0.09602194,0.0,0.0,0.0,False,0.0006363540305756,0.0004068929702043,0.0005601736484095
+i bought them all,0.04165838,0.0,0.0,0.0,False,0.0016402329783886,0.0019454391440376,0.001000257092528
+i empathize with them,0.050585672,0.0,0.0,0.0,False,0.0017609775532037,0.0003658410278148,0.0005495732184499
+i laugh with them,0.062925026,0.0,0.0,0.0,False,0.007343525532633,0.0009460187284275,0.0048673483543097
+"i gotta say, though the funniest out of all of them was definitely fear",0.15071863,0.8582633137702942,0.0,0.156,False,0.0012421865249052,0.0009692859603092,0.0019532169681042
+just the way he moved and reacted to everything made me laugh out loud,0.104076885,0.0,0.0,0.0,False,0.0040941857732832,0.000779177818913,0.0033665422815829
+"so props to bill hader, the movie has a really good story, but with the story comes the movies biggest flaw",0.14687516,0.9991807341575623,0.0,0.0,False,0.002855721861124,0.0008525459561496,0.0007276463438756
+"also, you see as the story's going along and you're seeing more of this world that pixar has created",0.025520578,0.0,0.0,0.0,False,0.0010563033865764,0.0010758209973573,0.000972147041466
+at a point it feels like that becomes the point that pic stars trying to get across like it felt like pixar,0.036851373,0.9983183145523071,0.0,0.0,False,0.0011224161135032,0.0008386328117921,0.003615781199187
+"what's going? hey, look what we can do",0.055732824,0.7269230484962463,0.0,0.0,False,0.0006872385274618,0.0005415288032963,0.0070410459302365
+we can make all sorts of cool stuff that shouldn't really be the point of a movie,0.054534122,0.9948400855064392,0.0,0.0,False,0.0007001894409768,0.000424347090302,0.0005170683725737
+"the point of a movie should be to tell a good story, but the movie did have a really good story, so i'd say it feels like half and half at the time it felt like they were showing this big world just for the sake of doing it, and the other half of the time it felt like it was more focused on the story",0.023288755,0.9999818801879883,0.0,0.0,False,0.0005980576970614,0.0003287825966253,0.0003396109968889
+"and don't get me wrong, i like seeing this big world that pixar has brought to us",0.04131502,0.0,0.25,0.0,False,0.0028246468864381,0.0014857159694656,0.0101445084437727
+they've never failed at that,0.03444787,0.0,0.0,0.0,False,0.0009918927680701,0.0005892571061849,0.0005621928721666
+they've never disappointed us with our animation ever,0.12888865,0.0,0.0,0.0,False,0.0009574895375408,0.0005587504128925,0.0005659965099766
+and it's also really cool to see how these emotions interact with riley's consciousness,0.0186035,0.0,0.0,0.0,False,0.0005633431137539,0.0004086622793693,0.0009602202335372
+i wouldn't say they really control her thoughts,0.060927194,0.9309104084968567,0.0,0.0,False,0.0010586940916255,0.0014953783247619,0.0004657310782931
+it's more like they help her out,0.06132676,0.0,0.0,0.0,False,0.000765067350585,0.0015888217603787,0.0036727339029312
+i love how that was illustrated and it sure as hell take it over whatever science our anatomy tells us,0.2459383,0.0,0.0,0.164,True,0.0348561517894268,0.0056446269154548,0.003568384097889
+"this is what i believe now as good as a story of this movie is, it is also a tat predictable, which was very shocking to me because i don't remember pixar movies being predictable at all, but when i think back to all the great pixar movies we've gotten, they do follow a pretty basic formula",0.04406188,0.967881441116333,0.0,0.03,False,0.0006136113661341,0.0006284484989009,0.0004364957858342
+there's always that one point,0.019852988,0.821626603603363,0.0,0.0,False,0.0006259710062295,0.0003391696664039,0.0004345271154306
+"i think back to the first toy story where woody and buzz are on the street and they're trying to catch up to the moving van, and woody gets out the match to light the rocket, and the car drives by and blows out the match",0.043718524,0.0,0.0,0.0,False,0.0010205255821347,0.0027950010262429,0.0007091877050697
+hope just doesn't seem lost,0.043031808,0.0,0.0,0.0,False,0.0008317457395605,0.0005206174682825,0.0004159209493082
+hope is lost,0.10763696,0.976963460445404,0.0,0.371,False,0.0025708202738314,0.1514976471662521,0.0006975875585339
+"there is just absolutely no hope for these characters that we have grown to love over the course of an hour and a half they've lost, and then by some glimmer of hope they actually managed to pull through the situation and it's a happy ending",0.07690986,0.0,0.0,0.087,False,0.0006382247665897,0.0003935716231353,0.0005038160597905
+i'm just saying the pics are formulas getting kind of tired,0.11536485,0.9999758005142212,0.0,0.242,False,0.007331795990467,0.0020434928592294,0.0014415514888241
+"they're still pulling it off very well, but i think next time they should try something new",0.060927194,0.6741674542427063,0.0,0.0,False,0.0006820317939855,0.0010444332147017,0.0004808079975191
+"that being said, i'll be damned if the movie didn't give me the feels quite a few times",0.39230084,0.9848484396934509,0.2,0.133,False,0.0168805662542581,0.4905762076377868,0.4828647375106811
+i swear there were a couple of scenes in this movie where i wanted to dear up,0.08050597,0.0,0.0,0.064,False,0.0008306012605316,0.0019543105736374,0.0056466641835868
+"i didn't, but i wanted to, so inside out was very enjoyable",0.06612156,0.0,0.0,0.0,False,0.0006899303407408,0.0009301746613346,0.000450638734037
+the characters were perfect,0.022074303,0.0,0.0,0.0,False,0.0006681166123598,0.0003701204259414,0.0013146625133231
+the story was good,0.023288755,0.590440571308136,0.0,0.0,False,0.000563500507269,0.0003634280583355,0.0003483804757706
+"it kind of lacked focus from time to time, but i still like what i was watching",0.06332459,0.0,0.0,0.0,False,0.0006044336478225,0.0004385099455248,0.0004724257742054
+"it's not pixar's best movie, but it is a lot better than cars to and brave, and it is a solid animated movie 4 2015, so i will say go see this movie while it's in",0.055732824,0.0,0.0,0.049,False,0.0006950144888833,0.0004758001305162,0.0004574290651362
+and the scourge of this movie was great,0.17759849,0.8593037128448486,0.0,0.0,False,0.0042372071184217,0.0058689010329544,0.0026799149345606
+"once again, it's michael giacchino",0.033761155,0.0,0.0,0.0,False,0.0011061260011047,0.0043497732840478,0.0218420214951038
+this guy is on a roll,0.2088965,0.0,0.0,0.0,False,0.1191218197345733,0.0108676785603165,0.1103645041584968
+so what is your favorite pixar movie? you gotta have one,0.043375164,0.0,0.0,0.0,False,0.0022986410185694,0.001995712518692,0.0025859882589429
+whatever it is,0.036851373,0.0,0.0,0.0,False,0.0008932524360716,0.0005090383347123,0.0012608909746631
+go ahead and leave a comment and don't forget to subscribe,0.073313765,0.6681869029998779,0.0,0.101,False,0.001491748727858,0.0021353939082473,0.0006538753514178

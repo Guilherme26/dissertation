@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user my number is 919 885 6549 hit my shit,0.2406723,0.0,0.0,0.279,0.9814410209655762,0.9747434258461,0.9564469456672668,True
+@user my number is 919 885 6549 hit my shit,0.2406723,0.9983580708503723,0.2,0.279,0.9814410209655762,0.9747434258461,0.9564469456672668,True

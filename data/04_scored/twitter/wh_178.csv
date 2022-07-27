@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"we are no longer brothers , stay the fuck out of my house #urnotmybrother #fuckyou",0.96176314,0.0,0.0,0.305,0.9967668056488036,0.9901543855667114,0.989663064479828,True
+"we are no longer brothers , stay the fuck out of my house #urnotmybrother #fuckyou",0.96176314,0.9916362762451172,0.4,0.305,0.9967668056488036,0.9901543855667114,0.989663064479828,True

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-last day at my night job ! ,0.018048171,0.0,0.0,0.0,0.0049048704095184,0.0010830671526491,0.000563419132959,False
+last day at my night job ! ,0.018048171,0.8258528113365173,0.0,0.0,0.0049048704095184,0.0010830671526491,0.000563419132959,False

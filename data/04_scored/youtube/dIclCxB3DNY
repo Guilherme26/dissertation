@@ -1,93 +1,93 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-it was a great movie,0.03221605,0.0070555821900116,0.0,0.0,False,0.0007413080311380327,0.000495022046379745,0.00041556209907867014
-that's all you need to know,0.023632111,0.0229520748807687,0.4444444444444445,0.0,False,0.0012219119817018509,0.0014890535967424512,0.0012719513615593314
-welcome back today,0.030155903,0.0050906538814123,0.2222222222222222,0.0,False,0.0011033971095457673,0.00041682517621666193,0.0004248521872796118
-we're talking about a star is born at my school,0.037194733,0.0002725746689599,0.4444444444444445,0.0,False,0.0013151109451428056,0.001189526985399425,0.0010816374560818076
-there was a pretty screening for the movie,0.0358213,0.0411780019006896,0.3055555555555556,0.0,False,0.0006078441510908306,0.00040824367897585034,0.0003289729356765747
-"so as you know, the movies coming out on october 5th, so we're gonna talk about the movie",0.027237365,0.0519196914659834,0.4444444444444445,0.0,False,0.0005578080308623612,0.0005876031937077641,0.00042568324715830386
-"plot, a review of the movie and there's gonna be a lot of spoilers",0.09279997,0.9982862135971298,0.4444444444444445,0.0,False,0.0008966262103058398,0.00039709630073048174,0.0003294000343885273
-"i'm not a movie critic, so i'm not gonna use official terms like the rising action and stuff, so i'm just gonna talk out of my ass",0.7627802,0.9970495819105808,0.3888888888888889,0.11,True,0.9579197764396667,0.9717215895652771,0.939241349697113
-"basically so the very beginning of the movie started out with bradley cooper, who plays my god",0.09494796,0.968077643001766,0.3333333333333333,0.0,False,0.0006983698112890124,0.0006765162106603384,0.0014518096577376127
-"what was his name jackson? me? so bradley cooper plays jackson main, who is a country singer",0.043718524,0.8146660970738435,0.3518518518518519,0.0,False,0.0008745043305680156,0.06263701617717743,0.006383610423654318
-as and that's like we see,0.021518974,0.0014897409947443,0.4444444444444445,0.0,False,0.0007306690677069128,0.0003467105852905661,0.0003815164673142135
-within the first few minutes,0.030842619,0.232445173337249,0.4305555555555556,0.0,False,0.0007655388908460736,0.0004216016095597297,0.0002364011888857931
-he is obviously an alcoholic and he is constantly taking pills before and after his show and then after his show,0.42092466,0.9964218612873352,0.513888888888889,0.0,False,0.3395861089229584,0.22895072400569916,0.2593028247356415
-he wants to go drink some more,0.13476147,0.0021278053855019,0.25,0.0,False,0.025079963728785515,0.0006236928747966886,0.0021660691127181053
-"he's out of liquor, so he ends up going to",0.10699297,0.0137568530813293,0.4444444444444445,0.0,False,0.03199051320552826,0.0010117553174495697,0.02658156305551529
-"i thought it was pretty obvious that he was an alcoholic to begin with, but so basically afterwards he goes to a bar and it's a drag night at the bar and there's lady gaga and she was performing la vie en rose, which is a good song, and basically she falls in love with her boys",0.17380224,0.9970152417948064,0.3095238095238095,0.035,False,0.004275956656783819,0.004404857289046049,0.17918804287910461
-"fy, lady gaga's not playing a drag queen",0.24418297,0.9996272368509028,0.5000000000000001,0.172,False,0.03856639564037323,0.04596389830112457,0.047985780984163284
-that she just happened to be like performing there that night,0.08367105,0.7779235146059214,0.4444444444444445,0.0,False,0.0006342414999380708,0.0005097499233670533,0.005751637276262045
-"also anyway, so he falls in love with her and then he was like dude, that was resin this start",0.19634613,0.1016519592899119,0.1666666666666666,0.0,False,0.008273530751466751,0.004896210972219706,0.015313219279050827
-"they have chemistry and then like you can see like, oh, my gosh, it's gonna be an epic love story",0.10515087,0.0,0.2777777777777778,0.0,False,0.001085396739654243,0.0014605423202738166,0.002775418572127819
-so then afterwards they go to a bar where they lady gaga,0.07970683,0.9968363572160194,0.4444444444444445,0.0,False,0.04948313161730766,0.004610018339008093,0.04388636723160744
-"her character's name is ali, punches this guy who was being basically a dick to bradley cooper's character and i'm like it's all cute like he gives her peas for her knuckles, and then there, sitting on a curb, he's drunk",0.59863794,0.993066217908126,0.4444444444444445,0.115,True,0.5467992424964905,0.9208526015281677,0.9577764868736267
-"she's singing to him and then he like falls in love with her like right then and then basically stalks there for a little bit, but not like",0.13879937,0.9999133448641004,0.3336640211640212,0.081,False,0.002851225668564439,0.006624467205256224,0.21925732493400574
-"in a weird way, like some other movies romanticized stalking",0.07211506,0.7595824349234684,0.6180555555555556,0.13,False,0.002652933355420828,0.1416129469871521,0.006247407756745815
-"then he's like oh, like, please come to my show",0.05653196,0.994842752526018,0.4444444444444445,0.0,False,0.0018323541153222322,0.002062039915472269,0.011398516595363617
-"and then she's like okay, and then she goes to the show",0.05093802,0.7960099349055085,0.1666666666666666,0.0,False,0.0014219912700355053,0.0005472312332130969,0.005315789021551609
-"then he's like, by the way, that song that you sing the other night, you're performing it right here with me",0.045091953,0.0318055648336467,0.3998015873015873,0.0,False,0.0009453700040467083,0.0010083900997415185,0.003733087331056595
-"so yeah, and then like that started this whole thing where they went on tour together and ally became huge, but like right, like in the middle of the movie, there's just like this dark tone where you're like okay",0.054534122,0.7569513024070186,0.330026455026455,0.0,False,0.0008165801409631968,0.0017856123158708215,0.003668427001684904
-something's about it like get up so you can see that his drinking problem is getting progressively worse as they are following more in love with each other,0.104076885,0.9529073602940802,0.3916666666666667,0.158,False,0.052320923656225204,0.02025669626891613,0.008945535868406296
-it's just like he was like,0.022945397,0.1936686544287675,0.4444444444444445,0.0,False,0.0012709740549325943,0.0017987294122576714,0.00650241831317544
-"oh, like he's a drunk with that",0.38261065,0.9113168000580444,0.7222222222222222,0.242,False,0.4655010998249054,0.13138271868228912,0.19822746515274048
-like they add character to like to that,0.034962907,0.0003788740203937,0.4444444444444445,0.0,False,0.0008128064800985157,0.0004488449776545167,0.0005183553439565003
-you know,0.03994159,0.0416955181766972,0.4444444444444445,0.0,False,0.0024898352567106485,0.000538251013495028,0.0007277476252056658
-usually a movie,0.033761155,0.0115667466177296,0.5833333333333334,0.0,False,0.0009745418792590499,0.0008367015980184078,0.00031304260483011603
-though just have like a drunk,0.40326482,0.9690915110727052,0.7222222222222222,0.27,False,0.10273537784814835,0.09737047553062439,0.04729019105434418
-be a drunk,0.3983115,0.9738037082615194,0.7222222222222222,0.545,False,0.879689633846283,0.11560607701539993,0.5043080449104309
-basically the humanized him using human,0.13835071,0.9995212952090085,0.4444444444444445,0.0,False,0.00648070964962244,0.02961045876145363,0.0028059512842446566
-"we're like a lot of movies when they portray drunks, they don't portray the human aspect of them, so you can see how in love he is with her, but he also is struggling with this alcoholism, but it's not being addressed by the right people, and then they end up getting engaged in the end of getting married, and then ali starts like launching her own career, and then at the same time accents, career is like starting to fizzle out, and then at one point he even gets replaced by somebody else and then ali has like become a huge success, but also like her manager is kind of a dick and wants to change her",0.20742953,0.9996995239869731,0.2860750360750361,0.057,True,0.3655785918235779,0.9112617373466492,0.8483346700668335
-and then you see like her style changed from,0.05093802,0.8915261024675072,0.4444444444444445,0.0,False,0.0007529534050263464,0.00045416608918458223,0.0008534493390470743
-was it down-to-earth country until i pop? and i'm like she's even like,0.0789077,7.282370037938971e-05,0.4444444444444445,0.0,False,0.0025336334947496653,0.025820767506957054,0.025238916277885437
-"oh, we need to dye your hair and i don't know it was weird, so she changes a little, but then like throughout all of this she gets really successful",0.18549223,0.0006776211039804,0.4328703703703703,0.037,False,0.24721747636795044,0.009428012184798717,0.019847232848405838
-even wins,0.054534122,0.0009581846193185,0.2777777777777778,0.0,False,0.001040708040818572,0.000462411146145314,0.0004421756893862039
-"like she's nominated for three grammys wins a grammy and this is basically when the whole thing went to, and you're like",0.06332459,0.0115857350324417,0.3055555555555556,0.0,False,0.002976583084091544,0.0009738067165017128,0.022422995418310165
-"this is what all the like weirdness throughout the movie has been hinting towards was already at the grammys and he had been replaced by somebody, so he had to be like a guitarist, like the person's guitarist, even though like he was bigger than the other person",0.15217799,0.9841804446693244,0.4791666666666667,0.035,False,0.0010140485828742385,0.0005969105404801667,0.0067566437646746635
-it just like kind of hurt his ego,0.2712817,0.9999277426730578,0.1111111111111111,0.286,False,0.16405221819877625,0.006015085615217686,0.008707222528755665
-so he's got really drunk,0.22687212,0.9408476303129144,0.7222222222222222,0.402,False,0.08857531100511551,0.010805709287524223,0.003727517556399107
-then he went to go sit down with ali,0.111500904,0.0518189366124089,0.5308641975308642,0.0,False,0.002480879193171859,0.002421411219984293,0.006022568326443434
-"it was announced that she won the grammy, but she goes up to get her award and he like starts going with her, but then he stumbles down, falls on the stairs like jennifer lawrence, and like, what was that like 2014 grammys or something? he eventually stumbles up with her and she's like giving her acceptance speech and he's standing next to her and he is so drunk and then he pissed himself onstage at the grammys and collapsed and it was this whole dramatic thing",0.27194336,0.9999166536773392,0.54320987654321,0.107,True,0.025263212621212006,0.005830917973071337,0.012800674885511398
-"they carried him out and he got sent to rehab, but the whole time he's in rehab like ali's still doing her shows, but she misses him a lot",0.0765103,0.9536524692644786,0.3333333333333333,0.072,False,0.001546380459330976,0.0011961511336266994,0.002381617436185479
-"like the the thing about the movie is that they love each other so deeply, which is also part of",0.0358213,0.0072556312498749,0.375,0.0,False,0.0007188856252469122,0.00039774132892489433,0.0016831388929858804
-like why the movies like it's great,0.033074442,0.0026857428394524,0.0,0.0,False,0.0007521559600718319,0.0005561795551329851,0.0013213015627115965
-"it's not just a tragic story about somebody falling in love and then like somebody having alcoholism, and then like both of their lives getting destroyed, which is like does happen",0.087430015,0.8070529947576772,0.513888888888889,0.112,False,0.014918243512511253,0.0030623306520283222,0.007143610622733831
-but it's so it's so great like it's a great love story,0.030155903,0.0058780918139632,0.0555555555555555,0.0,False,0.0007415956351906061,0.0004235910892020911,0.001982745248824358
-so he got sent to rehab,0.043031808,0.9909788337005668,0.4444444444444445,0.0,False,0.029333852231502533,0.0008422232931479812,0.0005316370516084135
-everything seems great,0.0224908,0.0020873543984307,0.0,0.0,False,0.0005885179270990193,0.0003355626540724188,0.00037071670521982014
-"he's obviously like, a little depressed about everything and he feels so bad, but it seems like he's on the right track to making things happen and it goes home and now we're going to talk about ali's manager, which i said earlier was kind of a dick",0.7509647,0.0863300673558119,0.4446097883597883,0.161,True,0.6862993240356445,0.9428655505180359,0.903650164604187
-ali's not the air,0.07011723,0.9998586153045848,0.4444444444444445,0.0,False,0.016800235956907272,0.0011254186974838376,0.0047847493551671505
-"the manager talks to jackson, and it's basically like you're a, and you're gonna ruin ali's career if you stay with her and then so what happens next was just like, oh my god, it was so bad, cuz he finally seemed like everything was getting back together then like ali's got a concert and she was like this is the last concert and then i'm gonna be home with you all summer, because she had actually had a whole tour in europe then, but she decided to cancel it so she could stay with him because her manager wouldn't agree to let him go with her on the europe tour",0.30487993,0.9999813991039554,0.4841269841269841,0.085,False,0.057608652859926224,0.004773978143930435,0.01248480100184679
-and then so at her last concert he is this huge dramatic scene,0.22510603,0.0277197766664338,0.4506172839506173,0.0,False,0.0013858118327334523,0.0005684247007593513,0.0026137996464967728
-he distracts his dog so that his dog won't like,0.2224569,0.9642920923745536,0.4444444444444445,0.355,False,0.16172784566879272,0.01022227481007576,0.007319950498640537
-i don't know,0.017770508,0.9871396564515852,0.4444444444444445,0.0,False,0.001086112461052835,0.002273131860420108,0.00042783142998814583
-do something,0.03753809,0.0089265223171553,0.4444444444444445,0.0,False,0.038677409291267395,0.000974613765720278,0.0018911490915343165
-and then he goes and he kills himself in the garage like he hangs himself with a belt,0.5958905,0.9994843020808172,0.4444444444444445,0.159,False,0.9061949849128723,0.5517202019691467,0.6280142068862915
-"oh, it was a saddest scene ever like everybody in",0.15684792,0.9987969930101468,0.4444444444444445,0.276,False,0.022896992042660713,0.001964336959645152,0.0016770197544246912
-"like my school's little theater was like, and then like you could audibly hear people like starting to cry, and then it's just so sad because afterwards it shows ali and like the effect it had on her and you can see how much she really loved him",0.08850401,0.0057372138737287,0.4208333333333333,0.112,False,0.00205322471447289,0.0003841703000944108,0.0013587574940174818
-the way the movie ended was her singing a love song that he had written for her and that's just basically a short summary of the movie,0.03358948,0.9385538477011692,0.3055555555555556,0.0,False,0.0006529235397465527,0.0005337498150765896,0.0007788998773321509
-but it doesn't really do,0.016382186,0.9998830587897716,0.3333333333333333,0.0,False,0.0008631257805973291,0.0003117503074463457,0.000699497468303889
-the movie dresses in any way,0.038224805,0.8240277432364503,0.4444444444444445,0.0,False,0.0008290506084449589,0.0008099897531792521,0.0007225633016787469
-"so in conclusion, robbie cooper is an amazing actor and director",0.031529333,7.383721074078933e-05,0.111111111111111,0.0,False,0.000756425317376852,0.0013942024670541286,0.0010674709919840097
-"if you didn't know he did direct this movie, it was an amazing movie",0.034791227,0.0003618231990196,0.2499999999999999,0.0,False,0.0006036613485775888,0.0004401973565109074,0.0006781581323593855
-just the whole time you feel all the raw emotions and it just seemed so it was great,0.084745035,0.0062581283903598,0.301994301994302,0.0,False,0.0006336738588288426,0.0003191010619048029,0.0009424543823115528
-"i don't know what's a word, and i, i know lady gaga has been like in tv shows before",0.04818217,0.1004166988232637,0.4444444444444445,0.0,False,0.0010066780960187316,0.0022903471253812313,0.006494980305433273
-i don't think she's ever been in a movie before,0.040971663,0.9849776301868218,0.4444444444444445,0.0,False,0.0009646248072385788,0.0012533438857644796,0.0007940449868328869
-i could be wrong,0.0334178,0.0109305303929251,0.7222222222222222,0.508,False,0.0008271036203950644,0.0014429297298192978,0.000799543980974704
-but she did,0.024318827,0.0692157525384484,0.4444444444444445,0.0,False,0.0029312018305063248,0.0003904252080246806,0.0007089268765412271
-she did it a really good job at portraying somebody with such raw emotion and just somebody who was so new and innocent to an industry,0.10699297,3.583057218830391e-05,0.3216006216006216,0.0,False,0.000678408658131957,0.0004965435364283621,0.0006333019700832665
-and bradley cooper is really good at portraying a damaged person,0.28683078,0.0002572825861541,0.0555555555555556,0.192,False,0.029523158445954323,0.010057770647108555,0.007307916413992643
-"he's really good at playing the damaged person, and that's kind of scary because you're like",0.22989221,0.0098828587705207,0.2962962962962963,0.254,False,0.13802456855773926,0.0183400996029377,0.03959496319293976
-how can you be like that? but this story is the type of movie where everybody can feel a connection at some point or another,0.038911518,0.0037465006691702,0.4444444444444445,0.0,False,0.0007917892071418464,0.00042100984137505293,0.0015476340195164084
-it's not just one of those movies that you go in for entertainment,0.025005542,0.0023383770676468,0.4444444444444445,0.0,False,0.0009798379614949226,0.0007416962762363255,0.0009397795656695962
-"it's something that you go in to feel like to completely submerge yourself into a plot, and really like, become attached to characters, which is what makes the ending so tragic",0.11407687,0.2292982832833598,0.5277777777777778,0.104,False,0.0018456806428730488,0.0004778174334205687,0.000863303430378437
-it's a work of art,0.025005542,0.0003597961782968,0.4444444444444445,0.0,False,0.001125261071138084,0.00041089713340625167,0.0023184767924249172
-i highly recommend this movie,0.03616466,7.660945967050004e-06,0.3555555555555555,0.0,False,0.0006763090495951474,0.0005635314155369997,0.00021379620011430234
-it's premiering on thursday,0.019852988,0.0050391735168788,0.4444444444444445,0.0,False,0.0007067840197123587,0.0005797012127004564,0.00029281090246513486
-that is my review,0.020963646,0.0087758371737178,0.4444444444444445,0.0,False,0.0008948500617407262,0.0004127001157030463,0.00032030558213591576
-i got these awesome posters for free,0.10461388,0.0020533719921956,0.0555555555555556,0.0,False,0.007286207750439644,0.0005986847681924701,0.0005065110744908452
-it's really a great movie,0.032559406,0.0023737008846544,0.0,0.0,False,0.0006616495084017515,0.00046112670679576695,0.00047056618495844305
-you should go out and see it like this video,0.15859914,0.0012557691469023,0.4444444444444445,0.0,False,0.008804548531770706,0.008879169821739197,0.0017959746764972806
-if you,0.020408317,0.0240244582705143,0.4444444444444445,0.0,False,0.0019816255662590265,0.0030758699867874384,0.0012895450927317142
-"yeah, just like this video",0.054534122,0.0005910553954656,0.4444444444444445,0.0,False,0.001130312099121511,0.00040565323433838785,0.0003817603865172714
-comment what you thought of the movie,0.021380141,0.1721525448753324,0.4444444444444445,0.0,False,0.0006506794015876949,0.0005877762450836599,0.0004821973270736635
-"if you've already seen it and share it with your friends, save it to your lists or whatever, and subscribe to my channel for more content later, so",0.029125832,0.992156622167898,0.3055555555555556,0.0,False,0.00082779471995309,0.0007202938431873918,0.00040343886939808726
+it was a great movie,0.03221605,0.0,0.0,0.0,False,0.000741308031138,0.0004950220463797,0.0004155620990786
+that's all you need to know,0.023632111,0.0,0.0,0.0,False,0.0012219119817018,0.0014890535967424,0.0012719513615593
+welcome back today,0.030155903,0.0,0.0,0.0,False,0.0011033971095457,0.0004168251762166,0.0004248521872796
+we're talking about a star is born at my school,0.037194733,0.0,0.0,0.0,False,0.0013151109451428,0.0011895269853994,0.0010816374560818
+there was a pretty screening for the movie,0.0358213,0.0,0.0,0.0,False,0.0006078441510908,0.0004082436789758,0.0003289729356765
+"so as you know, the movies coming out on october 5th, so we're gonna talk about the movie",0.027237365,0.0,0.0,0.0,False,0.0005578080308623,0.0005876031937077,0.0004256832471583
+"plot, a review of the movie and there's gonna be a lot of spoilers",0.09279997,0.9965732097625732,0.0,0.0,False,0.0008966262103058,0.0003970963007304,0.0003294000343885
+"i'm not a movie critic, so i'm not gonna use official terms like the rising action and stuff, so i'm just gonna talk out of my ass",0.7627802,0.9941005110740662,0.0,0.11,True,0.9579197764396667,0.9717215895652772,0.939241349697113
+"basically so the very beginning of the movie started out with bradley cooper, who plays my god",0.09494796,0.9361698627471924,0.0,0.0,False,0.000698369811289,0.0006765162106603,0.0014518096577376
+"what was his name jackson? me? so bradley cooper plays jackson main, who is a country singer",0.043718524,0.629416823387146,0.0,0.0,False,0.000874504330568,0.0626370161771774,0.0063836104236543
+as and that's like we see,0.021518974,0.0,0.0,0.0,False,0.0007306690677069,0.0003467105852905,0.0003815164673142
+within the first few minutes,0.030842619,0.0,0.0,0.0,False,0.000765538890846,0.0004216016095597,0.0002364011888857
+he is obviously an alcoholic and he is constantly taking pills before and after his show and then after his show,0.42092466,0.992845356464386,0.125,0.0,False,0.3395861089229584,0.2289507240056991,0.2593028247356415
+he wants to go drink some more,0.13476147,0.0,0.0,0.0,False,0.0250799637287855,0.0006236928747966,0.0021660691127181
+"he's out of liquor, so he ends up going to",0.10699297,0.0,0.0,0.0,False,0.0319905132055282,0.0010117553174495,0.0265815630555152
+"i thought it was pretty obvious that he was an alcoholic to begin with, but so basically afterwards he goes to a bar and it's a drag night at the bar and there's lady gaga and she was performing la vie en rose, which is a good song, and basically she falls in love with her boys",0.17380224,0.9940318465232849,0.0,0.035,False,0.0042759566567838,0.004404857289046,0.1791880428791046
+"fy, lady gaga's not playing a drag queen",0.24418297,0.9992546439170837,0.1,0.172,False,0.0385663956403732,0.0459638983011245,0.0479857809841632
+that she just happened to be like performing there that night,0.08367105,0.5559484362602234,0.0,0.0,False,0.000634241499938,0.000509749923367,0.005751637276262
+"also anyway, so he falls in love with her and then he was like dude, that was resin this start",0.19634613,0.0,0.0,0.0,False,0.0082735307514667,0.0048962109722197,0.0153132192790508
+"they have chemistry and then like you can see like, oh, my gosh, it's gonna be an epic love story",0.10515087,0.0,0.0,0.0,False,0.0010853967396542,0.0014605423202738,0.0027754185721278
+so then afterwards they go to a bar where they lady gaga,0.07970683,0.9936741590499878,0.0,0.0,False,0.0494831316173076,0.004610018339008,0.0438863672316074
+"her character's name is ali, punches this guy who was being basically a dick to bradley cooper's character and i'm like it's all cute like he gives her peas for her knuckles, and then there, sitting on a curb, he's drunk",0.59863794,0.9861356019973755,0.0,0.115,True,0.5467992424964905,0.9208526015281676,0.9577764868736268
+"she's singing to him and then he like falls in love with her like right then and then basically stalks there for a little bit, but not like",0.13879937,0.9998267292976379,0.0,0.081,False,0.0028512256685644,0.0066244672052562,0.2192573249340057
+"in a weird way, like some other movies romanticized stalking",0.07211506,0.5192746520042419,0.3125,0.13,False,0.0026529333554208,0.1416129469871521,0.0062474077567458
+"then he's like oh, like, please come to my show",0.05653196,0.9896878600120544,0.0,0.0,False,0.0018323541153222,0.0020620399154722,0.0113985165953636
+"and then she's like okay, and then she goes to the show",0.05093802,0.5921130180358887,0.0,0.0,False,0.0014219912700355,0.000547231233213,0.0053157890215516
+"then he's like, by the way, that song that you sing the other night, you're performing it right here with me",0.045091953,0.0,0.0,0.0,False,0.0009453700040467,0.0010083900997415,0.0037330873310565
+"so yeah, and then like that started this whole thing where they went on tour together and ally became huge, but like right, like in the middle of the movie, there's just like this dark tone where you're like okay",0.054534122,0.5140135884284973,0.0,0.0,False,0.0008165801409631,0.0017856123158708,0.0036684270016849
+something's about it like get up so you can see that his drinking problem is getting progressively worse as they are following more in love with each other,0.104076885,0.9058362245559692,0.0,0.158,False,0.0523209236562252,0.0202566962689161,0.0089455358684062
+it's just like he was like,0.022945397,0.0,0.0,0.0,False,0.0012709740549325,0.0017987294122576,0.0065024183131754
+"oh, like he's a drunk with that",0.38261065,0.8226740956306458,0.5,0.242,False,0.4655010998249054,0.1313827186822891,0.1982274651527404
+like they add character to like to that,0.034962907,0.0,0.0,0.0,False,0.0008128064800985,0.0004488449776545,0.0005183553439565
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+usually a movie,0.033761155,0.0,0.25,0.0,False,0.000974541879259,0.0008367015980184,0.0003130426048301
+though just have like a drunk,0.40326482,0.938197135925293,0.5,0.27,False,0.1027353778481483,0.0973704755306243,0.0472901910543441
+be a drunk,0.3983115,0.9476193785667419,0.5,0.545,False,0.879689633846283,0.1156060770153999,0.5043080449104309
+basically the humanized him using human,0.13835071,0.999042809009552,0.0,0.0,False,0.0064807096496224,0.0296104587614536,0.0028059512842446
+"we're like a lot of movies when they portray drunks, they don't portray the human aspect of them, so you can see how in love he is with her, but he also is struggling with this alcoholism, but it's not being addressed by the right people, and then they end up getting engaged in the end of getting married, and then ali starts like launching her own career, and then at the same time accents, career is like starting to fizzle out, and then at one point he even gets replaced by somebody else and then ali has like become a huge success, but also like her manager is kind of a dick and wants to change her",0.20742953,0.9993991851806641,0.0,0.057,True,0.3655785918235779,0.9112617373466492,0.8483346700668335
+and then you see like her style changed from,0.05093802,0.7831017374992371,0.0,0.0,False,0.0007529534050263,0.0004541660891845,0.000853449339047
+was it down-to-earth country until i pop? and i'm like she's even like,0.0789077,0.0,0.0,0.0,False,0.0025336334947496,0.025820767506957,0.0252389162778854
+"oh, we need to dye your hair and i don't know it was weird, so she changes a little, but then like throughout all of this she gets really successful",0.18549223,0.0,0.0,0.037,False,0.2472174763679504,0.0094280121847987,0.0198472328484058
+even wins,0.054534122,0.0,0.0,0.0,False,0.0010407080408185,0.0004624111461453,0.0004421756893862
+"like she's nominated for three grammys wins a grammy and this is basically when the whole thing went to, and you're like",0.06332459,0.0,0.0,0.0,False,0.0029765830840915,0.0009738067165017,0.0224229954183101
+"this is what all the like weirdness throughout the movie has been hinting towards was already at the grammys and he had been replaced by somebody, so he had to be like a guitarist, like the person's guitarist, even though like he was bigger than the other person",0.15217799,0.9683681130409241,0.0625,0.035,False,0.0010140485828742,0.0005969105404801,0.0067566437646746
+it just like kind of hurt his ego,0.2712817,0.9998555183410645,0.0,0.286,False,0.1640522181987762,0.0060150856152176,0.0087072225287556
+so he's got really drunk,0.22687212,0.8817222714424133,0.5,0.402,False,0.0885753110051155,0.0108057092875242,0.0037275175563991
+then he went to go sit down with ali,0.111500904,0.0,0.1555555555555555,0.0,False,0.0024808791931718,0.0024214112199842,0.0060225683264434
+"it was announced that she won the grammy, but she goes up to get her award and he like starts going with her, but then he stumbles down, falls on the stairs like jennifer lawrence, and like, what was that like 2014 grammys or something? he eventually stumbles up with her and she's like giving her acceptance speech and he's standing next to her and he is so drunk and then he pissed himself onstage at the grammys and collapsed and it was this whole dramatic thing",0.27194336,0.999833345413208,0.1777777777777777,0.107,True,0.025263212621212,0.0058309179730713,0.0128006748855113
+"they carried him out and he got sent to rehab, but the whole time he's in rehab like ali's still doing her shows, but she misses him a lot",0.0765103,0.9073261022567749,0.0,0.072,False,0.0015463804593309,0.0011961511336266,0.0023816174361854
+"like the the thing about the movie is that they love each other so deeply, which is also part of",0.0358213,0.0,0.0,0.0,False,0.0007188856252469,0.0003977413289248,0.0016831388929858
+like why the movies like it's great,0.033074442,0.0,0.0,0.0,False,0.0007521559600718,0.0005561795551329,0.0013213015627115
+"it's not just a tragic story about somebody falling in love and then like somebody having alcoholism, and then like both of their lives getting destroyed, which is like does happen",0.087430015,0.6141940951347351,0.125,0.112,False,0.0149182435125112,0.0030623306520283,0.0071436106227338
+but it's so it's so great like it's a great love story,0.030155903,0.0,0.0,0.0,False,0.0007415956351906,0.000423591089202,0.0019827452488243
+so he got sent to rehab,0.043031808,0.9819617867469788,0.0,0.0,False,0.0293338522315025,0.0008422232931479,0.0005316370516084
+everything seems great,0.0224908,0.0,0.0,0.0,False,0.000588517927099,0.0003355626540724,0.0003707167052198
+"he's obviously like, a little depressed about everything and he feels so bad, but it seems like he's on the right track to making things happen and it goes home and now we're going to talk about ali's manager, which i said earlier was kind of a dick",0.7509647,0.0,0.000297619047619,0.161,True,0.6862993240356445,0.942865550518036,0.903650164604187
+ali's not the air,0.07011723,0.9997172951698303,0.0,0.0,False,0.0168002359569072,0.0011254186974838,0.0047847493551671
+"the manager talks to jackson, and it's basically like you're a, and you're gonna ruin ali's career if you stay with her and then so what happens next was just like, oh my god, it was so bad, cuz he finally seemed like everything was getting back together then like ali's got a concert and she was like this is the last concert and then i'm gonna be home with you all summer, because she had actually had a whole tour in europe then, but she decided to cancel it so she could stay with him because her manager wouldn't agree to let him go with her on the europe tour",0.30487993,0.9999628067016602,0.0714285714285714,0.085,False,0.0576086528599262,0.0047739781439304,0.0124848010018467
+and then so at her last concert he is this huge dramatic scene,0.22510603,0.0,0.011111111111111,0.0,False,0.0013858118327334,0.0005684247007593,0.0026137996464967
+he distracts his dog so that his dog won't like,0.2224569,0.9286004900932312,0.0,0.355,False,0.1617278456687927,0.0102222748100757,0.0073199504986405
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+do something,0.03753809,0.0,0.0,0.0,False,0.0386774092912673,0.0009746137657202,0.0018911490915343
+and then he goes and he kills himself in the garage like he hangs himself with a belt,0.5958905,0.9989688396453857,0.0,0.159,False,0.9061949849128724,0.5517202019691467,0.6280142068862915
+"oh, it was a saddest scene ever like everybody in",0.15684792,0.9975945353507996,0.0,0.276,False,0.0228969920426607,0.0019643369596451,0.0016770197544246
+"like my school's little theater was like, and then like you could audibly hear people like starting to cry, and then it's just so sad because afterwards it shows ali and like the effect it had on her and you can see how much she really loved him",0.08850401,0.0,0.0,0.112,False,0.0020532247144728,0.0003841703000944,0.0013587574940174
+the way the movie ended was her singing a love song that he had written for her and that's just basically a short summary of the movie,0.03358948,0.8771357536315918,0.0,0.0,False,0.0006529235397465,0.0005337498150765,0.0007788998773321
+but it doesn't really do,0.016382186,0.9997661709785461,0.0,0.0,False,0.0008631257805973,0.0003117503074463,0.0006994974683038
+the movie dresses in any way,0.038224805,0.6481358408927917,0.0,0.0,False,0.0008290506084449,0.0008099897531792,0.0007225633016787
+"so in conclusion, robbie cooper is an amazing actor and director",0.031529333,0.0,0.0,0.0,False,0.0007564253173768,0.0013942024670541,0.001067470991984
+"if you didn't know he did direct this movie, it was an amazing movie",0.034791227,0.0,0.0,0.0,False,0.0006036613485775,0.0004401973565109,0.0006781581323593
+just the whole time you feel all the raw emotions and it just seemed so it was great,0.084745035,0.0,0.0,0.0,False,0.0006336738588288,0.0003191010619048,0.0009424543823115
+"i don't know what's a word, and i, i know lady gaga has been like in tv shows before",0.04818217,0.0,0.0,0.0,False,0.0010066780960187,0.0022903471253812,0.0064949803054332
+i don't think she's ever been in a movie before,0.040971663,0.9699621200561523,0.0,0.0,False,0.0009646248072385,0.0012533438857644,0.0007940449868328
+i could be wrong,0.0334178,0.0,0.5,0.508,False,0.000827103620395,0.0014429297298192,0.0007995439809747
+but she did,0.024318827,0.0,0.0,0.0,False,0.0029312018305063,0.0003904252080246,0.0007089268765412
+she did it a really good job at portraying somebody with such raw emotion and just somebody who was so new and innocent to an industry,0.10699297,0.0,0.0,0.0,False,0.0006784086581319,0.0004965435364283,0.0006333019700832
+and bradley cooper is really good at portraying a damaged person,0.28683078,0.0,0.0,0.192,False,0.0295231584459543,0.0100577706471085,0.0073079164139926
+"he's really good at playing the damaged person, and that's kind of scary because you're like",0.22989221,0.0,0.0,0.254,False,0.1380245685577392,0.0183400996029377,0.0395949631929397
+how can you be like that? but this story is the type of movie where everybody can feel a connection at some point or another,0.038911518,0.0,0.0,0.0,False,0.0007917892071418,0.000421009841375,0.0015476340195164
+it's not just one of those movies that you go in for entertainment,0.025005542,0.0,0.0,0.0,False,0.0009798379614949,0.0007416962762363,0.0009397795656695
+"it's something that you go in to feel like to completely submerge yourself into a plot, and really like, become attached to characters, which is what makes the ending so tragic",0.11407687,0.0,0.15,0.104,False,0.001845680642873,0.0004778174334205,0.0008633034303784
+it's a work of art,0.025005542,0.0,0.0,0.0,False,0.001125261071138,0.0004108971334062,0.0023184767924249
+i highly recommend this movie,0.03616466,0.0,0.0,0.0,False,0.0006763090495951,0.0005635314155369,0.0002137962001143
+it's premiering on thursday,0.019852988,0.0,0.0,0.0,False,0.0007067840197123,0.0005797012127004,0.0002928109024651
+that is my review,0.020963646,0.0,0.0,0.0,False,0.0008948500617407,0.000412700115703,0.0003203055821359
+i got these awesome posters for free,0.10461388,0.0,0.0,0.0,False,0.0072862077504396,0.0005986847681924,0.0005065110744908
+it's really a great movie,0.032559406,0.0,0.0,0.0,False,0.0006616495084017,0.0004611267067957,0.0004705661849584
+you should go out and see it like this video,0.15859914,0.0,0.0,0.0,False,0.0088045485317707,0.0088791698217391,0.0017959746764972
+if you,0.020408317,0.0,0.0,0.0,False,0.001981625566259,0.0030758699867874,0.0012895450927317
+"yeah, just like this video",0.054534122,0.0,0.0,0.0,False,0.0011303120991215,0.0004056532343383,0.0003817603865172
+comment what you thought of the movie,0.021380141,0.0,0.0,0.0,False,0.0006506794015876,0.0005877762450836,0.0004821973270736
+"if you've already seen it and share it with your friends, save it to your lists or whatever, and subscribe to my channel for more content later, so",0.029125832,0.9843168258666992,0.0,0.0,False,0.000827794719953,0.0007202938431873,0.000403438869398

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"@user it's star wars ! even if it's terrible , it will make a ton of money ! #seepirates",0.23365098,0.0,,0.3,0.003245408181101,0.0032249283976852,0.0017380970530211,False
+"@user it's star wars ! even if it's terrible , it will make a ton of money ! #seepirates",0.23365098,0.0,1.0,0.3,0.003245408181101,0.0032249283976852,0.0017380970530211,False

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-fucked my day all up !!!,0.9017833,0.0,,0.513,0.992518186569214,0.9854780435562134,0.978038728237152,True
+fucked my day all up !!!,0.9017833,0.9938570857048035,1.0,0.513,0.992518186569214,0.9854780435562134,0.978038728237152,True

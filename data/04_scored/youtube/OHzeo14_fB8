@@ -1,85 +1,85 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hi, welcome back to movie review, mom",0.067320265,0.0341841708363887,0.3,0.0,False,0.007424510084092617,0.001340737333521247,0.002933972282335162
-thank you for subscribing,0.016798683,0.1869195685432929,0.5,0.0,False,0.0010092195589095354,0.0005684870411641896,0.0002164594188798219
-i really do appreciate it and be sure to ring that little bell or click on it and it'll notify you every time i upload a new movie review and check out our facebook group,0.039598234,0.0051190986128001,0.4188920454545454,0.0,False,0.0005942768766544759,0.00045830023009330034,0.0006004004972055554
-"it's called movie review, mom, alright today, the movie i'm reviewing is the irishman it's actually now on netflix, dvd and streaming",0.043718524,0.9433486261227134,0.5,0.0,False,0.0007911933353170753,0.0029759008903056383,0.0008089365437626839
-"i don't normally review movies once they're on netflix already, but this one is such a feature film quality and of epic proportion, but i couldn't dismiss it",0.040284947,7.895161318204031e-05,0.4583333333333333,0.0,False,0.000612796051427722,0.00038922743988223374,0.0004243618168402463
-it's actually rated r,0.1024659,0.00157629026726,0.5,0.0,False,0.0010369414230808616,0.0006809400510974228,0.001390066696330905
-"it's 3 hours and 29 minutes long, and the movie review mom grade that i'm gonna give it is an a / a",0.0753116,0.7676150914235241,0.525,0.0,False,0.00261694029904902,0.009441675618290901,0.002347479108721018
-"- and i'll tell you why, but first, let me give you a quick nutshell",0.30337667,0.0232780888619034,0.3541666666666667,0.0,False,0.4474380612373352,0.014034037478268147,0.004533499013632536
-i'll tell you some themes,0.06132676,0.0063954383194471,0.5,0.0,False,0.0006922344909980893,0.0004213243955746293,0.0005696472362615168
-"some, give you some tips for parents, and then tell you the things that i liked and didn't like",0.039598234,0.956511132684132,0.2,0.096,False,0.002335590310394764,0.0007065055542625487,0.0005172078381292522
-so first in a quick nutshell,0.17449278,0.0504259989420662,0.3541666666666667,0.0,False,0.017663028091192245,0.0007130777230486274,0.0011805682443082333
-if you love italians and all things mob-related you're really gonna enjoy this drama based on the events surrounding jimmy hoffa's death,0.29021257,0.0002803393256286,0.3166666666666666,0.128,False,0.0052985334768891335,0.020409392192959785,0.041848987340927124
-"now, if you're probably under 30 years old, maybe even 40, you'll say who's jimmy hoffa in which case you can watch this movie and learn a thing or two",0.07571117,0.8193554901741752,0.45,0.0,False,0.02837301231920719,0.0020339845214039087,0.006433297414332628
-it's directed by award-winning martin scorsese,0.020269485,0.0002677022988301,0.5,0.0,False,0.0010915269376710057,0.0007637219387106597,0.002066481625661254
-"the movie features a master class in acting, no doubt by the legendary robert de niro and al pacino, and that's really why you want to see this movie",0.05133759,0.0,0.3,0.0,False,0.0006208825507201254,0.00042929398478008807,0.0002519211848266423
-they're both incredible,0.04234509,0.0007952981676668,0.0499999999999999,0.0,False,0.0006372197531163692,0.000334724725689739,0.0014496247749775648
-as expected,0.02517722,0.015505125208496,0.55,0.0,False,0.0008090217015706003,0.00045148146455176175,0.0005675612483173609
-"it's based on the book called i heard you paint houses, which i thought would also be a really good name for a title",0.016173938,0.9903405428366,0.15,0.0,False,0.0006323267007246614,0.0004029791452921927,0.0007838763995096087
-"but it's called the irishman, which is actually a really good title as well",0.05253629,0.057488994163005,0.15,0.0,False,0.0006806600722484291,0.0013017760356888175,0.000532597943674773
-at,0.02054715,0.2176206588683494,0.5,0.0,False,0.0009474619873799384,0.007005072198808193,0.0009852588409557939
-"by the time you finish watching the movie, you're gonna go",0.04406188,0.00047651128409,0.5,0.0,False,0.0014123410219326615,0.0034763007424771786,0.002654298674315214
-"yeah, that was a good title",0.033074442,0.0372006350940486,0.15,0.0,False,0.0007092292653396726,0.0004052825679536909,0.00039588267100043595
-cinephiles are going to be analyzing this film for decades as classic scorsese art,0.06332459,0.0001487533036585,0.4166666666666667,0.0,False,0.003115945728495717,0.004509413614869118,0.007467631250619888
-"it's no question that we'll see some oscar nominations for best acting, best director",0.014855034,0.0007001628149764,0.1666666666666666,0.102,False,0.0006433152011595666,0.00047694233944639564,0.0005635211709886789
-all that kind of stuff now some quick tips for parents,0.03994159,0.2149023271084849,0.2666666666666666,0.0,False,0.001182091305963695,0.0005117986584082246,0.0006902588647790253
-"kids are not going to be interested in this movie, nor should they watch it",0.13969667,0.9999901645781992,0.375,0.0,False,0.0011729593388736248,0.0014821316581219435,0.004956115502864122
-it's rated r,0.14687516,0.0018679552301137,0.5,0.0,False,0.0013429871760308743,0.0008900600951164961,0.0007582352845929563
-"people get shot to death with blood splatters, blood pools of blood, lots of violence, lots of shooting, lots of beating up that kind of stuff",0.44750816,0.9996787393588188,0.2,0.324,False,0.9054276347160339,0.35103607177734375,0.6238909363746643
-you see a bunch of cow parts hanging in a truck,0.3544517,0.9999234625358054,0.5666666666666667,0.0,False,0.24183538556098938,0.008699998259544373,0.030075553804636
-"you know, it's a meat truck",0.13017663,0.1103542671245721,0.5,0.0,False,0.02015712484717369,0.008607125841081142,0.014814282767474651
-a man beats up another man and breaks his hands in front of a little girl,0.39206567,0.9637836521937342,0.59375,0.0,False,0.6813720464706421,0.1067521870136261,0.32938700914382935
-"there's tons of profanity, crude language, and a bazillion f-bombs like exhausting number",0.31661135,0.9999569029699278,0.775,0.326,False,0.035932768136262894,0.01678002066910267,0.09413086622953415
-you see topless men in a sauna,0.35336453,0.9992067285253102,0.5,0.0,False,0.1622505933046341,0.027544528245925903,0.0305631123483181
-"you know, they're just sitting in a sauna and then some racial slurs",0.31693128,0.9999850978457564,0.5,0.0,False,0.08360742032527924,0.08348049968481064,0.04598318785429001
-"some themes are dishonesty, pride, loyalty, power and control",0.13835071,0.1389009828149549,0.5,0.0,False,0.0021131206303834915,0.03164862468838692,0.0007155409548431635
-"now, some things that i really like is our",0.029984225,0.0006083953491449,0.4,0.0,False,0.0006698549259454012,0.0005236142314970493,0.002154225716367364
-first of all,0.023632111,0.0028038105166052,0.375,0.0,False,0.0012175830779597163,0.0004266318283043802,0.0006085505010560155
-i mentioned the actors,0.029125832,0.796328890067285,0.5,0.0,False,0.0005961341666989028,0.0006107960361987352,0.00043095272849313915
-the two leading men,0.027580723,0.0001498262587641,0.5,0.0,False,0.0006844557356089354,0.003834388218820095,0.005559992510825396
-"the cast was really great and includes four oscar winners, robert deniro, al pacino joe pesci and anna paquin, i really like anna, and i was expecting to see more of her",0.029984225,0.0008779753194097,0.25,0.0,False,0.0006257890490815043,0.0005029051681049168,0.0003491680254228413
-"she, i think has one line in the entire movie and she mostly just kind of looks and stares, so that seemed like a waste of talent for her, but anyway, it was still nice to see her in the movie and the other three that i just mentioned, phenomenal and i hadn't seen joe pesci in anything in quite a while, so i just loved to seeing him",0.11085691,6.378122016216166e-06,0.3390625,0.024,False,0.0009477765997871757,0.0006049151998013258,0.0012145217042416334
-"other standouts are bobby cannavale e steven van sant, harvey keitel ray romano, jesse plemons and a million more italians in hollywood",0.079307266,0.0004975829301903,0.40625,0.0,False,0.0011810209834948182,0.00534890778362751,0.01443119253963232
-rumor has it that joe pesci actually refused this role more than 50 times because he didn't want to come out of retirement,0.027237365,0.9289757069850212,0.375,0.14,False,0.0010019218316301703,0.0004571171884890646,0.0005950272316113114
-but i'm so glad he did,0.036336336,0.0056452638748295,0.25,0.0,False,0.001040587667375803,0.0003919136361218989,0.0005426937132142484
-he is just outstanding,0.040628307,0.0106294681874175,0.25,0.0,False,0.0006422713049687445,0.0004883542424067855,0.00391078507527709
-"i already said that ray liotta, however is missing in the movie",0.043031808,0.9186196635236632,0.6,0.167,False,0.0007089714636094868,0.0007263905717991292,0.006437357980757952
-"i don't know if he got an invitation or not, but he should have been",0.031357653,0.0581165238781986,0.5,0.0,False,0.0009595676674507558,0.004378726240247488,0.0019136082846671343
-i really liked him and he would have been perfect in this movie,0.036679696,0.0011085712541736,0.0999999999999999,0.0,False,0.0006044365582056344,0.00038958177901804447,0.00045741492067463696
-it was also really fascinating to learn about some of the real-life people and how everything was connected and how things might have gone down,0.032387726,0.0018564209627292,0.3638888888888889,0.0,False,0.0005912663764320314,0.0003406062605790794,0.00037101650377735496
-"of course, we still don't know the facts of everything, so it was just an interesting perspective and it could have easily happened this way",0.023117077,0.8410968688904893,0.2666666666666666,0.0,False,0.0005720447516068816,0.00035250632208772004,0.0002822228998411447
-"i'm always in summary, impressed with the technology that makes actors look younger",0.029640866,0.0002115211773321,0.25,0.0,False,0.0006033294484950602,0.0005499286926351488,0.0009416160173714161
-so the special effects were just amazing,0.042001735,0.0029766457015212,0.2607142857142857,0.0,False,0.0006170327542349696,0.00035758456215262413,0.000445567216956988
-"they were provided by industrial light and magic, and that was half the fun was watching some of these older actors go back in time",0.032731086,0.8853741495787638,0.3999999999999999,0.0,False,0.0006743090343661606,0.0005012483452446759,0.000639676523860544
-"they're actually joe pesci and robert de niro actually speak italian in the movie with no subtitles or at least than the one that i saw, there were no subtitles",0.06332459,0.9999034638448108,0.5375,0.136,False,0.0007814733544364572,0.00045392781612463295,0.0002873788180295378
-"they talked about the war and then they quickly transition to english, but the italian sounded pretty good and gave a really nice authentic flare",0.09870692,0.0013868540825166,0.3297619047619047,0.069,False,0.0005694851861335337,0.000536912411917001,0.0006749259191565216
-i thought it was super interesting to read on the screen how various people in the mafia were found dead,0.1256687,0.0043582244214357,0.4208333333333333,0.154,False,0.0008570190402679145,0.0016480482881888747,0.004097756929695606
-"not at the very end of the movie, although there's a little bit of that, but during the movie as new characters are introduced, it'll say on the screen, found shot dead 14 times in the head or the heart or whatever, and i was just like whoa, so that was kind of a really interesting and actually kind of a cool element that i really liked it",0.112144895,0.0097070546440537,0.3556186868686868,0.068,False,0.000700002652592957,0.0068351649679243565,0.0005112749640829861
-"the music was perfect, set the tone, although there was one song that they played over and over again",0.055333257,0.776925271895765,0.0,0.0,False,0.0005906032165512443,0.00035698339343070984,0.0003938386798836291
-whatever,0.025692256,0.9954278402522446,0.5,0.0,False,0.0013486704556271434,0.000518036016728729,0.000670344743411988
-"now, some things that i didn't like and this list is very short",0.08501353,0.9999796138529948,0.5,0.15,False,0.0010558179346844554,0.0018263463862240314,0.000648428569547832
-"first of all, the movie is really really long",0.062925026,0.9305300016726178,0.45,0.0,False,0.0007811100222170353,0.0004167166771367192,0.0005081259878352284
-too long,0.04680874,0.9951570085010232,0.525,0.0,False,0.006357284728437662,0.0005759188788942993,0.0005485769943334162
-i think some things could have easily been cut out,0.06612156,0.9996677713732957,0.2833333333333333,0.168,False,0.0006897692801430821,0.0010266364552080631,0.00040625734254717827
-"some people say, oh, not a minute was wasted",0.112788886,0.0495209911148587,0.6,0.286,False,0.0035453676246106625,0.0013187313452363014,0.003156905760988593
-"it was perfection and actually, there was some talk that they were going to turn this into a two-part series which i think would have been good or better for the average viewer",0.023460433,0.7952415990893711,0.36875,0.0,False,0.0005836354685015976,0.00033586908830329776,0.0003253005852457136
-it's just really really long,0.027580723,0.9948726455937488,0.525,0.0,False,0.0007339410367421806,0.00033656865707598627,0.0006722598918713629
-this is actually the longest film ever directed by martin scorsese and the longest feature film released in over 20 years,0.036508016,0.9882184760723264,0.5,0.0,False,0.0012462158920243382,0.0003545931540429592,0.00040327527676708996
-it took 106 days to film,0.046465382,0.8930869681376444,0.5,0.0,False,0.0008370903669856489,0.00045236499863676727,0.0007151925237849355
-also the longest shooting of scorsese scorsese's career,0.101391904,0.9026724808116882,0.5,0.0,False,0.001298726536333561,0.004996048752218485,0.1353435069322586
-and so another item was that there's some jumping back back and forth quite a bit from past a present that might confuse viewers,0.06492286,0.9898023068296334,0.53125,0.076,False,0.0007437216117978096,0.00037677594809792936,0.0003721147950273007
-and then the only other pro are,0.028954152,0.0046634205403425,0.53125,0.0,False,0.0013149618171155453,0.0011621392332017422,0.0018035310786217451
-the only other thing that i didn't care for was just so much profanity for me,0.21539254,0.9990525210331984,0.4875,0.149,False,0.02666843868792057,0.06809981167316437,0.07615912705659866
-it's just exhausting to sit through all of that,0.06132676,0.9999915355763896,0.7,0.238,False,0.0008145187748596072,0.00035003607627004385,0.0011841384693980217
-"i want to see the art, and of course it represents how they",0.02655065,0.0002926485050337,0.5,0.0,False,0.0005430686287581921,0.0004404194187372923,0.0005263147759251297
-"they would have spoken back then, but it's just exhausting anyway",0.062925026,0.9999549954941848,0.6,0.245,False,0.0006125543150119483,0.00038081512320786715,0.004474306013435125
-that's it,0.030842619,0.0019639847120587,0.5,0.0,False,0.0024011139757931232,0.00048730566049925983,0.0011659142328426242
-i thought it was really really well done,0.025863936,0.0101411842014752,0.4,0.0,False,0.0005795214092358947,0.0003133161226287484,0.0004534354666247964
-"i think you'll enjoy it if you like this type of topic or subject matter, and then just to see the outstanding actors, be sure and visit movie review, mom, calm, where you'll see some funny lines",0.021102477,0.0619148743647062,0.3513888888888888,0.0,False,0.0006615473539568484,0.0005836955970153213,0.0005663739866577089
-some interesting lines that offer some unique insights and also some recommendations for film,0.023803791,8.121674062705165e-05,0.28125,0.0,False,0.0005614054389297962,0.0003405177849344909,0.00021568662486970425
-i'll give you a quick recommendation as a no-brainer if you like this movie,0.3123962,0.0002200154052509,0.3333333333333333,0.0,False,0.016910307109355927,0.0009863685118034482,0.030150333419442177
-"of course, you're gonna like the godfather if you go into movie review, mom, calm, i've got a click where you can get the trilogy anyway",0.05653196,0.0015603747665279,0.35,0.0,False,0.001571747357957065,0.0033443004358559847,0.0016591523308306932
-thank you for spending a few minutes with me,0.05373499,0.0273709953291879,0.6,0.0,False,0.0006871023215353489,0.0012162303319200873,0.0023478567600250244
-"i hope you enjoy this film if you, if you do, or if you don't be sure, and comment down below and i will see you next time",0.17661177,0.0067570539943197,0.4069444444444444,0.059,False,0.0005529122427105904,0.0035592690110206604,0.00042084974120371044
-"bye for now, you",0.16482529,0.0126908235753033,0.5,0.0,False,0.00721736578270793,0.0021885139867663383,0.005225286353379488
+"hi, welcome back to movie review, mom",0.067320265,0.0,0.0,0.0,False,0.0074245100840926,0.0013407373335212,0.0029339722823351
+thank you for subscribing,0.016798683,0.0,0.0,0.0,False,0.0010092195589095,0.0005684870411641,0.0002164594188798
+i really do appreciate it and be sure to ring that little bell or click on it and it'll notify you every time i upload a new movie review and check out our facebook group,0.039598234,0.0,0.0,0.0,False,0.0005942768766544,0.0004583002300933,0.0006004004972055
+"it's called movie review, mom, alright today, the movie i'm reviewing is the irishman it's actually now on netflix, dvd and streaming",0.043718524,0.8867048025131226,0.0,0.0,False,0.000791193335317,0.0029759008903056,0.0008089365437626
+"i don't normally review movies once they're on netflix already, but this one is such a feature film quality and of epic proportion, but i couldn't dismiss it",0.040284947,0.0,0.0,0.0,False,0.0006127960514277,0.0003892274398822,0.0004243618168402
+it's actually rated r,0.1024659,0.0,0.0,0.0,False,0.0010369414230808,0.0006809400510974,0.0013900666963309
+"it's 3 hours and 29 minutes long, and the movie review mom grade that i'm gonna give it is an a / a",0.0753116,0.5352611541748047,0.05,0.0,False,0.002616940299049,0.0094416756182909,0.002347479108721
+"- and i'll tell you why, but first, let me give you a quick nutshell",0.30337667,0.0,0.0,0.0,False,0.4474380612373352,0.0140340374782681,0.0045334990136325
+i'll tell you some themes,0.06132676,0.0,0.0,0.0,False,0.000692234490998,0.0004213243955746,0.0005696472362615
+"some, give you some tips for parents, and then tell you the things that i liked and didn't like",0.039598234,0.9130280613899231,0.0,0.096,False,0.0023355903103947,0.0007065055542625,0.0005172078381292
+so first in a quick nutshell,0.17449278,0.0,0.0,0.0,False,0.0176630280911922,0.0007130777230486,0.0011805682443082
+if you love italians and all things mob-related you're really gonna enjoy this drama based on the events surrounding jimmy hoffa's death,0.29021257,0.0,0.0,0.128,False,0.0052985334768891,0.0204093921929597,0.0418489873409271
+"now, if you're probably under 30 years old, maybe even 40, you'll say who's jimmy hoffa in which case you can watch this movie and learn a thing or two",0.07571117,0.6387350559234619,0.0,0.0,False,0.0283730123192071,0.0020339845214039,0.0064332974143326
+it's directed by award-winning martin scorsese,0.020269485,0.0,0.0,0.0,False,0.001091526937671,0.0007637219387106,0.0020664816256612
+"the movie features a master class in acting, no doubt by the legendary robert de niro and al pacino, and that's really why you want to see this movie",0.05133759,0.0,0.0,0.0,False,0.0006208825507201,0.00042929398478,0.0002519211848266
+they're both incredible,0.04234509,0.0,0.0,0.0,False,0.0006372197531163,0.0003347247256897,0.0014496247749775
+as expected,0.02517722,0.0,0.1,0.0,False,0.0008090217015706,0.0004514814645517,0.0005675612483173
+"it's based on the book called i heard you paint houses, which i thought would also be a really good name for a title",0.016173938,0.980682373046875,0.0,0.0,False,0.0006323267007246,0.0004029791452921,0.0007838763995096
+"but it's called the irishman, which is actually a really good title as well",0.05253629,0.0,0.0,0.0,False,0.0006806600722484,0.0013017760356888,0.0005325979436747
+at,0.02054715,0.0,0.0,0.0,False,0.0009474619873799,0.0070050721988081,0.0009852588409557
+"by the time you finish watching the movie, you're gonna go",0.04406188,0.0,0.0,0.0,False,0.0014123410219326,0.0034763007424771,0.0026542986743152
+"yeah, that was a good title",0.033074442,0.0,0.0,0.0,False,0.0007092292653396,0.0004052825679536,0.0003958826710004
+cinephiles are going to be analyzing this film for decades as classic scorsese art,0.06332459,0.0,0.0,0.0,False,0.0031159457284957,0.0045094136148691,0.0074676312506198
+"it's no question that we'll see some oscar nominations for best acting, best director",0.014855034,0.0,0.0,0.102,False,0.0006433152011595,0.0004769423394463,0.0005635211709886
+all that kind of stuff now some quick tips for parents,0.03994159,0.0,0.0,0.0,False,0.0011820913059636,0.0005117986584082,0.000690258864779
+"kids are not going to be interested in this movie, nor should they watch it",0.13969667,0.9999803304672241,0.0,0.0,False,0.0011729593388736,0.0014821316581219,0.0049561155028641
+it's rated r,0.14687516,0.0,0.0,0.0,False,0.0013429871760308,0.0008900600951164,0.0007582352845929
+"people get shot to death with blood splatters, blood pools of blood, lots of violence, lots of shooting, lots of beating up that kind of stuff",0.44750816,0.9993575215339661,0.0,0.324,False,0.905427634716034,0.3510360717773437,0.6238909363746643
+you see a bunch of cow parts hanging in a truck,0.3544517,0.9998469352722168,0.1333333333333333,0.0,False,0.2418353855609893,0.0086999982595443,0.030075553804636
+"you know, it's a meat truck",0.13017663,0.0,0.0,0.0,False,0.0201571248471736,0.0086071258410811,0.0148142827674746
+a man beats up another man and breaks his hands in front of a little girl,0.39206567,0.9275721311569214,0.1875,0.0,False,0.6813720464706421,0.1067521870136261,0.3293870091438293
+"there's tons of profanity, crude language, and a bazillion f-bombs like exhausting number",0.31661135,0.9999138116836548,0.55,0.326,False,0.0359327681362628,0.0167800206691026,0.0941308662295341
+you see topless men in a sauna,0.35336453,0.9984135627746582,0.0,0.0,False,0.1622505933046341,0.0275445282459259,0.0305631123483181
+"you know, they're just sitting in a sauna and then some racial slurs",0.31693128,0.9999701976776123,0.0,0.0,False,0.0836074203252792,0.0834804996848106,0.04598318785429
+"some themes are dishonesty, pride, loyalty, power and control",0.13835071,0.0,0.0,0.0,False,0.0021131206303834,0.0316486246883869,0.0007155409548431
+"now, some things that i really like is our",0.029984225,0.0,0.0,0.0,False,0.0006698549259454,0.000523614231497,0.0021542257163673
+first of all,0.023632111,0.0,0.0,0.0,False,0.0012175830779597,0.0004266318283043,0.000608550501056
+i mentioned the actors,0.029125832,0.5926849246025085,0.0,0.0,False,0.0005961341666989,0.0006107960361987,0.0004309527284931
+the two leading men,0.027580723,0.0,0.0,0.0,False,0.0006844557356089,0.00383438821882,0.0055599925108253
+"the cast was really great and includes four oscar winners, robert deniro, al pacino joe pesci and anna paquin, i really like anna, and i was expecting to see more of her",0.029984225,0.0,0.0,0.0,False,0.0006257890490815,0.0005029051681049,0.0003491680254228
+"she, i think has one line in the entire movie and she mostly just kind of looks and stares, so that seemed like a waste of talent for her, but anyway, it was still nice to see her in the movie and the other three that i just mentioned, phenomenal and i hadn't seen joe pesci in anything in quite a while, so i just loved to seeing him",0.11085691,0.0,0.0,0.024,False,0.0009477765997871,0.0006049151998013,0.0012145217042416
+"other standouts are bobby cannavale e steven van sant, harvey keitel ray romano, jesse plemons and a million more italians in hollywood",0.079307266,0.0,0.0,0.0,False,0.0011810209834948,0.0053489077836275,0.0144311925396323
+rumor has it that joe pesci actually refused this role more than 50 times because he didn't want to come out of retirement,0.027237365,0.8579608798027039,0.0,0.14,False,0.0010019218316301,0.000457117188489,0.0005950272316113
+but i'm so glad he did,0.036336336,0.0,0.0,0.0,False,0.0010405876673758,0.0003919136361218,0.0005426937132142
+he is just outstanding,0.040628307,0.0,0.0,0.0,False,0.0006422713049687,0.0004883542424067,0.003910785075277
+"i already said that ray liotta, however is missing in the movie",0.043031808,0.8372501730918884,0.2,0.167,False,0.0007089714636094,0.0007263905717991,0.0064373579807579
+"i don't know if he got an invitation or not, but he should have been",0.031357653,0.0,0.0,0.0,False,0.0009595676674507,0.0043787262402474,0.0019136082846671
+i really liked him and he would have been perfect in this movie,0.036679696,0.0,0.0,0.0,False,0.0006044365582056,0.000389581779018,0.0004574149206746
+it was also really fascinating to learn about some of the real-life people and how everything was connected and how things might have gone down,0.032387726,0.0,0.0,0.0,False,0.000591266376432,0.000340606260579,0.0003710165037773
+"of course, we still don't know the facts of everything, so it was just an interesting perspective and it could have easily happened this way",0.023117077,0.6822149157524109,0.0,0.0,False,0.0005720447516068,0.0003525063220877,0.0002822228998411
+"i'm always in summary, impressed with the technology that makes actors look younger",0.029640866,0.0,0.0,0.0,False,0.000603329448495,0.0005499286926351,0.0009416160173714
+so the special effects were just amazing,0.042001735,0.0,0.0,0.0,False,0.0006170327542349,0.0003575845621526,0.0004455672169569
+"they were provided by industrial light and magic, and that was half the fun was watching some of these older actors go back in time",0.032731086,0.7707635760307312,0.0,0.0,False,0.0006743090343661,0.0005012483452446,0.0006396765238605
+"they're actually joe pesci and robert de niro actually speak italian in the movie with no subtitles or at least than the one that i saw, there were no subtitles",0.06332459,0.9998069405555725,0.075,0.136,False,0.0007814733544364,0.0004539278161246,0.0002873788180295
+"they talked about the war and then they quickly transition to english, but the italian sounded pretty good and gave a really nice authentic flare",0.09870692,0.0,0.0,0.069,False,0.0005694851861335,0.000536912411917,0.0006749259191565
+i thought it was super interesting to read on the screen how various people in the mafia were found dead,0.1256687,0.0,0.0,0.154,False,0.0008570190402679,0.0016480482881888,0.0040977569296956
+"not at the very end of the movie, although there's a little bit of that, but during the movie as new characters are introduced, it'll say on the screen, found shot dead 14 times in the head or the heart or whatever, and i was just like whoa, so that was kind of a really interesting and actually kind of a cool element that i really liked it",0.112144895,0.0,0.0,0.068,False,0.0007000026525929,0.0068351649679243,0.0005112749640829
+"the music was perfect, set the tone, although there was one song that they played over and over again",0.055333257,0.5538802742958069,0.0,0.0,False,0.0005906032165512,0.0003569833934307,0.0003938386798836
+whatever,0.025692256,0.9908562898635864,0.0,0.0,False,0.0013486704556271,0.0005180360167287,0.0006703447434119
+"now, some things that i didn't like and this list is very short",0.08501353,0.9999592304229736,0.0,0.15,False,0.0010558179346844,0.001826346386224,0.0006484285695478
+"first of all, the movie is really really long",0.062925026,0.8610692620277405,0.0,0.0,False,0.000781110022217,0.0004167166771367,0.0005081259878352
+too long,0.04680874,0.9903146624565125,0.05,0.0,False,0.0063572847284376,0.0005759188788942,0.0005485769943334
+i think some things could have easily been cut out,0.06612156,0.9993355870246887,0.0,0.168,False,0.000689769280143,0.001026636455208,0.0004062573425471
+"some people say, oh, not a minute was wasted",0.112788886,0.0,0.2,0.286,False,0.0035453676246106,0.0013187313452363,0.0031569057609885
+"it was perfection and actually, there was some talk that they were going to turn this into a two-part series which i think would have been good or better for the average viewer",0.023460433,0.5905104875564575,0.0,0.0,False,0.0005836354685015,0.0003358690883032,0.0003253005852457
+it's just really really long,0.027580723,0.9897459745407104,0.05,0.0,False,0.0007339410367421,0.0003365686570759,0.0006722598918713
+this is actually the longest film ever directed by martin scorsese and the longest feature film released in over 20 years,0.036508016,0.9764385223388672,0.0,0.0,False,0.0012462158920243,0.0003545931540429,0.000403275276767
+it took 106 days to film,0.046465382,0.7861881852149963,0.0,0.0,False,0.0008370903669856,0.0004523649986367,0.0007151925237849
+also the longest shooting of scorsese scorsese's career,0.101391904,0.8053579330444336,0.0,0.0,False,0.0012987265363335,0.0049960487522184,0.1353435069322586
+and so another item was that there's some jumping back back and forth quite a bit from past a present that might confuse viewers,0.06492286,0.9796059727668762,0.0625,0.076,False,0.0007437216117978,0.0003767759480979,0.0003721147950273
+and then the only other pro are,0.028954152,0.0,0.0625,0.0,False,0.0013149618171155,0.0011621392332017,0.0018035310786217
+the only other thing that i didn't care for was just so much profanity for me,0.21539254,0.9981051683425903,0.0,0.149,False,0.0266684386879205,0.0680998116731643,0.0761591270565986
+it's just exhausting to sit through all of that,0.06132676,0.9999830722808838,0.4,0.238,False,0.0008145187748596,0.00035003607627,0.001184138469398
+"i want to see the art, and of course it represents how they",0.02655065,0.0,0.0,0.0,False,0.0005430686287581,0.0004404194187372,0.0005263147759251
+"they would have spoken back then, but it's just exhausting anyway",0.062925026,0.9999099969863892,0.2,0.245,False,0.0006125543150119,0.0003808151232078,0.0044743060134351
+that's it,0.030842619,0.0,0.0,0.0,False,0.0024011139757931,0.0004873056604992,0.0011659142328426
+i thought it was really really well done,0.025863936,0.0,0.0,0.0,False,0.0005795214092358,0.0003133161226287,0.0004534354666247
+"i think you'll enjoy it if you like this type of topic or subject matter, and then just to see the outstanding actors, be sure and visit movie review, mom, calm, where you'll see some funny lines",0.021102477,0.0,0.0,0.0,False,0.0006615473539568,0.0005836955970153,0.0005663739866577
+some interesting lines that offer some unique insights and also some recommendations for film,0.023803791,0.0,0.0,0.0,False,0.0005614054389297,0.0003405177849344,0.0002156866248697
+i'll give you a quick recommendation as a no-brainer if you like this movie,0.3123962,0.0,0.0,0.0,False,0.0169103071093559,0.0009863685118034,0.0301503334194421
+"of course, you're gonna like the godfather if you go into movie review, mom, calm, i've got a click where you can get the trilogy anyway",0.05653196,0.0,0.0,0.0,False,0.001571747357957,0.0033443004358559,0.0016591523308306
+thank you for spending a few minutes with me,0.05373499,0.0,0.2,0.0,False,0.0006871023215353,0.00121623033192,0.002347856760025
+"i hope you enjoy this film if you, if you do, or if you don't be sure, and comment down below and i will see you next time",0.17661177,0.0,0.0,0.059,False,0.0005529122427105,0.0035592690110206,0.0004208497412037
+"bye for now, you",0.16482529,0.0,0.0,0.0,False,0.0072173657827079,0.0021885139867663,0.0052252863533794

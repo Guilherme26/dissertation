@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"me and pay got matching coupes , me and kid fucked ya boo",0.8742253,0.0,0.0,0.345,0.9979411959648132,0.9887458682060242,0.9379746913909912,True
+"me and pay got matching coupes , me and kid fucked ya boo",0.8742253,0.9969258904457092,0.6,0.345,0.9979411959648132,0.9887458682060242,0.9379746913909912,True

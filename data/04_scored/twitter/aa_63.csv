@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-do i wanna pay a $92 bill every month ? nope,0.058130227,0.0,0.0,0.123,0.0109965372830629,0.0084400903433561,0.0007746624760329,False
+do i wanna pay a $92 bill every month ? nope,0.058130227,0.9882501363754272,0.0,0.123,0.0109965372830629,0.0084400903433561,0.0007746624760329,False

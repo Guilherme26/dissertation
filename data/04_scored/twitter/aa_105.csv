@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-they itchin ' itchin ' itchin ' for that paper .,0.17034957,0.0,0.0,0.0,0.0341627560555934,0.000365368585335,0.0109375342726707,False
+they itchin ' itchin ' itchin ' for that paper .,0.17034957,0.9997009038925171,0.0,0.0,0.0341627560555934,0.000365368585335,0.0109375342726707,False

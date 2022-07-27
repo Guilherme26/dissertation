@@ -1,61 +1,61 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hey, everybody just watching movies here",0.0334178,0.0441917116179715,0.5,0.0,False,0.0008187348721548915,0.000889045069925487,0.0017616357654333115
-"if you guys like ranking videos, reaction videos, blu-rays funko, pops and movies",0.14059398,0.0603832417895195,0.5,0.0,False,0.0018906324403360486,0.0014259645249694586,0.0056284633465111256
-"consider subscribing to my channel and hitting that bell notification down below, so you don't miss a thing",0.21186037,0.9763718488138804,0.5777777777777778,0.0,False,0.0038122059777379036,0.000518958957400173,0.0010098634520545602
-"the shape of water is directed by guillermo del toro and stars sally hawkins as eliza, who is mute and works at a facility where michael shannon and other workers bring in this creature from south america that lives in the water",0.13206954,0.0592245835822459,0.5625,0.0,False,0.0017452094471082091,0.0015057465061545372,0.055190108716487885
-"it's like at the creature from the black lagoon or the creature from hellboy, that's why first thought of when i saw this creature, and she builds a connection and relationship with this creature",0.15217799,2.962512238990452e-05,0.4791666666666667,0.0,False,0.001060781767591834,0.02408582903444767,0.00578797934576869
-because he sees her for who she is,0.028439116,0.0008810344496659,0.5,0.0,False,0.0036603263579308987,0.0007565380656160414,0.0011379161151126027
-"he doesn't understand that she is mute and she can't speak, so he doesn't have that idea about her",0.20302857,0.999900186584624,0.5,0.0,False,0.038672637194395065,0.011092782020568848,0.28871241211891174
-so there she builds this connection because she really feels like she is missing something in her life,0.0813051,0.0034979997379637,0.5,0.105,False,0.0007677148096263409,0.0006364801665768027,0.0014441868988797069
-she feels like she is just not part of something,0.112788886,0.9994028481366156,0.5,0.0,False,0.0020985263399779797,0.0010754705872386694,0.00613727793097496
-"and having this creature in her life, it kind of fills that void and makes her feel a part of something",0.118584804,0.0002636159029564,0.2,0.0,False,0.0031096781603991985,0.0010702478466555476,0.005028910003602505
-"well, she was like how this creature is being treated, so she tries to break this creature out of this facility so she can care for this creature",0.19042583,0.9016314501253018,0.55,0.0,False,0.004939634818583727,0.023606207221746445,0.005446675233542919
-i was really looking forward to this movie,0.04165838,0.0003679595181345,0.4,0.0,False,0.000737254973500967,0.0005575622199103236,0.0003823768347501755
-i felt like guillermo del toro has some hit and miss movies,0.078108564,0.9995714192555666,0.5,0.113,False,0.0013961303047835827,0.012154902331531048,0.0024750754237174988
-"i really didn't care much for crimson peak and some other ones, but he did is a very stylish director and this is probably my favorite movie of guillermo del toro's and one of my favorite movies of this year",0.09387396,0.0,0.3395833333333333,0.042,False,0.0009955097921192646,0.0004532135499175638,0.0004348920192569494
-this movie is a masterpiece,0.06012806,0.0002053789923428,0.5,0.0,False,0.0032485255505889654,0.0005574917886406183,0.00035284823388792574
-it is so beautifully made that it really feels like a classic creature feature and a very romantic film,0.057331093,0.0001945005520286,0.3479166666666666,0.0,False,0.0006648539565503597,0.000408895721193403,0.0012795146321877837
-at that you can tell that there was a lot of care and love going into this movie,0.050585672,0.0005177541510638,0.25,0.0,False,0.0005964228766970336,0.0005866362480446696,0.0005128014017827809
-it feels like it does not belong in this time and i adored this movie,0.054534122,0.9895819114367398,0.5,0.0,False,0.0007450712146237493,0.0005917940870858729,0.0013970069121569395
-like no other,0.020408317,0.001197075493753,0.46875,0.386,False,0.0017954919021576643,0.0005947224562987685,0.00046363944420590997
-it is a terrific film,0.355017,0.0006593825027708,0.5,0.0,False,0.0006708477158099413,0.00037631308077834547,0.0012087211944162846
-"the one thing i fell in love with instantly in this movie is the relationship between sally hawkins and this creature, played by doug jones, which the costume looks so great, but i loved the relationship because when you're watching sally hawkins character, you really do feel like she's missing something in her life",0.07131593,2.6942767243937312e-05,0.3333333333333333,0.042,False,0.0007001000340096653,0.006715370807796717,0.007794488687068224
-"she has a neighbor that she goes to and he talks to her and such, but you feel like there's something missing and when she meets this creature and she feeds him eggs, and she kind of plays music for him and teaches them sign language",0.1423886,0.7928434109018782,0.4333333333333333,0.055,False,0.008381511084735394,0.002585342852398753,0.009024415165185928
-you feel that her character has shifted into someone completely different than we have witness,0.054534122,0.9968091895341415,0.5,0.0,False,0.0006912232493050396,0.0004406287334859371,0.0007242878782562912
-in the beginning part of the film,0.021102477,0.0350669652942585,0.5,0.0,False,0.0006575537263415754,0.0003253868198953569,0.00032291607931256294
-that's all due to the relationship between her and this creature,0.20669603,0.0788674703161638,0.5625,0.0,False,0.009281228296458721,0.006797270383685827,0.036721743643283844
-"she's not scared of him, and he's not scared of her, and he does understand that she's mute, so she's able to really truly develop a relationship that's not part of the barriers that is holding her and other humans back",0.050585672,0.0096966840487254,0.428125,0.0,False,0.02780013345181942,0.009938483126461506,0.004793358501046896
-it feels like a film that belongs in a different era,0.029984225,0.0022325241879885,0.5,0.0,False,0.00087742815958336,0.0003837380209006369,0.001533276168629527
-it has such great costume designs,0.04818217,0.0012082817774739,0.3,0.0,False,0.0008747243555262685,0.00040860133594833314,0.0007856663432903588
-the music is great,0.022351967,0.0037648344670953,0.0999999999999999,0.0,False,0.0006245164549909532,0.0003795605443883687,0.0008768505649641156
-the set locations is terrific,0.2712817,0.0003055798590177,0.5,0.0,False,0.0005961427232250571,0.00037281052209436893,0.0023063833359628916
-all the effort guillermo del toro put into this film definitely does show,0.043031808,0.0003411657706209,0.5,0.0,False,0.0007265668245963752,0.0005315706948749721,0.001695518963970244
-and it's something that i do really appreciate when watching this film is the overall feel that this movie gave,0.04543531,0.0001567389523626,0.45,0.0,False,0.000551433302462101,0.0003552275593392551,0.0003031045780517161
-also in this film is some really outstanding performances from sally hawkins,0.037194733,0.0001518511052078,0.25,0.0,False,0.0005776439793407917,0.0008680016617290676,0.02025550790131092
-"she did a lot in this movie without saying a lot, and michael shannon is just perfect",0.0669207,0.0003558889199777,0.0,0.0,False,0.0007150555611588061,0.0005913461209274828,0.0017052005277946591
-i watched the night before the other day and he was in that movie and i think he is a very versatile actor,0.0717155,0.0002460017708312,0.48125,0.0,False,0.0006207092083059251,0.0014039395609870553,0.0006766455480828881
-he could be in a comedy,0.077709,0.9920725377976624,0.5,0.0,False,0.0019884903449565172,0.0008297330350615084,0.0011428141733631492
-"he could be in a drama like this, and it just he is awesome",0.09602194,0.0023031595401656,0.0,0.0,False,0.0008764078957028687,0.0005478517268784344,0.007809734903275967
-everything about this movie impressed me,0.0801064,0.0009715192299232,0.0,0.0,False,0.0007424066425301135,0.0004364450287539512,0.0005683182971552014
-"it is a beautiful, sad romantic movie",0.05773066,0.0007653951389287,0.4416666666666666,0.226,False,0.000977394636720419,0.0015937399584800005,0.002264942741021514
-the relationship between the creature and sally hawkins is beautiful,0.08367105,0.0002493398127906,0.075,0.0,False,0.0007457450265064836,0.001669892342761159,0.010229417122900486
-"it is sad, it is heartbreaking",0.06492286,0.053362057979166,0.75,0.604,False,0.0031689840834587812,0.0004283399030100554,0.002317738952115178
-it is truthful,0.021102477,0.0005577808506308,0.25,0.0,False,0.0006460499716922641,0.00040912459371611476,0.0010070105781778693
-i love everything about their relationship and how guillermo del toro and really told that relationship without using any words,0.06012806,0.0015770161982062,0.325,0.0,False,0.0006626314716413617,0.000655973854009062,0.0026759502943605185
-i think that is tremendous,0.04680874,0.0025160491269172,0.3333333333333333,0.0,False,0.0006099966703914106,0.0003132196143269539,0.004788236226886511
-it is magnificent and is wise and he did a great job doing that,0.026722329,0.0015138020285996,0.0833333333333333,0.0,False,0.0005470236646942794,0.0003286509891040623,0.004356907214969397
-this movie is outstanding,0.034791227,0.0036843340087702,0.25,0.0,False,0.0006064327899366617,0.00048160128062590957,0.0003757733793463558
-"i'm gonna go ahead and give the shape of water an a+ give it a lot of 8 pluses lately, but this definitely deserves it",0.092262976,0.001776494009228,0.575,0.0,False,0.0007010080153122544,0.0006589140393771231,0.0013291598297655582
-it is something that is completely different than i've seen in recent memories and i adored this film,0.025005542,0.0014629863005565,0.5,0.0,False,0.0006467042258009315,0.0003502637555357069,0.00040482752956449986
-"make sure you go check out the shape of water, guys",0.104076885,0.0028516415596238,0.25,0.0,False,0.0009495359845459461,0.001931651378981769,0.0009613012662157416
-"if you have not seen it already, it's starting to expand into theaters",0.037194733,0.0165308480975127,0.5,0.0,False,0.0005942680290900171,0.00039570307126268744,0.0003944112977478653
-now,0.018742332,0.0840746369491917,0.5,0.0,False,0.0014697305159643292,0.0004906950052827597,0.0007275509997271001
-i'm curious to see what it will do for the oscars next year,0.032559406,7.060554823107023e-05,0.525,0.0,False,0.0006393266376107931,0.0006240095244720578,0.00041826703818514943
-comment down below with one of your favorite guillermo del toro films,0.049212243,0.0001711640622587,0.4138888888888888,0.0,False,0.0006672378513030708,0.000914068310521543,0.0009356020018458366
-this wahby,0.23365098,0.8200686003387397,0.5,0.0,False,0.3236514627933502,0.006186073645949364,0.011228682473301888
-this one is probably my favorite one,0.029640866,0.0006213824715363,0.25,0.0,False,0.0008481716504320502,0.00033270890708081424,0.0004722269659396261
-i can't wait for you guys to check it out,0.06252546,2.706198302820252e-05,0.5,0.0,False,0.0006525577628053725,0.002617140766233206,0.0011414428008720279
-i hope everybody is enjoying their 2007 remaining days and hope everybody is enjoying the holidays with their family and friends,0.027752401,0.0057981192756305,0.25,0.0,False,0.0006449663196690381,0.00043868180364370346,0.0002630840172059834
-you guys are the best as always,0.05373499,0.0004793368645843,0.0,0.0,False,0.0008216081187129021,0.0006449100328609347,0.007386308629065752
-i appreciate all the love and support that makes this channel grow,0.03616466,0.0088602064984285,0.25,0.0,False,0.0005633581895381212,0.0003545091603882611,0.00038755463901907206
-"you guys are the best as always, this, and just watching movies and you stay classy too",0.06412373,0.0028052666195446,0.2249999999999999,0.0,False,0.0010142422979697585,0.0006079887389205396,0.008930832147598267
+"hey, everybody just watching movies here",0.0334178,0.0,0.0,0.0,False,0.0008187348721548,0.0008890450699254,0.0017616357654333
+"if you guys like ranking videos, reaction videos, blu-rays funko, pops and movies",0.14059398,0.0,0.0,0.0,False,0.001890632440336,0.0014259645249694,0.0056284633465111
+"consider subscribing to my channel and hitting that bell notification down below, so you don't miss a thing",0.21186037,0.9527462720870972,0.1555555555555555,0.0,False,0.0038122059777379,0.0005189589574001,0.0010098634520545
+"the shape of water is directed by guillermo del toro and stars sally hawkins as eliza, who is mute and works at a facility where michael shannon and other workers bring in this creature from south america that lives in the water",0.13206954,0.0,0.125,0.0,False,0.0017452094471082,0.0015057465061545,0.0551901087164878
+"it's like at the creature from the black lagoon or the creature from hellboy, that's why first thought of when i saw this creature, and she builds a connection and relationship with this creature",0.15217799,0.0,0.0,0.0,False,0.0010607817675918,0.0240858290344476,0.0057879793457686
+because he sees her for who she is,0.028439116,0.0,0.0,0.0,False,0.0036603263579308,0.000756538065616,0.0011379161151126
+"he doesn't understand that she is mute and she can't speak, so he doesn't have that idea about her",0.20302857,0.9998003840446472,0.0,0.0,False,0.038672637194395,0.0110927820205688,0.2887124121189117
+so there she builds this connection because she really feels like she is missing something in her life,0.0813051,0.0,0.0,0.105,False,0.0007677148096263,0.0006364801665768,0.0014441868988797
+she feels like she is just not part of something,0.112788886,0.9988057613372803,0.0,0.0,False,0.0020985263399779,0.0010754705872386,0.0061372779309749
+"and having this creature in her life, it kind of fills that void and makes her feel a part of something",0.118584804,0.0,0.0,0.0,False,0.0031096781603991,0.0010702478466555,0.0050289100036025
+"well, she was like how this creature is being treated, so she tries to break this creature out of this facility so she can care for this creature",0.19042583,0.803273618221283,0.1,0.0,False,0.0049396348185837,0.0236062072217464,0.0054466752335429
+i was really looking forward to this movie,0.04165838,0.0,0.0,0.0,False,0.0007372549735009,0.0005575622199103,0.0003823768347501
+i felt like guillermo del toro has some hit and miss movies,0.078108564,0.9991428852081299,0.0,0.113,False,0.0013961303047835,0.012154902331531,0.0024750754237174
+"i really didn't care much for crimson peak and some other ones, but he did is a very stylish director and this is probably my favorite movie of guillermo del toro's and one of my favorite movies of this year",0.09387396,0.0,0.0,0.042,False,0.0009955097921192,0.0004532135499175,0.0004348920192569
+this movie is a masterpiece,0.06012806,0.0,0.0,0.0,False,0.0032485255505889,0.0005574917886406,0.0003528482338879
+it is so beautifully made that it really feels like a classic creature feature and a very romantic film,0.057331093,0.0,0.0,0.0,False,0.0006648539565503,0.0004088957211934,0.0012795146321877
+at that you can tell that there was a lot of care and love going into this movie,0.050585672,0.0,0.0,0.0,False,0.000596422876697,0.0005866362480446,0.0005128014017827
+it feels like it does not belong in this time and i adored this movie,0.054534122,0.9791649580001831,0.0,0.0,False,0.0007450712146237,0.0005917940870858,0.0013970069121569
+like no other,0.020408317,0.0,0.0,0.386,False,0.0017954919021576,0.0005947224562987,0.0004636394442059
+it is a terrific film,0.355017,0.0,0.0,0.0,False,0.0006708477158099,0.0003763130807783,0.0012087211944162
+"the one thing i fell in love with instantly in this movie is the relationship between sally hawkins and this creature, played by doug jones, which the costume looks so great, but i loved the relationship because when you're watching sally hawkins character, you really do feel like she's missing something in her life",0.07131593,0.0,0.0,0.042,False,0.0007001000340096,0.0067153708077967,0.0077944886870682
+"she has a neighbor that she goes to and he talks to her and such, but you feel like there's something missing and when she meets this creature and she feeds him eggs, and she kind of plays music for him and teaches them sign language",0.1423886,0.5857093930244446,0.0,0.055,False,0.0083815110847353,0.0025853428523987,0.0090244151651859
+you feel that her character has shifted into someone completely different than we have witness,0.054534122,0.9936187267303467,0.0,0.0,False,0.000691223249305,0.0004406287334859,0.0007242878782562
+in the beginning part of the film,0.021102477,0.0,0.0,0.0,False,0.0006575537263415,0.0003253868198953,0.0003229160793125
+that's all due to the relationship between her and this creature,0.20669603,0.0,0.125,0.0,False,0.0092812282964587,0.0067972703836858,0.0367217436432838
+"she's not scared of him, and he's not scared of her, and he does understand that she's mute, so she's able to really truly develop a relationship that's not part of the barriers that is holding her and other humans back",0.050585672,0.0,0.0,0.0,False,0.0278001334518194,0.0099384831264615,0.0047933585010468
+it feels like a film that belongs in a different era,0.029984225,0.0,0.0,0.0,False,0.0008774281595833,0.0003837380209006,0.0015332761686295
+it has such great costume designs,0.04818217,0.0,0.0,0.0,False,0.0008747243555262,0.0004086013359483,0.0007856663432903
+the music is great,0.022351967,0.0,0.0,0.0,False,0.0006245164549909,0.0003795605443883,0.0008768505649641
+the set locations is terrific,0.2712817,0.0,0.0,0.0,False,0.000596142723225,0.0003728105220943,0.0023063833359628
+all the effort guillermo del toro put into this film definitely does show,0.043031808,0.0,0.0,0.0,False,0.0007265668245963,0.0005315706948749,0.0016955189639702
+and it's something that i do really appreciate when watching this film is the overall feel that this movie gave,0.04543531,0.0,0.0,0.0,False,0.0005514333024621,0.0003552275593392,0.0003031045780517
+also in this film is some really outstanding performances from sally hawkins,0.037194733,0.0,0.0,0.0,False,0.0005776439793407,0.000868001661729,0.0202555079013109
+"she did a lot in this movie without saying a lot, and michael shannon is just perfect",0.0669207,0.0,0.0,0.0,False,0.0007150555611588,0.0005913461209274,0.0017052005277946
+i watched the night before the other day and he was in that movie and i think he is a very versatile actor,0.0717155,0.0,0.0,0.0,False,0.0006207092083059,0.001403939560987,0.0006766455480828
+he could be in a comedy,0.077709,0.9841459393501282,0.0,0.0,False,0.0019884903449565,0.0008297330350615,0.0011428141733631
+"he could be in a drama like this, and it just he is awesome",0.09602194,0.0,0.0,0.0,False,0.0008764078957028,0.0005478517268784,0.0078097349032759
+everything about this movie impressed me,0.0801064,0.0,0.0,0.0,False,0.0007424066425301,0.0004364450287539,0.0005683182971552
+"it is a beautiful, sad romantic movie",0.05773066,0.0,0.0,0.226,False,0.0009773946367204,0.00159373995848,0.0022649427410215
+the relationship between the creature and sally hawkins is beautiful,0.08367105,0.0,0.0,0.0,False,0.0007457450265064,0.0016698923427611,0.0102294171229004
+"it is sad, it is heartbreaking",0.06492286,0.0,0.5,0.604,False,0.0031689840834587,0.00042833990301,0.0023177389521151
+it is truthful,0.021102477,0.0,0.0,0.0,False,0.0006460499716922,0.0004091245937161,0.0010070105781778
+i love everything about their relationship and how guillermo del toro and really told that relationship without using any words,0.06012806,0.0,0.0,0.0,False,0.0006626314716413,0.000655973854009,0.0026759502943605
+i think that is tremendous,0.04680874,0.0,0.0,0.0,False,0.0006099966703914,0.0003132196143269,0.0047882362268865
+it is magnificent and is wise and he did a great job doing that,0.026722329,0.0,0.0,0.0,False,0.0005470236646942,0.000328650989104,0.0043569072149693
+this movie is outstanding,0.034791227,0.0,0.0,0.0,False,0.0006064327899366,0.0004816012806259,0.0003757733793463
+"i'm gonna go ahead and give the shape of water an a+ give it a lot of 8 pluses lately, but this definitely deserves it",0.092262976,0.0,0.15,0.0,False,0.0007010080153122,0.0006589140393771,0.0013291598297655
+it is something that is completely different than i've seen in recent memories and i adored this film,0.025005542,0.0,0.0,0.0,False,0.0006467042258009,0.0003502637555357,0.0004048275295644
+"make sure you go check out the shape of water, guys",0.104076885,0.0,0.0,0.0,False,0.0009495359845459,0.0019316513789817,0.0009613012662157
+"if you have not seen it already, it's starting to expand into theaters",0.037194733,0.0,0.0,0.0,False,0.00059426802909,0.0003957030712626,0.0003944112977478
+now,0.018742332,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+i'm curious to see what it will do for the oscars next year,0.032559406,0.0,0.05,0.0,False,0.0006393266376107,0.000624009524472,0.0004182670381851
+comment down below with one of your favorite guillermo del toro films,0.049212243,0.0,0.0,0.0,False,0.000667237851303,0.0009140683105215,0.0009356020018458
+this wahby,0.23365098,0.6401568055152893,0.0,0.0,False,0.3236514627933502,0.0061860736459493,0.0112286824733018
+this one is probably my favorite one,0.029640866,0.0,0.0,0.0,False,0.000848171650432,0.0003327089070808,0.0004722269659396
+i can't wait for you guys to check it out,0.06252546,0.0,0.0,0.0,False,0.0006525577628053,0.0026171407662332,0.001141442800872
+i hope everybody is enjoying their 2007 remaining days and hope everybody is enjoying the holidays with their family and friends,0.027752401,0.0,0.0,0.0,False,0.000644966319669,0.0004386818036437,0.0002630840172059
+you guys are the best as always,0.05373499,0.0,0.0,0.0,False,0.0008216081187129,0.0006449100328609,0.0073863086290657
+i appreciate all the love and support that makes this channel grow,0.03616466,0.0,0.0,0.0,False,0.0005633581895381,0.0003545091603882,0.000387554639019
+"you guys are the best as always, this, and just watching movies and you stay classy too",0.06412373,0.0,0.0,0.0,False,0.0010142422979697,0.0006079887389205,0.0089308321475982

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user wat r u doin boy,0.03753809,0.0,0.0,0.0,0.0481133982539176,0.0145814064890146,0.1460049301385879,False
+@user wat r u doin boy,0.03753809,0.9049710035324097,0.0,0.0,0.0481133982539176,0.0145814064890146,0.1460049301385879,False

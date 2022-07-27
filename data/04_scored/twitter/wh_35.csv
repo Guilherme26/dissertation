@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-i was offered a contract with dbg but i'm still weighing my options,0.019436494,0.0,0.0,0.0,0.0006980204489082,0.0004999959492124,0.0004462823562789,False
+i was offered a contract with dbg but i'm still weighing my options,0.019436494,0.9619654417037964,0.0,0.0,0.0006980204489082,0.0004999959492124,0.0004462823562789,False

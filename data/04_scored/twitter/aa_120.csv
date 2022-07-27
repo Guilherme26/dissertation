@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user fatty ... it ain't pineapple pizza tho lol,0.36439645,0.0,0.0,0.0,0.4437335133552551,0.0952965468168258,0.0083096381276845,False
+@user fatty ... it ain't pineapple pizza tho lol,0.36439645,0.9513860940933228,0.0,0.0,0.4437335133552551,0.0952965468168258,0.0083096381276845,False

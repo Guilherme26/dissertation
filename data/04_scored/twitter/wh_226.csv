@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-heavy words can brake me down #lana,0.10892494,0.0,0.0,0.0,0.0028159155044704,0.0010190808679908,0.0037060361355543,False
+heavy words can brake me down #lana,0.10892494,0.0,0.1777777777777778,0.0,0.0028159155044704,0.0010190808679908,0.0037060361355543,False

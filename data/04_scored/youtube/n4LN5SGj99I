@@ -1,116 +1,116 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"wow, i, i knew that logan was going to be brutal",0.32044756,0.9419663762978138,0.69375,0.243,False,0.013785130344331264,0.31871116161346436,0.2492990791797638
-"i hoped it would be brutal, but i was not prepared that the deepest cuts would be emotional",0.16620636,0.99709374827133,0.71875,0.306,False,0.0008484428399242461,0.09951797127723694,0.09765470772981644
-i mean this is a tour-de-force they swear a lot in the movie,0.10699297,0.0026882604955297,0.65625,0.091,False,0.001492336974479258,0.01680532470345497,0.0035836638417094946
-"i mean it's earned it fits, but boy, there's a lot of swearing in here, so i say, with the utmost respect",0.08689302,0.2001265624791367,0.65625,0.094,False,0.0005570235662162304,0.004788808990269899,0.0023452111054211855
-"this is a tour de force for hugh jackman, patrick stewart and james mangold, and congrats non-callable greeters",0.08555053,0.0009085948512819,0.5,0.0,False,0.0009316523792222142,0.021186992526054382,0.00451862346380949
-you finally get to meet wolverine,0.051737156,4.0385305018435965e-05,0.5,0.0,False,0.02586439810693264,0.0006621437496505678,0.0021855763625353575
-this is the first time that i've seen a comic book character accurately portrayed on the silver screen as they are in the comics,0.038053125,0.033249266328658,0.35,0.0,False,0.0007143176044337451,0.0006200643838383257,0.000554157595615834
-like wasting special things done with comic book characters on the big screen before,0.24418297,0.999867220270216,0.3988095238095238,0.143,False,0.0014954780926927924,0.0021265754476189613,0.0020085012074559927
-"but never have i watched a movie and said, i feel like i'm reading one of those comic book stories",0.048525527,0.999435410455377,0.375,0.0,False,0.0009264241671189666,0.0005996764521114528,0.0005345967947505414
-"i had that feeling a little bit with the first avengers, but that's a whole different type of story",0.054534122,0.0156636566351357,0.4671875,0.0,False,0.0005862927646376193,0.00036745326360687613,0.0003142407804261893
-"wolverine comics tend to be a little bit a little more drama, a little more",0.13565879,0.9591857166087742,0.45625,0.0,False,0.0007697154069319367,0.0006877226987853646,0.0012489371001720428
-storing them,0.18450552,0.0054145219238259,0.5,0.0,False,0.0011691966792568564,0.06393470615148544,0.012274893932044506
-"you know, it's not like 90% fighting, so to have that transposed to the big screen is incredibly satisfying",0.09118898,7.701522373995464e-05,0.375,0.09,False,0.0014492409536615014,0.0005525534506887197,0.0008982568397186697
-"and also for all of you who like to still write up comic books as well as the funny pages, right, or like a lesser form of storytelling? well, i'm telling you, this is what",0.09333697,0.0022526952943936,0.4017857142857143,0.0,False,0.000804475974291563,0.0007526123081333935,0.0009341936092823744
-this is what we're reading,0.024833864,0.0009620047897269,0.5,0.0,False,0.0007948659476824105,0.00037272775080055,0.0005834372132085264
-"you're getting it right here, and this is from the very first scene",0.025863936,8.088982864947248e-05,0.3473214285714285,0.0,False,0.0007051945431157947,0.0003710517194122076,0.0006137219024822116
-the first scene,0.031185975,0.0093065923600898,0.375,0.0,False,0.0007242985884658992,0.000372487265849486,0.00036993998219259083
-"i felt like again, i was reading a wolverine story",0.026035614,0.0007649662277514,0.5,0.0,False,0.0006426475010812283,0.0007899370975792408,0.0007606231956742704
-"it was perfect on every level, and that, of course includes the fighting",0.094410956,0.0004685887568264,0.0,0.145,False,0.0005996715626679361,0.0005372981540858746,0.0008123028092086315
-it was a thrill to finally see a wolverine fight done correctly brought to life on the big screen,0.15626417,0.0001078928444034,0.5,0.118,False,0.0007552116876468062,0.000475464592454955,0.001122399466112256
-it was just as magical as i'd hoped it would be,0.036336336,0.0022303119998779,0.25,0.0,False,0.0006366100278683007,0.0003407704352866858,0.004659000318497419
-"i was like that's exactly how he would do it, and it wasn't overly gory",0.112788886,0.0105255728692772,0.5625,0.0,False,0.0008003333350643516,0.001718109822832048,0.003216302255168557
-"i mean, it was just it was just right",0.020269485,0.8139590271856587,0.5066964285714286,0.0,False,0.0007370610837824643,0.00030955628608353436,0.0012632686411961913
-"you know, like they didn't err on the side of caution",0.026035614,0.7667595439268131,0.5,0.0,False,0.0012314562918618321,0.0004537666973192245,0.000856261991430074
-they didn't go for overt overkill,0.17380224,0.0081043918706258,0.5,0.0,False,0.0010510189458727837,0.009543241001665592,0.013007279485464096
-"uh, but it looked like it hurt",0.13476147,0.9992266884693666,0.5,0.358,False,0.012871475890278816,0.0019685961306095123,0.002854660153388977
-"it looks like i hurt everyone involved and i loved it and we're not just talking fight choreography and visual effects here, we're talking camerawork, and also the score",0.15684792,0.1882865447966321,0.325,0.092,False,0.0024072611704468727,0.009328405372798443,0.005340963136404753
-i thought the music was used and ibly well here,0.060527626,0.007601974832474,0.5,0.0,False,0.000596884055994451,0.0004044647212140262,0.0012432609219104052
-and they say johnny cash just for the credits,0.020408317,0.7922125090844583,0.5,0.0,False,0.0008034995989874005,0.0006509384256787598,0.0007191059412434697
-so the score here,0.02929751,0.8824732187308654,0.5,0.0,False,0.001584750832989812,0.0003643516974989325,0.0003721206448972225
-"it's not just cheats with, you know songs",0.21892473,0.9858349809345596,0.5,0.0,False,0.0014841994270682335,0.07978230714797974,0.02312644198536873
-"the score is incredibly well done, but you know what else is good? no scripts",0.07091636,0.0048246878379847,0.0999999999999999,0.138,False,0.0006632120348513126,0.0004656986566260457,0.00039500053389929235
-"i mean, it would have to be to be telling a wolverine story the way i just said, but i think we have to talk about the script in its own special section because that's very rare for comic book movies",0.027065687,0.8586764385394671,0.3715357142857143,0.0,False,0.0005736426101066172,0.0005683746421709657,0.00028879527235403657
-"still, unfortunately, and had amazing one-liners and had a did a great job exploring relationships, but it also did a great job, and what it chose to leave unsaid both emotionally and in terms of story points",0.027409043,0.8082528369261054,0.3299999999999999,0.066,False,0.0006000248831696808,0.0003412787918932736,0.00036415219074115157
-it's very sophisticated,0.1550967,0.0003364349247587,0.175,0.0,False,0.0007174264756031334,0.0004046047106385231,0.003717750543728471
-you know,0.043718524,0.0418393846316717,0.5,0.0,False,0.0024898352567106485,0.000538251013495028,0.0007277476252056658
-"it asks you to fill in a lot of the blanks, but without directly asking you to do so, you had to really pay close attention, i think, and if that's one way that this movie will benefit from repeat viewings, i don't know how many recent doings it's going to get",0.08635602,0.997733773393076,0.4,0.036,False,0.0006333097699098289,0.0007660018745809793,0.0003859245334751904
-we're going to talk about some of its very few flaws at the end of the reveal,0.07690986,0.9288289024543774,0.63,0.0,False,0.0006080582970753312,0.0004341964959166944,0.0006700764643028378
-"this is no spoiler, so so don't worry about that, but i think on the screenwriting front it's definitely worth at least one more visit to try and pick up on some of the things that work",0.050242316,0.0004431355830362,0.4166666666666667,0.038,False,0.0006199007038958371,0.00038668629713356495,0.00030875756056047976
-"i think, even by the end of the movie still not clarified, which i, which i thought was great",0.04131502,0.9592013342470248,0.0999999999999999,0.0,False,0.0005651708925142884,0.00045971438521519303,0.00040722632547840476
-i really liked that choice,0.024490505,0.0037190544247272,0.2,0.0,False,0.0005714891594834626,0.0003304912243038416,0.0003175312012899667
-i mean they need to be clarified,0.022351967,0.9003247753444464,0.65625,0.0,False,0.0006096477154642344,0.0007018492324277759,0.0006445518229156733
-you got the overall idea and you've got the same idea that the characters were getting,0.027409043,0.0066131458549119,0.5,0.0,False,0.0008009689045138657,0.0003759073733817786,0.0004234620719216764
-i think i was part of the experience,0.014646785,0.0025596534171869,0.5,0.0,False,0.0006235225591808558,0.0004119437071494758,0.0002627148060128093
-"i think the magic ingredients in the script might be james mangold, because the other team screenwriters is all due respect to them",0.023288755,0.2131845771172748,0.4583333333333333,0.0,False,0.000555245962459594,0.000955600815359503,0.0007160698878578842
-"i mean, they did contribute to the script",0.017354012,0.9777684707780874,0.65625,0.0,False,0.0006233499734662473,0.0003523054183460772,0.00025197016657330096
-"so yeh ovid, scott frank worked on the last wolverine, and michael greene helped out with green lantern, so i'm thinking that mangle is the one that may use the special sauce here, and it goes to show how important it is who you hire to write these movies",0.0765103,0.0064750608968673,0.4303571428571429,0.0,False,0.0006103410269133747,0.000784662610385567,0.0010478217154741287
-we've talked so much about the directors and i think that the writer should be just as important to conversation,0.021518974,0.1464617644450039,0.35,0.0,False,0.000520130677614361,0.00043054783600382507,0.00037571071879938245
-not just amongst us,0.0186035,0.003938178234687,0.5,0.0,False,0.0011956567177549005,0.00044683361193165183,0.0006272068712860346
-"i mean, of course we would take it seriously, or i hope that the studio executives would realise that as well, particularly when you get results like this",0.04131502,0.078161927965253,0.5798611111111112,0.051,False,0.0005538801196962595,0.0004729759239125997,0.0004981528036296368
-"the movie, also, to my surprise, reminded me of a terminator movie, t2 in particular, but not like",0.0358213,0.9999841439245242,0.4166666666666667,0.132,False,0.0007010724511928856,0.0004906597314402461,0.0003533516719471663
-"hey, you ripped off terminator, but like hey, here are two great movies that have a surprising amount of overlap that had not",0.26589394,0.1471033394087138,0.125,0.0,False,0.0021521684248000383,0.009400352835655212,0.002374951494857669
-"i had not seen before, and this movie makes it very clear",0.037881445,5.332052448559553e-05,0.435,0.0,False,0.0006508652004413307,0.00038069646689109504,0.0003346771700307727
-it also makes you miss terminator movies,0.06372416,0.9992755382958796,0.5,0.211,False,0.0038924594409763813,0.0020449406001716852,0.0016721521969884634
-i'd also like to point out on that note that there are a lot of surprises in store for you when you see this movie this year,0.024147147,0.0054132999330468,0.5,0.0,False,0.0006081167957745492,0.000424679514253512,0.000538106367457658
-you know last year was the year,0.014785618,0.9988292732242626,0.5,0.0,False,0.0009949493687599897,0.00043257002835161984,0.00044858790352009237
-"like did you show too much in the trailer? and people have been worried about this this year so far like cure for wellness, they had like a ton of stuff they didn't show here",0.09065199,0.9994346951437012,0.425,0.051,False,0.0014112768694758415,0.00048225384671241045,0.0005330743733793497
-i was amazed at how much had not been revealed about the movie and i was very very impressed with that,0.04543531,0.0004292764193214,0.2,0.0,False,0.0005692990380339324,0.000369607238098979,0.00040499429451301694
-so beware spoilers and they're just really,0.14822112,0.9899920743466344,0.4,0.0,False,0.008532116189599037,0.00046310454490594566,0.0016391230747103691
-it's really great because some of you might be like,0.05413456,0.003459545309749,0.0999999999999999,0.0,False,0.0007285001338459551,0.0005184200708754361,0.0008022788679227233
-how is it like a tournament? you'll see all right,0.042001735,0.000744639454303,0.3571428571428571,0.0,False,0.0006835255189798772,0.0004028663970530033,0.0012444545282050967
-natural performance is hugh jackman,0.057331093,0.0,0.45,0.0,False,0.0007136290078051388,0.02227623015642166,0.0016628861194476485
-this has been his signature role for 17 years,0.013813793,0.0004438508947118,0.5,0.0,False,0.0007068328559398651,0.0003511690010782331,0.0007750981603749096
-"i can't believe he's been playing this character for 17 years, and with this movie he walks that down forever",0.101391904,0.0022474794800923,0.5777777777777778,0.0,False,0.0007224507280625403,0.0006115384167060256,0.0023091204930096865
-this is forever,0.03444787,0.0142507670525534,0.5,0.0,False,0.0026000598445534706,0.0004004782240372151,0.00045839042286388576
-his,0.025863936,0.0483562614569086,0.5,0.0,False,0.00399485370144248,0.0011665140045806766,0.0037844651378691196
-i was,0.020408317,0.0317747705280144,0.5,0.0,False,0.005765235051512718,0.0008702247869223356,0.0011100501287728548
-just it was so impressive,0.053335425,0.0190526245262252,0.0,0.0,False,0.0006398658151738346,0.0003271582827437669,0.0009296666248701513
-he also made me cry,0.18746567,0.9977264414484012,0.5,0.437,False,0.07563046365976334,0.0034034308046102524,0.026436293497681618
-this movie made me cry a lot,0.2459383,0.992425415643771,0.5,0.341,False,0.010956419631838799,0.00203082081861794,0.0036752319429069757
-"you'll want to have like tissues coming out of your fists like wolverines, claws like like, we're not talking like",0.355017,0.9637668706258692,0.5,0.077,False,0.6255353689193726,0.0012570172548294067,0.13933299481868744
-"oh, i'm teary-eyed we're talking like a single tear down my cheek",0.11343288,0.1739617727903068,0.5567460317460318,0.0,False,0.014054578728973866,0.018258700147271156,0.01634814590215683
-you know,0.03994159,0.0418393846316717,0.5,0.0,False,0.0024898352567106485,0.000538251013495028,0.0007277476252056658
-"bottom line, you know i had - a 3d glasses",0.026035614,0.9497505469749946,0.5,0.0,False,0.0008122134022414684,0.0025622048415243626,0.0009598822798579931
-i had my regular glasses on,0.04543531,0.0109428976226854,0.5,0.0,False,0.0023400767240673304,0.0009234854369424284,0.0006974592106416821
-"we watch this in 2d, and it was great",0.039254878,0.0004211099443582,0.0999999999999999,0.0,False,0.0005754022859036922,0.0003859250864479691,0.0003913664841093123
-just a single tear,0.089041,0.9559762919482612,0.5357142857142857,0.0,False,0.008862575516104698,0.020666781812906265,0.04405854642391205
-"i was like, oh my god, and then patrick stewart also made me cry",0.13879937,0.9964090161698588,0.5,0.166,False,0.018687838688492775,0.007532354909926653,0.026233427226543427
-"the the subtleties and the rawness of both their performances is something to behold indeed, and there isn't a single ounce of vanity in either of their performances and a lot of love",0.1019289,0.0004781560504876,0.3928571428571428,0.051,False,0.0007904160302132368,0.0018147617811337113,0.005454342346638441
-the characters,0.014438537,0.0007654431022018,0.5,0.0,False,0.00069717678707093,0.0004329509974922985,0.0008292375132441521
-"they're playing, this leader",0.043375164,0.0001144498680965,0.5,0.0,False,0.00347033585421741,0.0008969064219854772,0.0013205695431679487
-"this is the antithesis of the paycheck gig, and it was so fabulous to be able to experience that that boyd holbrook, he makes one heck of an introduction for himself",0.2297899,0.0059668319513511,0.275,0.0,False,0.0010410179384052753,0.021994005888700485,0.01934601180255413
-his first,0.02054715,0.006912146135314,0.375,0.0,False,0.0015378681709989905,0.00044922763481736183,0.00036329953582026064
-his first scene is one of the best conversations in a movie that is full of great conversations,0.03187269,0.000227111457004,0.1999999999999999,0.0,False,0.0005889797466807067,0.00039332243613898754,0.0004515877808444202
-"like this is one of those movies you know, we talk about people fast forward from action sequence to action sequence",0.038911518,0.0037946092204628,0.4333333333333333,0.0,False,0.0007245388114824891,0.0005118981353007257,0.0004553519538603723
-or this is a movie where you will stop for some of the conversations as well and want to see them play out again,0.119228795,0.1877730106228552,0.5,0.079,False,0.0006983771454542875,0.0005753173027187586,0.0005871751927770674
-they're just that good,0.038053125,0.0033147543047456,0.15,0.0,False,0.0006161233177408576,0.00034911659895442426,0.005509031005203724
-it's so nice to have a good script,0.0358213,0.0063703571503508,0.175,0.0,False,0.0006031819502823055,0.00048398488434031606,0.0004577701911330223
-it's such it was so wonderful,0.035306264,0.0022475390893986,0.25,0.0,False,0.0006560507463291287,0.0002970309869851917,0.005645414348691702
-"but if the film goes on, the movie needs boyd holbrook's character less and less",0.07251463,0.9615497620873368,0.5833333333333334,0.0,False,0.0008399504004046321,0.0034208388533443213,0.001124568865634501
-so he kind of stayed since the background,0.031185975,0.967551733724752,0.2,0.0,False,0.0005991968209855258,0.0004901121719740331,0.0004044466186314821
-little bit,0.11665283,0.1035944471308371,0.59375,0.0,False,0.003313269466161728,0.0007332747336477041,0.003032790729776025
-that's for daphne keen,0.020685982,0.0014673128792344,0.5,0.0,False,0.0006780628464184701,0.02374262548983097,0.0008792567532509565
-she knocks her fighting scenes out of the park and she has a hundred and ten percent believable as a baby wolverine,0.17449278,0.0001244940362081,0.375,0.106,False,0.025047384202480316,0.003229500725865364,0.10124435275793076
-"however, she doesn't have hugh jackman and patrick stewart's likability factor",0.05373499,0.9915655514003896,0.5,0.0,False,0.0007991761085577309,0.0065597170032560825,0.0024941260926425457
-"part of that is built into the story, and you'll see that when you watch the movie, but part of it unfortunately is just the actress, and maybe what the child is hard",0.13386416,0.9959497860741215,0.6979166666666667,0.132,False,0.0006543781491927803,0.0006968788802623749,0.012353471480309963
-"like what do we go out for? do we go for someone who can sell the fight scenes, or we go for someone can sell the emotional things",0.09924392,0.9830626713171464,0.5,0.082,False,0.0008025747956708074,0.0008111228235065937,0.0011984206503257155
-and of course you go with the fight scene,0.14104263,0.0011217577306117,0.5,0.245,False,0.0011854497715830803,0.0009304946870543063,0.004408231470733881
-"that's the most important in a movie like this, and even if she was a bit a little bit more personable, i think that the script doesn't give her a moment to call her own outside of the action sequences anyway, so i think that also hurts your character, but i felt i never really got to know x-23 but then, also, in addition to that, as far as flaws go, moises moves perfect, absolutely perfect",0.06931809,0.0002083345255194,0.3221590909090909,0.024,False,0.0008112190407700837,0.0011345219099894166,0.0007294894312508404
-"but the third act, i actually kind of resent the movie a little bit for the third act, and we'll talk about that in a spoiler review closer to when the film is released, because i don't want to give away spoilers, but i'm talking",0.1894391,0.9001992083407249,0.4484375,0.082,False,0.0006113906856626272,0.0004172827466391027,0.0003022527089342475
-i,0.018187003,0.1365761570881664,0.5,0.0,False,0.0033499409910291433,0.0023471140302717686,0.0006465429905802011
-"i resent the choices that were made in the third act, both story wise and also in terms of message, and i think, speaking of message, one problem this film is going to potentially have is it's going to come across as being political now",0.16151784,0.9928420548901568,0.4125,0.089,False,0.0006913774413987994,0.0004167152801528573,0.0005372476880438626
-"i don't know if that's intentional or if it ended up being amped up more than they intended by the way things have developed, particularly here in the united states",0.035134587,0.996236149181588,0.3722222222222222,0.0,False,0.0006017214618623257,0.0004024286463391036,0.0004640816478058696
-but i know that there are certain things that are a problem,0.06332459,0.9499847221347952,0.3928571428571428,0.219,False,0.001010414445772767,0.0005841853562742472,0.0005095849628560245
-"there are like i'm a real hot-button sensitive issue across the globe, and this movie kind of taps into that",0.082104236,0.0009975021316287,0.35,0.0,False,0.0011730107944458723,0.0019322378793731332,0.0016782048624008894
-"let me just say, if the budweiser super bowl commercial annoy you, this movie is going to make your head explode",0.3897707,0.9962856547104704,0.4166666666666667,0.112,False,0.09813415259122849,0.35607844591140747,0.3779221475124359
-"and so i feel kind of bad that because of the third act choices that this movie makes in a number of areas, it might hurt the film's commercial prospects, so i won't be curious to see how it does at the box-office long-term you know, it's going to be huge the first weekend",0.1024659,0.9996655917916556,0.4678571428571428,0.145,False,0.0007696489919908345,0.00044665992027148604,0.0005591097287833691
-"i do worry about repeat business word of mouth a little bit because of that, particularly in red states, let's say all right",0.09279997,0.0197821232167279,0.4836309523809524,0.116,False,0.000665691215544939,0.0013869518879801035,0.0011646776692941785
-all right,0.02054715,0.0010301978361344,0.3571428571428571,0.0,False,0.0009154327563010156,0.00037120739580132067,0.000612138188444078
-"well, so finally this for most part, and this is the only thing that keeps us from being them being equal, but this is very, very, very close to the dark night in terms of quality when it comes to comic book movies",0.05773066,0.0523766111203306,0.4385714285714285,0.0,False,0.0007820756291039288,0.000943703344091773,0.0004620619583874941
-"and while marvel studios formula has been incredibly successful, they should be a little bit nervous, because now fox is two for two, because what fox are starting to do with their marvel movies is awe-inspiring and it's the kind of work that we hope to see with the genre, the comic book genre post nolan, but they didn't materialize and now it is materializing over at fox, which is crazy when you think about it, considering what they've had to go through, but maybe that was part of the process, but they have come out on on the other end, making movies of the quality just shy, just shy of the quality of the dark knight",0.18253209,0.9994808029421246,0.523125,0.075,False,0.0006506462814286351,0.0007745668408460915,0.0012354314094409347
-"i'm not impressed, so we will be discussing this for sure, more, as you know, in much more details to get closer to the film's release",0.03427619,0.9998251659046212,0.375,0.089,False,0.0005361406947486103,0.0003826370229944587,0.0002920266706496477
-but i'm so happy to tell you you should definitely buy your logan tickets and bring tissues,0.19716066,0.0005740674243247,0.3,0.0,False,0.0009960343595594168,0.0025983289815485477,0.007140489760786295
-"alright, alright, your thought, your thoughts down below, if you have by any chance seen the film, do not spoil it for anyone",0.1710401,0.9799468332675246,0.5777777777777778,0.0,False,0.000680153607390821,0.0005772763397544622,0.001371818594634533
-"uh, and you can check out some other videos right now",0.09494796,0.9427597165553642,0.4598214285714286,0.0,False,0.0006720286910422146,0.0005399941001087427,0.00039515437674708664
+"wow, i, i knew that logan was going to be brutal",0.32044756,0.8839418292045593,0.3875,0.243,False,0.0137851303443312,0.3187111616134643,0.2492990791797638
+"i hoped it would be brutal, but i was not prepared that the deepest cuts would be emotional",0.16620636,0.9941879510879517,0.4375,0.306,False,0.0008484428399242,0.0995179712772369,0.0976547077298164
+i mean this is a tour-de-force they swear a lot in the movie,0.10699297,0.0,0.3125,0.091,False,0.0014923369744792,0.0168053247034549,0.0035836638417094
+"i mean it's earned it fits, but boy, there's a lot of swearing in here, so i say, with the utmost respect",0.08689302,0.0,0.3125,0.094,False,0.0005570235662162,0.0047888089902698,0.0023452111054211
+"this is a tour de force for hugh jackman, patrick stewart and james mangold, and congrats non-callable greeters",0.08555053,0.0,0.0,0.0,False,0.0009316523792222,0.0211869925260543,0.0045186234638094
+you finally get to meet wolverine,0.051737156,0.0,0.0,0.0,False,0.0258643981069326,0.0006621437496505,0.0021855763625353
+this is the first time that i've seen a comic book character accurately portrayed on the silver screen as they are in the comics,0.038053125,0.0,0.0,0.0,False,0.0007143176044337,0.0006200643838383,0.0005541575956158
+like wasting special things done with comic book characters on the big screen before,0.24418297,0.9997344613075256,0.0,0.143,False,0.0014954780926927,0.0021265754476189,0.0020085012074559
+"but never have i watched a movie and said, i feel like i'm reading one of those comic book stories",0.048525527,0.9988709092140198,0.0,0.0,False,0.0009264241671189,0.0005996764521114,0.0005345967947505
+"i had that feeling a little bit with the first avengers, but that's a whole different type of story",0.054534122,0.0,0.0,0.0,False,0.0005862927646376,0.0003674532636068,0.0003142407804261
+"wolverine comics tend to be a little bit a little more drama, a little more",0.13565879,0.9183778166770935,0.0,0.0,False,0.0007697154069319,0.0006877226987853,0.001248937100172
+storing them,0.18450552,0.0,0.0,0.0,False,0.0011691966792568,0.0639347061514854,0.0122748939320445
+"you know, it's not like 90% fighting, so to have that transposed to the big screen is incredibly satisfying",0.09118898,0.0,0.0,0.09,False,0.0014492409536615,0.0005525534506887,0.0008982568397186
+"and also for all of you who like to still write up comic books as well as the funny pages, right, or like a lesser form of storytelling? well, i'm telling you, this is what",0.09333697,0.0,0.0,0.0,False,0.0008044759742915,0.0007526123081333,0.0009341936092823
+this is what we're reading,0.024833864,0.0,0.0,0.0,False,0.0007948659476824,0.0003727277508005,0.0005834372132085
+"you're getting it right here, and this is from the very first scene",0.025863936,0.0,0.0,0.0,False,0.0007051945431157,0.0003710517194122,0.0006137219024822
+the first scene,0.031185975,0.0,0.0,0.0,False,0.0007242985884658,0.0003724872658494,0.0003699399821925
+"i felt like again, i was reading a wolverine story",0.026035614,0.0,0.0,0.0,False,0.0006426475010812,0.0007899370975792,0.0007606231956742
+"it was perfect on every level, and that, of course includes the fighting",0.094410956,0.0,0.0,0.145,False,0.0005996715626679,0.0005372981540858,0.0008123028092086
+it was a thrill to finally see a wolverine fight done correctly brought to life on the big screen,0.15626417,0.0,0.0,0.118,False,0.0007552116876468,0.0004754645924549,0.0011223994661122
+it was just as magical as i'd hoped it would be,0.036336336,0.0,0.0,0.0,False,0.0006366100278683,0.0003407704352866,0.0046590003184974
+"i was like that's exactly how he would do it, and it wasn't overly gory",0.112788886,0.0,0.125,0.0,False,0.0008003333350643,0.001718109822832,0.0032163022551685
+"i mean, it was just it was just right",0.020269485,0.6279471516609192,0.0133928571428571,0.0,False,0.0007370610837824,0.0003095562860835,0.0012632686411961
+"you know, like they didn't err on the side of caution",0.026035614,0.5335555672645569,0.0,0.0,False,0.0012314562918618,0.0004537666973192,0.00085626199143
+they didn't go for overt overkill,0.17380224,0.0,0.0,0.0,False,0.0010510189458727,0.0095432410016655,0.013007279485464
+"uh, but it looked like it hurt",0.13476147,0.9984534978866577,0.0,0.358,False,0.0128714758902788,0.0019685961306095,0.0028546601533889
+"it looks like i hurt everyone involved and i loved it and we're not just talking fight choreography and visual effects here, we're talking camerawork, and also the score",0.15684792,0.0,0.0,0.092,False,0.0024072611704468,0.0093284053727984,0.0053409631364047
+i thought the music was used and ibly well here,0.060527626,0.0,0.0,0.0,False,0.0005968840559944,0.000404464721214,0.0012432609219104
+and they say johnny cash just for the credits,0.020408317,0.584457516670227,0.0,0.0,False,0.0008034995989874,0.0006509384256787,0.0007191059412434
+so the score here,0.02929751,0.7649648189544678,0.0,0.0,False,0.0015847508329898,0.0003643516974989,0.0003721206448972
+"it's not just cheats with, you know songs",0.21892473,0.9716721773147583,0.0,0.0,False,0.0014841994270682,0.0797823071479797,0.0231264419853687
+"the score is incredibly well done, but you know what else is good? no scripts",0.07091636,0.0,0.0,0.138,False,0.0006632120348513,0.000465698656626,0.0003950005338992
+"i mean, it would have to be to be telling a wolverine story the way i just said, but i think we have to talk about the script in its own special section because that's very rare for comic book movies",0.027065687,0.7173749804496765,0.0,0.0,False,0.0005736426101066,0.0005683746421709,0.000288795272354
+"still, unfortunately, and had amazing one-liners and had a did a great job exploring relationships, but it also did a great job, and what it chose to leave unsaid both emotionally and in terms of story points",0.027409043,0.6165356636047363,0.0,0.066,False,0.0006000248831696,0.0003412787918932,0.0003641521907411
+it's very sophisticated,0.1550967,0.0,0.0,0.0,False,0.0007174264756031,0.0004046047106385,0.0037177505437284
+you know,0.043718524,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"it asks you to fill in a lot of the blanks, but without directly asking you to do so, you had to really pay close attention, i think, and if that's one way that this movie will benefit from repeat viewings, i don't know how many recent doings it's going to get",0.08635602,0.9954679012298584,0.0,0.036,False,0.0006333097699098,0.0007660018745809,0.0003859245334751
+we're going to talk about some of its very few flaws at the end of the reveal,0.07690986,0.857668936252594,0.26,0.0,False,0.0006080582970753,0.0004341964959166,0.0006700764643028
+"this is no spoiler, so so don't worry about that, but i think on the screenwriting front it's definitely worth at least one more visit to try and pick up on some of the things that work",0.050242316,0.0,0.0,0.038,False,0.0006199007038958,0.0003866862971335,0.0003087575605604
+"i think, even by the end of the movie still not clarified, which i, which i thought was great",0.04131502,0.9184090495109558,0.0,0.0,False,0.0005651708925142,0.0004597143852151,0.0004072263254784
+i really liked that choice,0.024490505,0.0,0.0,0.0,False,0.0005714891594834,0.0003304912243038,0.0003175312012899
+i mean they need to be clarified,0.022351967,0.8006651401519775,0.3125,0.0,False,0.0006096477154642,0.0007018492324277,0.0006445518229156
+you got the overall idea and you've got the same idea that the characters were getting,0.027409043,0.0,0.0,0.0,False,0.0008009689045138,0.0003759073733817,0.0004234620719216
+i think i was part of the experience,0.014646785,0.0,0.0,0.0,False,0.0006235225591808,0.0004119437071494,0.0002627148060128
+"i think the magic ingredients in the script might be james mangold, because the other team screenwriters is all due respect to them",0.023288755,0.0,0.0,0.0,False,0.0005552459624595,0.0009556008153595,0.0007160698878578
+"i mean, they did contribute to the script",0.017354012,0.9555404186248779,0.3125,0.0,False,0.0006233499734662,0.000352305418346,0.0002519701665733
+"so yeh ovid, scott frank worked on the last wolverine, and michael greene helped out with green lantern, so i'm thinking that mangle is the one that may use the special sauce here, and it goes to show how important it is who you hire to write these movies",0.0765103,0.0,0.0,0.0,False,0.0006103410269133,0.0007846626103855,0.0010478217154741
+we've talked so much about the directors and i think that the writer should be just as important to conversation,0.021518974,0.0,0.0,0.0,False,0.0005201306776143,0.0004305478360038,0.0003757107187993
+not just amongst us,0.0186035,0.0,0.0,0.0,False,0.0011956567177549,0.0004468336119316,0.000627206871286
+"i mean, of course we would take it seriously, or i hope that the studio executives would realise that as well, particularly when you get results like this",0.04131502,0.0,0.1597222222222222,0.051,False,0.0005538801196962,0.0004729759239125,0.0004981528036296
+"the movie, also, to my surprise, reminded me of a terminator movie, t2 in particular, but not like",0.0358213,0.9999682903289795,0.0,0.132,False,0.0007010724511928,0.0004906597314402,0.0003533516719471
+"hey, you ripped off terminator, but like hey, here are two great movies that have a surprising amount of overlap that had not",0.26589394,0.0,0.0,0.0,False,0.0021521684248,0.0094003528356552,0.0023749514948576
+"i had not seen before, and this movie makes it very clear",0.037881445,0.0,0.0,0.0,False,0.0006508652004413,0.000380696466891,0.0003346771700307
+it also makes you miss terminator movies,0.06372416,0.9985511898994446,0.0,0.211,False,0.0038924594409763,0.0020449406001716,0.0016721521969884
+i'd also like to point out on that note that there are a lot of surprises in store for you when you see this movie this year,0.024147147,0.0,0.0,0.0,False,0.0006081167957745,0.0004246795142535,0.0005381063674576
+you know last year was the year,0.014785618,0.9976587295532227,0.0,0.0,False,0.0009949493687599,0.0004325700283516,0.00044858790352
+"like did you show too much in the trailer? and people have been worried about this this year so far like cure for wellness, they had like a ton of stuff they didn't show here",0.09065199,0.9988694787025452,0.0,0.051,False,0.0014112768694758,0.0004822538467124,0.0005330743733793
+i was amazed at how much had not been revealed about the movie and i was very very impressed with that,0.04543531,0.0,0.0,0.0,False,0.0005692990380339,0.0003696072380989,0.000404994294513
+so beware spoilers and they're just really,0.14822112,0.9799857139587402,0.0,0.0,False,0.008532116189599,0.0004631045449059,0.0016391230747103
+it's really great because some of you might be like,0.05413456,0.0,0.0,0.0,False,0.0007285001338459,0.0005184200708754,0.0008022788679227
+how is it like a tournament? you'll see all right,0.042001735,0.0,0.0,0.0,False,0.0006835255189798,0.000402866397053,0.001244454528205
+natural performance is hugh jackman,0.057331093,0.0,0.0,0.0,False,0.0007136290078051,0.0222762301564216,0.0016628861194476
+this has been his signature role for 17 years,0.013813793,0.0,0.0,0.0,False,0.0007068328559398,0.0003511690010782,0.0007750981603749
+"i can't believe he's been playing this character for 17 years, and with this movie he walks that down forever",0.101391904,0.0,0.1555555555555555,0.0,False,0.0007224507280625,0.000611538416706,0.0023091204930096
+this is forever,0.03444787,0.0,0.0,0.0,False,0.0026000598445534,0.0004004782240372,0.0004583904228638
+his,0.025863936,0.0,0.0,0.0,False,0.0039948537014424,0.0011665140045806,0.0037844651378691
+i was,0.020408317,0.0,0.0,0.0,False,0.0057652350515127,0.0008702247869223,0.0011100501287728
+just it was so impressive,0.053335425,0.0,0.0,0.0,False,0.0006398658151738,0.0003271582827437,0.0009296666248701
+he also made me cry,0.18746567,0.9954532384872437,0.0,0.437,False,0.0756304636597633,0.0034034308046102,0.0264362934976816
+this movie made me cry a lot,0.2459383,0.9848520159721375,0.0,0.341,False,0.0109564196318387,0.0020308208186179,0.0036752319429069
+"you'll want to have like tissues coming out of your fists like wolverines, claws like like, we're not talking like",0.355017,0.9275394082069397,0.0,0.077,False,0.6255353689193726,0.0012570172548294,0.1393329948186874
+"oh, i'm teary-eyed we're talking like a single tear down my cheek",0.11343288,0.0,0.1134920634920635,0.0,False,0.0140545787289738,0.0182587001472711,0.0163481459021568
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"bottom line, you know i had - a 3d glasses",0.026035614,0.8995089530944824,0.0,0.0,False,0.0008122134022414,0.0025622048415243,0.0009598822798579
+i had my regular glasses on,0.04543531,0.0,0.0,0.0,False,0.0023400767240673,0.0009234854369424,0.0006974592106416
+"we watch this in 2d, and it was great",0.039254878,0.0,0.0,0.0,False,0.0005754022859036,0.0003859250864479,0.0003913664841093
+just a single tear,0.089041,0.9119594693183899,0.0714285714285714,0.0,False,0.0088625755161046,0.0206667818129062,0.044058546423912
+"i was like, oh my god, and then patrick stewart also made me cry",0.13879937,0.9928185939788818,0.0,0.166,False,0.0186878386884927,0.0075323549099266,0.0262334272265434
+"the the subtleties and the rawness of both their performances is something to behold indeed, and there isn't a single ounce of vanity in either of their performances and a lot of love",0.1019289,0.0,0.0,0.051,False,0.0007904160302132,0.0018147617811337,0.0054543423466384
+the characters,0.014438537,0.0,0.0,0.0,False,0.0006971767870709,0.0004329509974922,0.0008292375132441
+"they're playing, this leader",0.043375164,0.0,0.0,0.0,False,0.0034703358542174,0.0008969064219854,0.0013205695431679
+"this is the antithesis of the paycheck gig, and it was so fabulous to be able to experience that that boyd holbrook, he makes one heck of an introduction for himself",0.2297899,0.0,0.0,0.0,False,0.0010410179384052,0.0219940058887004,0.0193460118025541
+his first,0.02054715,0.0,0.0,0.0,False,0.0015378681709989,0.0004492276348173,0.0003632995358202
+his first scene is one of the best conversations in a movie that is full of great conversations,0.03187269,0.0,0.0,0.0,False,0.0005889797466807,0.0003933224361389,0.0004515877808444
+"like this is one of those movies you know, we talk about people fast forward from action sequence to action sequence",0.038911518,0.0,0.0,0.0,False,0.0007245388114824,0.0005118981353007,0.0004553519538603
+or this is a movie where you will stop for some of the conversations as well and want to see them play out again,0.119228795,0.0,0.0,0.079,False,0.0006983771454542,0.0005753173027187,0.000587175192777
+they're just that good,0.038053125,0.0,0.0,0.0,False,0.0006161233177408,0.0003491165989544,0.0055090310052037
+it's so nice to have a good script,0.0358213,0.0,0.0,0.0,False,0.0006031819502823,0.0004839848843403,0.000457770191133
+it's such it was so wonderful,0.035306264,0.0,0.0,0.0,False,0.0006560507463291,0.0002970309869851,0.0056454143486917
+"but if the film goes on, the movie needs boyd holbrook's character less and less",0.07251463,0.9231055378913879,0.1666666666666666,0.0,False,0.0008399504004046,0.0034208388533443,0.0011245688656345
+so he kind of stayed since the background,0.031185975,0.9351085424423218,0.0,0.0,False,0.0005991968209855,0.000490112171974,0.0004044466186314
+little bit,0.11665283,0.0,0.1875,0.0,False,0.0033132694661617,0.0007332747336477,0.003032790729776
+that's for daphne keen,0.020685982,0.0,0.0,0.0,False,0.0006780628464184,0.0237426254898309,0.0008792567532509
+she knocks her fighting scenes out of the park and she has a hundred and ten percent believable as a baby wolverine,0.17449278,0.0,0.0,0.106,False,0.0250473842024803,0.0032295007258653,0.1012443527579307
+"however, she doesn't have hugh jackman and patrick stewart's likability factor",0.05373499,0.9831324219703674,0.0,0.0,False,0.0007991761085577,0.006559717003256,0.0024941260926425
+"part of that is built into the story, and you'll see that when you watch the movie, but part of it unfortunately is just the actress, and maybe what the child is hard",0.13386416,0.9919002056121826,0.3958333333333333,0.132,False,0.0006543781491927,0.0006968788802623,0.0123534714803099
+"like what do we go out for? do we go for someone who can sell the fight scenes, or we go for someone can sell the emotional things",0.09924392,0.9661279916763306,0.0,0.082,False,0.0008025747956708,0.0008111228235065,0.0011984206503257
+and of course you go with the fight scene,0.14104263,0.0,0.0,0.245,False,0.001185449771583,0.0009304946870543,0.0044082314707338
+"that's the most important in a movie like this, and even if she was a bit a little bit more personable, i think that the script doesn't give her a moment to call her own outside of the action sequences anyway, so i think that also hurts your character, but i felt i never really got to know x-23 but then, also, in addition to that, as far as flaws go, moises moves perfect, absolutely perfect",0.06931809,0.0,0.0,0.024,False,0.00081121904077,0.0011345219099894,0.0007294894312508
+"but the third act, i actually kind of resent the movie a little bit for the third act, and we'll talk about that in a spoiler review closer to when the film is released, because i don't want to give away spoilers, but i'm talking",0.1894391,0.8004140257835388,0.0,0.082,False,0.0006113906856626,0.0004172827466391,0.0003022527089342
+i,0.018187003,0.0,0.0,0.0,False,0.0033499409910291,0.0023471140302717,0.0006465429905802
+"i resent the choices that were made in the third act, both story wise and also in terms of message, and i think, speaking of message, one problem this film is going to potentially have is it's going to come across as being political now",0.16151784,0.9856852293014526,0.0,0.089,False,0.0006913774413987,0.0004167152801528,0.0005372476880438
+"i don't know if that's intentional or if it ended up being amped up more than they intended by the way things have developed, particularly here in the united states",0.035134587,0.9924728870391846,0.0,0.0,False,0.0006017214618623,0.0004024286463391,0.0004640816478058
+but i know that there are certain things that are a problem,0.06332459,0.8999772667884827,0.0,0.219,False,0.0010104144457727,0.0005841853562742,0.000509584962856
+"there are like i'm a real hot-button sensitive issue across the globe, and this movie kind of taps into that",0.082104236,0.0,0.0,0.0,False,0.0011730107944458,0.0019322378793731,0.0016782048624008
+"let me just say, if the budweiser super bowl commercial annoy you, this movie is going to make your head explode",0.3897707,0.9925718903541565,0.0,0.112,False,0.0981341525912284,0.3560784459114074,0.3779221475124359
+"and so i feel kind of bad that because of the third act choices that this movie makes in a number of areas, it might hurt the film's commercial prospects, so i won't be curious to see how it does at the box-office long-term you know, it's going to be huge the first weekend",0.1024659,0.9993312358856201,0.0,0.145,False,0.0007696489919908,0.0004466599202714,0.0005591097287833
+"i do worry about repeat business word of mouth a little bit because of that, particularly in red states, let's say all right",0.09279997,0.0,0.0,0.116,False,0.0006656912155449,0.0013869518879801,0.0011646776692941
+all right,0.02054715,0.0,0.0,0.0,False,0.000915432756301,0.0003712073958013,0.000612138188444
+"well, so finally this for most part, and this is the only thing that keeps us from being them being equal, but this is very, very, very close to the dark night in terms of quality when it comes to comic book movies",0.05773066,0.0,0.0,0.0,False,0.0007820756291039,0.0009437033440917,0.0004620619583874
+"and while marvel studios formula has been incredibly successful, they should be a little bit nervous, because now fox is two for two, because what fox are starting to do with their marvel movies is awe-inspiring and it's the kind of work that we hope to see with the genre, the comic book genre post nolan, but they didn't materialize and now it is materializing over at fox, which is crazy when you think about it, considering what they've had to go through, but maybe that was part of the process, but they have come out on on the other end, making movies of the quality just shy, just shy of the quality of the dark knight",0.18253209,0.9989616870880127,0.0462499999999999,0.075,False,0.0006506462814286,0.000774566840846,0.0012354314094409
+"i'm not impressed, so we will be discussing this for sure, more, as you know, in much more details to get closer to the film's release",0.03427619,0.9996503591537476,0.0,0.089,False,0.0005361406947486,0.0003826370229944,0.0002920266706496
+but i'm so happy to tell you you should definitely buy your logan tickets and bring tissues,0.19716066,0.0,0.0,0.0,False,0.0009960343595594,0.0025983289815485,0.0071404897607862
+"alright, alright, your thought, your thoughts down below, if you have by any chance seen the film, do not spoil it for anyone",0.1710401,0.9598968029022217,0.1555555555555555,0.0,False,0.0006801536073908,0.0005772763397544,0.0013718185946345
+"uh, and you can check out some other videos right now",0.09494796,0.8855283856391907,0.0,0.0,False,0.0006720286910422,0.0005399941001087,0.000395154376747

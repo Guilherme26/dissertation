@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"six and a half hours of flying later and two flights and i'm finally here . walk outside and slipped . not used to this "" sleet "" stuff",0.031357653,0.0,0.0,0.0,0.0025366963818669,0.0009929167572408,0.0021162803750485,False
+"six and a half hours of flying later and two flights and i'm finally here . walk outside and slipped . not used to this "" sleet "" stuff",0.031357653,0.9983919262886047,0.0416666666666666,0.0,0.0025366963818669,0.0009929167572408,0.0021162803750485,False

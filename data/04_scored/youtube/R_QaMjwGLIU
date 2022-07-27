@@ -1,222 +1,222 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"to talk spoilers about mission impossible, fallout is to talk about henry freakin cavil",0.38874862,0.9975180499228504,0.8333333333333333,0.0,False,0.0033937483094632,0.0404988080263137,0.3324599862098694
-"alright, last chance",0.027752401,0.9750869756944912,0.5,0.0,False,0.0010609369492158,0.0006784218712709,0.0005667579825967
-this is the spoiler review,0.18549223,0.9942292283873312,0.5,0.0,False,0.0169478747993707,0.0003835975658148,0.0003631956642493
-you've been warned and they do a really good job teasing it out,0.13206954,0.0024116435071241,0.15,0.217,False,0.0007583707920275,0.0010100102517753,0.0256824698299169
-"okay, are you still here? he's the villain",0.2459383,0.8929769488629529,0.25,0.313,False,0.3996701836585998,0.0725558847188949,0.0054677054286003
-"oh, and he's such a good villain",0.2022951,0.0005052297478035,0.325,0.313,False,0.0509333275258541,0.0799579471349716,0.0040663876570761
-he is like,0.030842619,0.0015568777469185,0.5,0.0,False,0.0465271845459938,0.0040715625509619,0.0478008314967155
-"i've debated about whether or not i wanted to go here, but i will",0.028954152,0.0021669861805715,0.5,0.0,False,0.0006248950376175,0.0031379545107483,0.0006790680927224
-"he's like alan rickman, good as a villain",0.1539292,0.0007305445716234,0.15,0.257,False,0.0573608838021755,0.0338691771030426,0.0081408489495515
-"uh, and i think he like this isn't a role as good as hans gruber",0.13146462,0.9991714613621436,0.15,0.0,False,0.0009305726853199,0.0049794176593422,0.0697345063090324
-but i think if someone gave henry cavill such a role he could nail it,0.15684792,0.9535105480121452,0.5,0.0,False,0.0009878657292574,0.019520416855812,0.0020757694728672
-he,0.023460433,0.1741149210509971,0.5,0.0,False,0.0087242415174841,0.0026464462280273,0.0015246449038386
-he is just so good,0.043375164,0.0067380457670437,0.15,0.0,False,0.0006739232921972,0.0003708075382746,0.0076493048109114
-"why is he so good? because, from what i've heard, henry cavill, it's not a nice guy",0.2712817,0.9056646173349596,0.4,0.111,False,0.0008282341877929,0.0135274520143866,0.0214613582938909
-so question for mcquarrie,0.009648831,0.9805682654442284,0.5,0.0,False,0.0011298942845314,0.0006149201653897,0.0011071781627833
-finally put him in his element and he shines,0.22978203,0.0002226623080368,0.5,0.0,False,0.0007260078564286,0.0004190448380541,0.0089612454175949
-"i mean, think about it right",0.019852988,0.0258185455081701,0.5066964285714286,0.0,False,0.0009253482567146,0.0003465465269982,0.0011602875310927
-"what was the best moment in justice league, evil superman, because that to henry cavill is and again, the great thing about mission impossible followed is how they they let the henry cavill villain storyline unfold, so in the trailers they let it be known to us that he was an enemy of ethan hunt, but they made it seem like it was just the cia versus the imf you know, like you know, enter interagency political espionage drama right",0.2145095,0.0055512088736368,0.4650793650793651,0.078,False,0.0008104556472972,0.0068733538500964,0.0073715103790163
-"but then in the actual film like halfway through the movie, they clearly telegraphed that henry cavill is indeed the villain",0.13565879,0.993889736170647,0.475,0.165,False,0.0007606405415572,0.0019562421366572,0.0004458403564058
-in his exchange with angela bassett,0.025520578,0.1558623936803126,0.5,0.0,False,0.0007662285352125,0.000547507952433,0.0041339034214615
-"the whole audience was kind of like you're are you telling us this like wow, and i think that it's a credit to christopher mcquarrie, that he didn't have to follow the rule of three",0.040971663,0.0677546114135906,0.35,0.0,False,0.0008740245248191,0.0010708847548812,0.0011927651939913
-hitchcock's rule of three is that you have to tell an audience something three times for them to get it,0.06252546,0.1594365841891223,0.5,0.0,False,0.0009613159345462,0.0006323056295514,0.001080424292013
-"you know it can be verbally visually, but you have to put it in front of them three times, but here in one conversation and i guess it's also a crate",0.16035037,0.0430084273704818,0.5,0.0,False,0.0007318767602555,0.0003541411424521,0.0277196280658245
-to henry cavill,0.012564304,0.0371538779840355,0.5,0.0,False,0.0014254486886784,0.003165845060721,0.0009312823531217
-"he does speak very clearly with his american accent right, but he was like, oh angela bassett, you suspected it was an american agent working as a double agent",0.0825038,0.9824791199322196,0.4584285714285714,0.07,False,0.0008140551508404,0.0027171629481017,0.0053172898478806
-"i think it's hunt, and then he hands her the phone that we've only seen once before in the bathroom, and he gets her off of lark at the lark decoy, and that phone was in the bathroom, and then when he hands it to angela bassett, it's a pristine phone and you're like, oh my god, it's him",0.10461388,0.0005095810658297,0.5,0.0,False,0.0131582273170351,0.0047723269090056,0.025568664073944
-"he's the villain, but it's so subtle",0.25447917,0.0051285349541377,0.6666666666666666,0.277,False,0.0371490307152271,0.0160389505326747,0.0595955587923526
-"i wonder if everyone gets it, but i was amazed at how crystal-clear it was to me, and it turned out to be crystal clear to angela bassett, too, because of course they were able to do an ambush on him with that great underground, you know gotcha scene",0.14463188,1.0192813458519362e-05,0.2666666666666667,0.0,False,0.0006807272438891,0.0008740490302443,0.0008808982674963
-"we'll talk about that, but that was really cool",0.04165838,0.7726402057255477,0.325,0.0,False,0.0005557460244745,0.0003421689616516,0.0006622188375331
-"and then basically for the rest of the movie henry cavill plays mission impossible, gasps stalk",0.048525527,0.999181087908188,0.8333333333333333,0.0,False,0.0010152298491448,0.0029245757032185,0.0105872238054871
-he should have been gaston,0.0681194,0.9982607841456568,0.5,0.0,False,0.0207122173160314,0.049060896039009,0.2979557812213897
-"i don't know if he can sing, but luke evans played at being evil, or a character that just had a very bad temper and would go out of control",0.23452865,0.9798412078877357,0.9775,0.346,False,0.0034163601230829,0.0316665358841419,0.0489482879638671
-"the evil calmness of henry cavill, it's just a wonder to behold, i mean, and i think you might be a little bit like that in real life",0.19535941,0.0412285892800452,0.6625,0.128,False,0.0063582453876733,0.013279927894473,0.0883858501911163
-"no, no, i think i'm reek",0.14687516,0.9922707478294374,0.5,0.405,False,0.0135358152911067,0.0844406113028526,0.0070660468190908
-aval is just very artistically naive,0.34388447,0.9523995015416185,0.525,0.322,False,0.0010164226405322,0.1556451320648193,0.2438032925128936
-although those do sometimes lead to someone being evil,0.15918289,0.1936902192980835,1.0,0.355,False,0.0024302271194756,0.0265697762370109,0.023912401869893
-those characteristics,0.019852988,4.7655873450796666e-05,0.5,0.0,False,0.000662971579004,0.000454149878351,0.00112622580491
-my favorite moment of his in the movie,0.03444787,0.0004426422967424,0.25,0.0,False,0.0006955661228857,0.0004214424989186,0.0005286743398755
-i just can't believe you're continuing with this year,0.06412373,0.009983950193264,0.5,0.0,False,0.0008087719324976,0.0006634772289544,0.0010601776884868
-"so i, so it would be so easy for me to kill you",0.7740273,0.969532786466042,0.2833333333333333,0.242,False,0.8570423722267151,0.9695363640785216,0.9619974493980408
-"of course, he has a reason not to, but it was a really fabulous moment",0.031185975,0.0009771391288041,0.3,0.0,False,0.0007024374790489,0.0004032279830425,0.0007220958941616
-"i loved it so much and i know a lot of you want this to lead to a man of steel, too, but unless it's injustice, the injustice storyline with an evil super man turned bad, which would be amazing, and henry cavill would do such a good job with it, but i, i don't",0.12309273,0.0066689611424915,0.4479166666666666,0.247,False,0.0007872832939028,0.0029237556736916,0.0069008735008537
-honestly,0.018881164,0.0039648852211715,0.2,0.0,False,0.0065473825670778,0.0016858917661011,0.0004267019976396
-"i just don't see that happening, especially with where warner brothers is now",0.039598234,0.9999593479603583,0.5,0.0,False,0.0006150362314656,0.0009312752517871,0.0010208284948021
-"i don't know, and also the contract problems",0.019436494,0.998797575850924,0.5,0.278,False,0.0007085333927534,0.0005480554536916,0.0005104821757413
-"i mean, maybe i just saw based on what i'm seeing here and how good henry cavill is",0.0186035,0.0014595393587444,0.403125,0.0,False,0.0006167540559545,0.000774601183366,0.0010700052371248
-"i don't really think that he can play a good guy, to be honest with you, and unfortunately, chris evans is captain america has taken that space, so i would love to explore evil superman, but i don't think warner brothers is gonna do that",0.14373457,0.9994453857729544,0.4583333333333333,0.085,False,0.000747921760194,0.0160279441624879,0.0062469728291034
-"so henry cavill, every cab is gonna look out for him, cavill",0.03839648,0.0005006996084886,0.5,0.0,False,0.0194779783487319,0.0054744072258472,0.0094308489933609
-"so this is manager danny garcia, the rocks, ex-wife and business partner, and they should be going after roles, or he plays a villain going forward, and he, i think his star",0.09602194,0.9939163805426702,0.5,0.101,False,0.00090709538199,0.0077672260813415,0.0019169534789398
-"i think his star would grow, because that's clearly what he is meant to do",0.047495455,0.0001628167834031,0.45,0.0,False,0.0007277542026713,0.000620657694526,0.0018025381723418
-"like if if alan rickman was gonna be in a role, or maybe you know, patrick wilson often plays the villain",0.13476147,0.235176102609086,0.5,0.138,False,0.0008756179013289,0.0013435423607006,0.0009146903757937
-he's doing so well in aquaman those type of roles,0.1019289,0.0003215504807133,0.5,0.0,False,0.0006692697643302,0.0004137592040933,0.000837247876916
-"that's what henry cavill should be doing because it would be excellent, but he sure as heck ain't gonna make any more mission impossible movies",0.21109697,0.0524337398577035,0.3333333333333333,0.0,False,0.0149831026792526,0.0267895311117172,0.1346590965986251
-cuz they killed that dude,0.46292964,0.8292282025492048,0.6,0.529,False,0.5054013133049011,0.4092661142349243,0.6036149263381958
-tom cruise is like fine,0.040971663,0.0004092623228432,0.2916666666666666,0.0,False,0.0036136982962489,0.0004117589851375,0.0011565462918952
-"it's fine if you want to have him taller than me throughout the entire film, but there's no way he's gonna make it out of this movie alive like the whole audience again was in shock, because it's like he was such a great villain",0.17759849,0.99856549562168,0.3736111111111111,0.17,False,0.0011378667550161,0.0031366229522973,0.0015423336299136
-do you really just kill him and you left solomon lane alive? solomon light is played out,0.5149511,0.1239993607734998,0.4125,0.208,False,0.3395183682441711,0.556290328502655,0.8827351331710815
-i would much prefer to see henry cavill and tom cruise continue to go after each other,0.055732824,0.0042599999546986,0.48125,0.0,False,0.0051250588148832,0.0009334729402326,0.0009929011575877
-it's like to two different sides of the same coin,0.020963646,0.9978219567030744,0.5,0.0,False,0.0008752091089263,0.0003722109249792,0.0008856917847879
-"i think that would be great, but you know the look on tom cruise's face when he killed henry cavill",0.31629145,0.9688780621208468,0.35,0.233,False,0.0256430581212043,0.0898343622684478,0.1115258634090423
-he's like these are my movies,0.049898956,0.0012896293308876,0.5,0.0,False,0.005684605333954,0.0011568233603611,0.0050316760316491
-"it was just it was really funny because of their cuz of the ball, and i think maybe that being taken out of the movie consistently and thinking about the behind the scenes stuff is why maybe people aren't totally getting into it because i'm disappointed",0.16344422,0.9912584703173948,0.565,0.062,False,0.0006362606072798,0.0017671964596956,0.0065546915866434
-"know what this is? it projected to open at and around like mid 50, mid 50s",0.033761155,0.9998745568659448,0.5,0.0,False,0.0012799345422536,0.0003750722680706,0.0002962055441457
-we'll talk about the story aspect too,0.019436494,0.007204858741315,0.5,0.0,False,0.00055106630316,0.000339582999004,0.0001878502516774
-"i have another theory, but first, i want to rank the action sequences so by far and away the best one is actually the bathroom fight",0.17518331,0.1798389308966588,0.4458333333333333,0.101,False,0.0006118471501395,0.0004492182051762,0.0017931935144588
-i didn't,0.018464668,0.9992083581547216,0.5,0.0,False,0.0011523541761562,0.0006700662779621,0.0004236823588144
-"i said paris car chase was my favorite of tom cruise's stunts, but this was like a typical action sequence except it wasn't",0.058929358,0.981756473300849,0.4277777777777777,0.0,False,0.0006842812290415,0.0004433536669239,0.0004258145636413
-it was the perfect action sequence,0.021380141,0.0004600177652989,0.2249999999999999,0.0,False,0.0007212815689854,0.0004350448143668,0.0006299044471234
-"we've seen a lot of bathroom fights in action movies right, but this one just had everything and an action suspense humor",0.08050597,0.0006941842429117,0.419047619047619,0.076,False,0.0006313433405011,0.0004547071876004,0.0004094697069376
-"they kept levelling up and laying yang by the way as that lark, deep decoy did a great job going toe to toe with both tom cruise and henry cavill",0.08689302,0.0010033960547016,0.3,0.0,False,0.000887069676537,0.0028567851986736,0.0466266460716724
-"simultaneously, they were like who is this guy and the audience was like who is this guy? and then the look on leaing yang's face was like i'm leung yang",0.07970683,0.9984356415625024,0.5,0.0,False,0.0009992797859013,0.0172578133642673,0.0021008902695029
-"damn, it was just fantastic",0.5851118,0.0009746654343098,0.3,0.29,True,0.7908956408500671,0.9761339426040648,0.900880753993988
-it was edited,0.02397547,0.9909529541455722,0.5,0.0,False,0.0007392079569399,0.0009186008828692,0.0002318981278222
-"it was also edited extremely well, but my favorite moment was and i loved rebecca ferguson showed up right",0.019297661,0.0759330030543868,0.3299107142857143,0.0,False,0.0005702290218323,0.0004171041655354,0.0003318488597869
-that was so cool,0.05493369,0.013155226534981,0.325,0.0,False,0.0007802110048942,0.000354517600499,0.0007377146393992
-but my favorite moment was all the blood on the floor and they kept almost slipping on it,0.29855597,0.986009111779161,0.4,0.0,False,0.0194080024957656,0.0088428948074579,0.078501783311367
-that just was a really nice touch,0.06252546,0.0039414894358939,0.2,0.0,False,0.000580478052143,0.0003972697304561,0.0004924552631564
-i loved it and i like that realistic angle of spy work,0.059328925,0.0011014795315788,0.2833333333333333,0.0,False,0.0006974393036216,0.0005300884949974,0.0004066775727551
-it's messy,0.18154536,0.9991517910203817,0.6,0.714,False,0.0023903080727905,0.0396329574286937,0.1951545476913452
-"yeah, well, i also want henry cavill is like forget extraction",0.103539884,0.9927295138457152,0.5,0.119,False,0.0088275400921702,0.0023355714511126,0.0124974586069583
-we're gonna need a,0.022074303,0.1022378828608497,0.5,0.0,False,0.0011168065248057,0.0057361098006367,0.0038189084734767
-we're gonna need cleanup or something,0.050242316,0.9596920125179672,0.5,0.0,False,0.0012826730962842,0.0017626296030357,0.0011642294703051
-that was great,0.03994159,0.011026478306653,0.0999999999999999,0.0,False,0.0007300085853785,0.0003181244828738,0.0010210799518972
-"i love that, then the paris car chase, which, actually, the more i thought about it, i realized it was multi-leveled you know, like it started out with the acquiring solomon lane, then it turned into a truck chase",0.03994159,0.0002423922568951,0.3333333333333333,0.0,False,0.0005880368407815,0.000473748659715,0.0007459560874849
-"then it was a motorcycle chase, and then it was tom cruise in a car, and i liked that stuff with the french policewoman",0.077709,0.0016475401403127,0.35,0.0,False,0.0007814457640051,0.0005385507829487,0.0174297969788312
-how that played out,0.05133759,0.9893049669520376,0.5,0.0,False,0.000847527757287,0.0003497161960694,0.0004841339832637
-although tom cruise is on,0.044748597,0.9108821158802484,0.5,0.0,False,0.0048316153697669,0.0007169555174186,0.0011527637252584
-"i mean, of course he's the hero, but you know it's a real life",0.034962907,0.0001903850654181,0.528125,0.0,False,0.0009359367541037,0.0005533788353204,0.0028222599066793
-"i mean, i think he should get a lot a lot of credit for how",0.022074303,0.997830748749771,0.65625,0.0,False,0.0007026617531664,0.0008421121747232,0.0014564014272764
-"i mean, i think the way you played it was very good, and he's lucky that that french policewoman wasn't like",0.09655894,0.0030357000012994,0.3836458333333333,0.077,False,0.0009625655948184,0.0064579406753182,0.0431063026189804
-"you know, some particularly women, unfortunately will be like, but it's still legal what you're doing, sir",0.111500904,0.2053239448977696,0.5222222222222223,0.095,False,0.0361526012420654,0.0038402886129915,0.0070164152421057
-she was like he saved my life,0.034962907,0.0031506522864149,0.5,0.0,False,0.0044921487569808,0.0025508748367428,0.0108031406998634
-i'm just gonna let this play out right,0.052136723,0.0030390976057856,0.3571428571428571,0.0,False,0.0006847352487966,0.0006243271636776,0.0011623080354183
-"i mean, she should have just walked away",0.12888865,0.9989441497005996,0.65625,0.0,False,0.0024981794413179,0.1483315527439117,0.0113059049472212
-i don't know why you did that doesn't carry a badge,0.08689302,0.9938584126415684,0.5,0.0,False,0.0026471952442079,0.000819522421807,0.0018274461617693
-"i mean, i guess someone else, though in the group could have had a badge",0.06332459,0.9991304814834728,0.65625,0.0,False,0.0006072127143852,0.0005141142755746,0.0004717527772299
-he was undercover,0.112144895,0.1193283102830705,0.5,0.0,False,0.0085232462733984,0.0110227260738611,0.0017080982215702
-but maybe someone else could have had a badge,0.0717155,0.9926163795770352,0.5,0.0,False,0.0007867747917771,0.0006548594683408,0.0005709389806725
-i think they could have planned for that eventuality,0.026035614,0.9989646843452572,0.5,0.0,False,0.000559986801818,0.0004103461687918,0.0002931136696133
-"you know, you'd think maybe that might come up",0.03049926,0.9962120882475908,0.5,0.0,False,0.0007624174468219,0.0004952360759489,0.000430186628364
-but anyway that they're all in a car and rebecca ferguson is chasing them on a motorcycle,0.07451247,0.7678479144013487,0.5,0.0,False,0.0067747416906058,0.0007571767782792,0.005478162318468
-it was great,0.02637897,0.0147305228746404,0.0999999999999999,0.0,False,0.0006623113295063,0.0003214273310732,0.0007804117631167
-i loved,0.02929751,0.0205264784854742,0.15,0.0,False,0.0014497187221422,0.0003928455698769,0.0003961935581173
-rebecca ferguson was on the motorcycle and the wind was going through the columns,0.07251463,0.924361545411726,0.5,0.0,False,0.0007449093973264,0.0004337003047112,0.0012107613729313
-i thought that was so cool,0.033932835,0.7702725820590032,0.325,0.0,False,0.0006407214095816,0.0003560786135494,0.0007655322551727
-"like though, like you know, just she was going so fast",0.043375164,0.0899645731184155,0.4,0.0,False,0.001033108565025,0.0006125987274572,0.0018975529819726
-i thought that was so cool,0.033932835,0.7702725820590032,0.325,0.0,False,0.0006407214095816,0.0003560786135494,0.0007655322551727
-"and then when tom cruise went down the stairs on this on with the car down the steps, like the way he turned around, that was great",0.09279997,0.0588584609233163,0.4185185185185185,0.0,False,0.0009485224145464,0.0006555782165378,0.0009472480160184
-"i mean, the whole thing was not only very well staged",0.04165838,0.0016473017119277,0.4890625,0.169,False,0.0007488631526939,0.000399867654778,0.0013581229140982
-"i mean, they just kept this chase going",0.049898956,0.1246853192371293,0.65625,0.0,False,0.0007697190158069,0.0005484368884935,0.003562124678865
-i'm especially when he took the knife out,0.17173064,0.1485297671281885,0.5,0.0,False,0.0274943709373474,0.3471721410751343,0.0866386517882347
-he managed to you were like he's gonna hide in the shrubbery,0.20376207,0.9885799360368172,0.5,0.12,False,0.0084453392773866,0.0450921393930912,0.024049524217844
-"of course, we're gonna find him, but there was a way down to the canals underneath that was great",0.0495556,0.7645367700082842,0.3388888888888889,0.0,False,0.0007817049627192,0.001976235769689,0.0020215769764035
-so cool,0.028267438,0.001976511704509,0.325,0.0,False,0.0008294492727145,0.0003980265464633,0.0007795228157192
-"so i like that, but then also they showed off paris beautifully from the arc de triomphe, to the small streets where it's hard to drive, and sure enough their truck gets jammed",0.11665283,0.003152351088658,0.4409722222222222,0.04,False,0.0019288567127659,0.0005895517533645,0.0011020314414054
-"i couldn't tell if that was intentional or not, but i loved it",0.031185975,0.0029642012893491,0.15,0.26,False,0.000964202103205,0.0004180685209576,0.0007138160290196
-they kept,0.023117077,0.2251729291272817,0.5,0.0,False,0.003987995442003,0.000601269188337,0.0008175112889148
-"oh, it must have been because their motorcycles were waiting for them, but i loved that they kept going",0.040971663,0.0145836807930318,0.15,0.0,False,0.000843413057737,0.0004777964495588,0.0007895585731603
-"they, really, without even skipping a beat",0.06851897,0.0002564297280616,0.4,0.0,False,0.0011556008830666,0.0007336538983508,0.005167044699192
-they're like ok,0.02517722,0.7744196265663106,0.25,0.0,False,0.0009581489139236,0.0004921164363622,0.0018996041035279
-kick out the windshield,0.29855597,0.9266065870848352,0.5,0.0,False,0.0265889801084995,0.0555065125226974,0.4091044068336487
-keep going,0.025692256,0.8861483897202556,0.5,0.0,False,0.0254901703447103,0.0022903450299054,0.0004879175976384
-i loved it that next the helicopter,0.06771983,0.0036662238654176,0.325,0.0,False,0.0008739207987673,0.0005776043399237,0.0005273047136142
-"oh, by the way, i wanted to say that when the convoy was going, and they had the diversion of that truck, / to divert them down the way the direction they wanted them to go in, i couldn't believe it",0.040971663,0.9837242227622096,0.5777777777777778,0.0,False,0.0006929454393684,0.0007918812334537,0.0007427501841448
-the con,0.07690986,0.9971342696336536,0.5,0.0,False,0.0035540384706109,0.0191371049731969,0.4339309930801391
-the convoy wasn't like,0.029984225,0.9998504457955122,0.5,0.413,False,0.0021102088503539,0.0004051856230944,0.0024145205970853
-this seems really obvious as a way to divert us,0.05413456,0.9989002788777606,0.5,0.0,False,0.0007667189929634,0.0005663386546075,0.0007202705019153
-there's no way i'm taking the obvious route,0.0334178,0.998037406552465,0.5,0.239,False,0.0010707990732043,0.0007529713329859,0.0006063313921913
-"i was stopped, or i would have backed up, or i don't know why i would not have gone down the route that i so clearly should go down, cuz, it's a trap alright, so next up the helicopter chase like the paris car chase",0.076110736,0.0714989801821902,0.5263888888888889,0.08,False,0.0020107717718929,0.0017642470775172,0.0016474623698741
-the real thrill here is seeing cruz in the middle of all these shots,0.20009461,4.592726765958578e-05,0.45,0.0,False,0.0007392692496068,0.0036651953123509,0.0043915775604546
-like doing it himself that that's really cool,0.07011723,0.0801119969652835,0.325,0.0,False,0.0006955196731723,0.0006678237114101,0.0019128761487081
-"also on a side note, i loved when he was running across that bridge to chase after cavil",0.15276173,0.0005693371798189,0.15,0.0,False,0.0033093134406954,0.0005992022342979,0.0018532198155298
-like when i guess i'll put the footrace in here - i thought the footrace was really really well done,0.07451247,0.83310913117531,0.4,0.0,False,0.0007207239978015,0.0004979306249879,0.0009464559261687
-"i also cuz you're like, oh, yeah, you don't want to run against tom cruise",0.08290337,0.0070341440176589,0.5,0.068,False,0.0257751569151878,0.0192997306585311,0.0232959687709808
-he's tom cruise,0.043718524,1.90742707995684e-06,0.5,0.0,False,0.015580590814352,0.0032297677826136,0.0897157117724418
-running is what he does,0.070516795,0.0057448425258006,0.5,0.0,False,0.0196150615811347,0.0005657128058373,0.0022598579525947
-"so that was so cool and i like the way they were running all the way through through london, in this case, and they were, they ran into a funeral, and then he was going through buildings and everything, and i liked what they had",0.104076885,0.0025882593333089,0.2625,0.048,False,0.0007522810483351,0.0004639712569769,0.0005442308611236
-this gorgeous shot of him running across a bridge,0.31682462,0.0,0.15,0.0,False,0.0015466029290109,0.0020340792834758,0.0026781158521771
-"it was just like just in the middle of, like the london landscape with them a pedestrian bridge in the background",0.05653196,0.8628581686101163,0.5,0.0,False,0.0006437328411266,0.0004056323959957,0.0006053968099877
-it was really really well done,0.03204437,0.0032162498958365,0.4,0.0,False,0.0005955846863798,0.0003085265634581,0.0005657713045366
-then the helicopter chase,0.0471521,0.0644613491494007,0.5,0.0,False,0.0009783915011212,0.0006738785887137,0.0048675676807761
-so here it was,0.026894007,0.8198686068855972,0.5,0.0,False,0.00120775855612,0.0004470928979571,0.0005831890157423
-it was great to see,0.018464668,0.0022713284025548,0.0999999999999999,0.0,False,0.0005965498858131,0.0003479247679933,0.000423746794695
-oh so henry cavill riding in and then flailing around his own helicopter,0.09763293,0.9946895739916596,0.2,0.0,False,0.0209211967885494,0.0033007196616381,0.0165797229856252
-"i also like the gag when tom cruise climbed in and there was another guy dressed like henry cavill, also caught over the moustache and tom cruise is like his character is like",0.12953265,0.0003793991676226,0.5,0.059,False,0.0047507407143712,0.0055262818932533,0.0181520022451877
-"what? the hell? it's funny that i keep calling him tom cruise instead of ethan hunt, and i think that's very much",0.40016344,0.9953132728432572,0.3725,0.178,True,0.1932458728551864,0.5156992077827454,0.2629168927669525
-you know,0.043718524,0.0418749090246693,0.5,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
-the movies,0.019852988,1.4901774062162811e-06,0.5,0.0,False,0.0009154514991678,0.0008228664519265,0.0003338454698678
-"the movie made that choice and now they have to live with it, but i thought that was hilarious and also it was not only here, also excellently choreographed, and a fight with very high stakes starts out in the air, goes through the ground",0.083939545,0.0004439536528599,0.3155636363636364,0.062,False,0.0011771685676649,0.0003941508184652,0.0003121925983577
-they're still throwing punches,0.19862764,0.9795541997192982,0.5,0.0,False,0.1133090108633041,0.0327587462961673,0.3597008287906647
-"that was great, but i like the way they had it with them, son, him having to get the trigger off of the the countdown device, tom cruise, and then his team simultaneously defusing not one but two nukes at the same time in two different groups",0.15626417,0.0003832140217825,0.3666666666666667,0.0,False,0.0009610471897758,0.0092140696942806,0.0130199193954467
-"so you have ving rhames and michele monic and having a really nice quiet diffusion scenario with like you know, almost like it's like a surgeon like a like surgery and that was great, cuz, of course she's a doctor and they had some really nice",0.04165838,0.0049345138558483,0.25,0.0,False,0.0008725724765099,0.001458597718738,0.00147883198224
-"i had a really nice exchange with each other, really good heart between those two",0.08850401,0.0020693795604644,0.3041666666666667,0.0,False,0.0005432080943137,0.0003481582098174,0.0011454506311565
-"but then you also have rebecca ferguson and simon pegg with the other nuke with solomon lane, and they have a cool suspenseful action sequence going there, and i love the, rebecca ferguson had the same simon pegg, although he wasn't a damsel in distress, either, he's just not as well trained in fighting as she is, and that was they very much seen like team members, and i really really liked that",0.09763293,0.0013305794060105,0.3946874999999999,0.108,False,0.0007763255853205,0.001156979240477,0.088393323123455
-"it was just all of it made for a wonderfully nuanced third act, really really well constructed, and then last the halo jump",0.045091953,0.000619943604534,0.35,0.0,False,0.0007811182294972,0.0003767341258935,0.0005228620721027
-"i mean, the suits were cool, and christopher mcquarrie, at the press screening told us that they were designed specifically for this so that you could see everyone's face that all the tech that everyone wears, and the in the halo jump scene had to be designed specifically for this movie for the needs that they had, but otherwise i just thought i was a little boring",0.118584804,0.999985157833034,0.64375,0.036,False,0.0006995171424932,0.0011145900934934,0.0006236566114239
-like it was cool,0.027409043,0.0259596951120869,0.325,0.0,False,0.0007845471263863,0.0003497395664453,0.000744680466596
-i went through a lightning storm and the henry cavill got hit by lightning,0.08420804,0.1235732594459663,0.5,0.0,False,0.0215297918766737,0.0006914828554727,0.0038486723788082
-that was a fun,0.046465382,0.0261962458735497,0.35,0.0,False,0.000797385815531,0.0003585299127735,0.0007386720390059
-"i was a neat moment, but i think that it could have been more visually interesting in that regard, and i just i thought it was a little boring, like when i was watching and i was like, didn't think i told us how hard it was to film it and they had only three minutes to get the shot each day because they wanted to film it dusk or whatever, and i don't",0.12116077,0.9999414658314838,0.5399305555555556,0.049,False,0.0005831864546053,0.0005925430450588,0.0005755309248343
-really,0.016451603,0.0654819716549183,0.4,0.0,False,0.0014107627794146,0.0003701640234794,0.0006866139592602
-i think this scene wasn't worth the effort to be honest with you and also ethan hunt,0.1539292,0.9997453584848256,0.275,0.083,False,0.0008267778321169,0.0006190537242218,0.003374196588993
-"it was frustrating actually to see him trying so hard to save someone who not only clearly wouldn't save him, but you know you kind of were like",0.111500904,0.997440232858698,0.4993055555555555,0.199,False,0.0010934679303318,0.0150648290291428,0.0085757216438651
-it's either felon,0.3063832,0.9936024299667284,0.5,0.0,False,0.0112573392689228,0.1403156220912933,0.1026873663067817
-"you know, it's not good",0.0801064,0.9998145027164742,0.675,0.376,False,0.0015573239652439,0.0143210086971521,0.0019865543581545
-you know,0.043718524,0.0418749090246693,0.5,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
-it was just crazy like he was,0.41523102,0.0069835077893957,0.8,0.242,False,0.1350543946027755,0.070457674562931,0.243398055434227
-"i mean, ethan hunt is a really cool stand-up guy",0.04131502,0.0007451483102043,0.490625,0.0,False,0.0012282665120437,0.0033404976129531,0.0030075381509959
-"now on that note at the end of the movie, ethan hunt seemed tired",0.11343288,0.9970991014468668,0.7,0.182,False,0.000847807212267,0.0004101344093214,0.0029501924291253
-"well duh, right, but what i mean is is that he nominally was physically tired, but he seemed emotionally tired of this spy game of no-one trusting him having to do everything by himself, often being by himself",0.15334547,0.9997683668239776,0.6272321428571429,0.165,False,0.000991370761767,0.0016867835074663,0.0010156468488276
-"you know, i think not, you know",0.02929751,0.1781170905108721,0.5,0.0,False,0.0010295126121491,0.0019970282446593,0.0007140766247175
-"he has a lot of teammates and you know friends, you know, work friends, but i think he's often isolated in terms of his belief, and that will work out right",0.028954152,0.2047690624387909,0.3571428571428571,0.084,False,0.0005262234481051,0.0004108407010789,0.0003745139983948
-"unlike so, who has to do it? ethan hunt has to do it, and i think since they chose to play it this way with him being so exhausted and they had henry kill cavil, kill alec baldwin",0.37360558,0.998048195436886,0.7,0.258,False,0.0739234909415245,0.0610659718513488,0.2688714265823364
-maybe it's time for ethan hunt to lead the imf,0.083939545,0.0180110888273293,0.5,0.0,False,0.0024583686608821,0.0061510354280471,0.0009117302251979
-"i mean, i don't think cruz would ever be willing to do it, but maybe i'll have no choice and he could still be in the field and lead and i would love to see some other characters like rebecca ferguson take up some of the action sequences, but i think that after he broke his ankle doing a stunt and the insurance company it seems had to pony up seventy million dollars in coverage",0.1473238,0.9999452210785474,0.45875,0.075,False,0.0006347295129671,0.0004666611785069,0.000672765308991
-"i don't know if they'll ever let crews do a stunt his own stunts again, so this might be the only direction they can go in, and i think it would actually be beneficial to the series",0.03187269,0.9833131126193826,0.4,0.0,False,0.0006637976039201,0.0003996212908532,0.0005626876372843
-i'm not saying tom cruise shouldn't still be the star of mission impossible,0.087430015,0.9955386472741734,0.8333333333333333,0.0,False,0.0012817351380363,0.0006551909609697,0.0018669563578441
-"i think he should be, but i think he can",0.028267438,0.07488138485882,0.5,0.0,False,0.0009363492717966,0.0019143333192914,0.001210261019878
-i think he could stand to,0.032902762,0.9918083159767404,0.5,0.0,False,0.0014558689435943,0.0005777245969511,0.0019791731610894
-"nice to think he shouldn't killed henry cavill off, and i think he could stand to share a little bit more space, and i think it would only improve him, and i think he's got a look at the box office numbers",0.17957193,0.9817144204944456,0.42875,0.0,False,0.0099723078310489,0.2057192623615265,0.0720711052417755
-we'll see what they actually end up being,0.047495455,0.0010114132091471,0.5,0.0,False,0.000837224361021,0.0006587021634913,0.000617979967501
-but that chill alarm him and showed him showing him that you know,0.104076885,0.8700959900756569,0.5,0.205,False,0.0017802538350224,0.0027884910814464,0.0011118138208985
-"maybe he is doing something a little bit wrong, because this movie deserves better box office numbers quite frankly, and as for the actual story, the movie starts out a little bit like, like an old-school video game, with the mission presented almost directly to the audience, which was both fun and a bit corny",0.15626417,0.9978249668614348,0.5234375,0.044,False,0.0008384805987589,0.0019320788560435,0.0004810894606634
-"also the wolf blitzer gag was super corny, although to the movies credit, i only figured out that's what they were doing",0.23716165,0.9999677525609296,0.4166666666666667,0.086,False,0.0007957352790981,0.0031761154532432,0.0018698180792853
-just like a few seconds before it,0.033932835,0.8996664148465541,0.6,0.0,False,0.0008741111378185,0.0004268047050572,0.0005552303628064
-even that i thought wolf blitzer was just working with the imf,0.0495556,0.9664459733797092,0.5,0.0,False,0.000885150511749,0.0026625355239957,0.0007372528780251
-i was like woo,0.026894007,0.0325498556733378,0.5,0.0,False,0.0022654803469777,0.001233343151398,0.0021236937027424
-they flew wolf blitzer out there,0.09279997,0.0034028797141911,0.5,0.0,False,0.0017132601933553,0.0017713060369715,0.0048227617517113
-i totally didn't,0.019297661,0.9992113981166304,0.5,0.0,False,0.0068334047682583,0.0004860871704295,0.0004351999377831
-"i forgot that they were using how like halloween masks, and speaking of halloween masks, i loved henry cavill",0.053335425,0.0182925535358154,0.15,0.0,False,0.0012395498342812,0.0024907614570111,0.0006185562815517
-disdain for them,0.22157386,0.9999468304701462,0.5,0.608,False,0.0100938975811004,0.0007059193449094,0.0276462584733963
-"he's like you guys are so stupid with your halloween masks, and they brilliantly brilliantly use that to trick him",0.8346757,0.0183285562219496,0.475,0.179,True,0.9725654125213624,0.9957190155982972,0.9881581664085388
-"and when he and i love the moment when he says it, he's like you're stupid halloween masks",0.7382047,0.9128118956212984,0.575,0.135,True,0.9128012657165528,0.9945847392082214,0.964689075946808
-"he brings it up again, and then as he says it, he's like holy crap",0.7593913,0.9995640635015854,0.9,0.144,False,0.9232569932937622,0.9829685091972352,0.968039333820343
-"is that really solomon lane? no, it's benjy in a halloween mask and you damn kids",0.7138269,0.1154865137156524,0.4,0.153,True,0.8902987837791443,0.984104573726654,0.9873839616775512
-you know scooby-doo like it was just a great moment,0.0765103,0.0032370825759755,0.0999999999999999,0.0,False,0.0138807976618409,0.0251007471233606,0.0335975252091884
-"and come to think of it, i think the lame wolf blitzer moment earlier does a great job of setting this up right like it seems lame",0.30187345,0.999571365370876,0.4914285714285714,0.159,False,0.0014161330182105,0.093559980392456,0.0871314704418182
-"until suddenly it's very, very cool, so i know that was great",0.043375164,0.0186125542320263,0.18625,0.0,False,0.0006022654124535,0.000331322546117,0.0009186823735944
-"oh so the opening credits by the way, ruined west bentley being in the film",0.13610743,0.9856155559261792,0.5,0.164,False,0.0013024972286075,0.0005372438463382,0.0031134572345763
-i was watching the opening credits and i was like west bentley,0.02124131,0.0036773107853199,0.5,0.0,False,0.0007407717057503,0.0008786504622548,0.0025094144511967
-"who's he gonna be? for a while? i thought maybe he'd be like one of the members, like one of the apostles or something, but i really liked him showing up as michelle monica's husband",0.04165838,0.0003771937050614,0.2,0.0,False,0.0010344416368752,0.0027802875265479,0.0035942017566412
-"you could feel the warmth of their relationship and the lives that they had, and i think that was both of them michelle, michelle monoghan and west belly",0.022213135,0.0002861438655416,0.5,0.0,False,0.0007108694990165,0.0005258850287646,0.0010628702584654
-they both did a great job,0.023632111,0.0042194969327976,0.0999999999999999,0.0,False,0.0007086455007083,0.0004048660921398,0.0007399532478302
-"i mean the nice guy ness was just rating off of what's bentley like you wouldn't believe, or maybe you wouldn't believe it, but he just seemed like wow",0.03599298,0.0042064429787191,0.4354166666666667,0.0,False,0.0009625760721974,0.0043088370002806,0.0028150358702987
-i think anybody would be like that awesome like,0.036679696,0.0093834981092033,0.0,0.0,False,0.0007970029255375,0.0004537496133707,0.0066533922217786
-"no matter what he did, you'd be like he's so cool and in this case he took the life that ethan hunt turned down, and i really could feel that in that scene i loved that you know the road not traveled, and you can feel how much it hurt tom cruise's ethan hunt",0.083939545,0.1248101066931258,0.3705555555555556,0.072,False,0.0053397421725094,0.0005087587051093,0.0018555684946477
-"and maybe you know, as you can see, i'm referring to him and ethan hunt in this scenario",0.03444787,0.9188047036674934,0.5,0.0,False,0.0005643161130137,0.0004101754457224,0.0009557892917655
-"and maybe if these movies were more story based, these mission impossible movies, the road not taken' would have been an interesting idea to explore further, perhaps throughout the entire film, but maybe in the next movie, right as i said, i think christopher mcquarrie has done all that he can here, and they should bring in somebody else, and hopefully that person recognizes that these movies maybe aren't as successful because audiences don't emotionally connect with the character of ethan hunt",0.042001735,0.9985596541262476,0.4239417989417989,0.046,False,0.0005910232430323,0.0004983850521966,0.0003433397505432
-instead they spend the movie being in awe of tom cruise,0.06332459,0.1147160621930905,0.5,0.0,False,0.0010095267789438,0.001194612821564,0.0022602914832532
-"and hey, the guy's awfully impressive",0.29021257,0.0007442840073087,0.0,0.0,False,0.0006335446378216,0.0017018035287037,0.0300404578447341
-"he deserves our our awe right, i mean, and this might be the ultimate tom cruise movie",0.08635602,0.0004443112954374,0.5044642857142857,0.0,False,0.0007622463162988,0.0009996454464271,0.0021257440093904
-"but i'd like to add that tom cruise is very funny, very charming, very handsome and a very good actor",0.043718524,0.0020411854039388,0.150625,0.0,False,0.0007709893980063,0.0004470261919777,0.0009960675379261
-"he's more than just stunts, and i think it would serve him well to remember that",0.08635602,0.000458110338219,0.25,0.0,False,0.0008547352044843,0.0004159625968895,0.0898097828030586
-"i mean, he's made a lot of movies don't involve any stunts, but he seems to have drifted away from that",0.0801064,0.9988705647402806,0.65625,0.0,False,0.0006501624593511,0.0004716374387498,0.0008238451555371
-maybe you might want to consider circling back and bringing that element into these movies,0.119872786,0.9214055102945627,0.5,0.0,False,0.000699468771927,0.0005472056218422,0.0004599668318405
-"all right, so that's my review",0.020408317,0.0046482805796623,0.3571428571428571,0.0,False,0.0007209273753687,0.0003876867413055,0.0004151190514676
-my spoiler review of mission impossible fallout,0.09816993,0.995664358640162,0.8333333333333333,0.0,False,0.0009891517693176,0.000473306979984,0.0004569965240079
-"i'm very excited to discuss the movie with you down below, both with you, but you thought of it and what you would do to improve it, even if you think it's a perfect movie, but you can't argue with the lackluster box office, especially if it does open as expected, so i think that's a good exercise from a business perspective, to look at these movies from the perspective and the needs of the studio and also tom cruise",0.06532243,0.1818051007699687,0.3620039682539683,0.0,False,0.0005358561174944,0.000427492253948,0.0004103927058167
-right,0.016521018,0.0051639117657612,0.3571428571428571,0.0,False,0.000928676337935,0.0005848494474776,0.0005620717420242
-"i mean, he's got to know he's got to keep growing this thing if he wants it to stick around for even longer than it has, which in itself is impressive",0.044405237,0.9398989993518324,0.3520833333333333,0.0,False,0.0006217634072527,0.0004201552656013,0.0006678329664282
-"so again, share those thoughts down below, and of course, as always, you can check out some more videos right now",0.089577995,0.0029045345860042,0.394973544973545,0.0,False,0.0005765537498518,0.00040804623859,0.0003618976625148
+"to talk spoilers about mission impossible, fallout is to talk about henry freakin cavil",0.38874862,0.9950363039970398,0.6666666666666666,0.0,False,0.0033937483094632,0.0404988080263137,0.3324599862098694
+"alright, last chance",0.027752401,0.9501760005950928,0.0,0.0,False,0.0010609369492158,0.0006784218712709,0.0005667579825967
+this is the spoiler review,0.18549223,0.9884589314460754,0.0,0.0,False,0.0169478747993707,0.0003835975658148,0.0003631956642493
+you've been warned and they do a really good job teasing it out,0.13206954,0.0,0.0,0.217,False,0.0007583707920275,0.0010100102517753,0.0256824698299169
+"okay, are you still here? he's the villain",0.2459383,0.785962700843811,0.0,0.313,False,0.3996701836585998,0.0725558847188949,0.0054677054286003
+"oh, and he's such a good villain",0.2022951,0.0,0.0,0.313,False,0.0509333275258541,0.0799579471349716,0.0040663876570761
+he is like,0.030842619,0.0,0.0,0.0,False,0.0465271845459938,0.0040715625509619,0.0478008314967155
+"i've debated about whether or not i wanted to go here, but i will",0.028954152,0.0,0.0,0.0,False,0.0006248950376175,0.0031379545107483,0.0006790680927224
+"he's like alan rickman, good as a villain",0.1539292,0.0,0.0,0.257,False,0.0573608838021755,0.0338691771030426,0.0081408489495515
+"uh, and i think he like this isn't a role as good as hans gruber",0.13146462,0.9983429908752441,0.0,0.0,False,0.0009305726853199,0.0049794176593422,0.0697345063090324
+but i think if someone gave henry cavill such a role he could nail it,0.15684792,0.9070249199867249,0.0,0.0,False,0.0009878657292574,0.019520416855812,0.0020757694728672
+he,0.023460433,0.0,0.0,0.0,False,0.0087242415174841,0.0026464462280273,0.0015246449038386
+he is just so good,0.043375164,0.0,0.0,0.0,False,0.0006739232921972,0.0003708075382746,0.0076493048109114
+"why is he so good? because, from what i've heard, henry cavill, it's not a nice guy",0.2712817,0.8113369941711426,0.0,0.111,False,0.0008282341877929,0.0135274520143866,0.0214613582938909
+so question for mcquarrie,0.009648831,0.961138129234314,0.0,0.0,False,0.0011298942845314,0.0006149201653897,0.0011071781627833
+finally put him in his element and he shines,0.22978203,0.0,0.0,0.0,False,0.0007260078564286,0.0004190448380541,0.0089612454175949
+"i mean, think about it right",0.019852988,0.0,0.0133928571428571,0.0,False,0.0009253482567146,0.0003465465269982,0.0011602875310927
+"what was the best moment in justice league, evil superman, because that to henry cavill is and again, the great thing about mission impossible followed is how they they let the henry cavill villain storyline unfold, so in the trailers they let it be known to us that he was an enemy of ethan hunt, but they made it seem like it was just the cia versus the imf you know, like you know, enter interagency political espionage drama right",0.2145095,0.0,0.0,0.078,False,0.0008104556472972,0.0068733538500964,0.0073715103790163
+"but then in the actual film like halfway through the movie, they clearly telegraphed that henry cavill is indeed the villain",0.13565879,0.987779974937439,0.0,0.165,False,0.0007606405415572,0.0019562421366572,0.0004458403564058
+in his exchange with angela bassett,0.025520578,0.0,0.0,0.0,False,0.0007662285352125,0.000547507952433,0.0041339034214615
+"the whole audience was kind of like you're are you telling us this like wow, and i think that it's a credit to christopher mcquarrie, that he didn't have to follow the rule of three",0.040971663,0.0,0.0,0.0,False,0.0008740245248191,0.0010708847548812,0.0011927651939913
+hitchcock's rule of three is that you have to tell an audience something three times for them to get it,0.06252546,0.0,0.0,0.0,False,0.0009613159345462,0.0006323056295514,0.001080424292013
+"you know it can be verbally visually, but you have to put it in front of them three times, but here in one conversation and i guess it's also a crate",0.16035037,0.0,0.0,0.0,False,0.0007318767602555,0.0003541411424521,0.0277196280658245
+to henry cavill,0.012564304,0.0,0.0,0.0,False,0.0014254486886784,0.003165845060721,0.0009312823531217
+"he does speak very clearly with his american accent right, but he was like, oh angela bassett, you suspected it was an american agent working as a double agent",0.0825038,0.9649596810340881,0.0,0.07,False,0.0008140551508404,0.0027171629481017,0.0053172898478806
+"i think it's hunt, and then he hands her the phone that we've only seen once before in the bathroom, and he gets her off of lark at the lark decoy, and that phone was in the bathroom, and then when he hands it to angela bassett, it's a pristine phone and you're like, oh my god, it's him",0.10461388,0.0,0.0,0.0,False,0.0131582273170351,0.0047723269090056,0.025568664073944
+"he's the villain, but it's so subtle",0.25447917,0.0,0.3333333333333333,0.277,False,0.0371490307152271,0.0160389505326747,0.0595955587923526
+"i wonder if everyone gets it, but i was amazed at how crystal-clear it was to me, and it turned out to be crystal clear to angela bassett, too, because of course they were able to do an ambush on him with that great underground, you know gotcha scene",0.14463188,0.0,0.0,0.0,False,0.0006807272438891,0.0008740490302443,0.0008808982674963
+"we'll talk about that, but that was really cool",0.04165838,0.5452991127967834,0.0,0.0,False,0.0005557460244745,0.0003421689616516,0.0006622188375331
+"and then basically for the rest of the movie henry cavill plays mission impossible, gasps stalk",0.048525527,0.9983622431755066,0.6666666666666666,0.0,False,0.0010152298491448,0.0029245757032185,0.0105872238054871
+he should have been gaston,0.0681194,0.9965217113494873,0.0,0.0,False,0.0207122173160314,0.049060896039009,0.2979557812213897
+"i don't know if he can sing, but luke evans played at being evil, or a character that just had a very bad temper and would go out of control",0.23452865,0.9596840739250183,0.9549999999999998,0.346,False,0.0034163601230829,0.0316665358841419,0.0489482879638671
+"the evil calmness of henry cavill, it's just a wonder to behold, i mean, and i think you might be a little bit like that in real life",0.19535941,0.0,0.325,0.128,False,0.0063582453876733,0.013279927894473,0.0883858501911163
+"no, no, i think i'm reek",0.14687516,0.9845421314239502,0.0,0.405,False,0.0135358152911067,0.0844406113028526,0.0070660468190908
+aval is just very artistically naive,0.34388447,0.9048029184341431,0.0499999999999999,0.322,False,0.0010164226405322,0.1556451320648193,0.2438032925128936
+although those do sometimes lead to someone being evil,0.15918289,0.0,1.0,0.355,False,0.0024302271194756,0.0265697762370109,0.023912401869893
+those characteristics,0.019852988,0.0,0.0,0.0,False,0.000662971579004,0.000454149878351,0.00112622580491
+my favorite moment of his in the movie,0.03444787,0.0,0.0,0.0,False,0.0006955661228857,0.0004214424989186,0.0005286743398755
+i just can't believe you're continuing with this year,0.06412373,0.0,0.0,0.0,False,0.0008087719324976,0.0006634772289544,0.0010601776884868
+"so i, so it would be so easy for me to kill you",0.7740273,0.939068078994751,0.0,0.242,False,0.8570423722267151,0.9695363640785216,0.9619974493980408
+"of course, he has a reason not to, but it was a really fabulous moment",0.031185975,0.0,0.0,0.0,False,0.0007024374790489,0.0004032279830425,0.0007220958941616
+"i loved it so much and i know a lot of you want this to lead to a man of steel, too, but unless it's injustice, the injustice storyline with an evil super man turned bad, which would be amazing, and henry cavill would do such a good job with it, but i, i don't",0.12309273,0.0,0.0,0.247,False,0.0007872832939028,0.0029237556736916,0.0069008735008537
+honestly,0.018881164,0.0,0.0,0.0,False,0.0065473825670778,0.0016858917661011,0.0004267019976396
+"i just don't see that happening, especially with where warner brothers is now",0.039598234,0.9999186992645264,0.0,0.0,False,0.0006150362314656,0.0009312752517871,0.0010208284948021
+"i don't know, and also the contract problems",0.019436494,0.9975952506065369,0.0,0.278,False,0.0007085333927534,0.0005480554536916,0.0005104821757413
+"i mean, maybe i just saw based on what i'm seeing here and how good henry cavill is",0.0186035,0.0,0.0,0.0,False,0.0006167540559545,0.000774601183366,0.0010700052371248
+"i don't really think that he can play a good guy, to be honest with you, and unfortunately, chris evans is captain america has taken that space, so i would love to explore evil superman, but i don't think warner brothers is gonna do that",0.14373457,0.9988908171653748,0.0,0.085,False,0.000747921760194,0.0160279441624879,0.0062469728291034
+"so henry cavill, every cab is gonna look out for him, cavill",0.03839648,0.0,0.0,0.0,False,0.0194779783487319,0.0054744072258472,0.0094308489933609
+"so this is manager danny garcia, the rocks, ex-wife and business partner, and they should be going after roles, or he plays a villain going forward, and he, i think his star",0.09602194,0.9878332614898682,0.0,0.101,False,0.00090709538199,0.0077672260813415,0.0019169534789398
+"i think his star would grow, because that's clearly what he is meant to do",0.047495455,0.0,0.0,0.0,False,0.0007277542026713,0.000620657694526,0.0018025381723418
+"like if if alan rickman was gonna be in a role, or maybe you know, patrick wilson often plays the villain",0.13476147,0.0,0.0,0.138,False,0.0008756179013289,0.0013435423607006,0.0009146903757937
+he's doing so well in aquaman those type of roles,0.1019289,0.0,0.0,0.0,False,0.0006692697643302,0.0004137592040933,0.000837247876916
+"that's what henry cavill should be doing because it would be excellent, but he sure as heck ain't gonna make any more mission impossible movies",0.21109697,0.0,0.0,0.0,False,0.0149831026792526,0.0267895311117172,0.1346590965986251
+cuz they killed that dude,0.46292964,0.6584704518318176,0.2,0.529,False,0.5054013133049011,0.4092661142349243,0.6036149263381958
+tom cruise is like fine,0.040971663,0.0,0.0,0.0,False,0.0036136982962489,0.0004117589851375,0.0011565462918952
+"it's fine if you want to have him taller than me throughout the entire film, but there's no way he's gonna make it out of this movie alive like the whole audience again was in shock, because it's like he was such a great villain",0.17759849,0.9971311092376709,0.0,0.17,False,0.0011378667550161,0.0031366229522973,0.0015423336299136
+do you really just kill him and you left solomon lane alive? solomon light is played out,0.5149511,0.0,0.0,0.208,False,0.3395183682441711,0.556290328502655,0.8827351331710815
+i would much prefer to see henry cavill and tom cruise continue to go after each other,0.055732824,0.0,0.0,0.0,False,0.0051250588148832,0.0009334729402326,0.0009929011575877
+it's like to two different sides of the same coin,0.020963646,0.9956440925598145,0.0,0.0,False,0.0008752091089263,0.0003722109249792,0.0008856917847879
+"i think that would be great, but you know the look on tom cruise's face when he killed henry cavill",0.31629145,0.9377586841583252,0.0,0.233,False,0.0256430581212043,0.0898343622684478,0.1115258634090423
+he's like these are my movies,0.049898956,0.0,0.0,0.0,False,0.005684605333954,0.0011568233603611,0.0050316760316491
+"it was just it was really funny because of their cuz of the ball, and i think maybe that being taken out of the movie consistently and thinking about the behind the scenes stuff is why maybe people aren't totally getting into it because i'm disappointed",0.16344422,0.982517659664154,0.13,0.062,False,0.0006362606072798,0.0017671964596956,0.0065546915866434
+"know what this is? it projected to open at and around like mid 50, mid 50s",0.033761155,0.9997491240501404,0.0,0.0,False,0.0012799345422536,0.0003750722680706,0.0002962055441457
+we'll talk about the story aspect too,0.019436494,0.0,0.0,0.0,False,0.00055106630316,0.000339582999004,0.0001878502516774
+"i have another theory, but first, i want to rank the action sequences so by far and away the best one is actually the bathroom fight",0.17518331,0.0,0.0,0.101,False,0.0006118471501395,0.0004492182051762,0.0017931935144588
+i didn't,0.018464668,0.9984167814254761,0.0,0.0,False,0.0011523541761562,0.0006700662779621,0.0004236823588144
+"i said paris car chase was my favorite of tom cruise's stunts, but this was like a typical action sequence except it wasn't",0.058929358,0.9635144472122192,0.0,0.0,False,0.0006842812290415,0.0004433536669239,0.0004258145636413
+it was the perfect action sequence,0.021380141,0.0,0.0,0.0,False,0.0007212815689854,0.0004350448143668,0.0006299044471234
+"we've seen a lot of bathroom fights in action movies right, but this one just had everything and an action suspense humor",0.08050597,0.0,0.0,0.076,False,0.0006313433405011,0.0004547071876004,0.0004094697069376
+"they kept levelling up and laying yang by the way as that lark, deep decoy did a great job going toe to toe with both tom cruise and henry cavill",0.08689302,0.0,0.0,0.0,False,0.000887069676537,0.0028567851986736,0.0466266460716724
+"simultaneously, they were like who is this guy and the audience was like who is this guy? and then the look on leaing yang's face was like i'm leung yang",0.07970683,0.9968714118003845,0.0,0.0,False,0.0009992797859013,0.0172578133642673,0.0021008902695029
+"damn, it was just fantastic",0.5851118,0.0,0.0,0.29,True,0.7908956408500671,0.9761339426040648,0.900880753993988
+it was edited,0.02397547,0.9819066524505615,0.0,0.0,False,0.0007392079569399,0.0009186008828692,0.0002318981278222
+"it was also edited extremely well, but my favorite moment was and i loved rebecca ferguson showed up right",0.019297661,0.0,0.0,0.0,False,0.0005702290218323,0.0004171041655354,0.0003318488597869
+that was so cool,0.05493369,0.0,0.0,0.0,False,0.0007802110048942,0.000354517600499,0.0007377146393992
+but my favorite moment was all the blood on the floor and they kept almost slipping on it,0.29855597,0.972019374370575,0.0,0.0,False,0.0194080024957656,0.0088428948074579,0.078501783311367
+that just was a really nice touch,0.06252546,0.0,0.0,0.0,False,0.000580478052143,0.0003972697304561,0.0004924552631564
+i loved it and i like that realistic angle of spy work,0.059328925,0.0,0.0,0.0,False,0.0006974393036216,0.0005300884949974,0.0004066775727551
+it's messy,0.18154536,0.9983036518096924,0.2,0.714,False,0.0023903080727905,0.0396329574286937,0.1951545476913452
+"yeah, well, i also want henry cavill is like forget extraction",0.103539884,0.9854596257209778,0.0,0.119,False,0.0088275400921702,0.0023355714511126,0.0124974586069583
+we're gonna need a,0.022074303,0.0,0.0,0.0,False,0.0011168065248057,0.0057361098006367,0.0038189084734767
+we're gonna need cleanup or something,0.050242316,0.9193873405456543,0.0,0.0,False,0.0012826730962842,0.0017626296030357,0.0011642294703051
+that was great,0.03994159,0.0,0.0,0.0,False,0.0007300085853785,0.0003181244828738,0.0010210799518972
+"i love that, then the paris car chase, which, actually, the more i thought about it, i realized it was multi-leveled you know, like it started out with the acquiring solomon lane, then it turned into a truck chase",0.03994159,0.0,0.0,0.0,False,0.0005880368407815,0.000473748659715,0.0007459560874849
+"then it was a motorcycle chase, and then it was tom cruise in a car, and i liked that stuff with the french policewoman",0.077709,0.0,0.0,0.0,False,0.0007814457640051,0.0005385507829487,0.0174297969788312
+how that played out,0.05133759,0.9786108136177063,0.0,0.0,False,0.000847527757287,0.0003497161960694,0.0004841339832637
+although tom cruise is on,0.044748597,0.8217715620994568,0.0,0.0,False,0.0048316153697669,0.0007169555174186,0.0011527637252584
+"i mean, of course he's the hero, but you know it's a real life",0.034962907,0.0,0.0562499999999999,0.0,False,0.0009359367541037,0.0005533788353204,0.0028222599066793
+"i mean, i think he should get a lot a lot of credit for how",0.022074303,0.9956616759300232,0.3125,0.0,False,0.0007026617531664,0.0008421121747232,0.0014564014272764
+"i mean, i think the way you played it was very good, and he's lucky that that french policewoman wasn't like",0.09655894,0.0,0.0,0.077,False,0.0009625655948184,0.0064579406753182,0.0431063026189804
+"you know, some particularly women, unfortunately will be like, but it's still legal what you're doing, sir",0.111500904,0.0,0.0444444444444444,0.095,False,0.0361526012420654,0.0038402886129915,0.0070164152421057
+she was like he saved my life,0.034962907,0.0,0.0,0.0,False,0.0044921487569808,0.0025508748367428,0.0108031406998634
+i'm just gonna let this play out right,0.052136723,0.0,0.0,0.0,False,0.0006847352487966,0.0006243271636776,0.0011623080354183
+"i mean, she should have just walked away",0.12888865,0.9978883862495422,0.3125,0.0,False,0.0024981794413179,0.1483315527439117,0.0113059049472212
+i don't know why you did that doesn't carry a badge,0.08689302,0.98771733045578,0.0,0.0,False,0.0026471952442079,0.000819522421807,0.0018274461617693
+"i mean, i guess someone else, though in the group could have had a badge",0.06332459,0.998261034488678,0.3125,0.0,False,0.0006072127143852,0.0005141142755746,0.0004717527772299
+he was undercover,0.112144895,0.0,0.0,0.0,False,0.0085232462733984,0.0110227260738611,0.0017080982215702
+but maybe someone else could have had a badge,0.0717155,0.9852333664894104,0.0,0.0,False,0.0007867747917771,0.0006548594683408,0.0005709389806725
+i think they could have planned for that eventuality,0.026035614,0.9979294538497925,0.0,0.0,False,0.000559986801818,0.0004103461687918,0.0002931136696133
+"you know, you'd think maybe that might come up",0.03049926,0.992424488067627,0.0,0.0,False,0.0007624174468219,0.0004952360759489,0.000430186628364
+but anyway that they're all in a car and rebecca ferguson is chasing them on a motorcycle,0.07451247,0.5357149243354797,0.0,0.0,False,0.0067747416906058,0.0007571767782792,0.005478162318468
+it was great,0.02637897,0.0,0.0,0.0,False,0.0006623113295063,0.0003214273310732,0.0007804117631167
+i loved,0.02929751,0.0,0.0,0.0,False,0.0014497187221422,0.0003928455698769,0.0003961935581173
+rebecca ferguson was on the motorcycle and the wind was going through the columns,0.07251463,0.8487293124198914,0.0,0.0,False,0.0007449093973264,0.0004337003047112,0.0012107613729313
+i thought that was so cool,0.033932835,0.5405640602111816,0.0,0.0,False,0.0006407214095816,0.0003560786135494,0.0007655322551727
+"like though, like you know, just she was going so fast",0.043375164,0.0,0.0,0.0,False,0.001033108565025,0.0006125987274572,0.0018975529819726
+i thought that was so cool,0.033932835,0.5405640602111816,0.0,0.0,False,0.0006407214095816,0.0003560786135494,0.0007655322551727
+"and then when tom cruise went down the stairs on this on with the car down the steps, like the way he turned around, that was great",0.09279997,0.0,0.0,0.0,False,0.0009485224145464,0.0006555782165378,0.0009472480160184
+"i mean, the whole thing was not only very well staged",0.04165838,0.0,0.0,0.169,False,0.0007488631526939,0.000399867654778,0.0013581229140982
+"i mean, they just kept this chase going",0.049898956,0.0,0.3125,0.0,False,0.0007697190158069,0.0005484368884935,0.003562124678865
+i'm especially when he took the knife out,0.17173064,0.0,0.0,0.0,False,0.0274943709373474,0.3471721410751343,0.0866386517882347
+he managed to you were like he's gonna hide in the shrubbery,0.20376207,0.9771608114242554,0.0,0.12,False,0.0084453392773866,0.0450921393930912,0.024049524217844
+"of course, we're gonna find him, but there was a way down to the canals underneath that was great",0.0495556,0.5290929079055786,0.0,0.0,False,0.0007817049627192,0.001976235769689,0.0020215769764035
+so cool,0.028267438,0.0,0.0,0.0,False,0.0008294492727145,0.0003980265464633,0.0007795228157192
+"so i like that, but then also they showed off paris beautifully from the arc de triomphe, to the small streets where it's hard to drive, and sure enough their truck gets jammed",0.11665283,0.0,0.0,0.04,False,0.0019288567127659,0.0005895517533645,0.0011020314414054
+"i couldn't tell if that was intentional or not, but i loved it",0.031185975,0.0,0.0,0.26,False,0.000964202103205,0.0004180685209576,0.0007138160290196
+they kept,0.023117077,0.0,0.0,0.0,False,0.003987995442003,0.000601269188337,0.0008175112889148
+"oh, it must have been because their motorcycles were waiting for them, but i loved that they kept going",0.040971663,0.0,0.0,0.0,False,0.000843413057737,0.0004777964495588,0.0007895585731603
+"they, really, without even skipping a beat",0.06851897,0.0,0.0,0.0,False,0.0011556008830666,0.0007336538983508,0.005167044699192
+they're like ok,0.02517722,0.5488578081130981,0.0,0.0,False,0.0009581489139236,0.0004921164363622,0.0018996041035279
+kick out the windshield,0.29855597,0.853219211101532,0.0,0.0,False,0.0265889801084995,0.0555065125226974,0.4091044068336487
+keep going,0.025692256,0.7723061442375183,0.0,0.0,False,0.0254901703447103,0.0022903450299054,0.0004879175976384
+i loved it that next the helicopter,0.06771983,0.0,0.0,0.0,False,0.0008739207987673,0.0005776043399237,0.0005273047136142
+"oh, by the way, i wanted to say that when the convoy was going, and they had the diversion of that truck, / to divert them down the way the direction they wanted them to go in, i couldn't believe it",0.040971663,0.9674497842788696,0.1555555555555555,0.0,False,0.0006929454393684,0.0007918812334537,0.0007427501841448
+the con,0.07690986,0.9942687749862671,0.0,0.0,False,0.0035540384706109,0.0191371049731969,0.4339309930801391
+the convoy wasn't like,0.029984225,0.9997009038925171,0.0,0.413,False,0.0021102088503539,0.0004051856230944,0.0024145205970853
+this seems really obvious as a way to divert us,0.05413456,0.9978006482124329,0.0,0.0,False,0.0007667189929634,0.0005663386546075,0.0007202705019153
+there's no way i'm taking the obvious route,0.0334178,0.9960749745368958,0.0,0.239,False,0.0010707990732043,0.0007529713329859,0.0006063313921913
+"i was stopped, or i would have backed up, or i don't know why i would not have gone down the route that i so clearly should go down, cuz, it's a trap alright, so next up the helicopter chase like the paris car chase",0.076110736,0.0,0.0527777777777777,0.08,False,0.0020107717718929,0.0017642470775172,0.0016474623698741
+the real thrill here is seeing cruz in the middle of all these shots,0.20009461,0.0,0.0,0.0,False,0.0007392692496068,0.0036651953123509,0.0043915775604546
+like doing it himself that that's really cool,0.07011723,0.0,0.0,0.0,False,0.0006955196731723,0.0006678237114101,0.0019128761487081
+"also on a side note, i loved when he was running across that bridge to chase after cavil",0.15276173,0.0,0.0,0.0,False,0.0033093134406954,0.0005992022342979,0.0018532198155298
+like when i guess i'll put the footrace in here - i thought the footrace was really really well done,0.07451247,0.6662319898605347,0.0,0.0,False,0.0007207239978015,0.0004979306249879,0.0009464559261687
+"i also cuz you're like, oh, yeah, you don't want to run against tom cruise",0.08290337,0.0,0.0,0.068,False,0.0257751569151878,0.0192997306585311,0.0232959687709808
+he's tom cruise,0.043718524,0.0,0.0,0.0,False,0.015580590814352,0.0032297677826136,0.0897157117724418
+running is what he does,0.070516795,0.0,0.0,0.0,False,0.0196150615811347,0.0005657128058373,0.0022598579525947
+"so that was so cool and i like the way they were running all the way through through london, in this case, and they were, they ran into a funeral, and then he was going through buildings and everything, and i liked what they had",0.104076885,0.0,0.0,0.048,False,0.0007522810483351,0.0004639712569769,0.0005442308611236
+this gorgeous shot of him running across a bridge,0.31682462,0.0,0.0,0.0,False,0.0015466029290109,0.0020340792834758,0.0026781158521771
+"it was just like just in the middle of, like the london landscape with them a pedestrian bridge in the background",0.05653196,0.7257276177406311,0.0,0.0,False,0.0006437328411266,0.0004056323959957,0.0006053968099877
+it was really really well done,0.03204437,0.0,0.0,0.0,False,0.0005955846863798,0.0003085265634581,0.0005657713045366
+then the helicopter chase,0.0471521,0.0,0.0,0.0,False,0.0009783915011212,0.0006738785887137,0.0048675676807761
+so here it was,0.026894007,0.6397520303726196,0.0,0.0,False,0.00120775855612,0.0004470928979571,0.0005831890157423
+it was great to see,0.018464668,0.0,0.0,0.0,False,0.0005965498858131,0.0003479247679933,0.000423746794695
+oh so henry cavill riding in and then flailing around his own helicopter,0.09763293,0.9893795847892761,0.0,0.0,False,0.0209211967885494,0.0033007196616381,0.0165797229856252
+"i also like the gag when tom cruise climbed in and there was another guy dressed like henry cavill, also caught over the moustache and tom cruise is like his character is like",0.12953265,0.0,0.0,0.059,False,0.0047507407143712,0.0055262818932533,0.0181520022451877
+"what? the hell? it's funny that i keep calling him tom cruise instead of ethan hunt, and i think that's very much",0.40016344,0.9906269311904907,0.0,0.178,True,0.1932458728551864,0.5156992077827454,0.2629168927669525
+you know,0.043718524,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+the movies,0.019852988,0.0,0.0,0.0,False,0.0009154514991678,0.0008228664519265,0.0003338454698678
+"the movie made that choice and now they have to live with it, but i thought that was hilarious and also it was not only here, also excellently choreographed, and a fight with very high stakes starts out in the air, goes through the ground",0.083939545,0.0,0.0,0.062,False,0.0011771685676649,0.0003941508184652,0.0003121925983577
+they're still throwing punches,0.19862764,0.9591100811958313,0.0,0.0,False,0.1133090108633041,0.0327587462961673,0.3597008287906647
+"that was great, but i like the way they had it with them, son, him having to get the trigger off of the the countdown device, tom cruise, and then his team simultaneously defusing not one but two nukes at the same time in two different groups",0.15626417,0.0,0.0,0.0,False,0.0009610471897758,0.0092140696942806,0.0130199193954467
+"so you have ving rhames and michele monic and having a really nice quiet diffusion scenario with like you know, almost like it's like a surgeon like a like surgery and that was great, cuz, of course she's a doctor and they had some really nice",0.04165838,0.0,0.0,0.0,False,0.0008725724765099,0.001458597718738,0.00147883198224
+"i had a really nice exchange with each other, really good heart between those two",0.08850401,0.0,0.0,0.0,False,0.0005432080943137,0.0003481582098174,0.0011454506311565
+"but then you also have rebecca ferguson and simon pegg with the other nuke with solomon lane, and they have a cool suspenseful action sequence going there, and i love the, rebecca ferguson had the same simon pegg, although he wasn't a damsel in distress, either, he's just not as well trained in fighting as she is, and that was they very much seen like team members, and i really really liked that",0.09763293,0.0,0.0,0.108,False,0.0007763255853205,0.001156979240477,0.088393323123455
+"it was just all of it made for a wonderfully nuanced third act, really really well constructed, and then last the halo jump",0.045091953,0.0,0.0,0.0,False,0.0007811182294972,0.0003767341258935,0.0005228620721027
+"i mean, the suits were cool, and christopher mcquarrie, at the press screening told us that they were designed specifically for this so that you could see everyone's face that all the tech that everyone wears, and the in the halo jump scene had to be designed specifically for this movie for the needs that they had, but otherwise i just thought i was a little boring",0.118584804,0.9999703168869019,0.2875,0.036,False,0.0006995171424932,0.0011145900934934,0.0006236566114239
+like it was cool,0.027409043,0.0,0.0,0.0,False,0.0007845471263863,0.0003497395664453,0.000744680466596
+i went through a lightning storm and the henry cavill got hit by lightning,0.08420804,0.0,0.0,0.0,False,0.0215297918766737,0.0006914828554727,0.0038486723788082
+that was a fun,0.046465382,0.0,0.0,0.0,False,0.000797385815531,0.0003585299127735,0.0007386720390059
+"i was a neat moment, but i think that it could have been more visually interesting in that regard, and i just i thought it was a little boring, like when i was watching and i was like, didn't think i told us how hard it was to film it and they had only three minutes to get the shot each day because they wanted to film it dusk or whatever, and i don't",0.12116077,0.9998829364776611,0.0798611111111111,0.049,False,0.0005831864546053,0.0005925430450588,0.0005755309248343
+really,0.016451603,0.0,0.0,0.0,False,0.0014107627794146,0.0003701640234794,0.0006866139592602
+i think this scene wasn't worth the effort to be honest with you and also ethan hunt,0.1539292,0.9994907379150391,0.0,0.083,False,0.0008267778321169,0.0006190537242218,0.003374196588993
+"it was frustrating actually to see him trying so hard to save someone who not only clearly wouldn't save him, but you know you kind of were like",0.111500904,0.9948806762695312,0.0,0.199,False,0.0010934679303318,0.0150648290291428,0.0085757216438651
+it's either felon,0.3063832,0.9872053861618042,0.0,0.0,False,0.0112573392689228,0.1403156220912933,0.1026873663067817
+"you know, it's not good",0.0801064,0.999629020690918,0.35,0.376,False,0.0015573239652439,0.0143210086971521,0.0019865543581545
+you know,0.043718524,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+it was just crazy like he was,0.41523102,0.0,0.6,0.242,False,0.1350543946027755,0.070457674562931,0.243398055434227
+"i mean, ethan hunt is a really cool stand-up guy",0.04131502,0.0,0.0,0.0,False,0.0012282665120437,0.0033404976129531,0.0030075381509959
+"now on that note at the end of the movie, ethan hunt seemed tired",0.11343288,0.9941984415054321,0.4,0.182,False,0.000847807212267,0.0004101344093214,0.0029501924291253
+"well duh, right, but what i mean is is that he nominally was physically tired, but he seemed emotionally tired of this spy game of no-one trusting him having to do everything by himself, often being by himself",0.15334547,0.9995367527008057,0.2544642857142857,0.165,False,0.000991370761767,0.0016867835074663,0.0010156468488276
+"you know, i think not, you know",0.02929751,0.0,0.0,0.0,False,0.0010295126121491,0.0019970282446593,0.0007140766247175
+"he has a lot of teammates and you know friends, you know, work friends, but i think he's often isolated in terms of his belief, and that will work out right",0.028954152,0.0,0.0,0.084,False,0.0005262234481051,0.0004108407010789,0.0003745139983948
+"unlike so, who has to do it? ethan hunt has to do it, and i think since they chose to play it this way with him being so exhausted and they had henry kill cavil, kill alec baldwin",0.37360558,0.9960965514183044,0.4,0.258,False,0.0739234909415245,0.0610659718513488,0.2688714265823364
+maybe it's time for ethan hunt to lead the imf,0.083939545,0.0,0.0,0.0,False,0.0024583686608821,0.0061510354280471,0.0009117302251979
+"i mean, i don't think cruz would ever be willing to do it, but maybe i'll have no choice and he could still be in the field and lead and i would love to see some other characters like rebecca ferguson take up some of the action sequences, but i think that after he broke his ankle doing a stunt and the insurance company it seems had to pony up seventy million dollars in coverage",0.1473238,0.9998904466629028,0.0,0.075,False,0.0006347295129671,0.0004666611785069,0.000672765308991
+"i don't know if they'll ever let crews do a stunt his own stunts again, so this might be the only direction they can go in, and i think it would actually be beneficial to the series",0.03187269,0.9666275978088379,0.0,0.0,False,0.0006637976039201,0.0003996212908532,0.0005626876372843
+i'm not saying tom cruise shouldn't still be the star of mission impossible,0.087430015,0.9910776615142822,0.6666666666666666,0.0,False,0.0012817351380363,0.0006551909609697,0.0018669563578441
+"i think he should be, but i think he can",0.028267438,0.0,0.0,0.0,False,0.0009363492717966,0.0019143333192914,0.001210261019878
+i think he could stand to,0.032902762,0.9836173057556152,0.0,0.0,False,0.0014558689435943,0.0005777245969511,0.0019791731610894
+"nice to think he shouldn't killed henry cavill off, and i think he could stand to share a little bit more space, and i think it would only improve him, and i think he's got a look at the box office numbers",0.17957193,0.9634303450584412,0.0,0.0,False,0.0099723078310489,0.2057192623615265,0.0720711052417755
+we'll see what they actually end up being,0.047495455,0.0,0.0,0.0,False,0.000837224361021,0.0006587021634913,0.000617979967501
+but that chill alarm him and showed him showing him that you know,0.104076885,0.7402026653289795,0.0,0.205,False,0.0017802538350224,0.0027884910814464,0.0011118138208985
+"maybe he is doing something a little bit wrong, because this movie deserves better box office numbers quite frankly, and as for the actual story, the movie starts out a little bit like, like an old-school video game, with the mission presented almost directly to the audience, which was both fun and a bit corny",0.15626417,0.9956501126289368,0.046875,0.044,False,0.0008384805987589,0.0019320788560435,0.0004810894606634
+"also the wolf blitzer gag was super corny, although to the movies credit, i only figured out that's what they were doing",0.23716165,0.999935507774353,0.0,0.086,False,0.0007957352790981,0.0031761154532432,0.0018698180792853
+just like a few seconds before it,0.033932835,0.799341082572937,0.2,0.0,False,0.0008741111378185,0.0004268047050572,0.0005552303628064
+even that i thought wolf blitzer was just working with the imf,0.0495556,0.9328947067260742,0.0,0.0,False,0.000885150511749,0.0026625355239957,0.0007372528780251
+i was like woo,0.026894007,0.0,0.0,0.0,False,0.0022654803469777,0.001233343151398,0.0021236937027424
+they flew wolf blitzer out there,0.09279997,0.0,0.0,0.0,False,0.0017132601933553,0.0017713060369715,0.0048227617517113
+i totally didn't,0.019297661,0.9984228610992432,0.0,0.0,False,0.0068334047682583,0.0004860871704295,0.0004351999377831
+"i forgot that they were using how like halloween masks, and speaking of halloween masks, i loved henry cavill",0.053335425,0.0,0.0,0.0,False,0.0012395498342812,0.0024907614570111,0.0006185562815517
+disdain for them,0.22157386,0.9998936653137207,0.0,0.608,False,0.0100938975811004,0.0007059193449094,0.0276462584733963
+"he's like you guys are so stupid with your halloween masks, and they brilliantly brilliantly use that to trick him",0.8346757,0.0,0.0,0.179,True,0.9725654125213624,0.9957190155982972,0.9881581664085388
+"and when he and i love the moment when he says it, he's like you're stupid halloween masks",0.7382047,0.8256309628486633,0.1499999999999999,0.135,True,0.9128012657165528,0.9945847392082214,0.964689075946808
+"he brings it up again, and then as he says it, he's like holy crap",0.7593913,0.9991281628608704,0.8,0.144,False,0.9232569932937622,0.9829685091972352,0.968039333820343
+"is that really solomon lane? no, it's benjy in a halloween mask and you damn kids",0.7138269,0.0,0.0,0.153,True,0.8902987837791443,0.984104573726654,0.9873839616775512
+you know scooby-doo like it was just a great moment,0.0765103,0.0,0.0,0.0,False,0.0138807976618409,0.0251007471233606,0.0335975252091884
+"and come to think of it, i think the lame wolf blitzer moment earlier does a great job of setting this up right like it seems lame",0.30187345,0.9991427659988403,0.0,0.159,False,0.0014161330182105,0.093559980392456,0.0871314704418182
+"until suddenly it's very, very cool, so i know that was great",0.043375164,0.0,0.0,0.0,False,0.0006022654124535,0.000331322546117,0.0009186823735944
+"oh so the opening credits by the way, ruined west bentley being in the film",0.13610743,0.9712322950363159,0.0,0.164,False,0.0013024972286075,0.0005372438463382,0.0031134572345763
+i was watching the opening credits and i was like west bentley,0.02124131,0.0,0.0,0.0,False,0.0007407717057503,0.0008786504622548,0.0025094144511967
+"who's he gonna be? for a while? i thought maybe he'd be like one of the members, like one of the apostles or something, but i really liked him showing up as michelle monica's husband",0.04165838,0.0,0.0,0.0,False,0.0010344416368752,0.0027802875265479,0.0035942017566412
+"you could feel the warmth of their relationship and the lives that they had, and i think that was both of them michelle, michelle monoghan and west belly",0.022213135,0.0,0.0,0.0,False,0.0007108694990165,0.0005258850287646,0.0010628702584654
+they both did a great job,0.023632111,0.0,0.0,0.0,False,0.0007086455007083,0.0004048660921398,0.0007399532478302
+"i mean the nice guy ness was just rating off of what's bentley like you wouldn't believe, or maybe you wouldn't believe it, but he just seemed like wow",0.03599298,0.0,0.0,0.0,False,0.0009625760721974,0.0043088370002806,0.0028150358702987
+i think anybody would be like that awesome like,0.036679696,0.0,0.0,0.0,False,0.0007970029255375,0.0004537496133707,0.0066533922217786
+"no matter what he did, you'd be like he's so cool and in this case he took the life that ethan hunt turned down, and i really could feel that in that scene i loved that you know the road not traveled, and you can feel how much it hurt tom cruise's ethan hunt",0.083939545,0.0,0.0,0.072,False,0.0053397421725094,0.0005087587051093,0.0018555684946477
+"and maybe you know, as you can see, i'm referring to him and ethan hunt in this scenario",0.03444787,0.8376160860061646,0.0,0.0,False,0.0005643161130137,0.0004101754457224,0.0009557892917655
+"and maybe if these movies were more story based, these mission impossible movies, the road not taken' would have been an interesting idea to explore further, perhaps throughout the entire film, but maybe in the next movie, right as i said, i think christopher mcquarrie has done all that he can here, and they should bring in somebody else, and hopefully that person recognizes that these movies maybe aren't as successful because audiences don't emotionally connect with the character of ethan hunt",0.042001735,0.9971194267272949,0.0,0.046,False,0.0005910232430323,0.0004983850521966,0.0003433397505432
+instead they spend the movie being in awe of tom cruise,0.06332459,0.0,0.0,0.0,False,0.0010095267789438,0.001194612821564,0.0022602914832532
+"and hey, the guy's awfully impressive",0.29021257,0.0,0.0,0.0,False,0.0006335446378216,0.0017018035287037,0.0300404578447341
+"he deserves our our awe right, i mean, and this might be the ultimate tom cruise movie",0.08635602,0.0,0.0089285714285714,0.0,False,0.0007622463162988,0.0009996454464271,0.0021257440093904
+"but i'd like to add that tom cruise is very funny, very charming, very handsome and a very good actor",0.043718524,0.0,0.0,0.0,False,0.0007709893980063,0.0004470261919777,0.0009960675379261
+"he's more than just stunts, and i think it would serve him well to remember that",0.08635602,0.0,0.0,0.0,False,0.0008547352044843,0.0004159625968895,0.0898097828030586
+"i mean, he's made a lot of movies don't involve any stunts, but he seems to have drifted away from that",0.0801064,0.9977412223815918,0.3125,0.0,False,0.0006501624593511,0.0004716374387498,0.0008238451555371
+maybe you might want to consider circling back and bringing that element into these movies,0.119872786,0.842817485332489,0.0,0.0,False,0.000699468771927,0.0005472056218422,0.0004599668318405
+"all right, so that's my review",0.020408317,0.0,0.0,0.0,False,0.0007209273753687,0.0003876867413055,0.0004151190514676
+my spoiler review of mission impossible fallout,0.09816993,0.9913290739059448,0.6666666666666666,0.0,False,0.0009891517693176,0.000473306979984,0.0004569965240079
+"i'm very excited to discuss the movie with you down below, both with you, but you thought of it and what you would do to improve it, even if you think it's a perfect movie, but you can't argue with the lackluster box office, especially if it does open as expected, so i think that's a good exercise from a business perspective, to look at these movies from the perspective and the needs of the studio and also tom cruise",0.06532243,0.0,0.0,0.0,False,0.0005358561174944,0.000427492253948,0.0004103927058167
+right,0.016521018,0.0,0.0,0.0,False,0.000928676337935,0.0005848494474776,0.0005620717420242
+"i mean, he's got to know he's got to keep growing this thing if he wants it to stick around for even longer than it has, which in itself is impressive",0.044405237,0.879802942276001,0.0,0.0,False,0.0006217634072527,0.0004201552656013,0.0006678329664282
+"so again, share those thoughts down below, and of course, as always, you can check out some more videos right now",0.089577995,0.0,0.0,0.0,False,0.0005765537498518,0.00040804623859,0.0003618976625148

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user that what i'm sayin ! i've been laying in bed for an hour too lazy to get up and get my bag . lets just have cody take it !,0.1621016,0.0,0.0,0.093,0.0469801090657711,0.0049497163854539,0.0013552061282098,False
+@user that what i'm sayin ! i've been laying in bed for an hour too lazy to get up and get my bag . lets just have cody take it !,0.1621016,0.0,0.3125,0.093,0.0469801090657711,0.0049497163854539,0.0013552061282098,False

@@ -1,85 +1,85 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"logan is directed by james mangold and is the final portrayal of wolverine by hugh jackman, or so he says, james mangold last directed the wolverine, which i thought was pretty good up until the third act, which got really silly, but up until then i was like, yes, this is what i need",0.2459383,0.0004155089072151,0.4625,0.0,False,0.0010255484376102,0.1514399349689483,0.0693691447377204
-"and if you watch the extended cut of the wolverine, it's even better",0.089577995,0.0003527146691214,0.25,0.131,False,0.000632713723462,0.0005198617582209,0.0015735032502561
-so i was happy that james mangold was returning to direct this final portrayal of such an iconic character,0.039254878,0.000100107188304,0.36,0.0,False,0.0006721967947669,0.0011268341913819,0.0007612830377183
-"i'm going to go very light on the plot synopsis, because i got to see this very early at a press screening and basically logan has to cart this girl around",0.08330294,0.2322686446583442,0.3375,0.0,False,0.0006762506673112,0.0020527020096778,0.0374191962182521
-"he's not entirely sure what her backstory is, and as he learns more about it, he learns more about himself as well",0.035649624,0.052608637161183,0.375,0.09,False,0.0005954796797595,0.0004076799959875,0.0006163970683701
-"so as wolverine is slicing and dicing various bad guys, he and professor x have to try to protect this girl who may not really need that much protection because she's got some tricks up her sleeve",0.14866976,0.0994540030566816,0.575,0.12,False,0.0167073439806699,0.0062529165297746,0.0128033496439456
-this is also the first movie featuring wolverine to be rated r,0.16275369,0.0992932176202718,0.375,0.0,False,0.0011607944034039,0.0004764152981806,0.0005404742551036
-this film is brutal,0.2712817,0.989444220030295,0.9375,0.577,False,0.0463440865278244,0.0223244223743677,0.2020753026008606
-"oh my god, there is so much blood and limbs",0.2298686,0.9964605448036442,0.4,0.0,False,0.4855371713638305,0.191752478480339,0.0934403613209724
-i loved it,0.03461955,0.0072380268792718,0.15,0.0,False,0.0012182901846244,0.0003761246043723,0.0003676701453514
-they really didn't hold anything back,0.032387726,0.9770780169084886,0.45,0.0,False,0.0008686536457389,0.0003868717467412,0.0007295453688129
-wolverine goes absolutely berserk on people,0.3544517,0.8709830239785774,0.4,0.0,False,0.1735781580209732,0.3454663157463074,0.3419004380702972
-"in this movie, he's chopping off limbs",0.29855597,0.9981311039978084,0.5,0.0,False,0.0008375527104362,0.0409956537187099,0.2906562089920044
-he's impaling people and it's not squeaky clean,0.38953075,0.0980538137381633,0.3166666666666666,0.244,False,0.0563623197376728,0.0123402951285243,0.060109756886959
-"great from an action standpoint, this is probably my favorite in the x-men universe",0.040628307,0.0002484053035173,0.2666666666666667,0.0,False,0.0006530561367981,0.0007950160070322,0.0008082211134023
-"not just because of the fact that it doesn't hold back, but because wolverine is old, he's tired",0.14104263,0.9996035350026766,0.55,0.185,False,0.0354080908000469,0.0035407785326242,0.1147344335913658
-he's broken down,0.14193995,0.9996822736723696,0.6388888888888888,0.608,False,0.0024141909088939,0.0060029071755707,0.0695970728993415
-"he's beaten physically and emotionally, he's doing back-alley drug deals to get pills for professor x",0.20302857,0.9998867200289538,0.5,0.157,False,0.0250289589166641,0.0343661569058895,0.0625219345092773
-"i mean, this guy is just a complete shadow of what he used to be, so when someone comes around challenging him, it's amazing to see that old wolverine come out that insane weapon x that we've come to love in other movies really come to fruition again when just the right buttons are pushed, and this is something that i expected going in, knowing that it's rated r",0.1710401,0.0,0.4659902597402597,0.062,False,0.0034614212345331,0.0051288823597133,0.1080583408474922
-"knowing that rating says strong, brutal, bloody violence",0.24769363,0.8317187733671606,0.7069444444444445,0.603,False,0.1674700230360031,0.2223801910877227,0.4956696331501007
-"that's what i want to see, and we do get that, but from an emotional standpoint i was very satisfied with logan in regards to the fact, this is more in line with what christopher nolan did with batman, less of what we've seen with the avengers marvel movies",0.050585672,0.0004322878137394,0.3770833333333333,0.0,False,0.0005888084997422,0.0008806637488305,0.0004021370259579
-this is a very somber serious drama that contains exciting bursts of action throughout,0.14597784,6.210877654829818e-05,0.4666666666666667,0.248,False,0.0007397290319204,0.0005163660389371,0.0006676729535683
-"this isn't a movie where our heroes walk around, sad and depressed the entire time",0.12180476,0.9993603451674394,0.625,0.295,False,0.0114645697176456,0.0015483446186408,0.0020941123366355
-it's not completely devoid of humor,0.112144895,0.9806922172159688,0.475,0.0,False,0.0009540928876958,0.0007367257494479,0.0006391344941221
-"it has a lot of fun in there as well, and some good jokes",0.05773066,0.0023585539670133,0.25,0.0,False,0.0006687415298074,0.0005128607735969,0.0006199476774781
-but it is kept at a very gracious minimum,0.028954152,0.016797682210133,0.4,0.0,False,0.0006379726692102,0.0004474651359487,0.0017974900547415
-"this is a dark, violent movie in which very little hope remains for these characters",0.20009461,0.9970484025855132,0.6989583333333333,0.197,False,0.0189395062625408,0.0030796651262789,0.0033824970014393
-they're at about 99,0.032731086,0.9562508341023914,0.5,0.0,False,0.0023733964189887,0.0006129260291345,0.0008959839469753
-9% done with hope,0.022351967,0.7548952534291405,0.5,0.0,False,0.0010923611698672,0.0003854095994029,0.0002901647239923
-there is a very tiny little shred of it remaining in these characters eyes,0.12116077,0.9755684815721412,0.546875,0.0,False,0.0010648728348314,0.0014064091956242,0.002832657424733
-it is so great and riveting to see these characters we've grown to love,0.0471521,0.0026541667091354,0.2,0.0,False,0.0005914610810577,0.0003262450336478,0.0005715654115192
-put in a place that's so dark and so small and almost completely forgotten about that,0.13017663,0.9998699709251054,0.55,0.113,False,0.0262374598532915,0.0254912581294775,0.0022759290877729
-"you just want to see them climb out of the hole they're in and watching these characters, especially the young girl in the film, grow to appreciate one another and learn to help each other again and be heroes again",0.16275369,0.0001858196841548,0.5041666666666667,0.0,False,0.0010378314182162,0.0014189300127327,0.0013278085971251
-it was fantastic,0.02655065,0.0087259552756011,0.3,0.0,False,0.0006282700342126,0.0003529925888869,0.0006164499209262
-"this movie makes the curious choice of having the x-men comics physically exist in this world, and they're viewed as these fictional stories that people wrote based off of the real heroes",0.033761155,0.0069155321234996,0.4875,0.0,False,0.0006603949004784,0.0007498643244616,0.0004330794035922
-so wolverine picks up an x-men comic and looks through a yaz's bullsháá and throws it away,0.29021257,0.9973801361708104,0.375,0.0,False,0.1060168966650962,0.0020637165289372,0.0045457063242793
-you know that's actually really smart,0.05373499,0.0009873924548088,0.3928571428571428,0.0,False,0.0008350759744644,0.0010066723916679,0.0185616221278905
-"i love that because it takes place in the future of the timeline established in days of future past, so you can do a lot with what took place in between those two films, and apparently a lot of people are very happy with the x-men and view them as heroes",0.03839648,0.0004657264160845,0.3916666666666666,0.0,False,0.0005685420474037,0.0006780375842936,0.0004933163872919
-"and so there's comic books that exist in this world about them and it's really actually a very smart and fresh idea, and i like the fact that include that in there, i would say the first act and the third act of this movie are the best",0.04165838,0.0003028845950385,0.3267857142857143,0.0,False,0.0005791221628896,0.0004427105013746,0.0002901105035562
-"those two acts are extremely riveting, very fast paced intense",0.2022951,0.0001009416632289,0.3399999999999999,0.0,False,0.0013578358339145,0.0004504151875153,0.0019283583387732
-they almost feel like westerns,0.065721996,0.9862950010720024,0.5,0.0,False,0.0082355374470353,0.0013431016122922,0.0030166539363563
-"there's a definite western sense to this movie that james mangold is going for, even right down to a scene where the characters are watching the movie shane on tv",0.04165838,0.0001023125863197,0.4837301587301587,0.0,False,0.0006170362466946,0.0015831618802621,0.0003719532396644
-but the second act turns into a roadtrip movie of sorts and it meanders a little bit,0.09763293,0.996834270359266,0.546875,0.0,False,0.0013111850712448,0.0003854801470879,0.0008094026125036
-nothing from a dramatic standpoint that's very interesting is happening,0.07011723,0.9997451275158152,0.4458333333333333,0.0,False,0.0007380046299658,0.000332362105837,0.0003545745566952
-there also wasn't a lot of action for that period,0.026207292,0.9998999524170477,0.45,0.0,False,0.0006603285437449,0.0003461280139163,0.0002833325706887
-"that act was really taken to make the little girl and wolverine grow as characters, and it wasn't quite as interesting as i think it could have been",0.09602194,0.9998680635538488,0.4145833333333333,0.084,False,0.0008295884472317,0.0017805047100409,0.0008853657054714
-the film sometimes chooses to focus on characters that are nowhere near as compelling as the ones that we want it to focus on,0.03444787,0.9993805811843668,0.4,0.067,False,0.0006292762118391,0.0003939650487154,0.0005944034783169
-it sometimes takes way too much time with other characters that i feel don't really have that much weight or impact to this movie,0.056931525,0.9998676463163862,0.440625,0.0,False,0.000667622371111,0.0004487540572881,0.0006252995808608
-"the film also makes another interesting choice for the characters that to my knowledge, has no basis in the comics",0.032387726,0.0086166688631238,0.25,0.096,False,0.0006194536108523,0.0005205596680752,0.0003400747955311
-i believe the writers have completely invented this character,0.06612156,0.7775329487953669,0.45,0.0,False,0.0005914940848015,0.0007003248902037,0.0005755742895416
-"for some, it might be a distraction",0.06652113,0.9849887497878794,0.5,0.302,False,0.0006630133138969,0.0005245623760856,0.000585253117606
-gratefully,0.017006932,0.0015004455202018,0.5,0.0,False,0.0006648289854638,0.0301801711320877,0.0005874393973499
-it's handled pretty well,0.023803791,0.0021476404297617,0.375,0.0,False,0.0005985592724755,0.0003338457900099,0.0005463095149025
-"it's actually kind of scary what they do with a specific character in this film that, to my knowledge, as i said, is completely invented by the screenwriters",0.09172598,0.7804641015741952,0.475,0.115,False,0.0005753792356699,0.0005133310332894,0.0007592395995743
-"his addition in this movie is fairly miniscule, but some are probably going to be annoyed by it because it's sort of invented again",0.15276173,0.9825544076160856,0.425,0.129,False,0.0006435598479583,0.0006623892695643,0.0016028243117034
-"i've read a lot of x-men comics, but i haven't read all of them, so if i'm wrong, i'm wrong, but i think he mostly worked for this movie, and i think that if fans can accept the fact that not everything in these movies has to be perfectly like the comics, and that these are adaptations of the comics, and i think most men will be ok with it, especially since it's brutal and kind of terrifying",0.16035037,0.1239163672540833,0.48875,0.192,False,0.0005969827761873,0.0030928116757422,0.0033016235101968
-"actually, now, of course no spoilers",0.04783881,0.0005297723665655,0.5,0.306,False,0.0016559306532144,0.000410900422139,0.0006156566669233
-"but as for the way everything wraps up in this movie, i found it to be pretty satisfying",0.074912034,0.0053932114391968,0.3125,0.0,False,0.0005632078391499,0.0003856499679386,0.0003621710347943
-"i did want just a little bit more emotionally, just maybe a couple more little punches to my gut, but for the most part everything ended in a way that i think is very satisfactory for longtime fans and for myself, in particular, it's not a perfect movie",0.21627559,0.846062056204628,0.4449074074074074,0.074,False,0.0026270321104675,0.0005831817979924,0.1889548152685165
-sometimes the tone and the pacing of it all gets a little jumbled,0.10031791,0.9998966741227,0.59375,0.0,False,0.0007766104536131,0.0007155978819355,0.0024988544173538
-for one last time,0.018881164,0.0286505640424635,0.5,0.0,False,0.0012733454350382,0.000858471437823,0.0004375654098112
-"seeing our beloved will be so broken, and learning about his past, some things he maybe didn't even want to know about",0.06012806,0.7707214280107125,0.4916666666666667,0.189,False,0.0007264213636517,0.0006441139848902,0.0095822121948003
-it was kind of heart-wrenching and he did a fantastic job,0.06132676,0.0013690157195406,0.25,0.0,False,0.0009247621637769,0.0004115798219572,0.0013453285209834
-patrick stewart is also amazing in this movie,0.031185975,0.0001575369447381,0.1999999999999999,0.0,False,0.0006401040009222,0.0005627745413221,0.0011113319778814
-i love the little girl as well,0.1530536,0.0061985095443367,0.421875,0.0,False,0.000777699809987,0.0028995035681873,0.0010241483105346
-i thought she was very good,0.051737156,0.0454933675038893,0.045,0.0,False,0.0005653885891661,0.0003906746278516,0.0019924887455999
-james mangold's vision for this movie is very beautiful,0.031357653,0.0001624245835836,0.0,0.0,False,0.000624694104772,0.0013764355098828,0.0006083226180635
-i think it's a very good-looking movie,0.040971663,0.0010056614951275,0.4,0.0,False,0.0006187576800584,0.0004829719255212,0.0005032480112276
-very well edited,0.014160873,0.0022833916184265,0.4,0.0,False,0.0006312975892797,0.0006213161395862,0.0001910283463075
-i liked logan quite a bit,0.08330294,0.0044786567242555,0.2,0.0,False,0.0008953733486123,0.000595255580265,0.0009201715001836
-"i'm going to give it an a - guys, if you can't tell, right now, i am sick as hell",0.4458971,0.9999213805410104,0.6071428571428572,0.305,True,0.2543987929821014,0.5996519923210144,0.2865379452705383
-"i have had the worst cold add in years, and i drove myself to the theater tonight",0.17518331,0.9999355070093808,0.9,0.204,False,0.0072292517870664,0.0008043571724556,0.0024456111714243
-i have not yet seen the great wall or a cure for wellness or anything,0.026722329,0.987185445422151,0.0999999999999999,0.0,False,0.0007779496372677,0.0005826917476952,0.0012930249795317
-this weekend,0.019436494,0.0030834742552862,0.5,0.0,False,0.0016129707219079,0.0003648372658062,0.000518444518093
-"i just was like, go see logan",0.031185975,0.0300233647018418,0.5,0.0,False,0.0007777042919769,0.0052141468040645,0.0037531165871769
-you have to see it,0.025692256,0.0002252486243531,0.5,0.0,False,0.0008422413375228,0.0005367253324948,0.0007815973367542
-you got to get this video up,0.13251819,0.0006180776952184,0.5,0.0,False,0.002603540662676,0.0004783227923326,0.0009907282656058
-i'll try to get the great wall up as soon as i can,0.06851897,0.0542397972178248,0.0999999999999999,0.0,False,0.0582228861749172,0.0096125565469264,0.0581897236406803
-sorry,0.020963646,0.9990517384586306,0.75,1.0,False,0.0011068538296967,0.0004733956593554,0.0004530483856797
-i just might throw up,0.37647265,0.9983698830370142,0.5,0.0,False,0.0407402329146862,0.3339037001132965,0.2045927345752716
-my,0.021380141,0.9047771722470092,0.5,0.0,False,0.0030322687234729,0.0009416272514499,0.0011187444906681
-so i've had like this flu,0.068918526,0.9994085360943484,0.5,0.307,False,0.021019933745265,0.0006901552551425,0.01277048420161
-i was having weird like fever dreams the other night,0.061726328,0.9997693868939872,0.65625,0.122,False,0.0010591812897473,0.014182056300342,0.0202976483851671
-"it was crazy anyway, guys, thank you very much for watching and if you liked this, you can click right here and get stuck mine eyes",0.22989221,0.0539323230106996,0.4317857142857143,0.139,False,0.0025083345826715,0.0367143899202346,0.0500546880066394
+"logan is directed by james mangold and is the final portrayal of wolverine by hugh jackman, or so he says, james mangold last directed the wolverine, which i thought was pretty good up until the third act, which got really silly, but up until then i was like, yes, this is what i need",0.2459383,0.0,0.0,0.0,False,0.0010255484376102,0.1514399349689483,0.0693691447377204
+"and if you watch the extended cut of the wolverine, it's even better",0.089577995,0.0,0.0,0.131,False,0.000632713723462,0.0005198617582209,0.0015735032502561
+so i was happy that james mangold was returning to direct this final portrayal of such an iconic character,0.039254878,0.0,0.0,0.0,False,0.0006721967947669,0.0011268341913819,0.0007612830377183
+"i'm going to go very light on the plot synopsis, because i got to see this very early at a press screening and basically logan has to cart this girl around",0.08330294,0.0,0.0,0.0,False,0.0006762506673112,0.0020527020096778,0.0374191962182521
+"he's not entirely sure what her backstory is, and as he learns more about it, he learns more about himself as well",0.035649624,0.0,0.0,0.09,False,0.0005954796797595,0.0004076799959875,0.0006163970683701
+"so as wolverine is slicing and dicing various bad guys, he and professor x have to try to protect this girl who may not really need that much protection because she's got some tricks up her sleeve",0.14866976,0.0,0.1499999999999999,0.12,False,0.0167073439806699,0.0062529165297746,0.0128033496439456
+this is also the first movie featuring wolverine to be rated r,0.16275369,0.0,0.0,0.0,False,0.0011607944034039,0.0004764152981806,0.0005404742551036
+this film is brutal,0.2712817,0.9788886904716492,0.875,0.577,False,0.0463440865278244,0.0223244223743677,0.2020753026008606
+"oh my god, there is so much blood and limbs",0.2298686,0.9929211735725403,0.0,0.0,False,0.4855371713638305,0.191752478480339,0.0934403613209724
+i loved it,0.03461955,0.0,0.0,0.0,False,0.0012182901846244,0.0003761246043723,0.0003676701453514
+they really didn't hold anything back,0.032387726,0.9541565775871277,0.0,0.0,False,0.0008686536457389,0.0003868717467412,0.0007295453688129
+wolverine goes absolutely berserk on people,0.3544517,0.741969108581543,0.0,0.0,False,0.1735781580209732,0.3454663157463074,0.3419004380702972
+"in this movie, he's chopping off limbs",0.29855597,0.99626225233078,0.0,0.0,False,0.0008375527104362,0.0409956537187099,0.2906562089920044
+he's impaling people and it's not squeaky clean,0.38953075,0.0,0.0,0.244,False,0.0563623197376728,0.0123402951285243,0.060109756886959
+"great from an action standpoint, this is probably my favorite in the x-men universe",0.040628307,0.0,0.0,0.0,False,0.0006530561367981,0.0007950160070322,0.0008082211134023
+"not just because of the fact that it doesn't hold back, but because wolverine is old, he's tired",0.14104263,0.999207079410553,0.1,0.185,False,0.0354080908000469,0.0035407785326242,0.1147344335913658
+he's broken down,0.14193995,0.9993645548820496,0.2777777777777778,0.608,False,0.0024141909088939,0.0060029071755707,0.0695970728993415
+"he's beaten physically and emotionally, he's doing back-alley drug deals to get pills for professor x",0.20302857,0.9997734427452087,0.0,0.157,False,0.0250289589166641,0.0343661569058895,0.0625219345092773
+"i mean, this guy is just a complete shadow of what he used to be, so when someone comes around challenging him, it's amazing to see that old wolverine come out that insane weapon x that we've come to love in other movies really come to fruition again when just the right buttons are pushed, and this is something that i expected going in, knowing that it's rated r",0.1710401,0.0,0.0,0.062,False,0.0034614212345331,0.0051288823597133,0.1080583408474922
+"knowing that rating says strong, brutal, bloody violence",0.24769363,0.66344153881073,0.4138888888888889,0.603,False,0.1674700230360031,0.2223801910877227,0.4956696331501007
+"that's what i want to see, and we do get that, but from an emotional standpoint i was very satisfied with logan in regards to the fact, this is more in line with what christopher nolan did with batman, less of what we've seen with the avengers marvel movies",0.050585672,0.0,0.0,0.0,False,0.0005888084997422,0.0008806637488305,0.0004021370259579
+this is a very somber serious drama that contains exciting bursts of action throughout,0.14597784,0.0,0.0,0.248,False,0.0007397290319204,0.0005163660389371,0.0006676729535683
+"this isn't a movie where our heroes walk around, sad and depressed the entire time",0.12180476,0.9987207055091858,0.25,0.295,False,0.0114645697176456,0.0015483446186408,0.0020941123366355
+it's not completely devoid of humor,0.112144895,0.9613848924636841,0.0,0.0,False,0.0009540928876958,0.0007367257494479,0.0006391344941221
+"it has a lot of fun in there as well, and some good jokes",0.05773066,0.0,0.0,0.0,False,0.0006687415298074,0.0005128607735969,0.0006199476774781
+but it is kept at a very gracious minimum,0.028954152,0.0,0.0,0.0,False,0.0006379726692102,0.0004474651359487,0.0017974900547415
+"this is a dark, violent movie in which very little hope remains for these characters",0.20009461,0.9940968751907349,0.3979166666666667,0.197,False,0.0189395062625408,0.0030796651262789,0.0033824970014393
+they're at about 99,0.032731086,0.9125027060508728,0.0,0.0,False,0.0023733964189887,0.0006129260291345,0.0008959839469753
+9% done with hope,0.022351967,0.5097963213920593,0.0,0.0,False,0.0010923611698672,0.0003854095994029,0.0002901647239923
+there is a very tiny little shred of it remaining in these characters eyes,0.12116077,0.9511375427246094,0.09375,0.0,False,0.0010648728348314,0.0014064091956242,0.002832657424733
+it is so great and riveting to see these characters we've grown to love,0.0471521,0.0,0.0,0.0,False,0.0005914610810577,0.0003262450336478,0.0005715654115192
+put in a place that's so dark and so small and almost completely forgotten about that,0.13017663,0.999739944934845,0.1,0.113,False,0.0262374598532915,0.0254912581294775,0.0022759290877729
+"you just want to see them climb out of the hole they're in and watching these characters, especially the young girl in the film, grow to appreciate one another and learn to help each other again and be heroes again",0.16275369,0.0,0.0083333333333333,0.0,False,0.0010378314182162,0.0014189300127327,0.0013278085971251
+it was fantastic,0.02655065,0.0,0.0,0.0,False,0.0006282700342126,0.0003529925888869,0.0006164499209262
+"this movie makes the curious choice of having the x-men comics physically exist in this world, and they're viewed as these fictional stories that people wrote based off of the real heroes",0.033761155,0.0,0.0,0.0,False,0.0006603949004784,0.0007498643244616,0.0004330794035922
+so wolverine picks up an x-men comic and looks through a yaz's bullsháá and throws it away,0.29021257,0.9947603344917297,0.0,0.0,False,0.1060168966650962,0.0020637165289372,0.0045457063242793
+you know that's actually really smart,0.05373499,0.0,0.0,0.0,False,0.0008350759744644,0.0010066723916679,0.0185616221278905
+"i love that because it takes place in the future of the timeline established in days of future past, so you can do a lot with what took place in between those two films, and apparently a lot of people are very happy with the x-men and view them as heroes",0.03839648,0.0,0.0,0.0,False,0.0005685420474037,0.0006780375842936,0.0004933163872919
+"and so there's comic books that exist in this world about them and it's really actually a very smart and fresh idea, and i like the fact that include that in there, i would say the first act and the third act of this movie are the best",0.04165838,0.0,0.0,0.0,False,0.0005791221628896,0.0004427105013746,0.0002901105035562
+"those two acts are extremely riveting, very fast paced intense",0.2022951,0.0,0.0,0.0,False,0.0013578358339145,0.0004504151875153,0.0019283583387732
+they almost feel like westerns,0.065721996,0.9725903272628784,0.0,0.0,False,0.0082355374470353,0.0013431016122922,0.0030166539363563
+"there's a definite western sense to this movie that james mangold is going for, even right down to a scene where the characters are watching the movie shane on tv",0.04165838,0.0,0.0,0.0,False,0.0006170362466946,0.0015831618802621,0.0003719532396644
+but the second act turns into a roadtrip movie of sorts and it meanders a little bit,0.09763293,0.9936686158180237,0.09375,0.0,False,0.0013111850712448,0.0003854801470879,0.0008094026125036
+nothing from a dramatic standpoint that's very interesting is happening,0.07011723,0.9994902610778809,0.0,0.0,False,0.0007380046299658,0.000332362105837,0.0003545745566952
+there also wasn't a lot of action for that period,0.026207292,0.999799907207489,0.0,0.0,False,0.0006603285437449,0.0003461280139163,0.0002833325706887
+"that act was really taken to make the little girl and wolverine grow as characters, and it wasn't quite as interesting as i think it could have been",0.09602194,0.9997361302375793,0.0,0.084,False,0.0008295884472317,0.0017805047100409,0.0008853657054714
+the film sometimes chooses to focus on characters that are nowhere near as compelling as the ones that we want it to focus on,0.03444787,0.9987611770629883,0.0,0.067,False,0.0006292762118391,0.0003939650487154,0.0005944034783169
+it sometimes takes way too much time with other characters that i feel don't really have that much weight or impact to this movie,0.056931525,0.9997352957725525,0.0,0.0,False,0.000667622371111,0.0004487540572881,0.0006252995808608
+"the film also makes another interesting choice for the characters that to my knowledge, has no basis in the comics",0.032387726,0.0,0.0,0.096,False,0.0006194536108523,0.0005205596680752,0.0003400747955311
+i believe the writers have completely invented this character,0.06612156,0.5550711750984192,0.0,0.0,False,0.0005914940848015,0.0007003248902037,0.0005755742895416
+"for some, it might be a distraction",0.06652113,0.969977855682373,0.0,0.302,False,0.0006630133138969,0.0005245623760856,0.000585253117606
+gratefully,0.017006932,0.0,0.0,0.0,False,0.0006648289854638,0.0301801711320877,0.0005874393973499
+it's handled pretty well,0.023803791,0.0,0.0,0.0,False,0.0005985592724755,0.0003338457900099,0.0005463095149025
+"it's actually kind of scary what they do with a specific character in this film that, to my knowledge, as i said, is completely invented by the screenwriters",0.09172598,0.5609334111213684,0.0,0.115,False,0.0005753792356699,0.0005133310332894,0.0007592395995743
+"his addition in this movie is fairly miniscule, but some are probably going to be annoyed by it because it's sort of invented again",0.15276173,0.9651092290878296,0.0,0.129,False,0.0006435598479583,0.0006623892695643,0.0016028243117034
+"i've read a lot of x-men comics, but i haven't read all of them, so if i'm wrong, i'm wrong, but i think he mostly worked for this movie, and i think that if fans can accept the fact that not everything in these movies has to be perfectly like the comics, and that these are adaptations of the comics, and i think most men will be ok with it, especially since it's brutal and kind of terrifying",0.16035037,0.0,0.0,0.192,False,0.0005969827761873,0.0030928116757422,0.0033016235101968
+"actually, now, of course no spoilers",0.04783881,0.0,0.0,0.306,False,0.0016559306532144,0.000410900422139,0.0006156566669233
+"but as for the way everything wraps up in this movie, i found it to be pretty satisfying",0.074912034,0.0,0.0,0.0,False,0.0005632078391499,0.0003856499679386,0.0003621710347943
+"i did want just a little bit more emotionally, just maybe a couple more little punches to my gut, but for the most part everything ended in a way that i think is very satisfactory for longtime fans and for myself, in particular, it's not a perfect movie",0.21627559,0.6921277642250061,0.0,0.074,False,0.0026270321104675,0.0005831817979924,0.1889548152685165
+sometimes the tone and the pacing of it all gets a little jumbled,0.10031791,0.9997933506965637,0.1875,0.0,False,0.0007766104536131,0.0007155978819355,0.0024988544173538
+for one last time,0.018881164,0.0,0.0,0.0,False,0.0012733454350382,0.000858471437823,0.0004375654098112
+"seeing our beloved will be so broken, and learning about his past, some things he maybe didn't even want to know about",0.06012806,0.5414482951164246,0.0,0.189,False,0.0007264213636517,0.0006441139848902,0.0095822121948003
+it was kind of heart-wrenching and he did a fantastic job,0.06132676,0.0,0.0,0.0,False,0.0009247621637769,0.0004115798219572,0.0013453285209834
+patrick stewart is also amazing in this movie,0.031185975,0.0,0.0,0.0,False,0.0006401040009222,0.0005627745413221,0.0011113319778814
+i love the little girl as well,0.1530536,0.0,0.0,0.0,False,0.000777699809987,0.0028995035681873,0.0010241483105346
+i thought she was very good,0.051737156,0.0,0.0,0.0,False,0.0005653885891661,0.0003906746278516,0.0019924887455999
+james mangold's vision for this movie is very beautiful,0.031357653,0.0,0.0,0.0,False,0.000624694104772,0.0013764355098828,0.0006083226180635
+i think it's a very good-looking movie,0.040971663,0.0,0.0,0.0,False,0.0006187576800584,0.0004829719255212,0.0005032480112276
+very well edited,0.014160873,0.0,0.0,0.0,False,0.0006312975892797,0.0006213161395862,0.0001910283463075
+i liked logan quite a bit,0.08330294,0.0,0.0,0.0,False,0.0008953733486123,0.000595255580265,0.0009201715001836
+"i'm going to give it an a - guys, if you can't tell, right now, i am sick as hell",0.4458971,0.9998427629470825,0.2142857142857143,0.305,True,0.2543987929821014,0.5996519923210144,0.2865379452705383
+"i have had the worst cold add in years, and i drove myself to the theater tonight",0.17518331,0.999871015548706,0.8,0.204,False,0.0072292517870664,0.0008043571724556,0.0024456111714243
+i have not yet seen the great wall or a cure for wellness or anything,0.026722329,0.9743711948394775,0.0,0.0,False,0.0007779496372677,0.0005826917476952,0.0012930249795317
+this weekend,0.019436494,0.0,0.0,0.0,False,0.0016129707219079,0.0003648372658062,0.000518444518093
+"i just was like, go see logan",0.031185975,0.0,0.0,0.0,False,0.0007777042919769,0.0052141468040645,0.0037531165871769
+you have to see it,0.025692256,0.0,0.0,0.0,False,0.0008422413375228,0.0005367253324948,0.0007815973367542
+you got to get this video up,0.13251819,0.0,0.0,0.0,False,0.002603540662676,0.0004783227923326,0.0009907282656058
+i'll try to get the great wall up as soon as i can,0.06851897,0.0,0.0,0.0,False,0.0582228861749172,0.0096125565469264,0.0581897236406803
+sorry,0.020963646,0.9981034994125366,0.5,1.0,False,0.0011068538296967,0.0004733956593554,0.0004530483856797
+i just might throw up,0.37647265,0.9967398047447205,0.0,0.0,False,0.0407402329146862,0.3339037001132965,0.2045927345752716
+my,0.021380141,0.8095566034317017,0.0,0.0,False,0.0030322687234729,0.0009416272514499,0.0011187444906681
+so i've had like this flu,0.068918526,0.9988170862197876,0.0,0.307,False,0.021019933745265,0.0006901552551425,0.01277048420161
+i was having weird like fever dreams the other night,0.061726328,0.999538779258728,0.3125,0.122,False,0.0010591812897473,0.014182056300342,0.0202976483851671
+"it was crazy anyway, guys, thank you very much for watching and if you liked this, you can click right here and get stuck mine eyes",0.22989221,0.0,0.0,0.139,False,0.0025083345826715,0.0367143899202346,0.0500546880066394

@@ -1,36 +1,36 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hey, film fans, hey, so i'm back and i'm going to review inside our, which the new disney pixar movie",0.03753809,0.00057724830451,0.4065656565656566,0.0,False,0.000643362698610872,0.0011147859040647745,0.0015712565509602427
-"i've been resisting reviewing this for a few days because i absolutely loved it and i feel like i have to say something negative about it to balance the reviewer, but there isn't really anything negative to say in my opinion, and the plot line revolves around young girl called riley from her birth onwards through her life, and shows the story as personified by the emotions in her brain",0.062925026,4.261784684028005e-05,0.4259259259259259,0.031,False,0.000581404659897089,0.003975525498390198,0.001551012392155826
-"i have to admit, i can't remember being this excited about pixar movie for a long time",0.05373499,0.9161823779196876,0.3541666666666667,0.0,False,0.0007247546454891562,0.0007917744223959744,0.0013111238367855549
-"i was very young when toy story came out, and i absolutely adored it and i don't think i've enjoyed one as much since",0.06132676,0.0198957990664486,0.3013888888888889,0.097,False,0.0005791931180283427,0.0004804384952876717,0.0003987359523307532
-so for me this is the big deal at this point of actually in the movie twice,0.04818217,0.1872999531680527,0.4444444444444445,0.0,False,0.0007475850870832801,0.00036033918149769306,0.0005228501395322382
-i saw it on sunday,0.023288755,0.1378266233271973,0.4444444444444445,0.0,False,0.0007544829277321696,0.0005579263088293374,0.00046864539035595953
-loved it,0.030842619,0.0067825260152152,0.0555555555555556,0.0,False,0.0012705849949270487,0.0003508980735205114,0.0004185119178146124
-"the next day, i was meant to be my friend to see",0.028954152,0.0021753281529502,0.4444444444444445,0.0,False,0.0006161413039080799,0.0011053618509322405,0.006364858243614435
-"i already seen it, so i said to her, do you still want to see inside out? she was like, do you and i was like",0.103539884,0.0560713175989832,0.4444444444444445,0.0,False,0.002100663259625435,0.008698785677552223,0.0023300936445593834
-"well, i saw it yesterday, but i'd see it again",0.036336336,0.0076850408794559,0.4444444444444445,0.0,False,0.0006079808808863163,0.00041067489655688405,0.0003463698085397482
-"she was like i saw yesterday, but i'd see you again as well",0.039254878,0.0036333651606195,0.4444444444444445,0.0,False,0.0007478893385268748,0.0017764827935025096,0.001194162294268608
-"so we both decided to see you again yesterday, and we buddies absolutely loved it again because it's just a beautiful, beautiful story",0.035134587,0.0056731208763135,6.167905692361981e-17,0.0,False,0.000579605926759541,0.0003419892746023834,0.000500102702062577
-"i think it's really good as well because although obviously attended kids to some extent, there's so much for adults there, it's almost possible there's more for adults than there is for kids",0.036679696,0.0061045446181735,0.2888888888888889,0.0,False,0.0005806017434224486,0.0003561707853805274,0.00026669976068660617
-"but i was sitting next to a young child and the first viewing and although he didn't seem to entirely follow it, he did seem to enjoy himself, which i guess the key thing",0.08850401,0.2237721574805139,0.375,0.0,False,0.000734022178221494,0.0009416693937964737,0.0003234719333704561
-"i feel like it might help kids grow up and think about their emotions and how their brains working from an early age, so it could be like almost counseling for via cartoons",0.067320265,0.196395972607513,0.3888888888888889,0.0,False,0.005390283651649952,0.0016822937177494168,0.001963704125955701
-the characters were amazing,0.023460433,0.0143767580979422,0.111111111111111,0.0,False,0.000578569364733994,0.00035130829201079905,0.0007595982169732451
-obviously they were very varied because they were betraying different spectrum emotions,0.07850813,0.9261246447444832,0.4074074074074074,0.241,False,0.000648283981718123,0.000400310818804428,0.0009156700689345598
-"great voice cast amy poehler from parks and recreation, mindy kaling from the office and phyllis smith from the office, as well, so great comedians",0.024833864,0.0015392493381865,0.0,0.0,False,0.0009674868197180331,0.000558424333576113,0.002340512117370963
-"i also spotted agent cooper from twin peaks as the voice of the father, as we come to expect from pixar is absolutely beautiful to look at, really psychedelic",0.13969667,0.0,0.1527777777777778,0.0,False,0.0008017103536985815,0.0004416975425556302,0.0029378249309957027
-"really great character, just great",0.034104515,0.0064809823968026,0.0,0.0,False,0.0006425538449548185,0.000342754676239565,0.0016871964326128364
-"you know, such a variation between the real world and the world inside the child's mind as well",0.03461955,0.003346126833454,0.3888888888888889,0.0,False,0.002200396964326501,0.0009863394079729915,0.001161582418717444
-"yeah, i really wanted to give you something negative, a bit of a butt, but i just can't",0.59863794,0.9996878764266026,0.4722222222222222,0.118,False,0.5968354940414429,0.8375459313392639,0.8845049738883972
-i can't think of anything negative,0.02792408,0.0001647492708622,0.6111111111111112,0.425,False,0.0007362155593000352,0.0008251321269199252,0.0008103391155600548
-i absolutely love this movie both times as inventive it was creative,0.043718524,0.0006145314698227,0.1666666666666666,0.0,False,0.0006415530806407332,0.0003926439967472106,0.0004066709952894598
-it was colorful,0.03856816,0.0074147900856463,0.2777777777777778,0.0,False,0.0008772366563789546,0.0007321341545321047,0.002219812013208866
-it was fun,0.03049926,0.0565575782906237,0.2777777777777778,0.0,False,0.000847174902446568,0.00036571166128851473,0.0004894403391517699
-"that was funny, but it was also really moving",0.047495455,0.0003821300924378,0.3194444444444445,0.0,False,0.0006554052233695984,0.00034677950316108763,0.000515965570230037
-i cried at least twice,0.050585672,0.999965667301007,0.6111111111111112,0.394,False,0.0010418836027383804,0.0006686472333967686,0.006392362993210554
-"in fact, i would say, if you are a living breathing human, bring tissues you will cry",0.32304016,0.8406347341173864,0.4444444444444445,0.162,False,0.4526331126689911,0.1494242548942566,0.452952116727829
-everyone cries,0.1423886,0.7900495255143513,0.4444444444444445,0.73,False,0.15145014226436615,0.0009298172080889344,0.01315348595380783
-"also special shout-out should go for the absolutely gorgeous short film the girls at the beginning, which again, is probably my favorite of all the short films that go before a disney pixar",0.034962907,0.0001563449122546,0.2714285714285714,0.0,False,0.0008147105108946562,0.0011581695871427655,0.0012593786232173443
-it's called lava and it's about a lonely volcano falling in love,0.045778666,0.0346475644138952,0.3333333333333333,0.237,False,0.0018291110172867775,0.0007534698233939707,0.010464310646057129
-there's told through a lovely ukulele song,0.028954152,0.0017172012007623,0.1666666666666666,0.0,False,0.0010175814386457205,0.0052432590164244175,0.0011048669693991542
-but what are you guys? do you know it as much side? you'd let me know in the comments and i'd love it,0.055333257,0.0177472337292064,0.25,0.0,False,0.0007153991027735174,0.0007621163385920227,0.00783496629446745
-"if you subscribe to my channel, it would make my day",0.0765103,0.993511954365644,0.4444444444444445,0.0,False,0.006636285688728094,0.000964397331699729,0.0014216906856745481
+"hey, film fans, hey, so i'm back and i'm going to review inside our, which the new disney pixar movie",0.03753809,0.0,0.0,0.0,False,0.0006433626986108,0.0011147859040647,0.0015712565509602
+"i've been resisting reviewing this for a few days because i absolutely loved it and i feel like i have to say something negative about it to balance the reviewer, but there isn't really anything negative to say in my opinion, and the plot line revolves around young girl called riley from her birth onwards through her life, and shows the story as personified by the emotions in her brain",0.062925026,0.0,0.0,0.031,False,0.000581404659897,0.0039755254983901,0.0015510123921558
+"i have to admit, i can't remember being this excited about pixar movie for a long time",0.05373499,0.8323668241500854,0.0,0.0,False,0.0007247546454891,0.0007917744223959,0.0013111238367855
+"i was very young when toy story came out, and i absolutely adored it and i don't think i've enjoyed one as much since",0.06132676,0.0,0.0,0.097,False,0.0005791931180283,0.0004804384952876,0.0003987359523307
+so for me this is the big deal at this point of actually in the movie twice,0.04818217,0.0,0.0,0.0,False,0.0007475850870832,0.0003603391814976,0.0005228501395322
+i saw it on sunday,0.023288755,0.0,0.0,0.0,False,0.0007544829277321,0.0005579263088293,0.0004686453903559
+loved it,0.030842619,0.0,0.0,0.0,False,0.001270584994927,0.0003508980735205,0.0004185119178146
+"the next day, i was meant to be my friend to see",0.028954152,0.0,0.0,0.0,False,0.000616141303908,0.0011053618509322,0.0063648582436144
+"i already seen it, so i said to her, do you still want to see inside out? she was like, do you and i was like",0.103539884,0.0,0.0,0.0,False,0.0021006632596254,0.0086987856775522,0.0023300936445593
+"well, i saw it yesterday, but i'd see it again",0.036336336,0.0,0.0,0.0,False,0.0006079808808863,0.0004106748965568,0.0003463698085397
+"she was like i saw yesterday, but i'd see you again as well",0.039254878,0.0,0.0,0.0,False,0.0007478893385268,0.0017764827935025,0.0011941622942686
+"so we both decided to see you again yesterday, and we buddies absolutely loved it again because it's just a beautiful, beautiful story",0.035134587,0.0,0.0,0.0,False,0.0005796059267595,0.0003419892746023,0.0005001027020625
+"i think it's really good as well because although obviously attended kids to some extent, there's so much for adults there, it's almost possible there's more for adults than there is for kids",0.036679696,0.0,0.0,0.0,False,0.0005806017434224,0.0003561707853805,0.0002666997606866
+"but i was sitting next to a young child and the first viewing and although he didn't seem to entirely follow it, he did seem to enjoy himself, which i guess the key thing",0.08850401,0.0,0.0,0.0,False,0.0007340221782214,0.0009416693937964,0.0003234719333704
+"i feel like it might help kids grow up and think about their emotions and how their brains working from an early age, so it could be like almost counseling for via cartoons",0.067320265,0.0,0.0,0.0,False,0.0053902836516499,0.0016822937177494,0.0019637041259557
+the characters were amazing,0.023460433,0.0,0.0,0.0,False,0.0005785693647339,0.0003513082920107,0.0007595982169732
+obviously they were very varied because they were betraying different spectrum emotions,0.07850813,0.8522511124610901,0.0,0.241,False,0.0006482839817181,0.0004003108188044,0.0009156700689345
+"great voice cast amy poehler from parks and recreation, mindy kaling from the office and phyllis smith from the office, as well, so great comedians",0.024833864,0.0,0.0,0.0,False,0.000967486819718,0.0005584243335761,0.0023405121173709
+"i also spotted agent cooper from twin peaks as the voice of the father, as we come to expect from pixar is absolutely beautiful to look at, really psychedelic",0.13969667,0.0,0.0,0.0,False,0.0008017103536985,0.0004416975425556,0.0029378249309957
+"really great character, just great",0.034104515,0.0,0.0,0.0,False,0.0006425538449548,0.0003427546762395,0.0016871964326128
+"you know, such a variation between the real world and the world inside the child's mind as well",0.03461955,0.0,0.0,0.0,False,0.0022003969643265,0.0009863394079729,0.0011615824187174
+"yeah, i really wanted to give you something negative, a bit of a butt, but i just can't",0.59863794,0.9993757605552673,0.0499999999999999,0.118,False,0.5968354940414429,0.8375459313392639,0.8845049738883972
+i can't think of anything negative,0.02792408,0.0,0.3,0.425,False,0.0007362155593,0.0008251321269199,0.00081033911556
+i absolutely love this movie both times as inventive it was creative,0.043718524,0.0,0.0,0.0,False,0.0006415530806407,0.0003926439967472,0.0004066709952894
+it was colorful,0.03856816,0.0,0.0,0.0,False,0.0008772366563789,0.0007321341545321,0.0022198120132088
+it was fun,0.03049926,0.0,0.0,0.0,False,0.0008471749024465,0.0003657116612885,0.0004894403391517
+"that was funny, but it was also really moving",0.047495455,0.0,0.0,0.0,False,0.0006554052233695,0.000346779503161,0.00051596557023
+i cried at least twice,0.050585672,0.9999313354492188,0.3,0.394,False,0.0010418836027383,0.0006686472333967,0.0063923629932105
+"in fact, i would say, if you are a living breathing human, bring tissues you will cry",0.32304016,0.6812734007835388,0.0,0.162,False,0.4526331126689911,0.1494242548942566,0.452952116727829
+everyone cries,0.1423886,0.5801042318344116,0.0,0.73,False,0.1514501422643661,0.0009298172080889,0.0131534859538078
+"also special shout-out should go for the absolutely gorgeous short film the girls at the beginning, which again, is probably my favorite of all the short films that go before a disney pixar",0.034962907,0.0,0.0,0.0,False,0.0008147105108946,0.0011581695871427,0.0012593786232173
+it's called lava and it's about a lonely volcano falling in love,0.045778666,0.0,0.0,0.237,False,0.0018291110172867,0.0007534698233939,0.0104643106460571
+there's told through a lovely ukulele song,0.028954152,0.0,0.0,0.0,False,0.0010175814386457,0.0052432590164244,0.0011048669693991
+but what are you guys? do you know it as much side? you'd let me know in the comments and i'd love it,0.055333257,0.0,0.0,0.0,False,0.0007153991027735,0.000762116338592,0.0078349662944674
+"if you subscribe to my channel, it would make my day",0.0765103,0.9870240688323975,0.0,0.0,False,0.006636285688728,0.0009643973316997,0.0014216906856745

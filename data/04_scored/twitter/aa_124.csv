@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"omg .... iggy azalea "" flash "" .... ugh i need herrr .... sexy white bitch lmao",0.8086813,0.0,0.0,0.265,0.9902018904685974,0.9927629828453064,0.9761210083961488,True
+"omg .... iggy azalea "" flash "" .... ugh i need herrr .... sexy white bitch lmao",0.8086813,0.9909541010856628,0.0,0.265,0.9902018904685974,0.9927629828453064,0.9761210083961488,True

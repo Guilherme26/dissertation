@@ -1,85 +1,85 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"today on the channel, i'm going to be reviewing a movie called the farewell, but if i'm being honest and not to be too on-the-nose about it, but it's also time for another farewell in the channel and you guys aren't gonna like it",0.15684792,0.999870208472314,0.2,0.054,False,0.000674386159516871,0.005214524921029806,0.0053487857803702354
-get some good memories,0.087430015,0.0053679153197753,0.15,0.0,False,0.002197614870965481,0.00040204005199484527,0.0005018275114707649
-you guys are gonna miss it,0.07131593,0.9474443854479944,0.5,0.242,False,0.006910657975822687,0.0048919799737632275,0.0024228873662650585
-"i'm gonna miss it, but gotta give the people what they want",0.059728492,0.2112302424809726,0.5,0.102,False,0.0008375714533030987,0.0011090792249888182,0.0013703749282285571
-"what are you talking about before? oh yeah, did the farewell right? so they're gonna do review for that? okay, so you've seen that now it's time to move on to more important stuff",0.059728492,0.1740663831658093,0.2892857142857143,0.0,False,0.0006445131148211658,0.00040349405026063323,0.0008366573601961136
-farewell is a movie that is directed by lulu wang or lulu wong,0.04234509,0.9937076292503074,0.5,0.0,False,0.0015430173370987177,0.0012496319832280278,0.04009563475847244
-i think it's lulu wang,0.10699297,0.0149252210062118,0.5,0.0,False,0.0008125892491079867,0.0023288391530513763,0.013622808270156384
-it stars aquafina and zima azim,0.021380141,0.0001509217672104,0.5,0.0,False,0.0012710201554000378,0.0005336651229299605,0.0012537958100438118
-i still know him as chang from 24th rat-bastard the concept behind the story is kind of interesting,0.46621865,0.9919236886615076,0.3833333333333333,0.0,False,0.42749151587486267,0.22606243193149567,0.09175951033830643
-aquafina stars as a young woman who's been living in america for a while,0.023288755,0.0001849268494353,0.45,0.0,False,0.0008404719992540777,0.0021307587157934904,0.0012916229898110032
-now she and her parents actually had been living in america for over 20 years,0.013050216,0.0005558832547411,0.5,0.0,False,0.0006711953319609165,0.0005479285027831793,0.0009721691603772342
-they,0.023288755,0.0583229778271366,0.5,0.0,False,0.014717090874910355,0.001396041945554316,0.002109426772221923
-"she gets the very bad news that her grandmother, the matriarch of the family, is dying and she's not going to be around anymore",0.15743166,0.9999471893026268,0.9549999999999998,0.142,False,0.12722086906433105,0.018714090809226036,0.03453981131315231
-she's suffering from some kind of cancer or something,0.17034957,0.9969129882366854,0.2,0.527,False,0.6195390224456787,0.026640689000487328,0.022797716781497
-she also finds out that the rest of her family has decided not to tell the grandmother that she's dying,0.08290337,0.149225745107679,0.5,0.0,False,0.03117772564291954,0.0028796414844691753,0.0035304520279169083
-they all know that she's dying,0.112788886,0.9947703402248712,0.5,0.0,False,0.10354409366846085,0.010087786242365837,0.028199713677167892
-"she doesn't know that she's dying and no one else in the family is going to tell her kind of wedding that's planned in china, and this is really just an excuse to get the family together so that they could say goodbye basically to the grandmother again, does not know that she is dying, but everyone else knows that she is, and they have to try to keep this from her and this becomes a bigger moral issue for everyone in the family",0.08850401,0.9835454145770876,0.425,0.019,False,0.018071003258228302,0.000983199686743319,0.0006287792348302901
-"the longer the film goes on, i like movies where i can go into a movie and there's a sense of discovery with it because i discovered some things while watching this movie",0.034104515,0.0004817038948306,0.5,0.0,False,0.0005588348140008748,0.0005325639504007995,0.0002954707888420671
-mostly that i'm an ignorant american who doesn't understand how other cultures work,0.3983115,0.9999333011621214,0.4375,0.149,False,0.0808851346373558,0.9634414911270142,0.9354556798934937
-"i appreciate films that show me that other side of the culture that i'm missing that show me how other people do things, and how that's different from the way americans think and the way that americans do things on something",0.076110736,2.0862013634935267e-05,0.55625,0.05,False,0.0006082851905375719,0.0008443020051345229,0.0010193099733442068
-the premise of this movie,0.02517722,0.0015887913526834,0.5,0.0,False,0.000745884666685015,0.00045942520955577493,0.0005027383449487388
-it just seems weird to american ears,0.13206954,0.9996164369778834,0.625,0.221,False,0.0011742684291675687,0.04838427156209946,0.04476402699947357
-"i saw the movie and i'm like okay, i don't get why they're not telling this woman that she's sick",0.11085691,0.9996950569664104,0.5535714285714286,0.134,False,0.11295313388109207,0.10873991996049881,0.08665712177753448
-like,0.022351967,0.0033707053458731,0.5,0.0,False,0.0014612984377890825,0.0005631173844449222,0.0007380700553767383
-wouldn't it make better sense to tell this woman so that you can prepare for us that everybody can build it up,0.10763696,0.9027896923055648,0.25,0.103,False,0.0018849980551749468,0.0035733026452362537,0.011341946199536324
-everybody can say goodbye and she can feel like she,0.060927194,0.9933030253972962,0.5,0.0,False,0.0008583859307691455,0.0006715302588418126,0.0007729612989351153
-"you know, she got a chance to say goodbye",0.05852979,0.9993123284248392,0.5,0.0,False,0.0009544916683807969,0.0004907443653792143,0.0013110451400279999
-this movie showed me a different side,0.054534122,0.0152332337360933,0.5,0.0,False,0.0022359672002494335,0.00045123384916223586,0.0004812013648916036
-a different angle to that question,0.014438537,0.9228197288367388,0.5,0.0,False,0.0007131779566407204,0.0004333884862717241,0.00048325976240448654
-"it actually did present this as an actual moral dilemma in the movie, not just for aquafina character, but for the rest of the family, in between those complicated family dynamics and the moral issue of telling somebody whether or not they're going dyanne, whether that's going to affect the experience of spending your last moments with them",0.027237365,0.7517480281224712,0.5357142857142857,0.023,False,0.0009328151354566216,0.0003624887904152274,0.0010071549331769347
-"it's really the emotional hook that got itself into me and kept me watching this movie because i gotta say, this is one of my favorite film experiences of the year and it's a film experience",0.09709594,0.0008036345680943,0.3833333333333333,0.0,False,0.0007135627674870193,0.0004365009954199195,0.00036352663300931454
-i did not expect going in as an american,0.1530536,0.9358644777367744,0.5,0.0,False,0.004813743755221367,0.014957115054130554,0.03674471378326416
-we're used to saying goodbye,0.021102477,0.9961719099066192,0.5,0.0,False,0.0010976336197927594,0.00048375819460488856,0.000945046660490334
-we're used to it being a very emotional drawn-out thing,0.04783881,0.999835190092284,0.5,0.0,False,0.0007620941614732146,0.0006445471663028002,0.0009601429337635636
-"but this movie also does a very good job at pointing out some differences between the culture of america and the west and the culture of you, know the east and some of the countries and places out there america",0.043375164,0.000278537684903,0.045,0.0,False,0.0007813247502781451,0.0006214958848431706,0.0004534609615802765
-it's all about you,0.026035614,0.0005948356144852,0.5,0.0,False,0.005524004809558392,0.0012323480332270265,0.009245540015399456
-it's all about doing what's best for you and doing what's best for yourself,0.018464668,0.840873202826934,0.0,0.0,False,0.0010285336757078767,0.0012583457864820957,0.0004782357136718929
-it's all about individualism and it's all about expression,0.0224908,0.0005416076768395,0.5,0.0,False,0.001335515291430056,0.0005430997116491199,0.0003218483761884272
-it's all about being an individual,0.019158829,0.0038917788407205,0.5,0.0,False,0.0016348337521776557,0.0005750831915065646,0.0006045823101885617
-there are the ease,0.031357653,0.0012187886394295,0.5,0.0,False,0.0008553531370125711,0.00039499092963524163,0.000527968630194664
-they have a different mentality,0.10461388,0.980381123954694,0.5,0.0,False,0.0074439989402890205,0.026591947302222252,0.007663281634449959
-"everything that they do is, it's like one person is a part of a bigger whole",0.053335425,0.0037042293381424,0.45,0.0,False,0.0016627690056338906,0.0004103659011889249,0.0018847307655960321
-it's basically they're all for their family and all for society,0.032902762,0.0142944431225212,0.5,0.0,False,0.005637271795421839,0.0004100554215256125,0.00041606929153203964
-look at themselves as part of a cog in the system,0.20596254,0.9558841428668842,0.5,0.0,False,0.1349843144416809,0.00046029381337575614,0.4299953877925873
-just fascinating to get inside that system and see how their minds work,0.0253489,0.003360006113166,0.15,0.0,False,0.0006497793365269899,0.0008905809372663498,0.0008703507483005524
-look at the way that some people look at it from the eastern side of things,0.04165838,0.0016373402386995,0.5,0.0,False,0.000737183669116348,0.0004220491973683238,0.0006923182518221438
-they're kind of like,0.029469188,0.9564311150615156,0.2,0.0,False,0.002344200387597084,0.00045180629240348935,0.007456866558641195
-"well, actually, you were part of a whole",0.038911518,0.0285358967304098,0.45,0.0,False,0.014193234033882618,0.00039442387060262263,0.009588947519659996
-we're supposed to carry that grief for them so that they don't have to,0.07251463,0.0240999769683369,0.9,0.198,False,0.0025783951859921217,0.0009309544693678617,0.0012232752051204443
-so that's why we decided not to tell them about,0.031529333,0.9916072119146656,0.5,0.0,False,0.0006984436186030507,0.0005209125811234117,0.000662949460092932
-like the fact that this movie reflected,0.02792408,0.0007048678349712,0.5,0.0,False,0.0007568647852167487,0.000375974050257355,0.0003388129116501659
-"this is a very balanced issue because honestly, it's an issue that has a lot of merit to both sides",0.03599298,0.0009153953554243,0.3,0.0,False,0.0005841166130267084,0.0003917438443750143,0.0005559762357734144
-say this is one of the most compelling watches of the years,0.12760067,0.0001383449532762,0.3,0.0,False,0.0008274409919977188,0.00039136517443694174,0.0009614042937755585
-"it's not just about this film and the themes and the ideas that it's dealing with, but also the emotion and the family",0.021102477,0.0002793125596951,0.5,0.0,False,0.0006135748117230833,0.0003245927218813449,0.00036427634768188
-at its core,0.0224908,0.0039192272900888,0.5,0.0,False,0.0006902230088599026,0.00048117959522642195,0.0008464116253890097
-it's a movie that could have been about so many things,0.04268845,0.9989483160897864,0.25,0.0,False,0.0009263282991014421,0.00040203676326200366,0.0004028097609989345
-"in fact, in a lot of ways, it is about a lot of things",0.020824814,0.0076369275284641,0.5,0.0,False,0.0006345489528030157,0.00034441097523085773,0.0006952367257326841
-but it kept its focus on the things that mattered,0.03427619,0.9740899751229428,0.5,0.0,False,0.0006571201956830919,0.00038685015169903636,0.0004895427264273167
-the shoutout,0.070516795,0.0039304331716984,0.5,0.0,False,0.0047184317372739315,0.0007701067952439189,0.00583822512999177
-"aquafina, aquafina was sensational in this movie",0.043375164,0.0003303350844708,0.1666666666666666,0.0,False,0.0007784683839417994,0.0005951032508164644,0.001093455357477069
-"normally, when i see aquafina in a movie, i'm like okay, he's just there to be the funny person",0.039598234,0.9836500524769052,0.35,0.0,False,0.0006410909700207412,0.000576488149818033,0.0013131934683769941
-she's just there to carry the comic relief portion,0.0765103,0.0037356415701013,0.375,0.0,False,0.000741751107852906,0.000626427005045116,0.001174827222712338
-know in this movie she wasn't just the funny person,0.07211506,0.0409190515723282,0.375,0.211,False,0.001081526163034141,0.0014871455496177077,0.007295277435332537
-"like her character had a lot of depth to her character had a lot of range, and as an actress, she displayed that range in full display for everybody to see performance like this definitely makes me more interested to see aquafina and more serious dramatic roles because she definitely proved in this movie she can pull it off",0.06851897,0.000305926528518,0.4479166666666666,0.023,False,0.0006319130770862103,0.0005208738730289042,0.00020850462897215039
-all the performances in the movie feel very real,0.040284947,0.00034622001771,0.37,0.0,False,0.0006195835303515196,0.00034889450762420893,0.000652880291454494
-all of the writing for these characters feels very authentic,0.034104515,0.0008306061714366,0.175,0.0,False,0.0005607820930890739,0.0003431966179050505,0.001010338426567614
-the film that also has gorgeous lighting and cinematography,0.02792408,3.027972264727747e-05,0.15,0.0,False,0.000600386701989919,0.00035818127798847854,0.0008033438352867961
-"i don't know if it was shot on location, but i like the fact that they made everything look really beautiful in this movie, especially when they were in china, whether or not to tell somebody whether they're dying and what that will do for you and what that will do for them",0.15859914,5.281069737300756e-05,0.2875,0.0,False,0.010931278578937054,0.0015120863681659102,0.0023433708120137453
-how the characters in this movie don't know how to react around this woman because they know that she's gonna die now,0.2936093,0.9991322296414166,0.5,0.157,False,0.498814195394516,0.06577778607606888,0.0387728326022625
-"there's an undercurrent of tension and emotion woven into every scene because every character that's in a scene with her feels like this is one of their final scenes, one of their final times they're ever going to get to spend with, really appreciated the direction and the approach by the director",0.031529333,0.0,0.4666666666666667,0.04,False,0.0005853750626556575,0.0003679901419673115,0.00033103080932050943
-"i really appreciated the execution of the performances, the musical score, the cinematography",0.025520578,0.0011756042712052,0.45,0.0,False,0.0005152188241481781,0.0003289161832071841,0.00023920423700474203
-"mostly, i appreciate that they took a concept like this and they made it something that i can understand, something that i can dissect from multiple perspectives, and i like movies that give me that sense of discovery",0.029469188,0.0061203783487108,0.375,0.0,False,0.0005383192910812795,0.00037147640250623226,0.00033240203629247844
-"give me that sense of perspective that i didn't have before, really have minor nitpicks with the film",0.04818217,0.1046698186983724,0.4625,0.0,False,0.000627548957709223,0.001911589177325368,0.014822719618678093
-"i do think that it got off to kind of a slow start, like in the first 20 minutes",0.059728492,0.9987921490162904,0.4083333333333333,0.0,False,0.0006844247109256685,0.00046303682029247284,0.0003782590792980045
-it took me a little bit to get invested in things,0.050242316,0.9867946732007288,0.59375,0.0,False,0.0005948301986791193,0.000418264651671052,0.0005638279253616929
-do you think later on in the film there are some scenes that dry going a little bit unnecessarily,0.12180476,0.9912318446836198,0.5817708333333333,0.0,False,0.0008221454336307943,0.0004467863473109901,0.000759098504204303
-there is a wedding scene that takes place somewhere close to the third act of this movie just went on for a little bit too long,0.06612156,0.999787892927086,0.5395833333333333,0.0,False,0.0006748806335963309,0.00039163162000477314,0.00033049218473024666
-it felt a little bit self-indulgent i'm gonna say farewell to the farewell and i'm gonna put it where it belongs on this channel in superman prime,0.2712817,0.0893777242809519,0.59375,0.0,False,0.0007711157668381929,0.0010789571097120643,0.009667344391345978
-i mean the truth,0.019575324,0.0006548288051239,0.65625,0.0,False,0.0009179972694255412,0.0005121592548675835,0.00048718840116634965
-you're gonna miss the patriot hat,0.08501353,0.911546522528829,0.5,0.242,False,0.09290830790996552,0.007854380644857883,0.0052693309262394905
-"go ahead, tell me in the comments section how much you're gonna miss it and which hat is sexier",0.31389946,0.0678017529336759,0.4,0.082,False,0.12600189447402954,0.1351911872625351,0.033668529242277145
-this one or the patriot act,0.02929751,0.0012496942224858,0.5,0.0,False,0.0007635261863470078,0.0007753652171231806,0.0010168125154450536
-"come on, you can tell me like it",0.08050597,0.0021273889389842,0.5,0.0,False,0.004782783333212137,0.0013006470398977399,0.0021863386500626802
-"subscribe, to the superfan show and as always, if you like what you see, tell me how you feel and stay tuned to hear more from the man of steel, thanks",0.04268845,0.0175204555023978,0.325,0.0,False,0.0005827866843901575,0.0009667962440289557,0.0012201924109831452
+"today on the channel, i'm going to be reviewing a movie called the farewell, but if i'm being honest and not to be too on-the-nose about it, but it's also time for another farewell in the channel and you guys aren't gonna like it",0.15684792,0.9997404217720032,0.0,0.054,False,0.0006743861595168,0.0052145249210298,0.0053487857803702
+get some good memories,0.087430015,0.0,0.0,0.0,False,0.0021976148709654,0.0004020400519948,0.0005018275114707
+you guys are gonna miss it,0.07131593,0.8948907256126404,0.0,0.242,False,0.0069106579758226,0.0048919799737632,0.002422887366265
+"i'm gonna miss it, but gotta give the people what they want",0.059728492,0.0,0.0,0.102,False,0.000837571453303,0.0011090792249888,0.0013703749282285
+"what are you talking about before? oh yeah, did the farewell right? so they're gonna do review for that? okay, so you've seen that now it's time to move on to more important stuff",0.059728492,0.0,0.0,0.0,False,0.0006445131148211,0.0004034940502606,0.0008366573601961
+farewell is a movie that is directed by lulu wang or lulu wong,0.04234509,0.9874154925346375,0.0,0.0,False,0.0015430173370987,0.001249631983228,0.0400956347584724
+i think it's lulu wang,0.10699297,0.0,0.0,0.0,False,0.0008125892491079,0.0023288391530513,0.0136228082701563
+it stars aquafina and zima azim,0.021380141,0.0,0.0,0.0,False,0.0012710201554,0.0005336651229299,0.0012537958100438
+i still know him as chang from 24th rat-bastard the concept behind the story is kind of interesting,0.46621865,0.9838476777076721,0.0,0.0,False,0.4274915158748626,0.2260624319314956,0.0917595103383064
+aquafina stars as a young woman who's been living in america for a while,0.023288755,0.0,0.0,0.0,False,0.000840471999254,0.0021307587157934,0.001291622989811
+now she and her parents actually had been living in america for over 20 years,0.013050216,0.0,0.0,0.0,False,0.0006711953319609,0.0005479285027831,0.0009721691603772
+they,0.023288755,0.0,0.0,0.0,False,0.0147170908749103,0.0013960419455543,0.0021094267722219
+"she gets the very bad news that her grandmother, the matriarch of the family, is dying and she's not going to be around anymore",0.15743166,0.999894380569458,0.9099999999999998,0.142,False,0.127220869064331,0.018714090809226,0.0345398113131523
+she's suffering from some kind of cancer or something,0.17034957,0.9938260912895203,0.0,0.527,False,0.6195390224456787,0.0266406890004873,0.022797716781497
+she also finds out that the rest of her family has decided not to tell the grandmother that she's dying,0.08290337,0.0,0.0,0.0,False,0.0311777256429195,0.0028796414844691,0.0035304520279169
+they all know that she's dying,0.112788886,0.9895408749580383,0.0,0.0,False,0.1035440936684608,0.0100877862423658,0.0281997136771678
+"she doesn't know that she's dying and no one else in the family is going to tell her kind of wedding that's planned in china, and this is really just an excuse to get the family together so that they could say goodbye basically to the grandmother again, does not know that she is dying, but everyone else knows that she is, and they have to try to keep this from her and this becomes a bigger moral issue for everyone in the family",0.08850401,0.96709144115448,0.0,0.019,False,0.0180710032582283,0.0009831996867433,0.0006287792348302
+"the longer the film goes on, i like movies where i can go into a movie and there's a sense of discovery with it because i discovered some things while watching this movie",0.034104515,0.0,0.0,0.0,False,0.0005588348140008,0.0005325639504007,0.000295470788842
+mostly that i'm an ignorant american who doesn't understand how other cultures work,0.3983115,0.9998666048049927,0.0,0.149,False,0.0808851346373558,0.9634414911270142,0.9354556798934937
+"i appreciate films that show me that other side of the culture that i'm missing that show me how other people do things, and how that's different from the way americans think and the way that americans do things on something",0.076110736,0.0,0.1125,0.05,False,0.0006082851905375,0.0008443020051345,0.0010193099733442
+the premise of this movie,0.02517722,0.0,0.0,0.0,False,0.000745884666685,0.0004594252095557,0.0005027383449487
+it just seems weird to american ears,0.13206954,0.9992328882217407,0.25,0.221,False,0.0011742684291675,0.0483842715620994,0.0447640269994735
+"i saw the movie and i'm like okay, i don't get why they're not telling this woman that she's sick",0.11085691,0.9993901252746582,0.1071428571428571,0.134,False,0.112953133881092,0.1087399199604988,0.0866571217775344
+like,0.022351967,0.0,0.0,0.0,False,0.001461298437789,0.0005631173844449,0.0007380700553767
+wouldn't it make better sense to tell this woman so that you can prepare for us that everybody can build it up,0.10763696,0.8055830001831055,0.0,0.103,False,0.0018849980551749,0.0035733026452362,0.0113419461995363
+everybody can say goodbye and she can feel like she,0.060927194,0.9866062998771667,0.0,0.0,False,0.0008583859307691,0.0006715302588418,0.0007729612989351
+"you know, she got a chance to say goodbye",0.05852979,0.9986246824264526,0.0,0.0,False,0.0009544916683807,0.0004907443653792,0.0013110451400279
+this movie showed me a different side,0.054534122,0.0,0.0,0.0,False,0.0022359672002494,0.0004512338491622,0.0004812013648916
+a different angle to that question,0.014438537,0.8456423282623291,0.0,0.0,False,0.0007131779566407,0.0004333884862717,0.0004832597624044
+"it actually did present this as an actual moral dilemma in the movie, not just for aquafina character, but for the rest of the family, in between those complicated family dynamics and the moral issue of telling somebody whether or not they're going dyanne, whether that's going to affect the experience of spending your last moments with them",0.027237365,0.503505289554596,0.0714285714285714,0.023,False,0.0009328151354566,0.0003624887904152,0.0010071549331769
+"it's really the emotional hook that got itself into me and kept me watching this movie because i gotta say, this is one of my favorite film experiences of the year and it's a film experience",0.09709594,0.0,0.0,0.0,False,0.000713562767487,0.0004365009954199,0.0003635266330093
+i did not expect going in as an american,0.1530536,0.8717313408851624,0.0,0.0,False,0.0048137437552213,0.0149571150541305,0.0367447137832641
+we're used to saying goodbye,0.021102477,0.9923439621925354,0.0,0.0,False,0.0010976336197927,0.0004837581946048,0.0009450466604903
+we're used to it being a very emotional drawn-out thing,0.04783881,0.9996703863143921,0.0,0.0,False,0.0007620941614732,0.0006445471663028,0.0009601429337635
+"but this movie also does a very good job at pointing out some differences between the culture of america and the west and the culture of you, know the east and some of the countries and places out there america",0.043375164,0.0,0.0,0.0,False,0.0007813247502781,0.0006214958848431,0.0004534609615802
+it's all about you,0.026035614,0.0,0.0,0.0,False,0.0055240048095583,0.001232348033227,0.0092455400153994
+it's all about doing what's best for you and doing what's best for yourself,0.018464668,0.6817523241043091,0.0,0.0,False,0.0010285336757078,0.001258345786482,0.0004782357136718
+it's all about individualism and it's all about expression,0.0224908,0.0,0.0,0.0,False,0.00133551529143,0.0005430997116491,0.0003218483761884
+it's all about being an individual,0.019158829,0.0,0.0,0.0,False,0.0016348337521776,0.0005750831915065,0.0006045823101885
+there are the ease,0.031357653,0.0,0.0,0.0,False,0.0008553531370125,0.0003949909296352,0.0005279686301946
+they have a different mentality,0.10461388,0.9607629776000977,0.0,0.0,False,0.007443998940289,0.0265919473022222,0.0076632816344499
+"everything that they do is, it's like one person is a part of a bigger whole",0.053335425,0.0,0.0,0.0,False,0.0016627690056338,0.0004103659011889,0.001884730765596
+it's basically they're all for their family and all for society,0.032902762,0.0,0.0,0.0,False,0.0056372717954218,0.0004100554215256,0.000416069291532
+look at themselves as part of a cog in the system,0.20596254,0.9117699265480042,0.0,0.0,False,0.1349843144416809,0.0004602938133757,0.4299953877925873
+just fascinating to get inside that system and see how their minds work,0.0253489,0.0,0.0,0.0,False,0.0006497793365269,0.0008905809372663,0.0008703507483005
+look at the way that some people look at it from the eastern side of things,0.04165838,0.0,0.0,0.0,False,0.0007371836691163,0.0004220491973683,0.0006923182518221
+they're kind of like,0.029469188,0.9128638505935669,0.0,0.0,False,0.002344200387597,0.0004518062924034,0.0074568665586411
+"well, actually, you were part of a whole",0.038911518,0.0,0.0,0.0,False,0.0141932340338826,0.0003944238706026,0.0095889475196599
+we're supposed to carry that grief for them so that they don't have to,0.07251463,0.0,0.8,0.198,False,0.0025783951859921,0.0009309544693678,0.0012232752051204
+so that's why we decided not to tell them about,0.031529333,0.9832147359848022,0.0,0.0,False,0.000698443618603,0.0005209125811234,0.0006629494600929
+like the fact that this movie reflected,0.02792408,0.0,0.0,0.0,False,0.0007568647852167,0.0003759740502573,0.0003388129116501
+"this is a very balanced issue because honestly, it's an issue that has a lot of merit to both sides",0.03599298,0.0,0.0,0.0,False,0.0005841166130267,0.000391743844375,0.0005559762357734
+say this is one of the most compelling watches of the years,0.12760067,0.0,0.0,0.0,False,0.0008274409919977,0.0003913651744369,0.0009614042937755
+"it's not just about this film and the themes and the ideas that it's dealing with, but also the emotion and the family",0.021102477,0.0,0.0,0.0,False,0.000613574811723,0.0003245927218813,0.0003642763476818
+at its core,0.0224908,0.0,0.0,0.0,False,0.0006902230088599,0.0004811795952264,0.000846411625389
+it's a movie that could have been about so many things,0.04268845,0.997896671295166,0.0,0.0,False,0.0009263282991014,0.000402036763262,0.0004028097609989
+"in fact, in a lot of ways, it is about a lot of things",0.020824814,0.0,0.0,0.0,False,0.000634548952803,0.0003444109752308,0.0006952367257326
+but it kept its focus on the things that mattered,0.03427619,0.9481809139251709,0.0,0.0,False,0.000657120195683,0.000386850151699,0.0004895427264273
+the shoutout,0.070516795,0.0,0.0,0.0,False,0.0047184317372739,0.0007701067952439,0.0058382251299917
+"aquafina, aquafina was sensational in this movie",0.043375164,0.0,0.0,0.0,False,0.0007784683839417,0.0005951032508164,0.001093455357477
+"normally, when i see aquafina in a movie, i'm like okay, he's just there to be the funny person",0.039598234,0.9673007130622864,0.0,0.0,False,0.0006410909700207,0.000576488149818,0.0013131934683769
+she's just there to carry the comic relief portion,0.0765103,0.0,0.0,0.0,False,0.0007417511078529,0.0006264270050451,0.0011748272227123
+know in this movie she wasn't just the funny person,0.07211506,0.0,0.0,0.211,False,0.0010815261630341,0.0014871455496177,0.0072952774353325
+"like her character had a lot of depth to her character had a lot of range, and as an actress, she displayed that range in full display for everybody to see performance like this definitely makes me more interested to see aquafina and more serious dramatic roles because she definitely proved in this movie she can pull it off",0.06851897,0.0,0.0,0.023,False,0.0006319130770862,0.0005208738730289,0.0002085046289721
+all the performances in the movie feel very real,0.040284947,0.0,0.0,0.0,False,0.0006195835303515,0.0003488945076242,0.0006528802914544
+all of the writing for these characters feels very authentic,0.034104515,0.0,0.0,0.0,False,0.000560782093089,0.000343196617905,0.0010103384265676
+the film that also has gorgeous lighting and cinematography,0.02792408,0.0,0.0,0.0,False,0.0006003867019899,0.0003581812779884,0.0008033438352867
+"i don't know if it was shot on location, but i like the fact that they made everything look really beautiful in this movie, especially when they were in china, whether or not to tell somebody whether they're dying and what that will do for you and what that will do for them",0.15859914,0.0,0.0,0.0,False,0.010931278578937,0.0015120863681659,0.0023433708120137
+how the characters in this movie don't know how to react around this woman because they know that she's gonna die now,0.2936093,0.998264491558075,0.0,0.157,False,0.498814195394516,0.0657777860760688,0.0387728326022625
+"there's an undercurrent of tension and emotion woven into every scene because every character that's in a scene with her feels like this is one of their final scenes, one of their final times they're ever going to get to spend with, really appreciated the direction and the approach by the director",0.031529333,0.0,0.0,0.04,False,0.0005853750626556,0.0003679901419673,0.0003310308093205
+"i really appreciated the execution of the performances, the musical score, the cinematography",0.025520578,0.0,0.0,0.0,False,0.0005152188241481,0.0003289161832071,0.0002392042370047
+"mostly, i appreciate that they took a concept like this and they made it something that i can understand, something that i can dissect from multiple perspectives, and i like movies that give me that sense of discovery",0.029469188,0.0,0.0,0.0,False,0.0005383192910812,0.0003714764025062,0.0003324020362924
+"give me that sense of perspective that i didn't have before, really have minor nitpicks with the film",0.04818217,0.0,0.0,0.0,False,0.0006275489577092,0.0019115891773253,0.014822719618678
+"i do think that it got off to kind of a slow start, like in the first 20 minutes",0.059728492,0.997584342956543,0.0,0.0,False,0.0006844247109256,0.0004630368202924,0.000378259079298
+it took me a little bit to get invested in things,0.050242316,0.9735898375511169,0.1875,0.0,False,0.0005948301986791,0.000418264651671,0.0005638279253616
+do you think later on in the film there are some scenes that dry going a little bit unnecessarily,0.12180476,0.9824640154838562,0.1635416666666666,0.0,False,0.0008221454336307,0.0004467863473109,0.0007590985042043
+there is a wedding scene that takes place somewhere close to the third act of this movie just went on for a little bit too long,0.06612156,0.9995757937431335,0.0791666666666666,0.0,False,0.0006748806335963,0.0003916316200047,0.0003304921847302
+it felt a little bit self-indulgent i'm gonna say farewell to the farewell and i'm gonna put it where it belongs on this channel in superman prime,0.2712817,0.0,0.1875,0.0,False,0.0007711157668381,0.001078957109712,0.0096673443913459
+i mean the truth,0.019575324,0.0,0.3125,0.0,False,0.0009179972694255,0.0005121592548675,0.0004871884011663
+you're gonna miss the patriot hat,0.08501353,0.8230963349342346,0.0,0.242,False,0.0929083079099655,0.0078543806448578,0.0052693309262394
+"go ahead, tell me in the comments section how much you're gonna miss it and which hat is sexier",0.31389946,0.0,0.0,0.082,False,0.1260018944740295,0.1351911872625351,0.0336685292422771
+this one or the patriot act,0.02929751,0.0,0.0,0.0,False,0.000763526186347,0.0007753652171231,0.001016812515445
+"come on, you can tell me like it",0.08050597,0.0,0.0,0.0,False,0.0047827833332121,0.0013006470398977,0.0021863386500626
+"subscribe, to the superfan show and as always, if you like what you see, tell me how you feel and stay tuned to hear more from the man of steel, thanks",0.04268845,0.0,0.0,0.0,False,0.0005827866843901,0.0009667962440289,0.0012201924109831

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-nf @user fb ? oh and the little girl in your header is too cute :),0.15859914,0.0,0.0,0.0,0.0388018563389778,0.0119959693402051,0.0183244962245225,False
+nf @user fb ? oh and the little girl in your header is too cute :),0.15859914,0.819671094417572,0.0,0.0,0.0388018563389778,0.0119959693402051,0.0183244962245225,False

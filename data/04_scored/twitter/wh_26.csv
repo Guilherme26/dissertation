@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-""" @user : don't make permanent decisions based on temporary feelings . "" #livefree",0.011870144,0.0,0.0,0.0,0.0008503249264322,0.0006448000203818,0.0002547272306401,False
+""" @user : don't make permanent decisions based on temporary feelings . "" #livefree",0.011870144,0.9998218417167664,0.0,0.0,0.0008503249264322,0.0006448000203818,0.0002547272306401,False

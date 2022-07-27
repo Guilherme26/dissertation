@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-yea ill be good in bed but ill be bad to ya !,0.2945986,0.0,0.0,0.493,0.6444483995437622,0.1559316366910934,0.4041781723499298,False
+yea ill be good in bed but ill be bad to ya !,0.2945986,0.0,0.2937499999999999,0.493,0.6444483995437622,0.1559316366910934,0.4041781723499298,False

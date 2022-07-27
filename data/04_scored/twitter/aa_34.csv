@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-""" @user : my cousins was mixing at west the day "" briana n muck n them ?",0.1250247,0.0,0.0,0.0,0.0017900560051202,0.0136152813211083,0.0181039366871118,False
+""" @user : my cousins was mixing at west the day "" briana n muck n them ?",0.1250247,0.9774473905563354,0.0,0.0,0.0017900560051202,0.0136152813211083,0.0181039366871118,False

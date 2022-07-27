@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user give me a 24 pack of crayolas and sit back,0.22989221,0.0,0.0,0.0,0.0172401685267686,0.0153149385005235,0.0336121991276741,False
+@user give me a 24 pack of crayolas and sit back,0.22989221,0.9783158302307129,0.0,0.0,0.0172401685267686,0.0153149385005235,0.0336121991276741,False

@@ -1,128 +1,128 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"oh my goodness, it's going to update youtube",0.05253629,0.9959618659517964,0.5,0.0,False,0.0032071995083242655,0.0009044092730619013,0.003934562671929598
-this is sel 0320 representing jvs,0.02655065,0.0083819990344648,0.5,0.0,False,0.0009772279299795628,0.0009219711064361036,0.001391000347211957
-i'm back here for a brand new movie review,0.030842619,0.0006937809296259,0.4659090909090909,0.0,False,0.0007531626033596694,0.0006911215023137629,0.00038570864126086235
-the name of this movie is spotlight,0.059328925,0.0767578083437185,0.5,0.0,False,0.0007043026271276176,0.00043695123167708516,0.0009837698889896274
-i am going to be doing two different reviews of this or overviews,0.021380141,0.8620748132963929,0.5,0.0,False,0.0006082976469770074,0.00042209867388010025,0.00037419600994326174
-"i should say, there's going to be one concrete review is going to be completely non-spoiler i'm not gonna reveal anything about the plot unless you want",0.035134587,0.9881520767320874,0.4375,0.0,False,0.0009844126179814339,0.0007324314792640507,0.0003252373426221311
-"i should know about the real, based on true life events this movie is based on, but the second one is going to be from a different perspective",0.03187269,0.0665956374239703,0.43125,0.0,False,0.0005734821897931397,0.000365276267984882,0.0002279096224810928
-that's all i can say,0.027752401,0.091769918662695,0.5,0.0,False,0.0016574078472331166,0.0004036970203742385,0.001575644128024578
-i'll say that,0.02809576,0.0694341843669024,0.5,0.0,False,0.0008350150310434401,0.0004017587925773114,0.0007045069942250848
-"towards the end, the name of the movie is called spotlight",0.028439116,0.9571274202978995,0.5,0.0,False,0.0005919464165344834,0.0004460280470084399,0.0006015965482220054
-"it stars mark ruffalo, michael keaton rachel mcadams, leave us mulder",0.019575324,0.0004176455093585,0.5,0.107,False,0.001988862408325076,0.0008777512703090906,0.10477099567651749
-"um, shoot, even got john slater in this movie, but this is the status of the movie, a true story of how boston globe uncovered a massive scandal, um of child molestation and the cover-up of the specific catholic church, and that's all i'm kind of gonna read",0.20963,0.2197252904101163,0.405,0.207,False,0.0009482024470344186,0.05842793360352516,0.01991470716893673
-but it's so much more than that,0.03736641,0.0151696252349088,0.25,0.0,False,0.0010968809947371483,0.00035783095518127084,0.001430504024028778
-normally i don't read,0.03427619,0.9710184476343228,0.425,0.0,False,0.0009044600883498788,0.006424976047128439,0.0007557177450507879
-snaps it to come on imdb because they revealed way too much about the stories,0.08796701,0.9990957123813996,0.4,0.0,False,0.0006569877732545137,0.0005856741918250918,0.0009120991453528404
-"um, you know, transparent plot, but this movie i'm go ahead and talk about, just like i normally would",0.042001735,0.0004104329058286,0.425,0.0,False,0.0006537906592711806,0.0008260596077889204,0.0008214649278670549
-any other review,0.016104523,0.0223137984437347,0.5625,0.0,False,0.0008524078293703496,0.00046326860319823027,0.0008622178575024009
-"i'll go on the dynamics of the visual immersion, the soundtrack, the acting as well as the story, but the story",0.016243355,0.7515485787624353,0.5,0.0,False,0.0005264678038656712,0.00034539130865596235,0.0002040134131675586
-"i'm way, i'm winner revealed",0.043718524,0.0009307238968278,0.5,0.0,False,0.0013361992314457893,0.0004943086532875896,0.0006861266447231174
-i'm not going to say anything about it,0.038053125,0.9899510848381596,0.5,0.0,False,0.0008532655774615705,0.0009245018591172993,0.0010730486828833818
-i'm just going to talk about plot points,0.021796638,0.9940795254512214,0.5,0.0,False,0.0005494042998179793,0.00044363588676787913,0.0004700867284554988
-"so visual effects of this like the cinematography? um, it was excellently shot",0.19141254,0.0061563743708419,0.25,0.0,False,0.0006838574772700667,0.0007505992543883622,0.0004770667292177677
-they didn't use a lot of trickery,0.08635602,0.9202746523659218,0.5,0.259,False,0.0037643176037818193,0.0018721740925684571,0.002194515662267804
-"as far as like me, haven't seen anything quite like this",0.039598234,0.0014100937942461,0.45,0.0,False,0.0010143298422917724,0.0004490047867875546,0.001017033471725881
-it was with me,0.031529333,0.018393152342287,0.5,0.0,False,0.00152181729208678,0.0003848592459689826,0.0015532654942944646
-"he was really normally shot, but it was like for every single moment or significant thing that was happening, i think the most impactful things when did characters such as rachel mcadams or mark ruffalo are interviewing specific people that supposedly were going through the less station situations when you see it",0.11021292,0.9940127641623494,0.4437925170068027,0.0,False,0.0006281143869273365,0.00066000857623294,0.00632873922586441
-and actually here it is so eloquently done because it focuses on the performance and they give,0.0681194,0.0027538137535288,0.5,0.0,False,0.0007060933276079595,0.0003373966901563108,0.00036755294422619045
-how do i put it? they give so much more credit to the non big-name quote-unquote actors to be able to tell this story,0.0669207,0.1917244434954804,0.25,0.0,False,0.000854780781082809,0.0007742473389953375,0.0006080797174945474
-it's almost as though the non actress they feel real,0.090114996,0.010031300911071,0.4,0.0,False,0.0018052591476589441,0.0026041141245514154,0.008452057838439941
-they feel really authentic,0.04543531,0.001128176369496,0.25,0.0,False,0.000593976175878197,0.0003279270604252815,0.0010673775104805827
-"the way that the cinematography is taken and checking from their perspective every small scene where you see somebody that is a victim of this situation that happened, or it's been happening over at certain x amount of years, because the movie starts off in the very beginning",0.032559406,5.761141579890403e-05,0.4888392857142857,0.042,False,0.0005729096010327339,0.0003597033501137048,0.00036052713403478265
-"i think it was around like 1976 or something like that, where something had just happened",0.021796638,0.9827510288540502,0.5,0.0,False,0.0006007172632962465,0.0003534909919835627,0.0005521691055037081
-i ministation,0.013813793,0.1531068230096835,0.5,0.0,False,0.013519080355763435,0.0017681143945083022,0.0008156768744811416
-"i guess case, it just opened up and it seemed really shady and really shoddy",0.17242117,0.9998972651059188,0.6375,0.0,False,0.0007208318565972149,0.006513945758342743,0.0011684262426570058
-and then from that point the score goes and the score y'all like it's done so well,0.029125832,0.0016130302299288,0.5,0.0,False,0.0012439335696399212,0.00045533155207522213,0.0014181897277012467
-it's the undercurrent of it because it's really smoothly paste,0.06652113,0.0003211098778155,0.3,0.0,False,0.0010260766139253974,0.0007359030423685908,0.0036609123926609755
-"i don't know who did the score for it, but it did an amazing job with it",0.029812546,0.000268982425031,0.1999999999999999,0.0,False,0.0006582678761333227,0.0003661913506221026,0.0007565294508822262
-i actually really enjoyed because i think it it helps with the weight of it,0.046465382,0.0027864194901476,0.25,0.0,False,0.0005843930994160473,0.00039095981628634036,0.0009674577740952373
-when there's moments of silence,0.035134587,0.8517317312054603,0.5,0.0,False,0.0010740692960098386,0.0005825983826071024,0.0005972303333692253
-"there are moments of silent when there's moments, key moments when things are just kind of pacing along where they're kind of going and trying to uncover this case or just part of the situation",0.025520578,0.9440102874377488,0.35,0.0,False,0.0005988522316329181,0.00035094560007564723,0.0003173075383529067
-this is paced really well as up-tempo via the same that time,0.026722329,0.0012643515163068,0.45,0.0,False,0.0005741444765590131,0.000424799945903942,0.0005278025637380779
-it's not too flashy,0.0801064,0.0130926636556133,0.75,0.0,False,0.0013344993349164724,0.00039848856977187097,0.0029058936052024364
-it's just right and it's all aspired to cinematography,0.02809576,2.46778335651798e-05,0.3571428571428571,0.0,False,0.0006087509100325406,0.0003444101312197745,0.0013067879481241107
-"as far as the score is concerned, i mean, the cinematography was nothing i haven't seen before, but for the key moments that are significant, they are done and executed well and they allow the actors to be as ok",0.03770977,0.0,0.4337499999999999,0.0,False,0.0005613032262772322,0.0004376860160846263,0.0009946536738425493
-"that's just their skills, but their dedication to the roles and the craft",0.03358948,0.1523901226911547,0.5,0.0,False,0.0005737178144045174,0.0007714777602814138,0.0007688074256293476
-for what the whole plot about this movie is we're talking into pretty soon,0.039254878,0.989280163689143,0.3875,0.0,False,0.0006054769619368017,0.000414808135246858,0.0006850717472843826
-"i mean, there was a point where mark ruffalo's character is kind of arguing with um, michael keaton's character, and like it's so deep, it's so impact because the weight of everything has already hit you as a viewer",0.112788886,0.0457896903760442,0.4520833333333333,0.077,False,0.0006943799089640379,0.0012874703388661146,0.008172272704541683
-"but when it focuses on like everything, he's kind of already gone through to the point of like him arguing, i able to lose the perfect kind of scene and it added really good tension",0.060927194,0.1320368708292449,0.1599999999999999,0.199,False,0.0006410900386981666,0.00035776750883087516,0.0006131951231509447
-but one of the things i was saying this is going to segue into the acting of this,0.031185975,0.9680308799573014,0.5,0.0,False,0.0008694850257597864,0.0004107571148779243,0.0006082254694774747
-the the actors that to me are stealing the show are the victims,0.2712817,0.998752368610058,0.5,0.353,False,0.002026631962507963,0.05774109810590744,0.020926648750901222
-"like i said like, there are moments where i'm sitting there listening to these cases and they are very explicit",0.02792408,0.0012682558595399,0.4,0.0,False,0.0006167105748318136,0.0005740405176766217,0.0005346612306311727
-i see why this movie,0.039254878,0.9261627000029624,0.5,0.0,False,0.000825414783321321,0.0005251061520539224,0.00043769829790107906
-"i think it's written arm or listen, should be because they go into some heavy deep stuff",0.051737156,0.930770927771498,0.55,0.0,False,0.0006223737145774066,0.0011441420065239072,0.0024618639145046473
-"this movie is about two hours and eight minutes long, but it's not too long because you want to see the completion of the store when i was looking at black master moments",0.1414913,0.7920416251867454,0.5444444444444444,0.0,False,0.0007203933782875538,0.05867192894220352,0.031146837398409843
-why i was kind of feel like man,0.05253629,0.12459522243103,0.2,0.0,False,0.0007085067336447537,0.003076598048210144,0.006697988603264093
-"this is too much too over-the-top at times, but i mean it might be the true story, you know, but this story as a weight, like when you hear in like the actors talk about their molestation situation, or they're after effects are the remnants of their life, or even people that have covered up stuff like you see it all over the faces in their performance and they do an amazing job",0.089577995,0.9978043583080758,0.46625,0.043,False,0.0008616827544756234,0.0010612902697175741,0.0015145030338317156
-"but the thing that i have to say as well is that my ruffalo, michael keaton, a trick adams",0.0813051,0.8791744358626384,0.5,0.062,False,0.0010073344456031919,0.007582115475088358,0.01934756524860859
-"when they're doing the interviews, they do a good job of trying to cover up what their internally hearing",0.02637897,0.0037033440669987,0.325,0.0,False,0.0006000074790790677,0.0004292415687814355,0.00043499257299117744
-"they only towards the mid and the after acts show how that how they've been uncovering all this information, processing everything that has happened has affected them because when they're doing the interview stuff like that, there are really professional",0.040628307,0.0224907158592455,0.4833333333333333,0.038,False,0.0006554598221555352,0.00039355907938443124,0.0006918127764947712
-they're listening and doing this,0.040971663,0.0043382320025126,0.5,0.0,False,0.0013359299628064036,0.000425300735514611,0.00045142657472752035
-"they're attentive, but it's like everything that happened really had an effect on them",0.054534122,0.0083176518814851,0.35,0.0,False,0.0009908165084198117,0.0003413282101973891,0.0006910983938723803
-not just from their mental state or emotional state,0.06532243,0.084103308564299,0.525,0.0,False,0.004964600317180157,0.1103474423289299,0.015850625932216644
-from their spiritual perspective,0.021518974,0.0015156302781281,0.5,0.0,False,0.0006599579355679452,0.00041977892396971583,0.0007002418278716505
-what they believe like is really intriguing to see like man,0.06532243,7.749078172640996e-06,0.35,0.0,False,0.0006066923961043358,0.0021410048939287663,0.0037588586565107107
-it felt like this was real,0.031014297,0.0007136304914066,0.4,0.0,False,0.0008029959280975163,0.0003401819849386811,0.0008496952359564602
-"and i mean, everybody plays their road to a tee",0.101391904,0.003076294622098,0.65625,0.0,False,0.002992231398820877,0.0005039545940235257,0.006006530020385981
-i dare,0.04234509,0.9535193600882776,0.5,0.0,False,0.25589266419410706,0.0035264031030237675,0.0009954679990187287
-"moments while i'm thinking man, somebody's lying like somebody's covered this part up",0.1550967,0.9986602737963908,0.5,0.201,False,0.0008817304624244571,0.006806996650993824,0.0046919905580580235
-i think that specifically market keeps character like in the beginning like i'm like,0.018742332,0.2349746715419098,0.5,0.0,False,0.0006636973121203482,0.00045628874795511365,0.0005643994663842022
-"okay, he, you know, he's doing all he can to you know, do this right, but who, actually, in my opinion, actually, really, still just always leave us motor",0.052935857,0.1105444746718101,0.3767857142857143,0.044,False,0.0013644223799929023,0.000848206807859242,0.001099444110877812
-because this character um,0.03187269,0.1189747862282667,0.5,0.0,False,0.00084635557141155,0.000778982590418309,0.022589800879359245
-"marty baron is like, i guess this new new york times best then listen came from florida and did that, and now he's coming in",0.049898956,0.917034196503151,0.2878787878787878,0.0,False,0.0007507981499657035,0.012485066428780556,0.0012535515706986189
-"the first case he wants to do is open up about why this has not been investigated, and like he is so funny, because his character is like so monotone and so off-putting like he doesn't play golf",0.19239926,0.9966373173311291,0.4125,0.044,False,0.0009076331625692546,0.2826630175113678,0.10155128687620163
-he doesn't really get along with other people,0.119872786,0.999985753617821,0.48125,0.0,False,0.0011811379808932543,0.000981357879936695,0.001731137395836413
-"he's not there for the prestige like he's there for a mission, but it's like the way that he talks and articulates his words",0.07451247,0.0002317570456556,0.5,0.0,False,0.0006368527538143098,0.0006005261093378067,0.0009420857531949878
-"he is the chain like he is literally the chain that's driving this and is holding on to these characters and he works with them so well as a team because he's pushing them, but at the same time he's going through it with them",0.053335425,0.0011544636269894,0.5,0.0,False,0.0014671777607873082,0.0004541095986496657,0.007719570770859718
-"you see, he'll put just as much work in as each and every single one of them through the the process of them trying to figure out what has really happened and i've gone to that into the segue into the plot, but i have to give him honorable mention because if he didn't play the role like he did and wouldn't have add as much weight, because i was kind of like he's really off quitting, like i'm sneaking that michael keaton was going to be that that character",0.04680874,0.972743154002378,0.3892857142857143,0.025,False,0.00074511778075248,0.0006543042836710811,0.0007235351949930191
-but he was,0.017562259,0.059417010621423,0.5,0.0,False,0.015422641299664974,0.00048496836097911,0.0012837284011766315
-"you know, even though my kids character significant, his was even more so and he did an amazing job with",0.019852988,0.0055003254910873,0.2541666666666666,0.0,False,0.0006290933233685791,0.00043691188329830766,0.0016557264607399702
-he did an amazing job,0.023460433,0.0017662831528662,0.1999999999999999,0.0,False,0.0006915138219483197,0.00042787447455339134,0.0010012395214289427
-"even like job slavery, playing the role of uh, ben",0.1250247,0.0128509520249205,0.5,0.298,False,0.02004317380487919,0.042846594005823135,0.014536235481500626
-i liked his character because i couldn't figure him out,0.05133759,0.0314561310676697,0.2,0.0,False,0.0006088129593990743,0.0009064115583896637,0.0006766925798729062
-"i was like i don't know this guy like who's somebody is lying, you know, and i was kind of feeling that that's good storytelling",0.10461388,0.9578584862151946,0.175,0.105,False,0.002179086674004793,0.02390114590525627,0.005245099775493145
-"that's good right in scripting storytelling, so going into the plot, i'm not going to reveal to y'all what happens if you want to read into it? look up",0.032559406,0.997455649790307,0.2535714285714285,0.0,False,0.0006982882623560727,0.000582268403377384,0.0015262092929333448
-the story is on imdb,0.022773718,0.0957884415822926,0.5,0.0,False,0.0007366948993876576,0.0004993931506760418,0.00023178495757747442
-it'll go and give you to a web link,0.04131502,0.8292533840671442,0.5,0.0,False,0.0009619119227863848,0.0006651224102824926,0.0006779500399716198
-"maybe wikipedia or something like that, but it's some heavy stuff because it's the process that the catholic church has supposedly covered up your numerous amounts of child molestation cases and that they're trying to unravel in, figure them out and figuring out how big a scope it is",0.2406723,0.8627314582590837,0.525,0.073,False,0.002849346026778221,0.008799847215414047,0.007970103994011879
-"you know, and i mean, everybody's kind of coming with repel",0.0729142,0.9887121264549416,0.428125,0.0,False,0.0017124481964856386,0.0018887887708842754,0.010588507167994976
-"if you look at the movie, doubt, for instance, was that meryl streep and philip seymour hoffman, that was an amazing movie",0.035134587,0.0270772462088976,0.1999999999999999,0.095,False,0.0005993061931803823,0.005306272301822901,0.00045825852430425584
-i was really dwell,0.11600884,0.0528119646243851,0.4,0.0,False,0.0008082191343419254,0.004929087590426207,0.004094046074897051
-done,0.0224908,0.0218586891218261,0.5,0.0,False,0.001243100268766284,0.001297681126743555,0.001067646429874003
-"it was really sharp, but it was all putting, because you didn't know",0.10763696,0.0087395891879854,0.5625,0.0,False,0.0007200405234470963,0.0010838448069989681,0.002950123744085431
-"these are proven documented facts that are just putting your face and like you're going through and you're like man, that's heavy",0.17759849,0.0006357522557715,0.6,0.0,False,0.35761311650276184,0.003667412791401148,0.04765230417251587
-"i, i don't know if i want to hear this",0.031701013,0.9231486066352732,0.5,0.0,False,0.0008155808318406343,0.006394501775503159,0.0008987975306808949
-"you know if it is it, you don't have a choice",0.035477944,0.9985258272900956,0.5,0.0,False,0.0014686196809634566,0.001864517922513187,0.001058507477864623
-you have to sit there and take it and to take it into the fact that this is only in 2001,0.092262976,0.9989819499529958,0.5,0.0,False,0.000755251559894532,0.001275298884138465,0.0006566437659785151
-so how much more situation that happened in 2015? i remember when the case came up using years ago and like to hear it,0.018187003,0.8079686035964425,0.25,0.0,False,0.0006340928375720978,0.0003477555001154542,0.0003308288869448006
-"it was like i was reliving it, you know, and i mean, i guess i guess that's the point of the movie like it's a situation that is true that it has happened, and the effect of it i think is even more much weightier than the fact of that this did happen, because i'm looking at the effects this happened on these these actors of these characters and it's like it's sad",0.05852979,0.9975524238550244,0.47625,0.038,False,0.0006690873997285962,0.0005058443057350814,0.0007042619981803
-"it is so seriously sad, man, like i was in there like i'ma believe",0.0789077,0.9510071685530008,0.75,0.273,False,0.001217892742715776,0.002982984995469451,0.0034924072679132223
-"you're not believing god, you know, and i asked",0.08635602,0.9987070961110416,0.5,0.185,False,0.006204561330378056,0.007023727521300316,0.017682258039712906
-that's basically what this other video i'm going to do,0.123736724,0.9994029633309448,0.5625,0.0,False,0.0019317524274811149,0.0006622434593737125,0.0007661686977371573
-i'm going to do a full spiritual perspective on the weight of how this movie made me feel,0.089577995,0.0004179435508267,0.4125,0.0,False,0.000623251951765269,0.0004448270483408123,0.0014584456803277135
-"um, and i'm gonna add that to my second channel",0.05613239,0.0003224808685691,0.5,0.0,False,0.001270833658054471,0.0006300872773863375,0.0007580940728075802
-"i'll leave that in description bar below, so y'all can be able to go to that",0.03427619,0.0130554680803846,0.25,0.074,False,0.0005830544978380203,0.0006599597982130945,0.0005916604422964156
-y'all want to hear my perspective on that being? i am a christian,0.06012806,0.0022030033161882,0.5,0.0,False,0.0011203394969925284,0.017590729519724846,0.005245159845799208
-"um, it's going to be interesting to say that it's gonna be really hard for me",0.089041,0.9943732453181112,0.4479166666666667,0.092,False,0.0006633112789131701,0.0012418819824233651,0.00290743843652308
-"i should go through that, but as a movie reviewer, as a story, it was on point, hit on every single target",0.12116077,0.8546362645294471,0.5357142857142857,0.0,False,0.0006711604655720294,0.006719337776303291,0.010837146081030369
-"like i said, there wasn't anything big as far as seven targets",0.06851897,0.9396671377510112,0.475,0.0,False,0.0007258204277604818,0.00039124037721194327,0.0009409657795913517
-"if i can't say that it revolutionizes anything, but it was shot perfectly",0.2224569,0.0003287397394008,0.0,0.0,False,0.0006574575090780854,0.1215435042977333,0.034018490463495255
-it was scored perfectly,0.0717155,0.0004420849097491,0.0,0.0,False,0.0006171127315610647,0.0003387801116332412,0.0033922679722309113
-they had a great cast,0.048868883,0.0018229706401137,0.0999999999999999,0.0,False,0.0008645196794532239,0.0003991023695562035,0.00055889313807711
-"the sub characters, the sub caste, which i don't even want to go through a name",0.16827796,0.99987711750267,0.5,0.075,False,0.0007648839964531362,0.0008055411744862795,0.0007591469911858439
-they all did an amazing night,0.033074442,0.0012774355367598,0.1999999999999999,0.0,False,0.0007131507736630738,0.0004564392438624054,0.0004581912362482399
-"they were all believable, you know, and even towards the very end it was just like wow, like you, you will",0.034962907,0.0014572737586587,0.3666666666666667,0.0,False,0.00541990902274847,0.000513506936840713,0.004933100193738937
-you will feel that weight of this movie in,0.119872786,0.0032748796523453,0.5,0.0,False,0.0007419123430736363,0.0006925271591171622,0.0070214662700891495
-i highly recommend you go and check this out as soon as the hist animals this weekend,0.11407687,0.0008276313529848,0.42,0.0,False,0.0009054081747308373,0.0006454978720284998,0.0072159236297011375
-i was blessed to be able to get an early screening of it and i should,0.039254878,0.0011695147211324,0.35,0.0,False,0.0005673429695889354,0.0006371429772116244,0.0005445219576358795
-i'm probably gonna try to see it again,0.036336336,0.8601230589378791,0.5,0.0,False,0.0008568419143557549,0.0005984092713333666,0.0003476190904621035
-it was really well done,0.029640866,0.0035157269627804,0.4,0.0,False,0.0005977277760393918,0.000316320190904662,0.0004397546872496605
-i'm botched,0.15859914,0.9996145727733516,0.5,0.0,False,0.008782620541751385,0.0034503345377743244,0.012453418225049973
-come down blu-ray,0.065721996,0.9994026652894766,0.5777777777777778,0.0,False,0.0689476951956749,0.003984235692769289,0.0007846828084439039
-"um, but yeah again, this is not for kids",0.059328925,0.9999172636884336,0.5,0.0,False,0.004086772911250591,0.0008741665515117347,0.0014090045588091016
-this is it are,0.025863936,0.0173784105555796,0.5,0.0,False,0.004669648129492998,0.0005763430963270366,0.0035266978666186333
-it's a lot to it,0.038911518,0.0020791074778663,0.5,0.0,False,0.0008558521512895823,0.00034951986162923276,0.0009679206414148211
-"but hopefully you enjoyed my full review for the movie spotlight, and yeah, i might head to this other thing",0.048525527,0.9528000370048288,0.3791666666666666,0.0,False,0.0005637188442051411,0.0008225783240050077,0.00037075168802402914
-this is going to be even more harder to do french for me off,0.14822112,0.9990847146512238,0.4333333333333333,0.0,False,0.0032282439060509205,0.03475292772054672,0.012135971337556839
-"either way, keep a lot sel 0220, signing out, jbs, you",0.13745339,0.0065051723010512,0.5,0.0,False,0.007182289380580187,0.026164498180150986,0.005371143575757742
+"oh my goodness, it's going to update youtube",0.05253629,0.9919242262840271,0.0,0.0,False,0.0032071995083242,0.0009044092730619,0.0039345626719295
+this is sel 0320 representing jvs,0.02655065,0.0,0.0,0.0,False,0.0009772279299795,0.0009219711064361,0.0013910003472119
+i'm back here for a brand new movie review,0.030842619,0.0,0.0,0.0,False,0.0007531626033596,0.0006911215023137,0.0003857086412608
+the name of this movie is spotlight,0.059328925,0.0,0.0,0.0,False,0.0007043026271276,0.000436951231677,0.0009837698889896
+i am going to be doing two different reviews of this or overviews,0.021380141,0.7241665124893188,0.0,0.0,False,0.000608297646977,0.0004220986738801,0.0003741960099432
+"i should say, there's going to be one concrete review is going to be completely non-spoiler i'm not gonna reveal anything about the plot unless you want",0.035134587,0.9763056039810181,0.0,0.0,False,0.0009844126179814,0.000732431479264,0.0003252373426221
+"i should know about the real, based on true life events this movie is based on, but the second one is going to be from a different perspective",0.03187269,0.0,0.0,0.0,False,0.0005734821897931,0.0003652762679848,0.000227909622481
+that's all i can say,0.027752401,0.0,0.0,0.0,False,0.0016574078472331,0.0004036970203742,0.0015756441280245
+i'll say that,0.02809576,0.0,0.0,0.0,False,0.0008350150310434,0.0004017587925773,0.000704506994225
+"towards the end, the name of the movie is called spotlight",0.028439116,0.9142600893974304,0.0,0.0,False,0.0005919464165344,0.0004460280470084,0.000601596548222
+"it stars mark ruffalo, michael keaton rachel mcadams, leave us mulder",0.019575324,0.0,0.0,0.107,False,0.001988862408325,0.000877751270309,0.1047709956765174
+"um, shoot, even got john slater in this movie, but this is the status of the movie, a true story of how boston globe uncovered a massive scandal, um of child molestation and the cover-up of the specific catholic church, and that's all i'm kind of gonna read",0.20963,0.0,0.0,0.207,False,0.0009482024470344,0.0584279336035251,0.0199147071689367
+but it's so much more than that,0.03736641,0.0,0.0,0.0,False,0.0010968809947371,0.0003578309551812,0.0014305040240287
+normally i don't read,0.03427619,0.9420404434204102,0.0,0.0,False,0.0009044600883498,0.0064249760471284,0.0007557177450507
+snaps it to come on imdb because they revealed way too much about the stories,0.08796701,0.9981915354728699,0.0,0.0,False,0.0006569877732545,0.000585674191825,0.0009120991453528
+"um, you know, transparent plot, but this movie i'm go ahead and talk about, just like i normally would",0.042001735,0.0,0.0,0.0,False,0.0006537906592711,0.0008260596077889,0.000821464927867
+any other review,0.016104523,0.0,0.125,0.0,False,0.0008524078293703,0.0004632686031982,0.0008622178575024
+"i'll go on the dynamics of the visual immersion, the soundtrack, the acting as well as the story, but the story",0.016243355,0.5031275749206543,0.0,0.0,False,0.0005264678038656,0.0003453913086559,0.0002040134131675
+"i'm way, i'm winner revealed",0.043718524,0.0,0.0,0.0,False,0.0013361992314457,0.0004943086532875,0.0006861266447231
+i'm not going to say anything about it,0.038053125,0.9799033999443054,0.0,0.0,False,0.0008532655774615,0.0009245018591172,0.0010730486828833
+i'm just going to talk about plot points,0.021796638,0.9881597757339478,0.0,0.0,False,0.0005494042998179,0.0004436358867678,0.0004700867284554
+"so visual effects of this like the cinematography? um, it was excellently shot",0.19141254,0.0,0.0,0.0,False,0.00068385747727,0.0007505992543883,0.0004770667292177
+they didn't use a lot of trickery,0.08635602,0.8405590653419495,0.0,0.259,False,0.0037643176037818,0.0018721740925684,0.0021945156622678
+"as far as like me, haven't seen anything quite like this",0.039598234,0.0,0.0,0.0,False,0.0010143298422917,0.0004490047867875,0.0010170334717258
+it was with me,0.031529333,0.0,0.0,0.0,False,0.0015218172920867,0.0003848592459689,0.0015532654942944
+"he was really normally shot, but it was like for every single moment or significant thing that was happening, i think the most impactful things when did characters such as rachel mcadams or mark ruffalo are interviewing specific people that supposedly were going through the less station situations when you see it",0.11021292,0.9880262613296509,0.0,0.0,False,0.0006281143869273,0.0006600085762329,0.0063287392258644
+and actually here it is so eloquently done because it focuses on the performance and they give,0.0681194,0.0,0.0,0.0,False,0.0007060933276079,0.0003373966901563,0.0003675529442261
+how do i put it? they give so much more credit to the non big-name quote-unquote actors to be able to tell this story,0.0669207,0.0,0.0,0.0,False,0.0008547807810828,0.0007742473389953,0.0006080797174945
+it's almost as though the non actress they feel real,0.090114996,0.0,0.0,0.0,False,0.0018052591476589,0.0026041141245514,0.0084520578384399
+they feel really authentic,0.04543531,0.0,0.0,0.0,False,0.0005939761758781,0.0003279270604252,0.0010673775104805
+"the way that the cinematography is taken and checking from their perspective every small scene where you see somebody that is a victim of this situation that happened, or it's been happening over at certain x amount of years, because the movie starts off in the very beginning",0.032559406,0.0,0.0,0.042,False,0.0005729096010327,0.0003597033501137,0.0003605271340347
+"i think it was around like 1976 or something like that, where something had just happened",0.021796638,0.9655041694641113,0.0,0.0,False,0.0006007172632962,0.0003534909919835,0.0005521691055037
+i ministation,0.013813793,0.0,0.0,0.0,False,0.0135190803557634,0.0017681143945083,0.0008156768744811
+"i guess case, it just opened up and it seemed really shady and really shoddy",0.17242117,0.9997945427894592,0.275,0.0,False,0.0007208318565972,0.0065139457583427,0.001168426242657
+and then from that point the score goes and the score y'all like it's done so well,0.029125832,0.0,0.0,0.0,False,0.0012439335696399,0.0004553315520752,0.0014181897277012
+it's the undercurrent of it because it's really smoothly paste,0.06652113,0.0,0.0,0.0,False,0.0010260766139253,0.0007359030423685,0.0036609123926609
+"i don't know who did the score for it, but it did an amazing job with it",0.029812546,0.0,0.0,0.0,False,0.0006582678761333,0.0003661913506221,0.0007565294508822
+i actually really enjoyed because i think it it helps with the weight of it,0.046465382,0.0,0.0,0.0,False,0.000584393099416,0.0003909598162863,0.0009674577740952
+when there's moments of silence,0.035134587,0.7034816145896912,0.0,0.0,False,0.0010740692960098,0.0005825983826071,0.0005972303333692
+"there are moments of silent when there's moments, key moments when things are just kind of pacing along where they're kind of going and trying to uncover this case or just part of the situation",0.025520578,0.8880274295806885,0.0,0.0,False,0.0005988522316329,0.0003509456000756,0.0003173075383529
+this is paced really well as up-tempo via the same that time,0.026722329,0.0,0.0,0.0,False,0.000574144476559,0.0004247999459039,0.000527802563738
+it's not too flashy,0.0801064,0.0,0.5,0.0,False,0.0013344993349164,0.0003984885697718,0.0029058936052024
+it's just right and it's all aspired to cinematography,0.02809576,0.0,0.0,0.0,False,0.0006087509100325,0.0003444101312197,0.0013067879481241
+"as far as the score is concerned, i mean, the cinematography was nothing i haven't seen before, but for the key moments that are significant, they are done and executed well and they allow the actors to be as ok",0.03770977,0.0,0.0,0.0,False,0.0005613032262772,0.0004376860160846,0.0009946536738425
+"that's just their skills, but their dedication to the roles and the craft",0.03358948,0.0,0.0,0.0,False,0.0005737178144045,0.0007714777602814,0.0007688074256293
+for what the whole plot about this movie is we're talking into pretty soon,0.039254878,0.9785616397857666,0.0,0.0,False,0.0006054769619368,0.0004148081352468,0.0006850717472843
+"i mean, there was a point where mark ruffalo's character is kind of arguing with um, michael keaton's character, and like it's so deep, it's so impact because the weight of everything has already hit you as a viewer",0.112788886,0.0,0.0,0.077,False,0.000694379908964,0.0012874703388661,0.0081722727045416
+"but when it focuses on like everything, he's kind of already gone through to the point of like him arguing, i able to lose the perfect kind of scene and it added really good tension",0.060927194,0.0,0.0,0.199,False,0.0006410900386981,0.0003577675088308,0.0006131951231509
+but one of the things i was saying this is going to segue into the acting of this,0.031185975,0.936065673828125,0.0,0.0,False,0.0008694850257597,0.0004107571148779,0.0006082254694774
+the the actors that to me are stealing the show are the victims,0.2712817,0.9975048899650574,0.0,0.353,False,0.0020266319625079,0.0577410981059074,0.0209266487509012
+"like i said like, there are moments where i'm sitting there listening to these cases and they are very explicit",0.02792408,0.0,0.0,0.0,False,0.0006167105748318,0.0005740405176766,0.0005346612306311
+i see why this movie,0.039254878,0.8523344397544861,0.0,0.0,False,0.0008254147833213,0.0005251061520539,0.000437698297901
+"i think it's written arm or listen, should be because they go into some heavy deep stuff",0.051737156,0.8615503311157227,0.1,0.0,False,0.0006223737145774,0.0011441420065239,0.0024618639145046
+"this movie is about two hours and eight minutes long, but it's not too long because you want to see the completion of the store when i was looking at black master moments",0.1414913,0.5841087102890015,0.0888888888888888,0.0,False,0.0007203933782875,0.0586719289422035,0.0311468373984098
+why i was kind of feel like man,0.05253629,0.0,0.0,0.0,False,0.0007085067336447,0.0030765980482101,0.006697988603264
+"this is too much too over-the-top at times, but i mean it might be the true story, you know, but this story as a weight, like when you hear in like the actors talk about their molestation situation, or they're after effects are the remnants of their life, or even people that have covered up stuff like you see it all over the faces in their performance and they do an amazing job",0.089577995,0.9956089854240417,0.0,0.043,False,0.0008616827544756,0.0010612902697175,0.0015145030338317
+"but the thing that i have to say as well is that my ruffalo, michael keaton, a trick adams",0.0813051,0.758363664150238,0.0,0.062,False,0.0010073344456031,0.0075821154750883,0.0193475652486085
+"when they're doing the interviews, they do a good job of trying to cover up what their internally hearing",0.02637897,0.0,0.0,0.0,False,0.000600007479079,0.0004292415687814,0.0004349925729911
+"they only towards the mid and the after acts show how that how they've been uncovering all this information, processing everything that has happened has affected them because when they're doing the interview stuff like that, there are really professional",0.040628307,0.0,0.0,0.038,False,0.0006554598221555,0.0003935590793844,0.0006918127764947
+they're listening and doing this,0.040971663,0.0,0.0,0.0,False,0.0013359299628064,0.0004253007355146,0.0004514265747275
+"they're attentive, but it's like everything that happened really had an effect on them",0.054534122,0.0,0.0,0.0,False,0.0009908165084198,0.0003413282101973,0.0006910983938723
+not just from their mental state or emotional state,0.06532243,0.0,0.05,0.0,False,0.0049646003171801,0.1103474423289299,0.0158506259322166
+from their spiritual perspective,0.021518974,0.0,0.0,0.0,False,0.0006599579355679,0.0004197789239697,0.0007002418278716
+what they believe like is really intriguing to see like man,0.06532243,0.0,0.0,0.0,False,0.0006066923961043,0.0021410048939287,0.0037588586565107
+it felt like this was real,0.031014297,0.0,0.0,0.0,False,0.0008029959280975,0.0003401819849386,0.0008496952359564
+"and i mean, everybody plays their road to a tee",0.101391904,0.0,0.3125,0.0,False,0.0029922313988208,0.0005039545940235,0.0060065300203859
+i dare,0.04234509,0.9070444107055664,0.0,0.0,False,0.255892664194107,0.0035264031030237,0.0009954679990187
+"moments while i'm thinking man, somebody's lying like somebody's covered this part up",0.1550967,0.9973207116127014,0.0,0.201,False,0.0008817304624244,0.0068069966509938,0.004691990558058
+i think that specifically market keeps character like in the beginning like i'm like,0.018742332,0.0,0.0,0.0,False,0.0006636973121203,0.0004562887479551,0.0005643994663842
+"okay, he, you know, he's doing all he can to you know, do this right, but who, actually, in my opinion, actually, really, still just always leave us motor",0.052935857,0.0,0.0,0.044,False,0.0013644223799929,0.0008482068078592,0.0010994441108778
+because this character um,0.03187269,0.0,0.0,0.0,False,0.0008463555714115,0.0007789825904183,0.0225898008793592
+"marty baron is like, i guess this new new york times best then listen came from florida and did that, and now he's coming in",0.049898956,0.8340785503387451,0.0,0.0,False,0.0007507981499657,0.0124850664287805,0.0012535515706986
+"the first case he wants to do is open up about why this has not been investigated, and like he is so funny, because his character is like so monotone and so off-putting like he doesn't play golf",0.19239926,0.9932750463485718,0.0,0.044,False,0.0009076331625692,0.2826630175113678,0.1015512868762016
+he doesn't really get along with other people,0.119872786,0.9999715089797974,0.0,0.0,False,0.0011811379808932,0.0009813578799366,0.0017311373958364
+"he's not there for the prestige like he's there for a mission, but it's like the way that he talks and articulates his words",0.07451247,0.0,0.0,0.0,False,0.0006368527538143,0.0006005261093378,0.0009420857531949
+"he is the chain like he is literally the chain that's driving this and is holding on to these characters and he works with them so well as a team because he's pushing them, but at the same time he's going through it with them",0.053335425,0.0,0.0,0.0,False,0.0014671777607873,0.0004541095986496,0.0077195707708597
+"you see, he'll put just as much work in as each and every single one of them through the the process of them trying to figure out what has really happened and i've gone to that into the segue into the plot, but i have to give him honorable mention because if he didn't play the role like he did and wouldn't have add as much weight, because i was kind of like he's really off quitting, like i'm sneaking that michael keaton was going to be that that character",0.04680874,0.9454896450042725,0.0,0.025,False,0.0007451177807524,0.000654304283671,0.000723535194993
+but he was,0.017562259,0.0,0.0,0.0,False,0.0154226412996649,0.0004849683609791,0.0012837284011766
+"you know, even though my kids character significant, his was even more so and he did an amazing job with",0.019852988,0.0,0.0,0.0,False,0.0006290933233685,0.0004369118832983,0.0016557264607399
+he did an amazing job,0.023460433,0.0,0.0,0.0,False,0.0006915138219483,0.0004278744745533,0.0010012395214289
+"even like job slavery, playing the role of uh, ben",0.1250247,0.0,0.0,0.298,False,0.0200431738048791,0.0428465940058231,0.0145362354815006
+i liked his character because i couldn't figure him out,0.05133759,0.0,0.0,0.0,False,0.000608812959399,0.0009064115583896,0.0006766925798729
+"i was like i don't know this guy like who's somebody is lying, you know, and i was kind of feeling that that's good storytelling",0.10461388,0.915722131729126,0.0,0.105,False,0.0021790866740047,0.0239011459052562,0.0052450997754931
+"that's good right in scripting storytelling, so going into the plot, i'm not going to reveal to y'all what happens if you want to read into it? look up",0.032559406,0.9949116110801697,0.0,0.0,False,0.000698288262356,0.0005822684033773,0.0015262092929333
+the story is on imdb,0.022773718,0.0,0.0,0.0,False,0.0007366948993876,0.000499393150676,0.0002317849575774
+it'll go and give you to a web link,0.04131502,0.658527672290802,0.0,0.0,False,0.0009619119227863,0.0006651224102824,0.0006779500399716
+"maybe wikipedia or something like that, but it's some heavy stuff because it's the process that the catholic church has supposedly covered up your numerous amounts of child molestation cases and that they're trying to unravel in, figure them out and figuring out how big a scope it is",0.2406723,0.7254797220230103,0.05,0.073,False,0.0028493460267782,0.008799847215414,0.0079701039940118
+"you know, and i mean, everybody's kind of coming with repel",0.0729142,0.9774256348609924,0.0,0.0,False,0.0017124481964856,0.0018887887708842,0.0105885071679949
+"if you look at the movie, doubt, for instance, was that meryl streep and philip seymour hoffman, that was an amazing movie",0.035134587,0.0,0.0,0.095,False,0.0005993061931803,0.0053062723018229,0.0004582585243042
+i was really dwell,0.11600884,0.0,0.0,0.0,False,0.0008082191343419,0.0049290875904262,0.004094046074897
+done,0.0224908,0.0,0.0,0.0,False,0.0012431002687662,0.0012976811267435,0.001067646429874
+"it was really sharp, but it was all putting, because you didn't know",0.10763696,0.0,0.125,0.0,False,0.000720040523447,0.0010838448069989,0.0029501237440854
+"these are proven documented facts that are just putting your face and like you're going through and you're like man, that's heavy",0.17759849,0.0,0.2,0.0,False,0.3576131165027618,0.0036674127914011,0.0476523041725158
+"i, i don't know if i want to hear this",0.031701013,0.8463066220283508,0.0,0.0,False,0.0008155808318406,0.0063945017755031,0.0008987975306808
+"you know if it is it, you don't have a choice",0.035477944,0.9970518350601196,0.0,0.0,False,0.0014686196809634,0.0018645179225131,0.0010585074778646
+you have to sit there and take it and to take it into the fact that this is only in 2001,0.092262976,0.9979640245437622,0.0,0.0,False,0.0007552515598945,0.0012752988841384,0.0006566437659785
+so how much more situation that happened in 2015? i remember when the case came up using years ago and like to hear it,0.018187003,0.6159607172012329,0.0,0.0,False,0.000634092837572,0.0003477555001154,0.0003308288869448
+"it was like i was reliving it, you know, and i mean, i guess i guess that's the point of the movie like it's a situation that is true that it has happened, and the effect of it i think is even more much weightier than the fact of that this did happen, because i'm looking at the effects this happened on these these actors of these characters and it's like it's sad",0.05852979,0.9951051473617554,0.0,0.038,False,0.0006690873997285,0.000505844305735,0.0007042619981803
+"it is so seriously sad, man, like i was in there like i'ma believe",0.0789077,0.9020203351974487,0.5,0.273,False,0.0012178927427157,0.0029829849954694,0.0034924072679132
+"you're not believing god, you know, and i asked",0.08635602,0.9974143505096436,0.0,0.185,False,0.006204561330378,0.0070237275213003,0.0176822580397129
+that's basically what this other video i'm going to do,0.123736724,0.9988059997558594,0.125,0.0,False,0.0019317524274811,0.0006622434593737,0.0007661686977371
+i'm going to do a full spiritual perspective on the weight of how this movie made me feel,0.089577995,0.0,0.0,0.0,False,0.0006232519517652,0.0004448270483408,0.0014584456803277
+"um, and i'm gonna add that to my second channel",0.05613239,0.0,0.0,0.0,False,0.0012708336580544,0.0006300872773863,0.0007580940728075
+"i'll leave that in description bar below, so y'all can be able to go to that",0.03427619,0.0,0.0,0.074,False,0.000583054497838,0.000659959798213,0.0005916604422964
+y'all want to hear my perspective on that being? i am a christian,0.06012806,0.0,0.0,0.0,False,0.0011203394969925,0.0175907295197248,0.0052451598457992
+"um, it's going to be interesting to say that it's gonna be really hard for me",0.089041,0.9887471795082092,0.0,0.092,False,0.0006633112789131,0.0012418819824233,0.002907438436523
+"i should go through that, but as a movie reviewer, as a story, it was on point, hit on every single target",0.12116077,0.7092903256416321,0.0714285714285714,0.0,False,0.000671160465572,0.0067193377763032,0.0108371460810303
+"like i said, there wasn't anything big as far as seven targets",0.06851897,0.8793416619300842,0.0,0.0,False,0.0007258204277604,0.0003912403772119,0.0009409657795913
+"if i can't say that it revolutionizes anything, but it was shot perfectly",0.2224569,0.0,0.0,0.0,False,0.000657457509078,0.1215435042977333,0.0340184904634952
+it was scored perfectly,0.0717155,0.0,0.0,0.0,False,0.000617112731561,0.0003387801116332,0.0033922679722309
+they had a great cast,0.048868883,0.0,0.0,0.0,False,0.0008645196794532,0.0003991023695562,0.0005588931380771
+"the sub characters, the sub caste, which i don't even want to go through a name",0.16827796,0.9997542500495911,0.0,0.075,False,0.0007648839964531,0.0008055411744862,0.0007591469911858
+they all did an amazing night,0.033074442,0.0,0.0,0.0,False,0.000713150773663,0.0004564392438624,0.0004581912362482
+"they were all believable, you know, and even towards the very end it was just like wow, like you, you will",0.034962907,0.0,0.0,0.0,False,0.0054199090227484,0.0005135069368407,0.0049331001937389
+you will feel that weight of this movie in,0.119872786,0.0,0.0,0.0,False,0.0007419123430736,0.0006925271591171,0.0070214662700891
+i highly recommend you go and check this out as soon as the hist animals this weekend,0.11407687,0.0,0.0,0.0,False,0.0009054081747308,0.0006454978720284,0.0072159236297011
+i was blessed to be able to get an early screening of it and i should,0.039254878,0.0,0.0,0.0,False,0.0005673429695889,0.0006371429772116,0.0005445219576358
+i'm probably gonna try to see it again,0.036336336,0.7202632427215576,0.0,0.0,False,0.0008568419143557,0.0005984092713333,0.0003476190904621
+it was really well done,0.029640866,0.0,0.0,0.0,False,0.0005977277760393,0.0003163201909046,0.0004397546872496
+i'm botched,0.15859914,0.9992291927337646,0.0,0.0,False,0.0087826205417513,0.0034503345377743,0.0124534182250499
+come down blu-ray,0.065721996,0.9988054037094116,0.1555555555555555,0.0,False,0.0689476951956749,0.0039842356927692,0.0007846828084439
+"um, but yeah again, this is not for kids",0.059328925,0.9998345375061035,0.0,0.0,False,0.0040867729112505,0.0008741665515117,0.0014090045588091
+this is it are,0.025863936,0.0,0.0,0.0,False,0.0046696481294929,0.000576343096327,0.0035266978666186
+it's a lot to it,0.038911518,0.0,0.0,0.0,False,0.0008558521512895,0.0003495198616292,0.0009679206414148
+"but hopefully you enjoyed my full review for the movie spotlight, and yeah, i might head to this other thing",0.048525527,0.9056058526039124,0.0,0.0,False,0.0005637188442051,0.000822578324005,0.000370751688024
+this is going to be even more harder to do french for me off,0.14822112,0.9981695413589478,0.0,0.0,False,0.0032282439060509,0.0347529277205467,0.0121359713375568
+"either way, keep a lot sel 0220, signing out, jbs, you",0.13745339,0.0,0.0,0.0,False,0.0071822893805801,0.0261644981801509,0.0053711435757577

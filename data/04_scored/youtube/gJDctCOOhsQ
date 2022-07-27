@@ -1,25 +1,25 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"watch it, bub",0.084745035,2.4230808916198538e-05,0.4117647058823529,0.0,False,0.007121280767023563,0.0007677462417632341,0.0027759887743741274
-"welcome to the kaiba, she, oh yes, finally, after 17 long years, you guys finally deliver a war ii movie that truly shows what he's capable of doing",0.08050597,0.0,0.3,0.102,False,0.000966316438280046,0.0004648870090022683,0.0019593839533627033
-"he was a straight beast in this movie, freaking savage",0.5851118,0.0044723873987156,0.2941176470588235,0.395,False,0.7663001418113708,0.9092237949371338,0.9763082265853882
-now we could finally wipe away that atrocious x-men or they don't even know with that crap was and that soul sold the wolverine,0.68288773,0.7675486045289379,0.7058823529411765,0.102,False,0.7463048696517944,0.865318238735199,0.9555986523628235
-now i was just thrown off with a clean slate,0.24769363,0.9022178969052695,0.196078431372549,0.0,False,0.0036428289022296667,0.006763681303709745,0.07420092076063156
-in logan,0.016521018,0.0007511550764021,0.4117647058823529,0.0,False,0.0008614348480477929,0.0012697870843112469,0.002220617141574621
-"the movie is set in the future, where we see a older version of himself and his body is not healing like how it used to",0.049898956,0.9984567388860016,0.3627450980392157,0.078,False,0.0008299881010316312,0.0015530296368524432,0.0006552062695845962
-"he's taken care of a sick, professor x",0.094410956,0.0511253973867564,0.8319327731092437,0.264,False,0.10565048456192017,0.14246848225593567,0.356270968914032
-"because there's only two x-men left, logan and professor edge crossed paths with a young mutant girl named laura",0.23628397,0.0252938350682453,0.392156862745098,0.0,False,0.001086152857169509,0.01887931115925312,0.4697113037109375
-des has very interesting powers,0.033932835,0.0004972829603527,0.0294117647058823,0.0,False,0.0008071773918345571,0.0021962758619338274,0.0024085543118417263
-all hell breaks loose were wolverine and laura team up to stop the bad guys that's trying to capture her,0.2712817,0.0344204750514167,0.6402714932126696,0.441,True,0.08792789280414581,0.2009991854429245,0.19165292382240295
-this movie has everything in is that you can ask for it,0.07251463,0.0003090396773088,0.4117647058823529,0.0,False,0.0007141198730096221,0.0004738647257909179,0.0009192120051011443
-"it has the action, it has the suspense, it has the drama and even has a little community",0.10031791,0.0013784439266595,0.4374999999999999,0.0,False,0.0006878338172100484,0.0004054510500282049,0.0006716019124723971
-the story and plot are so interested in,0.017909339,0.0023850507413405,0.2647058823529412,0.0,False,0.0005713262944482267,0.00036269344855099916,0.0005911638145335019
-intriguing,0.030155903,0.0002847492600065,0.2352941176470587,0.0,False,0.0007853033021092415,0.0006433562375605106,0.0005350260180421174
-"at times you, you don't even notice that wolverine went 35 minutes where i'll cut somebody's head off",0.42631236,0.9893945653723084,0.4117647058823529,0.11,False,0.5020216703414917,0.7034823894500732,0.5573850870132446
-"matter of fact, this movie is so good that you forget that you're watching a superhero movie",0.050242316,0.0013827655346457,0.0,0.092,False,0.0009833069052547216,0.0006489429506473243,0.0009535686112940311
-"the only negative thing i could really say about this movie which isn't really that big of a deal, but just one little chain fell a little flat for me",0.17957193,0.9999153560918548,0.4338235294117647,0.075,False,0.0007435157895088196,0.0004598699451889843,0.004608445800840855
-"for those of you that know, want a personal level, know that i'm a huge wall during a hawk fan and i left the theater a satisfied comic book fan",0.06252546,0.0100153116061163,0.2764705882352941,0.0,False,0.0011798222549259663,0.001997453160583973,0.0026886260602623224
-this was the best portrayal of this character on the big screen,0.034962907,0.0001101562973607,0.1176470588235293,0.0,False,0.0006542818155139685,0.0003903857141267508,0.0019366752821952105
-"the other two movies fell short compared to this movie overall, on a scale of 1 to 10",0.06012806,0.9999812829667905,0.4362745098039216,0.0,False,0.0008112642681226134,0.00048426687135361135,0.0004641174746211618
-"i'm giving this movie a 9, so i don't know why you guys are still sitting your butts on the team",0.52368855,0.999118570795956,0.4117647058823529,0.0,False,0.4733284115791321,0.8153311610221863,0.6736301183700562
-"you need to get up and go to the theater this weekend to see this movie is going to be worth seeing it at regular admission price, hands down, and definitely got a bite on blu-ray in this movie com",0.08635602,0.0001098582554306,0.3905228758169934,0.0,False,0.0008724827202968299,0.0006780075491406024,0.001005001598969102
-"so if you like what you see and you want to see more, please leave a comment at the bottom and hit the like and subscribe way",0.14866976,0.782555045513089,0.1176470588235293,0.045,False,0.0008024513372220099,0.03922039642930031,0.0005814656033180654
+"watch it, bub",0.084745035,0.0,0.0,0.0,False,0.0071212807670235,0.0007677462417632,0.0027759887743741
+"welcome to the kaiba, she, oh yes, finally, after 17 long years, you guys finally deliver a war ii movie that truly shows what he's capable of doing",0.08050597,0.0,0.0,0.102,False,0.00096631643828,0.0004648870090022,0.0019593839533627
+"he was a straight beast in this movie, freaking savage",0.5851118,0.0,0.0,0.395,False,0.7663001418113708,0.9092237949371338,0.9763082265853882
+now we could finally wipe away that atrocious x-men or they don't even know with that crap was and that soul sold the wolverine,0.68288773,0.5351263880729675,0.5,0.102,False,0.7463048696517944,0.865318238735199,0.9555986523628236
+now i was just thrown off with a clean slate,0.24769363,0.8044480681419373,0.0,0.0,False,0.0036428289022296,0.0067636813037097,0.0742009207606315
+in logan,0.016521018,0.0,0.0,0.0,False,0.0008614348480477,0.0012697870843112,0.0022206171415746
+"the movie is set in the future, where we see a older version of himself and his body is not healing like how it used to",0.049898956,0.9969136714935303,0.0,0.078,False,0.0008299881010316,0.0015530296368524,0.0006552062695845
+"he's taken care of a sick, professor x",0.094410956,0.0,0.7142857142857143,0.264,False,0.1056504845619201,0.1424684822559356,0.356270968914032
+"because there's only two x-men left, logan and professor edge crossed paths with a young mutant girl named laura",0.23628397,0.0,0.0,0.0,False,0.0010861528571695,0.0188793111592531,0.4697113037109375
+des has very interesting powers,0.033932835,0.0,0.0,0.0,False,0.0008071773918345,0.0021962758619338,0.0024085543118417
+all hell breaks loose were wolverine and laura team up to stop the bad guys that's trying to capture her,0.2712817,0.0,0.3884615384615384,0.441,True,0.0879278928041458,0.2009991854429245,0.1916529238224029
+this movie has everything in is that you can ask for it,0.07251463,0.0,0.0,0.0,False,0.0007141198730096,0.0004738647257909,0.0009192120051011
+"it has the action, it has the suspense, it has the drama and even has a little community",0.10031791,0.0,0.04375,0.0,False,0.00068783381721,0.0004054510500282,0.0006716019124723
+the story and plot are so interested in,0.017909339,0.0,0.0,0.0,False,0.0005713262944482,0.0003626934485509,0.0005911638145335
+intriguing,0.030155903,0.0,0.0,0.0,False,0.0007853033021092,0.0006433562375605,0.0005350260180421
+"at times you, you don't even notice that wolverine went 35 minutes where i'll cut somebody's head off",0.42631236,0.9787904620170593,0.0,0.11,False,0.5020216703414917,0.7034823894500732,0.5573850870132446
+"matter of fact, this movie is so good that you forget that you're watching a superhero movie",0.050242316,0.0,0.0,0.092,False,0.0009833069052547,0.0006489429506473,0.000953568611294
+"the only negative thing i could really say about this movie which isn't really that big of a deal, but just one little chain fell a little flat for me",0.17957193,0.9998307228088379,0.0375,0.075,False,0.0007435157895088,0.0004598699451889,0.0046084458008408
+"for those of you that know, want a personal level, know that i'm a huge wall during a hawk fan and i left the theater a satisfied comic book fan",0.06252546,0.0,0.0,0.0,False,0.0011798222549259,0.0019974531605839,0.0026886260602623
+this was the best portrayal of this character on the big screen,0.034962907,0.0,0.0,0.0,False,0.0006542818155139,0.0003903857141267,0.0019366752821952
+"the other two movies fell short compared to this movie overall, on a scale of 1 to 10",0.06012806,0.999962568283081,0.0416666666666666,0.0,False,0.0008112642681226,0.0004842668713536,0.0004641174746211
+"i'm giving this movie a 9, so i don't know why you guys are still sitting your butts on the team",0.52368855,0.9982372522354126,0.0,0.0,False,0.4733284115791321,0.8153311610221863,0.6736301183700562
+"you need to get up and go to the theater this weekend to see this movie is going to be worth seeing it at regular admission price, hands down, and definitely got a bite on blu-ray in this movie com",0.08635602,0.0,0.0,0.0,False,0.0008724827202968,0.0006780075491406,0.0010050015989691
+"so if you like what you see and you want to see more, please leave a comment at the bottom and hit the like and subscribe way",0.14866976,0.5651373863220215,0.0,0.045,False,0.000802451337222,0.0392203964293003,0.000581465603318

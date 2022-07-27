@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"#nabc beers flowing today , come get out of the cold with us .",0.078108564,0.0,0.0,0.0,0.0096105961129069,0.0015207908581942,0.0017874789191409,False
+"#nabc beers flowing today , come get out of the cold with us .",0.078108564,0.0,0.6,0.0,0.0096105961129069,0.0015207908581942,0.0017874789191409,False

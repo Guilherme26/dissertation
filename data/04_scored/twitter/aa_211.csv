@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user nothing . he calmed down and asked me where i was from . lol,0.09333697,0.0,0.0,0.121,0.0013643287820741,0.0030051658395677,0.0010649104369804,False
+@user nothing . he calmed down and asked me where i was from . lol,0.09333697,0.9999669790267944,0.0,0.121,0.0013643287820741,0.0030051658395677,0.0010649104369804,False

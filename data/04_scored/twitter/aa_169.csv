@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user u know how to get a nigga head fucked up quick lol,0.95068264,0.0,0.0,0.242,0.9956827163696288,0.9959179759025574,0.9952881336212158,True
+@user u know how to get a nigga head fucked up quick lol,0.95068264,0.9909932017326355,0.0,0.242,0.9956827163696288,0.9959179759025574,0.9952881336212158,True

@@ -1,107 +1,107 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hello, everybody, my name is brandon nikita, brando critic, and today we will be discussing a star is born",0.040284947,0.0013058674298238,0.5,0.104,False,0.0008752036956138909,0.0035395740997046232,0.002515242202207446
-"yes, i know it is rather late",0.027065687,0.9969276039161062,0.65,0.0,False,0.0009213730809278786,0.0007717626867815852,0.00068755162646994
-this movie came out quite a few months ago,0.048525527,0.9981273735288688,0.6,0.0,False,0.0006422308506444097,0.00039462323184125125,0.0003507243236526847
-life got in the way,0.029125832,0.978982558889802,0.5,0.0,False,0.01804514229297638,0.0004345217312220484,0.004057801328599453
-here we go,0.026722329,0.001619720270125,0.5,0.0,False,0.0009640161297284067,0.0005560056306421757,0.0013751371297985315
-"so i just want to state, rap the bat that i have not seen any other versions of this movie",0.16827796,0.0128906761536394,0.5625,0.0,False,0.038630105555057526,0.2863832712173462,0.464762806892395
-i haven't seen the movie in the 50s,0.029469188,0.2167352497658844,0.5,0.0,False,0.000770975777413696,0.00044835853623226285,0.0004742705204989761
-i haven't seen the movie from the 70s,0.02655065,0.9900220665577832,0.5,0.0,False,0.0007406167569570243,0.00044683361193165183,0.00045951458741910756
-"the 2018 version is the only version i've ever seen, so we have bradley cooper and lady gaga going on this musical adventure together",0.03049926,0.0133380155452375,0.5,0.0,False,0.0007054442539811134,0.0007894276641309261,0.0007094127940945327
-"bradley cooper is jack, this really famous country slash rock singer and his career is kind of waning down, because he is an alcoholic, a drug addict, and his life and his music and his career is just devoid of passion at this point, and he's just going towards drugs and alcohol to try to fill that void until ali comes along, played by lady gaga and she's just singing in some random bar",0.33859563,0.9992462286547434,0.4921296296296296,0.03,False,0.0645357072353363,0.07660701870918274,0.3403129577636719
-bradley cooper's,0.014022041,0.0026126289423758,0.5,0.0,False,0.001082679140381515,0.0007755513652227819,0.0149422911927104
-"jack sees her and then he starts to get some passion again in his life and passion in his music, and of course they fall in love and a star is born",0.089041,9.59350767191527e-05,0.25,0.0,False,0.004518505185842514,0.0013427415397018194,0.0014564166776835918
-so a lot of my friends that have seen this movie,0.03994159,0.0100488938080658,0.5,0.0,False,0.0007730434299446642,0.0004461513599380851,0.00037869150401093066
-they really love it,0.05613239,0.0026040755509442,0.25,0.0,False,0.0008079985273070633,0.00036695896415039897,0.0008581836009398103
-"they say, brandon, you got to see this",0.034104515,9.843850835767672e-05,0.5,0.0,False,0.0007110849255695939,0.0008413522155024111,0.0015149357495829463
-i can't with you've waited this long to go see it,0.04783881,0.95883035143829,0.525,0.0,False,0.0008605188340879977,0.0013452906860038638,0.011629018932580948
-"i know life has gotten in the way, but for me it's funny how a person's love for a movie really works because i can go through each aspect of filmmaking in this movie, the directing, screenwriting, cinematography, editing, sound design, the songs",0.016382186,0.0,0.33125,0.0,False,0.0006011408404447138,0.00041078569483943284,0.00040584549424238503
-"i'll talk about the songs, and i can say that bradley cooper and the filmmaking team did a great job at every aspect of the filmmaking process, but i can't say that i love this movie",0.04406188,0.0585389341139112,0.175,0.0,False,0.0005123411538079381,0.0004341426829341799,0.00044538499787449837
-"when you say that you love a movie, it's that unexplainable gut feeling that this film has impacted you in a way that no other film has, and you'll remember it forever",0.24418297,0.0003113494086626,0.359375,0.06,False,0.0012002873700112104,0.00040717702358961105,0.0009505501366220415
-that's why you love a movie,0.0495556,0.0003893730280632,0.25,0.0,False,0.0009580265614204109,0.0007249652990140021,0.003352576866745949
-a star is born,0.030327583,0.0001587294869854,0.5,0.0,False,0.02870435267686844,0.0017879953375086188,0.0009941539028659463
-i will remember it for quite a long time,0.02792408,0.0066920602056235,0.525,0.0,False,0.0005873781046830118,0.00030746651464141905,0.0003679790534079075
-because this movie is emotionally heavy,0.1024659,0.9841615926975138,0.6,0.0,False,0.000705489597748965,0.0005953903310000896,0.015744555741548538
-"it's not such a light-hearted movie that you can just walk in, smile and leave",0.11794081,0.0036621032485542,0.3666666666666667,0.072,False,0.0019261589040979743,0.0007138419314287603,0.0016998305218294263
-and though that was a nice movie,0.040628307,0.1011645367927261,0.2,0.0,False,0.0007477496983483434,0.000473444553790614,0.00039842459955252707
-"no, it does make you think it makes you really feel, because this movie is powerful, but i don't know if i love it",0.046122026,0.0023644315770707,0.3333333333333333,0.0,False,0.0008023741538636386,0.0006224354729056358,0.0007921038777567446
-that's a whole other category,0.030327583,0.2393312833407174,0.48125,0.0,False,0.0011670681415125728,0.0003473593678791076,0.0006113577983342111
-"but since this movie is really good and it's really well made, you might love it, cuz, i know a lot of people do",0.045091953,0.005176172742982,0.2666666666666667,0.0,False,0.0006215432658791542,0.0004144288832321763,0.0005893966881558299
-that doesn't mean that there's no scenes in the movie that i love,0.031357653,0.9783544359705932,0.453125,0.126,False,0.0007703207666054368,0.0007891900022514164,0.0006575142033398151
-there are definitely some moments that i did tear up in this movie,0.124380715,0.0002895039873407,0.5,0.0,False,0.0008077348466031253,0.0005348651320673525,0.002004957525059581
-guys,0.05493369,0.0008176386547965,0.5,0.0,False,0.00868163537234068,0.025174355134367943,0.001331346109509468
-"it is rare for me to do that, but the songs",0.054534122,0.0473694864227875,0.35,0.0,False,0.0005712007987312973,0.00045001113903708756,0.0006399999838322401
-"oh my god, when lady gaga performed that song, i started to tear up",0.22989221,0.9931878942867576,0.5,0.0,False,0.006582468282431364,0.005288169719278812,0.03608448803424835
-it was wonderful and you can see her when she's singing the song,0.03616466,0.0052623027124502,0.0,0.0,False,0.0005747908144257963,0.0005132036167196929,0.0010309774661436677
-that she's playing this character,0.05093802,0.0028934603272545,0.5,0.0,False,0.0007837453158572316,0.0005092482315376401,0.0009323330014012754
-who's this lowlife,0.33859563,0.9998199913440872,0.5,0.556,False,0.5395647883415222,0.03462696447968483,0.28173670172691345
-"i may be not low life, but this unfamous person, just trying to make her way in the world",0.20669603,0.9979779126994974,0.5,0.0,False,0.010941749438643456,0.023081349208950996,0.0536908283829689
-"she works for a shitty job, and she's just doing these gigs of these drag bars",0.78524166,0.9982863414379152,0.55,0.282,True,0.9749749898910522,0.9510737061500549,0.9467177987098694
-"she wants her voice to be heard, and then as soon as she sings her song that she wrote, and she kind of does the oh my god, i can't leave",0.10892494,0.0558206245930806,0.3,0.0,False,0.0018071833765134215,0.002715565264225006,0.018085811287164688
-"this is happening, but she keeps singing",0.08796701,0.0097674067625198,0.5,0.0,False,0.0008758644107729197,0.0010138003854081035,0.005722891539335251
-it's it's powerful stuff and bradley cooper's a good director for bringing that out because a director's main job is to get the best possible performance out of his actors or her actors,0.0186035,6.318184611513008e-05,0.2833333333333333,0.0,False,0.0006552415434271097,0.000609224836807698,0.0004014821897726506
-"whoever is directing the movie, but bradley cooper, man, he knows how to direct a movie because those emotional scenes, especially when lady gaga is singing her song that she wrote in front of him all these people",0.111500904,0.946516150024936,0.4833333333333333,0.0,False,0.0006922767497599125,0.0013958871131762862,0.008804215118288994
-she starts to just,0.038053125,0.9978770899705316,0.5,0.0,False,0.009042236022651196,0.0020225353073328733,0.009519229643046856
-"oh my god, i can't believe it, and that is great, acting, great directing and great chemistry between the two of them",0.076110736,0.0005804981125615,0.1999999999999999,0.0,False,0.0007204870926216245,0.0005002245306968689,0.0034795498941093683
-and that's another reason why i really enjoyed this movie was because of the chemistry between bradley cooper's jack and lady gaga's ally,0.0729142,0.0003203796442158,0.25,0.0,False,0.0008151977672241628,0.0017963090213015676,0.0027773436158895493
-"you know, i've seen lady gaga perform all throughout my high school days, because that's when she got popular with just dance pokerface and i've seen her sing at the oscars, so i didn't see her as just like this party girl",0.06532243,0.9756307619533944,0.31,0.0,False,0.0015542694600299,0.006277783773839474,0.02788446471095085
-i saw her as this elegant singer who can sing like the really powerful music,0.04131502,0.0009501417150926,0.3,0.0,False,0.0006165019585750997,0.00040384710882790387,0.0006079556769691408
-"but now after seeing this, i know that she can act as well",0.15246986,0.0041787638543334,0.5,0.0,False,0.0006395000382326543,0.0008320148335769773,0.0005555945681408048
-"i mean, lady gaga is now becoming one of my favorite performers, and i have so much more respect for her because she can sing the pop songs",0.021380141,0.0029280315260722,0.3578125,0.0,False,0.0006582709611393511,0.0012573141139000654,0.004898676648736
-she can sing the really classical tunes,0.0681194,0.0008019624042981,0.5,0.0,False,0.0007969322614371777,0.0006737023941241205,0.0007855211151763797
-and then she can also act in this movie,0.14822112,0.0008560842121024,0.5,0.0,False,0.0008584534516558051,0.0012048297794535756,0.0011558561818674207
-and her chemistry with bradley cooper is unprecedented because you really feel like these characters are in love,0.09655894,0.0005181209409016,0.2833333333333333,0.0,False,0.0007810634560883045,0.00042443949496373534,0.008389076218008995
-you don't actually see lady gaga and bradley cooper acting,0.04543531,0.9997580612137912,0.5,0.0,False,0.0008264391217380762,0.0020697687286883593,0.009564208798110485
-"you see jack and hallie fall in love, and you go through all the relationship problems that they go through, and it feels real",0.049898956,0.0001269299446246,0.325,0.093,False,0.005918649956583977,0.0009331688634119928,0.0032188764307647943
-it really does feel real,0.022351967,0.0009063316614185,0.4,0.0,False,0.0006872970843687654,0.00029404909582808614,0.0005487134912982583
-"and even when the movie was going on and there was some slower parts, i did feel my attention span start to griese, and i was starting to think about other things like",0.06652113,0.9987084080910672,0.53125,0.0,False,0.0007303160964511335,0.0005365215474739671,0.0008029576856642962
-"okay, what am i gonna do after the movie? i'm kind of hungry",0.101391904,0.9996607254074648,0.2249999999999999,0.0,False,0.0009073516703210771,0.016162188723683357,0.002407781081274152
-i want to go to montana's but they just closed it down,0.08501353,0.9950384071117486,0.5638888888888889,0.0,False,0.0016717812977731228,0.0020677782595157623,0.002864259062334895
-"you know, thinking of things that don't really matter in the movie",0.12824467,0.9999257911335724,0.4,0.105,False,0.0007032278226688504,0.000609733397141099,0.001286480575799942
-"but what brought me back into it was lady gaga and bradley cooper's connection with each other, their chemistry",0.049898956,0.0134254568360403,0.53125,0.0,False,0.0007136096828617156,0.0011264102067798376,0.006468277424573898
-and that is what really sells this movie,0.0669207,0.0001400133552117,0.4,0.0,False,0.0010673977667465806,0.0005057992530055344,0.0020716034341603518
-"and when they sing together, they're singing chemistry, and the songs they elevate that chemistry even more",0.07131593,0.0001593255421374,0.25,0.0,False,0.000696280098054558,0.000394109491026029,0.0006873370730318129
-so those were the best parts of the movie,0.036679696,0.7744639363088843,0.0,0.0,False,0.0006661402294412255,0.00042910006595775485,0.00033815557253547013
-"and lastly, i also like that this film brought up the topic of fame and fortune and how it's not always so glamorous",0.07251463,8.496766192180937e-05,0.5,0.0,False,0.0007108525605872273,0.00040030645322985947,0.0005543197621591389
-"you know, you see these stars on tv and you think? oh my god, i wish i could be just like them",0.09709594,0.0005159155368391,0.5,0.0,False,0.0010008914396166801,0.005389237776398659,0.0012245785910636187
-"you know, we look up at celebrities and i mean, i'm very fortunate enough that i have a roof over my head and i have a good family, but you know you can't help but look at those celebrities and think, oh my god, i'd be amazing to have a house like this and to have a career like this and have everyone idolize you and you know it's the grass is always greener on the other side, right, you can take a look at a celebrity and you say, oh my god, i wish i could be just like them",0.09333697,0.0015997226197744,0.3808418367346938,0.024,False,0.0014195882249623537,0.0036553111858665943,0.0015055729309096932
-"but then you start to realize that yes, being a celebrity has a lot of perks",0.028267438,0.0039249635705992,0.5,0.0,False,0.02452518604695797,0.0004966238047927618,0.00048043549759313464
-"yes, you generally get paid a lot more",0.040628307,0.1362954313981945,0.3625,0.0,False,0.0030421041883528233,0.001655851025134325,0.0005246871151030064
-you have a lot of fans and you get to do what you love singing,0.07970683,0.0023814489516611,0.25,0.0,False,0.001806094660423696,0.000996242742985487,0.0027947460766881704
-"acting, being an athlete who knows, but then as well, it becomes a whole other set of issues comes with it right",0.038911518,0.9990529875744556,0.4549107142857143,0.0,False,0.0006262264214456081,0.0005352300358936191,0.0020603076554834843
-"you may not have the same issues that you have right now just being a normal everyday person, but then you have different problems with different perks, so it's a catch-22 yes, you would like to be famous, but you still have a whole other issue and a whole lot of other problems that go with it, and you see it in this movie, you know, as soon as lady gaga's ally becomes famous, you know as soon as the star is born, then it becomes a whole",0.1256687,0.0059665120718155,0.439010989010989,0.073,False,0.011205307208001614,0.0009660986834205687,0.002317744540050626
-their issue,0.09924392,0.9784589542415016,0.5,0.0,False,0.0010117298224940896,0.000495250744279474,0.0015922322636470199
-"right, she wanted to become a singer",0.06931809,0.0091805606625892,0.3571428571428571,0.0,False,0.0010666385060176253,0.0005784659879282117,0.0011760903289541602
-"thought she could share her voice and share her passion for music, which she does",0.04818217,0.0216351032614886,0.5,0.0,False,0.0005641131429001689,0.0005342409713193774,0.0008370716241188347
-"but then you know when her agents like, will you need to this image right? we need to make you a brand, a product to sell to customers",0.037023053,0.1831521017709335,0.3571428571428571,0.0,False,0.0016284139128401875,0.0009490136872045696,0.0006369772017933428
-so she's not just a singer,0.040971663,0.0150582605167523,0.5,0.0,False,0.001976285595446825,0.000853310339152813,0.001232318696565926
-she's a li,0.12244874,0.0033476245503434,0.5,0.0,False,0.6141710877418518,0.15846435725688934,0.829770028591156
-she needs to have her look,0.11021292,0.0318962225064345,0.5,0.0,False,0.03580545261502266,0.0062589701265096664,0.009372862987220287
-she needs to have her dance,0.08555053,0.0007907267646823,0.5,0.0,False,0.015642862766981125,0.030349016189575195,0.01114807091653347
-she needs to have her type of persona,0.062125895,0.0685373420506001,0.5,0.0,False,0.001717635546810925,0.025210225954651833,0.0032015456818044186
-michael jackson didn't just sing,0.04543531,0.980794328129911,0.5,0.0,False,0.0009628664120100439,0.0017689174273982644,0.0016763427993282676
-"he sold his look, his dance numbers, his music videos is brand right",0.15188612,0.0966335937518161,0.3571428571428571,0.0,False,0.0020722413901239634,0.0007831782568246126,0.0028963994700461626
-"as soon as you get that big, you become a brand",0.1024659,0.0005730772259187,0.5,0.0,False,0.00836285762488842,0.001223504077643156,0.002113521099090576
-"not just a person, and you might think that people are manipulating you into being a certain way to get more money, but that's the life right",0.10031791,0.0003756935623242,0.3333333333333333,0.062,False,0.0027573914267122746,0.0009982406627386808,0.001722134300507605
-"and then, of course it brings jealousy upon relationships, because i will never know what it's like to date a famous person",0.14104263,0.0084384719983124,0.25,0.093,False,0.003235014621168375,0.0011751686688512564,0.003985375165939331
-"i mean, i've never seen ever, but as as at this point right now my life, i've never dated anyone famous, and i will never know what it is like to date a famous person or to date someone as a famous person",0.05253629,0.011829310547178,0.3526785714285714,0.0,False,0.0009640129865147173,0.0006959334714338183,0.0010573494946584105
-right so you can only see this movie and think it brings a whole other set of challenges,0.0753116,0.0041023197810856,0.4549107142857143,0.0,False,0.0007039785268716514,0.0005539653939194977,0.0007540912483818829
-"yes, you would like to be famous and you'd like to meet all these new people and have a lot of people idolize you",0.09763293,0.0039227879692943,0.3409090909090909,0.0,False,0.026277275756001472,0.009351162239909172,0.016657274216413498
-"but then again, relationships and dating, having a family, your career",0.04543531,0.0620643023105899,0.5,0.0,False,0.0035220826976001263,0.0015047121560201049,0.0014748829416930676
-"it's a whole other set of issues that you have to deal with, and i like that this film brought that into its story and actually became a big part of the story and no spoilers",0.05653196,0.0009523471191551,0.490625,0.057,False,0.0007324255420826375,0.00038411590503528714,0.0003900098381564021
-but i knew how this movie was gonna end right from the beginning,0.06612156,0.0558890219217759,0.3571428571428571,0.0,False,0.0007716703694313765,0.00042836705688387156,0.0003770677139982581
-"there is a little bit of early foreshadowing in this movie and i saw it right away and i said okay, well, that's gonna happen, but every single person i've talked to didn't notice it, and this is not people on the internet",0.08447654,0.999986529153564,0.4373214285714286,0.0,False,0.0006583428476005793,0.0005657953443005681,0.00044524617260321975
-it's not people on youtube or instagram,0.05253629,0.9995145726841872,0.5,0.0,False,0.0012093096738681197,0.0014983509900048375,0.0008130981004796922
-it's just people that i know personally and they say,0.028782474,0.0048702176334452,0.5,0.0,False,0.000603398191742599,0.0003808009787462652,0.0009268412832170725
-"oh, i didn't see that in the beginning",0.028954152,0.999739911334412,0.5,0.0,False,0.0006470787338912487,0.00035532983019948006,0.0003422358713578433
-"how did you know that that was gonna happen? so if you spot it, you can kind of guess where it's gonna go, but if you don't notice it, then that's movie will take you on a loop, so all in all, i'll give a star is born' a four out of five because again, it's one of those movies where i can look down every single aspect of the filmmaking and say okay, bradley cooper knows how to make a good movie and he delivers an emotionally impactful one",0.04234509,0.000122042292378,0.3689153439153439,0.0,False,0.0010129855945706367,0.0005325766396708786,0.0005700608598999679
-a really strong movie,0.040628307,0.0004426305558971,0.2833333333333333,0.0,False,0.0006502284668385983,0.00045800043153576553,0.00042686471715569496
-did it impact me in a way that i can see that i love it like a bohemian rhapsody did it didn't,0.0753116,0.0053778182009136,0.25,0.0,False,0.0007751601515337825,0.018026001751422882,0.003952359315007925
-but that's the beauty of movies,0.030670939,0.0016008849273209,0.5,0.0,False,0.0010495871538296342,0.0005403586546890438,0.0007256012177094817
-"it impacts people differently, so i can clearly say that a star is born is a great movie and i do recommend it to everyone out there, because although i might not love it, it might impact you in a way to say that you of it, or it might be your favorite movie ever",0.0495556,0.0013720295516991,0.385,0.051,False,0.0005862614489160478,0.0005215577548369765,0.0006959450547583401
-it's a good movie,0.035134587,0.0041517327531888,0.15,0.0,False,0.0006859759450890124,0.0006418150733225048,0.0004981568199582398
-let's check it out for yourself,0.050242316,0.0049792063179938,0.5,0.0,False,0.0006495502893812954,0.004212038591504097,0.0015601515769958496
-"so anyways, guys, thank you so much for watching",0.0471521,0.9187666534084132,0.4,0.0,False,0.0007231584750115871,0.0007815489079803228,0.0004929145216010511
-i know this review is very late,0.04165838,0.9972158561876276,0.6950000000000001,0.0,False,0.0008557661203667521,0.0006783087737858295,0.0006046993075869977
-"this movie came out quite a while ago, but i finally was able to see it along with creed 2",0.040284947,0.0001274067887463,0.375,0.0,False,0.0005772107979282737,0.00036871072370558977,0.0002981701691169292
-"that review is coming up soon, so thank you again for your patience, and thank you again for watching take care",0.007948137,0.7824429689960124,0.5,0.0,False,0.0006254820036701858,0.0004686026950366795,0.0003272240865044296
+"hello, everybody, my name is brandon nikita, brando critic, and today we will be discussing a star is born",0.040284947,0.0,0.0,0.104,False,0.0008752036956138,0.0035395740997046,0.0025152422022074
+"yes, i know it is rather late",0.027065687,0.9938552975654602,0.3,0.0,False,0.0009213730809278,0.0007717626867815,0.0006875516264699
+this movie came out quite a few months ago,0.048525527,0.9962548017501831,0.2,0.0,False,0.0006422308506444,0.0003946232318412,0.0003507243236526
+life got in the way,0.029125832,0.9579657316207886,0.0,0.0,False,0.0180451422929763,0.000434521731222,0.0040578013285994
+here we go,0.026722329,0.0,0.0,0.0,False,0.0009640161297284,0.0005560056306421,0.0013751371297985
+"so i just want to state, rap the bat that i have not seen any other versions of this movie",0.16827796,0.0,0.125,0.0,False,0.0386301055550575,0.2863832712173462,0.464762806892395
+i haven't seen the movie in the 50s,0.029469188,0.0,0.0,0.0,False,0.0007709757774136,0.0004483585362322,0.0004742705204989
+i haven't seen the movie from the 70s,0.02655065,0.980044424533844,0.0,0.0,False,0.000740616756957,0.0004468336119316,0.0004595145874191
+"the 2018 version is the only version i've ever seen, so we have bradley cooper and lady gaga going on this musical adventure together",0.03049926,0.0,0.0,0.0,False,0.0007054442539811,0.0007894276641309,0.0007094127940945
+"bradley cooper is jack, this really famous country slash rock singer and his career is kind of waning down, because he is an alcoholic, a drug addict, and his life and his music and his career is just devoid of passion at this point, and he's just going towards drugs and alcohol to try to fill that void until ali comes along, played by lady gaga and she's just singing in some random bar",0.33859563,0.9984924793243408,0.0,0.03,False,0.0645357072353363,0.0766070187091827,0.3403129577636719
+bradley cooper's,0.014022041,0.0,0.0,0.0,False,0.0010826791403815,0.0007755513652227,0.0149422911927104
+"jack sees her and then he starts to get some passion again in his life and passion in his music, and of course they fall in love and a star is born",0.089041,0.0,0.0,0.0,False,0.0045185051858425,0.0013427415397018,0.0014564166776835
+so a lot of my friends that have seen this movie,0.03994159,0.0,0.0,0.0,False,0.0007730434299446,0.000446151359938,0.0003786915040109
+they really love it,0.05613239,0.0,0.0,0.0,False,0.000807998527307,0.0003669589641503,0.0008581836009398
+"they say, brandon, you got to see this",0.034104515,0.0,0.0,0.0,False,0.0007110849255695,0.0008413522155024,0.0015149357495829
+i can't with you've waited this long to go see it,0.04783881,0.9176619052886963,0.05,0.0,False,0.0008605188340879,0.0013452906860038,0.0116290189325809
+"i know life has gotten in the way, but for me it's funny how a person's love for a movie really works because i can go through each aspect of filmmaking in this movie, the directing, screenwriting, cinematography, editing, sound design, the songs",0.016382186,0.0,0.0,0.0,False,0.0006011408404447,0.0004107856948394,0.0004058454942423
+"i'll talk about the songs, and i can say that bradley cooper and the filmmaking team did a great job at every aspect of the filmmaking process, but i can't say that i love this movie",0.04406188,0.0,0.0,0.0,False,0.0005123411538079,0.0004341426829341,0.0004453849978744
+"when you say that you love a movie, it's that unexplainable gut feeling that this film has impacted you in a way that no other film has, and you'll remember it forever",0.24418297,0.0,0.0,0.06,False,0.0012002873700112,0.0004071770235896,0.000950550136622
+that's why you love a movie,0.0495556,0.0,0.0,0.0,False,0.0009580265614204,0.000724965299014,0.0033525768667459
+a star is born,0.030327583,0.0,0.0,0.0,False,0.0287043526768684,0.0017879953375086,0.0009941539028659
+i will remember it for quite a long time,0.02792408,0.0,0.05,0.0,False,0.000587378104683,0.0003074665146414,0.0003679790534079
+because this movie is emotionally heavy,0.1024659,0.9683236479759216,0.2,0.0,False,0.0007054895977489,0.000595390331,0.0157445557415485
+"it's not such a light-hearted movie that you can just walk in, smile and leave",0.11794081,0.0,0.0,0.072,False,0.0019261589040979,0.0007138419314287,0.0016998305218294
+and though that was a nice movie,0.040628307,0.0,0.0,0.0,False,0.0007477496983483,0.0004734445537906,0.0003984245995525
+"no, it does make you think it makes you really feel, because this movie is powerful, but i don't know if i love it",0.046122026,0.0,0.0,0.0,False,0.0008023741538636,0.0006224354729056,0.0007921038777567
+that's a whole other category,0.030327583,0.0,0.0,0.0,False,0.0011670681415125,0.0003473593678791,0.0006113577983342
+"but since this movie is really good and it's really well made, you might love it, cuz, i know a lot of people do",0.045091953,0.0,0.0,0.0,False,0.0006215432658791,0.0004144288832321,0.0005893966881558
+that doesn't mean that there's no scenes in the movie that i love,0.031357653,0.9567095041275024,0.0,0.126,False,0.0007703207666054,0.0007891900022514,0.0006575142033398
+there are definitely some moments that i did tear up in this movie,0.124380715,0.0,0.0,0.0,False,0.0008077348466031,0.0005348651320673,0.0020049575250595
+guys,0.05493369,0.0,0.0,0.0,False,0.0086816353723406,0.0251743551343679,0.0013313461095094
+"it is rare for me to do that, but the songs",0.054534122,0.0,0.0,0.0,False,0.0005712007987312,0.000450011139037,0.0006399999838322
+"oh my god, when lady gaga performed that song, i started to tear up",0.22989221,0.9863759875297546,0.0,0.0,False,0.0065824682824313,0.0052881697192788,0.0360844880342483
+it was wonderful and you can see her when she's singing the song,0.03616466,0.0,0.0,0.0,False,0.0005747908144257,0.0005132036167196,0.0010309774661436
+that she's playing this character,0.05093802,0.0,0.0,0.0,False,0.0007837453158572,0.0005092482315376,0.0009323330014012
+who's this lowlife,0.33859563,0.9996399879455566,0.0,0.556,False,0.5395647883415222,0.0346269644796848,0.2817367017269134
+"i may be not low life, but this unfamous person, just trying to make her way in the world",0.20669603,0.9959558844566345,0.0,0.0,False,0.0109417494386434,0.0230813492089509,0.0536908283829689
+"she works for a shitty job, and she's just doing these gigs of these drag bars",0.78524166,0.996572732925415,0.1,0.282,True,0.9749749898910522,0.9510737061500548,0.9467177987098694
+"she wants her voice to be heard, and then as soon as she sings her song that she wrote, and she kind of does the oh my god, i can't leave",0.10892494,0.0,0.0,0.0,False,0.0018071833765134,0.002715565264225,0.0180858112871646
+"this is happening, but she keeps singing",0.08796701,0.0,0.0,0.0,False,0.0008758644107729,0.0010138003854081,0.0057228915393352
+it's it's powerful stuff and bradley cooper's a good director for bringing that out because a director's main job is to get the best possible performance out of his actors or her actors,0.0186035,0.0,0.0,0.0,False,0.0006552415434271,0.0006092248368076,0.0004014821897726
+"whoever is directing the movie, but bradley cooper, man, he knows how to direct a movie because those emotional scenes, especially when lady gaga is singing her song that she wrote in front of him all these people",0.111500904,0.8930338621139526,0.0,0.0,False,0.0006922767497599,0.0013958871131762,0.0088042151182889
+she starts to just,0.038053125,0.9957542419433594,0.0,0.0,False,0.0090422360226511,0.0020225353073328,0.0095192296430468
+"oh my god, i can't believe it, and that is great, acting, great directing and great chemistry between the two of them",0.076110736,0.0,0.0,0.0,False,0.0007204870926216,0.0005002245306968,0.0034795498941093
+and that's another reason why i really enjoyed this movie was because of the chemistry between bradley cooper's jack and lady gaga's ally,0.0729142,0.0,0.0,0.0,False,0.0008151977672241,0.0017963090213015,0.0027773436158895
+"you know, i've seen lady gaga perform all throughout my high school days, because that's when she got popular with just dance pokerface and i've seen her sing at the oscars, so i didn't see her as just like this party girl",0.06532243,0.9512622356414795,0.0,0.0,False,0.0015542694600299,0.0062777837738394,0.0278844647109508
+i saw her as this elegant singer who can sing like the really powerful music,0.04131502,0.0,0.0,0.0,False,0.000616501958575,0.0004038471088279,0.0006079556769691
+"but now after seeing this, i know that she can act as well",0.15246986,0.0,0.0,0.0,False,0.0006395000382326,0.0008320148335769,0.0005555945681408
+"i mean, lady gaga is now becoming one of my favorite performers, and i have so much more respect for her because she can sing the pop songs",0.021380141,0.0,0.0,0.0,False,0.0006582709611393,0.0012573141139,0.004898676648736
+she can sing the really classical tunes,0.0681194,0.0,0.0,0.0,False,0.0007969322614371,0.0006737023941241,0.0007855211151763
+and then she can also act in this movie,0.14822112,0.0,0.0,0.0,False,0.0008584534516558,0.0012048297794535,0.0011558561818674
+and her chemistry with bradley cooper is unprecedented because you really feel like these characters are in love,0.09655894,0.0,0.0,0.0,False,0.0007810634560883,0.0004244394949637,0.0083890762180089
+you don't actually see lady gaga and bradley cooper acting,0.04543531,0.9995161294937134,0.0,0.0,False,0.000826439121738,0.0020697687286883,0.0095642087981104
+"you see jack and hallie fall in love, and you go through all the relationship problems that they go through, and it feels real",0.049898956,0.0,0.0,0.093,False,0.0059186499565839,0.0009331688634119,0.0032188764307647
+it really does feel real,0.022351967,0.0,0.0,0.0,False,0.0006872970843687,0.000294049095828,0.0005487134912982
+"and even when the movie was going on and there was some slower parts, i did feel my attention span start to griese, and i was starting to think about other things like",0.06652113,0.9974168539047241,0.0625,0.0,False,0.0007303160964511,0.0005365215474739,0.0008029576856642
+"okay, what am i gonna do after the movie? i'm kind of hungry",0.101391904,0.999321460723877,0.0,0.0,False,0.000907351670321,0.0161621887236833,0.0024077810812741
+i want to go to montana's but they just closed it down,0.08501353,0.9900769591331482,0.1277777777777778,0.0,False,0.0016717812977731,0.0020677782595157,0.0028642590623348
+"you know, thinking of things that don't really matter in the movie",0.12824467,0.9998515844345093,0.0,0.105,False,0.0007032278226688,0.000609733397141,0.0012864805757999
+"but what brought me back into it was lady gaga and bradley cooper's connection with each other, their chemistry",0.049898956,0.0,0.0625,0.0,False,0.0007136096828617,0.0011264102067798,0.0064682774245738
+and that is what really sells this movie,0.0669207,0.0,0.0,0.0,False,0.0010673977667465,0.0005057992530055,0.0020716034341603
+"and when they sing together, they're singing chemistry, and the songs they elevate that chemistry even more",0.07131593,0.0,0.0,0.0,False,0.0006962800980545,0.000394109491026,0.0006873370730318
+so those were the best parts of the movie,0.036679696,0.5489344596862793,0.0,0.0,False,0.0006661402294412,0.0004291000659577,0.0003381555725354
+"and lastly, i also like that this film brought up the topic of fame and fortune and how it's not always so glamorous",0.07251463,0.0,0.0,0.0,False,0.0007108525605872,0.0004003064532298,0.0005543197621591
+"you know, you see these stars on tv and you think? oh my god, i wish i could be just like them",0.09709594,0.0,0.0,0.0,False,0.0010008914396166,0.0053892377763986,0.0012245785910636
+"you know, we look up at celebrities and i mean, i'm very fortunate enough that i have a roof over my head and i have a good family, but you know you can't help but look at those celebrities and think, oh my god, i'd be amazing to have a house like this and to have a career like this and have everyone idolize you and you know it's the grass is always greener on the other side, right, you can take a look at a celebrity and you say, oh my god, i wish i could be just like them",0.09333697,0.0,0.0,0.024,False,0.0014195882249623,0.0036553111858665,0.0015055729309096
+"but then you start to realize that yes, being a celebrity has a lot of perks",0.028267438,0.0,0.0,0.0,False,0.0245251860469579,0.0004966238047927,0.0004804354975931
+"yes, you generally get paid a lot more",0.040628307,0.0,0.0,0.0,False,0.0030421041883528,0.0016558510251343,0.000524687115103
+you have a lot of fans and you get to do what you love singing,0.07970683,0.0,0.0,0.0,False,0.0018060946604236,0.0009962427429854,0.0027947460766881
+"acting, being an athlete who knows, but then as well, it becomes a whole other set of issues comes with it right",0.038911518,0.9981060028076172,0.0,0.0,False,0.0006262264214456,0.0005352300358936,0.0020603076554834
+"you may not have the same issues that you have right now just being a normal everyday person, but then you have different problems with different perks, so it's a catch-22 yes, you would like to be famous, but you still have a whole other issue and a whole lot of other problems that go with it, and you see it in this movie, you know, as soon as lady gaga's ally becomes famous, you know as soon as the star is born, then it becomes a whole",0.1256687,0.0,0.0,0.073,False,0.0112053072080016,0.0009660986834205,0.0023177445400506
+their issue,0.09924392,0.9569185376167297,0.0,0.0,False,0.001011729822494,0.0004952507442794,0.001592232263647
+"right, she wanted to become a singer",0.06931809,0.0,0.0,0.0,False,0.0010666385060176,0.0005784659879282,0.0011760903289541
+"thought she could share her voice and share her passion for music, which she does",0.04818217,0.0,0.0,0.0,False,0.0005641131429001,0.0005342409713193,0.0008370716241188
+"but then you know when her agents like, will you need to this image right? we need to make you a brand, a product to sell to customers",0.037023053,0.0,0.0,0.0,False,0.0016284139128401,0.0009490136872045,0.0006369772017933
+so she's not just a singer,0.040971663,0.0,0.0,0.0,False,0.0019762855954468,0.0008533103391528,0.0012323186965659
+she's a li,0.12244874,0.0,0.0,0.0,False,0.6141710877418518,0.1584643572568893,0.829770028591156
+she needs to have her look,0.11021292,0.0,0.0,0.0,False,0.0358054526150226,0.0062589701265096,0.0093728629872202
+she needs to have her dance,0.08555053,0.0,0.0,0.0,False,0.0156428627669811,0.0303490161895751,0.0111480709165334
+she needs to have her type of persona,0.062125895,0.0,0.0,0.0,False,0.0017176355468109,0.0252102259546518,0.0032015456818044
+michael jackson didn't just sing,0.04543531,0.9615892171859741,0.0,0.0,False,0.00096286641201,0.0017689174273982,0.0016763427993282
+"he sold his look, his dance numbers, his music videos is brand right",0.15188612,0.0,0.0,0.0,False,0.0020722413901239,0.0007831782568246,0.0028963994700461
+"as soon as you get that big, you become a brand",0.1024659,0.0,0.0,0.0,False,0.0083628576248884,0.0012235040776431,0.0021135210990905
+"not just a person, and you might think that people are manipulating you into being a certain way to get more money, but that's the life right",0.10031791,0.0,0.0,0.062,False,0.0027573914267122,0.0009982406627386,0.0017221343005076
+"and then, of course it brings jealousy upon relationships, because i will never know what it's like to date a famous person",0.14104263,0.0,0.0,0.093,False,0.0032350146211683,0.0011751686688512,0.0039853751659393
+"i mean, i've never seen ever, but as as at this point right now my life, i've never dated anyone famous, and i will never know what it is like to date a famous person or to date someone as a famous person",0.05253629,0.0,0.0,0.0,False,0.0009640129865147,0.0006959334714338,0.0010573494946584
+right so you can only see this movie and think it brings a whole other set of challenges,0.0753116,0.0,0.0,0.0,False,0.0007039785268716,0.0005539653939194,0.0007540912483818
+"yes, you would like to be famous and you'd like to meet all these new people and have a lot of people idolize you",0.09763293,0.0,0.0,0.0,False,0.0262772757560014,0.0093511622399091,0.0166572742164134
+"but then again, relationships and dating, having a family, your career",0.04543531,0.0,0.0,0.0,False,0.0035220826976001,0.0015047121560201,0.001474882941693
+"it's a whole other set of issues that you have to deal with, and i like that this film brought that into its story and actually became a big part of the story and no spoilers",0.05653196,0.0,0.0,0.057,False,0.0007324255420826,0.0003841159050352,0.0003900098381564
+but i knew how this movie was gonna end right from the beginning,0.06612156,0.0,0.0,0.0,False,0.0007716703694313,0.0004283670568838,0.0003770677139982
+"there is a little bit of early foreshadowing in this movie and i saw it right away and i said okay, well, that's gonna happen, but every single person i've talked to didn't notice it, and this is not people on the internet",0.08447654,0.9999730587005615,0.0,0.0,False,0.0006583428476005,0.0005657953443005,0.0004452461726032
+it's not people on youtube or instagram,0.05253629,0.9990291595458984,0.0,0.0,False,0.0012093096738681,0.0014983509900048,0.0008130981004796
+it's just people that i know personally and they say,0.028782474,0.0,0.0,0.0,False,0.0006033981917425,0.0003808009787462,0.000926841283217
+"oh, i didn't see that in the beginning",0.028954152,0.9994798302650452,0.0,0.0,False,0.0006470787338912,0.0003553298301994,0.0003422358713578
+"how did you know that that was gonna happen? so if you spot it, you can kind of guess where it's gonna go, but if you don't notice it, then that's movie will take you on a loop, so all in all, i'll give a star is born' a four out of five because again, it's one of those movies where i can look down every single aspect of the filmmaking and say okay, bradley cooper knows how to make a good movie and he delivers an emotionally impactful one",0.04234509,0.0,0.0,0.0,False,0.0010129855945706,0.0005325766396708,0.0005700608598999
+a really strong movie,0.040628307,0.0,0.0,0.0,False,0.0006502284668385,0.0004580004315357,0.0004268647171556
+did it impact me in a way that i can see that i love it like a bohemian rhapsody did it didn't,0.0753116,0.0,0.0,0.0,False,0.0007751601515337,0.0180260017514228,0.0039523593150079
+but that's the beauty of movies,0.030670939,0.0,0.0,0.0,False,0.0010495871538296,0.000540358654689,0.0007256012177094
+"it impacts people differently, so i can clearly say that a star is born is a great movie and i do recommend it to everyone out there, because although i might not love it, it might impact you in a way to say that you of it, or it might be your favorite movie ever",0.0495556,0.0,0.0,0.051,False,0.000586261448916,0.0005215577548369,0.0006959450547583
+it's a good movie,0.035134587,0.0,0.0,0.0,False,0.000685975945089,0.0006418150733225,0.0004981568199582
+let's check it out for yourself,0.050242316,0.0,0.0,0.0,False,0.0006495502893812,0.004212038591504,0.0015601515769958
+"so anyways, guys, thank you so much for watching",0.0471521,0.8375356793403625,0.0,0.0,False,0.0007231584750115,0.0007815489079803,0.000492914521601
+i know this review is very late,0.04165838,0.9944317936897278,0.39,0.0,False,0.0008557661203667,0.0006783087737858,0.0006046993075869
+"this movie came out quite a while ago, but i finally was able to see it along with creed 2",0.040284947,0.0,0.0,0.0,False,0.0005772107979282,0.0003687107237055,0.0002981701691169
+"that review is coming up soon, so thank you again for your patience, and thank you again for watching take care",0.007948137,0.5648922920227051,0.0,0.0,False,0.0006254820036701,0.0004686026950366,0.0003272240865044

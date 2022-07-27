@@ -1,513 +1,513 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"text, because the problem with guns, in my opinion, is you don't have to think to use it",0.08850401,0.9993925268795604,0.5,0.137,0.0186337400227785,0.0172195062041282,0.001811260706745,False
-"it takes yknow, you don't have to sit there and load it, and in a split second i think we, we all are capable of shooting somebody",0.37360558,0.0001040420283301,0.45,0.0,0.0017654643161222,0.2446179240942001,0.6124942302703857,False
-"for whatever reason, yknow just stupidity or whatnot",0.5851118,0.9999511828008006,0.8,0.293,0.8217557668685913,0.9859026670455932,0.9879312515258788,False
-i don't,0.018325835,0.9947236892880044,0.5,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
-"just in a split second, yknow we, we might have that once in a life where we can kill somebody that quickly and you can't go",0.40326482,0.7816081529848767,0.4166666666666667,0.158,0.4451383054256439,0.5528542399406433,0.7151994109153748,False
-"oh, yknow, i didn't mean to do that",0.03221605,0.9998463360933628,0.65625,0.0,0.0013413963606581,0.0003788523899856,0.0006166649982333,False
-"yeah, well, exactly, i mean, there are split seconds where you just wanna shoot somebody",0.46786317,0.9946973733008904,0.65625,0.128,0.5204348564147949,0.6258769035339355,0.7848799824714661,False
-"unfortunately, anybody that says that i, i mean, i'm i don't even like stepping on ants, but there's those moments where you're like, yeah, yeah, and yeah, so i, no, no, yeah, unfortunately, well, some people have to",0.23277332,0.99908731507431,0.71875,0.121,0.0080545134842395,0.000612981559243,0.0023994492366909,False
-"i mean, yknow, the police, and what not? they're required to carry a gun, but um, almost every kid i know that has has had a gun",0.084745035,0.017303670516927,0.65625,0.161,0.0017643931787461,0.0017755925655364,0.1043926998972892,False
-"even if they keep a gun hidden here and the bullets hidden over here, they find out a way to get to them",0.2590451,0.8826870548112836,0.5833333333333334,0.098,0.0294160582125186,0.1726083159446716,0.1385061293840408,False
-"and um, i dated a guy where we came in on his little brother and he was loading the bullets in the gun and he had them totally totally separate like that and kids know, and they're curious",0.2008281,0.9716918956415838,0.5479166666666666,0.056,0.0016349317738786,0.0050543434917926,0.0406269803643226,False
-"um, i don't know",0.02054715,0.9917784445421716,0.5,0.0,0.0007990184822119,0.0042907637543976,0.0005071435007266,False
-"i, i mean, i'm not for guns because i've i",0.06332459,0.0016727490472897,0.65625,0.0,0.01759659871459,0.0021158321760594,0.0055672945454716,False
-"they scare the guns, don't scare me the people",0.15859914,0.1607233564488831,0.5,0.249,0.1018159314990043,0.0026053762994706,0.0523803383111953,False
-"so no, unless they have them in a safe or something, they and my, i, just that protection",0.030670939,0.9868383406825372,0.25,0.0,0.0008315372979268,0.0007016757153905,0.0004641734412871,False
-like they said,0.017492844,0.0172496080020628,0.5,0.0,0.0009161635534837,0.0004558935179375,0.0005165698239579,False
-"normally, you use it against somebody you didn't mean to use it on and somebody else comes into your house with a gun",0.2008281,0.9982314047301064,0.540625,0.098,0.1469376534223556,0.0988486781716346,0.2299136668443679,False
-"let's face it, are you gonna have the peace of mind to go get it? i'd rather just have a bat by my door or something",0.27045983,0.9965132956234874,0.5,0.0,0.0861730277538299,0.0798205360770225,0.2763229310512543,False
-"um, so um-hum um-hum no, thank goodness or if i did, i blanked it out",0.13017663,0.9999570241750638,0.5,0.0,0.0007576275384053,0.0177911035716533,0.0060787578113377,False
-"um-hum yeah, yeah, right, um-hum um-hum yeah, um-hum um-hum well, theyorthe, i, yeah, but let's face it, the people that have the real good guns are the meaning, crime and whatnot, um, i don't have a problem with people having guns, but we don't need sixty guns per person or whatever the ratio is",0.14508054,0.9546943608207346,0.1785714285714286,0.073,0.0119131747633218,0.0009176714811474,0.0019690636545419,False
-"it's something ungodly like that and they keep making them and i mean, yeah, there was a time it was a part of our culture",0.14328592,0.9737301478213404,0.65625,0.0,0.0008370177820324,0.017007328569889,0.0027694362215697,False
-we did need to hunt to eat,0.05133759,0.9658064428450736,0.5,0.0,0.0199981462210416,0.0045893522910773,0.001101897098124,False
-"um, i have friends that bow and arrow hunt",0.1550967,0.0007161047999764,0.5,0.0,0.0022160608787089,0.0006421366124413,0.0044041988439857,False
-"i'm not real big into hunting, but at least they're they have to do something besides sit there",0.09763293,0.1013366673672342,0.575,0.0,0.0009821034036576,0.000859900843352,0.0016640755347907,False
-"and um, plus, if they shoot somebody accidentally, number one, it's really hard to",0.33859563,0.9922034343227468,0.6458333333333334,0.365,0.0485230311751365,0.2731023728847503,0.2299154251813888,False
-"and secondly, it probably won't kill them like a gun",0.45811868,0.99985423386979,0.5,0.296,0.3688274919986725,0.746090829372406,0.5657976269721985,False
-can,0.02054715,0.0061490001057407,0.5,0.0,0.0012172074057161,0.0025542911607772,0.0028155646286904,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"and you have to use your brain, so i didn't come from a hunting background",0.44805592,0.9829123113161604,0.5,0.0,0.4482098519802093,0.555077850818634,0.5032219290733337,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"but my husband does work for the state highway patrol, so obviously we know a lot of people that have to carry guns, but none of them",0.036679696,0.0800170222414497,0.5,0.0,0.0022055085282772,0.0007173854974098,0.0007267752662301,False
-hardly any of them hunt,0.06532243,0.9860706768138092,0.6458333333333334,0.0,0.0348950549960136,0.0022380701266229,0.0008071089396253,False
-"um, and a lot of them they respect them",0.032731086,0.0016087323538342,0.5,0.0,0.0006305258139036,0.0004356363788247,0.0004236880049575,False
-"if yknow what i mean, they realize they can kill people",0.44805592,0.7843573242548045,0.65625,0.32,0.572598397731781,0.6737209558486938,0.5971840620040894,False
-we do get some of the yknow machismo people that just wanna go out and shoot things,0.49688783,0.8311049781979647,0.5,0.13,0.428661972284317,0.3584083020687103,0.7445787787437439,False
-"and yeah, yeah, i, i, yeah, i don't",0.022074303,0.7771282659689761,0.5,0.0,0.0011256036814302,0.0010565534466877,0.0008176612318493,False
-it's not the guns,0.05093802,0.995906150335277,0.5,0.0,0.0017687145154923,0.0006520165479741,0.0008837836212478,False
-that's the problem,0.05653196,0.9983247475065976,0.5,0.574,0.0160590019077062,0.0007612939225509,0.0014617827255278,False
-it's the people that are teaching,0.033074442,0.0017176918656002,0.5,0.0,0.0012653724988922,0.0004422224883455,0.0007641619886271,False
-"um-hum oh, exactly",0.025863936,0.9948661770959238,0.375,0.0,0.0007413433631882,0.0007673384970985,0.0008004763512872,False
-i'm planning on just staying in the house if i can or whatnot,0.018881164,0.9968600229101084,0.5,0.0,0.0072241919115185,0.0010220761178061,0.0006898994324728,False
-"yeah, oh yeah, yeah, i know, i mean, we're gonna get some water and whatnot because you don't know",0.05493369,0.9824609459426112,0.65625,0.0,0.0046078767627477,0.007778356783092,0.0072687277570366,False
-people might turn things off like you said,0.04783881,0.9528531954165002,0.5,0.0,0.0007774571422487,0.0008389253052882,0.001663148170337,False
-"so yeah, i think, um, as a whole, we've all kind of gone our separate ways, which is scary mean we don't have the same belief system in anything anymore, so it's kind of like",0.054534122,0.9866609238407584,0.4510416666666667,0.08,0.0007563395192846,0.0004083713865838,0.0003951741673517,False
-"oh, geez, definitely, definitely",0.06931809,0.0,0.5,0.0,0.0014934359351173,0.0003776894009206,0.0014173067174851,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"i haven't personally researched it, but i have seen",0.0186035,0.0819040841577519,0.5,0.0,0.0005795462639071,0.0003473309043329,0.0002781789225991,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"i would personally research it if i was president, um, documentaries and whatnot and things on twenty twenty, which i don't whole whole heartedly believe, just because it's on tv and they say it's so, but if it is true, and it probably is just because a lot of people will research it once it's on tv",0.03616466,0.7988828550539272,0.40625,0.0,0.0005826048436574,0.0004330188676249,0.0005168725037947,False
-"um, that three strikes and you're out has really seemed to work in california because most of the people that are committing the violent crimes with guns or rapes, or what not, um, are doing most of the crime, so once they're locked up, yeah, it costs more money to house them for life, but they're saving so much because crime has gone down, because these people are in jail and not on the streets anymore, so they don't have to catch them",0.23189566,0.0058866151107768,0.4472222222222222,0.155,0.0336084477603435,0.0194418616592884,0.0317934937775135,False
-they don't have to process them,0.032731086,0.0832327285762532,0.5,0.0,0.0007130117737688,0.0005625959602184,0.0006647345726378,False
-etcetera,,0.9777366152955552,0.5,0.0,0.0013011804549023,0.0005984956515021,0.0038895038887858,False
-"um, so i would really like to see that and plus, i think once that really is in works, the works and really working",0.026722329,0.0059718812932611,0.3999999999999999,0.0,0.000564363959711,0.0004285594332031,0.0002368465502513,False
-and we're really do,0.019852988,0.0008694408743845,0.4,0.0,0.0014982575085014,0.000333460222464,0.0009150808909907,False
-we're gonna say we're doing instead of like little parents,0.05653196,0.0027466082179552,0.59375,0.0,0.0178828760981559,0.0017961893463507,0.0043782233260571,False
-"no honey, don't do that",0.07211506,0.9991180716979814,0.5,0.355,0.0050286906771361,0.0005503301508724,0.0008151733782142,False
-"no, honey, don't do that",0.050242316,0.9965079310961028,0.5,0.0,0.0046184374950826,0.0005226543289609,0.00083234149497,False
-yknow,0.02054715,0.8117380508430831,0.5,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
-"what i mean because i think that's part of our problem, too",0.05133759,0.795882534493613,0.65625,0.197,0.0008925041183829,0.0003938079171348,0.0012052676174789,False
-"um, yeah, exactly, um",0.021380141,0.006508423440505,0.375,0.0,0.0007618679665029,0.0005241052713245,0.0026606330648064,False
-i think that would deter people,0.09065199,0.9957217000020384,0.5,0.0,0.0019329653587192,0.0087467934936285,0.0178321190178394,False
-"um, you get one strike and you're like uh, oh, um, maybe i better clean up my act, um-hum um-hum um-hum um-hum um-hum sure, no, no, but hopefully when they do get the one strike somebody, i say somebody, because i right now, i don't really think we have that in place, but we would need more of a um, one strike stepping stone, yknow, and i think let's face it, counseling's probably not gonna work",0.28972426,0.99999308572026,0.303968253968254,0.057,0.0175868496298789,0.024456663057208,0.0489486306905746,False
-"uh, and somebody in that it would almost take",0.043718524,0.9982673768665128,0.5,0.0,0.0006343827117234,0.000579156097956,0.0018619061447679,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-i do personally know people that go into that type of environment here in columbus and actually work with the families and work with the kids and actually are in there living there showing them yknow,0.045091953,0.0001833178219017,0.5,0.0,0.0014959686668589,0.0004560182860586,0.0003583139914553,False
-it's one thing to go help them and then leave that and go home to your nice house,0.058929358,0.9939092944251712,0.2,0.055,0.0014804678503423,0.0033747323323041,0.0062740040011703,False
-i don't,0.018325835,0.9947236892880044,0.5,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
-"unfortunately, i admit it, i couldn't do it, but um, if people really did things like that, i think there'd be help for them because they're actually friends or actually people that have been in that environment and come out those type of people i think might be able to reach them",0.038911518,0.9972575343893028,0.48,0.028,0.0005397756467573,0.0003894377150572,0.0003820547426585,False
-i won't be able to reach them,0.059328925,0.999993383749559,0.25,0.0,0.0022325059399008,0.0149426218122243,0.0066539719700813,False
-"probably just because what do i know about it? word word, um, i'm yeah",0.034791227,0.0085949265637925,0.5,0.0,0.0006249614525586,0.0005838861688971,0.0010434028226882,False
-i agree,0.012772553,0.0079090717376789,0.5,0.0,0.0006200664793141,0.0004531876766122,0.0004195038927718,False
-i don't think it'd be a deterrent at all initially,0.019436494,0.9993539916911816,0.5,0.0,0.0007746960618533,0.0004504449898377,0.000494523323141,False
-but if we had more things in place and somebody actually realized the background and tried to get them out of that,0.029469188,0.9901019999315724,0.375,0.0,0.0006200265488587,0.0003707230789586,0.0003024207544513,False
-"hopefully, even if you save half of them, it's better than than anything",0.14059398,0.0317251890906494,0.4166666666666666,0.0,0.001845916849561,0.0021235742606222,0.0034105430822819,False
-"um-hum um-hum ours does that, too",0.043375164,0.8184437994825496,0.5,0.0,0.0018553795525804,0.0011563671287149,0.0017835574690252,False
-they're great,0.034962907,0.002006482256468,0.0999999999999999,0.0,0.0006833288352936,0.0003298944211564,0.001167006441392,False
-sounds a lot like our dog,0.2406723,0.0019264315867187,0.5,0.0,0.0015227956464514,0.0028823539614677,0.0203981753438711,False
-"yeah, my sister and her husband just moved back",0.03856816,0.0079982421039819,0.5,0.0,0.0010004071518778,0.0052168709225952,0.0013184405397623,False
-"they went out to nebraska for a year, and then yeah, i got the opportunity",0.029812546,0.0026069218854477,0.5,0.0,0.0006079443846829,0.0003749624884221,0.0004622806736733,False
-"um, a a company that my sister had worked for wanted her to come back and so they offered to move them back",0.03444787,0.9743294847419132,0.5,0.0,0.0006817763787694,0.0009769807802513,0.0005670791724696,False
-"and um, it kind of worked out because her husband was losing his job",0.0669207,0.9592805548876387,0.2,0.167,0.0060169561766088,0.002405505394563,0.0030873825307935,False
-"any, how? just kind of one of those",0.0224908,0.9999595276211768,0.2,0.0,0.0009048268548212,0.0004154157359153,0.0016150667797774,False
-"okay, let's do it",0.036679696,0.9663279643156408,0.25,0.0,0.0008587070624344,0.0005751807475462,0.0007022442878223,False
-"and so um, my parents retired here",0.02637897,0.9794628606020408,0.5,0.0,0.0009363073040731,0.0008273302810266,0.0004415281000547,False
-let's see they've been here,0.02397547,0.004669880694103,0.5,0.0,0.0007359858136624,0.0004736560513265,0.0017440435476601,False
-i don't know,0.017770508,0.9871423305676612,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
-"four or five years maybe, and my sister was here like i said, and then moved out",0.03187269,0.7530270537884471,0.5,0.0,0.0008354273159056,0.0008689938695169,0.0006752469926141,False
-just gotten came back a couple months ago,0.023460433,0.9468329737709182,0.5,0.0,0.0007528049172833,0.0003524019848555,0.0003613040607888,False
-"um, my grandfather just passed away, but he was here in a nursing home for about a year, um, indirectly, yes, um, the reason my sister was here only when i got here, but i was in one of those yknow youth, stupid, uh, psychopathic relationships, shall we say, and i kind of needed to disappear, and um, uh, we never told him where she",0.4292556,0.9733587437087504,0.5333333333333333,0.096,0.024200577288866,0.9435864686965942,0.7264689207077026,True
-she had just moved,0.043031808,0.0112855946822989,0.5,0.0,0.0010466380044817,0.0007079964852891,0.0008201168966479,False
-"um, so i just came down here then, so was one of those things get away from it all? yeah, yeah, so um, i came down here because he knew where my parents lived, and plus columbus was a lot more opportunity",0.059728492,0.1953976944691841,0.4685185185185185,0.0,0.0008303397335112,0.0004150292370468,0.0004254116502124,False
-"so indirectly, it was a very bad reason that i came here, but it worked out yknow, so right exactly? oh, um-hum well, i even had that",0.17380224,0.0090489443981042,0.5623809523809523,0.08,0.0008667673100717,0.0004336046113166,0.0010012371931225,False
-i mean my family,0.015549194,0.0008648512231778,0.65625,0.0,0.0011262809857726,0.0004743055615108,0.0004388488887343,False
-"oh, my sister said, if you didn't leave him, i was gonna staple your hair to the",0.33859563,0.9668496646037872,0.5,0.0,0.7242259979248047,0.1306311786174774,0.2626796066761017,False
-"but, um, she was joking",0.0753116,0.9330685203930124,0.5,0.0,0.0008314941660501,0.0006863113958388,0.002002771012485,False
-"she wasn't kidding, though, because yknow, it's just one of those",0.058929358,0.9709999014119078,0.5,0.115,0.0012634383747354,0.0007150589372031,0.0041869729757308,False
-"oh, i can help him, yknow, i've learned i'm the caretaker",0.07970683,0.021215334871085,0.5,0.0,0.0009079125011339,0.0006621904321946,0.001442490844056,False
-"like i roll my eyes, you can't change people that much stupid",0.83020335,0.0800223271629744,0.8999999999999999,0.214,0.9429840445518494,0.9948750138282776,0.9923651814460754,True
-"but um, yknow, it's weird because it was terrible, but because he was real controlling and yknow, you start to doubt yourself",0.1785852,0.8970959369427225,0.7166666666666667,0.332,0.0172329228371381,0.0683488771319389,0.0222797393798828,False
-"like did i say that right, and like he wouldn't let me sleep",0.076110736,0.1266175987254836,0.3571428571428571,0.0,0.0030284237582236,0.0025457018055021,0.0015054245013743,False
-so then you start to lose that yknow,0.14822112,0.9985609655290968,0.5,0.278,0.0653254985809326,0.0010376796126365,0.0013812008546665,False
-"what i mean? you? really? you start, really, do start to lose your mental",0.4292556,0.999862936325325,0.5015625,0.2,0.7811766862869263,0.384035050868988,0.8209853768348694,False
-"yeah, woo, and um, um, yknow",0.031357653,0.7643906129354014,0.5,0.0,0.001272203400731,0.0004981281235814,0.0009376571397297,False
-"at the time i was like i'm not gonna get anything out of this and it was misery and ugh, what not",0.22978203,0.99992716163929,0.5,0.232,0.024951858446002,0.0673906728625297,0.0119060045108199,False
-"but i've met people that have been in much worse situations, and at least i can kind of relate to them so in a way, in one way, it's kind of a blessing",0.02637897,0.0165980861512102,0.4375,0.105,0.0006124609499238,0.0003358580579515,0.0004301841254346,False
-"so yeah, um-hum yeah, yeah, yeah, um-hum yeah, oh yeah, yeah, yeah, it's very fortunate i",0.080905534,0.0010200648821705,0.24,0.0,0.0006965548964217,0.0006999499164521,0.0015447748592123,False
-my sister has an undergrad in psychology and she worked at,0.02517722,0.0200967116996885,0.5,0.0,0.0006956596043892,0.00109013391193,0.0011696545407176,False
-"like, um, one of those",0.022773718,0.0619831501386968,0.5,0.0,0.0012861515861004,0.0004344267072156,0.0019073352450504,False
-"what do you call them? those secretive houses like for women and their battered children that yknow you're not supposed to location, and what not? and she used to get so frustrated",0.2835225,0.9916389966331034,0.85,0.127,0.1463669687509536,0.0069056167267262,0.0352320969104766,False
-"um because they'd always go back, and i understand that mentality now because i went back, but i'll tell you the reason i left stupid sound stupid",0.67902285,0.9995008903327284,0.6,0.269,0.6261740922927856,0.9942535758018494,0.9736797213554382,True
-"but he took my teddy bear, which i loved, and not since i was a child, but at least five years at that time, and he just he knew i loved it and just took it and ripped it, and and that split second i was like okay, he's gonna do this to me",0.21539254,0.132323250445822,0.34,0.0,0.009442045353353,0.0006401811842806,0.0017470379825681,False
-he's gonna do this to my kids,0.12695669,0.8321845893341036,0.5,0.0,0.2507752180099487,0.0824568644165992,0.0011199429864063,False
-"ain't no way, um-hum wow, um-hum yeah, it is",0.0765103,0.0023192938088466,0.45,0.0,0.0013793546240776,0.0011419898364692,0.0014950180193409,False
-that's important right,0.01721518,0.0012139329412618,0.3285714285714285,0.0,0.000689566892106,0.000341604638379,0.0005877068033441,False
-"even though it's an inanimate object, it all kind of came together right and i was glad i realized that i, nobody would ever mess with my children, not even their father, my husband or whatever, and i realized that so it was like ok, i'm not gonna do it for me, but i'm gonna do it for the future and and that helped because like i said, it all came together because i don't understand how people can let their kids be hurt, but i'm i'm not built that way",0.09816993,0.0481441298301459,0.3574404761904762,0.064,0.0020285760983824,0.000783159979619,0.0007184363203123,False
-"yeah, yeah, um, um-hum um-hum yeah, sure, yeah, yeah, um-hum um-hum yeah, it's always kind of scary",0.08170467,0.0187169850593143,0.3999999999999999,0.125,0.0009644373203627,0.0022373218089342,0.0013959674397483,False
-i think you really need to get away from that to get your self back or you're just gonna go back because you don't know any other way at the time,0.16827796,0.913658915242494,0.490625,0.0,0.0609402023255825,0.0391603037714958,0.0022169477306306,False
-"um-hum, yeah, right right, but that helped me just getting away",0.07690986,0.0257869255023313,0.3571428571428571,0.0,0.0008014715858735,0.0005498501122929,0.0016867265803739,False
-getting my mind cleared doing a little bit of reading,0.03616466,0.005157098992339,0.59375,0.0,0.0007600670214742,0.0005584211321547,0.0007985035772435,False
-"going, wait a minute",0.02929751,0.9988294601246932,0.5,0.0,0.0011164778843522,0.001490322407335,0.0007439980981871,False
-"yknow, uh, so obvious, hello, but oh yeah, but just that freedom, yknow to do what you want to get some sleep to eat, to take care of yourself to do a little investigation on your own, to pray about it, what not? and then it's really clear, but if you don't get that and you're always thrust back into it, i don't think you can break free, so yeah, that's true",0.16151784,0.000830756671356,0.4098214285714285,0.0,0.0063201803714036,0.0009876695694401,0.0007701823487877,False
-"yeah, um-hum yeah, yeah, yeah, yeah, um-hum um-hum um, no, which is i'm very grateful he did like go past my parents' house and things like that, but then they moved here, and even though it's public records, like who owns a house? um, luckily we haven't had that because we purchased the house my husband and i before we were married, and then moved in after we were married, so the deed has my maiden name on it, but uh, no, luckily, and that's been almost ten years, so hopefully hopefully no, i'd just uh, basically got out of a a a relationship",0.2088965,0.9834077850259828,0.4614583333333333,0.0,0.001431715558283,0.000614270218648,0.0006714058108627,False
-it was like a rebound type thing,0.036508016,0.9990468128925568,0.5,0.0,0.0007585959392599,0.0005029461462981,0.0006146251107566,False
-"um, i was in a relationship for like three years, and um, he was cheating on me and so i felt really bad",0.28683078,0.9989237565949414,0.8499999999999999,0.247,0.0246781203895807,0.0395709872245788,0.0616037845611572,False
-and why does he pick her? and and then i met this guy who seemed wonderful and then turned out to be not so wonderful,0.111500904,0.994907096518696,0.0,0.124,0.0013810213422402,0.0007566880085505,0.0004729367210529,False
-so i made a yknow,0.027409043,0.9993485377550072,0.5,0.0,0.0048270020633935,0.0005642999894917,0.0004263450100552,False
-you look back and you see things you were like,0.03461955,0.0014996834332784,0.5,0.0,0.0040481314063072,0.0025818345602601,0.0033960200380533,False
-"this is real obvious, but at the time i think you, i was like, um, a, i can either change them or if they love me, we can communicate and change things and yknow that type of thing",0.02655065,0.0192022661671059,0.375,0.0,0.0008158377604559,0.0009475933038629,0.0005140373250469,False
-"yeah, right, first of all, they're not really in love with you and so when i came here, um, i didn't date for over five years on purpose",0.09655894,0.9991809260771702,0.4523809523809524,0.112,0.0184272117912769,0.0073343920521438,0.0150695703923702,False
-"i don't think it was supposed to be that long on purpose, but i wouldn't let myself date for a couple years after just trying to figure out yknow",0.04783881,0.9989926013630428,0.525,0.0,0.000840451568365,0.0005459433305077,0.0003739189414773,False
-"okay, this is what i'm doing wrong",0.06532243,0.9990733076972504,0.5,0.31,0.0009089213563129,0.0005921690026298,0.0017534488579258,False
-"let's not do it again, di di di di deh, and then asked me out for a few more",,0.999997913794906,0.425,0.0,0.0148064484819769,0.0046437699347734,0.0163986943662166,False
-"yeah, so that, uh, so i really hadn't dated for a long time, and then i started dating again",0.084745035,0.0662098314620471,0.4625,0.0,0.0015664151869714,0.0004721767909359,0.0008743268554098,False
-and what's weird is you almost go right back in to the patterns because you're so scared you're gonna be alone,0.1473238,0.2459036170862343,0.5357142857142857,0.292,0.1939343363046646,0.0038590391632169,0.0057631963863968,False
-you see yourself going,0.03994159,0.0008267928816774,0.5,0.0,0.0012206464307382,0.0009457137202844,0.0018034144304692,False
-"oh, i can be with this person and you know, in your head this not for and then, luckily, um, indirectly, i met my husband four four years ago",0.14283726,0.1869502924084665,0.3333333333333333,0.0,0.0040090251713991,0.0070975576527416,0.0051648244261741,False
-i don't know,0.017770508,0.9871423305676612,0.5,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
-it's been awhile four and a half years ago,0.0186035,0.7853004081690069,0.5833333333333334,0.0,0.0006605428061448,0.0003369577752891,0.000490138772875,False
-"something like that, so yeah, yeah, right, yeah, it was like, oh, this makes sense and he might have these other wonderful things that i'm used to, but he's got all of so",0.056931525,0.0242727578451146,0.306547619047619,0.052,0.0008489793981425,0.0003989530669059,0.0006301149260252,False
-i'll get that little slice and take the so that worked out,0.09763293,0.013207049179722,0.59375,0.0,0.000709536136128,0.0004372762632556,0.004597133025527,False
-"um, um, actually, i think it needs to probably start younger than that",0.047495455,0.995302611201586,0.5,0.0,0.0006779726827517,0.0018053270177915,0.0013510764110833,False
-it's weird,0.08420804,0.9964323508658408,0.75,0.63,0.0029868432320654,0.0009358262177556,0.0019368531648069,False
-i,0.018187003,0.1366260782551028,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
-i wish they would make it,0.051737156,0.9553200137284216,0.5,0.0,0.0009707027347758,0.0057679335586726,0.0005907698650844,False
-i don't wanna say free,0.06931809,0.9836741338106252,0.3,0.403,0.0013984678080305,0.0016263664001598,0.0006088127265684,False
-"well, i think they do make it free",0.040628307,0.9662312240051396,0.3,0.0,0.0006402913131751,0.0003755674697458,0.0005678980378434,False
-"um, and i hate to say it, but a little bit easier access",0.19936113,0.1075156492204686,0.746875,0.141,0.0005881040706299,0.0021766887512058,0.0005493522039614,False
-"um, because i don't think it'll cause people to have more sex",0.3897107,0.8471733172699515,0.25,0.0,0.4116050601005554,0.5066193342208862,0.6056389212608337,False
-i think they're gonna have it anyhow so it would only be better and safer for them,0.04131502,0.7858076242332153,0.375,0.0,0.0006092959665693,0.0008493560599163,0.0005134408711455,False
-"yeah, um-hum um-hum the shot, okay, um-hum okay, um-hum um-hum yknow, we were my husband and i were just talking about this",0.16965903,0.000297045802454,0.25,0.0,0.001630448619835,0.0227597132325172,0.0036605750210583,False
-"i was saying, i'm not in for the yknow, george orwell, nineteen eighty four and big brother syndrome at all",0.094410956,0.999971508399002,0.5,0.0,0.0013964574318379,0.0006930705276317,0.0021783143747597,False
-"um, my ideal situation would be that somebody decides who should have kids and who's not, but i don't think god's gonna come down and do that",0.06971766,0.9882630399441515,0.3138888888888889,0.0,0.0020709715317934,0.0008936239755712,0.0006356796366162,False
-"we can't really decide that, but to be honest, i'm for it",0.021380141,0.0016659539792693,0.3,0.0,0.0005985366879031,0.0004391323891468,0.0003959301975555,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-it doesn't have to be well,0.034104515,0.9999262079455328,0.5,0.0,0.000865141802933,0.0004048572736792,0.0004347719950601,False
-i'm not even sure tubes tied is is pretty permanent,0.06931809,0.9998657974065968,0.3125,0.149,0.0006902401801198,0.0017077032243832,0.0007410213002003,False
-"um, but even if they could do something like on a yearly basis and give them two hundred dollars a year, that's still not still much cheaper than them having kids, um, and then if they would, i'd give more money if they'd clean up their act just for them",0.13082063,0.9969516669195942,0.3222222222222222,0.0,0.0015495871193706,0.0007855087169446,0.0005663410411216,False
-"um, as far as it being racist, i don't think i think they're missing the point",0.23189566,0.9817099717146353,0.525,0.307,0.0014248181832954,0.0302834752947092,0.0298620257526636,False
-"the point because i'm sure there's some runaway white teenage girls out there too, or mexican, or what? not? um think the point is they're on drugs yknow and i don't",0.39230084,0.9996878143091495,0.4375,0.0,0.2633273005485534,0.133767619729042,0.1906018406152725,False
-"yeah, i'm not",0.019436494,0.9983290093255752,0.5,0.0,0.0010873216670006,0.0008034334168769,0.0004407858650665,False
-i don't consider myself racist at all,0.1464265,0.9986935289613548,0.5,0.0,0.017752630636096,0.0181328766047954,0.0048196157440543,False
-"it is that that's what's happening, but it's just one of those things that you hate to say",0.14597784,0.865105293155328,0.9,0.229,0.0092135919257998,0.0101465145125985,0.0063049979507923,False
-yeah,0.02124131,0.0197943609757097,0.5,0.0,0.0015659044729545,0.0005244363564997,0.0006040357402525,False
-i'm for it because you sound like it's like everything is specific and permanent,0.022773718,0.0001210296983812,0.4,0.0,0.0007095895707607,0.0005009464803151,0.0011010786984115,False
-"yeah, i kind of have a problem with that, um, because they might change their mind, but then again they can always adopt yknow, and i kind of look at it that way there's enough kids out there that need love and you don't",0.05133759,0.007264583378286,0.2875,0.036,0.0053312163800001,0.0008805596735328,0.0006432299269363,False
-"yeah, yeah, um-hum yeah, um-hum yeah, yeah",0.0066986484,0.0159352391869903,0.5,0.0,0.0010075666941702,0.0006721257232129,0.0009762084810063,False
-"which cracks me up, because if you've ever looked at the parents of models, they're not necessarily all that",0.14418322,0.9980328576110186,0.5,0.0,0.0014156070537865,0.0006757327355444,0.0006744764978066,False
-"yeah, yeah, yeah, yeah, i know, yeah, i do",0.028610796,0.0017232352105642,0.5,0.0,0.0010540611110627,0.000390068773413,0.0007662858697585,False
-"too, um-hum um, not to sound like a broken record, but i really think it's our uh, backslide on on family units",0.04165838,0.0121251432179797,0.4666666666666667,0.153,0.0007425818475894,0.0122438240796327,0.0015658931806683,False
-i think it's too easy to stay,0.049212243,0.9999161941610816,0.2833333333333333,0.0,0.0007995660998858,0.0004958298522979,0.0003991992271039,False
-"i and i've been married and divorced, so i've unfortunately had that experience to me",0.055333257,0.9855413171726748,0.5625,0.161,0.0006441412842832,0.0004441969795152,0.0003304956771899,False
-"um that it's too easy to get divorced, um, people don't really go into marriage with commitment and lifetime and have that",0.057331093,0.9949753154252692,0.3416666666666667,0.0,0.0032695573754608,0.0007657828973606,0.0008289460092782,False
-"i don't wanna say old fashioned values, but just the value of this is very important",0.055333257,0.0006939314201203,0.345,0.0,0.0005909426836296,0.0004007648094557,0.0003562838537618,False
-"um, because lets face it to to me, love is a choice because there's times when i don't love my husband",0.09279997,0.0025825728917079,0.25,0.127,0.0049020876176655,0.0032904669642448,0.0010630069300532,False
-i wanna smack him and he's being a little barney,0.5818954,0.9917621721424384,0.59375,0.0,0.953965187072754,0.7640308141708374,0.8255663514137268,False
-"but i choose to be in love with him because i made that choice and then that passes and lo and behold an hour later week later, what happens takes",0.15684792,0.0159765162449214,0.4166666666666667,0.0,0.0017048667650669,0.0012251327279955,0.0126740699633955,False
-i'm in love with him again,0.05773066,0.0002384234393129,0.25,0.0,0.0112727312371134,0.0033809556625783,0.0091712083667516,False
-"i mean, really, yknow what i'm saying, and um, i think it's just too easy to get divorced",0.055732824,0.9969037438082924,0.4465277777777777,0.0,0.011091667227447,0.004955431446433,0.0012215262977406,False
-"i don't believe in staying in a marriage for the sake of a just children, but i think if you really make that commitment and actually work on it, you can have a great relationship",0.09978092,0.0122947516921209,0.3333333333333333,0.0,0.0008960510022006,0.0005265726940706,0.0005955605884082,False
-you can have have kids and bring them up in a more stable environment,0.08420804,0.0099955450580364,0.25,0.0,0.0010408582165837,0.0007698455592617,0.0003513968840707,False
-"um, unfortunately, i think that's the problem",0.06332459,0.9933293294090424,0.75,0.505,0.0012714862823486,0.0007725493051111,0.0009288157452829,False
-"parents, um, are a either getting divorced and then they get caught up in their petty little things and start pitting the kids against each other, yknow, using the kid as a medium, um, or they're too selfish and don't listen to their kids or they didn't i, i don't wanna say selfish, but lets face it like we said yknow, even having a dog takes some time out of your schedule",0.26589394,0.999693983515642,0.6640625,0.045,0.0811647772789001,0.0675981193780899,0.0224607270210981,False
-"your schedule, your schedule, and um not, spend enough time with the kids, yknow, they're working",0.032559406,0.0043160305072327,0.5,0.0,0.0118549307808279,0.0007667292375117,0.0009777061641216,False
-what not? and it takes a lot of effort to raise kids these days and actually listen to them and get to know them and let them grow and things like that,0.023803791,0.0005311478169294,0.5,0.0,0.000972518872004,0.0005060982075519,0.0005801105289719,False
-"uh, and i don't think enough families are doing that",0.022773718,0.9680047367584688,0.5,0.0,0.0007346579222939,0.0011746349046006,0.0004491261497605,False
-"um, i think uh, some of it was that",0.03358948,0.9996233505717452,0.5,0.0,0.0007025964441709,0.0003919655573554,0.0009659003699198,False
-i think a lot of it is,0.0253489,0.0060158108119545,0.5,0.0,0.0006597639294341,0.0003442940942477,0.0008079947438091,False
-you do feel lonely,0.089041,0.9641713945041251,0.55,0.455,0.0107886176556348,0.0007734936662018,0.0062263384461402,False
-"um, you do go through a period in your life where you don't feel like you have any friends or you feel totally different",0.049898956,0.8693621052408214,0.5,0.078,0.0188998859375715,0.0010443332139402,0.0010386117501184,False
-"i mean, i through that",0.029469188,0.9982965539348988,0.65625,0.0,0.0008826829143799,0.00036569457734,0.0008319434709846,False
-i think we all go through that at some point or other even yearly for some of us,0.023117077,0.0028407854764838,0.5625,0.0,0.0005868705338798,0.0003327035228721,0.0003420050779823,False
-"um, so i'm just saying if he felt like he could go to somebody either in his family, i say he 'cause using those, for example, or the parents paid a little bit more attention and didn't have that blind eye",0.1024659,0.9952396674136076,0.53125,0.0,0.0013780128210783,0.0026127183809876,0.0006578382453881,False
-"i think that's part of your responsibility as a parent that if you see something potentially evil or wrongdoing in your child's eyes, you need to really admit it",0.056931525,0.005508982185835,0.7,0.131,0.0062590232118964,0.0017848559655249,0.001346887438558,False
-"um, i mean, you don't wanna do that, but yeah, yeah, and his mom even signed for stuff",0.15451296,0.0571940577249373,0.65625,0.0,0.005742544773966,0.0047738221473991,0.006317941006273,False
-i think,0.021518974,0.0872254270968477,0.5,0.0,0.0007737225387245,0.0004390265094116,0.000335821066983,False
-"yeah, i mean yknow signing",0.027237365,0.1153179668631951,0.65625,0.0,0.0008840160444378,0.000519324443303,0.0004511648148763,False
-"oh, here you go",0.034104515,0.0004891554886804,0.5,0.0,0.0018905982142314,0.0007680355920456,0.0017098212847486,False
-"hun, um, you, the one i think is pretty obvious that the blind eye was something that shouldn't have happened",0.15451296,0.9984756993466124,0.5416666666666666,0.113,0.0182368028908967,0.0032517262734472,0.0037416699342429,False
-"the other one that, yeah, you, just let's face it at that age and at every age we want a leader",0.08796701,0.0213424145642388,0.5625,0.0,0.0017045771237462,0.0010481138015165,0.0016872623236849,False
-"um, and i guess it goes back if we choose to, or we know how to make better decisions for ourselves",0.02792408,0.988303840155204,0.375,0.0,0.0005758345942012,0.0004200213297735,0.0004109102301299,False
-we'll make better decisions of who's gonna lead us,0.046122026,0.9998691353347472,0.25,0.0,0.0007183514535427,0.0007769694784656,0.0004278137057553,False
-so i don't know,0.017006932,0.9495571403826482,0.5,0.0,0.000865975220222,0.0021880599670112,0.0004239892296027,False
-"i really, the",0.019019997,0.1604482456028459,0.4,0.0,0.0012925846967846,0.0003702990070451,0.000677153293509,False
-"i think a lot of it's the family unit breaking down in general yknow, and secondly, i think, to be honest, i think the media's gotten a little carried away",0.064523295,0.983480981021852,0.4693055555555555,0.0,0.0008133274386636,0.0004160803800914,0.0007022781064733,False
-they sensationalize it,0.065721996,0.0005057259177126,0.5,0.0,0.0012410909403115,0.0014778797049075,0.0007304479950107,False
-"um, and i do think yknow they know they're gonna get recognized",0.02929751,0.0044565811247077,0.5,0.0,0.014006589539349,0.0005504985456354,0.0004347104404587,False
-they're gonna have their name go down in history,0.06851897,0.015119503192311,0.5777777777777778,0.0,0.0706157311797142,0.0079119689762592,0.0021713101305067,False
-"unfortunately, um, i think that has something to do with it, too",0.03616466,0.9931786457953968,0.75,0.179,0.0006899905274622,0.0003229320864193,0.0006508657825179,False
-"um, it's frustrating to turn on the news",0.119872786,0.9869326073498556,0.7,0.293,0.0006367756868712,0.0009566967491991,0.0007652693311683,False
-they don't really cover,0.03753809,0.999977468984985,0.4,0.0,0.0018765176646411,0.0006634702440351,0.0006653977907262,False
-my husband comes from a journalistic background and he'll be like that's not news,0.029125832,0.9973154712850558,0.5,0.0,0.0007872179849073,0.0033337322529405,0.0011206169147044,False
-yknow,0.02054715,0.8117380508430831,0.5,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
-what i mean? it's just we get,0.043031808,0.0822655340917503,0.65625,0.0,0.0007538946811109,0.0004638934333343,0.0031676017679274,False
-so,0.023117077,0.9851051810963116,0.5,0.0,0.0025888974778354,0.0008246746147051,0.0006710737361572,False
-"ah, let's sit here and watch a plane crash for twelve hours instead of watching",0.22598907,0.9988396229237938,0.5,0.162,0.0091494992375373,0.0055413283407688,0.0033210134133696,False
-i don't know what little house on the prairie,0.011453647,0.1429905535441227,0.59375,0.0,0.0008649794035591,0.0005882058758288,0.0008018723456189,False
-"oh yeah, right, right, and just going over it and over it and over it",0.123736724,0.037124317676821,0.3571428571428571,0.0,0.0008039931999519,0.004241595044732,0.0052985334768891,False
-"then you get the shooting out in honolulu, and the next day there's another one",0.25676212,0.9814802209279272,0.5,0.0,0.0009187598479911,0.1169096529483795,0.0873541086912155,False
-it's just kind of like that syndrome,0.10892494,0.999913601306179,0.2,0.0,0.0009894496761262,0.0044474550522863,0.0026474383193999,False
-yknow,0.02054715,0.8117380508430831,0.5,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
-"well, at least i can be popular for fifteen minutes or whatever",0.06931809,0.8963827230269477,0.425,0.0,0.0006606864044442,0.0004442378412932,0.0007363889017142,False
-"um, i mean, i'm not saying not to cover it, but yeah, and then course, you have the whole gun control stuff",0.08796701,0.0382450568562415,0.528125,0.12,0.0011200999142602,0.0009506933274678,0.00913549028337,False
-that's just ridiculous,0.43451136,0.9993542301146208,0.6666666666666666,0.556,0.6397923827171326,0.8431470394134521,0.8809020519256592,False
-"um, i think they might have tried any how, but obviously they wouldn't have been as uh, good at it, or yknow",0.0495556,0.9963751888462654,0.325,0.0,0.0008012406760826,0.0006681968807242,0.0014363101217895,False
-"what i'm trying to say, it wouldn't have been been as much distraction",0.060927194,0.9661146945491752,0.4,0.178,0.0008274232386611,0.0008232535328716,0.0044423779472708,False
-"because obviously the bombs is something, but to actually have that right there, i mean, have the access and what not? i mean",0.09279997,0.9648824328060162,0.4870535714285714,0.0,0.0007365955971181,0.0018025931203737,0.0070531172677874,False
-"i guess the grandparents had the house locked and they broke in, but just the fact that they were there and they knew how to use them, and uh, that scares me because i didn't start dating until i was almost seventeen, but almost everybody else started had",0.07970683,0.0229047735591266,0.5,0.098,0.0009011865477077,0.0005371273728087,0.0003904047480318,False
-even,0.01999182,0.13324702206144,0.5,0.0,0.0017037651268765,0.0003994681756012,0.000963027938269,False
-i'm gonna be thirty six here in a week or two,0.042001735,0.0903380450970782,0.5,0.0,0.0029295119456946,0.0006121583282947,0.0006886376067996,False
-"so we're i graduated in eighty, where kids",0.02262963,0.8870935074078758,0.5,0.0,0.0007689151680096,0.0005106742028146,0.0006386293680407,False
-i think kids are starting dating at like ten,0.10828095,0.0041144434892936,0.5,0.0,0.0063867499120533,0.0011920143151655,0.0009609843837097,False
-"heaven forbid, but i'm sitting here going",0.09118898,0.9860318733990612,0.5,0.187,0.0291616488248109,0.0012704894179478,0.0026238719001412,False
-"i mean, i didn't even know what i was doing when i started dating at almost seventeen",0.09333697,0.8464799819084294,0.65625,0.0,0.0009668164420872,0.0018840645207092,0.0013846192741766,False
-"um, so no, i think i think you learn a lot from your family and the way their relationships are",0.019714156,0.9723243138143614,0.5,0.0,0.0013393097324296,0.0008887655567377,0.0009470220538787,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"i, i personally don't think a school can do it",0.029125832,0.9997319226454224,0.5,0.0,0.0009336997754871,0.0020277732983231,0.0004111090674996,False
-"um, i think they can help, but i think it has to be something that society in general or family unit, does it",0.020269485,0.9930769283955998,0.475,0.0,0.0006083889747969,0.0003874860994983,0.0003109444223809,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"and it wasn't that i had a bad family unit, it was just that there wasn't yknow",0.083939545,0.999508251656417,0.8499999999999999,0.179,0.0019493353320285,0.0011464548297226,0.0011103340657427,False
-we never talked about it,0.025863936,0.9992993033147892,0.5,0.0,0.0006864490569569,0.0003894523833878,0.0004020766355097,False
-my she goes,0.0813051,0.0038404651545931,0.5,0.0,0.1094408184289932,0.0019068615511059,0.0118544669821858,False
-we were like yknow,0.019714156,0.0111120224184791,0.5,0.0,0.0037296505179256,0.0005140147986821,0.0005503657739609,False
-how did people start talking about and relationships? and what not? she goes,0.087430015,0.0289556028137303,0.5,0.0,0.0008447333239018,0.0005975503008812,0.0013165244599804,False
-you don't remember,0.031014297,0.9996583988173244,0.5,0.0,0.0026635346002876,0.0005403673858381,0.0005267423694022,False
-mom and dad handed me a book,0.04543531,0.1894188392903231,0.5,0.0,0.004317520186305,0.0016892624553292,0.001197004225105,False
-i'm like they did,0.029469188,0.0028726746114919,0.5,0.0,0.0018985766218975,0.0004790928505826,0.0005302468780428,False
-i'm like i don't remember that and she goes well after i read the book,0.020130653,0.232268746847595,0.5,0.0,0.0006186019745655,0.0004259338893461,0.0004007715324405,False
-"i asked them a lot of questions, so maybe they didn't give it to yknow",0.032902762,0.9984931340606122,0.5,0.0,0.0007845410727895,0.0004896106547676,0.0004326516936998,False
-like how we don't wanna go through this again because she's a little,0.22775516,0.967647608249308,0.59375,0.0,0.1962110847234726,0.0644949525594711,0.0390372350811958,False
-i thought that was hilarious,0.08501353,0.0014654398668071,0.25,0.0,0.0016034204745665,0.0004123607650399,0.0008455285569652,False
-like you mean sexual relationships,0.35336453,0.000723168094366,0.453125,0.0,0.498415857553482,0.5410051941871643,0.7557453513145447,False
-"and what? um, probably the the bad things about it",0.104076885,0.999769206110745,0.8499999999999999,0.28,0.0008387251291424,0.0034589974675327,0.0018600152106955,False
-"yeah, um, but just coming from my christian beliefs and what? not the best thing and i know it, even though i didn't partake in it when i was a teenager and i wasn't promiscuous at all, but i still had sex before marriage",0.38261065,0.996901806617848,0.25,0.094,0.0049282293766736,0.2850162386894226,0.11994269490242,False
-"um, just to be, it'd be nice if they teach you how to be confident in your self and i don't mean like self esteem, but yknow, like we said, if if uh, yknow, you come from a situation like that, that doesn't mean you have to be like that",0.03461955,0.9774036569625544,0.440625,0.026,0.0061917048878967,0.0016739019192755,0.0008268250385299,False
-"do you know what i mean? kind of yeah, right",0.10763696,0.181539332059119,0.4044642857142857,0.268,0.0008000081288628,0.0004974666517227,0.0010119399521499,False
-"well, kind of like",0.023460433,0.9649164379490482,0.2,0.0,0.0010073938174173,0.0003774630022235,0.0004590159514918,False
-just because everybody else is doing it this way doesn't mean it's the right,0.02809576,0.99987849345474,0.5066964285714286,0.0,0.0008454085327684,0.0003993037098553,0.0007183335837908,False
-"and um, i, yeah, i yknow",0.03736641,0.7697753169034947,0.5,0.0,0.0019369933288544,0.000510161393322,0.0010023906361311,False
-i really struggle with that because i come more from,0.08555053,0.8249003360220742,0.325,0.224,0.0008722092024981,0.0004755573172587,0.0012585691874846,False
-"i think the family should teach it, but let's be realistic",0.021518974,0.8714739408545358,0.4166666666666667,0.0,0.0005704067880287,0.0004439851036295,0.0003281441167928,False
-"how many families are gonna do that or have the mentality to do that? it seems like, um, sound like my dad",0.04406188,0.9963505120202966,0.275,0.0,0.0014899543020874,0.0013938918709754,0.0023946817964315,False
-"like these days most of the people, a lot of people that are having kids shouldn't be, and the people that would be decent parent aren't because of the situations, and what, not? um, just my family, nobody in my family",0.092262976,0.9996764295899224,0.3333333333333333,0.0,0.0014341541100293,0.0008256618166342,0.0005511385388672,False
-my sister doesn't have kids,0.059728492,0.8093260401192737,0.5,0.0,0.0028021724428981,0.0027159345336258,0.001226068357937,False
-i don't have kids,0.03856816,0.97040575020114,0.5,0.0,0.0022647939622402,0.0015443990705534,0.0005075944354757,False
-"we're in our mid to late thirties, um, our friends just had one",0.033074442,0.0879561651354119,0.575,0.0,0.0006337499362416,0.002061586594209,0.0005693885614164,False
-"um, i do have some friends that have like more than one, which is great because they're just great parents",0.050585672,0.0050720414303642,0.1499999999999999,0.0,0.0006164161604829,0.0003730725729838,0.001085962401703,False
-"i'll know those kids are gonna be going in, but then i have uh, other people that, like my other friends, that just had one, were trying to help a a child children services that came from yknow",0.021796638,0.1727469014787856,0.5625,0.0,0.0016750745708122,0.000975880306214,0.0005270454566925,False
-"imagine it, and that's basically what happened to her and her mom had three kids by three different dads and they thought if they could get her out of that environment, they actually had her move in with them",0.04680874,0.998642416936552,0.5,0.0,0.0011699609458446,0.0007889671251177,0.0014273239066824,False
-they were her temporary foster parents and she just turned sixteen,0.042001735,0.0006356070862784,0.5,0.0,0.0057194386608898,0.0006451559020206,0.0010299948044121,False
-so she was fifteen,0.03049926,0.0658032300892287,0.5,0.0,0.0210908949375152,0.0041264505125582,0.001122290501371,False
-when she moved in with them,0.04783881,0.0234957358563937,0.5,0.0,0.0010425116633996,0.0010821934556588,0.0005593245732598,False
-"she refused to change and i don't know what could have changed it if they would have got her out earlier, but basically all three of them i don't wanna say, are doomed, but they're not",0.14687516,0.9997849122548098,0.5,0.179,0.0099257994443178,0.0019433747511357,0.003006144426763,False
-even though they're out of that environment,0.03427619,0.0091613312468103,0.5,0.0,0.0010016158921644,0.0004580925160553,0.0004967023269273,False
-"they're not doing any better, so i don't know",0.1024659,0.9169612586945578,0.25,0.231,0.0010753409005701,0.0045101586729288,0.0011949280742555,False
-"yeah, so it's kind of like i'm for education in schools",0.025863936,0.9920841928001604,0.2,0.0,0.0007481905049644,0.0006237452034838,0.0004154092166572,False
-"but um, just like the bad things about it yknow sex can do",0.45045215,0.9964674885202094,0.8499999999999999,0.25,0.4729523360729217,0.5735878944396973,0.77683025598526,False
-you can get pregnant,0.118584804,0.9958161752898664,0.3333333333333333,0.0,0.7749571204185486,0.0180534590035676,0.0021937014535069,False
-"number one, which isn't fun",0.11343288,0.9996353015466408,0.35,0.386,0.0013953275047242,0.001145293470472,0.0008597116102464,False
-"number two, yknow the diseases and things like that",0.13655609,0.0005469433697839,0.5,0.0,0.0019628922455012,0.0035049021244049,0.0009783263085409,False
-i think that's a good idea to teach,0.024490505,0.0109174092861399,0.15,0.0,0.0006692321621812,0.0005659854505211,0.0004819475580006,False
-"just that it's not all uh, fun and peer pressure and stuff",0.031014297,0.9982182616380144,0.35,0.329,0.0007515330216847,0.0005579768912866,0.0030505063477903,False
-i know,0.022773718,0.1225834741323085,0.5,0.0,0.0014815481845289,0.0004443990183062,0.000429977721069,False
-"i kind of got off track there, but hum, no, because they're gonna learn that on their own",0.05413456,0.9155908007653868,0.2,0.0,0.0008359918720088,0.0006210479186847,0.0008798312628641,False
-"um, i, i personally think that it's a choice",0.018048171,0.0428862969346971,0.5,0.0,0.0005928401951678,0.0003743727866094,0.0004456425958778,False
-"i don't think you're born that way because i, i, i have friends that are homosexual and um yknow",0.2936093,0.9726431455585826,0.5,0.0,0.8385128974914551,0.7192568182945251,0.4172156155109405,False
-"i don't believe in what they're doing, but do everything right everyday",0.04234509,0.0024441382822568,0.4785714285714286,0.0,0.0009657001937739,0.0008874565246514,0.0005506998277269,False
-so i still love them and they're my friends and blah blah blah,0.11600884,0.924601597413201,0.25,0.213,0.0027010580524802,0.000713066838216,0.00087468593847,False
-"because, but i've also known people that were that way and now are heterosexual and are much happier and they realize that it was just a choice they made and things like that",0.119228795,0.0075872895033961,0.4,0.0,0.0006078244769014,0.0009861618746072,0.0011010786984115,False
-"um, so it's in today's day and age",0.024318827,0.9174809621864002,0.5,0.0,0.0007023139623925,0.0005415445193648,0.0005058978567831,False
-they're gonna learn about it quickly and i don't really think it's something that needs to be taught,0.048525527,0.9993790261523094,0.3666666666666667,0.0,0.0007600224926136,0.0006965661305002,0.0003716746286954,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-the only thing probably is like,0.03221605,0.0186481104882828,0.5,0.0,0.0011393065797165,0.0005313609726727,0.0032817909959703,False
-"what do they call that? uh, cultural diversity or whatever classes they have us take? i think that i don't think is such a bad idea",0.0717155,0.9933924818175304,0.6,0.134,0.000803739647381,0.0006844116724096,0.0006062519387342,False
-"uh, because just because you grew up in, i don't know what i grew up in, but i'll i'll give an example",0.043375164,0.0081267225348417,0.5,0.0,0.002212775638327,0.0013953249435871,0.000908501795493,False
-i didn't grow up in,0.031014297,0.9988450172541082,0.5,0.0,0.0030821841210126,0.0005225790664553,0.0004215403459966,False
-let's say somebody goes hunting and fishing and drives trucks and wears ball caps and listens to country music,0.09279997,0.1244889542592976,0.5,0.0,0.0065245637670159,0.0011371488217264,0.0037694943603128,False
-"doesn't mean if somebody doesn't do that, they're not okay",0.058929358,0.9983234957835412,0.640625,0.156,0.0008951484924182,0.0011820220388472,0.0010152729228138,False
-"i think that would be a good idea, or yknow",0.02124131,0.9223776729800796,0.15,0.0,0.0007135375635698,0.0004266647447366,0.0004261386056896,False
-cultures all are different,0.042001735,0.0116884408859481,0.5,0.0,0.0007376802386716,0.0009744689450599,0.000821596418973,False
-"so if you wanted to view that as a culture or do yknow what i mean that that is something different, um, accept the people",0.032387726,0.9752082837362908,0.578125,0.0,0.0006370196933858,0.0004343051987234,0.0005889339954592,False
-"you don't have to like what they're doing, but they're still people",0.05653196,0.0035970646259845,0.5,0.124,0.0023264307528734,0.0016135497717186,0.0041867662221193,False
-"so yeah, yeah, yeah, um, yeah, i, it's hard because i, i do come across",0.11665283,0.9432200241832894,0.6458333333333334,0.067,0.0007208551978692,0.0005077488604001,0.0015166518278419,False
-"i'm a christian, so i believe that homosexuality is wrong, but i don't like i said",0.39157572,0.9974985208805884,0.625,0.252,0.1071827709674835,0.4076035320758819,0.1064247265458107,False
-i'm not gonna condemn them,0.0813051,0.0564584916117269,0.5,0.0,0.0223129875957965,0.0061069699004292,0.0059335492551326,False
-um at all,0.0717155,0.9609269283419544,0.5,0.0,0.0009232747834175,0.0005636900896206,0.0011120939161628,False
-"like i said, i have friends",0.05093802,0.0011445219174918,0.5,0.0,0.0006296613719314,0.0003820188576355,0.0004243947914801,False
-it,0.017770508,0.1409696168666463,0.5,0.0,0.0016468944959342,0.0009156857267953,0.0006150004337541,False
-"i understand what you're saying, um, but i think that's something more for the parents or the teacher to pick out that maybe that child um, is having a problem and then send them to counseling of some sort and not actually incorporate it in a thirty student ensemble",0.025520578,0.9984716163452142,0.375,0.069,0.0006644938839599,0.0005740612978115,0.0006662018131464,False
-"um, uh, it'd be nice if we had more of an open environment in schools and if teachers really had the time to notice that maybe somebody had a problem and talk to them about it and then send them on that counseling one on one way, um, just because if you're gonna teach it to um, a large amount of students, i'm not even sure if that one student would listen, because all the rest of them probably be making cracks and just make them feel",0.11407687,0.9999945162608956,0.3321428571428572,0.051,0.0006192584987729,0.0008512681815773,0.000671918853186,False
-do you know what i mean? i don't feel,0.05613239,0.99998265469479,0.65625,0.0,0.0011411166051402,0.0015266576083377,0.0007369845407083,False
-"yeah, yknow, they probably all",0.025692256,0.1049838307184043,0.5,0.0,0.0012869524070993,0.0004653758660424,0.0007054892485029,False
-"hey, you resemble that remark or i, so i hesitate to say that it would really help them",0.06492286,0.1225193978329932,0.4,0.111,0.0005738703766837,0.0100358640775084,0.000907560926862,False
-"um, it would just be better if somebody could yknow keep their eyes open, or if we, um, more counselors or things like that to deal with everything including that",0.044748597,0.9984693811254708,0.3333333333333333,0.0,0.0007157131331041,0.0005173979443497,0.0005481544067151,False
-"normally i would say no, but yeah, i do, just because let's face it, do it anyhow and i would feel better for them",0.09763293,0.9890144314131464,0.3375,0.0,0.0010524010285735,0.0005999451386742,0.0010536339832469,False
-"and if if if they used it, because, uh, yknow, it's not good for the children that are born",0.07371333,0.9999724620927594,0.675,0.118,0.0012822987046092,0.0078843450173735,0.0008583123562857,False
-it's not good for them,0.06612156,0.999928472968206,0.675,0.376,0.0017789121484383,0.044311411678791,0.0016232514753937,False
-"um, i'd prefer abstinence, but let's be realistic yknow, i think we're past that point",0.052935857,0.9991274596209044,0.5208333333333334,0.0,0.013345368206501,0.0003598681651055,0.0003156845050398,False
-now,0.01999182,0.0841058650139471,0.5,0.0,0.0014697305159643,0.0004906950052827,0.0007275509997271,False
-"um, i know a lot of christians argue",0.14777246,0.9810754673367637,0.5,0.255,0.0032304234337061,0.0180808492004871,0.0823163837194442,False
-"oh, but you're wrong",0.08447654,0.1453844440865443,0.75,0.58,0.001621798495762,0.0012394972145557,0.0015248473500832,False
-"well, yeah, i might be wrong, but yknow we can't go backwards on that",0.043375164,0.92503570689033,0.75,0.127,0.0009058948489837,0.0007644023862667,0.0006178545299917,False
-i don't think you can only work on your own,0.09118898,0.0226135691309358,0.35,0.0,0.0164121203124523,0.0239840783178806,0.0017848229035735,False
-it's right is not gonna work right,0.074912034,0.9985289273794392,0.3571428571428571,0.0,0.0022024696227163,0.0018700395012274,0.0005662962794303,False
-"even though i knew better at the point when i was faced with that at seventeen or whatever, i wanted to be so bad that it was something that i yknow what i mean and i knew better, but you just yknow and it's like well, i wasn't that strong",0.10828095,0.9999894497628103,0.4579166666666666,0.105,0.0045995451509952,0.0008265202632173,0.001420397660695,False
-"granted, but i was probably the normal teen and i think most of the people i knew at that age were lost it much younger than seventeen",0.05373499,0.976851378868316,0.41875,0.1,0.0006808484904468,0.0005244338535703,0.0011177144479006,False
-"yknow, ok, eleven twelve",0.014785618,0.0742420489061311,0.25,0.0,0.0011127260513603,0.0004574861668515,0.0006905519403517,False
-"it's like ew, he, we even look alike",0.06412373,0.1530754477860416,0.5,0.0,0.001021838048473,0.0006711082533001,0.0009797529783099,False
-"forget it, but um, yeah, so i think i think birth control would be good and ok, um-hum um-hum great, um-hum sure, um, i grew up in lima, ohio, and which is only about an hour and half from here north, i came here in nineteen ninety one",0.07131593,0.0495313966117883,0.3055555555555556,0.024,0.0010222148848697,0.0007403179188258,0.0006066765054129,False
-i believe here being columbus,0.05773066,0.0152511427337416,0.5,0.0,0.0014675320126116,0.0004198912065476,0.0006656376062892,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"i got married about three years ago, and right now i'm in the process of doing a little bit of everything",0.073313765,0.0004372685876999,0.4419642857142857,0.0,0.0006322342087514,0.0003817303513642,0.000415739021264,False
-"i've worked all my life, um, until about the past two years, and i've just been working like part time, and um, doing crafts and things like that, because i've always been like in the financial analytical end and the other side of my brain wants some work, so really that's about it",0.032559406,0.0088722428266433,0.4975,0.0,0.000798545370344,0.0004822531191166,0.0006902680615894,False
-i have a dog,0.08555053,0.0015192341553021,0.5,0.0,0.0029855782631784,0.0026429332792758,0.0007656048983335,False
-he's outside right now and that's it for my kids,0.06252546,0.0054002014916485,0.4285714285714286,0.0,0.0035291789099574,0.0006359408725984,0.0007862677448429,False
-"yeah, um, really, anything like right now",0.031357653,0.0813342521377939,0.3785714285714285,0.0,0.0006880478467792,0.0003907562058884,0.0010247993050143,False
-"i'm just painting and um, they laugh at me because i went the other day and found some chairs that were that badly and asked if i could have them cleaned them up, and i'm painting those and things like that, so no, no, yeah, i gave them to my sister and my mom and stuff like that, so yeah, it's kind of fun",0.14822112,0.0001146518713796,0.4625,0.04,0.0018081632442772,0.0023186113685369,0.0027182397898286,False
-"um-hum yeah, no, that'd be neat",0.034104515,0.9878455008960548,0.5,0.0,0.0008398423087783,0.0004854250291828,0.0011262713233008,False
-i'd love to do that,0.043031808,0.020035109043556,0.25,0.0,0.0008225226774811,0.0007366264471784,0.0004422116908244,False
-"yeah, right, yeah, that would be fun",0.036679696,0.2338730087619421,0.3535714285714286,0.0,0.0007460112101398,0.000437629467342,0.0007167584262788,False
-i'm looking for a part time job,0.0253489,0.9686462150219404,0.5,0.0,0.0015198526671156,0.000682441110257,0.0002639820158947,False
-"as we speak, i've been like doing temporary on and off, and the thing with that is you could work yknow for four, five months and then nothing and then just like that",0.03221605,0.9994953469877642,0.5,0.0,0.0014511130284518,0.0006271292222663,0.0007782498723827,False
-"so right now i'm looking for something permanent, uh, mostly accounting things like that, uh, such as accounts receivable for nursing homes and things like that pretty in depth, um, some of the day by yknow",0.031529333,0.8758417986568893,0.3705357142857143,0.0,0.0006226184777915,0.0004131006135139,0.0003609695704653,False
-"if i just go for a day, it's filing, and what? not getting phones",0.023803791,0.9524279672124856,0.5,0.0,0.0008342579239979,0.000784846546594,0.0007999967201612,False
-but most of the jobs,0.016729267,0.1253059121741034,0.25,0.0,0.0008387974230572,0.0004674521042034,0.0003574219881556,False
-"actually, you learn a lot",0.05852979,0.1394252588414266,0.5,0.0,0.0026156338863074,0.0004586442082654,0.0007954081520438,False
-"so boy, it would have to be um, something that i actually enjoy",0.111500904,0.0202881359185268,0.3,0.0,0.0007850799593143,0.0014245909405872,0.0006360147963277,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"what what what happened was? ever since i came to columbus, almost every company i work for was bought out and sold and moved to a different state and i wasn't interested in that, uh, because my husband works for the state, so obviously he's not going anywhere",0.038911518,0.9999497522601648,0.4583333333333333,0.046,0.0006447828491218,0.000701023673173,0.0007034862064756,False
-"um, so i got tired of that and that's why i kind of went to temping and stuff, so it'd be one with a variety",0.08290337,0.2391085490658152,0.45,0.116,0.0007906107348389,0.0004682659928221,0.0008914982900023,False
-"um, i'm unfortunately, i say, unfortunately, good at accounting and stuff, but that doesn't get to express my creative side as much",0.0741129,0.0598378756376187,0.3875,0.125,0.0008336976752616,0.0003462620370555,0.0004740144941024,False
-so it would be,0.019852988,0.7688003438542842,0.5,0.0,0.0011589493369683,0.0004507227276917,0.0005121536669321,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"my favorite job was one where i did the accounting, but i dealt with people as well, and like would do presentations at seminars and stuff like that",0.017770508,0.0023488285123915,0.25,0.0,0.0006177824106998,0.000398598407628,0.0005455646314658,False
-"occasionally, too, so right, just a teeny bit enough to satisfy me, so that was good",0.30187345,0.0110624005401721,0.3767857142857143,0.0,0.0006211151485331,0.0006429280620068,0.0011995770037174,False
-"yeah, i do",0.0224908,0.0009359610139528,0.5,0.0,0.0011728196404874,0.0003850737703032,0.0004663828003685,False
-"um, i prefer",0.07990982,0.7586273521515391,0.5,0.0,0.000840333814267,0.0004170381580479,0.0005405613337643,False
-"i've done it by myself, but i would prefer to do it with my husband and stuff, europe",0.12244874,0.0013886973222782,0.5,0.0,0.0008143499726429,0.0015885820612311,0.0008869665325619,False
-"i was there for almost a month, did one of those tours where you get on the bus, um, and did the london and the france, the, and italy, and to holland and germany, and everything that was really neat",0.073313765,0.000196729140363,0.4,0.0,0.0006664224783889,0.0004137051582802,0.0005427917349152,False
-right,0.016521018,0.00518454749079,0.3571428571428571,0.0,0.000928676337935,0.0005848494474776,0.0005620717420242,False
-"yeah, yeah, that's very true",0.028782474,0.0003697351485145,0.2725,0.0,0.000737591588404,0.0003533078706823,0.0005888565210625,False
-we haven't done that much yet,0.02792408,0.9673102092797502,0.4,0.0,0.000663289160002,0.0003407809999771,0.0003913795226253,False
-"uh, because his family lives in albuquerque, new mexico, we're at at at least every other year we're out there, which is great, but it takes away that big trip",0.03994159,0.91991365614357,0.4488636363636363,0.0,0.000659390236251,0.0004892399883829,0.000610638060607,False
-"um, we've been, and then his brother got married in hawaii, so we went out there, so we've just done the honeymoon at disney world, the albuquerque, a couple times and hawaii, but we have plans to go to europe",0.02637897,0.8255773989838632,0.375,0.0,0.0005936413654126,0.0004937565536238,0.0003191390715073,False
-he,0.023460433,0.1741320522524041,0.5,0.0,0.0087242415174841,0.0014087301678955,0.000656290561892,False
-he wants to go to england and things like that and i wanna,0.10461388,0.2317641534412191,0.4,0.0,0.0058184065856039,0.0025098954793065,0.0199440252035856,False
-"we're looking into greece, so yes, uh, actually, kawai, yeah, so it was really nice",0.070516795,0.0023146147488501,0.35,0.0,0.0006064304616302,0.0003815068339463,0.0014656905550509,False
-i thought it,0.022074303,0.998831248300488,0.5,0.0,0.000720947922673,0.0004688097978942,0.0003736306389328,False
-"course, i didn't go to all of them, but it was nice",0.02929751,0.0660389414619195,0.2,0.0,0.0006661494262516,0.0004402139165904,0.0009653773158788,False
-"yeah, and it, it has the least amount of people, which is kind of neat as far as tourism, so yeah it was",0.11665283,0.8644679276961846,0.4333333333333333,0.0,0.0006223284290172,0.0003978587046731,0.0009707114659249,False
-"it's not bothering me, but when i talk and move my head, it's like hitting me and i just am not sure you can tell me if it's not anywhere near my mouth, so yeah, it's i keep",0.21627559,0.996508586760561,0.5375,0.054,0.0070873419754207,0.0536961965262889,0.0350138433277606,False
-it wasn't but then it moved so well,0.033932835,0.9913648990866832,0.5,0.0,0.0006885263719595,0.0004332073731347,0.0010120180668309,False
-there we go,0.030670939,0.002133144708603,0.5,0.0,0.0007975666667334,0.0005626952042803,0.0016087612602859,False
-"yeah, hilliard, um-hum, i like it",0.19789414,0.0103417358919188,0.5,0.0,0.0010462655918672,0.0006496561109088,0.0027669589035212,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-i've lived,0.023460433,0.0044822116444338,0.5,0.0,0.001284718629904,0.0003462739114183,0.0004613153287209,False
-i've only lived in the northern end,0.037881445,0.7958197993261439,0.5,0.0,0.0012733411276713,0.0004398829478304,0.0004871136625297,False
-"i've lived in dublin and old worthington, and now hilliard, which is kind of around the side",0.09709594,0.0992119270848669,0.325,0.0,0.0007397301378659,0.0003842576697934,0.0004542085516732,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-but i like it because it has,0.039598234,0.0073548564529959,0.5,0.0,0.0008449559682048,0.0003493414842523,0.0011503372807055,False
-"it's own little well, especially worthington",0.03856816,0.0099990618037663,0.43125,0.0,0.0006686137639917,0.0290864538401365,0.0007128246361389,False
-"it's own little city within a city, and um, i think they have a lot to do, yknow the parks and things like that, so um, i'll just hold it, but i like it because it has art and culture, and um, it doesn't feel like a big city unless you get stuck in traffic",0.043718524,0.0045139517647924,0.43125,0.084,0.0008938696701079,0.0004379610472824,0.0004117454518564,False
-"so yeah, yeah, but i, but i have purposely tried to work close or do the back roads",0.037023053,0.9868257340431836,0.5,0.0,0.0006346741574816,0.0004100765218026,0.0007527410634793,False
-"it's nice from hilliard, you can get almost anywhere whether it be here or yknow where i've been working on back roads, so it's not that bad",0.086087525,0.0130829497795596,0.5166666666666666,0.0,0.0006287708529271,0.0004323336179368,0.0009220462525263,False
-"um-hum yes, yeah, right, the snouffer and all that",0.15918289,0.0241727690152527,0.3571428571428571,0.0,0.0027985973283648,0.0009797058301046,0.0050007156096398,False
-"yep, i used to live up there too, so very much",0.038053125,0.0016449131107499,0.4009090909090909,0.0,0.0011685347417369,0.0003941641480196,0.0004110453883185,False
-"so yeah, i think this year it's gonna be even worse stocking up water right",0.10031791,0.99990281264555,0.5285714285714286,0.167,0.0080037815496325,0.0007102532545104,0.0008614762336947,False
-"yeah, um-hum yes, yes, yes, really",0.02792408,0.0010915323081045,0.4,0.0,0.0008495058864355,0.0005429477314464,0.0012147247325628,False
-i haven't noticed that yet,0.022074303,0.1250392951630917,0.5,0.0,0.000637634715531,0.0003576161107048,0.0003113629936706,False
-huh,0.026722329,0.9971324514924532,0.5,0.0,0.010707932524383,0.0008670022361911,0.0007655997760593,False
-"yeah, yeah, i think it's probably too, though that a lot of people haven't aren't used to it",0.029469188,0.0011751295265136,0.5,0.0,0.0006896759732626,0.0004316323320381,0.0007105917902663,False
-i mean they're not from ohio,0.023803791,0.9941594006130106,0.65625,0.0,0.001415102975443,0.0010343129979446,0.0005163520108908,False
-i've found found that in columbus a lot,0.035477944,0.0011569199363361,0.5,0.0,0.0006096215802244,0.000357278244337,0.0003580252814572,False
-"so they're kind of yknow more tentative, or they're from the south or something like that",0.08635602,0.9718804885820804,0.2249999999999999,0.0,0.0008894716156646,0.0007059321505948,0.0013282638974487,False
-"so they and then you run into a lot of people that are from ohio, but i've noticed that a lot of people rarely do you meet people born and raised in columbus, so um-hum um-hum huh, that's good",0.1423886,0.0015129755400201,0.25,0.0,0.0007943370728753,0.0008905542199499,0.0014675941783934,False
-"no, not really",0.012425472,0.999763662765781,0.55,0.0,0.0008963835425674,0.0004204060242045,0.0004141875833738,False
-"actually, some some i have and then i've run into the people that just like anything they wanna get out of their hometown",0.13521013,0.0308083317547714,0.5,0.0,0.0008351252763532,0.0008221254684031,0.0038277166895568,False
-they don't like it,0.073313765,0.9999657266305988,0.5,0.413,0.0201952885836362,0.0053070676513016,0.0013703104341402,False
-"they complain, but normally i find that those people aren't taking advantage of the yknow free art shows and yknow, i mean the things that are free",0.12180476,0.9964626902484932,0.4203125,0.108,0.0007954085594974,0.0006969047826714,0.0009502496104687,False
-"i'm like oh, have you done this? no, i didn't even know about it and you've lived here all your life, and i've only lived here x number of years, and so um, well, just even like the parks, or um, like the art shows in worthington, or the crafts, or even the the irish festival in dublin, which can be free",0.045778666,0.9631420907136812,0.4333333333333333,0.0,0.0009887245250865,0.0006805494776926,0.0019438732415437,False
-"yeah, on certain days and things like that, um, the concerts on the river or on the worthington green, really anything like that and they used to have the laser light show downtown",0.04818217,0.9618695056063484,0.4232142857142857,0.0,0.000623038446065,0.0004080726939719,0.0005304971709847,False
-"they, they don't have it anymore",0.027580723,0.9808308150850988,0.5,0.0,0.0020416725892573,0.0009580476325936,0.0017661241581663,False
-"um, yknow, just even if you do one thing free a month it it doesn't have to cost anything but you",0.054534122,0.8318064199564233,0.3,0.0,0.0085747446864843,0.0015373314963653,0.0007995059131644,False
-you can go do it with your family or whatever,0.09118898,0.0057002275870939,0.5,0.0,0.0186070669442415,0.0156227499246597,0.0007847332744859,False
-"so yeah, um-hum yeah, yeah, cutoff right right, yeah, i mean you don't want to see the chain gangs or the people whipping them",0.21980777,0.1822210740809044,0.4568452380952381,0.041,0.0518589578568935,0.0086918678134679,0.0794206783175468,False
-"i mean, let's that's not right",0.032731086,0.99647073703957,0.6138392857142857,0.0,0.0009421881404705,0.0009709362639114,0.000556917162612,False
-either,0.016729267,0.8044963859179011,0.5,0.0,0.001351126586087,0.0006101993494667,0.0005343902157619,False
-"um, but yeah, i'm not for the weight rooms, because like they said, they come out and then they're stronger",0.089041,0.9423413145977017,0.5,0.0,0.0009376432863064,0.0005625557387247,0.0018797678640112,False
-they can do more damage,0.22978203,0.9993076183322352,0.25,0.466,0.073428526520729,0.0772958397865295,0.0356293097138404,False
-"yeah, and you're like, and we paid for that",0.112144895,0.0019271766599665,0.5,0.0,0.140389546751976,0.0017120561096817,0.0047564073465764,False
-"okay, so i you? i, i think just to keep them busy yknow, even if they educate them, i've heard of people yknow the education, um, the i",0.06971766,0.7502320456123114,0.35,0.0,0.0022123884409666,0.0006321558612398,0.0006002382724545,False
-strong,0.023632111,0.0031111278537348,0.2833333333333333,0.0,0.0008315463783219,0.0007444477523677,0.0023798812180757,False
-i,0.018187003,0.1366260782551028,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
-i don't think it'd really hurt anybody,0.03770977,0.9652671290253476,0.4,0.381,0.0028700255788862,0.0005221280152909,0.0005209306837059,False
-"um, i, and the i'd say incorporate that with some education",0.034791227,0.0192537954329274,0.5,0.0,0.000736181566026,0.0003996835730504,0.0006478957366198,False
-"um, of some sort, yknow mean i don't wanna go out in the sun and work or what? not? plus they're doing something in return for free housing",0.03856816,0.999343471256922,0.478125,0.0,0.0028399724978953,0.0006129005923867,0.0007791061652824,False
-do yknow what i mean? it's kind of a give and take there,0.10892494,0.8275697546515519,0.428125,0.0,0.0010521520162001,0.0007288011256605,0.0010051730787381,False
-"yeah, yeah, um-hum um-hum right, right, right, yeah, well, unfortunately, i don't think it's fair, but i think in the long run, it it it",0.04783881,0.0249946146105645,0.4160714285714286,0.111,0.0007366612553596,0.0006100141326896,0.0011951284250244,False
-it doesn't have to be a college education because most of those people probably wouldn't want a college education,0.051737156,0.7739813447964144,0.25,0.064,0.0009538120939396,0.0008603749447502,0.000999342650175,False
-"um, but like a trade or a skill or something, it'll give them a little bit of hope if they do wanna choose to get a job instead of robbing a bank or selling drugs or whatever they did, they have that choice",0.14911842,0.9786680760670908,0.59375,0.0,0.0010044306982308,0.0012616844614967,0.000736970861908,False
-it's it's it's up in their head,0.14373457,0.0054894612667413,0.5,0.0,0.0020055233035236,0.0727879777550697,0.12320027500391,False
-"okay, i can either go become a welder or i can cutoff have a gun",0.2297899,0.8620781201551612,0.25,0.139,0.4527776539325714,0.4459208548069,0.642558753490448,False
-"um, i mean if they want a college education, um, yeah, it's it's not fair, but for for you growing up and going into a lifestyle i would prefer having their colleges paid for and then being productive citizens than somebody robbing me someday, because they didn't get an education",0.16758743,0.9977007635629856,0.665625,0.028,0.0047720074653625,0.0019512641010805,0.0015050073852762,False
-"i mean, now that's a broad spectrum and i know it's not all that cut",0.027580723,0.9690737380515584,0.5625,0.0,0.0006921626045368,0.00045491050696,0.001576786278747,False
-"and um, yeah, it would upset me, but hopefully i'd step back from it a little bit and go well",0.1250247,0.9742462153557332,0.546875,0.07,0.0007150729652494,0.0007391501567326,0.0022671245969831,False
-maybe it is for the best,0.033074442,0.9108256103014184,0.0,0.0,0.0006140276091173,0.0003901472664438,0.0005333251901902,False
-"yeah, yeah, i think it is",0.02517722,0.0005675371943545,0.5,0.0,0.0007178286323323,0.0004181795520707,0.0008540996932424,False
-"course, we were fiddling with that so much",0.08420804,0.842626433267604,0.4,0.0,0.002730875974521,0.002752790460363,0.0032574092037975,False
-"no, my husband",0.02193547,0.9961757178363502,0.5,0.0,0.0024043486919254,0.0023346559610217,0.0005936393863521,False
-"yeah, he's uh, he's from",0.035649624,0.008277912798296,0.5,0.0,0.0008300782646983,0.0007116649649105,0.0064809550531208,False
-"she can wear a bandanna, but that's it and i yknow i would love to do that with her only on things like that",0.2936093,0.934706608632812,0.375,0.0,0.0037673120386898,0.001909228041768,0.0076882513239979,False
-"i wouldn't be the type that would put a sweater on her on tuesday and a little skirt on her on wednesday, but i, i would get a kick out of that",0.4254099,0.0100799171526233,0.59375,0.0,0.0047989506274461,0.2067101746797561,0.0948191732168197,False
-"um, she, yes, um, we're both",0.017770508,0.0007598256981604,0.5,0.0,0.0009288041619583,0.0004038276965729,0.0014702463522553,False
-i've gotten kind of bad,0.13879937,0.9999369370003016,0.5249999999999999,0.487,0.0018311177846044,0.0037884472403675,0.0036722247023135,False
-"uh, but my husband's a marathon trainer",0.02397547,0.9213335571334684,0.5,0.0,0.0016851791879162,0.0008210548548959,0.0007739968714304,False
-i try to run with her at least two or three times a week because she's he's too fast for her,0.23365098,0.9961218937449252,0.525,0.0,0.0117104081436991,0.0271433424204587,0.0291572753340005,False
-"um, but we go to like hoffman farms up in",0.029812546,0.8432763159573112,0.5,0.0,0.0006344189750961,0.0009120812173932,0.0004520387155935,False
-um,0.012811388,0.230074178300439,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-we've taken her to the scioto part for the concert on the river,0.070516795,0.0024859815958562,0.5,0.0,0.0007788178045302,0.0004298968124203,0.0007664702716283,False
-we don't tend to take her to things like the art festival or the,0.0813051,0.9383355325908748,0.5,0.0,0.0006192145519889,0.0005476627266034,0.0006219302304089,False
-it's just too crowded and it's not fair to her or the other people,0.12760067,0.999838646937445,0.61875,0.131,0.0009376155794598,0.0006245807162486,0.0055506541393697,False
-"uh, because she has been known to help herself to bread, we were like brain dead after this race and my husband took her and we know better, but we were like yknow after you run",0.2224569,0.9881407287197842,0.425,0.062,0.0414480157196521,0.0357446670532226,0.0543616265058517,False
-"you're kind of like, uh, and she jumped up on the table and looked around and took a piece of bread and i'm like, oh, my gosh, you're so embarrassed",0.25676212,0.9999085348080936,0.2,0.093,0.2980749905109405,0.1792007684707641,0.4378969669342041,False
-"i'm so sorry and the guy's like, ah, nobody else is eating it",0.08581903,0.9999904034565676,0.75,0.106,0.0020953405182808,0.0065798931755125,0.0081407558172941,False
-she,0.02929751,0.0765547860703966,0.5,0.0,0.0095353480428457,0.0024225472006946,0.00259694410488,False
-she's a golden retriever,0.2299237,7.912677892198511e-05,0.35,0.0,0.1882060021162033,0.0714278519153595,0.1738239824771881,False
-"yeah, she's three, so she's still puppy, but she's getting there",0.1710401,0.0010138360698184,0.5,0.0,0.0226313564926385,0.0074628116562962,0.0331096388399601,False
-yeah,0.02124131,0.0197943609757097,0.5,0.0,0.0015659044729545,0.0005244363564997,0.0006040357402525,False
-um-hum yep,0.020523453,0.0025584921243373,0.5,0.0,0.0014320797054097,0.002353194868192,0.0013533140299841,False
-"yeah, yeah, yeah, she did that yesterday, so stomach pump, uh, yeah, we've kind of broken her of that",0.2590451,0.9955414816848478,0.45,0.13,0.0019345105392858,0.0006947985966689,0.1982144564390182,False
-thank goodness the counter stuff,0.050585672,0.0169717254835435,0.5,0.0,0.0007155542843975,0.0005755687598139,0.0008425712585449,False
-"but yeah, yeah, she's been known to do that too",0.042001735,0.0266029893292397,0.5,0.0,0.0006555382278747,0.000383263482945,0.0008119932608678,False
-"yeah, yes, um-hum sure, do they",0.038224805,0.0037261709183725,0.25,0.0,0.0008100476698018,0.0007354196859523,0.0034289895556867,False
-"uh, that's nice",0.044405237,0.0225120603516483,0.2,0.0,0.0006392815848812,0.000468300160719,0.0013823114568367,False
-"that's good, right",0.02517722,0.0014193943400898,0.2535714285714285,0.0,0.0006390900234691,0.0003355999069754,0.000703876838088,False
-"yeah, i've run into just a few problems at antrum, um, since i do like to jog, even though i'm very slow",0.104076885,0.9992756993942972,0.6475,0.102,0.0065021715126931,0.0021295675542205,0.0009316848008893,False
-"most of the people that take their dogs there, take them off the leash and let them go in the lake",0.12244874,0.9702514902359044,0.25,0.0,0.0088301906362175,0.0484367422759532,0.0326619297266006,False
-and what? not? which is you're not supposed to do that,0.022945397,0.9305994966642772,0.5,0.0,0.0022706824820488,0.0013272453797981,0.0015712103340774,False
-"but when i'm jogging with my dog on a leash and all the other dogs come up, it irritates me because yknow, you're trying to run and your dog's trying to greet that dog, and the dog's tripping you",0.21036349,0.9986846178853104,0.5625,0.082,0.1775938272476196,0.012104975990951,0.0126529885455966,False
-and you're like i've actually been known to go,0.06332459,0.0001660023196216,0.5,0.0,0.021680174395442,0.0008268912206403,0.0034555785823613,False
-am i the only one following the rules around here because i'm trying to run,0.067320265,0.955235909860204,0.5,0.0,0.0065096765756607,0.0007722968002781,0.0004599712265189,False
-"obviously it's hard for me to run, so oh yes, he will be",0.084745035,0.0010224491165636,0.6458333333333334,0.091,0.0246253926306962,0.0010087311966344,0.0034653544425964,False
-"yeah, it's a week from sunday",0.018881164,0.8601534469413075,0.5,0.0,0.0008969829650595,0.0005320553318597,0.0003417824918869,False
-"um-hum, i would love to do it, but even when i was my knee won't let me",0.11794081,0.8637657408644781,0.25,0.0,0.0166781172156333,0.0020641495939344,0.0046386988833546,False
-"i was marathon training and i only got up to about nine miles, and um, i have, unfortunately, about fifty pounds of extra weight on me, but even like i said when i was skinnier, i have like a bum knee on distance",0.22952124,0.9814464840112646,0.5833333333333334,0.035,0.000778351095505,0.0043537085875868,0.0779642537236213,False
-"i'm okay to run the lower, but uh, no, yknow",0.15743166,0.9994436687072932,0.25,0.145,0.0011622864985838,0.0010514385066926,0.003091111080721,False
-i should,0.022773718,0.0082043591672679,0.5,0.0,0.0082987211644649,0.00155790313147,0.0005090718041174,False
-i really,0.020269485,0.0076305931605613,0.4,0.0,0.0016452153213322,0.0003530802496243,0.0004957355558872,False
-should,0.021102477,0.0364843295598453,0.5,0.0,0.0063869045116007,0.0006471502711065,0.0005166212795302,False
-"i do that with the without even realizing it, but i haven't just because i've ran for so many years or jogged",0.049898956,0.0139164781233977,0.25,0.0,0.0007596774375997,0.0011900992831215,0.0023869890719652,False
-"excuse me, i don't run",0.06612156,0.9890528473898056,0.525,0.0,0.007405221927911,0.0016957144252955,0.0034129521809518,False
-i'm too slow,0.086087525,0.9999601236797748,0.65,0.0,0.0133275175467133,0.0048315324820578,0.0021160214673727,False
-"get the track terminology there? yeah, yeah, that's a good idea",0.030155903,0.944713478804216,0.15,0.0,0.0006223020027391,0.0003855477843899,0.0005223106709308,False
-"um-hum yeah, i have read that i need to try that just for winter",0.038911518,0.0542757548277468,0.5,0.0,0.0009080288000404,0.0005962256691418,0.000490951933898,False
-even you don't slide as much,0.16551583,0.9780081795929324,0.4,0.0,0.0023678399156779,0.0007405623910017,0.0034780818969011,False
-that would be good,0.030155903,0.2312073453016336,0.15,0.0,0.0006060999585315,0.0003851403889711,0.0004052613512612,False
-"yeah, um-hum um-hum yeah",0.0069763125,0.8564149972158103,0.5,0.0,0.0009984638309106,0.001395686995238,0.0016548280837014,False
-"yeah, they're pretty good where i live",0.03994159,0.0017321164836786,0.3189393939393939,0.0,0.0006648403359577,0.0004160980461165,0.0013291604118421,False
-"um well last year when we had that really really high snow, um, i shoveled and then like an hour later it blew over",0.09387396,0.9997056066583084,0.4733333333333333,0.0,0.0025900455657392,0.0018109168158844,0.0066337026655673,False
-"so was like what's the? um? but our neighborhood has a lot of children, so most of the people do shovel their sidewalk",0.05253629,0.9945123567119836,0.25,0.0,0.0021913386881351,0.0013429864775389,0.0053151086904108,False
-"um-hum, um, about six",0.08244847,0.9723911319832288,0.5,0.0,0.0007903007790446,0.0007534845499321,0.0011763877701014,False
-"yeah, did we get her? we've had her for two years",0.024490505,0.0034096638026845,0.5,0.0,0.0008727529202587,0.0004473215958569,0.0006193149019964,False
-"yeah, we did about six months",0.020963646,0.9939116190537044,0.5,0.0,0.0006315913051366,0.0003616365720517,0.0004405094368848,False
-"we went to hawaii and got his brother married, and then we came back",0.021102477,0.0086321802261851,0.4375,0.0,0.0014789327979087,0.0012683474924415,0.0005791078438051,False
-we knew that would be the last long trip,0.039598234,0.0104150212965776,0.5125,0.0,0.0017682490870356,0.00045943443547,0.000396837858716,False
-"um, and we were gonna wait till the spring, but we couldn't, so we went to a rescue service and got her",0.03049926,0.9942906229134224,0.5,0.0,0.0011408106656745,0.00054014287889,0.0005695386207662,False
-"yeah, uh, um-hum um-hum yeah, oh, definitely",0.032902762,0.0272537959097743,0.5,0.0,0.0009320141398347,0.0008456595242023,0.0012702110689133,False
-definitely,0.017354012,0.0002212569516824,0.5,0.0,0.0012105912901461,0.0003973952843807,0.0004212016938254,False
-"well, i've never had dog and i've always wanted one",0.11407687,9.933316540375758e-05,0.5,0.0,0.0012217776384204,0.0012836684472858,0.0005211465177126,False
-so this is my first,0.023117077,0.0177314915758442,0.375,0.0,0.0024658755864948,0.0004495232424233,0.0003739551175385,False
-"i'm like, want a? so? yeah, um-hum sure, well that, and they like tuesday when we were blessed with the turn of events of weather",0.059728492,0.9450643785010246,0.25,0.0,0.0007517815101891,0.0004512521554715,0.0006329187890514,False
-there she came in and i didn't,0.033246122,0.9970795512918555,0.5,0.0,0.0010579092195257,0.0007313102832995,0.0006886422052048,False
-i was reading a book and i let her out and i let her back in and i started reading again and i'm looking around and here's mud,0.15130237,0.976567148325725,0.5,0.0,0.0084115453064441,0.0017017419449985,0.0032476054038852,False
-"so it's kind of good in a because it kind of well yknow i, you live here",0.0765103,0.0633373952739944,0.2454545454545454,0.0,0.0036922830622643,0.0005498750251717,0.0008143045706674,False
-"it's not the big of a deal, yknow, because i know my sister would freak",0.29261994,0.9789440511980956,0.5,0.172,0.2258143424987793,0.2026899009943008,0.1730276942253112,False
-"i'm like and believe it or not, uh, they're not really",0.058929358,0.9998964944244084,0.55,0.0,0.0009841828141361,0.0011690334649756,0.0007171109900809,False
-"i wouldn't call them neat freaks, but um, we tease them because my parents and her live within a couple miles of each other in dublin",0.31714454,0.0036704394394331,0.4971590909090909,0.204,0.0009021212463267,0.0110558355227112,0.2370362132787704,False
-"you have to take off your shoes when you go in, which is really",0.092262976,0.0107071794185257,0.4,0.0,0.0574995204806327,0.0008965146844275,0.005950829014182,False
-it's amazing how good their carpet looks just from doing that,0.089041,0.0089766126872026,0.175,0.0,0.0005671494291163,0.0006400207639671,0.0016533219022676,False
-"but when you have a dog, why bother? um, and they won't allow dogs, so not allowed to go over there",0.09065199,0.9551521338242154,0.5,0.212,0.0105842361226677,0.00321278674528,0.0010215732036158,False
-"so she's always like, but it does make a big difference, so i guess that's what i'm saying for them",0.037023053,0.0127727906879434,0.5,0.0,0.000657319673337,0.0004216910747345,0.0008129257475957,False
-"it'd almost be better if they let the dog go over, because yknow she's gonna bring in mud",0.2995453,0.9997968334267756,0.25,0.0,0.0398097820580005,0.0174934770911932,0.0126494150608778,False
-and and it's not gonna be perfect,0.040284947,0.9936819874787164,0.0,0.333,0.0049692075699567,0.0005428119329735,0.0006738779484294,False
-"maybe knock something over yknow, kind of start with her, but you have to go home",0.23803931,0.9739616867838432,0.2,0.0,0.1497772186994552,0.1251572370529174,0.2412016093730926,False
-"yknow what i mean to let her out, and that's kind of like",0.16620636,0.9696667269480596,0.428125,0.0,0.003787608584389,0.0022090098354965,0.0432688146829605,False
-"i mean, of course a kid you can't put in a yard, and for hours like i did this morning, but exactly definitely it would",0.08581903,0.0002659017406937,0.578125,0.0,0.0039905169978737,0.0018220979254692,0.0018242569640278,False
-"it would be nice, but no, um, yeah, yeah, yeah, i think so",0.053335425,0.998915560789215,0.2,0.0,0.0006271512829698,0.0004284609749447,0.0007012281566858,False
-"yeah, yeah, oh, um-hum yeah, um-hum yeah, yeah, to sit on it",0.13969667,0.0039318707406397,0.5,0.0,0.0008668705122545,0.0040711835026741,0.0026838609483093,False
-"she's not allowed on the couch, but we had caught her last winter on the couch",0.17759849,0.025792230423856,0.5,0.0,0.0024594163987785,0.0018453361699357,0.0050095617771148,False
-"yknow you come home and it's warm and hey, there's a doggy bone bone up here, so we've even been known to slightly start pulling out",0.2224569,0.0008623775799949,0.3916666666666666,0.0,0.0182241015136241,0.0012233572779223,0.0317495986819267,False
-"yknow, let the garage door go down",0.047495455,0.9382062772838372,0.5777777777777778,0.0,0.0577822178602218,0.0013251757482066,0.0018683928065001,False
-"i'd sneak out of the car and run up to the window and knock on the window, and she's on the couch and she's like i'm caught",0.33341047,0.0153821266107142,0.5,0.0,0.1332945674657821,0.0538358576595783,0.0982357561588287,False
-"yeah, oh, we have fun, anybody, see that",0.06332459,0.0017289275701778,0.35,0.0,0.0006843640585429,0.0004372478870209,0.000993282883428,False
+"text, because the problem with guns, in my opinion, is you don't have to think to use it",0.08850401,0.9987850785255432,0.0,0.137,0.0186337400227785,0.0172195062041282,0.001811260706745,False
+"it takes yknow, you don't have to sit there and load it, and in a split second i think we, we all are capable of shooting somebody",0.37360558,0.0,0.0,0.0,0.0017654643161222,0.2446179240942001,0.6124942302703857,False
+"for whatever reason, yknow just stupidity or whatnot",0.5851118,0.9999023675918579,0.6,0.293,0.8217557668685913,0.9859026670455932,0.9879312515258788,False
+i don't,0.018325835,0.9894475936889648,0.0,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
+"just in a split second, yknow we, we might have that once in a life where we can kill somebody that quickly and you can't go",0.40326482,0.5632252097129822,0.0,0.158,0.4451383054256439,0.5528542399406433,0.7151994109153748,False
+"oh, yknow, i didn't mean to do that",0.03221605,0.9996926784515381,0.3125,0.0,0.0013413963606581,0.0003788523899856,0.0006166649982333,False
+"yeah, well, exactly, i mean, there are split seconds where you just wanna shoot somebody",0.46786317,0.9893949627876282,0.3125,0.128,0.5204348564147949,0.6258769035339355,0.7848799824714661,False
+"unfortunately, anybody that says that i, i mean, i'm i don't even like stepping on ants, but there's those moments where you're like, yeah, yeah, and yeah, so i, no, no, yeah, unfortunately, well, some people have to",0.23277332,0.9981746673583984,0.4375,0.121,0.0080545134842395,0.000612981559243,0.0023994492366909,False
+"i mean, yknow, the police, and what not? they're required to carry a gun, but um, almost every kid i know that has has had a gun",0.084745035,0.0,0.3125,0.161,0.0017643931787461,0.0017755925655364,0.1043926998972892,False
+"even if they keep a gun hidden here and the bullets hidden over here, they find out a way to get to them",0.2590451,0.7653788924217224,0.1666666666666666,0.098,0.0294160582125186,0.1726083159446716,0.1385061293840408,False
+"and um, i dated a guy where we came in on his little brother and he was loading the bullets in the gun and he had them totally totally separate like that and kids know, and they're curious",0.2008281,0.9433849453926086,0.0958333333333333,0.056,0.0016349317738786,0.0050543434917926,0.0406269803643226,False
+"um, i don't know",0.02054715,0.9835572242736816,0.0,0.0,0.0007990184822119,0.0042907637543976,0.0005071435007266,False
+"i, i mean, i'm not for guns because i've i",0.06332459,0.0,0.3125,0.0,0.01759659871459,0.0021158321760594,0.0055672945454716,False
+"they scare the guns, don't scare me the people",0.15859914,0.0,0.0,0.249,0.1018159314990043,0.0026053762994706,0.0523803383111953,False
+"so no, unless they have them in a safe or something, they and my, i, just that protection",0.030670939,0.9736772179603577,0.0,0.0,0.0008315372979268,0.0007016757153905,0.0004641734412871,False
+like they said,0.017492844,0.0,0.0,0.0,0.0009161635534837,0.0004558935179375,0.0005165698239579,False
+"normally, you use it against somebody you didn't mean to use it on and somebody else comes into your house with a gun",0.2008281,0.996462881565094,0.08125,0.098,0.1469376534223556,0.0988486781716346,0.2299136668443679,False
+"let's face it, are you gonna have the peace of mind to go get it? i'd rather just have a bat by my door or something",0.27045983,0.9930267333984375,0.0,0.0,0.0861730277538299,0.0798205360770225,0.2763229310512543,False
+"um, so um-hum um-hum no, thank goodness or if i did, i blanked it out",0.13017663,0.9999140501022339,0.0,0.0,0.0007576275384053,0.0177911035716533,0.0060787578113377,False
+"um-hum yeah, yeah, right, um-hum um-hum yeah, um-hum um-hum well, theyorthe, i, yeah, but let's face it, the people that have the real good guns are the meaning, crime and whatnot, um, i don't have a problem with people having guns, but we don't need sixty guns per person or whatever the ratio is",0.14508054,0.9093905687332153,0.0,0.073,0.0119131747633218,0.0009176714811474,0.0019690636545419,False
+"it's something ungodly like that and they keep making them and i mean, yeah, there was a time it was a part of our culture",0.14328592,0.9474613666534424,0.3125,0.0,0.0008370177820324,0.017007328569889,0.0027694362215697,False
+we did need to hunt to eat,0.05133759,0.9316142797470093,0.0,0.0,0.0199981462210416,0.0045893522910773,0.001101897098124,False
+"um, i have friends that bow and arrow hunt",0.1550967,0.0,0.0,0.0,0.0022160608787089,0.0006421366124413,0.0044041988439857,False
+"i'm not real big into hunting, but at least they're they have to do something besides sit there",0.09763293,0.0,0.15,0.0,0.0009821034036576,0.000859900843352,0.0016640755347907,False
+"and um, plus, if they shoot somebody accidentally, number one, it's really hard to",0.33859563,0.9844071865081787,0.2916666666666667,0.365,0.0485230311751365,0.2731023728847503,0.2299154251813888,False
+"and secondly, it probably won't kill them like a gun",0.45811868,0.9997084736824036,0.0,0.296,0.3688274919986725,0.746090829372406,0.5657976269721985,False
+can,0.02054715,0.0,0.0,0.0,0.0012172074057161,0.0025542911607772,0.0028155646286904,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"and you have to use your brain, so i didn't come from a hunting background",0.44805592,0.9658253192901611,0.0,0.0,0.4482098519802093,0.555077850818634,0.5032219290733337,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"but my husband does work for the state highway patrol, so obviously we know a lot of people that have to carry guns, but none of them",0.036679696,0.0,0.0,0.0,0.0022055085282772,0.0007173854974098,0.0007267752662301,False
+hardly any of them hunt,0.06532243,0.9721419215202332,0.2916666666666667,0.0,0.0348950549960136,0.0022380701266229,0.0008071089396253,False
+"um, and a lot of them they respect them",0.032731086,0.0,0.0,0.0,0.0006305258139036,0.0004356363788247,0.0004236880049575,False
+"if yknow what i mean, they realize they can kill people",0.44805592,0.5687234401702881,0.3125,0.32,0.572598397731781,0.6737209558486938,0.5971840620040894,False
+we do get some of the yknow machismo people that just wanna go out and shoot things,0.49688783,0.66221684217453,0.0,0.13,0.428661972284317,0.3584083020687103,0.7445787787437439,False
+"and yeah, yeah, i, i, yeah, i don't",0.022074303,0.5542656183242798,0.0,0.0,0.0011256036814302,0.0010565534466877,0.0008176612318493,False
+it's not the guns,0.05093802,0.9918124675750732,0.0,0.0,0.0017687145154923,0.0006520165479741,0.0008837836212478,False
+that's the problem,0.05653196,0.9966495633125305,0.0,0.574,0.0160590019077062,0.0007612939225509,0.0014617827255278,False
+it's the people that are teaching,0.033074442,0.0,0.0,0.0,0.0012653724988922,0.0004422224883455,0.0007641619886271,False
+"um-hum oh, exactly",0.025863936,0.989732563495636,0.0,0.0,0.0007413433631882,0.0007673384970985,0.0008004763512872,False
+i'm planning on just staying in the house if i can or whatnot,0.018881164,0.9937201738357544,0.0,0.0,0.0072241919115185,0.0010220761178061,0.0006898994324728,False
+"yeah, oh yeah, yeah, i know, i mean, we're gonna get some water and whatnot because you don't know",0.05493369,0.9649226069450378,0.3125,0.0,0.0046078767627477,0.007778356783092,0.0072687277570366,False
+people might turn things off like you said,0.04783881,0.9057083129882812,0.0,0.0,0.0007774571422487,0.0008389253052882,0.001663148170337,False
+"so yeah, i think, um, as a whole, we've all kind of gone our separate ways, which is scary mean we don't have the same belief system in anything anymore, so it's kind of like",0.054534122,0.9733223915100098,0.0,0.08,0.0007563395192846,0.0004083713865838,0.0003951741673517,False
+"oh, geez, definitely, definitely",0.06931809,0.0,0.0,0.0,0.0014934359351173,0.0003776894009206,0.0014173067174851,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i haven't personally researched it, but i have seen",0.0186035,0.0,0.0,0.0,0.0005795462639071,0.0003473309043329,0.0002781789225991,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i would personally research it if i was president, um, documentaries and whatnot and things on twenty twenty, which i don't whole whole heartedly believe, just because it's on tv and they say it's so, but if it is true, and it probably is just because a lot of people will research it once it's on tv",0.03616466,0.5977739095687866,0.0,0.0,0.0005826048436574,0.0004330188676249,0.0005168725037947,False
+"um, that three strikes and you're out has really seemed to work in california because most of the people that are committing the violent crimes with guns or rapes, or what not, um, are doing most of the crime, so once they're locked up, yeah, it costs more money to house them for life, but they're saving so much because crime has gone down, because these people are in jail and not on the streets anymore, so they don't have to catch them",0.23189566,0.0,0.0,0.155,0.0336084477603435,0.0194418616592884,0.0317934937775135,False
+they don't have to process them,0.032731086,0.0,0.0,0.0,0.0007130117737688,0.0005625959602184,0.0006647345726378,False
+etcetera,,0.9554741382598877,0.0,0.0,0.0013011804549023,0.0005984956515021,0.0038895038887858,False
+"um, so i would really like to see that and plus, i think once that really is in works, the works and really working",0.026722329,0.0,0.0,0.0,0.000564363959711,0.0004285594332031,0.0002368465502513,False
+and we're really do,0.019852988,0.0,0.0,0.0,0.0014982575085014,0.000333460222464,0.0009150808909907,False
+we're gonna say we're doing instead of like little parents,0.05653196,0.0,0.1875,0.0,0.0178828760981559,0.0017961893463507,0.0043782233260571,False
+"no honey, don't do that",0.07211506,0.9982361793518066,0.0,0.355,0.0050286906771361,0.0005503301508724,0.0008151733782142,False
+"no, honey, don't do that",0.050242316,0.9930160045623779,0.0,0.0,0.0046184374950826,0.0005226543289609,0.00083234149497,False
+yknow,0.02054715,0.6234837770462036,0.0,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
+"what i mean because i think that's part of our problem, too",0.05133759,0.5917733907699585,0.3125,0.197,0.0008925041183829,0.0003938079171348,0.0012052676174789,False
+"um, yeah, exactly, um",0.021380141,0.0,0.0,0.0,0.0007618679665029,0.0005241052713245,0.0026606330648064,False
+i think that would deter people,0.09065199,0.9914435744285583,0.0,0.0,0.0019329653587192,0.0087467934936285,0.0178321190178394,False
+"um, you get one strike and you're like uh, oh, um, maybe i better clean up my act, um-hum um-hum um-hum um-hum um-hum sure, no, no, but hopefully when they do get the one strike somebody, i say somebody, because i right now, i don't really think we have that in place, but we would need more of a um, one strike stepping stone, yknow, and i think let's face it, counseling's probably not gonna work",0.28972426,0.9999861717224121,0.0,0.057,0.0175868496298789,0.024456663057208,0.0489486306905746,False
+"uh, and somebody in that it would almost take",0.043718524,0.9965348243713379,0.0,0.0,0.0006343827117234,0.000579156097956,0.0018619061447679,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i do personally know people that go into that type of environment here in columbus and actually work with the families and work with the kids and actually are in there living there showing them yknow,0.045091953,0.0,0.0,0.0,0.0014959686668589,0.0004560182860586,0.0003583139914553,False
+it's one thing to go help them and then leave that and go home to your nice house,0.058929358,0.9878188371658325,0.0,0.055,0.0014804678503423,0.0033747323323041,0.0062740040011703,False
+i don't,0.018325835,0.9894475936889648,0.0,0.0,0.0012363949790596,0.0008526210440322,0.0004738401039503,False
+"unfortunately, i admit it, i couldn't do it, but um, if people really did things like that, i think there'd be help for them because they're actually friends or actually people that have been in that environment and come out those type of people i think might be able to reach them",0.038911518,0.9945151805877686,0.0,0.028,0.0005397756467573,0.0003894377150572,0.0003820547426585,False
+i won't be able to reach them,0.059328925,0.9999867677688599,0.0,0.0,0.0022325059399008,0.0149426218122243,0.0066539719700813,False
+"probably just because what do i know about it? word word, um, i'm yeah",0.034791227,0.0,0.0,0.0,0.0006249614525586,0.0005838861688971,0.0010434028226882,False
+i agree,0.012772553,0.0,0.0,0.0,0.0006200664793141,0.0004531876766122,0.0004195038927718,False
+i don't think it'd be a deterrent at all initially,0.019436494,0.9987080097198486,0.0,0.0,0.0007746960618533,0.0004504449898377,0.000494523323141,False
+but if we had more things in place and somebody actually realized the background and tried to get them out of that,0.029469188,0.9802044034004211,0.0,0.0,0.0006200265488587,0.0003707230789586,0.0003024207544513,False
+"hopefully, even if you save half of them, it's better than than anything",0.14059398,0.0,0.0,0.0,0.001845916849561,0.0021235742606222,0.0034105430822819,False
+"um-hum um-hum ours does that, too",0.043375164,0.6368950009346008,0.0,0.0,0.0018553795525804,0.0011563671287149,0.0017835574690252,False
+they're great,0.034962907,0.0,0.0,0.0,0.0006833288352936,0.0003298944211564,0.001167006441392,False
+sounds a lot like our dog,0.2406723,0.0,0.0,0.0,0.0015227956464514,0.0028823539614677,0.0203981753438711,False
+"yeah, my sister and her husband just moved back",0.03856816,0.0,0.0,0.0,0.0010004071518778,0.0052168709225952,0.0013184405397623,False
+"they went out to nebraska for a year, and then yeah, i got the opportunity",0.029812546,0.0,0.0,0.0,0.0006079443846829,0.0003749624884221,0.0004622806736733,False
+"um, a a company that my sister had worked for wanted her to come back and so they offered to move them back",0.03444787,0.9486600160598755,0.0,0.0,0.0006817763787694,0.0009769807802513,0.0005670791724696,False
+"and um, it kind of worked out because her husband was losing his job",0.0669207,0.9185627698898315,0.0,0.167,0.0060169561766088,0.002405505394563,0.0030873825307935,False
+"any, how? just kind of one of those",0.0224908,0.999919056892395,0.0,0.0,0.0009048268548212,0.0004154157359153,0.0016150667797774,False
+"okay, let's do it",0.036679696,0.9326573014259338,0.0,0.0,0.0008587070624344,0.0005751807475462,0.0007022442878223,False
+"and so um, my parents retired here",0.02637897,0.9589265584945679,0.0,0.0,0.0009363073040731,0.0008273302810266,0.0004415281000547,False
+let's see they've been here,0.02397547,0.0,0.0,0.0,0.0007359858136624,0.0004736560513265,0.0017440435476601,False
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+"four or five years maybe, and my sister was here like i said, and then moved out",0.03187269,0.5060641765594482,0.0,0.0,0.0008354273159056,0.0008689938695169,0.0006752469926141,False
+just gotten came back a couple months ago,0.023460433,0.8936681151390076,0.0,0.0,0.0007528049172833,0.0003524019848555,0.0003613040607888,False
+"um, my grandfather just passed away, but he was here in a nursing home for about a year, um, indirectly, yes, um, the reason my sister was here only when i got here, but i was in one of those yknow youth, stupid, uh, psychopathic relationships, shall we say, and i kind of needed to disappear, and um, uh, we never told him where she",0.4292556,0.9467185735702515,0.0666666666666666,0.096,0.024200577288866,0.9435864686965942,0.7264689207077026,True
+she had just moved,0.043031808,0.0,0.0,0.0,0.0010466380044817,0.0007079964852891,0.0008201168966479,False
+"um, so i just came down here then, so was one of those things get away from it all? yeah, yeah, so um, i came down here because he knew where my parents lived, and plus columbus was a lot more opportunity",0.059728492,0.0,0.0,0.0,0.0008303397335112,0.0004150292370468,0.0004254116502124,False
+"so indirectly, it was a very bad reason that i came here, but it worked out yknow, so right exactly? oh, um-hum well, i even had that",0.17380224,0.0,0.1247619047619047,0.08,0.0008667673100717,0.0004336046113166,0.0010012371931225,False
+i mean my family,0.015549194,0.0,0.3125,0.0,0.0011262809857726,0.0004743055615108,0.0004388488887343,False
+"oh, my sister said, if you didn't leave him, i was gonna staple your hair to the",0.33859563,0.933700680732727,0.0,0.0,0.7242259979248047,0.1306311786174774,0.2626796066761017,False
+"but, um, she was joking",0.0753116,0.8661397695541382,0.0,0.0,0.0008314941660501,0.0006863113958388,0.002002771012485,False
+"she wasn't kidding, though, because yknow, it's just one of those",0.058929358,0.9420009851455688,0.0,0.115,0.0012634383747354,0.0007150589372031,0.0041869729757308,False
+"oh, i can help him, yknow, i've learned i'm the caretaker",0.07970683,0.0,0.0,0.0,0.0009079125011339,0.0006621904321946,0.001442490844056,False
+"like i roll my eyes, you can't change people that much stupid",0.83020335,0.0,0.7999999999999999,0.214,0.9429840445518494,0.9948750138282776,0.9923651814460754,True
+"but um, yknow, it's weird because it was terrible, but because he was real controlling and yknow, you start to doubt yourself",0.1785852,0.7941960692405701,0.4333333333333333,0.332,0.0172329228371381,0.0683488771319389,0.0222797393798828,False
+"like did i say that right, and like he wouldn't let me sleep",0.076110736,0.0,0.0,0.0,0.0030284237582236,0.0025457018055021,0.0015054245013743,False
+so then you start to lose that yknow,0.14822112,0.9971219897270203,0.0,0.278,0.0653254985809326,0.0010376796126365,0.0013812008546665,False
+"what i mean? you? really? you start, really, do start to lose your mental",0.4292556,0.999725878238678,0.0031249999999999,0.2,0.7811766862869263,0.384035050868988,0.8209853768348694,False
+"yeah, woo, and um, um, yknow",0.031357653,0.5287908315658569,0.0,0.0,0.001272203400731,0.0004981281235814,0.0009376571397297,False
+"at the time i was like i'm not gonna get anything out of this and it was misery and ugh, what not",0.22978203,0.999854326248169,0.0,0.232,0.024951858446002,0.0673906728625297,0.0119060045108199,False
+"but i've met people that have been in much worse situations, and at least i can kind of relate to them so in a way, in one way, it's kind of a blessing",0.02637897,0.0,0.0,0.105,0.0006124609499238,0.0003358580579515,0.0004301841254346,False
+"so yeah, um-hum yeah, yeah, yeah, um-hum yeah, oh yeah, yeah, yeah, it's very fortunate i",0.080905534,0.0,0.0,0.0,0.0006965548964217,0.0006999499164521,0.0015447748592123,False
+my sister has an undergrad in psychology and she worked at,0.02517722,0.0,0.0,0.0,0.0006956596043892,0.00109013391193,0.0011696545407176,False
+"like, um, one of those",0.022773718,0.0,0.0,0.0,0.0012861515861004,0.0004344267072156,0.0019073352450504,False
+"what do you call them? those secretive houses like for women and their battered children that yknow you're not supposed to location, and what not? and she used to get so frustrated",0.2835225,0.9832783341407776,0.7,0.127,0.1463669687509536,0.0069056167267262,0.0352320969104766,False
+"um because they'd always go back, and i understand that mentality now because i went back, but i'll tell you the reason i left stupid sound stupid",0.67902285,0.9990018010139465,0.1999999999999999,0.269,0.6261740922927856,0.9942535758018494,0.9736797213554382,True
+"but he took my teddy bear, which i loved, and not since i was a child, but at least five years at that time, and he just he knew i loved it and just took it and ripped it, and and that split second i was like okay, he's gonna do this to me",0.21539254,0.0,0.0,0.0,0.009442045353353,0.0006401811842806,0.0017470379825681,False
+he's gonna do this to my kids,0.12695669,0.6643760204315186,0.0,0.0,0.2507752180099487,0.0824568644165992,0.0011199429864063,False
+"ain't no way, um-hum wow, um-hum yeah, it is",0.0765103,0.0,0.0,0.0,0.0013793546240776,0.0011419898364692,0.0014950180193409,False
+that's important right,0.01721518,0.0,0.0,0.0,0.000689566892106,0.000341604638379,0.0005877068033441,False
+"even though it's an inanimate object, it all kind of came together right and i was glad i realized that i, nobody would ever mess with my children, not even their father, my husband or whatever, and i realized that so it was like ok, i'm not gonna do it for me, but i'm gonna do it for the future and and that helped because like i said, it all came together because i don't understand how people can let their kids be hurt, but i'm i'm not built that way",0.09816993,0.0,0.0,0.064,0.0020285760983824,0.000783159979619,0.0007184363203123,False
+"yeah, yeah, um, um-hum um-hum yeah, sure, yeah, yeah, um-hum um-hum yeah, it's always kind of scary",0.08170467,0.0,0.0,0.125,0.0009644373203627,0.0022373218089342,0.0013959674397483,False
+i think you really need to get away from that to get your self back or you're just gonna go back because you don't know any other way at the time,0.16827796,0.8273213505744934,0.0,0.0,0.0609402023255825,0.0391603037714958,0.0022169477306306,False
+"um-hum, yeah, right right, but that helped me just getting away",0.07690986,0.0,0.0,0.0,0.0008014715858735,0.0005498501122929,0.0016867265803739,False
+getting my mind cleared doing a little bit of reading,0.03616466,0.0,0.1875,0.0,0.0007600670214742,0.0005584211321547,0.0007985035772435,False
+"going, wait a minute",0.02929751,0.9976589679718018,0.0,0.0,0.0011164778843522,0.001490322407335,0.0007439980981871,False
+"yknow, uh, so obvious, hello, but oh yeah, but just that freedom, yknow to do what you want to get some sleep to eat, to take care of yourself to do a little investigation on your own, to pray about it, what not? and then it's really clear, but if you don't get that and you're always thrust back into it, i don't think you can break free, so yeah, that's true",0.16151784,0.0,0.0,0.0,0.0063201803714036,0.0009876695694401,0.0007701823487877,False
+"yeah, um-hum yeah, yeah, yeah, yeah, um-hum um-hum um, no, which is i'm very grateful he did like go past my parents' house and things like that, but then they moved here, and even though it's public records, like who owns a house? um, luckily we haven't had that because we purchased the house my husband and i before we were married, and then moved in after we were married, so the deed has my maiden name on it, but uh, no, luckily, and that's been almost ten years, so hopefully hopefully no, i'd just uh, basically got out of a a a relationship",0.2088965,0.966816246509552,0.0,0.0,0.001431715558283,0.000614270218648,0.0006714058108627,False
+it was like a rebound type thing,0.036508016,0.9980936646461487,0.0,0.0,0.0007585959392599,0.0005029461462981,0.0006146251107566,False
+"um, i was in a relationship for like three years, and um, he was cheating on me and so i felt really bad",0.28683078,0.9978475570678711,0.6999999999999998,0.247,0.0246781203895807,0.0395709872245788,0.0616037845611572,False
+and why does he pick her? and and then i met this guy who seemed wonderful and then turned out to be not so wonderful,0.111500904,0.9898144006729126,0.0,0.124,0.0013810213422402,0.0007566880085505,0.0004729367210529,False
+so i made a yknow,0.027409043,0.9986971020698547,0.0,0.0,0.0048270020633935,0.0005642999894917,0.0004263450100552,False
+you look back and you see things you were like,0.03461955,0.0,0.0,0.0,0.0040481314063072,0.0025818345602601,0.0033960200380533,False
+"this is real obvious, but at the time i think you, i was like, um, a, i can either change them or if they love me, we can communicate and change things and yknow that type of thing",0.02655065,0.0,0.0,0.0,0.0008158377604559,0.0009475933038629,0.0005140373250469,False
+"yeah, right, first of all, they're not really in love with you and so when i came here, um, i didn't date for over five years on purpose",0.09655894,0.9983618855476379,0.0,0.112,0.0184272117912769,0.0073343920521438,0.0150695703923702,False
+"i don't think it was supposed to be that long on purpose, but i wouldn't let myself date for a couple years after just trying to figure out yknow",0.04783881,0.9979852437973022,0.05,0.0,0.000840451568365,0.0005459433305077,0.0003739189414773,False
+"okay, this is what i'm doing wrong",0.06532243,0.998146653175354,0.0,0.31,0.0009089213563129,0.0005921690026298,0.0017534488579258,False
+"let's not do it again, di di di di deh, and then asked me out for a few more",,0.9999958276748657,0.0,0.0,0.0148064484819769,0.0046437699347734,0.0163986943662166,False
+"yeah, so that, uh, so i really hadn't dated for a long time, and then i started dating again",0.084745035,0.0,0.0,0.0,0.0015664151869714,0.0004721767909359,0.0008743268554098,False
+and what's weird is you almost go right back in to the patterns because you're so scared you're gonna be alone,0.1473238,0.0,0.0714285714285714,0.292,0.1939343363046646,0.0038590391632169,0.0057631963863968,False
+you see yourself going,0.03994159,0.0,0.0,0.0,0.0012206464307382,0.0009457137202844,0.0018034144304692,False
+"oh, i can be with this person and you know, in your head this not for and then, luckily, um, indirectly, i met my husband four four years ago",0.14283726,0.0,0.0,0.0,0.0040090251713991,0.0070975576527416,0.0051648244261741,False
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,0.0010861124610528,0.0019429659005254,0.0003481701423879,False
+it's been awhile four and a half years ago,0.0186035,0.5706095695495605,0.1666666666666666,0.0,0.0006605428061448,0.0003369577752891,0.000490138772875,False
+"something like that, so yeah, yeah, right, yeah, it was like, oh, this makes sense and he might have these other wonderful things that i'm used to, but he's got all of so",0.056931525,0.0,0.0,0.052,0.0008489793981425,0.0003989530669059,0.0006301149260252,False
+i'll get that little slice and take the so that worked out,0.09763293,0.0,0.1875,0.0,0.000709536136128,0.0004372762632556,0.004597133025527,False
+"um, um, actually, i think it needs to probably start younger than that",0.047495455,0.9906054139137268,0.0,0.0,0.0006779726827517,0.0018053270177915,0.0013510764110833,False
+it's weird,0.08420804,0.9928648471832275,0.5,0.63,0.0029868432320654,0.0009358262177556,0.0019368531648069,False
+i,0.018187003,0.0,0.0,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i wish they would make it,0.051737156,0.9106418490409851,0.0,0.0,0.0009707027347758,0.0057679335586726,0.0005907698650844,False
+i don't wanna say free,0.06931809,0.9673489332199097,0.0,0.403,0.0013984678080305,0.0016263664001598,0.0006088127265684,False
+"well, i think they do make it free",0.040628307,0.9324638247489929,0.0,0.0,0.0006402913131751,0.0003755674697458,0.0005678980378434,False
+"um, and i hate to say it, but a little bit easier access",0.19936113,0.0,0.49375,0.141,0.0005881040706299,0.0021766887512058,0.0005493522039614,False
+"um, because i don't think it'll cause people to have more sex",0.3897107,0.6943528652191162,0.0,0.0,0.4116050601005554,0.5066193342208862,0.6056389212608337,False
+i think they're gonna have it anyhow so it would only be better and safer for them,0.04131502,0.5716239809989929,0.0,0.0,0.0006092959665693,0.0008493560599163,0.0005134408711455,False
+"yeah, um-hum um-hum the shot, okay, um-hum okay, um-hum um-hum yknow, we were my husband and i were just talking about this",0.16965903,0.0,0.0,0.0,0.001630448619835,0.0227597132325172,0.0036605750210583,False
+"i was saying, i'm not in for the yknow, george orwell, nineteen eighty four and big brother syndrome at all",0.094410956,0.9999430179595947,0.0,0.0,0.0013964574318379,0.0006930705276317,0.0021783143747597,False
+"um, my ideal situation would be that somebody decides who should have kids and who's not, but i don't think god's gonna come down and do that",0.06971766,0.9765265583992004,0.0,0.0,0.0020709715317934,0.0008936239755712,0.0006356796366162,False
+"we can't really decide that, but to be honest, i'm for it",0.021380141,0.0,0.0,0.0,0.0005985366879031,0.0004391323891468,0.0003959301975555,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+it doesn't have to be well,0.034104515,0.9998524188995361,0.0,0.0,0.000865141802933,0.0004048572736792,0.0004347719950601,False
+i'm not even sure tubes tied is is pretty permanent,0.06931809,0.9997316002845764,0.0,0.149,0.0006902401801198,0.0017077032243832,0.0007410213002003,False
+"um, but even if they could do something like on a yearly basis and give them two hundred dollars a year, that's still not still much cheaper than them having kids, um, and then if they would, i'd give more money if they'd clean up their act just for them",0.13082063,0.9939034581184387,0.0,0.0,0.0015495871193706,0.0007855087169446,0.0005663410411216,False
+"um, as far as it being racist, i don't think i think they're missing the point",0.23189566,0.9634206891059875,0.05,0.307,0.0014248181832954,0.0302834752947092,0.0298620257526636,False
+"the point because i'm sure there's some runaway white teenage girls out there too, or mexican, or what? not? um think the point is they're on drugs yknow and i don't",0.39230084,0.9993756413459778,0.0,0.0,0.2633273005485534,0.133767619729042,0.1906018406152725,False
+"yeah, i'm not",0.019436494,0.9966580867767334,0.0,0.0,0.0010873216670006,0.0008034334168769,0.0004407858650665,False
+i don't consider myself racist at all,0.1464265,0.9973871111869812,0.0,0.0,0.017752630636096,0.0181328766047954,0.0048196157440543,False
+"it is that that's what's happening, but it's just one of those things that you hate to say",0.14597784,0.7302160859107971,0.8,0.229,0.0092135919257998,0.0101465145125985,0.0063049979507923,False
+yeah,0.02124131,0.0,0.0,0.0,0.0015659044729545,0.0005244363564997,0.0006040357402525,False
+i'm for it because you sound like it's like everything is specific and permanent,0.022773718,0.0,0.0,0.0,0.0007095895707607,0.0005009464803151,0.0011010786984115,False
+"yeah, i kind of have a problem with that, um, because they might change their mind, but then again they can always adopt yknow, and i kind of look at it that way there's enough kids out there that need love and you don't",0.05133759,0.0,0.0,0.036,0.0053312163800001,0.0008805596735328,0.0006432299269363,False
+"yeah, yeah, um-hum yeah, um-hum yeah, yeah",0.0066986484,0.0,0.0,0.0,0.0010075666941702,0.0006721257232129,0.0009762084810063,False
+"which cracks me up, because if you've ever looked at the parents of models, they're not necessarily all that",0.14418322,0.9960657954216003,0.0,0.0,0.0014156070537865,0.0006757327355444,0.0006744764978066,False
+"yeah, yeah, yeah, yeah, i know, yeah, i do",0.028610796,0.0,0.0,0.0,0.0010540611110627,0.000390068773413,0.0007662858697585,False
+"too, um-hum um, not to sound like a broken record, but i really think it's our uh, backslide on on family units",0.04165838,0.0,0.0,0.153,0.0007425818475894,0.0122438240796327,0.0015658931806683,False
+i think it's too easy to stay,0.049212243,0.9998323917388916,0.0,0.0,0.0007995660998858,0.0004958298522979,0.0003991992271039,False
+"i and i've been married and divorced, so i've unfortunately had that experience to me",0.055333257,0.9710832238197327,0.125,0.161,0.0006441412842832,0.0004441969795152,0.0003304956771899,False
+"um that it's too easy to get divorced, um, people don't really go into marriage with commitment and lifetime and have that",0.057331093,0.9899508357048035,0.0,0.0,0.0032695573754608,0.0007657828973606,0.0008289460092782,False
+"i don't wanna say old fashioned values, but just the value of this is very important",0.055333257,0.0,0.0,0.0,0.0005909426836296,0.0004007648094557,0.0003562838537618,False
+"um, because lets face it to to me, love is a choice because there's times when i don't love my husband",0.09279997,0.0,0.0,0.127,0.0049020876176655,0.0032904669642448,0.0010630069300532,False
+i wanna smack him and he's being a little barney,0.5818954,0.9835246801376343,0.1875,0.0,0.953965187072754,0.7640308141708374,0.8255663514137268,False
+"but i choose to be in love with him because i made that choice and then that passes and lo and behold an hour later week later, what happens takes",0.15684792,0.0,0.0,0.0,0.0017048667650669,0.0012251327279955,0.0126740699633955,False
+i'm in love with him again,0.05773066,0.0,0.0,0.0,0.0112727312371134,0.0033809556625783,0.0091712083667516,False
+"i mean, really, yknow what i'm saying, and um, i think it's just too easy to get divorced",0.055732824,0.9938076138496399,0.0,0.0,0.011091667227447,0.004955431446433,0.0012215262977406,False
+"i don't believe in staying in a marriage for the sake of a just children, but i think if you really make that commitment and actually work on it, you can have a great relationship",0.09978092,0.0,0.0,0.0,0.0008960510022006,0.0005265726940706,0.0005955605884082,False
+you can have have kids and bring them up in a more stable environment,0.08420804,0.0,0.0,0.0,0.0010408582165837,0.0007698455592617,0.0003513968840707,False
+"um, unfortunately, i think that's the problem",0.06332459,0.9866589307785034,0.5,0.505,0.0012714862823486,0.0007725493051111,0.0009288157452829,False
+"parents, um, are a either getting divorced and then they get caught up in their petty little things and start pitting the kids against each other, yknow, using the kid as a medium, um, or they're too selfish and don't listen to their kids or they didn't i, i don't wanna say selfish, but lets face it like we said yknow, even having a dog takes some time out of your schedule",0.26589394,0.9993879795074463,0.328125,0.045,0.0811647772789001,0.0675981193780899,0.0224607270210981,False
+"your schedule, your schedule, and um not, spend enough time with the kids, yknow, they're working",0.032559406,0.0,0.0,0.0,0.0118549307808279,0.0007667292375117,0.0009777061641216,False
+what not? and it takes a lot of effort to raise kids these days and actually listen to them and get to know them and let them grow and things like that,0.023803791,0.0,0.0,0.0,0.000972518872004,0.0005060982075519,0.0005801105289719,False
+"uh, and i don't think enough families are doing that",0.022773718,0.9360107779502869,0.0,0.0,0.0007346579222939,0.0011746349046006,0.0004491261497605,False
+"um, i think uh, some of it was that",0.03358948,0.9992467164993286,0.0,0.0,0.0007025964441709,0.0003919655573554,0.0009659003699198,False
+i think a lot of it is,0.0253489,0.0,0.0,0.0,0.0006597639294341,0.0003442940942477,0.0008079947438091,False
+you do feel lonely,0.089041,0.9283442497253418,0.0999999999999999,0.455,0.0107886176556348,0.0007734936662018,0.0062263384461402,False
+"um, you do go through a period in your life where you don't feel like you have any friends or you feel totally different",0.049898956,0.7387295365333557,0.0,0.078,0.0188998859375715,0.0010443332139402,0.0010386117501184,False
+"i mean, i through that",0.029469188,0.996593177318573,0.3125,0.0,0.0008826829143799,0.00036569457734,0.0008319434709846,False
+i think we all go through that at some point or other even yearly for some of us,0.023117077,0.0,0.125,0.0,0.0005868705338798,0.0003327035228721,0.0003420050779823,False
+"um, so i'm just saying if he felt like he could go to somebody either in his family, i say he 'cause using those, for example, or the parents paid a little bit more attention and didn't have that blind eye",0.1024659,0.9904795289039612,0.0625,0.0,0.0013780128210783,0.0026127183809876,0.0006578382453881,False
+"i think that's part of your responsibility as a parent that if you see something potentially evil or wrongdoing in your child's eyes, you need to really admit it",0.056931525,0.0,0.4,0.131,0.0062590232118964,0.0017848559655249,0.001346887438558,False
+"um, i mean, you don't wanna do that, but yeah, yeah, and his mom even signed for stuff",0.15451296,0.0,0.3125,0.0,0.005742544773966,0.0047738221473991,0.006317941006273,False
+i think,0.021518974,0.0,0.0,0.0,0.0007737225387245,0.0004390265094116,0.000335821066983,False
+"yeah, i mean yknow signing",0.027237365,0.0,0.3125,0.0,0.0008840160444378,0.000519324443303,0.0004511648148763,False
+"oh, here you go",0.034104515,0.0,0.0,0.0,0.0018905982142314,0.0007680355920456,0.0017098212847486,False
+"hun, um, you, the one i think is pretty obvious that the blind eye was something that shouldn't have happened",0.15451296,0.9969514608383179,0.0833333333333333,0.113,0.0182368028908967,0.0032517262734472,0.0037416699342429,False
+"the other one that, yeah, you, just let's face it at that age and at every age we want a leader",0.08796701,0.0,0.125,0.0,0.0017045771237462,0.0010481138015165,0.0016872623236849,False
+"um, and i guess it goes back if we choose to, or we know how to make better decisions for ourselves",0.02792408,0.976608157157898,0.0,0.0,0.0005758345942012,0.0004200213297735,0.0004109102301299,False
+we'll make better decisions of who's gonna lead us,0.046122026,0.9997382760047913,0.0,0.0,0.0007183514535427,0.0007769694784656,0.0004278137057553,False
+so i don't know,0.017006932,0.8991163372993469,0.0,0.0,0.000865975220222,0.0021880599670112,0.0004239892296027,False
+"i really, the",0.019019997,0.0,0.0,0.0,0.0012925846967846,0.0003702990070451,0.000677153293509,False
+"i think a lot of it's the family unit breaking down in general yknow, and secondly, i think, to be honest, i think the media's gotten a little carried away",0.064523295,0.9669626355171204,0.0,0.0,0.0008133274386636,0.0004160803800914,0.0007022781064733,False
+they sensationalize it,0.065721996,0.0,0.0,0.0,0.0012410909403115,0.0014778797049075,0.0007304479950107,False
+"um, and i do think yknow they know they're gonna get recognized",0.02929751,0.0,0.0,0.0,0.014006589539349,0.0005504985456354,0.0004347104404587,False
+they're gonna have their name go down in history,0.06851897,0.0,0.1555555555555555,0.0,0.0706157311797142,0.0079119689762592,0.0021713101305067,False
+"unfortunately, um, i think that has something to do with it, too",0.03616466,0.986357569694519,0.5,0.179,0.0006899905274622,0.0003229320864193,0.0006508657825179,False
+"um, it's frustrating to turn on the news",0.119872786,0.9738657474517822,0.4,0.293,0.0006367756868712,0.0009566967491991,0.0007652693311683,False
+they don't really cover,0.03753809,0.9999549388885498,0.0,0.0,0.0018765176646411,0.0006634702440351,0.0006653977907262,False
+my husband comes from a journalistic background and he'll be like that's not news,0.029125832,0.9946310520172119,0.0,0.0,0.0007872179849073,0.0033337322529405,0.0011206169147044,False
+yknow,0.02054715,0.6234837770462036,0.0,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
+what i mean? it's just we get,0.043031808,0.0,0.3125,0.0,0.0007538946811109,0.0004638934333343,0.0031676017679274,False
+so,0.023117077,0.9702109694480896,0.0,0.0,0.0025888974778354,0.0008246746147051,0.0006710737361572,False
+"ah, let's sit here and watch a plane crash for twelve hours instead of watching",0.22598907,0.9976792931556702,0.0,0.162,0.0091494992375373,0.0055413283407688,0.0033210134133696,False
+i don't know what little house on the prairie,0.011453647,0.0,0.1875,0.0,0.0008649794035591,0.0005882058758288,0.0008018723456189,False
+"oh yeah, right, right, and just going over it and over it and over it",0.123736724,0.0,0.0,0.0,0.0008039931999519,0.004241595044732,0.0052985334768891,False
+"then you get the shooting out in honolulu, and the next day there's another one",0.25676212,0.9629611968994141,0.0,0.0,0.0009187598479911,0.1169096529483795,0.0873541086912155,False
+it's just kind of like that syndrome,0.10892494,0.9998272061347961,0.0,0.0,0.0009894496761262,0.0044474550522863,0.0026474383193999,False
+yknow,0.02054715,0.6234837770462036,0.0,0.0,0.0052251992747187,0.0004265379102434,0.0005853753536939,False
+"well, at least i can be popular for fifteen minutes or whatever",0.06931809,0.7927696704864502,0.0,0.0,0.0006606864044442,0.0004442378412932,0.0007363889017142,False
+"um, i mean, i'm not saying not to cover it, but yeah, and then course, you have the whole gun control stuff",0.08796701,0.0,0.0562499999999999,0.12,0.0011200999142602,0.0009506933274678,0.00913549028337,False
+that's just ridiculous,0.43451136,0.9987084865570068,0.3333333333333333,0.556,0.6397923827171326,0.8431470394134521,0.8809020519256592,False
+"um, i think they might have tried any how, but obviously they wouldn't have been as uh, good at it, or yknow",0.0495556,0.9927505254745483,0.0,0.0,0.0008012406760826,0.0006681968807242,0.0014363101217895,False
+"what i'm trying to say, it wouldn't have been been as much distraction",0.060927194,0.9322307705879211,0.0,0.178,0.0008274232386611,0.0008232535328716,0.0044423779472708,False
+"because obviously the bombs is something, but to actually have that right there, i mean, have the access and what not? i mean",0.09279997,0.9297662973403931,0.0,0.0,0.0007365955971181,0.0018025931203737,0.0070531172677874,False
+"i guess the grandparents had the house locked and they broke in, but just the fact that they were there and they knew how to use them, and uh, that scares me because i didn't start dating until i was almost seventeen, but almost everybody else started had",0.07970683,0.0,0.0,0.098,0.0009011865477077,0.0005371273728087,0.0003904047480318,False
+even,0.01999182,0.0,0.0,0.0,0.0017037651268765,0.0003994681756012,0.000963027938269,False
+i'm gonna be thirty six here in a week or two,0.042001735,0.0,0.0,0.0,0.0029295119456946,0.0006121583282947,0.0006886376067996,False
+"so we're i graduated in eighty, where kids",0.02262963,0.7741916179656982,0.0,0.0,0.0007689151680096,0.0005106742028146,0.0006386293680407,False
+i think kids are starting dating at like ten,0.10828095,0.0,0.0,0.0,0.0063867499120533,0.0011920143151655,0.0009609843837097,False
+"heaven forbid, but i'm sitting here going",0.09118898,0.9720643162727356,0.0,0.187,0.0291616488248109,0.0012704894179478,0.0026238719001412,False
+"i mean, i didn't even know what i was doing when i started dating at almost seventeen",0.09333697,0.6929662227630615,0.3125,0.0,0.0009668164420872,0.0018840645207092,0.0013846192741766,False
+"um, so no, i think i think you learn a lot from your family and the way their relationships are",0.019714156,0.9446497559547424,0.0,0.0,0.0013393097324296,0.0008887655567377,0.0009470220538787,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i, i personally don't think a school can do it",0.029125832,0.9994638562202454,0.0,0.0,0.0009336997754871,0.0020277732983231,0.0004111090674996,False
+"um, i think they can help, but i think it has to be something that society in general or family unit, does it",0.020269485,0.9861541390419006,0.0,0.0,0.0006083889747969,0.0003874860994983,0.0003109444223809,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"and it wasn't that i had a bad family unit, it was just that there wasn't yknow",0.083939545,0.999016523361206,0.6999999999999998,0.179,0.0019493353320285,0.0011464548297226,0.0011103340657427,False
+we never talked about it,0.025863936,0.9985986351966858,0.0,0.0,0.0006864490569569,0.0003894523833878,0.0004020766355097,False
+my she goes,0.0813051,0.0,0.0,0.0,0.1094408184289932,0.0019068615511059,0.0118544669821858,False
+we were like yknow,0.019714156,0.0,0.0,0.0,0.0037296505179256,0.0005140147986821,0.0005503657739609,False
+how did people start talking about and relationships? and what not? she goes,0.087430015,0.0,0.0,0.0,0.0008447333239018,0.0005975503008812,0.0013165244599804,False
+you don't remember,0.031014297,0.9993168115615845,0.0,0.0,0.0026635346002876,0.0005403673858381,0.0005267423694022,False
+mom and dad handed me a book,0.04543531,0.0,0.0,0.0,0.004317520186305,0.0016892624553292,0.001197004225105,False
+i'm like they did,0.029469188,0.0,0.0,0.0,0.0018985766218975,0.0004790928505826,0.0005302468780428,False
+i'm like i don't remember that and she goes well after i read the book,0.020130653,0.0,0.0,0.0,0.0006186019745655,0.0004259338893461,0.0004007715324405,False
+"i asked them a lot of questions, so maybe they didn't give it to yknow",0.032902762,0.9969863295555115,0.0,0.0,0.0007845410727895,0.0004896106547676,0.0004326516936998,False
+like how we don't wanna go through this again because she's a little,0.22775516,0.9352965354919434,0.1875,0.0,0.1962110847234726,0.0644949525594711,0.0390372350811958,False
+i thought that was hilarious,0.08501353,0.0,0.0,0.0,0.0016034204745665,0.0004123607650399,0.0008455285569652,False
+like you mean sexual relationships,0.35336453,0.0,0.0,0.0,0.498415857553482,0.5410051941871643,0.7557453513145447,False
+"and what? um, probably the the bad things about it",0.104076885,0.9995384216308594,0.6999999999999998,0.28,0.0008387251291424,0.0034589974675327,0.0018600152106955,False
+"yeah, um, but just coming from my christian beliefs and what? not the best thing and i know it, even though i didn't partake in it when i was a teenager and i wasn't promiscuous at all, but i still had sex before marriage",0.38261065,0.9938037395477295,0.0,0.094,0.0049282293766736,0.2850162386894226,0.11994269490242,False
+"um, just to be, it'd be nice if they teach you how to be confident in your self and i don't mean like self esteem, but yknow, like we said, if if uh, yknow, you come from a situation like that, that doesn't mean you have to be like that",0.03461955,0.954808235168457,0.0,0.026,0.0061917048878967,0.0016739019192755,0.0008268250385299,False
+"do you know what i mean? kind of yeah, right",0.10763696,0.0,0.0,0.268,0.0008000081288628,0.0004974666517227,0.0010119399521499,False
+"well, kind of like",0.023460433,0.9298343062400818,0.0,0.0,0.0010073938174173,0.0003774630022235,0.0004590159514918,False
+just because everybody else is doing it this way doesn't mean it's the right,0.02809576,0.9997569918632507,0.0133928571428571,0.0,0.0008454085327684,0.0003993037098553,0.0007183335837908,False
+"and um, i, yeah, i yknow",0.03736641,0.5395600199699402,0.0,0.0,0.0019369933288544,0.000510161393322,0.0010023906361311,False
+i really struggle with that because i come more from,0.08555053,0.6498078107833862,0.0,0.224,0.0008722092024981,0.0004755573172587,0.0012585691874846,False
+"i think the family should teach it, but let's be realistic",0.021518974,0.7429531216621399,0.0,0.0,0.0005704067880287,0.0004439851036295,0.0003281441167928,False
+"how many families are gonna do that or have the mentality to do that? it seems like, um, sound like my dad",0.04406188,0.9927011728286743,0.0,0.0,0.0014899543020874,0.0013938918709754,0.0023946817964315,False
+"like these days most of the people, a lot of people that are having kids shouldn't be, and the people that would be decent parent aren't because of the situations, and what, not? um, just my family, nobody in my family",0.092262976,0.9993528723716736,0.0,0.0,0.0014341541100293,0.0008256618166342,0.0005511385388672,False
+my sister doesn't have kids,0.059728492,0.6186598539352417,0.0,0.0,0.0028021724428981,0.0027159345336258,0.001226068357937,False
+i don't have kids,0.03856816,0.9408127069473267,0.0,0.0,0.0022647939622402,0.0015443990705534,0.0005075944354757,False
+"we're in our mid to late thirties, um, our friends just had one",0.033074442,0.0,0.15,0.0,0.0006337499362416,0.002061586594209,0.0005693885614164,False
+"um, i do have some friends that have like more than one, which is great because they're just great parents",0.050585672,0.0,0.0,0.0,0.0006164161604829,0.0003730725729838,0.001085962401703,False
+"i'll know those kids are gonna be going in, but then i have uh, other people that, like my other friends, that just had one, were trying to help a a child children services that came from yknow",0.021796638,0.0,0.125,0.0,0.0016750745708122,0.000975880306214,0.0005270454566925,False
+"imagine it, and that's basically what happened to her and her mom had three kids by three different dads and they thought if they could get her out of that environment, they actually had her move in with them",0.04680874,0.9972848892211914,0.0,0.0,0.0011699609458446,0.0007889671251177,0.0014273239066824,False
+they were her temporary foster parents and she just turned sixteen,0.042001735,0.0,0.0,0.0,0.0057194386608898,0.0006451559020206,0.0010299948044121,False
+so she was fifteen,0.03049926,0.0,0.0,0.0,0.0210908949375152,0.0041264505125582,0.001122290501371,False
+when she moved in with them,0.04783881,0.0,0.0,0.0,0.0010425116633996,0.0010821934556588,0.0005593245732598,False
+"she refused to change and i don't know what could have changed it if they would have got her out earlier, but basically all three of them i don't wanna say, are doomed, but they're not",0.14687516,0.999569833278656,0.0,0.179,0.0099257994443178,0.0019433747511357,0.003006144426763,False
+even though they're out of that environment,0.03427619,0.0,0.0,0.0,0.0010016158921644,0.0004580925160553,0.0004967023269273,False
+"they're not doing any better, so i don't know",0.1024659,0.8339259028434753,0.0,0.231,0.0010753409005701,0.0045101586729288,0.0011949280742555,False
+"yeah, so it's kind of like i'm for education in schools",0.025863936,0.9841687083244324,0.0,0.0,0.0007481905049644,0.0006237452034838,0.0004154092166572,False
+"but um, just like the bad things about it yknow sex can do",0.45045215,0.9929351210594177,0.6999999999999998,0.25,0.4729523360729217,0.5735878944396973,0.77683025598526,False
+you can get pregnant,0.118584804,0.9916325211524963,0.0,0.0,0.7749571204185486,0.0180534590035676,0.0021937014535069,False
+"number one, which isn't fun",0.11343288,0.9992706179618835,0.0,0.386,0.0013953275047242,0.001145293470472,0.0008597116102464,False
+"number two, yknow the diseases and things like that",0.13655609,0.0,0.0,0.0,0.0019628922455012,0.0035049021244049,0.0009783263085409,False
+i think that's a good idea to teach,0.024490505,0.0,0.0,0.0,0.0006692321621812,0.0005659854505211,0.0004819475580006,False
+"just that it's not all uh, fun and peer pressure and stuff",0.031014297,0.996436595916748,0.0,0.329,0.0007515330216847,0.0005579768912866,0.0030505063477903,False
+i know,0.022773718,0.0,0.0,0.0,0.0014815481845289,0.0004443990183062,0.000429977721069,False
+"i kind of got off track there, but hum, no, because they're gonna learn that on their own",0.05413456,0.8311850428581238,0.0,0.0,0.0008359918720088,0.0006210479186847,0.0008798312628641,False
+"um, i, i personally think that it's a choice",0.018048171,0.0,0.0,0.0,0.0005928401951678,0.0003743727866094,0.0004456425958778,False
+"i don't think you're born that way because i, i, i have friends that are homosexual and um yknow",0.2936093,0.9452874064445496,0.0,0.0,0.8385128974914551,0.7192568182945251,0.4172156155109405,False
+"i don't believe in what they're doing, but do everything right everyday",0.04234509,0.0,0.0,0.0,0.0009657001937739,0.0008874565246514,0.0005506998277269,False
+so i still love them and they're my friends and blah blah blah,0.11600884,0.849206268787384,0.0,0.213,0.0027010580524802,0.000713066838216,0.00087468593847,False
+"because, but i've also known people that were that way and now are heterosexual and are much happier and they realize that it was just a choice they made and things like that",0.119228795,0.0,0.0,0.0,0.0006078244769014,0.0009861618746072,0.0011010786984115,False
+"um, so it's in today's day and age",0.024318827,0.8349652886390686,0.0,0.0,0.0007023139623925,0.0005415445193648,0.0005058978567831,False
+they're gonna learn about it quickly and i don't really think it's something that needs to be taught,0.048525527,0.99875807762146,0.0,0.0,0.0007600224926136,0.0006965661305002,0.0003716746286954,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+the only thing probably is like,0.03221605,0.0,0.0,0.0,0.0011393065797165,0.0005313609726727,0.0032817909959703,False
+"what do they call that? uh, cultural diversity or whatever classes they have us take? i think that i don't think is such a bad idea",0.0717155,0.9867852330207825,0.1999999999999999,0.134,0.000803739647381,0.0006844116724096,0.0006062519387342,False
+"uh, because just because you grew up in, i don't know what i grew up in, but i'll i'll give an example",0.043375164,0.0,0.0,0.0,0.002212775638327,0.0013953249435871,0.000908501795493,False
+i didn't grow up in,0.031014297,0.9976900815963745,0.0,0.0,0.0030821841210126,0.0005225790664553,0.0004215403459966,False
+let's say somebody goes hunting and fishing and drives trucks and wears ball caps and listens to country music,0.09279997,0.0,0.0,0.0,0.0065245637670159,0.0011371488217264,0.0037694943603128,False
+"doesn't mean if somebody doesn't do that, they're not okay",0.058929358,0.99664705991745,0.28125,0.156,0.0008951484924182,0.0011820220388472,0.0010152729228138,False
+"i think that would be a good idea, or yknow",0.02124131,0.8447585105895996,0.0,0.0,0.0007135375635698,0.0004266647447366,0.0004261386056896,False
+cultures all are different,0.042001735,0.0,0.0,0.0,0.0007376802386716,0.0009744689450599,0.000821596418973,False
+"so if you wanted to view that as a culture or do yknow what i mean that that is something different, um, accept the people",0.032387726,0.9504175782203674,0.15625,0.0,0.0006370196933858,0.0004343051987234,0.0005889339954592,False
+"you don't have to like what they're doing, but they're still people",0.05653196,0.0,0.0,0.124,0.0023264307528734,0.0016135497717186,0.0041867662221193,False
+"so yeah, yeah, yeah, um, yeah, i, it's hard because i, i do come across",0.11665283,0.8864423632621765,0.2916666666666667,0.067,0.0007208551978692,0.0005077488604001,0.0015166518278419,False
+"i'm a christian, so i believe that homosexuality is wrong, but i don't like i said",0.39157572,0.9949971437454224,0.25,0.252,0.1071827709674835,0.4076035320758819,0.1064247265458107,False
+i'm not gonna condemn them,0.0813051,0.0,0.0,0.0,0.0223129875957965,0.0061069699004292,0.0059335492551326,False
+um at all,0.0717155,0.9218554496765137,0.0,0.0,0.0009232747834175,0.0005636900896206,0.0011120939161628,False
+"like i said, i have friends",0.05093802,0.0,0.0,0.0,0.0006296613719314,0.0003820188576355,0.0004243947914801,False
+it,0.017770508,0.0,0.0,0.0,0.0016468944959342,0.0009156857267953,0.0006150004337541,False
+"i understand what you're saying, um, but i think that's something more for the parents or the teacher to pick out that maybe that child um, is having a problem and then send them to counseling of some sort and not actually incorporate it in a thirty student ensemble",0.025520578,0.9969432950019836,0.0,0.069,0.0006644938839599,0.0005740612978115,0.0006662018131464,False
+"um, uh, it'd be nice if we had more of an open environment in schools and if teachers really had the time to notice that maybe somebody had a problem and talk to them about it and then send them on that counseling one on one way, um, just because if you're gonna teach it to um, a large amount of students, i'm not even sure if that one student would listen, because all the rest of them probably be making cracks and just make them feel",0.11407687,0.9999890327453613,0.0,0.051,0.0006192584987729,0.0008512681815773,0.000671918853186,False
+do you know what i mean? i don't feel,0.05613239,0.9999653100967407,0.3125,0.0,0.0011411166051402,0.0015266576083377,0.0007369845407083,False
+"yeah, yknow, they probably all",0.025692256,0.0,0.0,0.0,0.0012869524070993,0.0004653758660424,0.0007054892485029,False
+"hey, you resemble that remark or i, so i hesitate to say that it would really help them",0.06492286,0.0,0.0,0.111,0.0005738703766837,0.0100358640775084,0.000907560926862,False
+"um, it would just be better if somebody could yknow keep their eyes open, or if we, um, more counselors or things like that to deal with everything including that",0.044748597,0.9969388246536255,0.0,0.0,0.0007157131331041,0.0005173979443497,0.0005481544067151,False
+"normally i would say no, but yeah, i do, just because let's face it, do it anyhow and i would feel better for them",0.09763293,0.9780293107032776,0.0,0.0,0.0010524010285735,0.0005999451386742,0.0010536339832469,False
+"and if if if they used it, because, uh, yknow, it's not good for the children that are born",0.07371333,0.9999449253082275,0.35,0.118,0.0012822987046092,0.0078843450173735,0.0008583123562857,False
+it's not good for them,0.06612156,0.9998569488525391,0.35,0.376,0.0017789121484383,0.044311411678791,0.0016232514753937,False
+"um, i'd prefer abstinence, but let's be realistic yknow, i think we're past that point",0.052935857,0.9982549548149109,0.0416666666666666,0.0,0.013345368206501,0.0003598681651055,0.0003156845050398,False
+now,0.01999182,0.0,0.0,0.0,0.0014697305159643,0.0004906950052827,0.0007275509997271,False
+"um, i know a lot of christians argue",0.14777246,0.9621517062187195,0.0,0.255,0.0032304234337061,0.0180808492004871,0.0823163837194442,False
+"oh, but you're wrong",0.08447654,0.0,0.5,0.58,0.001621798495762,0.0012394972145557,0.0015248473500832,False
+"well, yeah, i might be wrong, but yknow we can't go backwards on that",0.043375164,0.8500744700431824,0.5,0.127,0.0009058948489837,0.0007644023862667,0.0006178545299917,False
+i don't think you can only work on your own,0.09118898,0.0,0.0,0.0,0.0164121203124523,0.0239840783178806,0.0017848229035735,False
+it's right is not gonna work right,0.074912034,0.9970579147338867,0.0,0.0,0.0022024696227163,0.0018700395012274,0.0005662962794303,False
+"even though i knew better at the point when i was faced with that at seventeen or whatever, i wanted to be so bad that it was something that i yknow what i mean and i knew better, but you just yknow and it's like well, i wasn't that strong",0.10828095,0.9999788999557495,0.0,0.105,0.0045995451509952,0.0008265202632173,0.001420397660695,False
+"granted, but i was probably the normal teen and i think most of the people i knew at that age were lost it much younger than seventeen",0.05373499,0.9537037014961243,0.0,0.1,0.0006808484904468,0.0005244338535703,0.0011177144479006,False
+"yknow, ok, eleven twelve",0.014785618,0.0,0.0,0.0,0.0011127260513603,0.0004574861668515,0.0006905519403517,False
+"it's like ew, he, we even look alike",0.06412373,0.0,0.0,0.0,0.001021838048473,0.0006711082533001,0.0009797529783099,False
+"forget it, but um, yeah, so i think i think birth control would be good and ok, um-hum um-hum great, um-hum sure, um, i grew up in lima, ohio, and which is only about an hour and half from here north, i came here in nineteen ninety one",0.07131593,0.0,0.0,0.024,0.0010222148848697,0.0007403179188258,0.0006066765054129,False
+i believe here being columbus,0.05773066,0.0,0.0,0.0,0.0014675320126116,0.0004198912065476,0.0006656376062892,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i got married about three years ago, and right now i'm in the process of doing a little bit of everything",0.073313765,0.0,0.0,0.0,0.0006322342087514,0.0003817303513642,0.000415739021264,False
+"i've worked all my life, um, until about the past two years, and i've just been working like part time, and um, doing crafts and things like that, because i've always been like in the financial analytical end and the other side of my brain wants some work, so really that's about it",0.032559406,0.0,0.0,0.0,0.000798545370344,0.0004822531191166,0.0006902680615894,False
+i have a dog,0.08555053,0.0,0.0,0.0,0.0029855782631784,0.0026429332792758,0.0007656048983335,False
+he's outside right now and that's it for my kids,0.06252546,0.0,0.0,0.0,0.0035291789099574,0.0006359408725984,0.0007862677448429,False
+"yeah, um, really, anything like right now",0.031357653,0.0,0.0,0.0,0.0006880478467792,0.0003907562058884,0.0010247993050143,False
+"i'm just painting and um, they laugh at me because i went the other day and found some chairs that were that badly and asked if i could have them cleaned them up, and i'm painting those and things like that, so no, no, yeah, i gave them to my sister and my mom and stuff like that, so yeah, it's kind of fun",0.14822112,0.0,0.0,0.04,0.0018081632442772,0.0023186113685369,0.0027182397898286,False
+"um-hum yeah, no, that'd be neat",0.034104515,0.9756914973258972,0.0,0.0,0.0008398423087783,0.0004854250291828,0.0011262713233008,False
+i'd love to do that,0.043031808,0.0,0.0,0.0,0.0008225226774811,0.0007366264471784,0.0004422116908244,False
+"yeah, right, yeah, that would be fun",0.036679696,0.0,0.0,0.0,0.0007460112101398,0.000437629467342,0.0007167584262788,False
+i'm looking for a part time job,0.0253489,0.9372937083244324,0.0,0.0,0.0015198526671156,0.000682441110257,0.0002639820158947,False
+"as we speak, i've been like doing temporary on and off, and the thing with that is you could work yknow for four, five months and then nothing and then just like that",0.03221605,0.9989907145500183,0.0,0.0,0.0014511130284518,0.0006271292222663,0.0007782498723827,False
+"so right now i'm looking for something permanent, uh, mostly accounting things like that, uh, such as accounts receivable for nursing homes and things like that pretty in depth, um, some of the day by yknow",0.031529333,0.7516886591911316,0.0,0.0,0.0006226184777915,0.0004131006135139,0.0003609695704653,False
+"if i just go for a day, it's filing, and what? not getting phones",0.023803791,0.904857873916626,0.0,0.0,0.0008342579239979,0.000784846546594,0.0007999967201612,False
+but most of the jobs,0.016729267,0.0,0.0,0.0,0.0008387974230572,0.0004674521042034,0.0003574219881556,False
+"actually, you learn a lot",0.05852979,0.0,0.0,0.0,0.0026156338863074,0.0004586442082654,0.0007954081520438,False
+"so boy, it would have to be um, something that i actually enjoy",0.111500904,0.0,0.0,0.0,0.0007850799593143,0.0014245909405872,0.0006360147963277,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"what what what happened was? ever since i came to columbus, almost every company i work for was bought out and sold and moved to a different state and i wasn't interested in that, uh, because my husband works for the state, so obviously he's not going anywhere",0.038911518,0.9998995065689087,0.0,0.046,0.0006447828491218,0.000701023673173,0.0007034862064756,False
+"um, so i got tired of that and that's why i kind of went to temping and stuff, so it'd be one with a variety",0.08290337,0.0,0.0,0.116,0.0007906107348389,0.0004682659928221,0.0008914982900023,False
+"um, i'm unfortunately, i say, unfortunately, good at accounting and stuff, but that doesn't get to express my creative side as much",0.0741129,0.0,0.0,0.125,0.0008336976752616,0.0003462620370555,0.0004740144941024,False
+so it would be,0.019852988,0.5376101136207581,0.0,0.0,0.0011589493369683,0.0004507227276917,0.0005121536669321,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"my favorite job was one where i did the accounting, but i dealt with people as well, and like would do presentations at seminars and stuff like that",0.017770508,0.0,0.0,0.0,0.0006177824106998,0.000398598407628,0.0005455646314658,False
+"occasionally, too, so right, just a teeny bit enough to satisfy me, so that was good",0.30187345,0.0,0.0,0.0,0.0006211151485331,0.0006429280620068,0.0011995770037174,False
+"yeah, i do",0.0224908,0.0,0.0,0.0,0.0011728196404874,0.0003850737703032,0.0004663828003685,False
+"um, i prefer",0.07990982,0.5172645449638367,0.0,0.0,0.000840333814267,0.0004170381580479,0.0005405613337643,False
+"i've done it by myself, but i would prefer to do it with my husband and stuff, europe",0.12244874,0.0,0.0,0.0,0.0008143499726429,0.0015885820612311,0.0008869665325619,False
+"i was there for almost a month, did one of those tours where you get on the bus, um, and did the london and the france, the, and italy, and to holland and germany, and everything that was really neat",0.073313765,0.0,0.0,0.0,0.0006664224783889,0.0004137051582802,0.0005427917349152,False
+right,0.016521018,0.0,0.0,0.0,0.000928676337935,0.0005848494474776,0.0005620717420242,False
+"yeah, yeah, that's very true",0.028782474,0.0,0.0,0.0,0.000737591588404,0.0003533078706823,0.0005888565210625,False
+we haven't done that much yet,0.02792408,0.9346217513084412,0.0,0.0,0.000663289160002,0.0003407809999771,0.0003913795226253,False
+"uh, because his family lives in albuquerque, new mexico, we're at at at least every other year we're out there, which is great, but it takes away that big trip",0.03994159,0.8398305773735046,0.0,0.0,0.000659390236251,0.0004892399883829,0.000610638060607,False
+"um, we've been, and then his brother got married in hawaii, so we went out there, so we've just done the honeymoon at disney world, the albuquerque, a couple times and hawaii, but we have plans to go to europe",0.02637897,0.6511619091033936,0.0,0.0,0.0005936413654126,0.0004937565536238,0.0003191390715073,False
+he,0.023460433,0.0,0.0,0.0,0.0087242415174841,0.0014087301678955,0.000656290561892,False
+he wants to go to england and things like that and i wanna,0.10461388,0.0,0.0,0.0,0.0058184065856039,0.0025098954793065,0.0199440252035856,False
+"we're looking into greece, so yes, uh, actually, kawai, yeah, so it was really nice",0.070516795,0.0,0.0,0.0,0.0006064304616302,0.0003815068339463,0.0014656905550509,False
+i thought it,0.022074303,0.9976625442504883,0.0,0.0,0.000720947922673,0.0004688097978942,0.0003736306389328,False
+"course, i didn't go to all of them, but it was nice",0.02929751,0.0,0.0,0.0,0.0006661494262516,0.0004402139165904,0.0009653773158788,False
+"yeah, and it, it has the least amount of people, which is kind of neat as far as tourism, so yeah it was",0.11665283,0.7289413809776306,0.0,0.0,0.0006223284290172,0.0003978587046731,0.0009707114659249,False
+"it's not bothering me, but when i talk and move my head, it's like hitting me and i just am not sure you can tell me if it's not anywhere near my mouth, so yeah, it's i keep",0.21627559,0.993017315864563,0.075,0.054,0.0070873419754207,0.0536961965262889,0.0350138433277606,False
+it wasn't but then it moved so well,0.033932835,0.9827301502227783,0.0,0.0,0.0006885263719595,0.0004332073731347,0.0010120180668309,False
+there we go,0.030670939,0.0,0.0,0.0,0.0007975666667334,0.0005626952042803,0.0016087612602859,False
+"yeah, hilliard, um-hum, i like it",0.19789414,0.0,0.0,0.0,0.0010462655918672,0.0006496561109088,0.0027669589035212,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+i've lived,0.023460433,0.0,0.0,0.0,0.001284718629904,0.0003462739114183,0.0004613153287209,False
+i've only lived in the northern end,0.037881445,0.5916479229927063,0.0,0.0,0.0012733411276713,0.0004398829478304,0.0004871136625297,False
+"i've lived in dublin and old worthington, and now hilliard, which is kind of around the side",0.09709594,0.0,0.0,0.0,0.0007397301378659,0.0003842576697934,0.0004542085516732,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+but i like it because it has,0.039598234,0.0,0.0,0.0,0.0008449559682048,0.0003493414842523,0.0011503372807055,False
+"it's own little well, especially worthington",0.03856816,0.0,0.0,0.0,0.0006686137639917,0.0290864538401365,0.0007128246361389,False
+"it's own little city within a city, and um, i think they have a lot to do, yknow the parks and things like that, so um, i'll just hold it, but i like it because it has art and culture, and um, it doesn't feel like a big city unless you get stuck in traffic",0.043718524,0.0,0.0,0.084,0.0008938696701079,0.0004379610472824,0.0004117454518564,False
+"so yeah, yeah, but i, but i have purposely tried to work close or do the back roads",0.037023053,0.9736520051956177,0.0,0.0,0.0006346741574816,0.0004100765218026,0.0007527410634793,False
+"it's nice from hilliard, you can get almost anywhere whether it be here or yknow where i've been working on back roads, so it's not that bad",0.086087525,0.0,0.0333333333333332,0.0,0.0006287708529271,0.0004323336179368,0.0009220462525263,False
+"um-hum yes, yeah, right, the snouffer and all that",0.15918289,0.0,0.0,0.0,0.0027985973283648,0.0009797058301046,0.0050007156096398,False
+"yep, i used to live up there too, so very much",0.038053125,0.0,0.0,0.0,0.0011685347417369,0.0003941641480196,0.0004110453883185,False
+"so yeah, i think this year it's gonna be even worse stocking up water right",0.10031791,0.9998056292533875,0.0571428571428571,0.167,0.0080037815496325,0.0007102532545104,0.0008614762336947,False
+"yeah, um-hum yes, yes, yes, really",0.02792408,0.0,0.0,0.0,0.0008495058864355,0.0005429477314464,0.0012147247325628,False
+i haven't noticed that yet,0.022074303,0.0,0.0,0.0,0.000637634715531,0.0003576161107048,0.0003113629936706,False
+huh,0.026722329,0.9942650198936462,0.0,0.0,0.010707932524383,0.0008670022361911,0.0007655997760593,False
+"yeah, yeah, i think it's probably too, though that a lot of people haven't aren't used to it",0.029469188,0.0,0.0,0.0,0.0006896759732626,0.0004316323320381,0.0007105917902663,False
+i mean they're not from ohio,0.023803791,0.9883190393447876,0.3125,0.0,0.001415102975443,0.0010343129979446,0.0005163520108908,False
+i've found found that in columbus a lot,0.035477944,0.0,0.0,0.0,0.0006096215802244,0.000357278244337,0.0003580252814572,False
+"so they're kind of yknow more tentative, or they're from the south or something like that",0.08635602,0.9437621235847473,0.0,0.0,0.0008894716156646,0.0007059321505948,0.0013282638974487,False
+"so they and then you run into a lot of people that are from ohio, but i've noticed that a lot of people rarely do you meet people born and raised in columbus, so um-hum um-hum huh, that's good",0.1423886,0.0,0.0,0.0,0.0007943370728753,0.0008905542199499,0.0014675941783934,False
+"no, not really",0.012425472,0.9995273351669312,0.1,0.0,0.0008963835425674,0.0004204060242045,0.0004141875833738,False
+"actually, some some i have and then i've run into the people that just like anything they wanna get out of their hometown",0.13521013,0.0,0.0,0.0,0.0008351252763532,0.0008221254684031,0.0038277166895568,False
+they don't like it,0.073313765,0.9999314546585083,0.0,0.413,0.0201952885836362,0.0053070676513016,0.0013703104341402,False
+"they complain, but normally i find that those people aren't taking advantage of the yknow free art shows and yknow, i mean the things that are free",0.12180476,0.9929255247116089,0.0,0.108,0.0007954085594974,0.0006969047826714,0.0009502496104687,False
+"i'm like oh, have you done this? no, i didn't even know about it and you've lived here all your life, and i've only lived here x number of years, and so um, well, just even like the parks, or um, like the art shows in worthington, or the crafts, or even the the irish festival in dublin, which can be free",0.045778666,0.9262856841087341,0.0,0.0,0.0009887245250865,0.0006805494776926,0.0019438732415437,False
+"yeah, on certain days and things like that, um, the concerts on the river or on the worthington green, really anything like that and they used to have the laser light show downtown",0.04818217,0.923740565776825,0.0,0.0,0.000623038446065,0.0004080726939719,0.0005304971709847,False
+"they, they don't have it anymore",0.027580723,0.9616624116897583,0.0,0.0,0.0020416725892573,0.0009580476325936,0.0017661241581663,False
+"um, yknow, just even if you do one thing free a month it it doesn't have to cost anything but you",0.054534122,0.6636196970939636,0.0,0.0,0.0085747446864843,0.0015373314963653,0.0007995059131644,False
+you can go do it with your family or whatever,0.09118898,0.0,0.0,0.0,0.0186070669442415,0.0156227499246597,0.0007847332744859,False
+"so yeah, um-hum yeah, yeah, cutoff right right, yeah, i mean you don't want to see the chain gangs or the people whipping them",0.21980777,0.0,0.0,0.041,0.0518589578568935,0.0086918678134679,0.0794206783175468,False
+"i mean, let's that's not right",0.032731086,0.9929416179656982,0.2276785714285714,0.0,0.0009421881404705,0.0009709362639114,0.000556917162612,False
+either,0.016729267,0.6090007424354553,0.0,0.0,0.001351126586087,0.0006101993494667,0.0005343902157619,False
+"um, but yeah, i'm not for the weight rooms, because like they said, they come out and then they're stronger",0.089041,0.8846849799156189,0.0,0.0,0.0009376432863064,0.0005625557387247,0.0018797678640112,False
+they can do more damage,0.22978203,0.9986152648925781,0.0,0.466,0.073428526520729,0.0772958397865295,0.0356293097138404,False
+"yeah, and you're like, and we paid for that",0.112144895,0.0,0.0,0.0,0.140389546751976,0.0017120561096817,0.0047564073465764,False
+"okay, so i you? i, i think just to keep them busy yknow, even if they educate them, i've heard of people yknow the education, um, the i",0.06971766,0.5004742741584778,0.0,0.0,0.0022123884409666,0.0006321558612398,0.0006002382724545,False
+strong,0.023632111,0.0,0.0,0.0,0.0008315463783219,0.0007444477523677,0.0023798812180757,False
+i,0.018187003,0.0,0.0,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i don't think it'd really hurt anybody,0.03770977,0.9305356740951538,0.0,0.381,0.0028700255788862,0.0005221280152909,0.0005209306837059,False
+"um, i, and the i'd say incorporate that with some education",0.034791227,0.0,0.0,0.0,0.000736181566026,0.0003996835730504,0.0006478957366198,False
+"um, of some sort, yknow mean i don't wanna go out in the sun and work or what? not? plus they're doing something in return for free housing",0.03856816,0.9986869692802429,0.0,0.0,0.0028399724978953,0.0006129005923867,0.0007791061652824,False
+do yknow what i mean? it's kind of a give and take there,0.10892494,0.6551465392112732,0.0,0.0,0.0010521520162001,0.0007288011256605,0.0010051730787381,False
+"yeah, yeah, um-hum um-hum right, right, right, yeah, well, unfortunately, i don't think it's fair, but i think in the long run, it it it",0.04783881,0.0,0.0,0.111,0.0007366612553596,0.0006100141326896,0.0011951284250244,False
+it doesn't have to be a college education because most of those people probably wouldn't want a college education,0.051737156,0.5479719042778015,0.0,0.064,0.0009538120939396,0.0008603749447502,0.000999342650175,False
+"um, but like a trade or a skill or something, it'll give them a little bit of hope if they do wanna choose to get a job instead of robbing a bank or selling drugs or whatever they did, they have that choice",0.14911842,0.9573370218276978,0.1875,0.0,0.0010044306982308,0.0012616844614967,0.000736970861908,False
+it's it's it's up in their head,0.14373457,0.0,0.0,0.0,0.0020055233035236,0.0727879777550697,0.12320027500391,False
+"okay, i can either go become a welder or i can cutoff have a gun",0.2297899,0.7241618633270264,0.0,0.139,0.4527776539325714,0.4459208548069,0.642558753490448,False
+"um, i mean if they want a college education, um, yeah, it's it's not fair, but for for you growing up and going into a lifestyle i would prefer having their colleges paid for and then being productive citizens than somebody robbing me someday, because they didn't get an education",0.16758743,0.9954016208648682,0.33125,0.028,0.0047720074653625,0.0019512641010805,0.0015050073852762,False
+"i mean, now that's a broad spectrum and i know it's not all that cut",0.027580723,0.9381487369537354,0.125,0.0,0.0006921626045368,0.00045491050696,0.001576786278747,False
+"and um, yeah, it would upset me, but hopefully i'd step back from it a little bit and go well",0.1250247,0.948493480682373,0.09375,0.07,0.0007150729652494,0.0007391501567326,0.0022671245969831,False
+maybe it is for the best,0.033074442,0.8216548562049866,0.0,0.0,0.0006140276091173,0.0003901472664438,0.0005333251901902,False
+"yeah, yeah, i think it is",0.02517722,0.0,0.0,0.0,0.0007178286323323,0.0004181795520707,0.0008540996932424,False
+"course, we were fiddling with that so much",0.08420804,0.6852592825889587,0.0,0.0,0.002730875974521,0.002752790460363,0.0032574092037975,False
+"no, my husband",0.02193547,0.9923515915870667,0.0,0.0,0.0024043486919254,0.0023346559610217,0.0005936393863521,False
+"yeah, he's uh, he's from",0.035649624,0.0,0.0,0.0,0.0008300782646983,0.0007116649649105,0.0064809550531208,False
+"she can wear a bandanna, but that's it and i yknow i would love to do that with her only on things like that",0.2936093,0.8694158792495728,0.0,0.0,0.0037673120386898,0.001909228041768,0.0076882513239979,False
+"i wouldn't be the type that would put a sweater on her on tuesday and a little skirt on her on wednesday, but i, i would get a kick out of that",0.4254099,0.0,0.1875,0.0,0.0047989506274461,0.2067101746797561,0.0948191732168197,False
+"um, she, yes, um, we're both",0.017770508,0.0,0.0,0.0,0.0009288041619583,0.0004038276965729,0.0014702463522553,False
+i've gotten kind of bad,0.13879937,0.9998738765716553,0.0499999999999999,0.487,0.0018311177846044,0.0037884472403675,0.0036722247023135,False
+"uh, but my husband's a marathon trainer",0.02397547,0.8426703214645386,0.0,0.0,0.0016851791879162,0.0008210548548959,0.0007739968714304,False
+i try to run with her at least two or three times a week because she's he's too fast for her,0.23365098,0.9922439455986023,0.0499999999999999,0.0,0.0117104081436991,0.0271433424204587,0.0291572753340005,False
+"um, but we go to like hoffman farms up in",0.029812546,0.6865590214729309,0.0,0.0,0.0006344189750961,0.0009120812173932,0.0004520387155935,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+we've taken her to the scioto part for the concert on the river,0.070516795,0.0,0.0,0.0,0.0007788178045302,0.0004298968124203,0.0007664702716283,False
+we don't tend to take her to things like the art festival or the,0.0813051,0.8766735792160034,0.0,0.0,0.0006192145519889,0.0005476627266034,0.0006219302304089,False
+it's just too crowded and it's not fair to her or the other people,0.12760067,0.999677300453186,0.2375,0.131,0.0009376155794598,0.0006245807162486,0.0055506541393697,False
+"uh, because she has been known to help herself to bread, we were like brain dead after this race and my husband took her and we know better, but we were like yknow after you run",0.2224569,0.9762819409370422,0.0,0.062,0.0414480157196521,0.0357446670532226,0.0543616265058517,False
+"you're kind of like, uh, and she jumped up on the table and looked around and took a piece of bread and i'm like, oh, my gosh, you're so embarrassed",0.25676212,0.9998170733451843,0.0,0.093,0.2980749905109405,0.1792007684707641,0.4378969669342041,False
+"i'm so sorry and the guy's like, ah, nobody else is eating it",0.08581903,0.9999808073043823,0.5,0.106,0.0020953405182808,0.0065798931755125,0.0081407558172941,False
+she,0.02929751,0.0,0.0,0.0,0.0095353480428457,0.0024225472006946,0.00259694410488,False
+she's a golden retriever,0.2299237,0.0,0.0,0.0,0.1882060021162033,0.0714278519153595,0.1738239824771881,False
+"yeah, she's three, so she's still puppy, but she's getting there",0.1710401,0.0,0.0,0.0,0.0226313564926385,0.0074628116562962,0.0331096388399601,False
+yeah,0.02124131,0.0,0.0,0.0,0.0015659044729545,0.0005244363564997,0.0006040357402525,False
+um-hum yep,0.020523453,0.0,0.0,0.0,0.0014320797054097,0.002353194868192,0.0013533140299841,False
+"yeah, yeah, yeah, she did that yesterday, so stomach pump, uh, yeah, we've kind of broken her of that",0.2590451,0.9910831451416016,0.0,0.13,0.0019345105392858,0.0006947985966689,0.1982144564390182,False
+thank goodness the counter stuff,0.050585672,0.0,0.0,0.0,0.0007155542843975,0.0005755687598139,0.0008425712585449,False
+"but yeah, yeah, she's been known to do that too",0.042001735,0.0,0.0,0.0,0.0006555382278747,0.000383263482945,0.0008119932608678,False
+"yeah, yes, um-hum sure, do they",0.038224805,0.0,0.0,0.0,0.0008100476698018,0.0007354196859523,0.0034289895556867,False
+"uh, that's nice",0.044405237,0.0,0.0,0.0,0.0006392815848812,0.000468300160719,0.0013823114568367,False
+"that's good, right",0.02517722,0.0,0.0,0.0,0.0006390900234691,0.0003355999069754,0.000703876838088,False
+"yeah, i've run into just a few problems at antrum, um, since i do like to jog, even though i'm very slow",0.104076885,0.9985514283180237,0.295,0.102,0.0065021715126931,0.0021295675542205,0.0009316848008893,False
+"most of the people that take their dogs there, take them off the leash and let them go in the lake",0.12244874,0.9405041933059692,0.0,0.0,0.0088301906362175,0.0484367422759532,0.0326619297266006,False
+and what? not? which is you're not supposed to do that,0.022945397,0.861201822757721,0.0,0.0,0.0022706824820488,0.0013272453797981,0.0015712103340774,False
+"but when i'm jogging with my dog on a leash and all the other dogs come up, it irritates me because yknow, you're trying to run and your dog's trying to greet that dog, and the dog's tripping you",0.21036349,0.9973692893981934,0.125,0.082,0.1775938272476196,0.012104975990951,0.0126529885455966,False
+and you're like i've actually been known to go,0.06332459,0.0,0.0,0.0,0.021680174395442,0.0008268912206403,0.0034555785823613,False
+am i the only one following the rules around here because i'm trying to run,0.067320265,0.910473644733429,0.0,0.0,0.0065096765756607,0.0007722968002781,0.0004599712265189,False
+"obviously it's hard for me to run, so oh yes, he will be",0.084745035,0.0,0.2916666666666667,0.091,0.0246253926306962,0.0010087311966344,0.0034653544425964,False
+"yeah, it's a week from sunday",0.018881164,0.7203125953674316,0.0,0.0,0.0008969829650595,0.0005320553318597,0.0003417824918869,False
+"um-hum, i would love to do it, but even when i was my knee won't let me",0.11794081,0.7275370359420776,0.0,0.0,0.0166781172156333,0.0020641495939344,0.0046386988833546,False
+"i was marathon training and i only got up to about nine miles, and um, i have, unfortunately, about fifty pounds of extra weight on me, but even like i said when i was skinnier, i have like a bum knee on distance",0.22952124,0.9628937244415283,0.1666666666666666,0.035,0.000778351095505,0.0043537085875868,0.0779642537236213,False
+"i'm okay to run the lower, but uh, no, yknow",0.15743166,0.9988873600959778,0.0,0.145,0.0011622864985838,0.0010514385066926,0.003091111080721,False
+i should,0.022773718,0.0,0.0,0.0,0.0082987211644649,0.00155790313147,0.0005090718041174,False
+i really,0.020269485,0.0,0.0,0.0,0.0016452153213322,0.0003530802496243,0.0004957355558872,False
+should,0.021102477,0.0,0.0,0.0,0.0063869045116007,0.0006471502711065,0.0005166212795302,False
+"i do that with the without even realizing it, but i haven't just because i've ran for so many years or jogged",0.049898956,0.0,0.0,0.0,0.0007596774375997,0.0011900992831215,0.0023869890719652,False
+"excuse me, i don't run",0.06612156,0.9781061410903931,0.05,0.0,0.007405221927911,0.0016957144252955,0.0034129521809518,False
+i'm too slow,0.086087525,0.9999202489852905,0.3,0.0,0.0133275175467133,0.0048315324820578,0.0021160214673727,False
+"get the track terminology there? yeah, yeah, that's a good idea",0.030155903,0.8894292116165161,0.0,0.0,0.0006223020027391,0.0003855477843899,0.0005223106709308,False
+"um-hum yeah, i have read that i need to try that just for winter",0.038911518,0.0,0.0,0.0,0.0009080288000404,0.0005962256691418,0.000490951933898,False
+even you don't slide as much,0.16551583,0.956017255783081,0.0,0.0,0.0023678399156779,0.0007405623910017,0.0034780818969011,False
+that would be good,0.030155903,0.0,0.0,0.0,0.0006060999585315,0.0003851403889711,0.0004052613512612,False
+"yeah, um-hum um-hum yeah",0.0069763125,0.7128358483314514,0.0,0.0,0.0009984638309106,0.001395686995238,0.0016548280837014,False
+"yeah, they're pretty good where i live",0.03994159,0.0,0.0,0.0,0.0006648403359577,0.0004160980461165,0.0013291604118421,False
+"um well last year when we had that really really high snow, um, i shoveled and then like an hour later it blew over",0.09387396,0.9994112253189087,0.0,0.0,0.0025900455657392,0.0018109168158844,0.0066337026655673,False
+"so was like what's the? um? but our neighborhood has a lot of children, so most of the people do shovel their sidewalk",0.05253629,0.9890249371528625,0.0,0.0,0.0021913386881351,0.0013429864775389,0.0053151086904108,False
+"um-hum, um, about six",0.08244847,0.9447833895683289,0.0,0.0,0.0007903007790446,0.0007534845499321,0.0011763877701014,False
+"yeah, did we get her? we've had her for two years",0.024490505,0.0,0.0,0.0,0.0008727529202587,0.0004473215958569,0.0006193149019964,False
+"yeah, we did about six months",0.020963646,0.987823486328125,0.0,0.0,0.0006315913051366,0.0003616365720517,0.0004405094368848,False
+"we went to hawaii and got his brother married, and then we came back",0.021102477,0.0,0.0,0.0,0.0014789327979087,0.0012683474924415,0.0005791078438051,False
+we knew that would be the last long trip,0.039598234,0.0,0.025,0.0,0.0017682490870356,0.00045943443547,0.000396837858716,False
+"um, and we were gonna wait till the spring, but we couldn't, so we went to a rescue service and got her",0.03049926,0.9885814785957336,0.0,0.0,0.0011408106656745,0.00054014287889,0.0005695386207662,False
+"yeah, uh, um-hum um-hum yeah, oh, definitely",0.032902762,0.0,0.0,0.0,0.0009320141398347,0.0008456595242023,0.0012702110689133,False
+definitely,0.017354012,0.0,0.0,0.0,0.0012105912901461,0.0003973952843807,0.0004212016938254,False
+"well, i've never had dog and i've always wanted one",0.11407687,0.0,0.0,0.0,0.0012217776384204,0.0012836684472858,0.0005211465177126,False
+so this is my first,0.023117077,0.0,0.0,0.0,0.0024658755864948,0.0004495232424233,0.0003739551175385,False
+"i'm like, want a? so? yeah, um-hum sure, well that, and they like tuesday when we were blessed with the turn of events of weather",0.059728492,0.8901309967041016,0.0,0.0,0.0007517815101891,0.0004512521554715,0.0006329187890514,False
+there she came in and i didn't,0.033246122,0.9941592216491699,0.0,0.0,0.0010579092195257,0.0007313102832995,0.0006886422052048,False
+i was reading a book and i let her out and i let her back in and i started reading again and i'm looking around and here's mud,0.15130237,0.9531352519989014,0.0,0.0,0.0084115453064441,0.0017017419449985,0.0032476054038852,False
+"so it's kind of good in a because it kind of well yknow i, you live here",0.0765103,0.0,0.0,0.0,0.0036922830622643,0.0005498750251717,0.0008143045706674,False
+"it's not the big of a deal, yknow, because i know my sister would freak",0.29261994,0.9578889608383179,0.0,0.172,0.2258143424987793,0.2026899009943008,0.1730276942253112,False
+"i'm like and believe it or not, uh, they're not really",0.058929358,0.9997929930686951,0.1,0.0,0.0009841828141361,0.0011690334649756,0.0007171109900809,False
+"i wouldn't call them neat freaks, but um, we tease them because my parents and her live within a couple miles of each other in dublin",0.31714454,0.0,0.0,0.204,0.0009021212463267,0.0110558355227112,0.2370362132787704,False
+"you have to take off your shoes when you go in, which is really",0.092262976,0.0,0.0,0.0,0.0574995204806327,0.0008965146844275,0.005950829014182,False
+it's amazing how good their carpet looks just from doing that,0.089041,0.0,0.0,0.0,0.0005671494291163,0.0006400207639671,0.0016533219022676,False
+"but when you have a dog, why bother? um, and they won't allow dogs, so not allowed to go over there",0.09065199,0.9103060960769653,0.0,0.212,0.0105842361226677,0.00321278674528,0.0010215732036158,False
+"so she's always like, but it does make a big difference, so i guess that's what i'm saying for them",0.037023053,0.0,0.0,0.0,0.000657319673337,0.0004216910747345,0.0008129257475957,False
+"it'd almost be better if they let the dog go over, because yknow she's gonna bring in mud",0.2995453,0.9995936751365662,0.0,0.0,0.0398097820580005,0.0174934770911932,0.0126494150608778,False
+and and it's not gonna be perfect,0.040284947,0.9873642325401306,0.0,0.333,0.0049692075699567,0.0005428119329735,0.0006738779484294,False
+"maybe knock something over yknow, kind of start with her, but you have to go home",0.23803931,0.9479244351387024,0.0,0.0,0.1497772186994552,0.1251572370529174,0.2412016093730926,False
+"yknow what i mean to let her out, and that's kind of like",0.16620636,0.9393346905708313,0.0,0.0,0.003787608584389,0.0022090098354965,0.0432688146829605,False
+"i mean, of course a kid you can't put in a yard, and for hours like i did this morning, but exactly definitely it would",0.08581903,0.0,0.15625,0.0,0.0039905169978737,0.0018220979254692,0.0018242569640278,False
+"it would be nice, but no, um, yeah, yeah, yeah, i think so",0.053335425,0.9978311657905579,0.0,0.0,0.0006271512829698,0.0004284609749447,0.0007012281566858,False
+"yeah, yeah, oh, um-hum yeah, um-hum yeah, yeah, to sit on it",0.13969667,0.0,0.0,0.0,0.0008668705122545,0.0040711835026741,0.0026838609483093,False
+"she's not allowed on the couch, but we had caught her last winter on the couch",0.17759849,0.0,0.0,0.0,0.0024594163987785,0.0018453361699357,0.0050095617771148,False
+"yknow you come home and it's warm and hey, there's a doggy bone bone up here, so we've even been known to slightly start pulling out",0.2224569,0.0,0.0,0.0,0.0182241015136241,0.0012233572779223,0.0317495986819267,False
+"yknow, let the garage door go down",0.047495455,0.8764150738716125,0.1555555555555555,0.0,0.0577822178602218,0.0013251757482066,0.0018683928065001,False
+"i'd sneak out of the car and run up to the window and knock on the window, and she's on the couch and she's like i'm caught",0.33341047,0.0,0.0,0.0,0.1332945674657821,0.0538358576595783,0.0982357561588287,False
+"yeah, oh, we have fun, anybody, see that",0.06332459,0.0,0.0,0.0,0.0006843640585429,0.0004372478870209,0.000993282883428,False

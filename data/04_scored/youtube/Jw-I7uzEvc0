@@ -1,27 +1,27 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-honest reviews are all about transparency,0.035477944,0.0027538714843283,0.2,0.0,False,0.0006364401779137552,0.0007095314213074744,0.0002914311771746725
-i want you to know how i was feeling what i was thinking about when i saw the movie so here goes for spider-man into the spider verse,0.043375164,0.0016421597934524,0.5,0.0,False,0.0007188482559286058,0.0015704467659816146,0.001668467652052641
-"i actually screamed it the same day that i had worked at home, team harvest for king 5, which means i was up at about 5:00 a",0.094410956,0.999896550996514,0.5,0.081,False,0.000596047262661159,0.0005634126719087362,0.001616517547518015
-m,0.046122026,0.1902175928039788,0.5,0.0,False,0.001717521925456822,0.0013967561535537243,0.00039876371738500893
-so i was a little tired by the time that i got to the screening,0.11536485,0.96910031018607,0.646875,0.157,False,0.0007459557382389903,0.000898740894626826,0.001092274789698422
-"i was also a little bit hungry because i hadn't had anything since breakfast, but i was in a good mood and i went in with zero expectations, so you can imagine my surprise when i walked out, feeling like i had just seen the best animated movie of 2018",0.070516795,0.0001613279907431,0.2479166666666666,0.0,False,0.0006603341898880899,0.0006579135078936815,0.0006413307855837047
-"spider-man into the spider-verse is based on the marvel comics character miles morales, who exists in a multiverse where multiple spider-man's and a woman and a pig are brought together and they have to kind of fight for a common purpose",0.12760067,0.1692535375029014,0.45,0.065,False,0.008735907264053822,0.021835364401340485,0.026422232389450073
-"it is an absolutely bonkers premise, but the movie walks the fine line between being way too weird and just weird enough",0.25676212,0.8305923768307135,0.5383333333333333,0.162,False,0.0032742132898420095,0.08388245850801468,0.09566996246576309
-and we can thank the team of phil lord and chris miller for that,0.0100653265,0.0022592773578951,0.5,0.0,False,0.0006318794330582023,0.0015761828981339931,0.0003591444983612746
-"they're of course behind the movie franchises like lego movie 21 jump street, cloudy with a chance of meatballs and chris miller was born and raised right here in lake stephen, so let's hear it for snohomish county",0.06612156,0.0053718972302848,0.5285714285714286,0.0,False,0.0008846990531310439,0.00133651087526232,0.0006984489737078547
-"okay, back to spider-man the script is really terrific",0.42092466,0.0012089316993377,0.4166666666666667,0.0,False,0.0009329736931249499,0.0016065745148807764,0.005951661616563797
-"it's a great blend of edgy humor and irreverence, self-aware superhero platitudes and genuine emotion, and it's supported by a truly spectacular cast, including the herschel, olly, lily tomlin, christine and nicolas cage as the totally memorable spider-man noir",0.1473238,4.437786407104941e-05,0.35,0.0,False,0.0008479696698486805,0.001284675090573728,0.011200870387256145
-"but shameik moore, who plays miles is the true standout",0.118584804,0.0020822129586701,0.325,0.0,False,0.005322674289345741,0.0017173485830426216,0.013625090010464191
-he's a spider-man i found myself laughing at and with rooting for and sometimes comparing to my own kid,0.1609341,0.0,0.2,0.0,False,0.05536468327045441,0.001913930638693273,0.044634293764829636
-but the greatest achievement of this movie is the animation,0.06372416,0.0009148277620287,0.0,0.0,False,0.0006938649457879364,0.00043341924902051687,0.00045018616947345436
-"it is gorgeous, and unlike anything i have ever seen before, it looks like comic book panels come to life",0.0471521,0.0041967332408143,0.2625,0.0,False,0.0026491787284612656,0.0004916320904158056,0.00048259779578074813
-they actually innovated new ways to do animation just for this movie so seriously,0.11472086,0.0009467178322477,0.5328282828282829,0.147,False,0.0007179435342550278,0.00038345076609402895,0.0007097342750057578
-every frame is art and purposeful,0.02929751,7.781773209503694e-05,0.5,0.0,False,0.0009168455144390464,0.000488387537188828,0.0027963626198470592
-so my honest review for spider man into the spider verse is swing yourself into a theater this weekend and see it,0.11085691,0.0006458186276397,0.2,0.0,False,0.000828011310659349,0.0010130053851753473,0.01472320407629013
-bring friends or your family,0.034791227,0.0071203075847939,0.5,0.0,False,0.002919543767347932,0.0012430305359885097,0.0005442744586616755
-it was actually a perfect movie for my 13 year old son,0.09333697,0.0014432194021333,0.2249999999999999,0.0,False,0.0032241479493677616,0.0009146467782557011,0.0004756239359267056
-but go with someone because you're gonna want to talk to them about this afterwards,0.07251463,0.8066498783825976,0.5,0.0,False,0.001446069567464292,0.0010466653620824218,0.0009563955245539546
-i promise,0.025005542,0.0043816658442803,0.5,0.0,False,0.0012736698845401406,0.000498037610668689,0.0005441689281724393
-"it is not like anything else you've seen this year, and it's not only my favorite animated movie of the year",0.03599298,0.0004730459761824,0.375,0.195,False,0.0007924840319901705,0.00043493552948348224,0.0005260772886686027
-it's one of my favorite movies of the year period,0.037194733,0.000710969743059,0.25,0.0,False,0.000681044883094728,0.000381303922040388,0.0005536800599656999
-i hope you love it,0.04783881,0.0008465472471954,0.25,0.0,False,0.0007936893962323666,0.0007350858068093657,0.000651288079097867
+honest reviews are all about transparency,0.035477944,0.0,0.0,0.0,False,0.0006364401779137,0.0007095314213074,0.0002914311771746
+i want you to know how i was feeling what i was thinking about when i saw the movie so here goes for spider-man into the spider verse,0.043375164,0.0,0.0,0.0,False,0.0007188482559286,0.0015704467659816,0.0016684676520526
+"i actually screamed it the same day that i had worked at home, team harvest for king 5, which means i was up at about 5:00 a",0.094410956,0.9997931122779846,0.0,0.081,False,0.0005960472626611,0.0005634126719087,0.001616517547518
+m,0.046122026,0.0,0.0,0.0,False,0.0017175219254568,0.0013967561535537,0.000398763717385
+so i was a little tired by the time that i got to the screening,0.11536485,0.9382036924362183,0.29375,0.157,False,0.0007459557382389,0.0008987408946268,0.0010922747896984
+"i was also a little bit hungry because i hadn't had anything since breakfast, but i was in a good mood and i went in with zero expectations, so you can imagine my surprise when i walked out, feeling like i had just seen the best animated movie of 2018",0.070516795,0.0,0.0,0.0,False,0.000660334189888,0.0006579135078936,0.0006413307855837
+"spider-man into the spider-verse is based on the marvel comics character miles morales, who exists in a multiverse where multiple spider-man's and a woman and a pig are brought together and they have to kind of fight for a common purpose",0.12760067,0.0,0.0,0.065,False,0.0087359072640538,0.0218353644013404,0.02642223238945
+"it is an absolutely bonkers premise, but the movie walks the fine line between being way too weird and just weird enough",0.25676212,0.6612015962600708,0.0766666666666666,0.162,False,0.003274213289842,0.0838824585080146,0.095669962465763
+and we can thank the team of phil lord and chris miller for that,0.0100653265,0.0,0.0,0.0,False,0.0006318794330582,0.0015761828981339,0.0003591444983612
+"they're of course behind the movie franchises like lego movie 21 jump street, cloudy with a chance of meatballs and chris miller was born and raised right here in lake stephen, so let's hear it for snohomish county",0.06612156,0.0,0.0571428571428571,0.0,False,0.000884699053131,0.0013365108752623,0.0006984489737078
+"okay, back to spider-man the script is really terrific",0.42092466,0.0,0.0,0.0,False,0.0009329736931249,0.0016065745148807,0.0059516616165637
+"it's a great blend of edgy humor and irreverence, self-aware superhero platitudes and genuine emotion, and it's supported by a truly spectacular cast, including the herschel, olly, lily tomlin, christine and nicolas cage as the totally memorable spider-man noir",0.1473238,0.0,0.0,0.0,False,0.0008479696698486,0.0012846750905737,0.0112008703872561
+"but shameik moore, who plays miles is the true standout",0.118584804,0.0,0.0,0.0,False,0.0053226742893457,0.0017173485830426,0.0136250900104641
+he's a spider-man i found myself laughing at and with rooting for and sometimes comparing to my own kid,0.1609341,0.0,0.0,0.0,False,0.0553646832704544,0.0019139306386932,0.0446342937648296
+but the greatest achievement of this movie is the animation,0.06372416,0.0,0.0,0.0,False,0.0006938649457879,0.0004334192490205,0.0004501861694734
+"it is gorgeous, and unlike anything i have ever seen before, it looks like comic book panels come to life",0.0471521,0.0,0.0,0.0,False,0.0026491787284612,0.0004916320904158,0.0004825977957807
+they actually innovated new ways to do animation just for this movie so seriously,0.11472086,0.0,0.0656565656565656,0.147,False,0.000717943534255,0.000383450766094,0.0007097342750057
+every frame is art and purposeful,0.02929751,0.0,0.0,0.0,False,0.000916845514439,0.0004883875371888,0.002796362619847
+so my honest review for spider man into the spider verse is swing yourself into a theater this weekend and see it,0.11085691,0.0,0.0,0.0,False,0.0008280113106593,0.0010130053851753,0.0147232040762901
+bring friends or your family,0.034791227,0.0,0.0,0.0,False,0.0029195437673479,0.0012430305359885,0.0005442744586616
+it was actually a perfect movie for my 13 year old son,0.09333697,0.0,0.0,0.0,False,0.0032241479493677,0.0009146467782557,0.0004756239359267
+but go with someone because you're gonna want to talk to them about this afterwards,0.07251463,0.6133189797401428,0.0,0.0,False,0.0014460695674642,0.0010466653620824,0.0009563955245539
+i promise,0.025005542,0.0,0.0,0.0,False,0.0012736698845401,0.0004980376106686,0.0005441689281724
+"it is not like anything else you've seen this year, and it's not only my favorite animated movie of the year",0.03599298,0.0,0.0,0.195,False,0.0007924840319901,0.0004349355294834,0.0005260772886686
+it's one of my favorite movies of the year period,0.037194733,0.0,0.0,0.0,False,0.0006810448830947,0.0003813039220403,0.0005536800599656
+i hope you love it,0.04783881,0.0,0.0,0.0,False,0.0007936893962323,0.0007350858068093,0.0006512880790978

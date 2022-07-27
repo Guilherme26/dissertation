@@ -1,51 +1,51 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hi, everyone, my name is titian",0.023460433,0.0026792446532232,0.5,0.0,False,0.000806683034170419,0.010994873940944672,0.0021570862736552954
-i'm 17 years old and i love movies,0.09172598,0.0010354993434436,0.35,0.0,False,0.0013103242963552475,0.0014089562464505434,0.0035253006499260664
-that's the reason i started this channel,0.08796701,0.0038579167940737,0.5,0.0,False,0.0010621924884617329,0.0005514848162420094,0.00048677317681722343
-all about movies,0.020963646,0.0003072969846092,0.5,0.0,False,0.0011965043377131224,0.0007178108207881451,0.0006417518015950918
-i hope you'll enjoy my content,0.040971663,0.0076044902136445,0.3,0.0,False,0.0006944848573766649,0.00394417205825448,0.0006354852230288088
-and today i'm going to get started with a review of my favorite movie,0.029812546,0.000784499905525,0.25,0.0,False,0.0006729034357704222,0.0008406585548073053,0.0009866806212812662
-the godfather,0.040284947,3.1114154973526146e-05,0.5,0.0,False,0.0011072119232267141,0.006748012267053127,0.0019002860644832253
-the godfather first appeared in cinemas in march of 1972,0.018187003,0.0019948524551273,0.375,0.0,False,0.0006168145919218659,0.0005716531304642558,0.0003647661651484668
-"it all started when the italian author mario putzo wrote the novel the godfather, which was published in 1969",0.038224805,0.0546873295650634,0.5,0.0,False,0.0005731693236157298,0.00048022743430919945,0.0005779399652965367
-"it is about the corleone family, one of the five great mafia families in new york",0.21186037,0.0178648894642822,0.2659090909090909,0.0,False,0.0009754313505254686,0.008552639745175838,0.021827012300491333
-the novel was very successful and paramount wanted to make a film out of it,0.04783881,0.0104090557688444,0.0124999999999999,0.0,False,0.0009187554242089391,0.0003371427010279149,0.00036189440288580954
-"they bought the book riots for eighty thousand dollars, and wanted director sergio leone to shoot the film, who was hugely successful with his dollar trilogy in the 1960s, starring clint eastwood, but he refused in order to work on his project once upon a time in america, which only appeared in 1984",0.05253629,0.9993494042116168,0.3125,0.114,False,0.000734509842004627,0.0006989919929765165,0.0005757221370004117
-"eventually, indeed, the young director francis ford's, coppola, who had only shot three films at the time, was chosen to realize his grand project",0.013050216,0.0001505638993546,0.4,0.0,False,0.0006369780749082565,0.0005930521292611957,0.0008275265572592616
-"the script was written by him and mario putzo, coppola's last film was the rain people, in which he worked with actors james khan and robert dival, who also previously appeared in well-known films bullets and to kill a mockingbird",0.039598234,0.0998343260656151,0.5416666666666666,0.108,False,0.001069183461368084,0.1311568021774292,0.011475421488285065
-he decided to work with them again,0.022074303,0.0023761796705356,0.5,0.0,False,0.0007243092404678464,0.0004609667230397463,0.0008515436784364283
-they played the character santino corleone and tom hagan,0.03461955,0.0280629709964814,0.5,0.0,False,0.0014704059576615691,0.0009866623440757394,0.0005621497402898967
-"in addition, he decided to give the main roles to al pacino and marlon brando",0.019297661,0.1465037405532478,0.4166666666666667,0.0,False,0.0009277217322960496,0.0005415744963102043,0.0005052800406701863
-paramount disagreed because pacino lacked experience and had only appeared in two films,0.09494796,0.998217790740022,0.5,0.161,False,0.0008240093593485653,0.0003677239583339542,0.0011899331584572792
-at that time,0.021102477,0.1395558662997342,0.5,0.0,False,0.0007571349269710481,0.00037751681520603597,0.0010134218027815223
-"they wanted actor robert redford but coppola insisted that michael corleone had to be played by an italian-american after this film, al pacino became the new star of hollywood",0.04783881,0.1047098307020414,0.4318181818181818,0.0,False,0.0013524738606065512,0.0006533028790727258,0.0004615583748091012
-"in the next 10 years, he acted in the films serpico the godfather 2 dog day afternoon and scarface the studio also did not want to give the role of don vito corleone to brando because he was not very successful in the 60s, and he has had arguments with paramount, but when francis ford coppola shot the first scene with brando, everyone was convinced with his performance",0.062125895,0.0007527002854515,0.5064102564102564,0.07,False,0.0007695775129832327,0.0008916978840716183,0.0003873538807965815
-marlon brenda created one of the most iconic characters in the history of cinema,0.032731086,0.0001055318225682,0.25,0.0,False,0.0008094573859125376,0.0003368535835761577,0.0008308161632157862
-"he then starred in the war film apocalypse now, directed by fred's fort coppola in 1980",0.020408317,0.0083191024818009,0.5,0.206,False,0.0010027092648670077,0.0004716106632258743,0.0004499916103668511
-the corleone family is one of the big five mafia families in new york city,0.2712817,0.1880676917648223,0.4659090909090909,0.0,False,0.0034340398851782084,0.018751205876469612,0.18325446546077728
-don vito corleone is the boss,0.04268845,0.8393477829376411,0.5,0.0,False,0.026698049157857895,0.005099608097225428,0.0021649820264428854
-"he has three sons, santino fredder and michael",0.06252546,0.0005214601241109,0.5,0.0,False,0.001146812574006617,0.0031759191770106554,0.0019057728350162506
-"in addition, he has an adopted son tom hagan, who is his conciliare and a daughter, connie",0.02397547,0.0018681904257811,0.5,0.0,False,0.002265340182930231,0.021045854315161705,0.010800221003592014
-the story begins in 1945,0.021380141,0.0078281902588852,0.5,0.0,False,0.0007448100368492305,0.0003293316112831235,0.00025176702183671296
-"after a long time, the whole corlon family joined together for the wedding of connie corleone",0.013883209,0.0013321269147573,0.4625,0.0,False,0.0007223402499221265,0.005785529501736164,0.001550974790006876
-michael was in world war ii to avoid being implicated in the family's criminal activities,0.08850401,0.0044370751979056,0.7,0.442,False,0.0017249500378966331,0.0038019632920622826,0.0016997349448502064
-"indeed, tragic circumstances forced him to change his life plans",0.032559406,0.9779216459745615,0.7625,0.429,False,0.0011994238011538982,0.000607543857768178,0.0011893309419974685
-the godfather is considered one of the best movies of all time,0.04680874,4.655202113855157e-05,0.0,0.0,False,0.0007435569423250854,0.0012878291308879852,0.0009141819318756461
-it ranked second on imdb,0.026894007,0.0908416200103356,0.5,0.0,False,0.000754748354665935,0.0004323793400544673,0.000537560903467238
-the biggest site to raid movies behind the showshank redemption,0.054534122,0.8531472981051956,0.7,0.0,False,0.001102334470488131,0.04565075784921646,0.00378704397007823
-the budget for the film was 6 million dollars and it crossed 246 million dollars,0.031529333,0.9971960006985784,0.5,0.0,False,0.0007894291775301099,0.0003936431312467903,0.0003541605547070503
-it was nominated for 11 oscars and won three of them,0.032731086,5.048599475589396e-05,0.5,0.0,False,0.0010424103820696473,0.0006402705912478268,0.0013588514411821961
-it also won 26 awards and received 30 nominations,0.0224908,0.0006095274880445,0.5,0.0,False,0.0007079098140820861,0.00033455915399827063,0.0003312009503133595
-"it has inspired many other representations of the italian american mafia, such as the movie goodfellas and the series the sopranos, even real mafia members loved the movie and said their sense of life was perfectly captivated, even though they wanted to prevent the film from being made at first",0.080905534,0.0001773566439151,0.3597222222222222,0.0,False,0.0005876684444956481,0.0017454295884817839,0.0002223815827164799
-"because of the success of the first movie, a sequel was made in this film, the youth of don vito corleone, which also makes it a prequel, and the raid of michael corleone as boss of the corleone family are shown",0.02262963,0.0480008261344596,0.3625,0.0,False,0.0006706220447085798,0.0009035677649080753,0.000592813070397824
-"robert de niro was chosen to play young vito corrione, who starred in martin scorsese's 1973 film mean streets, in 1990, a third film was made, which suffered greatly from the high expectations and was not so popular",0.02655065,0.9986917451524208,0.3877083333333333,0.141,False,0.0007664684089832008,0.0004040252242702991,0.00038099143421277404
-"so now that you have the basic information i would like to talk about bit about what this movie means to me personally, i can remember the first time i saw it",0.040284947,0.0158689641072591,0.4583333333333333,0.0,False,0.0005472562042996287,0.0005182762979529798,0.0004777504946105182
-i was 13 years old and also wasn't aware of the movie status or anything,0.04783881,0.9999714488884438,0.4125,0.0,False,0.0009404746815562248,0.0004548259312286973,0.0031373968813568354
-i just randomly picked it,0.030155903,0.9937603006032688,0.75,0.0,False,0.00066761439666152,0.00046537231537513435,0.0005129749188199639
-"but and also, i wasn't that into movies",0.025863936,0.9899442567859554,0.5,0.0,False,0.001216713571920991,0.0006698428187519312,0.0004145908751524985
-in general,0.017145762,0.0404789791696097,0.475,0.0,False,0.0008333720033988357,0.00046795009984634817,0.0006040201988071203
-"i was just out for the quick entertainment comedies, blockbusters and stuff like that, but when i saw the godfather for the first time, i was completely fascinated because i've never seen anything so so well scripted so well acted before",0.084745035,0.0,0.3861111111111111,0.0,False,0.000591062125749886,0.0007486191461794078,0.0004654468211811036
-it was just amazing and every character so rich and so mysterious and intriguing,0.049212243,0.0008656530127979,0.3406249999999999,0.0,False,0.0005891599575988948,0.0003462712629698217,0.0007400417234748602
-"and yeah, this movie woke my interest for movies",0.048525527,0.0032233251256338,0.5,0.0,False,0.0006394823431037366,0.0006895976839587092,0.0003910968080163002
-in general,0.017145762,0.0404789791696097,0.475,0.0,False,0.0008333720033988357,0.00046795009984634817,0.0006040201988071203
-"the problem was that i have started off with the best of the best already, and the godfather for me, will always be unreached based on quality",0.060927194,0.9985391844634268,0.0,0.077,False,0.0007164047565311193,0.0007505241665057838,0.0004675771342590451
+"hi, everyone, my name is titian",0.023460433,0.0,0.0,0.0,False,0.0008066830341704,0.0109948739409446,0.0021570862736552
+i'm 17 years old and i love movies,0.09172598,0.0,0.0,0.0,False,0.0013103242963552,0.0014089562464505,0.003525300649926
+that's the reason i started this channel,0.08796701,0.0,0.0,0.0,False,0.0010621924884617,0.000551484816242,0.0004867731768172
+all about movies,0.020963646,0.0,0.0,0.0,False,0.0011965043377131,0.0007178108207881,0.000641751801595
+i hope you'll enjoy my content,0.040971663,0.0,0.0,0.0,False,0.0006944848573766,0.0039441720582544,0.0006354852230288
+and today i'm going to get started with a review of my favorite movie,0.029812546,0.0,0.0,0.0,False,0.0006729034357704,0.0008406585548073,0.0009866806212812
+the godfather,0.040284947,0.0,0.0,0.0,False,0.0011072119232267,0.0067480122670531,0.0019002860644832
+the godfather first appeared in cinemas in march of 1972,0.018187003,0.0,0.0,0.0,False,0.0006168145919218,0.0005716531304642,0.0003647661651484
+"it all started when the italian author mario putzo wrote the novel the godfather, which was published in 1969",0.038224805,0.0,0.0,0.0,False,0.0005731693236157,0.0004802274343091,0.0005779399652965
+"it is about the corleone family, one of the five great mafia families in new york",0.21186037,0.0,0.0,0.0,False,0.0009754313505254,0.0085526397451758,0.0218270123004913
+the novel was very successful and paramount wanted to make a film out of it,0.04783881,0.0,0.0,0.0,False,0.0009187554242089,0.0003371427010279,0.0003618944028858
+"they bought the book riots for eighty thousand dollars, and wanted director sergio leone to shoot the film, who was hugely successful with his dollar trilogy in the 1960s, starring clint eastwood, but he refused in order to work on his project once upon a time in america, which only appeared in 1984",0.05253629,0.9986988306045532,0.0,0.114,False,0.0007345098420046,0.0006989919929765,0.0005757221370004
+"eventually, indeed, the young director francis ford's, coppola, who had only shot three films at the time, was chosen to realize his grand project",0.013050216,0.0,0.0,0.0,False,0.0006369780749082,0.0005930521292611,0.0008275265572592
+"the script was written by him and mario putzo, coppola's last film was the rain people, in which he worked with actors james khan and robert dival, who also previously appeared in well-known films bullets and to kill a mockingbird",0.039598234,0.0,0.0833333333333333,0.108,False,0.001069183461368,0.1311568021774292,0.011475421488285
+he decided to work with them again,0.022074303,0.0,0.0,0.0,False,0.0007243092404678,0.0004609667230397,0.0008515436784364
+they played the character santino corleone and tom hagan,0.03461955,0.0,0.0,0.0,False,0.0014704059576615,0.0009866623440757,0.0005621497402898
+"in addition, he decided to give the main roles to al pacino and marlon brando",0.019297661,0.0,0.0,0.0,False,0.000927721732296,0.0005415744963102,0.0005052800406701
+paramount disagreed because pacino lacked experience and had only appeared in two films,0.09494796,0.9964356422424316,0.0,0.161,False,0.0008240093593485,0.0003677239583339,0.0011899331584572
+at that time,0.021102477,0.0,0.0,0.0,False,0.000757134926971,0.000377516815206,0.0010134218027815
+"they wanted actor robert redford but coppola insisted that michael corleone had to be played by an italian-american after this film, al pacino became the new star of hollywood",0.04783881,0.0,0.0,0.0,False,0.0013524738606065,0.0006533028790727,0.0004615583748091
+"in the next 10 years, he acted in the films serpico the godfather 2 dog day afternoon and scarface the studio also did not want to give the role of don vito corleone to brando because he was not very successful in the 60s, and he has had arguments with paramount, but when francis ford coppola shot the first scene with brando, everyone was convinced with his performance",0.062125895,0.0,0.0128205128205128,0.07,False,0.0007695775129832,0.0008916978840716,0.0003873538807965
+marlon brenda created one of the most iconic characters in the history of cinema,0.032731086,0.0,0.0,0.0,False,0.0008094573859125,0.0003368535835761,0.0008308161632157
+"he then starred in the war film apocalypse now, directed by fred's fort coppola in 1980",0.020408317,0.0,0.0,0.206,False,0.001002709264867,0.0004716106632258,0.0004499916103668
+the corleone family is one of the big five mafia families in new york city,0.2712817,0.0,0.0,0.0,False,0.0034340398851782,0.0187512058764696,0.1832544654607772
+don vito corleone is the boss,0.04268845,0.6787010431289673,0.0,0.0,False,0.0266980491578578,0.0050996080972254,0.0021649820264428
+"he has three sons, santino fredder and michael",0.06252546,0.0,0.0,0.0,False,0.0011468125740066,0.0031759191770106,0.0019057728350162
+"in addition, he has an adopted son tom hagan, who is his conciliare and a daughter, connie",0.02397547,0.0,0.0,0.0,False,0.0022653401829302,0.0210458543151617,0.010800221003592
+the story begins in 1945,0.021380141,0.0,0.0,0.0,False,0.0007448100368492,0.0003293316112831,0.0002517670218367
+"after a long time, the whole corlon family joined together for the wedding of connie corleone",0.013883209,0.0,0.0,0.0,False,0.0007223402499221,0.0057855295017361,0.0015509747900068
+michael was in world war ii to avoid being implicated in the family's criminal activities,0.08850401,0.0,0.4,0.442,False,0.0017249500378966,0.0038019632920622,0.0016997349448502
+"indeed, tragic circumstances forced him to change his life plans",0.032559406,0.9558440446853638,0.525,0.429,False,0.0011994238011538,0.0006075438577681,0.0011893309419974
+the godfather is considered one of the best movies of all time,0.04680874,0.0,0.0,0.0,False,0.000743556942325,0.0012878291308879,0.0009141819318756
+it ranked second on imdb,0.026894007,0.0,0.0,0.0,False,0.0007547483546659,0.0004323793400544,0.0005375609034672
+the biggest site to raid movies behind the showshank redemption,0.054534122,0.7062996029853821,0.4,0.0,False,0.0011023344704881,0.0456507578492164,0.0037870439700782
+the budget for the film was 6 million dollars and it crossed 246 million dollars,0.031529333,0.9943920969963074,0.0,0.0,False,0.0007894291775301,0.0003936431312467,0.000354160554707
+it was nominated for 11 oscars and won three of them,0.032731086,0.0,0.0,0.0,False,0.0010424103820696,0.0006402705912478,0.0013588514411821
+it also won 26 awards and received 30 nominations,0.0224908,0.0,0.0,0.0,False,0.000707909814082,0.0003345591539982,0.0003312009503133
+"it has inspired many other representations of the italian american mafia, such as the movie goodfellas and the series the sopranos, even real mafia members loved the movie and said their sense of life was perfectly captivated, even though they wanted to prevent the film from being made at first",0.080905534,0.0,0.0,0.0,False,0.0005876684444956,0.0017454295884817,0.0002223815827164
+"because of the success of the first movie, a sequel was made in this film, the youth of don vito corleone, which also makes it a prequel, and the raid of michael corleone as boss of the corleone family are shown",0.02262963,0.0,0.0,0.0,False,0.0006706220447085,0.000903567764908,0.0005928130703978
+"robert de niro was chosen to play young vito corrione, who starred in martin scorsese's 1973 film mean streets, in 1990, a third film was made, which suffered greatly from the high expectations and was not so popular",0.02655065,0.9973835349082947,0.0,0.141,False,0.0007664684089832,0.0004040252242702,0.0003809914342127
+"so now that you have the basic information i would like to talk about bit about what this movie means to me personally, i can remember the first time i saw it",0.040284947,0.0,0.0,0.0,False,0.0005472562042996,0.0005182762979529,0.0004777504946105
+i was 13 years old and also wasn't aware of the movie status or anything,0.04783881,0.9999428987503052,0.0,0.0,False,0.0009404746815562,0.0004548259312286,0.0031373968813568
+i just randomly picked it,0.030155903,0.9875208139419556,0.5,0.0,False,0.0006676143966615,0.0004653723153751,0.0005129749188199
+"but and also, i wasn't that into movies",0.025863936,0.9798888564109802,0.0,0.0,False,0.0012167135719209,0.0006698428187519,0.0004145908751524
+in general,0.017145762,0.0,0.0,0.0,False,0.0008333720033988,0.0004679500998463,0.0006040201988071
+"i was just out for the quick entertainment comedies, blockbusters and stuff like that, but when i saw the godfather for the first time, i was completely fascinated because i've never seen anything so so well scripted so well acted before",0.084745035,0.0,0.0,0.0,False,0.0005910621257498,0.0007486191461794,0.0004654468211811
+it was just amazing and every character so rich and so mysterious and intriguing,0.049212243,0.0,0.0,0.0,False,0.0005891599575988,0.0003462712629698,0.0007400417234748
+"and yeah, this movie woke my interest for movies",0.048525527,0.0,0.0,0.0,False,0.0006394823431037,0.0006895976839587,0.0003910968080163
+in general,0.017145762,0.0,0.0,0.0,False,0.0008333720033988,0.0004679500998463,0.0006040201988071
+"the problem was that i have started off with the best of the best already, and the godfather for me, will always be unreached based on quality",0.060927194,0.9970784187316895,0.0,0.077,False,0.0007164047565311,0.0007505241665057,0.000467577134259

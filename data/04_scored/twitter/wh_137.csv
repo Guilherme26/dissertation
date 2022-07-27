@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"this is why nobody's "" relationship "" works today . its because people feel the need to broadcast to everyone about everything that goes on .",0.026894007,0.0,0.0,0.0,0.0008190317894332,0.0006327649462036,0.0006795290391892,False
+"this is why nobody's "" relationship "" works today . its because people feel the need to broadcast to everyone about everything that goes on .",0.026894007,0.8398814797401428,0.0,0.0,0.0008190317894332,0.0006327649462036,0.0006795290391892,False

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user omg i keep sayin boo wen i mean boy,0.14283726,0.0,0.0,0.0,0.0171168092638254,0.0076437038369476,0.0039210761897265,False
+@user omg i keep sayin boo wen i mean boy,0.14283726,0.9989820122718811,0.3125,0.0,0.0171168092638254,0.0076437038369476,0.0039210761897265,False

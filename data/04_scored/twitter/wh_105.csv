@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-#fictionaldeathsiwillnevergetover frank castle's entire family murdered on the vacation island . the punisher,0.31089294,0.0,0.0,0.399,0.0482188537716865,0.0303989276289939,0.0470483340322971,False
+#fictionaldeathsiwillnevergetover frank castle's entire family murdered on the vacation island . the punisher,0.31089294,0.9990283250808716,0.0,0.399,0.0482188537716865,0.0303989276289939,0.0470483340322971,False

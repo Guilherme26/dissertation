@@ -1,103 +1,103 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"hello, everybody, and welcome to reviews",0.020824814,0.0171997736181722,0.0999999999999999,0.0,False,0.0005405968404375017,0.00041507332934997976,0.00024093766114674509
-that don't matter what jessica hit,0.2712817,0.998064846651346,0.5,0.177,False,0.02520165592432022,0.024946238845586777,0.09667728841304779
-"my name is jessica on today's episode we are talking all about roma, netflix",0.016382186,0.2088734762217123,0.5,0.0,False,0.0006736054201610386,0.0005675747524946928,0.00069481908576563
-"his latest bid to get into the oscars and guess what it did? it got a whole bunch of nominations and it's probably the front-runner now, which is crazy, because literally a week ago i was like stars borns the front-runner but somehow it's lost steam in about a week, and roma has picked up major steam, including a surprise best supporting actress nomination for marina date, or vino, i think is her name, which her name has not been anywhere in the conversation of best supporting actress and it's definitely a little shocking",0.21980777,0.9999837872940666,0.42625,0.065,False,0.0008145157480612397,0.0008941401029005647,0.0012446679174900055
-"elisa aparicio obviously got nominated for best actress and she has, kind of, she was kind of in that 5-slot wildcard of maybe sneakin somebody else in there, but she got in there",0.16344422,0.0194277689677483,0.2249999999999999,0.0,False,0.0009000877616927028,0.0009023679886013269,0.00510000716894865
-"you also have best picture, best foreign language film",0.05773066,0.0011327138132552,0.1875,0.0,False,0.0007188811432570219,0.0007707855547778308,0.003949347417801619
-i think you also have best original screenplay and best director and a whole bunch of technical awards,0.042001735,0.0002244148449972,0.2425,0.0,False,0.0005968038458377123,0.0004161099495831877,0.0007764187757857144
-"i believe i'm pretty sure best cinematography, which should definitely get there, and i actually think that it has a really good chance of winning that one",0.03221605,3.76706990805548e-05,0.2892857142857142,0.0,False,0.0005403097020462155,0.0003349868056830019,0.0003900356823578477
-but let's get to what i thought about this movie,0.029469188,0.9983403136383726,0.5,0.0,False,0.0006043734611012042,0.0005024880520068109,0.0006676777265965939
-i am surprised how much i enjoyed this movie,0.0717155,0.0007724877532974,0.35,0.0,False,0.0006637393962591887,0.0006176961469464004,0.000383171223802492
-i,0.018187003,0.1366307612848927,0.5,0.0,False,0.0033499409910291433,0.0023471140302717686,0.0006465429905802011
-i genuinely thought that i might be a little bored,0.10031791,0.9999724026365912,0.5479166666666666,0.167,False,0.0008033629856072366,0.0021120812743902206,0.0027999163139611483
-"i don't watch a lot of foreign language, which is my fault",0.11085691,0.9997816351169596,0.5625,0.197,False,0.003320244839414954,0.019265001639723778,0.004564566537737846
-"i know, and i also very much you don't watch a lot of black and white",0.17449278,0.2158855311434458,0.4844444444444444,0.0,False,0.013172203674912453,0.29387804865837097,0.0621529221534729
-"roma is a very quiet story, and there is a good",0.06332459,0.0138582276353321,0.325,0.0,False,0.00061844103038311,0.00037932777195237577,0.0015549709787592292
-"like, first 20 minute section of the movie were like",0.035306264,0.999718751275931,0.375,0.0,False,0.0009191629942506552,0.00041279004653915763,0.0006202523363754153
-"what is the plot of this? like where are we going? and then you just kind of disappear back into the movie and then somehow you come out at the very end just like, really grateful for watching it",0.09494796,0.0022474565572497,0.375,0.047,False,0.0013287567999213934,0.0006555257132276893,0.0015928533393889666
-it's a,0.019714156,0.0849207529490584,0.5,0.0,False,0.0036705501843243837,0.000598322250880301,0.003711446886882186
-"it's like i said, a quiet film, but it speaks volumes",0.05093802,0.0510323231883716,0.5,0.0,False,0.0006004007300361991,0.00041844509541988373,0.0006765745929442346
-"it's a really corny thing for me to say, but i do think that is the case",0.17759849,0.7747565188340084,0.4,0.0,False,0.0006763670244254172,0.004580269102007151,0.0023887872230261564
-i think,0.021518974,0.0872303780808984,0.5,0.0,False,0.0007737225387245417,0.00044740730663761497,0.0003764085122384131
-i believe i haven't read a lot about this movie,0.037881445,0.9916028614233862,0.5,0.0,False,0.0006068745860829949,0.0007570011075586081,0.0005568385822698474
-"i believe this is alfonso cuaron's sort of tribute to his mother, which is really sweet",0.044405237,0.0088789003255356,0.325,0.0,False,0.000868108356371522,0.0010226950980722904,0.019439684227108955
-i think that you leap to aparicio,0.08850401,0.0005014017732051,0.5,0.0,False,0.006479352246969938,0.008989068679511547,0.025538144633173943
-"i was a little skeptical of her because i knew that she hadn't really acted before this, but towards the end of that movie she's absolutely enthralling",0.104076885,0.0001819459002268,0.5359375,0.055,False,0.0009573185816407204,0.0005699464818462729,0.01925680972635746
-"i do think that marina del corvina, i could be giving that last name wrong",0.057331093,0.999667967358816,0.625,0.168,False,0.0006998765747994184,0.0026245221961289644,0.0007475551101379097
-"i'm sorry, too lazy",0.22987647,0.9988016604910364,0.6875,0.655,False,0.08705293387174606,0.25819432735443115,0.19360263645648956
-"look, time to be",0.02792408,0.0006296132822593,0.5,0.0,False,0.0035315356217324734,0.0004924101522192359,0.0005612909444607794
-i,0.018187003,0.1366307612848927,0.5,0.0,False,0.0033499409910291433,0.0023471140302717686,0.0006465429905802011
-i think that she actually did a really great job,0.02517722,0.0027549678979481,0.3,0.0,False,0.0006454080576077104,0.00040830348734743893,0.0014262422919273376
-i watched romo after i'd known that she was nominated for best supporting actress and i think she's deserving for sure,0.028782474,0.0001038626473858,0.20625,0.0,False,0.0007021368946880102,0.0008010688470676541,0.0013173416955396533
-"there is a lot of those random movies i have not seen yet, so it's hard to say if i think that somebody should win",0.09602194,0.9818176887178344,0.4986111111111111,0.059,False,0.0006848305347375572,0.0006137932650744915,0.00045267862151376903
-"i think we all know regina king is going to be winning, for bill street could talk, and most likely dame judi dench, for the wife is gonna be waiting for best actress",0.0825038,0.0430980812083711,0.25,0.0,False,0.0008586530457250774,0.00671794731169939,0.012255951762199402
-one thing i will say is i don't quite understand why it's in black and white,0.08555053,0.2012248639727149,0.5416666666666666,0.0,False,0.0008896432700566947,0.20535576343536377,0.048535075038671494
-i would really like to see this movie in color,0.03461955,0.0018277739746134,0.4,0.0,False,0.0006365930312313139,0.0026751994155347347,0.0018330537714064121
-"personally, i think that there are some scenes that it would really add to it",0.02262963,0.0466246725793372,0.45,0.0,False,0.0005920868716202676,0.0003578642208594829,0.00026391129358671606
-"i feel like black and white kind of just adds that prestige ness to a movie which is really just like dumb, which is why it like the academy awards fail every years because they think that dramas are the only ones that could ever be",0.45120096,0.9996685038086448,0.5172619047619048,0.122,False,0.006564628798514605,0.635634183883667,0.5491194128990173
-"you know a best picture, which is stupid",0.7509647,0.9979527286371522,0.4499999999999999,0.25,True,0.8930997252464294,0.9933752417564392,0.9834532141685486
-"thankfully, it's changing a little bit with you know black panther getting in there",0.082104236,0.2206573715806166,0.5885416666666666,0.0,False,0.0009914473630487919,0.05820748955011368,0.08785688877105713
-i think it's atrocious that eighth grade is not in there and bohemian rhapsody is for best picture,0.15246986,0.998554655147698,0.425,0.0,False,0.0009613342117518187,0.007445172872394323,0.002953434130176902
-"but you know what some people liked it? apparently, this is also a film that surprised me in the ending - with what happened to you, lisa, and it was something i wasn't expecting and i was like, oh, wait, are they really doing this and that was a moment in the hospital towards the end right before that final act at the beach where i was like, i'm really glad that this is not in color like black and white makes this like easier to stomach",0.09065199,0.0871498211982918,0.4128306878306878,0.025,False,0.0007080214563757181,0.023728156462311745,0.014722941443324089
-"and then it also is very artistically crafted to make you feel anxious at times, and in a way that really surprised me as well, considering this is a movie that really doesn't have much dialogue and it's it's black and white and on top of that the foreign language, so i'm reading subtitles which, sometimes you can get lost and reading the subtitles and miss things on screen because of it, but i didn't think i thought, because there wasn't that much dialogue",0.089577995,0.0,0.4570833333333333,0.051,False,0.0006453071837313473,0.01162487082183361,0.0035567160230129957
-"it worked in this case, and then that final act at the beach with alisa and the kids from the beginning of her, kind of in her own state of mind after what had just happened and the announcement that was made by the the mother played by marina",0.030327583,0.0040323741511054,0.3,0.0,False,0.0008961102575995028,0.0007434877916239202,0.0005776098114438355
-"and then what happens at the beach in a very much like, oh no, what is going to happen? i mean you, you were just confronted with something that you thought was nearly impossible in this film and then you get another moment",0.09870692,0.8809321888672951,0.6198611111111111,0.039,False,0.0007300538127310574,0.0005725883529521525,0.006188381463289261
-"you're like they're definitely not gonna do this right, and they do it in a way that that really like heals the souls of the characters, but also, in my opinion, the soul of the the person watching the film because of just how hurt i think that somebody who's really into this movie gets at what at one point and like how, kind of, just like, shocked and like, almost bitter is a strong word",0.18055865,0.7816006947621337,0.4425595238095238,0.108,False,0.001793685252778232,0.0012645995011553168,0.0011512640630826354
-but you almost feel a little bit betrayed by this movie because you don't think it's going that way and then it shoves life back in your face and that life isn't always fair and life is really hard sometimes and then towards the end it kind of like shows back your your heart back together in a really sweet way that makes you think that everyone's going to be alright even though this terrible thing had happened,0.17173064,0.0193756141232934,0.4905092592592592,0.145,False,0.004734027199447155,0.000635071424767375,0.0006333003984764218
-and what i really liked about this movie is it does not outright say anything like,0.14463188,0.0011637682977821,0.2,0.0,False,0.0006954411510378122,0.00045267061796039343,0.0006448651547543705
-it really lets the the person watching the movie fill in some blanks,0.090114996,0.0012892081493881,0.4,0.0,False,0.0008781109936535358,0.003727847244590521,0.0012867936166003346
-it has them kind of discover things very slowly,0.0801064,0.9564592284718958,0.4475,0.0,False,0.0006343735731206834,0.0003457261773291975,0.0007651162450201809
-wonder about things,0.022773718,0.0010919734290439,0.5,0.0,False,0.0007207291782833636,0.00045188405783846974,0.0006906326161697507
-"it because there's not a lot of dialogue because we're seeing it pretty much solely through he elites, his eyes, or clio, which is her character's name",0.02929751,0.9572447698376912,0.3875,0.0,False,0.000642079976387322,0.0007018115138635039,0.0019386118510738015
-cleo's eyes,0.021657806,0.0013110237757544,0.5,0.0,False,0.004239336121827364,0.04865911230444908,0.0008047136943787336
-"we, we kind of get snippets of snippets of conversations in certain areas, especially when it comes down to clio",0.027752401,0.8861559584823596,0.4176587301587302,0.0,False,0.0008835529442876577,0.000367255910532549,0.002486791228875518
-she's a a main kind of housekeeper,0.09655894,0.0012983874020122,0.3083333333333333,0.0,False,0.04401146620512009,0.04849987477064133,0.005041987635195255
-"she she lives in right next to this big house, kind of connected to it",0.023803791,0.0654742678428428,0.3892857142857143,0.0,False,0.0009202439105138183,0.0005899404059164226,0.001503446837887168
-where her and her friend adela,0.015410362,0.0126527950675226,0.5,0.0,False,0.0009019373101182282,0.0011090661864727736,0.030904581770300865
-i believe they're just friends,0.029984225,0.000348901008019,0.5,0.0,False,0.000645316147711128,0.0004181928525213152,0.0006777262897230685
-"there might be cousins or something, but i think they're just friends",0.03839648,0.0017581249051899,0.5,0.0,False,0.000548454700037837,0.0004630112089216709,0.0005401585949584842
-"they are the housekeeper's for this, this couple who are both scientists",0.031185975,0.0008828176013957,0.5,0.0,False,0.0011343391379341483,0.001190969138406217,0.002112637273967266
-one is like a biochemist and one is actually a surgeon,0.031185975,0.0038739128322673,0.5,0.0,False,0.0011510464828461409,0.001686318777501583,0.06550577282905579
-i believe so their doctors live in this really nice place and she's part the family,0.011314815,0.0058082019006417,0.3159090909090909,0.0,False,0.001112012891098857,0.00041788024827837944,0.00040806239121593535
-"she takes care of these kids, and you see, at the beginning there's something going on between the the mother and the father, and then we kind of don't visit that too much, and we're looking more at what clio is doing, and then you can another snippet of that and you're kind of placing it, putting everything together like a puzzle until the very ending where everything starts to make sense",0.06851897,0.0326812984350864,0.29,0.0,False,0.001027342863380909,0.000759270740672946,0.0006759111420251429
-then you start to escalate,0.03994159,0.960154026666921,0.5,0.0,False,0.0048567443154752254,0.0008624125621281564,0.014516555704176426
-"you see emotions boil over, you see regretful actions taken you, you see the real loving care that this family has for cleo",0.039254878,0.0004178646137725,0.05,0.097,False,0.001062139868736267,0.0016033097635954618,0.007974822074174881
-it's really sweet,0.04543531,0.0001995295335002,0.325,0.0,False,0.0006914693512953818,0.00032652789377607405,0.0019929686095565557
-i would,0.0253489,0.0387127826755316,0.5,0.0,False,0.01106255128979683,0.0021430167835205793,0.0005141809233464301
-"i would really recommend this to people, even though it's kind of scary because it's a four language film and it's in black and white, but alfonzo quran is one of the best filmmakers of our time, especially working right now, and he just knows how to craft a movie really well, and this is a very personal story for him",0.052136723,0.0001057104190179,0.419047619047619,0.032,False,0.0005788683192804456,0.01696530543267727,0.004988057538866997
-"and i think that you know what, i would not be mad if roma won best picture as well as because it's gonna win best foreign film and he's definitely gonna win best director",0.09655894,0.0002320443536718,0.259375,0.0,False,0.0011256932048127055,0.0007518596248701215,0.008812650106847286
-"in my opinion, i mean, you might get jurgis lamp the most coming in",0.053335425,0.9671750522219008,0.453125,0.0,False,0.013709843158721924,0.004100242629647255,0.004804651718586683
-there's randomly,0.023803791,0.9330507931559732,0.75,0.0,False,0.0008505068835802376,0.0006903200410306454,0.0007217237143777311
-"actually, is he even nominated? i don't remember",0.02809576,0.9987482539303144,0.5,0.0,False,0.0007714824751019478,0.0007086006226018071,0.0004753649409394711
-it's a weird best director nomination like bradley cooper wasn't nominated,0.019297661,0.988438224672937,0.375,0.104,False,0.0011817844351753592,0.000691541179548949,0.00421689311042428
-i can't remember if you're atlanta,0.017770508,0.1105359640435561,0.5,0.0,False,0.0010914858430624008,0.007842954248189926,0.0025391271337866783
-most wasn't nominated,0.01999182,0.9929196371334148,0.25,0.0,False,0.0007132901228033006,0.0004989478038623929,0.00033243498182855546
-"they skip here freely, which i green book is the only of these oscar films that i have not seen, so i got to do that before february",0.05373499,0.9924951563050886,0.4666666666666667,0.0,False,0.0006615063757635653,0.0016133508179336786,0.0006416845135390759
-"whatever, and but i do think alfonso cron's gonna get a take",0.105704986,0.2188826763362741,0.5,0.0,False,0.0011161630973219872,0.0010605984134599566,0.001990116899833083
-"best director, and i think that it has a really good shot",0.06412373,0.0001051739691893,0.075,0.0,False,0.0005605434998869896,0.00533142127096653,0.004690046422183514
-probably the best shot at best picture,0.052935857,4.231993092910428e-06,0.0,0.0,False,0.0005987717886455357,0.001304099801927805,0.0029230397194623947
-but there are,0.01721518,0.1066090022837861,0.5,0.0,False,0.0008906420553103089,0.00041218899423256516,0.0004329615330789238
-"i mean, a star is born is still in the way, green book, i guess is still in the way",0.034962907,0.9951745741854978,0.628125,0.0,False,0.0010304565075784922,0.0006559941684827209,0.0006286767311394215
-"i'd be pretty shocked if green book won, but there's still",0.08635602,0.1339593007436088,0.6083333333333333,0.117,False,0.0005849060253240168,0.0005645159399136901,0.0004136588249821216
-"i mean, in my opinion, out of the eight that are nominated, i think black cap landsman is the best film",0.06372416,0.0001413843326251,0.4131944444444444,0.0,False,0.0008717073942534626,0.0380774587392807,0.010288660414516926
-"it's what i would put towards it, and to be honest, as long as bohemian rhapsody in, i'm gonna be fairly happy",0.10699297,0.0008841885287356,0.275,0.0,False,0.0005641265888698399,0.03679681941866875,0.0013652483467012644
-"oh, with the best picture person with the oscars, i would think that if bohemian rhapsody won, i would probably throw something at the tv",0.1423886,0.9968124747235272,0.0,0.0,False,0.0008247850346378982,0.13384701311588287,0.011329254135489464
-"but back to roma, because that's what this is about",0.035477944,0.9872537732539824,0.5,0.0,False,0.0007744078175164759,0.0005198947037570179,0.0038910950534045696
-i do,0.020824814,0.0058852122538254,0.5,0.0,False,0.0019158989889547229,0.0006847989279776812,0.00046340838889591396
-"watch it, please do",0.056931525,0.0056287892357169,0.5,0.0,False,0.000693557842168957,0.0005195043631829321,0.000568048853892833
-it's on netflix,0.011523063,0.028323299237973,0.5,0.0,False,0.0009518061997368932,0.0005039904499426484,0.0006286009447649121
-it's not very long,0.02262963,0.9980691680527436,0.4903846153846153,0.0,False,0.0007188907475210726,0.00035464708344079554,0.0005892815534025431
-it's like an hour,0.03616466,0.9383304727642932,0.5,0.0,False,0.0021788959857076406,0.0004114191688131541,0.001387517317198217
-forty minutes,0.043031808,0.2432002749007344,0.5,0.0,False,0.0030499061103910208,0.001630108803510666,0.0008828220888972282
-just pay attention to it,0.04131502,0.0250763174388216,0.5,0.259,False,0.0008057638187892735,0.002078704070299864,0.0008701597107574344
-put your phone down during this and that's something that i have a hard time doing at home when i watching movies,0.036851373,0.9967546871558712,0.6118055555555556,0.062,False,0.02672368846833706,0.005426902323961258,0.0013904572697356343
-putting my phone down and i did during this and i very much enjoyed it,0.044405237,0.0113621265824897,0.4138888888888888,0.0,False,0.001374510582536459,0.0016962036024779081,0.0005968727055005729
-"and yeah, i think most people can enjoy",0.026207292,0.0004556545239261,0.275,0.0,False,0.0006274376646615565,0.0004639989056158811,0.0009388559847138822
-"i think it'll it'll touch a lot of people's souls in a good way, and y'all souls need to be touched",0.1943727,0.0003061042327977,0.15,0.0,False,0.0010317699052393436,0.5029609203338623,0.1995970904827118
-okay,0.017145762,0.7800615009925812,0.25,0.0,False,0.0009591358248144388,0.0007199328392744064,0.000499406480230391
-i hope you guys liked this review,0.027580723,0.0052502344732792,0.2,0.0,False,0.0005932369967922568,0.0005580510478466749,0.00029084275593049824
-"if you did give it a thumbs up comment down below, what are your thoughts on roma? what do you think is gonna win best picture at the oscars at least at this moment in time",0.08689302,0.0263901426747924,0.3319444444444445,0.0,False,0.0006456661503762007,0.0006004914757795632,0.0007138640503399074
-"also, don't forget to subscribe",0.039254878,0.1280670848392423,0.5,0.0,False,0.001120041124522686,0.000545016024261713,0.0004213806241750717
-"i make videos monday through friday, and i will see you guys tomorrow",0.119228795,0.0019683834352637,0.5,0.0,False,0.0007768579525873065,0.02237158641219139,0.0008111646166071296
-bye,0.055732824,0.0100115843360226,0.5,0.0,False,0.005914463195949793,0.0005959753761999309,0.0006211299332790077
+"hello, everybody, and welcome to reviews",0.020824814,0.0,0.0,0.0,False,0.0005405968404375,0.0004150733293499,0.0002409376611467
+that don't matter what jessica hit,0.2712817,0.9961297512054443,0.0,0.177,False,0.0252016559243202,0.0249462388455867,0.0966772884130477
+"my name is jessica on today's episode we are talking all about roma, netflix",0.016382186,0.0,0.0,0.0,False,0.000673605420161,0.0005675747524946,0.0006948190857656
+"his latest bid to get into the oscars and guess what it did? it got a whole bunch of nominations and it's probably the front-runner now, which is crazy, because literally a week ago i was like stars borns the front-runner but somehow it's lost steam in about a week, and roma has picked up major steam, including a surprise best supporting actress nomination for marina date, or vino, i think is her name, which her name has not been anywhere in the conversation of best supporting actress and it's definitely a little shocking",0.21980777,0.9999675750732422,0.0,0.065,False,0.0008145157480612,0.0008941401029005,0.00124466791749
+"elisa aparicio obviously got nominated for best actress and she has, kind of, she was kind of in that 5-slot wildcard of maybe sneakin somebody else in there, but she got in there",0.16344422,0.0,0.0,0.0,False,0.0009000877616927,0.0009023679886013,0.0051000071689486
+"you also have best picture, best foreign language film",0.05773066,0.0,0.0,0.0,False,0.000718881143257,0.0007707855547778,0.0039493474178016
+i think you also have best original screenplay and best director and a whole bunch of technical awards,0.042001735,0.0,0.0,0.0,False,0.0005968038458377,0.0004161099495831,0.0007764187757857
+"i believe i'm pretty sure best cinematography, which should definitely get there, and i actually think that it has a really good chance of winning that one",0.03221605,0.0,0.0,0.0,False,0.0005403097020462,0.000334986805683,0.0003900356823578
+but let's get to what i thought about this movie,0.029469188,0.9966806769371033,0.0,0.0,False,0.0006043734611012,0.0005024880520068,0.0006676777265965
+i am surprised how much i enjoyed this movie,0.0717155,0.0,0.0,0.0,False,0.0006637393962591,0.0006176961469464,0.0003831712238024
+i,0.018187003,0.0,0.0,0.0,False,0.0033499409910291,0.0023471140302717,0.0006465429905802
+i genuinely thought that i might be a little bored,0.10031791,0.999944806098938,0.0958333333333333,0.167,False,0.0008033629856072,0.0021120812743902,0.0027999163139611
+"i don't watch a lot of foreign language, which is my fault",0.11085691,0.9995632767677307,0.125,0.197,False,0.0033202448394149,0.0192650016397237,0.0045645665377378
+"i know, and i also very much you don't watch a lot of black and white",0.17449278,0.0,0.0,0.0,False,0.0131722036749124,0.2938780486583709,0.0621529221534729
+"roma is a very quiet story, and there is a good",0.06332459,0.0,0.0,0.0,False,0.0006184410303831,0.0003793277719523,0.0015549709787592
+"like, first 20 minute section of the movie were like",0.035306264,0.9994375109672546,0.0,0.0,False,0.0009191629942506,0.0004127900465391,0.0006202523363754
+"what is the plot of this? like where are we going? and then you just kind of disappear back into the movie and then somehow you come out at the very end just like, really grateful for watching it",0.09494796,0.0,0.0,0.047,False,0.0013287567999213,0.0006555257132276,0.0015928533393889
+it's a,0.019714156,0.0,0.0,0.0,False,0.0036705501843243,0.0005983222508803,0.0037114468868821
+"it's like i said, a quiet film, but it speaks volumes",0.05093802,0.0,0.0,0.0,False,0.0006004007300361,0.0004184450954198,0.0006765745929442
+"it's a really corny thing for me to say, but i do think that is the case",0.17759849,0.5495197772979736,0.0,0.0,False,0.0006763670244254,0.0045802691020071,0.0023887872230261
+i think,0.021518974,0.0,0.0,0.0,False,0.0007737225387245,0.0004474073066376,0.0003764085122384
+i believe i haven't read a lot about this movie,0.037881445,0.9832059741020203,0.0,0.0,False,0.0006068745860829,0.0007570011075586,0.0005568385822698
+"i believe this is alfonso cuaron's sort of tribute to his mother, which is really sweet",0.044405237,0.0,0.0,0.0,False,0.0008681083563715,0.0010226950980722,0.0194396842271089
+i think that you leap to aparicio,0.08850401,0.0,0.0,0.0,False,0.0064793522469699,0.0089890686795115,0.0255381446331739
+"i was a little skeptical of her because i knew that she hadn't really acted before this, but towards the end of that movie she's absolutely enthralling",0.104076885,0.0,0.071875,0.055,False,0.0009573185816407,0.0005699464818462,0.0192568097263574
+"i do think that marina del corvina, i could be giving that last name wrong",0.057331093,0.9993359446525574,0.25,0.168,False,0.0006998765747994,0.0026245221961289,0.0007475551101379
+"i'm sorry, too lazy",0.22987647,0.9976033568382263,0.375,0.655,False,0.087052933871746,0.2581943273544311,0.1936026364564895
+"look, time to be",0.02792408,0.0,0.0,0.0,False,0.0035315356217324,0.0004924101522192,0.0005612909444607
+i,0.018187003,0.0,0.0,0.0,False,0.0033499409910291,0.0023471140302717,0.0006465429905802
+i think that she actually did a really great job,0.02517722,0.0,0.0,0.0,False,0.0006454080576077,0.0004083034873474,0.0014262422919273
+i watched romo after i'd known that she was nominated for best supporting actress and i think she's deserving for sure,0.028782474,0.0,0.0,0.0,False,0.000702136894688,0.0008010688470676,0.0013173416955396
+"there is a lot of those random movies i have not seen yet, so it's hard to say if i think that somebody should win",0.09602194,0.9636359214782715,0.0,0.059,False,0.0006848305347375,0.0006137932650744,0.0004526786215137
+"i think we all know regina king is going to be winning, for bill street could talk, and most likely dame judi dench, for the wife is gonna be waiting for best actress",0.0825038,0.0,0.0,0.0,False,0.000858653045725,0.0067179473116993,0.0122559517621994
+one thing i will say is i don't quite understand why it's in black and white,0.08555053,0.0,0.0833333333333333,0.0,False,0.0008896432700566,0.2053557634353637,0.0485350750386714
+i would really like to see this movie in color,0.03461955,0.0,0.0,0.0,False,0.0006365930312313,0.0026751994155347,0.0018330537714064
+"personally, i think that there are some scenes that it would really add to it",0.02262963,0.0,0.0,0.0,False,0.0005920868716202,0.0003578642208594,0.0002639112935867
+"i feel like black and white kind of just adds that prestige ness to a movie which is really just like dumb, which is why it like the academy awards fail every years because they think that dramas are the only ones that could ever be",0.45120096,0.9993370175361633,0.0345238095238095,0.122,False,0.0065646287985146,0.635634183883667,0.5491194128990173
+"you know a best picture, which is stupid",0.7509647,0.9959055185317993,0.0,0.25,True,0.8930997252464294,0.9933752417564392,0.9834532141685486
+"thankfully, it's changing a little bit with you know black panther getting in there",0.082104236,0.0,0.1770833333333333,0.0,False,0.0009914473630487,0.0582074895501136,0.0878568887710571
+i think it's atrocious that eighth grade is not in there and bohemian rhapsody is for best picture,0.15246986,0.9971093535423279,0.0,0.0,False,0.0009613342117518,0.0074451728723943,0.0029534341301769
+"but you know what some people liked it? apparently, this is also a film that surprised me in the ending - with what happened to you, lisa, and it was something i wasn't expecting and i was like, oh, wait, are they really doing this and that was a moment in the hospital towards the end right before that final act at the beach where i was like, i'm really glad that this is not in color like black and white makes this like easier to stomach",0.09065199,0.0,0.0,0.025,False,0.0007080214563757,0.0237281564623117,0.014722941443324
+"and then it also is very artistically crafted to make you feel anxious at times, and in a way that really surprised me as well, considering this is a movie that really doesn't have much dialogue and it's it's black and white and on top of that the foreign language, so i'm reading subtitles which, sometimes you can get lost and reading the subtitles and miss things on screen because of it, but i didn't think i thought, because there wasn't that much dialogue",0.089577995,0.0,0.0,0.051,False,0.0006453071837313,0.0116248708218336,0.0035567160230129
+"it worked in this case, and then that final act at the beach with alisa and the kids from the beginning of her, kind of in her own state of mind after what had just happened and the announcement that was made by the the mother played by marina",0.030327583,0.0,0.0,0.0,False,0.0008961102575995,0.0007434877916239,0.0005776098114438
+"and then what happens at the beach in a very much like, oh no, what is going to happen? i mean you, you were just confronted with something that you thought was nearly impossible in this film and then you get another moment",0.09870692,0.7618679404258728,0.2397222222222222,0.039,False,0.000730053812731,0.0005725883529521,0.0061883814632892
+"you're like they're definitely not gonna do this right, and they do it in a way that that really like heals the souls of the characters, but also, in my opinion, the soul of the the person watching the film because of just how hurt i think that somebody who's really into this movie gets at what at one point and like how, kind of, just like, shocked and like, almost bitter is a strong word",0.18055865,0.5632079243659973,0.0,0.108,False,0.0017936852527782,0.0012645995011553,0.0011512640630826
+but you almost feel a little bit betrayed by this movie because you don't think it's going that way and then it shoves life back in your face and that life isn't always fair and life is really hard sometimes and then towards the end it kind of like shows back your your heart back together in a really sweet way that makes you think that everyone's going to be alright even though this terrible thing had happened,0.17173064,0.0,0.0,0.145,False,0.0047340271994471,0.0006350714247673,0.0006333003984764
+and what i really liked about this movie is it does not outright say anything like,0.14463188,0.0,0.0,0.0,False,0.0006954411510378,0.0004526706179603,0.0006448651547543
+it really lets the the person watching the movie fill in some blanks,0.090114996,0.0,0.0,0.0,False,0.0008781109936535,0.0037278472445905,0.0012867936166003
+it has them kind of discover things very slowly,0.0801064,0.9129197597503662,0.0,0.0,False,0.0006343735731206,0.0003457261773291,0.0007651162450201
+wonder about things,0.022773718,0.0,0.0,0.0,False,0.0007207291782833,0.0004518840578384,0.0006906326161697
+"it because there's not a lot of dialogue because we're seeing it pretty much solely through he elites, his eyes, or clio, which is her character's name",0.02929751,0.914490818977356,0.0,0.0,False,0.0006420799763873,0.0007018115138635,0.0019386118510738
+cleo's eyes,0.021657806,0.0,0.0,0.0,False,0.0042393361218273,0.048659112304449,0.0008047136943787
+"we, we kind of get snippets of snippets of conversations in certain areas, especially when it comes down to clio",0.027752401,0.7723153233528137,0.0,0.0,False,0.0008835529442876,0.0003672559105325,0.0024867912288755
+she's a a main kind of housekeeper,0.09655894,0.0,0.0,0.0,False,0.04401146620512,0.0484998747706413,0.0050419876351952
+"she she lives in right next to this big house, kind of connected to it",0.023803791,0.0,0.0,0.0,False,0.0009202439105138,0.0005899404059164,0.0015034468378871
+where her and her friend adela,0.015410362,0.0,0.0,0.0,False,0.0009019373101182,0.0011090661864727,0.0309045817703008
+i believe they're just friends,0.029984225,0.0,0.0,0.0,False,0.0006453161477111,0.0004181928525213,0.000677726289723
+"there might be cousins or something, but i think they're just friends",0.03839648,0.0,0.0,0.0,False,0.0005484547000378,0.0004630112089216,0.0005401585949584
+"they are the housekeeper's for this, this couple who are both scientists",0.031185975,0.0,0.0,0.0,False,0.0011343391379341,0.0011909691384062,0.0021126372739672
+one is like a biochemist and one is actually a surgeon,0.031185975,0.0,0.0,0.0,False,0.0011510464828461,0.0016863187775015,0.0655057728290557
+i believe so their doctors live in this really nice place and she's part the family,0.011314815,0.0,0.0,0.0,False,0.0011120128910988,0.0004178802482783,0.0004080623912159
+"she takes care of these kids, and you see, at the beginning there's something going on between the the mother and the father, and then we kind of don't visit that too much, and we're looking more at what clio is doing, and then you can another snippet of that and you're kind of placing it, putting everything together like a puzzle until the very ending where everything starts to make sense",0.06851897,0.0,0.0,0.0,False,0.0010273428633809,0.0007592707406729,0.0006759111420251
+then you start to escalate,0.03994159,0.9203092455863953,0.0,0.0,False,0.0048567443154752,0.0008624125621281,0.0145165557041764
+"you see emotions boil over, you see regretful actions taken you, you see the real loving care that this family has for cleo",0.039254878,0.0,0.0,0.097,False,0.0010621398687362,0.0016033097635954,0.0079748220741748
+it's really sweet,0.04543531,0.0,0.0,0.0,False,0.0006914693512953,0.000326527893776,0.0019929686095565
+i would,0.0253489,0.0,0.0,0.0,False,0.0110625512897968,0.0021430167835205,0.0005141809233464
+"i would really recommend this to people, even though it's kind of scary because it's a four language film and it's in black and white, but alfonzo quran is one of the best filmmakers of our time, especially working right now, and he just knows how to craft a movie really well, and this is a very personal story for him",0.052136723,0.0,0.0,0.032,False,0.0005788683192804,0.0169653054326772,0.0049880575388669
+"and i think that you know what, i would not be mad if roma won best picture as well as because it's gonna win best foreign film and he's definitely gonna win best director",0.09655894,0.0,0.0,0.0,False,0.0011256932048127,0.0007518596248701,0.0088126501068472
+"in my opinion, i mean, you might get jurgis lamp the most coming in",0.053335425,0.9343510866165161,0.0,0.0,False,0.0137098431587219,0.0041002426296472,0.0048046517185866
+there's randomly,0.023803791,0.8661035895347595,0.5,0.0,False,0.0008505068835802,0.0006903200410306,0.0007217237143777
+"actually, is he even nominated? i don't remember",0.02809576,0.9974965453147888,0.0,0.0,False,0.0007714824751019,0.0007086006226018,0.0004753649409394
+it's a weird best director nomination like bradley cooper wasn't nominated,0.019297661,0.9768767952919006,0.0,0.104,False,0.0011817844351753,0.0006915411795489,0.0042168931104242
+i can't remember if you're atlanta,0.017770508,0.0,0.0,0.0,False,0.0010914858430624,0.0078429542481899,0.0025391271337866
+most wasn't nominated,0.01999182,0.9858394861221313,0.0,0.0,False,0.0007132901228033,0.0004989478038623,0.0003324349818285
+"they skip here freely, which i green book is the only of these oscar films that i have not seen, so i got to do that before february",0.05373499,0.9849905371665955,0.0,0.0,False,0.0006615063757635,0.0016133508179336,0.000641684513539
+"whatever, and but i do think alfonso cron's gonna get a take",0.105704986,0.0,0.0,0.0,False,0.0011161630973219,0.0010605984134599,0.001990116899833
+"best director, and i think that it has a really good shot",0.06412373,0.0,0.0,0.0,False,0.0005605434998869,0.0053314212709665,0.0046900464221835
+probably the best shot at best picture,0.052935857,0.0,0.0,0.0,False,0.0005987717886455,0.0013040998019278,0.0029230397194623
+but there are,0.01721518,0.0,0.0,0.0,False,0.0008906420553103,0.0004121889942325,0.0004329615330789
+"i mean, a star is born is still in the way, green book, i guess is still in the way",0.034962907,0.990349292755127,0.25625,0.0,False,0.0010304565075784,0.0006559941684827,0.0006286767311394
+"i'd be pretty shocked if green book won, but there's still",0.08635602,0.0,0.2166666666666666,0.117,False,0.000584906025324,0.0005645159399136,0.0004136588249821
+"i mean, in my opinion, out of the eight that are nominated, i think black cap landsman is the best film",0.06372416,0.0,0.0,0.0,False,0.0008717073942534,0.0380774587392807,0.0102886604145169
+"it's what i would put towards it, and to be honest, as long as bohemian rhapsody in, i'm gonna be fairly happy",0.10699297,0.0,0.0,0.0,False,0.0005641265888698,0.0367968194186687,0.0013652483467012
+"oh, with the best picture person with the oscars, i would think that if bohemian rhapsody won, i would probably throw something at the tv",0.1423886,0.9936250448226929,0.0,0.0,False,0.0008247850346378,0.1338470131158828,0.0113292541354894
+"but back to roma, because that's what this is about",0.035477944,0.9745079278945923,0.0,0.0,False,0.0007744078175164,0.000519894703757,0.0038910950534045
+i do,0.020824814,0.0,0.0,0.0,False,0.0019158989889547,0.0006847989279776,0.0004634083888959
+"watch it, please do",0.056931525,0.0,0.0,0.0,False,0.0006935578421689,0.0005195043631829,0.0005680488538928
+it's on netflix,0.011523063,0.0,0.0,0.0,False,0.0009518061997368,0.0005039904499426,0.0006286009447649
+it's not very long,0.02262963,0.9961383938789368,0.0,0.0,False,0.000718890747521,0.0003546470834407,0.0005892815534025
+it's like an hour,0.03616466,0.8766627907752991,0.0,0.0,False,0.0021788959857076,0.0004114191688131,0.0013875173171982
+forty minutes,0.043031808,0.0,0.0,0.0,False,0.003049906110391,0.0016301088035106,0.0008828220888972
+just pay attention to it,0.04131502,0.0,0.0,0.259,False,0.0008057638187892,0.0020787040702998,0.0008701597107574
+put your phone down during this and that's something that i have a hard time doing at home when i watching movies,0.036851373,0.9935094714164734,0.2236111111111111,0.062,False,0.026723688468337,0.0054269023239612,0.0013904572697356
+putting my phone down and i did during this and i very much enjoyed it,0.044405237,0.0,0.0,0.0,False,0.0013745105825364,0.0016962036024779,0.0005968727055005
+"and yeah, i think most people can enjoy",0.026207292,0.0,0.0,0.0,False,0.0006274376646615,0.0004639989056158,0.0009388559847138
+"i think it'll it'll touch a lot of people's souls in a good way, and y'all souls need to be touched",0.1943727,0.0,0.0,0.0,False,0.0010317699052393,0.5029609203338623,0.1995970904827118
+okay,0.017145762,0.5601295828819275,0.0,0.0,False,0.0009591358248144,0.0007199328392744,0.0004994064802303
+i hope you guys liked this review,0.027580723,0.0,0.0,0.0,False,0.0005932369967922,0.0005580510478466,0.0002908427559304
+"if you did give it a thumbs up comment down below, what are your thoughts on roma? what do you think is gonna win best picture at the oscars at least at this moment in time",0.08689302,0.0,0.0,0.0,False,0.0006456661503762,0.0006004914757795,0.0007138640503399
+"also, don't forget to subscribe",0.039254878,0.0,0.0,0.0,False,0.0011200411245226,0.0005450160242617,0.000421380624175
+"i make videos monday through friday, and i will see you guys tomorrow",0.119228795,0.0,0.0,0.0,False,0.0007768579525873,0.0223715864121913,0.0008111646166071
+bye,0.055732824,0.0,0.0,0.0,False,0.0059144631959497,0.0005959753761999,0.000621129933279

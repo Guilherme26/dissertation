@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-i'm still sooooooo tired ! i just want to go back to sleep ! ,0.07131593,0.0,0.0,0.208,0.0361093506217002,0.0090692024677991,0.0033602381590753,False
+i'm still sooooooo tired ! i just want to go back to sleep ! ,0.07131593,0.9998706579208374,0.25,0.208,0.0361093506217002,0.0090692024677991,0.0033602381590753,False

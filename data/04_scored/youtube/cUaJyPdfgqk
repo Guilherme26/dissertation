@@ -1,122 +1,122 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"wow, what a time to be a horror fan",0.28923595,0.0001231158154141,0.45,0.234,False,0.00814967043697834,0.02335561439394951,0.0130036361515522
-i'm not even a huge horror fan,0.092262976,0.9971521830690152,0.2999999999999999,0.473,False,0.003710475517436862,0.0035061147063970566,0.014470880851149559
-"but you know what, i'm gonna come over and join you guys, because these smart high-quality productions are not only impressive but wildly entertaining",0.092262976,7.21528417132953e-05,0.2857142857142857,0.105,False,0.0006301449029706419,0.0006457634153775871,0.0050373082049191
-i'm talking about,0.022773718,0.0303241018625268,0.5,0.0,False,0.0006996644660830498,0.00042282071080990136,0.0018352895276620984
-get out it and now a quiet place,0.11472086,0.0367403700543712,0.5,0.0,False,0.01787310466170311,0.002749824430793524,0.00864651519805193
-"and you know what, i'm gonna throw, 10 cloverfield lane and split in there too",0.34388447,0.9786488386462184,0.5,0.0,False,0.0068639242090284824,0.021899940446019173,0.15347982943058014
-"and you know who produced a quiet place, michael freakin bay",0.08581903,0.0023684073432936,0.5,0.0,False,0.005054947454482317,0.29170966148376465,0.07869413495063782
-he actually produces a lot of horror movies,0.1943727,0.0007573217103579,0.5,0.346,False,0.0010106218978762627,0.005242682062089443,0.013604412786662579
-he's behind the purge franchise,0.14911842,0.1086572919432128,0.7,0.0,False,0.006273605395108461,0.0009364867000840604,0.0149907898157835
-"now he does that one with jason blum, and you might think well, it's all blum, but this is bay",0.124380715,0.0933070952499766,0.5,0.0,False,0.0008146534091793001,0.04668368771672249,0.004130995366722345
-"you know, you know",0.028610796,0.0457514284832119,0.5,0.0,False,0.0031750123016536236,0.0004937878111377358,0.0008329162956215441
-bay's the main producer here through his company platinum dunes so clearly creatively,0.022213135,0.0003742649261609,0.3333333333333333,0.0,False,0.0006518143345601857,0.00037932308623567224,0.0010448406683281064
-"there's more to him than meets the eye, but the person who is really going to benefit from this movie as they should is jim from the office he's directing",0.0681194,0.0083969993001084,0.325,0.0,False,0.0008490882464684546,0.012029002420604229,0.005672747734934092
-"he's co-writing he's co-starring and well, i wouldn't say he's an auteur director",0.09333697,0.0605348632636593,0.5,0.0,False,0.004712224472314119,0.007185329683125019,0.0003847262996714562
-"i wasn't aware of his creative vision so much while watching the movie, but after having seen it, you realize his ability to deliver a slick, complete and profound horror package",0.13206954,0.0,0.4263888888888889,0.131,False,0.0006087329238653183,0.001870654639787972,0.0008196774870157242
-"that's right, profound is mighty impressive, and i would actually put his movie on par with those other films i just listed, and i hope that it enjoys the same success and recognition, and i think it will because the buzz from this for this movie coming out of south by southwest where it premiered has been anything but quiet",0.04680874,0.0002055506605933,0.3919973544973545,0.0,False,0.0005821449449285865,0.00040341599378734827,0.0003477366117294878
-"however, when the movie starts, you're going to think that i have lied to you because the first half of this film is super slow and by the time john krasinski and his real-life wife emily blunt were slow dancing in silence, i was like those south by southwest people lied to me, but then after the movie is over, you might think well, i don't care how good the second half is grace",0.19936113,0.998457699480106,0.478125,0.117,False,0.0024027570616453886,0.003257220610976219,0.005754539277404547
-that first half should have been so boring,0.35870504,0.9999671571947262,0.6527777777777778,0.299,False,0.021561121568083763,0.03280840069055557,0.0021137474104762077
-but here's the thing you realize,0.021518974,0.7647676392388909,0.5,0.0,False,0.0010151645401492715,0.00042034834041260183,0.0004828372912015766
-"that slow, quiet, first half of the movie was to prepare you for the roller-coaster ride",0.26132804,0.9894769804122172,0.5270833333333333,0.0,False,0.001297059585340321,0.002155240625143051,0.0015055227559059858
-"that is the second half of the movie, which is honestly one of the most terrifying movies i have ever seen",0.40946755,0.1336284635897269,0.5066666666666667,0.154,False,0.0045796167105436325,0.0030163272749632597,0.009779036045074463
-"i know, i don't have a high threshold for being able to take scares to be honest with you, but this is this movie",0.1008549,0.000366933410646,0.29,0.066,False,0.0007512529846280813,0.0008581823203712702,0.001038554823026061
-i couldn't even look at the screen most of the time,0.043031808,0.999999403941828,0.25,0.0,False,0.0008785524405539036,0.000626291788648814,0.0012584080686792731
-i was like,0.020269485,0.0246175005301937,0.5,0.0,False,0.0018684471724554896,0.0012496832059696317,0.001308841397985816
-i'm just gonna listen to it,0.043375164,0.0041592939237949,0.5,0.0,False,0.0006547056837007403,0.0006736994837410748,0.001035316614434123
-i was so scared,0.09709594,0.9992348699275896,0.5,0.555,False,0.003980029374361038,0.0008727266686037183,0.00235964497551322
-i can't stress how much this movie had me in its grip and i loved it,0.078108564,0.000837253111215,0.275,0.0,False,0.0007552732131443918,0.0005621494492515922,0.00042231319821439683
-i had a very good time now,0.03204437,0.0021818411354765,0.045,0.0,False,0.0006062189931981266,0.00038418438634835184,0.0021153681445866823
-"for instance, i couldn't understand how this family was able to keep quiet, especially from the jump scares in the movie like john krasinski was like, oh, i'm gonna go look out this window and see if there's a monster outside of it",0.1785852,0.996854183785954,0.4375,0.051,False,0.0009037829586304724,0.007105246186256409,0.04911265894770622
-"now i was like, how are you gonna keep from screaming when his head pops up right? i mean, i would just have duck",0.34388447,0.952439922402763,0.5066964285714286,0.096,False,0.14363987743854523,0.14807967841625214,0.6227989792823792
-"i would just duck and cover, and like a little hole and be like what",0.39108577,0.1269898358968404,0.59375,0.0,False,0.037351980805397034,0.05554785206913948,0.5740711092948914
-i don't hear them anymore,0.038911518,0.997297740474603,0.5,0.0,False,0.0025708815082907677,0.002632730407640338,0.003191757947206497
-i'll come out,0.053335425,0.2106713963485238,0.5,0.0,False,0.01501692645251751,0.010502684861421585,0.0031497320160269737
-"this family had amazing self-control i mean, i guess under the circumstances they had to, but i mean the movie really really will make you think",0.05613239,0.0027948869653164,0.4781249999999999,0.0,False,0.0006056816200725734,0.0005508636240847409,0.0006971661350689828
-"could i keep quiet these circumstances? but again, that's how much it got me now",0.048525527,0.0262483752944378,0.45,0.0,False,0.0007024639053270221,0.0006718234508298337,0.001232437789440155
-"why is the movie so successful? why is it self to have? fine? well, i have three reasons that i think is the answer",0.05493369,0.0032397549819436,0.2083333333333333,0.0,False,0.0008530481136403978,0.0004577416111715138,0.000573143654037267
-now,0.018742332,0.0841065201253677,0.5,0.0,False,0.0014697305159643292,0.0004906950052827597,0.0007275509997271001
-"the first is that the monsters that are hunting them are not only very well designed, but also fairly well realized",0.14328592,0.0003028273542539,0.35625,0.065,False,0.0007865738589316607,0.00294728041626513,0.0039248401299119
-vfx,0.060927194,0.0833770343316393,0.5,0.0,False,0.0014829722931608558,0.0005866244900971651,0.00039575606933794916
-"wise, this movie costs just 17 million to make, and i'm convinced that a very large portion of that was spent on visual effects",0.084745035,0.9991916855130326,0.3901785714285714,0.0,False,0.000826278468593955,0.00043942133197560906,0.0003847862535621971
-they are in the caliber of the highest blockbuster,0.15684792,6.881491595043324e-05,0.5,0.0,False,0.0006860442226752639,0.00045845535350963473,0.0020326937083154917
-and like you really get to see them on screen - this isn't like,0.038911518,0.9997973700244492,0.4,0.127,False,0.0010962411761283875,0.0005316652241162956,0.0012708131689578295
-"oh, there's a monster elbow",0.21186037,0.9748939105862672,0.5,0.0,False,0.0031401286832988262,0.07412301003932953,0.014828283339738846
-"i mean they do that too, but eventually like you get full monster and well, some of their behavior doesn't make sense when you think about it and we'll discuss it in the spoiler review",0.18450552,0.9965087680753152,0.490625,0.0,False,0.005913635715842247,0.004013073164969683,0.007898815907537937
-"it never occurred to me while i was watching the movie, i was really impressed and blown away",0.08420804,0.0049187018377546,0.0,0.0,False,0.000690918997861445,0.0005422914400696754,0.0012547450605779886
-"i mean, it was great stuff, and even now that i realized some problems with it, i still wouldn't take points off the movie because it didn't occur to me while i was watching",0.0471521,0.9961453216049748,0.378125,0.07,False,0.0006183618097566068,0.0004923388478346169,0.0004729953361675143
-it was really good,0.035649624,0.006998944857824,0.15,0.0,False,0.0005686834920197725,0.0003129799442831427,0.0009503088658675551
-"alright then - this movie uses the domino effect brilliantly like a seemingly small mistake, triggers a series of increasingly bigger ones and bigger problems",0.094410956,0.8596884725806684,0.41875,0.152,False,0.0009666671976447105,0.0004240862326696515,0.0006228078273124993
-very much like real life,0.023632111,0.0014086344748363,0.385,0.0,False,0.0007940608193166554,0.00042641631443984807,0.0004182056291028857
-this family made a lot of mistakes,0.18055865,0.9998675260712864,0.5,0.294,False,0.0011415460612624884,0.0010047350078821182,0.0015646569663658738
-"we'll talk about the family momentarily, so the first half is a lot about setting up those dominoes to fall for the second half",0.07571117,0.9905424641974678,0.5104166666666666,0.0,False,0.0006445545586757362,0.0004480199422687292,0.00034318925463594496
-so think about that setting up dominoes boring,0.263611,0.999873248229737,1.0,0.247,False,0.07766284793615341,0.011402949690818787,0.009379612281918526
-watching them all fall quickly exciting,0.33600304,0.0019410336340128,0.35,0.0,False,0.0012052049860358238,0.043140146881341934,0.0025485961232334375
-that's how you have to feel about the first half of the movie,0.030670939,0.2386502775306454,0.4791666666666667,0.0,False,0.0007023025536909699,0.0004160653334110975,0.0005515121738426387
-they needed to do the work,0.03049926,0.8644296086890022,0.5,0.0,False,0.001488595618866384,0.0006574477883987129,0.0012409951305016875
-"now three, the quiet, the quiet actually works because i think it pulls you in closer to the story",0.043375164,0.0004769955520947,0.5,0.0,False,0.0008723426144570112,0.00048082927241921425,0.0011269936803728342
-"it's like when someone's like, come closer and then they go boo, and you jump because you know, put you in that in that moment",0.17242117,0.090624177812259,0.5,0.0,False,0.13892340660095215,0.022301439195871353,0.019955456256866455
-i think that's why i think that's what amplifies the scares,0.060527626,0.0014168600776091,0.5,0.194,False,0.0008640107116661966,0.0004355804994702339,0.0011323888320475817
-"because you think about it, you're like i've seen scary movies kind of in the same vein before where monsters are chasing people around and on a farm",0.19936113,0.8276068335923603,0.4833333333333333,0.101,False,0.0022349823266267776,0.005091133061796427,0.026748090982437134
-"but the quiet i think just makes everything so much more heightened, so you're more vulnerable to eventually being scared out of your damn mind now",0.630413,0.0481217432126557,0.4375,0.315,True,0.7808769345283508,0.9532126784324646,0.9335453510284424
-"luckily nobody in my theater because it was a press screening and they had security watching us like hawks, not to have our phones on, so nobody made any noise",0.09655894,0.8306138874639787,0.3333333333333333,0.0,False,0.0012594914296641946,0.0008617300190962851,0.000737372727598995
-"but there was a crucial moment during the movie when john krasinski and emily blunt were actually able to have a conversation and a whispered conversation, and some people outside the theater decided to have really loud discussion",0.02809576,0.0371710518865062,0.425,0.0,False,0.0006099408492445946,0.00040664305561222136,0.0003403013397473842
-"i mean, it wasn't their fault",0.028954152,0.9168903871672014,0.65625,0.0,False,0.001800002995878458,0.0014165800530463457,0.000744785473216325
-"they didn't know it was playing inside, and i think you know they were just talking normal, normal voice",0.06252546,0.9987572187115058,0.425,0.0,False,0.0007098929490894079,0.0007272124057635665,0.000604216824285686
-"well, actually they were a little bit loud, but you know, a regular movie had been playing inside our theater",0.07091636,0.9996438850451748,0.5109375,0.0,False,0.000845578033477068,0.0006015769904479384,0.0010833317646756768
-"it wouldn't have been a problem, but here they were kind of like background noise during this crucial moment, so i worry about people having a good viewing experience with this movie like going into it",0.061726328,0.9994624449376364,0.2833333333333333,0.13,False,0.0005897270748391747,0.0004896523896604776,0.00041652010986581445
-i thought it would be fun if people made jokes and chimed in and said a bunch of stuff during the beginning of the movie,0.13700475,0.9996964871788484,0.35,0.0,False,0.000540867738891393,0.0018222565995529294,0.0008774769958108664
-"but now that i think about how important it is to get you to that place to experience the the second half, maybe that one to keep you keep that from happening",0.026035614,0.8491556776388658,0.4611111111111111,0.0,False,0.0006940871244296432,0.0005626386264339089,0.0006289689335972071
-"so i think that if you, when you go into this movie and i, of course, highly recommend that you do, you might want to consider a matinee or even a morning show and maybe even paying extra for a premium theater, just doing whatever you can to make sure you're with an audience that's going to appreciate this and want to have the experience as it's meant to be, and not you know, mess it up just because you know they're not taking it too seriously, so that, in addition to this movie being terrifying, here's another warning for you",0.16413476,0.0882749635421019,0.5706944444444444,0.069,False,0.0007574957562610507,0.002368456218391657,0.001502877101302147
-it is extremely sad,0.06012806,0.9996142311511208,0.75,0.531,False,0.0017744798678904772,0.0008369228453375399,0.0010486515238881111
-"wow, like it actually made me burst into tears",0.15451296,0.0011783175971989,0.475,0.134,False,0.0013652354246005416,0.0018567480146884918,0.001469020964577794
-what's really surprised me? i was like,0.038224805,0.8115273001199388,0.45,0.0,False,0.000731789565179497,0.0010819105664268136,0.008398622274398804
-"am i crying? what does? i didn't like the family very much, but in fact i almost was like",0.073313765,0.9957677485559596,0.485,0.174,False,0.0012779070530086756,0.007296271622180939,0.009471606463193893
-this is too sad,0.09118898,0.9997762099593452,0.75,0.508,False,0.005277732852846384,0.000691834487952292,0.0023795042652636766
-like i was really sad,0.05373499,0.9990638608380602,0.75,0.382,False,0.001820038422010839,0.0012122229672968388,0.0007992431637831032
-but you know what if you're gonna list it if john krasinski can elicit that kind of emotional reaction for me again for characters i did not really like,0.031701013,0.9996084493868528,0.4166666666666667,0.095,False,0.001005469006486237,0.0011848644353449345,0.001025827950797975
-"well, then i have to say kudos to him now, why didn't i like the family again? no spoilers, but they, not only did they make like we're in a horror movie mistakes, like if they didn't make mistakes, there'd be no movie",0.11021292,0.7699962019173284,0.5,0.237,False,0.002541455440223217,0.0010819187154993415,0.0010823099873960018
-"obviously right, you know, like, oh yeah, and they did everything perfectly good job, family, but all so there are very bland and devoid of defined personalities",0.16151784,0.9999114555585584,0.4163690476190476,0.0,False,0.0018026042962446809,0.0010576567146927118,0.027956640347838402
-like so often you know,0.0358213,0.09186150516848,0.5,0.0,False,0.0010773686226457357,0.0004243913572281599,0.0005508993053808808
-one thing i'll say to you is that you know there's an argument about what child can do what chores on the farm and it there do,0.1580154,0.127393337476335,0.5,0.088,False,0.0009977715089917183,0.000625685031991452,0.0035604292061179876
-"they seem to be dividing it along gender lines, and you would think that you know, in a modern film you know, this is supposed to take place in the near future that the daughter would be like, really post-apocalyptic gender rules",0.11407687,0.9801591904480964,0.4375,0.0,False,0.0007267807959578931,0.0015189695404842496,0.0054057384841144085
-"are you kidding me with this? you know, look like the only people practically left on earth who cares",0.28874767,0.9994286782421958,0.5,0.0,False,0.11529805511236191,0.03196464106440544,0.018726523965597153
-don't worry,0.023632111,0.0055176210889196,0.5,0.0,False,0.00835717748850584,0.0006965973298065364,0.0013569981092587113
-"i didn't spoil anything, so you know, you would think that the conversations never went to that kind of real personal level",0.15246986,0.9684949876872264,0.35,0.0,False,0.0007545027765445411,0.000444897887064144,0.0005407751887105405
-like the characters didn't feel like real people in many ways,0.12244874,0.999969243398328,0.325,0.155,False,0.0007792914984747767,0.0004017119063064456,0.0012928759679198265
-"and then, also, for instance, emily blunt's character at the beginning of the movies, pregnant, so again, not a spoiler",0.045778666,0.9463464197110238,0.3333333333333333,0.0,False,0.0010550030274316669,0.0006317715742625296,0.001956128515303135
-and you're like,0.03427619,0.0005575528140323,0.5,0.0,False,0.2815330922603607,0.001630572136491537,0.02795773558318615
-"well, why would anyone have a baby in this situation? but they never discussed the pros and cons like i would have loved for them to be like",0.089041,0.9413449551960954,0.15,0.0,False,0.0009783328277990222,0.0009598213946446776,0.0013948206324130297
-maybe this is a john connor baby and we hate,0.5750231,0.99882531835765,0.9,0.291,False,0.3152909278869629,0.22969646751880646,0.31132346391677856
-"we have to have it, you know, but the you know, the more we'll talk about this all a lot in the spoiler review",0.052935857,0.2268116085428487,0.25,0.0,False,0.000953872047830373,0.000395156821468845,0.0005807317793369293
-"but thinking about it after i saw the movie last night, i think that maybe that was intentional as well though to make the family more ciphers, so you can imagine yourself in this situation, and i did do that",0.03994159,0.9928811580408904,0.375,0.0,False,0.0006053168326616287,0.0008405520347878337,0.0015723133692517877
-"as i said i was like, could i stay quiet in this situation and i think maybe giving them more personality would have made the experience less intimate and kept the audience at more of a distance",0.04680874,0.9986238506955344,0.3966666666666666,0.0,False,0.0006256769993342459,0.0006156681338325143,0.00037859639269299805
-so i'm still breaking this movie down in my head as to why it worked so well,0.10828095,0.0049070787034018,0.5777777777777778,0.0,False,0.0006630268762819469,0.010193271562457085,0.0015562442131340504
-why it's so effective,0.0253489,0.0002497781769513,0.2,0.0,False,0.0008808319689705968,0.00038873334415256977,0.0008684140630066395
-but what i am sure of is that it is incredible,0.030327583,0.0038133417608011,0.15,0.0,False,0.0006263327086344361,0.00034552320721559227,0.0006717949290759861
-it is an incredibly well-constructed movie like wow,0.031357653,0.0008934315939203,0.25,0.0,False,0.0006613812875002623,0.0004997291252948344,0.0012330261524766684
-"probably not since inception, has a film been able to manipulate me emotionally and mentally to exactly where it wants me now",0.12631269,0.987812756193253,0.38125,0.0,False,0.0009448922937735915,0.0006375043885782361,0.001785387983545661
-"inception, for instance, made me question reality for a few days",0.04165838,0.9999053757652046,0.6,0.0,False,0.0006090471870265901,0.00042992568342015147,0.0006114641437307
-"that's impressive, but i didn't love the film because ultimately i thought it relied on cheap tricks, but a quiet place",0.13610743,0.9905965266736628,0.31,0.238,False,0.0006314140628091991,0.0005487712915055454,0.0007263753213919699
-i think because maybe it's a smaller film,0.036336336,0.9886339157338256,0.5,0.0,False,0.0006794529617764056,0.00042287493124604225,0.0007546882843598723
-"it created such an emotional intimate experience, and it both terrified and made me very sad that it really got me",0.0765103,0.9832042430281758,0.525,0.264,False,0.0008719748584553599,0.0004518777714110911,0.0010652508353814483
-i think this is just a really well made film,0.04543531,0.0006128372094797,0.4,0.0,False,0.0006554354913532734,0.0003487993963062763,0.0005425757844932377
-"i mean, crits, like, almost like a magic trick",0.08850401,0.9859945403455684,0.453125,0.101,False,0.000969700631685555,0.0012311777099967003,0.00922851637005806
-"i'm not impressed with that, so yeah, don't miss this movie",0.10763696,0.9998483031952412,0.75,0.169,False,0.0011194822145625949,0.0007157598156481981,0.001255094655789435
-it's very special and protect your movie going experience with this,0.033761155,0.002953319227418,0.2678571428571428,0.0,False,0.0005824662512168288,0.0004911569412797689,0.0009557792218402028
-"really, think ahead be like this family",0.03839648,0.0020698716078776,0.4,0.0,False,0.002052110154181719,0.0007402008050121367,0.0008279268513433635
-"how are you gonna make sure that you learn? oh, you're in an audience",0.15626417,0.0143240527473334,0.25,0.0,False,0.004362964071333408,0.0032719811424613,0.00694732740521431
-it stays quiet,0.060527626,0.0792810119827958,0.5,0.0,False,0.0008791625732555985,0.000649589579552412,0.0024703743401914835
-"i almost wished they would make an announcement, being like you might be tempted to chime in, but you got to trust the movie and go with it, or you're not gonna really experience it the way it's meant to",0.10461388,0.0032015774560308,0.4,0.0,False,0.0012880002614110708,0.0006962306215427816,0.0016102822264656425
-you're not gonna,0.044748597,0.999488641694293,0.5,0.0,False,0.03378617390990257,0.005552968010306358,0.0010794006520882249
-you're not gonna be able to experience that magic trick,0.10763696,0.9998939314483032,0.25,0.118,False,0.04295963793992996,0.009320520795881748,0.003329039318487048
-"and yes, john krasinski is definitely a triple threat to keep an eye on going forward",0.21627559,0.0008846993417014,0.5,0.156,False,0.03070451132953167,0.005106880329549313,0.0146797439083457
-"hey, jim, i'm so happy for him",0.029125832,0.0013456907318795,0.0999999999999999,0.0,False,0.0008931626216508448,0.0018007921753451228,0.0007951724110171199
-look for awhile like he wasn't gonna make it,0.037023053,0.9995652649722958,0.5,0.0,False,0.000998568837530911,0.0007230057963170111,0.0011283594649285078
-"let's see how his, uh, his, uh, jack, ryan serious is on amazon",0.13206954,0.0537338693247364,0.6666666666666666,0.093,False,0.012720869854092598,0.018490521237254143,0.002115207025781274
-"but anyway, that's my review of a quiet place",0.02124131,0.75161439375579,0.5,0.0,False,0.000697534007485956,0.00043051785905845463,0.0009537892765365541
-be sure to share your own thoughts down below,0.09118898,0.0044364311708382,0.3425925925925925,0.0,False,0.0007641904521733522,0.0008838704088702798,0.0006827269680798054
-if you've seen the movie,0.017284594,0.0370154509007213,0.5,0.0,False,0.0007777672726660967,0.0005269680987112224,0.0005041578551754355
-do not spoil it,0.10300289,0.0020734181540006,0.5,0.0,False,0.012879488058388233,0.0011300622718408704,0.001121178618632257
-please,0.021102477,0.218454187505357,0.5,0.0,False,0.0007104096584953368,0.0005048883613198996,0.0003587961255107075
-"again what people experienced that magic trick? save your comments for the spoiler review, and of course, as always, you can check out some more videos right now",0.10892494,0.9982916674763124,0.2392857142857142,0.039,False,0.0007727259653620422,0.0004731831431854516,0.0005429782904684544
+"wow, what a time to be a horror fan",0.28923595,0.0,0.0,0.234,False,0.0081496704369783,0.0233556143939495,0.0130036361515522
+i'm not even a huge horror fan,0.092262976,0.9943044781684875,0.0,0.473,False,0.0037104755174368,0.003506114706397,0.0144708808511495
+"but you know what, i'm gonna come over and join you guys, because these smart high-quality productions are not only impressive but wildly entertaining",0.092262976,0.0,0.0,0.105,False,0.0006301449029706,0.0006457634153775,0.0050373082049191
+i'm talking about,0.022773718,0.0,0.0,0.0,False,0.000699664466083,0.0004228207108099,0.001835289527662
+get out it and now a quiet place,0.11472086,0.0,0.0,0.0,False,0.0178731046617031,0.0027498244307935,0.0086465151980519
+"and you know what, i'm gonna throw, 10 cloverfield lane and split in there too",0.34388447,0.9572985172271729,0.0,0.0,False,0.0068639242090284,0.0218999404460191,0.1534798294305801
+"and you know who produced a quiet place, michael freakin bay",0.08581903,0.0,0.0,0.0,False,0.0050549474544823,0.2917096614837646,0.0786941349506378
+he actually produces a lot of horror movies,0.1943727,0.0,0.0,0.346,False,0.0010106218978762,0.0052426820620894,0.0136044127866625
+he's behind the purge franchise,0.14911842,0.0,0.4,0.0,False,0.0062736053951084,0.000936486700084,0.0149907898157835
+"now he does that one with jason blum, and you might think well, it's all blum, but this is bay",0.124380715,0.0,0.0,0.0,False,0.0008146534091793,0.0466836877167224,0.0041309953667223
+"you know, you know",0.028610796,0.0,0.0,0.0,False,0.0031750123016536,0.0004937878111377,0.0008329162956215
+bay's the main producer here through his company platinum dunes so clearly creatively,0.022213135,0.0,0.0,0.0,False,0.0006518143345601,0.0003793230862356,0.0010448406683281
+"there's more to him than meets the eye, but the person who is really going to benefit from this movie as they should is jim from the office he's directing",0.0681194,0.0,0.0,0.0,False,0.0008490882464684,0.0120290024206042,0.005672747734934
+"he's co-writing he's co-starring and well, i wouldn't say he's an auteur director",0.09333697,0.0,0.0,0.0,False,0.0047122244723141,0.007185329683125,0.0003847262996714
+"i wasn't aware of his creative vision so much while watching the movie, but after having seen it, you realize his ability to deliver a slick, complete and profound horror package",0.13206954,0.0,0.0,0.131,False,0.0006087329238653,0.0018706546397879,0.0008196774870157
+"that's right, profound is mighty impressive, and i would actually put his movie on par with those other films i just listed, and i hope that it enjoys the same success and recognition, and i think it will because the buzz from this for this movie coming out of south by southwest where it premiered has been anything but quiet",0.04680874,0.0,0.0,0.0,False,0.0005821449449285,0.0004034159937873,0.0003477366117294
+"however, when the movie starts, you're going to think that i have lied to you because the first half of this film is super slow and by the time john krasinski and his real-life wife emily blunt were slow dancing in silence, i was like those south by southwest people lied to me, but then after the movie is over, you might think well, i don't care how good the second half is grace",0.19936113,0.9969154596328735,0.0,0.117,False,0.0024027570616453,0.0032572206109762,0.0057545392774045
+that first half should have been so boring,0.35870504,0.9999343156814575,0.3055555555555555,0.299,False,0.0215611215680837,0.0328084006905555,0.0021137474104762
+but here's the thing you realize,0.021518974,0.5295445322990417,0.0,0.0,False,0.0010151645401492,0.0004203483404126,0.0004828372912015
+"that slow, quiet, first half of the movie was to prepare you for the roller-coaster ride",0.26132804,0.9789543747901917,0.0541666666666666,0.0,False,0.0012970595853403,0.002155240625143,0.0015055227559059
+"that is the second half of the movie, which is honestly one of the most terrifying movies i have ever seen",0.40946755,0.0,0.0133333333333333,0.154,False,0.0045796167105436,0.0030163272749632,0.0097790360450744
+"i know, i don't have a high threshold for being able to take scares to be honest with you, but this is this movie",0.1008549,0.0,0.0,0.066,False,0.000751252984628,0.0008581823203712,0.001038554823026
+i couldn't even look at the screen most of the time,0.043031808,0.9999988079071045,0.0,0.0,False,0.0008785524405539,0.0006262917886488,0.0012584080686792
+i was like,0.020269485,0.0,0.0,0.0,False,0.0018684471724554,0.0012496832059696,0.0013088413979858
+i'm just gonna listen to it,0.043375164,0.0,0.0,0.0,False,0.0006547056837007,0.000673699483741,0.0010353166144341
+i was so scared,0.09709594,0.9984697699546814,0.0,0.555,False,0.003980029374361,0.0008727266686037,0.0023596449755132
+i can't stress how much this movie had me in its grip and i loved it,0.078108564,0.0,0.0,0.0,False,0.0007552732131443,0.0005621494492515,0.0004223131982143
+i had a very good time now,0.03204437,0.0,0.0,0.0,False,0.0006062189931981,0.0003841843863483,0.0021153681445866
+"for instance, i couldn't understand how this family was able to keep quiet, especially from the jump scares in the movie like john krasinski was like, oh, i'm gonna go look out this window and see if there's a monster outside of it",0.1785852,0.9937084913253784,0.0,0.051,False,0.0009037829586304,0.0071052461862564,0.0491126589477062
+"now i was like, how are you gonna keep from screaming when his head pops up right? i mean, i would just have duck",0.34388447,0.9048817157745361,0.0133928571428571,0.096,False,0.1436398774385452,0.1480796784162521,0.6227989792823792
+"i would just duck and cover, and like a little hole and be like what",0.39108577,0.0,0.1875,0.0,False,0.037351980805397,0.0555478520691394,0.5740711092948914
+i don't hear them anymore,0.038911518,0.9945955872535706,0.0,0.0,False,0.0025708815082907,0.0026327304076403,0.0031917579472064
+i'll come out,0.053335425,0.0,0.0,0.0,False,0.0150169264525175,0.0105026848614215,0.0031497320160269
+"this family had amazing self-control i mean, i guess under the circumstances they had to, but i mean the movie really really will make you think",0.05613239,0.0,0.0,0.0,False,0.0006056816200725,0.0005508636240847,0.0006971661350689
+"could i keep quiet these circumstances? but again, that's how much it got me now",0.048525527,0.0,0.0,0.0,False,0.000702463905327,0.0006718234508298,0.0012324377894401
+"why is the movie so successful? why is it self to have? fine? well, i have three reasons that i think is the answer",0.05493369,0.0,0.0,0.0,False,0.0008530481136403,0.0004577416111715,0.0005731436540372
+now,0.018742332,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+"the first is that the monsters that are hunting them are not only very well designed, but also fairly well realized",0.14328592,0.0,0.0,0.065,False,0.0007865738589316,0.0029472804162651,0.0039248401299119
+vfx,0.060927194,0.0,0.0,0.0,False,0.0014829722931608,0.0005866244900971,0.0003957560693379
+"wise, this movie costs just 17 million to make, and i'm convinced that a very large portion of that was spent on visual effects",0.084745035,0.9983834028244019,0.0,0.0,False,0.0008262784685939,0.0004394213319756,0.0003847862535621
+they are in the caliber of the highest blockbuster,0.15684792,0.0,0.0,0.0,False,0.0006860442226752,0.0004584553535096,0.0020326937083154
+and like you really get to see them on screen - this isn't like,0.038911518,0.9995947480201721,0.0,0.127,False,0.0010962411761283,0.0005316652241162,0.0012708131689578
+"oh, there's a monster elbow",0.21186037,0.9497888088226318,0.0,0.0,False,0.0031401286832988,0.0741230100393295,0.0148282833397388
+"i mean they do that too, but eventually like you get full monster and well, some of their behavior doesn't make sense when you think about it and we'll discuss it in the spoiler review",0.18450552,0.9930176734924316,0.0,0.0,False,0.0059136357158422,0.0040130731649696,0.0078988159075379
+"it never occurred to me while i was watching the movie, i was really impressed and blown away",0.08420804,0.0,0.0,0.0,False,0.0006909189978614,0.0005422914400696,0.0012547450605779
+"i mean, it was great stuff, and even now that i realized some problems with it, i still wouldn't take points off the movie because it didn't occur to me while i was watching",0.0471521,0.9922907948493958,0.0,0.07,False,0.0006183618097566,0.0004923388478346,0.0004729953361675
+it was really good,0.035649624,0.0,0.0,0.0,False,0.0005686834920197,0.0003129799442831,0.0009503088658675
+"alright then - this movie uses the domino effect brilliantly like a seemingly small mistake, triggers a series of increasingly bigger ones and bigger problems",0.094410956,0.7193824648857117,0.0,0.152,False,0.0009666671976447,0.0004240862326696,0.0006228078273124
+very much like real life,0.023632111,0.0,0.0,0.0,False,0.0007940608193166,0.0004264163144398,0.0004182056291028
+this family made a lot of mistakes,0.18055865,0.9997350573539734,0.0,0.294,False,0.0011415460612624,0.0010047350078821,0.0015646569663658
+"we'll talk about the family momentarily, so the first half is a lot about setting up those dominoes to fall for the second half",0.07571117,0.9810853004455566,0.0208333333333333,0.0,False,0.0006445545586757,0.0004480199422687,0.0003431892546359
+so think about that setting up dominoes boring,0.263611,0.9997465014457703,1.0,0.247,False,0.0776628479361534,0.0114029496908187,0.0093796122819185
+watching them all fall quickly exciting,0.33600304,0.0,0.0,0.0,False,0.0012052049860358,0.0431401468813419,0.0025485961232334
+that's how you have to feel about the first half of the movie,0.030670939,0.0,0.0,0.0,False,0.0007023025536909,0.000416065333411,0.0005515121738426
+they needed to do the work,0.03049926,0.7288645505905151,0.0,0.0,False,0.0014885956188663,0.0006574477883987,0.0012409951305016
+"now three, the quiet, the quiet actually works because i think it pulls you in closer to the story",0.043375164,0.0,0.0,0.0,False,0.000872342614457,0.0004808292724192,0.0011269936803728
+"it's like when someone's like, come closer and then they go boo, and you jump because you know, put you in that in that moment",0.17242117,0.0,0.0,0.0,False,0.1389234066009521,0.0223014391958713,0.0199554562568664
+i think that's why i think that's what amplifies the scares,0.060527626,0.0,0.0,0.194,False,0.0008640107116661,0.0004355804994702,0.0011323888320475
+"because you think about it, you're like i've seen scary movies kind of in the same vein before where monsters are chasing people around and on a farm",0.19936113,0.6552204489707947,0.0,0.101,False,0.0022349823266267,0.0050911330617964,0.0267480909824371
+"but the quiet i think just makes everything so much more heightened, so you're more vulnerable to eventually being scared out of your damn mind now",0.630413,0.0,0.0,0.315,True,0.7808769345283508,0.9532126784324646,0.9335453510284424
+"luckily nobody in my theater because it was a press screening and they had security watching us like hawks, not to have our phones on, so nobody made any noise",0.09655894,0.661234438419342,0.0,0.0,False,0.0012594914296641,0.0008617300190962,0.0007373727275989
+"but there was a crucial moment during the movie when john krasinski and emily blunt were actually able to have a conversation and a whispered conversation, and some people outside the theater decided to have really loud discussion",0.02809576,0.0,0.0,0.0,False,0.0006099408492445,0.0004066430556122,0.0003403013397473
+"i mean, it wasn't their fault",0.028954152,0.8337840437889099,0.3125,0.0,False,0.0018000029958784,0.0014165800530463,0.0007447854732163
+"they didn't know it was playing inside, and i think you know they were just talking normal, normal voice",0.06252546,0.9975144863128662,0.0,0.0,False,0.0007098929490894,0.0007272124057635,0.0006042168242856
+"well, actually they were a little bit loud, but you know, a regular movie had been playing inside our theater",0.07091636,0.9992877840995789,0.021875,0.0,False,0.000845578033477,0.0006015769904479,0.0010833317646756
+"it wouldn't have been a problem, but here they were kind of like background noise during this crucial moment, so i worry about people having a good viewing experience with this movie like going into it",0.061726328,0.9989249110221863,0.0,0.13,False,0.0005897270748391,0.0004896523896604,0.0004165201098658
+i thought it would be fun if people made jokes and chimed in and said a bunch of stuff during the beginning of the movie,0.13700475,0.9993929862976074,0.0,0.0,False,0.0005408677388913,0.0018222565995529,0.0008774769958108
+"but now that i think about how important it is to get you to that place to experience the the second half, maybe that one to keep you keep that from happening",0.026035614,0.698317289352417,0.0,0.0,False,0.0006940871244296,0.0005626386264339,0.0006289689335972
+"so i think that if you, when you go into this movie and i, of course, highly recommend that you do, you might want to consider a matinee or even a morning show and maybe even paying extra for a premium theater, just doing whatever you can to make sure you're with an audience that's going to appreciate this and want to have the experience as it's meant to be, and not you know, mess it up just because you know they're not taking it too seriously, so that, in addition to this movie being terrifying, here's another warning for you",0.16413476,0.0,0.1413888888888888,0.069,False,0.000757495756261,0.0023684562183916,0.0015028771013021
+it is extremely sad,0.06012806,0.9992284774780273,0.5,0.531,False,0.0017744798678904,0.0008369228453375,0.0010486515238881
+"wow, like it actually made me burst into tears",0.15451296,0.0,0.0,0.134,False,0.0013652354246005,0.0018567480146884,0.0014690209645777
+what's really surprised me? i was like,0.038224805,0.623062014579773,0.0,0.0,False,0.0007317895651794,0.0010819105664268,0.0083986222743988
+"am i crying? what does? i didn't like the family very much, but in fact i almost was like",0.073313765,0.9915356636047363,0.0,0.174,False,0.0012779070530086,0.0072962716221809,0.0094716064631938
+this is too sad,0.09118898,0.9995524287223816,0.5,0.508,False,0.0052777328528463,0.0006918344879522,0.0023795042652636
+like i was really sad,0.05373499,0.9981277585029602,0.5,0.382,False,0.0018200384220108,0.0012122229672968,0.0007992431637831
+but you know what if you're gonna list it if john krasinski can elicit that kind of emotional reaction for me again for characters i did not really like,0.031701013,0.9992169141769409,0.0,0.095,False,0.0010054690064862,0.0011848644353449,0.0010258279507979
+"well, then i have to say kudos to him now, why didn't i like the family again? no spoilers, but they, not only did they make like we're in a horror movie mistakes, like if they didn't make mistakes, there'd be no movie",0.11021292,0.5400014519691467,0.0,0.237,False,0.0025414554402232,0.0010819187154993,0.001082309987396
+"obviously right, you know, like, oh yeah, and they did everything perfectly good job, family, but all so there are very bland and devoid of defined personalities",0.16151784,0.9998229146003723,0.0,0.0,False,0.0018026042962446,0.0010576567146927,0.0279566403478384
+like so often you know,0.0358213,0.0,0.0,0.0,False,0.0010773686226457,0.0004243913572281,0.0005508993053808
+one thing i'll say to you is that you know there's an argument about what child can do what chores on the farm and it there do,0.1580154,0.0,0.0,0.088,False,0.0009977715089917,0.0006256850319914,0.0035604292061179
+"they seem to be dividing it along gender lines, and you would think that you know, in a modern film you know, this is supposed to take place in the near future that the daughter would be like, really post-apocalyptic gender rules",0.11407687,0.9603191614151001,0.0,0.0,False,0.0007267807959578,0.0015189695404842,0.0054057384841144
+"are you kidding me with this? you know, look like the only people practically left on earth who cares",0.28874767,0.9988573789596558,0.0,0.0,False,0.1152980551123619,0.0319646410644054,0.0187265239655971
+don't worry,0.023632111,0.0,0.0,0.0,False,0.0083571774885058,0.0006965973298065,0.0013569981092587
+"i didn't spoil anything, so you know, you would think that the conversations never went to that kind of real personal level",0.15246986,0.9369912147521973,0.0,0.0,False,0.0007545027765445,0.0004448978870641,0.0005407751887105
+like the characters didn't feel like real people in many ways,0.12244874,0.9999384880065918,0.0,0.155,False,0.0007792914984747,0.0004017119063064,0.0012928759679198
+"and then, also, for instance, emily blunt's character at the beginning of the movies, pregnant, so again, not a spoiler",0.045778666,0.8926949501037598,0.0,0.0,False,0.0010550030274316,0.0006317715742625,0.0019561285153031
+and you're like,0.03427619,0.0,0.0,0.0,False,0.2815330922603607,0.0016305721364915,0.0279577355831861
+"well, why would anyone have a baby in this situation? but they never discussed the pros and cons like i would have loved for them to be like",0.089041,0.8826922178268433,0.0,0.0,False,0.000978332827799,0.0009598213946446,0.001394820632413
+maybe this is a john connor baby and we hate,0.5750231,0.997650682926178,0.8,0.291,False,0.3152909278869629,0.2296964675188064,0.3113234639167785
+"we have to have it, you know, but the you know, the more we'll talk about this all a lot in the spoiler review",0.052935857,0.0,0.0,0.0,False,0.0009538720478303,0.0003951568214688,0.0005807317793369
+"but thinking about it after i saw the movie last night, i think that maybe that was intentional as well though to make the family more ciphers, so you can imagine yourself in this situation, and i did do that",0.03994159,0.9857625961303711,0.0,0.0,False,0.0006053168326616,0.0008405520347878,0.0015723133692517
+"as i said i was like, could i stay quiet in this situation and i think maybe giving them more personality would have made the experience less intimate and kept the audience at more of a distance",0.04680874,0.9972477555274963,0.0,0.0,False,0.0006256769993342,0.0006156681338325,0.0003785963926929
+so i'm still breaking this movie down in my head as to why it worked so well,0.10828095,0.0,0.1555555555555555,0.0,False,0.0006630268762819,0.010193271562457,0.001556244213134
+why it's so effective,0.0253489,0.0,0.0,0.0,False,0.0008808319689705,0.0003887333441525,0.0008684140630066
+but what i am sure of is that it is incredible,0.030327583,0.0,0.0,0.0,False,0.0006263327086344,0.0003455232072155,0.0006717949290759
+it is an incredibly well-constructed movie like wow,0.031357653,0.0,0.0,0.0,False,0.0006613812875002,0.0004997291252948,0.0012330261524766
+"probably not since inception, has a film been able to manipulate me emotionally and mentally to exactly where it wants me now",0.12631269,0.9756259918212891,0.0,0.0,False,0.0009448922937735,0.0006375043885782,0.0017853879835456
+"inception, for instance, made me question reality for a few days",0.04165838,0.9998107552528381,0.2,0.0,False,0.0006090471870265,0.0004299256834201,0.0006114641437307
+"that's impressive, but i didn't love the film because ultimately i thought it relied on cheap tricks, but a quiet place",0.13610743,0.9811934232711792,0.0,0.238,False,0.0006314140628091,0.0005487712915055,0.0007263753213919
+i think because maybe it's a smaller film,0.036336336,0.9772682785987854,0.0,0.0,False,0.0006794529617764,0.000422874931246,0.0007546882843598
+"it created such an emotional intimate experience, and it both terrified and made me very sad that it really got me",0.0765103,0.9664091467857361,0.05,0.264,False,0.0008719748584553,0.000451877771411,0.0010652508353814
+i think this is just a really well made film,0.04543531,0.0,0.0,0.0,False,0.0006554354913532,0.0003487993963062,0.0005425757844932
+"i mean, crits, like, almost like a magic trick",0.08850401,0.971989631652832,0.0,0.101,False,0.0009697006316855,0.0012311777099967,0.009228516370058
+"i'm not impressed with that, so yeah, don't miss this movie",0.10763696,0.9996966123580933,0.5,0.169,False,0.0011194822145625,0.0007157598156481,0.0012550946557894
+it's very special and protect your movie going experience with this,0.033761155,0.0,0.0,0.0,False,0.0005824662512168,0.0004911569412797,0.0009557792218402
+"really, think ahead be like this family",0.03839648,0.0,0.0,0.0,False,0.0020521101541817,0.0007402008050121,0.0008279268513433
+"how are you gonna make sure that you learn? oh, you're in an audience",0.15626417,0.0,0.0,0.0,False,0.0043629640713334,0.0032719811424613,0.0069473274052143
+it stays quiet,0.060527626,0.0,0.0,0.0,False,0.0008791625732555,0.0006495895795524,0.0024703743401914
+"i almost wished they would make an announcement, being like you might be tempted to chime in, but you got to trust the movie and go with it, or you're not gonna really experience it the way it's meant to",0.10461388,0.0,0.0,0.0,False,0.001288000261411,0.0006962306215427,0.0016102822264656
+you're not gonna,0.044748597,0.9989773035049438,0.0,0.0,False,0.0337861739099025,0.0055529680103063,0.0010794006520882
+you're not gonna be able to experience that magic trick,0.10763696,0.9997878670692444,0.0,0.118,False,0.0429596379399299,0.0093205207958817,0.003329039318487
+"and yes, john krasinski is definitely a triple threat to keep an eye on going forward",0.21627559,0.0,0.0,0.156,False,0.0307045113295316,0.0051068803295493,0.0146797439083457
+"hey, jim, i'm so happy for him",0.029125832,0.0,0.0,0.0,False,0.0008931626216508,0.0018007921753451,0.0007951724110171
+look for awhile like he wasn't gonna make it,0.037023053,0.9991305470466614,0.0,0.0,False,0.0009985688375309,0.000723005796317,0.0011283594649285
+"let's see how his, uh, his, uh, jack, ryan serious is on amazon",0.13206954,0.0,0.3333333333333333,0.093,False,0.0127208698540925,0.0184905212372541,0.0021152070257812
+"but anyway, that's my review of a quiet place",0.02124131,0.5032385587692261,0.0,0.0,False,0.0006975340074859,0.0004305178590584,0.0009537892765365
+be sure to share your own thoughts down below,0.09118898,0.0,0.0,0.0,False,0.0007641904521733,0.0008838704088702,0.0006827269680798
+if you've seen the movie,0.017284594,0.0,0.0,0.0,False,0.000777767272666,0.0005269680987112,0.0005041578551754
+do not spoil it,0.10300289,0.0,0.0,0.0,False,0.0128794880583882,0.0011300622718408,0.0011211786186322
+please,0.021102477,0.0,0.0,0.0,False,0.0007104096584953,0.0005048883613198,0.0003587961255107
+"again what people experienced that magic trick? save your comments for the spoiler review, and of course, as always, you can check out some more videos right now",0.10892494,0.9965834021568298,0.0,0.039,False,0.000772725965362,0.0004731831431854,0.0005429782904684

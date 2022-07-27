@@ -1,88 +1,88 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"text, but i in in terms of when i got to baltimore, i signed up for a gym and w, the the woman signing me up",0.08050597,0.9995675484957084,0.3749999999999999,0.0,0.0010166212450712,0.0023782120551913,0.0013076594332233,False
-though i was british,0.024318827,0.2164904934299387,0.3749999999999999,0.0,0.0012499433942139,0.0006196165923029,0.0004893075674772,False
-she goes,0.0801064,0.0102588216440263,0.3749999999999999,0.0,0.0195491351187229,0.0011117947287857,0.0017915623029693,False
-"are you from england and i was like, no, um, from upstate new york",0.0741129,0.9998700588607426,0.2897727272727272,0.0,0.0009183685760945,0.0011113489745184,0.017758784815669,False
-"oh, what's your borough? it's a whole other conversation, but} none of them but you just said new york",0.13296685,0.9270840320017094,0.330965909090909,0.0,0.0008859863737598,0.0004933737800456,0.0014183666789904,False
-i said yup,0.019019997,0.1077542337589524,0.3749999999999999,0.0,0.0006774424691684,0.0012490614317357,0.0004317228740546,False
-"i did um, and then coming back to here when i worked in the city",0.053335425,0.0905628332331424,0.3749999999999999,0.0,0.0005894868518225,0.0005386308184824,0.0007348392973653,False
-"i realized that those students didn't think i was black either, so they were like",0.34388447,0.1130137645793272,0.4791666666666667,0.0,0.0167852621525526,0.3179096579551697,0.0536771304905414,False
-"what are you mixed with? can i touch your hair? you've got that good hair, which a n was very frustrating",0.2712817,0.9998519940912106,0.3375,0.14,0.1865871250629425,0.074426531791687,0.1125859022140502,False
-and then i m had them all read them all,0.03461955,0.0130519450361202,0.3749999999999999,0.0,0.0007660865085199,0.0004955796757712,0.0011712450068444,False
-read the willie lynch letter and be like this is why you think this like,0.04268845,0.9278159830761132,0.3749999999999999,0.0,0.0013407225487753,0.001333293155767,0.0036904029548168,False
-let's stop,0.049898956,0.9982779445440192,0.3749999999999999,0.688,0.0045574004761874,0.0069417897611856,0.0022152902092784,False
-um,0.012811388,0.2298953870984993,0.3749999999999999,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-but it's it's p,0.030842619,0.0035342857103678,0.3749999999999999,0.0,0.000970333290752,0.0073419786058366,0.0031564047094434,False
-i know my pronunciation and and my handling of the english language comes from a different couple of different places,0.023117077,0.0516213011415563,0.3749999999999999,0.0,0.0006285700947046,0.0004140509699936,0.000308212271193,False
-one,0.018464668,0.0235637628831467,0.3749999999999999,0.0,0.0008361552027054,0.0004634510260075,0.0004274109378457,False
-"my great aunt who raised my mother was an eighth grade english teacher, and so she drove pronunciation, language, speech, spelling reading into my mother, and my mother did the same with me even to this day, if if i'm mumbling, or uh, if i'm speaking too loudly, if my presentation isn't what she deems appropriate, p",0.076110736,0.0004900441358687,0.1999999999999999,0.0,0.0009165337542071,0.0013353900285437,0.0019546537660062,False
-"she has no hesitation in correcting me, um, i know that part of the influence on my language is",0.09279997,0.0021500354826653,0.3749999999999999,0.0,0.0006293152109719,0.0006340088439173,0.0013155167689546,False
-when i was a kid,0.028439116,0.1016973490517098,0.3749999999999999,0.0,0.0015349633758887,0.0011593904346227,0.0012365044094622,False
-i read a lot of comic books and comic books has an impact on language,0.031357653,0.0005101359752492,0.2187499999999999,0.0,0.0006882340530864,0.0005976394750177,0.0003614776942413,False
-"in that one it says it's okay to put image with with words as you get older, but you have to pay attention to the inflection",0.03461955,0.995553503047968,0.1666666666666666,0.059,0.0010543620446696,0.0006369146285578,0.001066462136805,False
-"for example, it's very common to m make words bolded well, if it's bolded, that's their way of putting an exclamation point on the word so you practice pronunciation to",0.035306264,0.1431272286217016,0.61875,0.0,0.0006915975827723,0.0004926049732603,0.0009889506036415,False
-to catch on to this is the word i have to pay attention to which changes how you read the line,0.040971663,0.9279717395460878,0.3749999999999999,0.065,0.0008246066281571,0.0005816499469801,0.0007744583999738,False
-"it's not just flat script, but like, oh, i have to change how i'm saying this because they're arguing and i have to internalize",0.05653196,0.9999411553546927,0.3906249999999999,0.137,0.0007980707450769,0.0004358323931228,0.0006475790287368,False
-"and what would this character sound like if he were having that argument? it's a little bit different from a book because you have to infer that's what's going on based upon the imagery the author has given you, and then you read it as you see it in a comic book",0.0358213,0.9267992286879988,0.302734375,0.045,0.0006263281684368,0.0004070386639796,0.0004936576588079,False
-they don't give you that much freedom,0.06771983,0.9972337054735476,0.25,0.0,0.0052372715435922,0.000793523795437,0.001063268748112,False
-"also, you're forced to address words may be a little more challenging in pronuncia pronun pronunciation",0.03599298,0.9903146006442862,0.2949218749999999,0.161,0.0007079654606059,0.0005035860813222,0.0005768495029769,False
-"you know the fact that at seven years old i'm saying adamantium, you know vibranium",0.17759849,0.9248800406892538,0.3125,0.0,0.0012655557366088,0.0005586497718468,0.0009937202557921,False
-"these aren't real things, but there's a lot of syllables",0.0813051,0.9995783694715172,0.25,0.0,0.0006160695920698,0.000428852654295,0.0004267524054739,False
-that's a lot to chew for a seven year old,0.263611,0.958972225506274,0.3125,0.0,0.2073374390602111,0.008943379856646,0.0214519202709198,False
-"um, because you read about marvel comic books and they have these fake alloys and you have to know what an alloy is",0.2712817,0.9999807428364396,0.4531249999999999,0.115,0.0010195736540481,0.0053409910760819,0.0060336566530168,False
-"and so now you're reading and you have to dissect and understand um, even dc, with superman, his kryptonite",0.119872786,0.0002715677399941,0.3749999999999999,0.0,0.0013867089292034,0.0005289036780595,0.0009680556831881,False
-"well, kryptonite's real",0.026894007,0.0005487099220716,0.25,0.0,0.0050086611881852,0.0005092200590297,0.0010566933779045,False
-"so now you're learning about a real e element, but it's not a a common pronunciation that works well for like phonics readers",0.04165838,0.9943607811110954,0.2656249999999999,0.0,0.0010569597361609,0.0004596431390382,0.0004038929473608,False
-"you know, there's a y there, but i'm pronouncing it like an",0.031701013,0.8128329201389926,0.3749999999999999,0.0,0.0008417122880928,0.001442503882572,0.0009878117125481,False
-"i like what's going on? um other influence, i think upon my language are, i didn't like reading regular books",0.050242316,0.8284895306910001,0.4140624999999999,0.093,0.0006219162605702,0.0005560348508879,0.0006677950732409,False
-"especially, i remember in fourth grade",0.0224908,0.0059008897584621,0.3749999999999999,0.0,0.0008185866172425,0.0003713675541803,0.00055548758246,False
-"um, i think one christmas i had to do like twenty book reports to catch up on all the book reports i didn't do and it was just one of those things where m",0.0358213,0.9999536754919922,0.3749999999999999,0.0,0.0006349609466269,0.0004695024981629,0.0002949520712718,False
-"when that was over, then my parents said, alright, you're gonna have to start doing book reports for us and so turn it down",0.06412373,0.9989472353122244,0.4722222222222222,0.0,0.0010574396001175,0.0008067464223131,0.0014967395691201,False
-"um, so then i had to start doing uh, so i started reading a lot more stuff that for me to be entertained by it, i had to read out loud to myself",0.04543531,0.1623325230419712,0.1874999999999999,0.0,0.0006453708629123,0.0004328680515754,0.0006827595061622,False
-"so then i'm thinking about how i sounded when i said it, and that changed um a bit of my language",0.060927194,0.8495060120208819,0.3749999999999999,0.0,0.0006125266081653,0.0003962498158216,0.0006267834687605,False
-"um, and then you know, by the time i got to high school and the sats, i'm like, really, just gobbling up language",0.14104263,0.9936719648906732,0.2625,0.0,0.0007595735951326,0.0028096535243093,0.0011907246662303,False
-"so by the time nowadays when i'm interacting with students, wow, you sound really smart",0.112144895,0.0017845070932241,0.2261904761904761,0.0,0.0006316626677289,0.0023581939749419,0.0031758483964949,False
-you're using words i'm not familiar with,0.045778666,0.9990292422115356,0.4921874999999999,0.0,0.0012745065614581,0.0024929423816502,0.0009205074748024,False
-i'm like,0.020963646,0.029531694995862,0.3749999999999999,0.0,0.0016913731815293,0.0005993730155751,0.0005510135088115,False
-"well, i'm gonna keep using them until you are familiar with them and you'll be used to them as",0.04818217,0.018846980014701,0.1406249999999999,0.0,0.0007952697924338,0.0034413090907037,0.0039501092396676,False
-well,0.01665985,0.1734428928814613,0.3749999999999999,0.0,0.0012921052984893,0.0014149595517665,0.0005282507627271,False
-"um, i think also part of what influenced my language is, i was a lot of my friends were would be classified as gifted and talented, so i remember, i remember arguing over the usage of the word conundrum",0.043375164,0.0097397725234139,0.0,0.066,0.0005757684702984,0.0004102073144167,0.0003728636947926,False
-"i, when i was in eleventh grade with my friends and there were no adults around us because somebody used it like they heard it",0.09494796,0.8099882853248669,0.3749999999999999,0.074,0.0007439843029715,0.0005299399490468,0.0005043580895289,False
-"they used it in the middle of a phrase, and then we argued over the meaning of it",0.024318827,0.9912984747670645,0.3749999999999999,0.128,0.0005767233087681,0.0003514925192575,0.0003669850411824,False
-um,0.012811388,0.2298953870984993,0.3749999999999999,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-that was a common event,0.027065687,0.2052215948043576,0.5625,0.0,0.0006668710266239,0.0003822268627118,0.0004086864355485,False
-"um, and i think a lot of that shaped how i addressed language",0.028267438,0.0090266910845115,0.3749999999999999,0.0,0.0005588686326518,0.0003842050791718,0.0004802320036105,False
-um,0.012811388,0.2298953870984993,0.3749999999999999,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"i think what it what you find in terms of the the, the development of language",0.017492844,0.0015732446812221,0.3749999999999999,0.0,0.0005951733328402,0.0003844393941108,0.0004026068781968,False
-i think couple different things stand out especially from an education standpoint,0.021796638,0.0024555864524721,0.3749999999999999,0.0,0.0005648973165079,0.0003679867950268,0.0003067190700676,False
-"um, i was not an oral learner, and when i say that, i mean, i didn't learn stories, and and and concepts and how to behave in school through story telling",0.03427619,0.999061794568514,0.5703125,0.0,0.0007197946542873,0.0006968948291614,0.0007409548852592,False
-"i learned it from reading, and that changed my approach, and what i have found is that suburban districts wealthier districts",0.029984225,0.0234819944626413,0.3749999999999999,0.0,0.0005879488307982,0.0003363442956469,0.000365258892998,False
-the majority of the students are learning from reading,0.03187269,0.0134326764494249,0.3749999999999999,0.0,0.00093914399622,0.0004534203617367,0.0005237240111455,False
-they're not learning from story telling,0.0825038,0.9999147438269612,0.3749999999999999,0.0,0.001177217811346,0.0006022631423547,0.0007161859539337,False
-"so which is very conducive towards a uh, a hu, traditional educational",0.019852988,0.9837556584313376,0.2812499999999999,0.0,0.0008394299075007,0.0006221771473065,0.0005995769752189,False
-"s setting in urban districts, you find more of a storytelling",0.04234509,0.0211581377404693,0.2187499999999999,0.0,0.0006918836734257,0.0003717857180163,0.0003330945037305,False
-"well, i'm not gonna read you, little red riding hood, but i know the story, so i'm gonna tell it to you and i'll embellish it so next time it's a little more entertaining",0.16482529,0.0250288872358333,0.3098958333333333,0.0,0.0060034990310668,0.0012324296403676,0.0065407273359596,False
-"however, i need it to be, but you know the basic story well that then says to a student one, i don't need to have mastery of language",0.059728492,0.7712124065736922,0.3749999999999999,0.0,0.0006258690264075,0.0005479081301018,0.0007275628158822,False
-that's the mainstream mastery of it,0.043375164,0.0002667981638801,0.3749999999999999,0.0,0.0007521777879446,0.0003698229556903,0.0005513400537893,False
-i just need to have a mastery of concept,0.029469188,0.0009184415004633,0.3749999999999999,0.0,0.0005481502157635,0.0004456869501154,0.0007816725410521,False
-"so how i pronounce it doesn't matter what i'm saying does, and so the package changes, and i think a lot of people have issue with the packaging",0.059328925,0.9998201869805,0.3749999999999999,0.038,0.0006204672390595,0.0004179268726147,0.0005328094703145,False
-"take the the southern accent, the stereotypical southern accent",0.10699297,0.99805091272099,0.4791666666666667,0.0,0.0009059124859049,0.0018952136160805,0.0005343135562725,False
-"um, m",0.012811388,0.220769309971711,0.3749999999999999,0.0,0.0010949214920401,0.0010269925696775,0.0009470522636547,False
-"most people don't realize that you have the phd triangle in north carolina, but so which, which would say, per capita, you have a lot of intelligent people in one nucleus, but a lot of them are gonna have that southern accent, but you're going to assume stupidity with the southern accent like that's",0.56268007,0.9960255718438568,0.2875,0.062,0.1590787470340728,0.9702773094177246,0.8418200612068176,False
-that's a cultural norm because you don't like the package,0.058929358,0.9988836210908032,0.3125,0.19,0.0024852761998772,0.0008957214886322,0.00218380917795,False
-"um, and i, i think a lot of the times people just need to get over that we do the same thing with the e english as secondary learners",0.07211506,0.0652786246259534,0.4375,0.0,0.0006674439064227,0.0005698492168448,0.0006205260870046,False
-"these are kids that should be in the fifth sixth grade, but we put them in the fourth and third grade when they move here",0.16482529,0.9482633943558864,0.3749999999999999,0.0,0.0034588149283081,0.0005412805476225,0.0006751530454494,False
-why? because they have to learn english instead of just putting them in an english immersion program and then saying you're one grade behind,0.23277332,0.9990646563141824,0.4583333333333332,0.0,0.0109448404982686,0.0049103354103863,0.0120025603100657,False
-"um, so i think a lot of the times people just need to get over in terms of language, the packaging, and and and focus on the message",0.031357653,0.1233372735994005,0.3749999999999999,0.0,0.0005528094479814,0.0004940907820127,0.0003434117825236,False
-"because if nothing else, listen to hiphop and i don't",0.11729682,0.961359636830166,0.3749999999999999,0.0,0.0154388891533017,0.0040599373169243,0.0162943284958601,False
-i don't mean that mumble crap that tr th it has,0.6662635,0.9873978856111368,0.72265625,0.206,0.8556571006774902,0.9758828282356262,0.9536840915679932,False
-it's purpose whatever,0.019297661,0.8331378403323584,0.3749999999999999,0.0,0.0007780737942084,0.0006094504497013,0.0012760686222463,False
-"but if you look at, say what eminem does",0.03736641,0.0267921399054991,0.3749999999999999,0.0,0.0012175204465165,0.0003747295122593,0.0012027897173538,False
-"nas, mos def common, even kanye in the way that they structure an argument",0.04818217,0.0007567528701967,0.5625,0.161,0.0008716600132174,0.0005702213966287,0.0006605406524613,False
-lyrically,0.04783881,0.0,0.3749999999999999,0.0,0.0015387594467028,0.0011028696317225,0.0003530164831317,False
-"these are guys that are from traditional urban backgrounds, and if you knew nothing about them, all the negative perceptions that would l fall on them because of where they're from, and then they open their mouths and they unleash genius",0.2712817,0.0050107974260267,0.4218749999999999,0.081,0.0984780639410018,0.0020005581900477,0.0043801986612379,False
-"well, why is that possible? well, because you take the time to actually listen to what they're saying and how they use language",0.038224805,0.1695574769395466,0.3749999999999999,0.0,0.0007134213228709,0.0005682186456397,0.0005040086689405,False
-they're w,0.028439116,0.0001075241315212,0.3749999999999999,0.0,0.1339650452136993,0.0296991467475891,0.0060845143161714,False
-literally word smiths,0.021796638,0.174423994688123,0.3749999999999999,0.0,0.0024823227431625,0.0014979707775637,0.0032638499978929,False
-"um, i think people need to again get over the package and really get to the heart of what's really being said and it would open their eyes a lot more to what things mean and create more fruitful conversations and interactions and that's final thought",0.028610796,0.0072883594500416,0.2779017857142857,0.0,0.0005492045311257,0.0003777111996896,0.0003659566573332,False
-"no problem, sure",0.02193547,0.000993741183364,0.0624999999999999,0.376,0.0007400597678497,0.0006434973329305,0.0007037020986899,False
+"text, but i in in terms of when i got to baltimore, i signed up for a gym and w, the the woman signing me up",0.08050597,0.9991353154182434,0.0,0.0,0.0010166212450712,0.0023782120551913,0.0013076594332233,False
+though i was british,0.024318827,0.0,0.0,0.0,0.0012499433942139,0.0006196165923029,0.0004893075674772,False
+she goes,0.0801064,0.0,0.0,0.0,0.0195491351187229,0.0011117947287857,0.0017915623029693,False
+"are you from england and i was like, no, um, from upstate new york",0.0741129,0.9997401833534241,0.0,0.0,0.0009183685760945,0.0011113489745184,0.017758784815669,False
+"oh, what's your borough? it's a whole other conversation, but} none of them but you just said new york",0.13296685,0.8542048931121826,0.0,0.0,0.0008859863737598,0.0004933737800456,0.0014183666789904,False
+i said yup,0.019019997,0.0,0.0,0.0,0.0006774424691684,0.0012490614317357,0.0004317228740546,False
+"i did um, and then coming back to here when i worked in the city",0.053335425,0.0,0.0,0.0,0.0005894868518225,0.0005386308184824,0.0007348392973653,False
+"i realized that those students didn't think i was black either, so they were like",0.34388447,0.0,0.1666666666666666,0.0,0.0167852621525526,0.3179096579551697,0.0536771304905414,False
+"what are you mixed with? can i touch your hair? you've got that good hair, which a n was very frustrating",0.2712817,0.9997040629386902,0.0,0.14,0.1865871250629425,0.074426531791687,0.1125859022140502,False
+and then i m had them all read them all,0.03461955,0.0,0.0,0.0,0.0007660865085199,0.0004955796757712,0.0011712450068444,False
+read the willie lynch letter and be like this is why you think this like,0.04268845,0.8556684255599976,0.0,0.0,0.0013407225487753,0.001333293155767,0.0036904029548168,False
+let's stop,0.049898956,0.9965567588806152,0.0,0.688,0.0045574004761874,0.0069417897611856,0.0022152902092784,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+but it's it's p,0.030842619,0.0,0.0,0.0,0.000970333290752,0.0073419786058366,0.0031564047094434,False
+i know my pronunciation and and my handling of the english language comes from a different couple of different places,0.023117077,0.0,0.0,0.0,0.0006285700947046,0.0004140509699936,0.000308212271193,False
+one,0.018464668,0.0,0.0,0.0,0.0008361552027054,0.0004634510260075,0.0004274109378457,False
+"my great aunt who raised my mother was an eighth grade english teacher, and so she drove pronunciation, language, speech, spelling reading into my mother, and my mother did the same with me even to this day, if if i'm mumbling, or uh, if i'm speaking too loudly, if my presentation isn't what she deems appropriate, p",0.076110736,0.0,0.0,0.0,0.0009165337542071,0.0013353900285437,0.0019546537660062,False
+"she has no hesitation in correcting me, um, i know that part of the influence on my language is",0.09279997,0.0,0.0,0.0,0.0006293152109719,0.0006340088439173,0.0013155167689546,False
+when i was a kid,0.028439116,0.0,0.0,0.0,0.0015349633758887,0.0011593904346227,0.0012365044094622,False
+i read a lot of comic books and comic books has an impact on language,0.031357653,0.0,0.0,0.0,0.0006882340530864,0.0005976394750177,0.0003614776942413,False
+"in that one it says it's okay to put image with with words as you get older, but you have to pay attention to the inflection",0.03461955,0.9911092519760132,0.0,0.059,0.0010543620446696,0.0006369146285578,0.001066462136805,False
+"for example, it's very common to m make words bolded well, if it's bolded, that's their way of putting an exclamation point on the word so you practice pronunciation to",0.035306264,0.0,0.39,0.0,0.0006915975827723,0.0004926049732603,0.0009889506036415,False
+to catch on to this is the word i have to pay attention to which changes how you read the line,0.040971663,0.855979859828949,0.0,0.065,0.0008246066281571,0.0005816499469801,0.0007744583999738,False
+"it's not just flat script, but like, oh, i have to change how i'm saying this because they're arguing and i have to internalize",0.05653196,0.9998823404312134,0.025,0.137,0.0007980707450769,0.0004358323931228,0.0006475790287368,False
+"and what would this character sound like if he were having that argument? it's a little bit different from a book because you have to infer that's what's going on based upon the imagery the author has given you, and then you read it as you see it in a comic book",0.0358213,0.8536354303359985,0.0,0.045,0.0006263281684368,0.0004070386639796,0.0004936576588079,False
+they don't give you that much freedom,0.06771983,0.9944688081741333,0.0,0.0,0.0052372715435922,0.000793523795437,0.001063268748112,False
+"also, you're forced to address words may be a little more challenging in pronuncia pronun pronunciation",0.03599298,0.9806340932846069,0.0,0.161,0.0007079654606059,0.0005035860813222,0.0005768495029769,False
+"you know the fact that at seven years old i'm saying adamantium, you know vibranium",0.17759849,0.8497980237007141,0.0,0.0,0.0012655557366088,0.0005586497718468,0.0009937202557921,False
+"these aren't real things, but there's a lot of syllables",0.0813051,0.9991569519042969,0.0,0.0,0.0006160695920698,0.000428852654295,0.0004267524054739,False
+that's a lot to chew for a seven year old,0.263611,0.9179651737213135,0.0,0.0,0.2073374390602111,0.008943379856646,0.0214519202709198,False
+"um, because you read about marvel comic books and they have these fake alloys and you have to know what an alloy is",0.2712817,0.9999614953994751,0.125,0.115,0.0010195736540481,0.0053409910760819,0.0060336566530168,False
+"and so now you're reading and you have to dissect and understand um, even dc, with superman, his kryptonite",0.119872786,0.0,0.0,0.0,0.0013867089292034,0.0005289036780595,0.0009680556831881,False
+"well, kryptonite's real",0.026894007,0.0,0.0,0.0,0.0050086611881852,0.0005092200590297,0.0010566933779045,False
+"so now you're learning about a real e element, but it's not a a common pronunciation that works well for like phonics readers",0.04165838,0.988724410533905,0.0,0.0,0.0010569597361609,0.0004596431390382,0.0004038929473608,False
+"you know, there's a y there, but i'm pronouncing it like an",0.031701013,0.6257603764533997,0.0,0.0,0.0008417122880928,0.001442503882572,0.0009878117125481,False
+"i like what's going on? um other influence, i think upon my language are, i didn't like reading regular books",0.050242316,0.6570656895637512,0.0625,0.093,0.0006219162605702,0.0005560348508879,0.0006677950732409,False
+"especially, i remember in fourth grade",0.0224908,0.0,0.0,0.0,0.0008185866172425,0.0003713675541803,0.00055548758246,False
+"um, i think one christmas i had to do like twenty book reports to catch up on all the book reports i didn't do and it was just one of those things where m",0.0358213,0.999907374382019,0.0,0.0,0.0006349609466269,0.0004695024981629,0.0002949520712718,False
+"when that was over, then my parents said, alright, you're gonna have to start doing book reports for us and so turn it down",0.06412373,0.9978950023651123,0.1555555555555555,0.0,0.0010574396001175,0.0008067464223131,0.0014967395691201,False
+"um, so then i had to start doing uh, so i started reading a lot more stuff that for me to be entertained by it, i had to read out loud to myself",0.04543531,0.0,0.0,0.0,0.0006453708629123,0.0004328680515754,0.0006827595061622,False
+"so then i'm thinking about how i sounded when i said it, and that changed um a bit of my language",0.060927194,0.6990880370140076,0.0,0.0,0.0006125266081653,0.0003962498158216,0.0006267834687605,False
+"um, and then you know, by the time i got to high school and the sats, i'm like, really, just gobbling up language",0.14104263,0.9873471260070801,0.0,0.0,0.0007595735951326,0.0028096535243093,0.0011907246662303,False
+"so by the time nowadays when i'm interacting with students, wow, you sound really smart",0.112144895,0.0,0.0,0.0,0.0006316626677289,0.0023581939749419,0.0031758483964949,False
+you're using words i'm not familiar with,0.045778666,0.9980589747428894,0.1875,0.0,0.0012745065614581,0.0024929423816502,0.0009205074748024,False
+i'm like,0.020963646,0.0,0.0,0.0,0.0016913731815293,0.0005993730155751,0.0005510135088115,False
+"well, i'm gonna keep using them until you are familiar with them and you'll be used to them as",0.04818217,0.0,0.0,0.0,0.0007952697924338,0.0034413090907037,0.0039501092396676,False
+well,0.01665985,0.0,0.0,0.0,0.0012921052984893,0.0014149595517665,0.0005282507627271,False
+"um, i think also part of what influenced my language is, i was a lot of my friends were would be classified as gifted and talented, so i remember, i remember arguing over the usage of the word conundrum",0.043375164,0.0,0.0,0.066,0.0005757684702984,0.0004102073144167,0.0003728636947926,False
+"i, when i was in eleventh grade with my friends and there were no adults around us because somebody used it like they heard it",0.09494796,0.6200725436210632,0.0,0.074,0.0007439843029715,0.0005299399490468,0.0005043580895289,False
+"they used it in the middle of a phrase, and then we argued over the meaning of it",0.024318827,0.9826013445854187,0.0,0.128,0.0005767233087681,0.0003514925192575,0.0003669850411824,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+that was a common event,0.027065687,0.0,0.3,0.0,0.0006668710266239,0.0003822268627118,0.0004086864355485,False
+"um, and i think a lot of that shaped how i addressed language",0.028267438,0.0,0.0,0.0,0.0005588686326518,0.0003842050791718,0.0004802320036105,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"i think what it what you find in terms of the the, the development of language",0.017492844,0.0,0.0,0.0,0.0005951733328402,0.0003844393941108,0.0004026068781968,False
+i think couple different things stand out especially from an education standpoint,0.021796638,0.0,0.0,0.0,0.0005648973165079,0.0003679867950268,0.0003067190700676,False
+"um, i was not an oral learner, and when i say that, i mean, i didn't learn stories, and and and concepts and how to behave in school through story telling",0.03427619,0.9981240630149841,0.3125,0.0,0.0007197946542873,0.0006968948291614,0.0007409548852592,False
+"i learned it from reading, and that changed my approach, and what i have found is that suburban districts wealthier districts",0.029984225,0.0,0.0,0.0,0.0005879488307982,0.0003363442956469,0.000365258892998,False
+the majority of the students are learning from reading,0.03187269,0.0,0.0,0.0,0.00093914399622,0.0004534203617367,0.0005237240111455,False
+they're not learning from story telling,0.0825038,0.9998295307159424,0.0,0.0,0.001177217811346,0.0006022631423547,0.0007161859539337,False
+"so which is very conducive towards a uh, a hu, traditional educational",0.019852988,0.9675195217132568,0.0,0.0,0.0008394299075007,0.0006221771473065,0.0005995769752189,False
+"s setting in urban districts, you find more of a storytelling",0.04234509,0.0,0.0,0.0,0.0006918836734257,0.0003717857180163,0.0003330945037305,False
+"well, i'm not gonna read you, little red riding hood, but i know the story, so i'm gonna tell it to you and i'll embellish it so next time it's a little more entertaining",0.16482529,0.0,0.0,0.0,0.0060034990310668,0.0012324296403676,0.0065407273359596,False
+"however, i need it to be, but you know the basic story well that then says to a student one, i don't need to have mastery of language",0.059728492,0.5425403714179993,0.0,0.0,0.0006258690264075,0.0005479081301018,0.0007275628158822,False
+that's the mainstream mastery of it,0.043375164,0.0,0.0,0.0,0.0007521777879446,0.0003698229556903,0.0005513400537893,False
+i just need to have a mastery of concept,0.029469188,0.0,0.0,0.0,0.0005481502157635,0.0004456869501154,0.0007816725410521,False
+"so how i pronounce it doesn't matter what i'm saying does, and so the package changes, and i think a lot of people have issue with the packaging",0.059328925,0.9996404647827148,0.0,0.038,0.0006204672390595,0.0004179268726147,0.0005328094703145,False
+"take the the southern accent, the stereotypical southern accent",0.10699297,0.9961028099060059,0.1666666666666666,0.0,0.0009059124859049,0.0018952136160805,0.0005343135562725,False
+"um, m",0.012811388,0.0,0.0,0.0,0.0010949214920401,0.0010269925696775,0.0009470522636547,False
+"most people don't realize that you have the phd triangle in north carolina, but so which, which would say, per capita, you have a lot of intelligent people in one nucleus, but a lot of them are gonna have that southern accent, but you're going to assume stupidity with the southern accent like that's",0.56268007,0.9920531511306763,0.0,0.062,0.1590787470340728,0.9702773094177246,0.8418200612068176,False
+that's a cultural norm because you don't like the package,0.058929358,0.9977678060531616,0.0,0.19,0.0024852761998772,0.0008957214886322,0.00218380917795,False
+"um, and i, i think a lot of the times people just need to get over that we do the same thing with the e english as secondary learners",0.07211506,0.0,0.0999999999999999,0.0,0.0006674439064227,0.0005698492168448,0.0006205260870046,False
+"these are kids that should be in the fifth sixth grade, but we put them in the fourth and third grade when they move here",0.16482529,0.8965529203414917,0.0,0.0,0.0034588149283081,0.0005412805476225,0.0006751530454494,False
+why? because they have to learn english instead of just putting them in an english immersion program and then saying you're one grade behind,0.23277332,0.9981297850608826,0.1333333333333333,0.0,0.0109448404982686,0.0049103354103863,0.0120025603100657,False
+"um, so i think a lot of the times people just need to get over in terms of language, the packaging, and and and focus on the message",0.031357653,0.0,0.0,0.0,0.0005528094479814,0.0004940907820127,0.0003434117825236,False
+"because if nothing else, listen to hiphop and i don't",0.11729682,0.922738790512085,0.0,0.0,0.0154388891533017,0.0040599373169243,0.0162943284958601,False
+i don't mean that mumble crap that tr th it has,0.6662635,0.9748021364212036,0.55625,0.206,0.8556571006774902,0.9758828282356262,0.9536840915679932,False
+it's purpose whatever,0.019297661,0.6663599610328674,0.0,0.0,0.0007780737942084,0.0006094504497013,0.0012760686222463,False
+"but if you look at, say what eminem does",0.03736641,0.0,0.0,0.0,0.0012175204465165,0.0003747295122593,0.0012027897173538,False
+"nas, mos def common, even kanye in the way that they structure an argument",0.04818217,0.0,0.3,0.161,0.0008716600132174,0.0005702213966287,0.0006605406524613,False
+lyrically,0.04783881,0.0,0.0,0.0,0.0015387594467028,0.0011028696317225,0.0003530164831317,False
+"these are guys that are from traditional urban backgrounds, and if you knew nothing about them, all the negative perceptions that would l fall on them because of where they're from, and then they open their mouths and they unleash genius",0.2712817,0.0,0.075,0.081,0.0984780639410018,0.0020005581900477,0.0043801986612379,False
+"well, why is that possible? well, because you take the time to actually listen to what they're saying and how they use language",0.038224805,0.0,0.0,0.0,0.0007134213228709,0.0005682186456397,0.0005040086689405,False
+they're w,0.028439116,0.0,0.0,0.0,0.1339650452136993,0.0296991467475891,0.0060845143161714,False
+literally word smiths,0.021796638,0.0,0.0,0.0,0.0024823227431625,0.0014979707775637,0.0032638499978929,False
+"um, i think people need to again get over the package and really get to the heart of what's really being said and it would open their eyes a lot more to what things mean and create more fruitful conversations and interactions and that's final thought",0.028610796,0.0,0.0,0.0,0.0005492045311257,0.0003777111996896,0.0003659566573332,False
+"no problem, sure",0.02193547,0.0,0.0,0.376,0.0007400597678497,0.0006434973329305,0.0007037020986899,False

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"i wanna sleep so bad , but its not working :\",0.22952124,0.0,0.0,0.194,0.0104815857484936,0.0113993491977453,0.0016670670593157,False
+"i wanna sleep so bad , but its not working :\",0.22952124,0.9994373917579651,0.4749999999999999,0.194,0.0104815857484936,0.0113993491977453,0.0016670670593157,False

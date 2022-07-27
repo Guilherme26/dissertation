@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-damn @user @user i have seen that dang oreo commercial twice in an hour lol,0.5535644,0.0,0.0,0.146,0.653976559638977,0.9857172966003418,0.9310021996498108,True
+damn @user @user i have seen that dang oreo commercial twice in an hour lol,0.5535644,0.9993135929107666,0.0,0.146,0.653976559638977,0.9857172966003418,0.9310021996498108,True

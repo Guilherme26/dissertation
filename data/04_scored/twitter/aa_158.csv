@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user wat u sorry for fool,0.5933793,0.0,0.0,0.512,0.7147039175033569,0.9834147095680236,0.9521620869636536,False
+@user wat u sorry for fool,0.5933793,0.9997982382774353,0.5,0.512,0.7147039175033569,0.9834147095680236,0.9521620869636536,False

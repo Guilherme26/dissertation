@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user u ugly cuh lmao,0.6769488,0.0,0.0,0.324,0.9302799701690674,0.9911912083625792,0.524827241897583,False
+@user u ugly cuh lmao,0.6769488,0.9997311234474182,0.0499999999999999,0.324,0.9302799701690674,0.9911912083625792,0.524827241897583,False

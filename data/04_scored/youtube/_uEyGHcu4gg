@@ -1,18 +1,18 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"well, buddy, you, a fan z here",0.09494796,0.000836475494896,0.4117647058823529,0.0,False,0.02178454026579857,0.0026954403147101402,0.02838260307908058
-"today's review is going to be for the 1952 movie musical singing in the rain starring gene kelly, donald o'connor and julie andrews",0.01263372,0.005177180826869,0.4117647058823529,0.0,False,0.0006067386129871011,0.0008271162514574826,0.00028469186509028077
-"now going into this movie, i am a fan of musicals and i had heard a lot of good things about this movie and how i was in classic now",0.05613239,0.0004765337605015,0.1568627450980391,0.0,False,0.0006114760763011873,0.00043339465628378093,0.0003654302272479981
-"overall, it's a good movie, but it's not a great movie now",0.074912034,0.9708231659382672,0.3529411764705882,0.271,False,0.0008401405066251755,0.0007195090292952955,0.00037888955557718873
-definitely the three main actors are the best reason to watch this,0.036508016,0.0,0.1830065359477124,0.0,False,0.0006755028734914958,0.0005588063504546881,0.0004894050653092563
-i thought gene kelly was good,0.023117077,0.1031741053730768,0.0,0.0,False,0.0006867111660540104,0.0017987183528020978,0.0022311233915388584
-"julie andrews was good, but i felt like my standout was donnell o'connor as cosmo brown",0.05373499,0.0027936176851173,0.0,0.0,False,0.0006089670932851732,0.02340579405426979,0.013205057010054588
-"i just felt like any time he was on screen eight elevated the movie a little bit more, maybe more interested, and i thought the story was good",0.04268845,0.9979341061577104,0.2044117647058823,0.0,False,0.0005304364603944123,0.0003678856010083109,0.00032653569360263646
-it was definitely easy to follow along with,0.040971663,0.0007571177926467,0.1568627450980391,0.0,False,0.0005644712946377695,0.0003325833531562239,0.00037703808629885316
-now on to the negatives,0.06412373,0.999198582603468,0.4117647058823529,0.0,False,0.001098517095670104,0.0003808957408182323,0.0021953240502625704
-"even though julie andrews was good, i just felt like she could have done a little bit more",0.11729682,0.9979123737140818,0.213235294117647,0.0,False,0.0005552800721488893,0.0006151372799649835,0.0008143240120261908
-"and another big problem of mine is that the, even though the movie to a lot of people it's considered classic to me, it just isn't very memorable and it's not a movie that i would really watch that many more times and it's just yeah, there's just nothing very remarkable in the story",0.07091636,0.999982470950818,0.1603641456582632,0.099,False,0.0007682391442358494,0.00037734609213657677,0.0004719650896731764
-it seemed just like you knew where it was going and all that,0.023632111,0.0827174664871708,0.4117647058823529,0.0,False,0.0007668092148378491,0.0004435595474205911,0.0006253329920582473
-"overall, i'm going to give this a three and a half out of five",0.04165838,0.0386227855340508,0.4607843137254901,0.0,False,0.00560264615342021,0.0034807256888598204,0.0006358972168527544
-"well, that is my review for the 19:52 would be musical, singing in the ring",0.03994159,0.1263886778082654,0.4117647058823529,0.0,False,0.0008010432939045131,0.00036859684041701257,0.0014017659705132246
-"this is move, fans e, signing off",0.07571117,0.8659422141180513,0.4117647058823529,0.0,False,0.0018597329035401344,0.0006297729560174048,0.0013684689765796065
-have a good night,0.026035614,0.0048507470028157,0.0,0.0,False,0.0057944804430007935,0.0014130230993032455,0.00045319434138946235
+"well, buddy, you, a fan z here",0.09494796,0.0,0.0,0.0,False,0.0217845402657985,0.0026954403147101,0.0283826030790805
+"today's review is going to be for the 1952 movie musical singing in the rain starring gene kelly, donald o'connor and julie andrews",0.01263372,0.0,0.0,0.0,False,0.0006067386129871,0.0008271162514574,0.0002846918650902
+"now going into this movie, i am a fan of musicals and i had heard a lot of good things about this movie and how i was in classic now",0.05613239,0.0,0.0,0.0,False,0.0006114760763011,0.0004333946562837,0.0003654302272479
+"overall, it's a good movie, but it's not a great movie now",0.074912034,0.941663920879364,0.0,0.271,False,0.0008401405066251,0.0007195090292952,0.0003788895555771
+definitely the three main actors are the best reason to watch this,0.036508016,0.0,0.0,0.0,False,0.0006755028734914,0.0005588063504546,0.0004894050653092
+i thought gene kelly was good,0.023117077,0.0,0.0,0.0,False,0.000686711166054,0.001798718352802,0.0022311233915388
+"julie andrews was good, but i felt like my standout was donnell o'connor as cosmo brown",0.05373499,0.0,0.0,0.0,False,0.0006089670932851,0.0234057940542697,0.0132050570100545
+"i just felt like any time he was on screen eight elevated the movie a little bit more, maybe more interested, and i thought the story was good",0.04268845,0.9958694577217102,0.0,0.0,False,0.0005304364603944,0.0003678856010083,0.0003265356936026
+it was definitely easy to follow along with,0.040971663,0.0,0.0,0.0,False,0.0005644712946377,0.0003325833531562,0.0003770380862988
+now on to the negatives,0.06412373,0.9983976483345032,0.0,0.0,False,0.0010985170956701,0.0003808957408182,0.0021953240502625
+"even though julie andrews was good, i just felt like she could have done a little bit more",0.11729682,0.995826005935669,0.0,0.0,False,0.0005552800721488,0.0006151372799649,0.0008143240120261
+"and another big problem of mine is that the, even though the movie to a lot of people it's considered classic to me, it just isn't very memorable and it's not a movie that i would really watch that many more times and it's just yeah, there's just nothing very remarkable in the story",0.07091636,0.9999649524688721,0.0,0.099,False,0.0007682391442358,0.0003773460921365,0.0004719650896731
+it seemed just like you knew where it was going and all that,0.023632111,0.0,0.0,0.0,False,0.0007668092148378,0.0004435595474205,0.0006253329920582
+"overall, i'm going to give this a three and a half out of five",0.04165838,0.0,0.0833333333333333,0.0,False,0.0056026461534202,0.0034807256888598,0.0006358972168527
+"well, that is my review for the 19:52 would be musical, singing in the ring",0.03994159,0.0,0.0,0.0,False,0.0008010432939045,0.000368596840417,0.0014017659705132
+"this is move, fans e, signing off",0.07571117,0.7319652438163757,0.0,0.0,False,0.0018597329035401,0.0006297729560174,0.0013684689765796
+have a good night,0.026035614,0.0,0.0,0.0,False,0.0057944804430007,0.0014130230993032,0.0004531943413894

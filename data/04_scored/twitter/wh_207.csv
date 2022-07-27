@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user haha me 2 that would be awesome :),0.04543531,0.0,0.0,0.0,0.0008329969132319,0.0010059812339022,0.0009532683179713,False
+@user haha me 2 that would be awesome :),0.04543531,0.5113505721092224,0.0,0.0,0.0008329969132319,0.0010059812339022,0.0009532683179713,False

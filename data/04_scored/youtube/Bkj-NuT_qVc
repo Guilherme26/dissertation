@@ -1,65 +1,65 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"yes, i'm well aware that halloween is over",0.08367105,0.0020539042957789,0.3670886075949367,0.0,False,0.0096647562459111,0.0013183162081986,0.0004826021613553
-but for me it's always halloween,0.034104515,0.002532368774694,0.4936708860759494,0.0,False,0.0012917016865685,0.0321688242256641,0.0007782194879837
-the actual month of october is just this great time where everyone else thinks it's halloween,0.044405237,0.0119376202010123,0.2911392405063291,0.0,False,0.001125092850998,0.000513054896146,0.0006991508998908
-knives out was written and directed by rian johnson and stars everyone,0.049898956,0.0003095981691148,0.4936708860759494,0.0,False,0.0008518800605088,0.0018822458805516,0.0174117516726255
-"this movie is filled with so many incredible actors, namely daniel craig, chris evans, jamie lee curtis, easily one of the best cast of the year in an old-fashioned whodunit",0.025863936,0.0019872339930921,0.1662447257383966,0.0,False,0.0011803860543295,0.0018204862717539,0.0005592358065769
-it's a murder mystery all about the death of a patriarch of a very eccentric and combative family,0.1835188,0.0031782391946871,0.4936708860759494,0.35,False,0.0046083689667284,0.0076475348323583,0.0171320009976625
-daniel craig plays the equally eccentric detective who's investigating and everyone else is a suspect,0.11472086,0.0006709351158176,0.4936708860759494,0.128,False,0.0019985379185527,0.0071819596923887,0.0053661609999835
-murder mysteries are very successful on tv,0.19141254,0.0014967289230793,0.0,0.341,False,0.0020801182836294,0.0008557392284274,0.0192100759595632
-but you don't see as many of them in film,0.03204437,0.9366726601391164,0.240506329113924,0.0,False,0.0006629488780163,0.0004771024105139,0.0006084066699258
-"my mom has always loved the miss marple show and murder she wrote, and all of those shows",0.14911842,0.0017127442801976,0.1392405063291139,0.25,False,0.0081887152045965,0.0235433503985404,0.0155657213181257
-"you know that, like people like to gather around the tv and watch and try to figure out who did it",0.038911518,0.7848620562528071,0.4936708860759494,0.0,False,0.0009878969285637,0.0009840398561209,0.0011033561313524
-you don't get as many of that in film,0.076110736,0.997094879559815,0.240506329113924,0.0,False,0.0008539389818906,0.0004884133813902,0.0010452937567606
-"last year, we had the remake of the murder on the orient express and the best of the bunch",0.21109697,0.9991271465557502,0.240506329113924,0.181,False,0.0006996098090894,0.0015123571502044,0.0049992594867944
-"in my opinion, clue, which stars tim curry, who is a perfect and flawless human being, and there's the sherlock holmes movies with robert downey jr",0.14777246,0.0051740565794528,0.1561181434599156,0.0,False,0.0009389279875904,0.0024586820509284,0.0007815471035428
-but even those are based off of a very popular character in literature,0.019852988,0.920083199292347,0.0987341772151899,0.0,False,0.00061073229881,0.0003733086632564,0.00034594986937
-it's been a while since we've had an original murder mystery that isn't based off of something else,0.09924392,0.9992473438426236,0.3037974683544304,0.204,False,0.0006955250282771,0.0008202704484574,0.0005941842682659
-"brand new characters, brand new story, rian johnson is a really good director for this type of film",0.05133759,3.0280298403995806e-05,0.3294975067126966,0.0,False,0.0006377547397278,0.0004045736568514,0.0003900468291249
-"brick is, in a way, the tech t'v story as well, and it's probably still my favorite of his films",0.043031808,2.658467143342939e-05,0.240506329113924,0.0,False,0.0012939396547153,0.0005355426110327,0.0004870212287642
-but this one got really close,0.07011723,0.0703191978582053,0.3924050632911393,0.0,False,0.0010499641066417,0.0003622854710556,0.000603784515988
-this is an ingenious film extremely well-written filled with charismatic characters and actors giving some of their best performances,0.050585672,0.0003116844101466,0.2632911392405064,0.0,False,0.0006179929478093,0.000450128049124,0.0004829519602935
-this is like super over the top with an insane accent and i loved every minute of it,0.26817688,0.0005293091532037,0.4261603375527426,0.097,False,0.0015416375827044,0.0140752159059047,0.0675682723522186
-"jokes aside, i loved him here",0.08689302,0.008540027663556,0.1392405063291139,0.0,False,0.0007537341443821,0.000752649269998,0.0005605320329777
-"sometimes you get performances that are really over-the-top like this one, and there will be some people who think he's really hamming it up for some reason, even though it's incredibly obvious that he's doing it on purpose, this is a very tongue-in-cheek performance that is almost winking",0.19936113,0.009922400774651,0.5063291139240506,0.0,False,0.0006857595290057,0.0134477438405156,0.0047564976848661
-lee,0.01665985,0.0163182197091958,0.4936708860759494,0.0,False,0.0023020149674266,0.0006863607559353,0.0005079081165604
-"aware of the genre trappings of a whodunit on a day are moss, and i apologize if i said her name incorrectly",0.12051678,0.9662225059510026,0.3670886075949367,0.0,False,0.0008376512560062,0.0054168328642845,0.0207339692860841
-she's really great here as well,0.04165838,0.0031055485964515,0.0886075949367088,0.0,False,0.0005742158973589,0.0003296092618256,0.0022149486467242
-i've seen her pop up in a lot of movies,0.086087525,0.0010376366823164,0.4936708860759494,0.0,False,0.000808508368209,0.0031130427960306,0.0062106386758387
-"obviously blade runner 2049 she's been doing a lot of things lately, but she gets a big role in this movie front and center and she's excellent",0.07011723,0.0002738042336983,0.4329113924050633,0.0,False,0.0005850320449098,0.000394009926822,0.0004040955391246
-"however, there is one shot in this movie where an actor gave what i imagine must have been his most difficult performance to date",0.07251463,0.999222398360572,0.4936708860759494,0.108,False,0.0006710888119414,0.0017178390407934,0.000627321365755
-chris evans has a shot where he has to pretend like he doesn't like dogs,0.2712817,0.9885016229465056,0.4936708860759494,0.195,False,0.0711146369576454,0.206485778093338,0.1206111833453178
-"it must have been horrible for him, i joke, but he really was great in the film as well",0.20302857,0.9996406598839992,0.4936708860759494,0.082,False,0.0009156774030998,0.0077322521246969,0.003685038536787
-there's not a weak link in this entire cast,0.085282035,0.0025084068062719,0.4462025316455696,0.0,False,0.0013942456571385,0.0007737019332125,0.0007144078263081
-everyone brought their a-game and they're also reading dialogue,0.044405237,0.0058684470051562,0.4936708860759494,0.0,False,0.0006375101511366,0.0004379324382171,0.0006705680279992
-"that's witty, clever and intelligent, that constantly pits its characters and conflicting situations",0.07371333,0.0008077329206152,0.3080168776371308,0.144,False,0.0007106165285222,0.0005185433547012,0.0024324674159288
-"that raises the tension in every scene, and johnson had a difficult job with this movie because it's a comedy with suspense",0.13476147,0.0010082504872117,0.7468354430379747,0.183,False,0.0006942687905393,0.0004895513993687,0.0006080507300794
-"you want your audience to laugh when you want them to laugh, but you don't want to release them from tension so much that they don't feel tense when you want them to, and he found a great balance between those and just about every scene",0.089041,0.0,0.3654008438818565,0.074,False,0.000959524710197,0.0008339472115039,0.0005554028903134
-"but then there's a scene later on where he's sort of leaning back in the shadows smoking a cigar and you just see that cigar tip light up in the dark and you're like ooh, that guy's hiding something, so he keeps his characters mysterious even when it seems like they're being their full selves in front of everyone now",0.07730943,0.0128295180455378,0.4430379746835443,0.042,False,0.0130009269341826,0.0020721880719065,0.006961484439671
-i don't want to get into any spoilers,0.082104236,0.9984958202160928,0.4936708860759494,0.149,False,0.0040430473163723,0.0031251322943717,0.0021236622706055
-"of course, because the movies not gonna come out for another week, but the film has a really unique take on the whodunit in regards to what information",0.027065687,2.360432710232744e-05,0.3037974683544304,0.0,False,0.0006743891281075,0.0007200587424449,0.0075308331288397
-"it lets you know early on, a lot more than you would expect to know early on for these types of movies, and it sort of makes you rethink how you process a whodunit, because you usually go into one of these thinking",0.044748597,0.0671556815645138,0.4367088607594936,0.0,False,0.0007583943079225,0.0009921002201735,0.0049130809493362
-all right,0.02054715,0.0010707483078349,0.3490054249547921,0.0,False,0.000915432756301,0.0003712073958013,0.000612138188444
-"well, let's try to figure out which one of these bastards did the thing",0.78524166,0.9730506536342168,0.4936708860759494,0.221,False,0.8080267906188965,0.9916892051696776,0.9794455170631408
-but this movie is kind of like,0.04680874,0.978780306003874,0.189873417721519,0.0,False,0.0008902860572561,0.0004755033296532,0.0013334722025319
-"well, here's some info",0.029640866,0.166505519448684,0.4936708860759494,0.0,False,0.0007162347319535,0.0003761321422643,0.0002896666410379
-"and because of that, you're second-guessing yourself throughout the entire movie",0.062125895,0.1129025662850931,0.4936708860759494,0.0,False,0.0038088902365416,0.0043115303851664,0.0042759929783642
-"as for issues, i don't really have that many",0.027580723,0.9945181036545876,0.3164556962025316,0.0,False,0.000614897289779,0.0006672762683592,0.001074856496416
-i think this is a good time with the movies and it's just the type of movie it should have been,0.042001735,0.0034638455919366,0.1392405063291139,0.0,False,0.0005812711315229,0.0006351688643917,0.0004755559493787
-but there are some characters in the movie that are a bit throwaway,0.14956708,0.9240812716056336,0.4936708860759494,0.0,False,0.0007486843969672,0.0017913908232003,0.0013425273355096
-they're there as a one-note joke of sorts that have maybe three to four lines in the entire movie,0.0753116,0.9987289129462285,0.4936708860759494,0.0,False,0.0008410552400164,0.0004569930024445,0.0005428049480542
-"there's a young character in the movie that is glued to the phone for the majority of the film and he's the butt of many jokes, but he doesn't have the chance to actually be a character",0.3598433,0.866371374150341,0.3924050632911393,0.055,False,0.0010400881292298,0.0321605429053306,0.2049056738615036
-"really, he's just kind of there to be laughed at",0.05493369,0.8908428622392459,0.240506329113924,0.0,False,0.0007774101104587,0.0004936567274853,0.01241010800004
-and that's okay,0.021102477,0.8293030434978275,0.240506329113924,0.0,False,0.000731537817046,0.0003513762785587,0.0006927912472747
-"i mean, that happens a lot in movies",0.03049926,0.004760205965636,0.6518987341772152,0.0,False,0.0008604561444371,0.0005739415064454,0.0019060884369537
-it's just that this movie is so smart and so clever that that felt a bit disposable to me that you had this opportunity and he didn't really do anything with it,0.11665283,0.994575534889848,0.3956198513160538,0.0,False,0.0006216575857251,0.0004846041847486,0.0012209051055833
-"it was just like a one joke character and there's also a few scenes where the characters have to leave the house and engage in things outside, and it's never as claustrophobic or as suspenseful as when they're all trapped there",0.11729682,0.999754300413344,0.610126582278481,0.096,False,0.0013386906357482,0.0007665601442568,0.0009297073120251
-"it's not that the outside scenes are necessarily bad, it's just that they're not as entertaining as the scenes at the house knives out is exactly the film i wanted it to be",0.1019289,0.999263854950218,0.4873417721518987,0.16,False,0.0006785499281249,0.000537751300726,0.0007704172749072
-this is really in his wheelhouse and i think he knocked it out of the park,0.12824467,0.006728932020432,0.3924050632911393,0.0,False,0.0047492077574133,0.0180589444935321,0.0063636130653321
-i'm gonna give knives out and a - i hope you guys saw the announcement video that i posted today,0.22982925,0.0274254265692332,0.4936708860759494,0.0,False,0.0057509033940732,0.1976274698972702,0.201285719871521
-i'm gonna be uploading my short film notes for melanie this friday on my youtube channel as well as an audio commentary version,0.035134587,0.1049443912452981,0.4936708860759494,0.0,False,0.0006319741951301,0.0005220078164711,0.0005956803797744
-in a few days,0.021657806,0.0681628591277664,0.5949367088607594,0.0,False,0.000690561835654,0.000433043052908,0.000540786772035
-i'm really excited to finally get to share that with you,0.05373499,0.0003033990529061,0.3987341772151899,0.0,False,0.0005719694891013,0.0004684660234488,0.0013266109162941
-"if you didn't see that video, please do check it out, because i also have updates about auditorium 6 and a feature that i'm trying to develop right now",0.024662184,0.0455111394839891,0.3490054249547921,0.0,False,0.0005260010366328,0.0006329105817712,0.0003710548917297
-"guys, thank you so much",0.04165838,0.0239811618395519,0.3924050632911393,0.0,False,0.000605262350291,0.0044229850172996,0.0007427258533425
-"you're the best and as always, if you like this, you can click right here and get stuck mine eyes",0.20816301,0.001013257465688,0.1681735985533454,0.078,False,0.0024762670509517,0.030041679739952,0.100781112909317
+"yes, i'm well aware that halloween is over",0.08367105,0.0,0.0,0.0,False,0.0096647562459111,0.0013183162081986,0.0004826021613553
+but for me it's always halloween,0.034104515,0.0,0.0,0.0,False,0.0012917016865685,0.0321688242256641,0.0007782194879837
+the actual month of october is just this great time where everyone else thinks it's halloween,0.044405237,0.0,0.0,0.0,False,0.001125092850998,0.000513054896146,0.0006991508998908
+knives out was written and directed by rian johnson and stars everyone,0.049898956,0.0,0.0,0.0,False,0.0008518800605088,0.0018822458805516,0.0174117516726255
+"this movie is filled with so many incredible actors, namely daniel craig, chris evans, jamie lee curtis, easily one of the best cast of the year in an old-fashioned whodunit",0.025863936,0.0,0.0,0.0,False,0.0011803860543295,0.0018204862717539,0.0005592358065769
+it's a murder mystery all about the death of a patriarch of a very eccentric and combative family,0.1835188,0.0,0.0,0.35,False,0.0046083689667284,0.0076475348323583,0.0171320009976625
+daniel craig plays the equally eccentric detective who's investigating and everyone else is a suspect,0.11472086,0.0,0.0,0.128,False,0.0019985379185527,0.0071819596923887,0.0053661609999835
+murder mysteries are very successful on tv,0.19141254,0.0,0.0,0.341,False,0.0020801182836294,0.0008557392284274,0.0192100759595632
+but you don't see as many of them in film,0.03204437,0.8733500838279724,0.0,0.0,False,0.0006629488780163,0.0004771024105139,0.0006084066699258
+"my mom has always loved the miss marple show and murder she wrote, and all of those shows",0.14911842,0.0,0.0,0.25,False,0.0081887152045965,0.0235433503985404,0.0155657213181257
+"you know that, like people like to gather around the tv and watch and try to figure out who did it",0.038911518,0.5697402954101562,0.0,0.0,False,0.0009878969285637,0.0009840398561209,0.0011033561313524
+you don't get as many of that in film,0.076110736,0.994189977645874,0.0,0.0,False,0.0008539389818906,0.0004884133813902,0.0010452937567606
+"last year, we had the remake of the murder on the orient express and the best of the bunch",0.21109697,0.9982543587684631,0.0,0.181,False,0.0006996098090894,0.0015123571502044,0.0049992594867944
+"in my opinion, clue, which stars tim curry, who is a perfect and flawless human being, and there's the sherlock holmes movies with robert downey jr",0.14777246,0.0,0.0,0.0,False,0.0009389279875904,0.0024586820509284,0.0007815471035428
+but even those are based off of a very popular character in literature,0.019852988,0.8401724100112915,0.0,0.0,False,0.00061073229881,0.0003733086632564,0.00034594986937
+it's been a while since we've had an original murder mystery that isn't based off of something else,0.09924392,0.9984947443008423,0.0,0.204,False,0.0006955250282771,0.0008202704484574,0.0005941842682659
+"brand new characters, brand new story, rian johnson is a really good director for this type of film",0.05133759,0.0,0.0,0.0,False,0.0006377547397278,0.0004045736568514,0.0003900468291249
+"brick is, in a way, the tech t'v story as well, and it's probably still my favorite of his films",0.043031808,0.0,0.0,0.0,False,0.0012939396547153,0.0005355426110327,0.0004870212287642
+but this one got really close,0.07011723,0.0,0.0,0.0,False,0.0010499641066417,0.0003622854710556,0.000603784515988
+this is an ingenious film extremely well-written filled with charismatic characters and actors giving some of their best performances,0.050585672,0.0,0.0,0.0,False,0.0006179929478093,0.000450128049124,0.0004829519602935
+this is like super over the top with an insane accent and i loved every minute of it,0.26817688,0.0,0.0,0.097,False,0.0015416375827044,0.0140752159059047,0.0675682723522186
+"jokes aside, i loved him here",0.08689302,0.0,0.0,0.0,False,0.0007537341443821,0.000752649269998,0.0005605320329777
+"sometimes you get performances that are really over-the-top like this one, and there will be some people who think he's really hamming it up for some reason, even though it's incredibly obvious that he's doing it on purpose, this is a very tongue-in-cheek performance that is almost winking",0.19936113,0.0,0.0249999999999999,0.0,False,0.0006857595290057,0.0134477438405156,0.0047564976848661
+lee,0.01665985,0.0,0.0,0.0,False,0.0023020149674266,0.0006863607559353,0.0005079081165604
+"aware of the genre trappings of a whodunit on a day are moss, and i apologize if i said her name incorrectly",0.12051678,0.9324475526809692,0.0,0.0,False,0.0008376512560062,0.0054168328642845,0.0207339692860841
+she's really great here as well,0.04165838,0.0,0.0,0.0,False,0.0005742158973589,0.0003296092618256,0.0022149486467242
+i've seen her pop up in a lot of movies,0.086087525,0.0,0.0,0.0,False,0.000808508368209,0.0031130427960306,0.0062106386758387
+"obviously blade runner 2049 she's been doing a lot of things lately, but she gets a big role in this movie front and center and she's excellent",0.07011723,0.0,0.0,0.0,False,0.0005850320449098,0.000394009926822,0.0004040955391246
+"however, there is one shot in this movie where an actor gave what i imagine must have been his most difficult performance to date",0.07251463,0.9984448552131653,0.0,0.108,False,0.0006710888119414,0.0017178390407934,0.000627321365755
+chris evans has a shot where he has to pretend like he doesn't like dogs,0.2712817,0.9770041108131409,0.0,0.195,False,0.0711146369576454,0.206485778093338,0.1206111833453178
+"it must have been horrible for him, i joke, but he really was great in the film as well",0.20302857,0.9992813467979431,0.0,0.082,False,0.0009156774030998,0.0077322521246969,0.003685038536787
+there's not a weak link in this entire cast,0.085282035,0.0,0.0,0.0,False,0.0013942456571385,0.0007737019332125,0.0007144078263081
+everyone brought their a-game and they're also reading dialogue,0.044405237,0.0,0.0,0.0,False,0.0006375101511366,0.0004379324382171,0.0006705680279992
+"that's witty, clever and intelligent, that constantly pits its characters and conflicting situations",0.07371333,0.0,0.0,0.144,False,0.0007106165285222,0.0005185433547012,0.0024324674159288
+"that raises the tension in every scene, and johnson had a difficult job with this movie because it's a comedy with suspense",0.13476147,0.0,0.5,0.183,False,0.0006942687905393,0.0004895513993687,0.0006080507300794
+"you want your audience to laugh when you want them to laugh, but you don't want to release them from tension so much that they don't feel tense when you want them to, and he found a great balance between those and just about every scene",0.089041,0.0,0.0,0.074,False,0.000959524710197,0.0008339472115039,0.0005554028903134
+"but then there's a scene later on where he's sort of leaning back in the shadows smoking a cigar and you just see that cigar tip light up in the dark and you're like ooh, that guy's hiding something, so he keeps his characters mysterious even when it seems like they're being their full selves in front of everyone now",0.07730943,0.0,0.0,0.042,False,0.0130009269341826,0.0020721880719065,0.006961484439671
+i don't want to get into any spoilers,0.082104236,0.996991753578186,0.0,0.149,False,0.0040430473163723,0.0031251322943717,0.0021236622706055
+"of course, because the movies not gonna come out for another week, but the film has a really unique take on the whodunit in regards to what information",0.027065687,0.0,0.0,0.0,False,0.0006743891281075,0.0007200587424449,0.0075308331288397
+"it lets you know early on, a lot more than you would expect to know early on for these types of movies, and it sort of makes you rethink how you process a whodunit, because you usually go into one of these thinking",0.044748597,0.0,0.0,0.0,False,0.0007583943079225,0.0009921002201735,0.0049130809493362
+all right,0.02054715,0.0,0.0,0.0,False,0.000915432756301,0.0003712073958013,0.000612138188444
+"well, let's try to figure out which one of these bastards did the thing",0.78524166,0.9461033344268799,0.0,0.221,False,0.8080267906188965,0.9916892051696776,0.9794455170631408
+but this movie is kind of like,0.04680874,0.9575622081756592,0.0,0.0,False,0.0008902860572561,0.0004755033296532,0.0013334722025319
+"well, here's some info",0.029640866,0.0,0.0,0.0,False,0.0007162347319535,0.0003761321422643,0.0002896666410379
+"and because of that, you're second-guessing yourself throughout the entire movie",0.062125895,0.0,0.0,0.0,False,0.0038088902365416,0.0043115303851664,0.0042759929783642
+"as for issues, i don't really have that many",0.027580723,0.9890366196632385,0.0,0.0,False,0.000614897289779,0.0006672762683592,0.001074856496416
+i think this is a good time with the movies and it's just the type of movie it should have been,0.042001735,0.0,0.0,0.0,False,0.0005812711315229,0.0006351688643917,0.0004755559493787
+but there are some characters in the movie that are a bit throwaway,0.14956708,0.8481682538986206,0.0,0.0,False,0.0007486843969672,0.0017913908232003,0.0013425273355096
+they're there as a one-note joke of sorts that have maybe three to four lines in the entire movie,0.0753116,0.9974579215049744,0.0,0.0,False,0.0008410552400164,0.0004569930024445,0.0005428049480542
+"there's a young character in the movie that is glued to the phone for the majority of the film and he's the butt of many jokes, but he doesn't have the chance to actually be a character",0.3598433,0.732752799987793,0.0,0.055,False,0.0010400881292298,0.0321605429053306,0.2049056738615036
+"really, he's just kind of there to be laughed at",0.05493369,0.7816939353942871,0.0,0.0,False,0.0007774101104587,0.0004936567274853,0.01241010800004
+and that's okay,0.021102477,0.6586189270019531,0.0,0.0,False,0.000731537817046,0.0003513762785587,0.0006927912472747
+"i mean, that happens a lot in movies",0.03049926,0.0,0.3125,0.0,False,0.0008604561444371,0.0005739415064454,0.0019060884369537
+it's just that this movie is so smart and so clever that that felt a bit disposable to me that you had this opportunity and he didn't really do anything with it,0.11665283,0.9891514778137207,0.0,0.0,False,0.0006216575857251,0.0004846041847486,0.0012209051055833
+"it was just like a one joke character and there's also a few scenes where the characters have to leave the house and engage in things outside, and it's never as claustrophobic or as suspenseful as when they're all trapped there",0.11729682,0.9995086193084717,0.2299999999999999,0.096,False,0.0013386906357482,0.0007665601442568,0.0009297073120251
+"it's not that the outside scenes are necessarily bad, it's just that they're not as entertaining as the scenes at the house knives out is exactly the film i wanted it to be",0.1019289,0.9985277652740479,0.0,0.16,False,0.0006785499281249,0.000537751300726,0.0007704172749072
+this is really in his wheelhouse and i think he knocked it out of the park,0.12824467,0.0,0.0,0.0,False,0.0047492077574133,0.0180589444935321,0.0063636130653321
+i'm gonna give knives out and a - i hope you guys saw the announcement video that i posted today,0.22982925,0.0,0.0,0.0,False,0.0057509033940732,0.1976274698972702,0.201285719871521
+i'm gonna be uploading my short film notes for melanie this friday on my youtube channel as well as an audio commentary version,0.035134587,0.0,0.0,0.0,False,0.0006319741951301,0.0005220078164711,0.0005956803797744
+in a few days,0.021657806,0.0,0.2,0.0,False,0.000690561835654,0.000433043052908,0.000540786772035
+i'm really excited to finally get to share that with you,0.05373499,0.0,0.0,0.0,False,0.0005719694891013,0.0004684660234488,0.0013266109162941
+"if you didn't see that video, please do check it out, because i also have updates about auditorium 6 and a feature that i'm trying to develop right now",0.024662184,0.0,0.0,0.0,False,0.0005260010366328,0.0006329105817712,0.0003710548917297
+"guys, thank you so much",0.04165838,0.0,0.0,0.0,False,0.000605262350291,0.0044229850172996,0.0007427258533425
+"you're the best and as always, if you like this, you can click right here and get stuck mine eyes",0.20816301,0.0,0.0,0.078,False,0.0024762670509517,0.030041679739952,0.100781112909317

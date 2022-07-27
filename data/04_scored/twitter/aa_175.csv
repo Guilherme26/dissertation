@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-getting ready for dis session,0.032387726,0.0,0.0,0.0,0.0008462188998237,0.0009010315989144,0.0037870653904974,False
+getting ready for dis session,0.032387726,0.599288821220398,0.0,0.0,0.0008462188998237,0.0009010315989144,0.0037870653904974,False

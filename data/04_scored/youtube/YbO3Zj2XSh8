@@ -1,70 +1,70 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"best spider-man movie, best stan lee cameo",0.034962907,8.16610988102872e-06,0.0,0.0,False,0.0006822102586738765,0.0019250225741416216,0.0020748383831232786
-"now i'd say come at me, and i'm sure many of you will, because this movie doesn't open to the public until december 14th, but when you finally feast your eyes upon this masterpiece, you will realize that i am speaking the truth seriously",0.09494796,0.0005996130098409,0.4444444444444444,0.038,False,0.0009592851856723428,0.0008904404821805656,0.002252062549814582
-at my press screening,0.030327583,0.9838913647500866,0.5,0.0,False,0.00064516143174842,0.0011928952299058437,0.0006769687170162797
-"well, first off, we were all just so delighted to see it so freaking early, but the entire theater sat in complete silence except for applause for the stan lee cameo and a lot of us",0.17587385,0.981524683050625,0.385,0.055,False,0.06690146774053574,0.14051085710525513,0.2149638831615448
-and like i'm gonna cry was so perfect,0.12180476,0.0001358435359041,0.0,0.212,False,0.03565066307783127,0.004178517963737249,0.009101958014070988
-we'll get to the stan lee cameo a little bit later,0.058929358,0.0614616597564687,0.546875,0.0,False,0.0007573767215944827,0.002281845547258854,0.0009909260552376509
-don't worry,0.023632111,0.0055038686498511,0.5,0.0,False,0.00835717748850584,0.0006965973298065364,0.0013569981092587113
-"this is the non-spoiler review and there will be a spoiler review because there's so much to talk about, but anyway, the other, the other instance when someone who's talking was the little boy next to me and i will share that in my spoiler review, but for the most part, because i don't want to give away what he was reacting to, it looks adorable",0.08581903,0.1052302205195386,0.4455357142857143,0.019,False,0.000938810349907726,0.0007352731772698462,0.0004818056186195463
-"but anyway, for the most part, yes, complete silence",0.05413456,0.8331967149110902,0.35,0.0,False,0.0009710806189104915,0.0006976486765779555,0.0015657315962016582
-"as we said on, barely able to process what we were seeing, we had no idea it would be this good, and as i left the theater, i heard many people proclaim best spider-man movie ever",0.055333257,0.0017966037804677,0.2299999999999999,0.051,False,0.000533662096131593,0.0009258382488042116,0.0012223776429891586
-"it's i know it's gonna be so hard for many of you to believe, but it's really really good now",0.07251463,0.003437038160291,0.3486111111111111,0.059,False,0.0005956434761174023,0.0006159061449579895,0.0009483989560976624
-i think that's partially because it's got a spider man,0.044748597,0.088129313509118,0.55,0.0,False,0.0009017453412525356,0.001557889860123396,0.017154602333903313
-"for everybody, you'll get bit by a spider",0.31650472,0.9965700252267228,0.5,0.0,False,0.6766421794891357,0.027673304080963135,0.565417468547821
-you'll get bit by a spider,0.38953075,0.9948509398834832,0.5,0.0,False,0.757725715637207,0.12095479667186737,0.528051495552063
-"and while our main spiders delightfully, so are miles, peter and gwen, the other spiders really make their mark and i'm amazed at how accessible this movie makes alternate realities for non comic-book readers",0.040284947,7.596866455015404e-05,0.3652777777777778,0.0,False,0.0007885018130764365,0.00044391295523382723,0.0008945644367486238
-"i mean, i am a comic book reader and i love me some alternate realities, but i've never liked it with spider-man but here rapt attention",0.14687516,0.031335062402789,0.48625,0.101,False,0.0007670698105357587,0.0022442738991230726,0.10834336280822754
-i think my favorite thing about the movie is that it takes itself so seriously,0.077709,0.0029334812531747,0.4583333333333333,0.123,False,0.0007321878802031279,0.0006463637691922486,0.0010992462048307061
-"i mean, it's animated, so it can be highly stylized and closer to its comic-book roots right from the get-go and you even see the way this movie opens with the credits, you'll be like i think i'm in for something special and you are, but it's very much still",0.056931525,0.0313381321448245,0.4249642857142857,0.0,False,0.0006758408853784204,0.0005574829992838204,0.002126110950484872
-it seems very much like a live-action movie you've been hoping for,0.04165838,0.1343141785006712,0.37,0.0,False,0.0006359771941788495,0.0004914409364573658,0.0005528131732717156
-in terms we know when it comes to the evolution of animation,0.022074303,0.0004528316552275,0.5,0.0,False,0.0006525760982185602,0.00038202106952667236,0.00032221493893302977
-"but i'm talking about scope depth action scenes, and what's at stake? this is the beauty and the beast of superhero animated movies",0.10031791,0.0008603026562984,0.45,0.0,False,0.000696400529704988,0.0006958544836379588,0.0012350513134151697
-i'm also in awe of this movie's authenticity,0.02929751,0.0003606201808775,0.5,0.0,False,0.0005976565298624337,0.00041602106648497283,0.00048428255831822753
-this is miles morales,0.016382186,0.0006305786600832,0.5,0.0,False,0.0011590818176046014,0.06310001760721207,0.0006918064900673926
-"this is peter parker, spider gwen, but it's also miles, this extended family, such great characters, kington, aunt may, and well, there are some surprises here",0.04268845,0.0001715181108223,0.3,0.0,False,0.0006570506957359612,0.00041537178913131356,0.0008343227091245353
-"yes, while the trailers have been amazing, i am so impressed with how much they've been able to keep hidden about this movie",0.0825038,0.0005080274052263,0.2866666666666667,0.0,False,0.0005321027128957212,0.00039788315189071,0.00034568432602100074
-"and i mean, i can't find the running time anywhere online and i checked my invitation and even sony didn't provide it",0.027237365,0.9996167292953648,0.65625,0.0,False,0.000622433377429843,0.0011400127550587058,0.0004804219934158027
-"whoa, this is a long movie, but in like, in a really good way where you're like, i can't believe we'll be still going",0.09548495,0.0056696645230926,0.3375,0.0,False,0.0007031959830783308,0.0007711065700277686,0.0018457745900377631
-i never want it to end,0.07011723,0.0031336105519014,0.5,0.196,False,0.0051871854811906815,0.03346104547381401,0.001659402041696012
-keep going,0.025692256,0.8861492583682062,0.5,0.0,False,0.02549017034471035,0.0022903450299054384,0.0004879175976384431
-keep going,0.023632111,0.8861492583682062,0.5,0.0,False,0.02549017034471035,0.0022903450299054384,0.0004879175976384431
-"yes, give me more",0.059728492,0.0020408121905595,0.25,0.0,False,0.00373635021969676,0.000555992650333792,0.000730931933503598
-"i really, i hope hope they're working on the sequel right now, although i have another idea, which we'll talk about in just a moment",0.040971663,0.0680565385684177,0.3785714285714285,0.0,False,0.0005494749639183283,0.00040992116555571556,0.00021489550999831408
-"but for those of you first of all, worried about getting miles just right",0.031529333,0.9009957527883689,0.3660714285714286,0.177,False,0.0007156296051107347,0.000554522208403796,0.0010357496794313192
-oh boy do they,0.03753809,0.7942495863597115,0.5,0.0,False,0.01871359534561634,0.004084084182977676,0.0013798440340906382
-he even speaks spanish,0.055333257,0.0501545779033173,0.5,0.0,False,0.0008635740377940238,0.003789442591369152,0.0013927851105108857
-"for instance, i know a number of you were worried about that, but most importantly he feels is real and unique as he did when he was first introduced in the comics, because in the comics recently and i think this has to do with brian michael bendis, his attention being drawn elsewhere, first within marvel and then leaving for dc",0.032559406,0.0006894402185322,0.3589285714285714,0.024,False,0.0005505735753104091,0.00041006383253261447,0.00038615288212895393
-but miles has lost his way as a character over the past couple of years,0.034962907,0.9997782334904208,0.625,0.174,False,0.0007767373463138938,0.00040932156844064593,0.0005804742104373872
-i've bought every single one of his comics,0.06652113,5.904037837342297e-05,0.5357142857142857,0.0,False,0.0012232431909069419,0.0016707812901586294,0.0010322551243007183
-"always enjoyed them, even though it's been waning a little bit recently, and i'm hoping that this movie reminds marvel and sony what a great and valuable character he is",0.08850401,0.0004737833897033,0.3609375,0.0,False,0.0005949986516498029,0.0006819245754741132,0.0009074523695744574
-i would love to see shameik moore,0.067320265,0.0007794164438272,0.25,0.0,False,0.0022680244874209166,0.5046013593673706,0.15241432189941406
-"very talented actor should meet more fans since um, since dope, but he does the voice of miles morales, and i would love to see him appear alongside tom holland in a future live-action spider-man movie",0.1785852,0.0001088119239986,0.26125,0.0,False,0.0006481122109107673,0.009338422678411007,0.0014682819601148367
-"and you know, i'd actually say the same for hailee steinfeld who i don't usually enjoy, but she is perfectly cast as spider-gwen i really liked her too, come to think of it, they animated these characters to look a little bit like the actors, so they could do it",0.07571117,0.0,0.3489583333333333,0.03,False,0.0006819030968472362,0.0005401915404945612,0.0004490390419960022
-"they could jump to the live-action but there will always be a special place in my heart for jake johnson, spider-man i have waited so long for an adult spider-man to appear on screen and it was worth the wait",0.058130227,0.0003811248655423,0.4116071428571428,0.0,False,0.0012530002277344465,0.0016087075928226113,0.0031493608839809895
-he is perfect,0.03187269,0.000411256022804,0.0,0.0,False,0.0046632722951471806,0.0004016091115772724,0.004334231838583946
-"i also want to warn you at the beginning of the movie like myself, you might be like",0.28972426,0.1739967934011156,0.5,0.065,False,0.0037485994398593903,0.007961912080645561,0.13356651365756989
-where's jake johnson's voice? did they cast a different voice? don't worry,0.03427619,0.991275495101705,0.5,0.0,False,0.002261783229187131,0.00102166086435318,0.0013733983505517244
-he's coming,0.04818217,0.0013981333822584,0.5,0.0,False,0.04471534118056297,0.0018051114166155457,0.003595455549657345
-it's just part of a twist in a movie full of twists,0.13565879,0.0236335266853569,0.325,0.0,False,0.0008511088090017438,0.0003882881428580731,0.000905525463167578
-"then, as i said, truly true believer best stan lee cameo ever, no shirt",0.03994159,0.0001886848235649,0.1624999999999999,0.1,False,0.0009381853742524981,0.0016510722925886512,0.0017200730508193374
-"to be fair, coming right after his tragic passing, it does pull on the old heartstrings just a bit harder",0.103539884,0.139898665133107,0.4764285714285714,0.129,False,0.002233529230579734,0.0003935294516850263,0.0038827538955956697
-"but i still think even if you take that element away, it's the best stan lee cameo because i think for one it's associated with spider-man the character he's the most associated with, and then he's given such a wonderful line that he says to miles morales, it's like almost as good as the one he wrote for spider-man in the comics with great power comes great responsibility, and i think it even plays on that a little bit",0.057331093,0.0006176440188848,0.21171875,0.0,False,0.0006329851457849145,0.0085724713280797,0.0017707430524751544
-"it was just it perfectly captured stan lee, and on that note this is a really well-written movie",0.036851373,0.0006791580728791,0.2,0.0,False,0.0006313989870250225,0.0005408757133409381,0.0005099280388094485
-"so kudos to phil lord, and he usually works with chris miller as his writing partner",0.008191093,0.0003668490749108,0.625,0.0,False,0.0016642886912450194,0.002153809415176511,0.0005916252266615629
-but here he's writing with rodney rahman,0.01527153,0.1089970920303893,0.5,0.0,False,0.0007736215484328568,0.000532211794052273,0.0015396219678223133
-"they wrote a movie that is scary, thrilling, absolutely hilarious, and has so much respect for the source material, and while i heard, sony isn't pushing this for best animated feature, which is insane",0.2835225,0.0002088616717016,0.4625,0.124,False,0.0018234807066619396,0.03560177609324455,0.014033653773367405
-i hope that was just something i misheard because it's stupid,0.5958905,0.9980013595082786,0.8999999999999999,0.222,True,0.5919080972671509,0.9915398955345154,0.9707165360450745
-"i still hope to see this directing trio here acknowledged for their work because this is the biggest leap in animation since disney's paperman, so if you love spider-man stan lee comics, superheroes and animation aimed at adults, it's here",0.0741129,2.8313154696997387e-05,0.25,0.0,False,0.0007004630751907825,0.0010750755900517106,0.0012760607060045004
-it's happening,0.025863936,0.000879257568285,0.5,0.0,False,0.0007837023586034775,0.0003989869437646121,0.0005260005709715188
-"this is the moment, please",0.022351967,0.0935808475277609,0.5,0.0,False,0.0005953829386271536,0.0003589182742871344,0.0005329925916157663
-i'm begging you go see this movie,0.077709,0.062463319563007,0.5,0.0,False,0.0034789694473147392,0.031103920191526413,0.049671340733766556
-"i know there are ton of movies coming out right now, but really it is so worth your time",0.0741129,0.001107103955294,0.3535714285714286,0.0,False,0.0008638415019959211,0.000640433223452419,0.0005085449083708227
-"definitely, it's my favorite animated movie of the, probably one of my most favorite animated movies of all time, but definitely for the year",0.040284947,4.351284827117493e-05,0.3125,0.0,False,0.0005726595991291106,0.00035014637978747487,0.0003252674068789929
-"and yes, i do remember what came out in 2018",0.014993866,0.089577307846964,0.5,0.0,False,0.0005872767651453614,0.0003495678829494864,0.0002641857136040926
-this is better,0.05253629,0.0054294795612998,0.25,0.0,False,0.0007557310746051371,0.0003946873766835779,0.0010901702335104346
-so it's the next,0.029812546,0.8329382009070462,0.5,0.0,False,0.0024125115014612675,0.0006505539058707654,0.0005535254604183137
-it's next evolution,0.027409043,0.0007063088980675,0.5,0.0,False,0.0007690972415730357,0.00046484291669912636,0.00035932668833993375
-"it's amazing, so share your thoughts down below",0.039598234,0.0037073542793455,0.3888888888888888,0.0,False,0.0005796175100840628,0.0004929159767925739,0.0004701369034592062
-no spoilers,0.033246122,0.0565690572148653,0.5,0.688,False,0.0019039369653910398,0.0005254653515294194,0.00038941376260481775
-"if you manage to see it as well, and of course, as always, you can check out some more videos right now",0.08581903,0.0016691349776898,0.3035714285714286,0.0,False,0.0005850981106050313,0.000405906408559531,0.00028620229568332434
+"best spider-man movie, best stan lee cameo",0.034962907,0.0,0.0,0.0,False,0.0006822102586738,0.0019250225741416,0.0020748383831232
+"now i'd say come at me, and i'm sure many of you will, because this movie doesn't open to the public until december 14th, but when you finally feast your eyes upon this masterpiece, you will realize that i am speaking the truth seriously",0.09494796,0.0,0.0,0.038,False,0.0009592851856723,0.0008904404821805,0.0022520625498145
+at my press screening,0.030327583,0.9677838087081909,0.0,0.0,False,0.0006451614317484,0.0011928952299058,0.0006769687170162
+"well, first off, we were all just so delighted to see it so freaking early, but the entire theater sat in complete silence except for applause for the stan lee cameo and a lot of us",0.17587385,0.9630506038665771,0.0,0.055,False,0.0669014677405357,0.1405108571052551,0.2149638831615448
+and like i'm gonna cry was so perfect,0.12180476,0.0,0.0,0.212,False,0.0356506630778312,0.0041785179637372,0.0091019580140709
+we'll get to the stan lee cameo a little bit later,0.058929358,0.0,0.09375,0.0,False,0.0007573767215944,0.0022818455472588,0.0009909260552376
+don't worry,0.023632111,0.0,0.0,0.0,False,0.0083571774885058,0.0006965973298065,0.0013569981092587
+"this is the non-spoiler review and there will be a spoiler review because there's so much to talk about, but anyway, the other, the other instance when someone who's talking was the little boy next to me and i will share that in my spoiler review, but for the most part, because i don't want to give away what he was reacting to, it looks adorable",0.08581903,0.0,0.0,0.019,False,0.0009388103499077,0.0007352731772698,0.0004818056186195
+"but anyway, for the most part, yes, complete silence",0.05413456,0.6664046049118042,0.0,0.0,False,0.0009710806189104,0.0006976486765779,0.0015657315962016
+"as we said on, barely able to process what we were seeing, we had no idea it would be this good, and as i left the theater, i heard many people proclaim best spider-man movie ever",0.055333257,0.0,0.0,0.051,False,0.0005336620961315,0.0009258382488042,0.0012223776429891
+"it's i know it's gonna be so hard for many of you to believe, but it's really really good now",0.07251463,0.0,0.0,0.059,False,0.0005956434761174,0.0006159061449579,0.0009483989560976
+i think that's partially because it's got a spider man,0.044748597,0.0,0.1,0.0,False,0.0009017453412525,0.0015578898601233,0.0171546023339033
+"for everybody, you'll get bit by a spider",0.31650472,0.9931402802467346,0.0,0.0,False,0.6766421794891357,0.0276733040809631,0.565417468547821
+you'll get bit by a spider,0.38953075,0.9897022247314453,0.0,0.0,False,0.757725715637207,0.1209547966718673,0.528051495552063
+"and while our main spiders delightfully, so are miles, peter and gwen, the other spiders really make their mark and i'm amazed at how accessible this movie makes alternate realities for non comic-book readers",0.040284947,0.0,0.0,0.0,False,0.0007885018130764,0.0004439129552338,0.0008945644367486
+"i mean, i am a comic book reader and i love me some alternate realities, but i've never liked it with spider-man but here rapt attention",0.14687516,0.0,0.0,0.101,False,0.0007670698105357,0.002244273899123,0.1083433628082275
+i think my favorite thing about the movie is that it takes itself so seriously,0.077709,0.0,0.0,0.123,False,0.0007321878802031,0.0006463637691922,0.0010992462048307
+"i mean, it's animated, so it can be highly stylized and closer to its comic-book roots right from the get-go and you even see the way this movie opens with the credits, you'll be like i think i'm in for something special and you are, but it's very much still",0.056931525,0.0,0.0,0.0,False,0.0006758408853784,0.0005574829992838,0.0021261109504848
+it seems very much like a live-action movie you've been hoping for,0.04165838,0.0,0.0,0.0,False,0.0006359771941788,0.0004914409364573,0.0005528131732717
+in terms we know when it comes to the evolution of animation,0.022074303,0.0,0.0,0.0,False,0.0006525760982185,0.0003820210695266,0.000322214938933
+"but i'm talking about scope depth action scenes, and what's at stake? this is the beauty and the beast of superhero animated movies",0.10031791,0.0,0.0,0.0,False,0.0006964005297049,0.0006958544836379,0.0012350513134151
+i'm also in awe of this movie's authenticity,0.02929751,0.0,0.0,0.0,False,0.0005976565298624,0.0004160210664849,0.0004842825583182
+this is miles morales,0.016382186,0.0,0.0,0.0,False,0.0011590818176046,0.063100017607212,0.0006918064900673
+"this is peter parker, spider gwen, but it's also miles, this extended family, such great characters, kington, aunt may, and well, there are some surprises here",0.04268845,0.0,0.0,0.0,False,0.0006570506957359,0.0004153717891313,0.0008343227091245
+"yes, while the trailers have been amazing, i am so impressed with how much they've been able to keep hidden about this movie",0.0825038,0.0,0.0,0.0,False,0.0005321027128957,0.0003978831518907,0.000345684326021
+"and i mean, i can't find the running time anywhere online and i checked my invitation and even sony didn't provide it",0.027237365,0.9992334842681885,0.3125,0.0,False,0.0006224333774298,0.0011400127550587,0.0004804219934158
+"whoa, this is a long movie, but in like, in a really good way where you're like, i can't believe we'll be still going",0.09548495,0.0,0.0,0.0,False,0.0007031959830783,0.0007711065700277,0.0018457745900377
+i never want it to end,0.07011723,0.0,0.0,0.196,False,0.0051871854811906,0.033461045473814,0.001659402041696
+keep going,0.025692256,0.7723061442375183,0.0,0.0,False,0.0254901703447103,0.0022903450299054,0.0004879175976384
+keep going,0.023632111,0.7723061442375183,0.0,0.0,False,0.0254901703447103,0.0022903450299054,0.0004879175976384
+"yes, give me more",0.059728492,0.0,0.0,0.0,False,0.0037363502196967,0.0005559926503337,0.0007309319335035
+"i really, i hope hope they're working on the sequel right now, although i have another idea, which we'll talk about in just a moment",0.040971663,0.0,0.0,0.0,False,0.0005494749639183,0.0004099211655557,0.0002148955099983
+"but for those of you first of all, worried about getting miles just right",0.031529333,0.8019981384277344,0.0,0.177,False,0.0007156296051107,0.0005545222084037,0.0010357496794313
+oh boy do they,0.03753809,0.5885129570960999,0.0,0.0,False,0.0187135953456163,0.0040840841829776,0.0013798440340906
+he even speaks spanish,0.055333257,0.0,0.0,0.0,False,0.000863574037794,0.0037894425913691,0.0013927851105108
+"for instance, i know a number of you were worried about that, but most importantly he feels is real and unique as he did when he was first introduced in the comics, because in the comics recently and i think this has to do with brian michael bendis, his attention being drawn elsewhere, first within marvel and then leaving for dc",0.032559406,0.0,0.0,0.024,False,0.0005505735753104,0.0004100638325326,0.0003861528821289
+but miles has lost his way as a character over the past couple of years,0.034962907,0.9995564818382263,0.25,0.174,False,0.0007767373463138,0.0004093215684406,0.0005804742104373
+i've bought every single one of his comics,0.06652113,0.0,0.0714285714285714,0.0,False,0.0012232431909069,0.0016707812901586,0.0010322551243007
+"always enjoyed them, even though it's been waning a little bit recently, and i'm hoping that this movie reminds marvel and sony what a great and valuable character he is",0.08850401,0.0,0.0,0.0,False,0.0005949986516498,0.0006819245754741,0.0009074523695744
+i would love to see shameik moore,0.067320265,0.0,0.0,0.0,False,0.0022680244874209,0.5046013593673706,0.152414321899414
+"very talented actor should meet more fans since um, since dope, but he does the voice of miles morales, and i would love to see him appear alongside tom holland in a future live-action spider-man movie",0.1785852,0.0,0.0,0.0,False,0.0006481122109107,0.009338422678411,0.0014682819601148
+"and you know, i'd actually say the same for hailee steinfeld who i don't usually enjoy, but she is perfectly cast as spider-gwen i really liked her too, come to think of it, they animated these characters to look a little bit like the actors, so they could do it",0.07571117,0.0,0.0,0.03,False,0.0006819030968472,0.0005401915404945,0.000449039041996
+"they could jump to the live-action but there will always be a special place in my heart for jake johnson, spider-man i have waited so long for an adult spider-man to appear on screen and it was worth the wait",0.058130227,0.0,0.0,0.0,False,0.0012530002277344,0.0016087075928226,0.0031493608839809
+he is perfect,0.03187269,0.0,0.0,0.0,False,0.0046632722951471,0.0004016091115772,0.0043342318385839
+"i also want to warn you at the beginning of the movie like myself, you might be like",0.28972426,0.0,0.0,0.065,False,0.0037485994398593,0.0079619120806455,0.1335665136575698
+where's jake johnson's voice? did they cast a different voice? don't worry,0.03427619,0.9825515747070312,0.0,0.0,False,0.0022617832291871,0.0010216608643531,0.0013733983505517
+he's coming,0.04818217,0.0,0.0,0.0,False,0.0447153411805629,0.0018051114166155,0.0035954555496573
+it's just part of a twist in a movie full of twists,0.13565879,0.0,0.0,0.0,False,0.0008511088090017,0.000388288142858,0.0009055254631675
+"then, as i said, truly true believer best stan lee cameo ever, no shirt",0.03994159,0.0,0.0,0.1,False,0.0009381853742524,0.0016510722925886,0.0017200730508193
+"to be fair, coming right after his tragic passing, it does pull on the old heartstrings just a bit harder",0.103539884,0.0,0.0,0.129,False,0.0022335292305797,0.000393529451685,0.0038827538955956
+"but i still think even if you take that element away, it's the best stan lee cameo because i think for one it's associated with spider-man the character he's the most associated with, and then he's given such a wonderful line that he says to miles morales, it's like almost as good as the one he wrote for spider-man in the comics with great power comes great responsibility, and i think it even plays on that a little bit",0.057331093,0.0,0.0,0.0,False,0.0006329851457849,0.0085724713280797,0.0017707430524751
+"it was just it perfectly captured stan lee, and on that note this is a really well-written movie",0.036851373,0.0,0.0,0.0,False,0.000631398987025,0.0005408757133409,0.0005099280388094
+"so kudos to phil lord, and he usually works with chris miller as his writing partner",0.008191093,0.0,0.25,0.0,False,0.001664288691245,0.0021538094151765,0.0005916252266615
+but here he's writing with rodney rahman,0.01527153,0.0,0.0,0.0,False,0.0007736215484328,0.0005322117940522,0.0015396219678223
+"they wrote a movie that is scary, thrilling, absolutely hilarious, and has so much respect for the source material, and while i heard, sony isn't pushing this for best animated feature, which is insane",0.2835225,0.0,0.0,0.124,False,0.0018234807066619,0.0356017760932445,0.0140336537733674
+i hope that was just something i misheard because it's stupid,0.5958905,0.9960028529167175,0.7999999999999999,0.222,True,0.5919080972671509,0.9915398955345154,0.9707165360450744
+"i still hope to see this directing trio here acknowledged for their work because this is the biggest leap in animation since disney's paperman, so if you love spider-man stan lee comics, superheroes and animation aimed at adults, it's here",0.0741129,0.0,0.0,0.0,False,0.0007004630751907,0.0010750755900517,0.0012760607060045
+it's happening,0.025863936,0.0,0.0,0.0,False,0.0007837023586034,0.0003989869437646,0.0005260005709715
+"this is the moment, please",0.022351967,0.0,0.0,0.0,False,0.0005953829386271,0.0003589182742871,0.0005329925916157
+i'm begging you go see this movie,0.077709,0.0,0.0,0.0,False,0.0034789694473147,0.0311039201915264,0.0496713407337665
+"i know there are ton of movies coming out right now, but really it is so worth your time",0.0741129,0.0,0.0,0.0,False,0.0008638415019959,0.0006404332234524,0.0005085449083708
+"definitely, it's my favorite animated movie of the, probably one of my most favorite animated movies of all time, but definitely for the year",0.040284947,0.0,0.0,0.0,False,0.0005726595991291,0.0003501463797874,0.0003252674068789
+"and yes, i do remember what came out in 2018",0.014993866,0.0,0.0,0.0,False,0.0005872767651453,0.0003495678829494,0.000264185713604
+this is better,0.05253629,0.0,0.0,0.0,False,0.0007557310746051,0.0003946873766835,0.0010901702335104
+so it's the next,0.029812546,0.6658875942230225,0.0,0.0,False,0.0024125115014612,0.0006505539058707,0.0005535254604183
+it's next evolution,0.027409043,0.0,0.0,0.0,False,0.000769097241573,0.0004648429166991,0.0003593266883399
+"it's amazing, so share your thoughts down below",0.039598234,0.0,0.0,0.0,False,0.000579617510084,0.0004929159767925,0.0004701369034592
+no spoilers,0.033246122,0.0,0.0,0.688,False,0.001903936965391,0.0005254653515294,0.0003894137626048
+"if you manage to see it as well, and of course, as always, you can check out some more videos right now",0.08581903,0.0,0.0,0.0,False,0.000585098110605,0.0004059064085595,0.0002862022956833

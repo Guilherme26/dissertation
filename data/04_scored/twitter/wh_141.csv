@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user thx for exposing my secret ,0.019714156,0.0,0.0,0.244,0.0085719395428895,0.0016128385905176,0.0003904688928741,False
+@user thx for exposing my secret ,0.019714156,0.0,0.4,0.244,0.0085719395428895,0.0016128385905176,0.0003904688928741,False

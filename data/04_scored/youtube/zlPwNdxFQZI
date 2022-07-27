@@ -1,89 +1,89 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"you know, i was a daycare teacher during the era of frozen, and was forced to listen to the soundtrack on for over a year",0.032387726,0.998830714844688,0.65,0.111,False,0.0006925757043063641,0.0006058418075554073,0.0012382528511807323
-it felt like i'd crossed over into a circle of hell just during a preview before this movie,0.18746567,0.9999853369960644,0.5,0.199,True,0.01457802951335907,0.09212261438369751,0.014754245989024639
-"hey, that movie chick here and today, reviewing koko, and apparently, also olaf's frozen adventure",0.08050597,0.0055680373217558,0.475,0.0,False,0.0006750584580004215,0.01026693545281887,0.0021008653566241264
-"i mean, fine, the olaf shore is harmless",0.05773066,0.9795595042879452,0.4739583333333333,0.0,False,0.0007778462022542953,0.0022570041473954916,0.0031344143208116293
-"it's stuffed with more songs than quest for camelot, but harmless nonetheless, just kind of wish it wasn't in front of the movie i was about to watch, although it did make it all the more apparent how good coco is",0.092262976,0.9845801227961012,0.265,0.0,False,0.0007932758308015764,0.0006717238575220108,0.0010384742636233568
-"it's a surprisingly dark and gothic, yet heartwarming and sweet tale about what it is to diverge on a different path, separated from everyone else, but to never forget about those who have loved you and stood by you",0.08635602,0.0003590051735965,0.3875,0.0,False,0.0009677361813373864,0.0033587419893592596,0.0003338865062687546
-"the title even symbolizes to never take for granted or discard the memories of those who have passed on, and to never turn away those who still remain with you",0.02809576,0.1595032925298491,0.5,0.118,False,0.002060226397588849,0.0004119281657040119,0.00042367647984065115
-"the story falls, miguel, a young kid who dreams of being musician, much to the chagrin of his family, who believed music had cursed them all and will only bring misery and shame to their lineage",0.42390585,0.9981204532394122,0.45,0.218,False,0.05107654258608818,0.3753826320171356,0.27138572931289673
-"desperate to prove himself as a true musician at a local competition, miguel steals a guitar from the grave of famed singer ernesto de la cruz",0.18647896,0.7689318901679015,0.5416666666666666,0.248,False,0.0010960213840007782,0.000873481621965766,0.01937493309378624
-"however, in a weird twist of fate, miguel cruises himself to the afterlife",0.06012806,0.0034614822258463,0.75,0.124,False,0.0018015672685578465,0.0004815682477783412,0.0070652770809829235
-now he must receive a blessing from his family to re-enter the land of the living before the sun sets and he's stuck there for eternity,0.021796638,0.0041460239685277,0.5,0.068,False,0.002405136823654175,0.001030189567245543,0.0009151911945082247
-the cast here is great,0.058130227,0.0028721606001865,0.0999999999999999,0.0,False,0.0007139719091355801,0.0004285430477466434,0.0008529875194653869
-there's not like one bad apple in the bunch,0.10461388,0.0008105184045435,0.8499999999999999,0.176,False,0.004421202465891838,0.0023081088438630104,0.008764962665736675
-the kid who even plays miguel,0.089041,9.527972272855614e-05,0.5,0.0,False,0.0027498009148985147,0.00145300745498389,0.008387711830437183
-"usually when i see this in a kid's movie, they're whiny and bratty and very self-centered and just kind of are rude to everyone, but in this movie he's so sweet and good-natured and he just wants to be himself and to love music and his family",0.34388447,0.0004289524708264,0.4071428571428571,0.035,False,0.005880385637283325,0.2110787332057953,0.05544646084308624
-"at the same time, he's a hopeless dreamer who feels in the end conflicted with the strong wishes of his very controlling family, especially the stubborn matriarch",0.2885035,0.9522296915458304,0.4208333333333333,0.176,False,0.02986852452158928,0.07106762379407883,0.12936224043369293
-abuelita,0.010967735,0.9302079756370016,0.5,0.0,False,0.003323282115161419,0.0005729874246753752,0.0217286366969347
-"if the movie wanted me to hate her with every fiber of my being, then mission accomplished",0.4151741,0.1845165890729506,0.65,0.171,False,0.08280927687883377,0.1468692570924759,0.3251599669456482
-"oh my god, she was dreadful, all her blind heating music because she was told to, and never fully understanding why or even questioning it just killed me",0.5535644,0.9999939798235874,0.7833333333333333,0.314,False,0.1766667664051056,0.3114062547683716,0.17705310881137848
-i understand having a strong sense of tradition and loyalty for your family,0.026207292,0.0006266944039837,0.2833333333333333,0.0,False,0.0005858681979589164,0.00046372058568522334,0.000436646630987525
-"but when you are asked to enforce something so ludicrous, you just got open your eyes",0.39694545,0.1979159222162212,0.5,0.225,False,0.008303739130496979,0.8365055322647095,0.7119920253753662
-"you know, my final straw was when she destroyed something not only held dearly to miguel's heart, but something that he made himself",0.1689685,0.2202284841726283,0.5,0.143,False,0.0014113385695964098,0.022928137332201004,0.01586422324180603
-i legit,0.032559406,0.0499678218590459,0.5,0.0,False,0.0045621925964951515,0.000470841012429446,0.0004904277739115059
-almost cried,0.13206954,0.99564934963915,0.5,0.698,False,0.0011542905122041702,0.0007120278314687312,0.0015607443638145924
-when i saw the grief-stricken look on miguel's face,0.14822112,0.9632402067674292,0.5,0.0,False,0.006216542329639196,0.0030218269675970078,0.0332995280623436
-it was more traumatic than the king triton scene from the little mermaid,0.11343288,0.9998415084249388,0.421875,0.25,False,0.0007494274759665132,0.001315971021540463,0.003126762341707945
-"now, most of this movie is spent in the afterlife, and that's where the amazing imagery comes in",0.04818217,0.005245153206635,0.3333333333333333,0.0,False,0.0007584506529383361,0.00047931092558428645,0.0006368561298586428
-that had left me absolutely awestruck,0.10763696,0.0028226580604767,0.45,0.0,False,0.0007730448851361871,0.001926808967255056,0.0009166498784907162
-the attention to detail,0.018325835,4.9889976805631216e-05,0.5,0.0,False,0.000694025307893753,0.0005497733363881707,0.00035110823228023946
-"the use of colour, just simply gorgeous",0.049212243,7.525220515783681e-05,0.15,0.0,False,0.0006687466520816088,0.0005490302573889494,0.0006370777264237404
-this is where we meet the rest of miguel's family who have been long since deceased,0.019575324,0.0010635744338486,0.525,0.0,False,0.0013789086369797587,0.0005210968665778637,0.001802345272153616
-mainly we focus on mama imelda where the family curse originated from,0.30487993,0.9634578868095968,0.4166666666666667,0.241,False,0.0014179899590089917,0.248240128159523,0.32462525367736816
-"at first, i thought she was gonna come off as a black character and merely just an obstacle for miguel to face",0.31671798,0.9993724711161176,0.5694444444444444,0.106,False,0.027397362515330315,0.403670996427536,0.44179168343544006
-but really you end up sympathizing her and really understanding how she came to hate music,0.31639808,0.0018647943480914,0.5666666666666667,0.252,False,0.01187416072934866,0.03062332607805729,0.0139133520424366
-and that's the great thing about this film,0.04234509,0.0008519145680937,0.0999999999999999,0.0,False,0.0006655338802374899,0.00037199401413090527,0.00071133574238047
-"the longer this film goes on, more and more layers are added",0.06012806,0.0055306049377248,0.25,0.0,False,0.0006668869173154235,0.0004249087069183588,0.001092281541787088
-you'll learn a lot about the characters and nothing is ever simply painted as black and white,0.07011723,0.0076726552321859,0.5277777777777778,0.0,False,0.0008948696195147932,0.05980927497148514,0.01934543065726757
-"and not everyone is as they seem, hector, the forgotten ghost, and he's definitely one of my favorites here",0.0741129,0.0001810523351817,0.5,0.17,False,0.001315496047027409,0.000412309862440452,0.0703129768371582
-"at first, he appears to be a trickster and very roguish, but really, by the end i'm like crying tears of joy to this guy",0.3552902,0.0711860826396172,0.375,0.218,False,0.042044781148433685,0.2863222360610962,0.18216806650161743
-it has revealed very very gradually how different he actually is and how much heart he has,0.06612156,0.0003690189323819,0.4425,0.0,False,0.0005972667713649571,0.00040356925455853343,0.011227412149310112
-you end up really feeling for him in his dilemma,0.04783881,0.0020704638402872,0.4,0.148,False,0.0006341946427710354,0.0005595461116172373,0.0015847425675019622
-"also, i still can't believe that benjamin bratt was in this movie",0.119872786,0.988593464460723,0.5,0.0,False,0.000821386172901839,0.0006989313988015056,0.01808055303990841
-"he plays the deceased singer de la cruz, even though it wasn't his voice singing all the parts, i was still thoroughly impressed that i couldn't recognize him",0.14822112,0.0001511004673862,0.0,0.0,False,0.0006729582673870027,0.00046219522482715547,0.001785285072401166
-"speaking of singing, the songs are not too bad either, and that's coming from someone who's not a huge fan of musicals",0.14777246,0.9625894316577952,0.725,0.152,False,0.0009263013489544392,0.0005106941098347306,0.0015669014537706971
-"for one, the songs feel out of place and they had a purpose and meaning behind them",0.08330294,0.9988356919212272,0.7,0.0,False,0.0006404378218576312,0.0004270629433449358,0.000343110878020525
-they weren't just merely cluck,0.14014533,0.8243814700877402,0.75,0.0,False,0.0273276437073946,0.06533865630626678,0.557161271572113
-"and when you learn the true meaning behind the lyrics towards the end, it just ends up becoming even more heartwarming",0.04818217,0.0003543857312997,0.3875,0.0,False,0.0005846056155860424,0.0003551791305653751,0.0005770378047600389
-and this film definitely gets you a little bit misty-eyed,0.31389946,0.0096684331215324,0.546875,0.0,False,0.0064821005798876286,0.008156475611031055,0.14692546427249908
-especially by the end i found myself caring for the characters and rooting for them,0.06652113,0.0003051514172717,0.5,0.0,False,0.0006853574304841459,0.00038698315620422363,0.0005293444846756756
-there's also a pretty good twist for a kids movie that i didn't really see coming at first,0.07970683,0.0146111469705667,0.325,0.0,False,0.0006417591357603669,0.00048596624401398003,0.00028048414969816804
-that happens in the third act,0.039598234,0.2138406895617353,0.5,0.0,False,0.0009622345096431673,0.0004829539975617081,0.0003779462131205946
-there's actually quite a few fresh twists and turns in the story that kind of makes it difficult to thoroughly discuss without giving anything away,0.07251463,0.0218473990185443,0.48,0.163,False,0.0005593242822214961,0.0003258568176534027,0.0003456241684034467
-and i really would prefer not to give anything away for this movie,0.19338597,0.0106758589793345,0.4,0.0,False,0.0009621419594623148,0.0010620098328217864,0.00180129986256361
-i really think that people should support it and go out and see it,0.0813051,0.0122121066701349,0.4,0.0,False,0.0006408526678569615,0.0008354456513188779,0.000367611093679443
-although can i say i was not expecting this movie to be as dark and open about death as it was,0.1884524,0.8176568138234218,0.5375,0.163,False,0.0014257514849305153,0.01026508491486311,0.006638549733906984
-they did not hold back and i applaud them for that,0.043375164,0.890029854710493,0.5,0.0,False,0.000745500554330647,0.00042329743155278265,0.0008096439996734262
-"i think it's important to show children the meaning of death, and that it is not something to fear, and that it is simply a part of life",0.19789414,0.0020646820867028,0.4,0.117,False,0.00354451360180974,0.0023121070116758347,0.000683447637129575
-and it doesn't mean that someone is gone because your memories of them still exist,0.043375164,0.0177899193278479,0.65625,0.0,False,0.002656318014487624,0.0009332369081676006,0.0005149188218638301
-"also, there was a lot of skeletal mat dismemberment in this movie, til like a very gory degree if there were blood, it kind of gave looked like a tim burton - style to it, but without being as bleak and sarcastic",0.25219622,0.9997958802561876,0.61875,0.056,False,0.0018614757573232055,0.0011538425460457802,0.03841573745012283
-"oh, and can i say the dog dante, it all he did was make me miss my dog more",0.22989221,0.9700907502850494,0.25,0.082,False,0.0017737316666170955,0.04792484641075134,0.04840979725122452
-who? still back in jersey? i wasn't able to take him with me on my trip,0.076110736,0.9885729302946424,0.375,0.0,False,0.0010234416695311666,0.0009269304573535919,0.001954360632225871
-he is currently living with my parents and he's basically dante,0.029984225,0.0014056217837878,0.5,0.0,False,0.0020504791755229235,0.16737645864486694,0.031019743531942368
-just - the really long tongue,0.11729682,0.0387902318405699,0.525,0.0,False,0.0007971434388309717,0.032678257673978806,0.004377338103950024
-i kind of made me wish i had a another dog,0.13296685,0.97548742119902,0.2,0.0,False,0.01589500531554222,0.0974346473813057,0.013264460489153862
-right now,0.018187003,0.0302972828678832,0.3571428571428571,0.0,False,0.0008522721473127604,0.0003965052601415664,0.0006786007434129715
-"my place isn't allowed pets, so my only real complaint is the end",0.13476147,0.0007509126974878,0.6125,0.155,False,0.0068073091097176075,0.0008170914952643216,0.013725914992392063
-"they tie up the loose ends a little too neatly, and most of them off-screen also, there was no retribution for how cruel miguel's grandmother was to him, like she did some awful things to him and they just kind of brush it off",0.263611,0.9999451627495088,0.5970352564102565,0.21,False,0.010474713519215584,0.009004437364637852,0.054883576929569244
-"and it's i realized that's kind of realistic, especially with this type of family, but i don't know",0.024490505,0.9126636020193698,0.3722222222222222,0.0,False,0.0006112089031375945,0.0004044728120788932,0.0004043438530061394
-i was kind of hoping like to see some sort of groveling,0.15626417,0.9993765243041972,0.2,0.0,False,0.0015899030258879066,0.025411762297153473,0.08512631803750992
-"i mean, i'm sorry",0.022945397,0.999949752388952,0.703125,0.302,False,0.0009235721663571894,0.001119385240599513,0.0009632471483200788
-i,0.018187003,0.1366282911216643,0.5,0.0,False,0.0033499409910291433,0.0023471140302717686,0.0006465429905802011
-"i know there's tough love, but then there's also being a stubborn asshat",0.62792164,0.9093488690442946,0.4722222222222222,0.276,True,0.8748347759246826,0.8060108423233032,0.9540518522262573
-"regardless, i really dug this movie",0.22598907,0.0060997202286927,0.4,0.0,False,0.0008421739330515265,0.0005204976769164205,0.0043400609865784645
-i went through so many emotions,0.043375164,0.0191971206628726,0.25,0.0,False,0.0009608595282770693,0.00035556789953261614,0.0007266924949362874
-my heart and throat felt sore from trying not to cry during this film,0.19862764,0.9990026475066904,0.5,0.123,False,0.0018101618625223637,0.0013762455200776458,0.0021252555307000875
-"it probably didn't help that i am spending my first thanksgiving without my family, so watching this movie really brought out those fields",0.048525527,0.0011657684185956,0.3875,0.093,False,0.0008213052642531693,0.0005090400227345526,0.0007632519700564444
-"however, this movie did teach me",0.060927194,0.8557409266553563,0.5,0.0,False,0.001062982133589685,0.0005812550662085414,0.00043954700231552124
-"it's okay to follow your dreams like i did moving here to california, as long as you never forget your family and those who love you",0.032902762,0.9848693594895892,0.3416666666666667,0.0,False,0.0018959750887006521,0.009971554391086102,0.0007010701228864491
-this is a genuine family film with a bit of a gothic side and showcases a beautiful culture that should be taught and embraced by all ages,0.057331093,0.0,0.1875,0.0,False,0.0011522439308464527,0.001487945206463337,0.00042619850137270987
-"and yes, well, it has a similar premise to book of life",0.014855034,0.0217531325928357,0.5,0.0,False,0.0007398552843369544,0.0004317635903134942,0.0004686933825723827
-"it shares a bare-bones likeness at best, and sorry to say, but coco did it better",0.21539254,0.9989781197582368,0.3333333333333333,0.054,False,0.0006262831157073379,0.00038669107016175985,0.005297875497490168
-in my opinion,0.016382186,0.0201584415062672,0.5,0.0,False,0.0009892465313896537,0.0003826994216069579,0.0002498737594578415
-"well, that's my review",0.019158829,0.010216418189349,0.5,0.0,False,0.0007974971667863429,0.00041102952673099935,0.00043101556366309524
-i hope you enjoyed it,0.055333257,0.0057757036051379,0.25,0.0,False,0.0006356317899189889,0.0005636291461996734,0.00032988906605169177
-"if you did, please subscribe to my channel and like this video",0.028610796,0.0951665612937108,0.5,0.0,False,0.000714738795068115,0.0005528410547412932,0.001578193623572588
-"if you really enjoyed it, please share it around",0.030842619,0.0957773707767642,0.25,0.0,False,0.000562805391382426,0.00042264017974957824,0.00026440341025590897
-"share with your friends, your family and have a great thanksgiving",0.020685982,0.0053112261329063,0.0999999999999999,0.0,False,0.0010743625462055206,0.0008961713756434619,0.0009930127998813987
-i'll see you guys next time,0.08689302,0.1314839907713675,0.5,0.0,False,0.0008561636786907911,0.0012098794104531407,0.0008102398714981973
+"you know, i was a daycare teacher during the era of frozen, and was forced to listen to the soundtrack on for over a year",0.032387726,0.9976614713668823,0.3,0.111,False,0.0006925757043063,0.0006058418075554,0.0012382528511807
+it felt like i'd crossed over into a circle of hell just during a preview before this movie,0.18746567,0.9999706745147705,0.0,0.199,True,0.014578029513359,0.0921226143836975,0.0147542459890246
+"hey, that movie chick here and today, reviewing koko, and apparently, also olaf's frozen adventure",0.08050597,0.0,0.0,0.0,False,0.0006750584580004,0.0102669354528188,0.0021008653566241
+"i mean, fine, the olaf shore is harmless",0.05773066,0.9591197371482849,0.0,0.0,False,0.0007778462022542,0.0022570041473954,0.0031344143208116
+"it's stuffed with more songs than quest for camelot, but harmless nonetheless, just kind of wish it wasn't in front of the movie i was about to watch, although it did make it all the more apparent how good coco is",0.092262976,0.969160795211792,0.0,0.0,False,0.0007932758308015,0.000671723857522,0.0010384742636233
+"it's a surprisingly dark and gothic, yet heartwarming and sweet tale about what it is to diverge on a different path, separated from everyone else, but to never forget about those who have loved you and stood by you",0.08635602,0.0,0.0,0.0,False,0.0009677361813373,0.0033587419893592,0.0003338865062687
+"the title even symbolizes to never take for granted or discard the memories of those who have passed on, and to never turn away those who still remain with you",0.02809576,0.0,0.0,0.118,False,0.0020602263975888,0.000411928165704,0.0004236764798406
+"the story falls, miguel, a young kid who dreams of being musician, much to the chagrin of his family, who believed music had cursed them all and will only bring misery and shame to their lineage",0.42390585,0.9962409734725952,0.0,0.218,False,0.0510765425860881,0.3753826320171356,0.2713857293128967
+"desperate to prove himself as a true musician at a local competition, miguel steals a guitar from the grave of famed singer ernesto de la cruz",0.18647896,0.5378720164299011,0.0833333333333333,0.248,False,0.0010960213840007,0.0008734816219657,0.0193749330937862
+"however, in a weird twist of fate, miguel cruises himself to the afterlife",0.06012806,0.0,0.5,0.124,False,0.0018015672685578,0.0004815682477783,0.0070652770809829
+now he must receive a blessing from his family to re-enter the land of the living before the sun sets and he's stuck there for eternity,0.021796638,0.0,0.0,0.068,False,0.0024051368236541,0.0010301895672455,0.0009151911945082
+the cast here is great,0.058130227,0.0,0.0,0.0,False,0.0007139719091355,0.0004285430477466,0.0008529875194653
+there's not like one bad apple in the bunch,0.10461388,0.0,0.6999999999999998,0.176,False,0.0044212024658918,0.002308108843863,0.0087649626657366
+the kid who even plays miguel,0.089041,0.0,0.0,0.0,False,0.0027498009148985,0.0014530074549838,0.0083877118304371
+"usually when i see this in a kid's movie, they're whiny and bratty and very self-centered and just kind of are rude to everyone, but in this movie he's so sweet and good-natured and he just wants to be himself and to love music and his family",0.34388447,0.0,0.0,0.035,False,0.0058803856372833,0.2110787332057953,0.0554464608430862
+"at the same time, he's a hopeless dreamer who feels in the end conflicted with the strong wishes of his very controlling family, especially the stubborn matriarch",0.2885035,0.9044610857963562,0.0,0.176,False,0.0298685245215892,0.0710676237940788,0.1293622404336929
+abuelita,0.010967735,0.860418438911438,0.0,0.0,False,0.0033232821151614,0.0005729874246753,0.0217286366969347
+"if the movie wanted me to hate her with every fiber of my being, then mission accomplished",0.4151741,0.0,0.3,0.171,False,0.0828092768788337,0.1468692570924759,0.3251599669456482
+"oh my god, she was dreadful, all her blind heating music because she was told to, and never fully understanding why or even questioning it just killed me",0.5535644,0.9999879598617554,0.5666666666666667,0.314,False,0.1766667664051056,0.3114062547683716,0.1770531088113784
+i understand having a strong sense of tradition and loyalty for your family,0.026207292,0.0,0.0,0.0,False,0.0005858681979589,0.0004637205856852,0.0004366466309875
+"but when you are asked to enforce something so ludicrous, you just got open your eyes",0.39694545,0.0,0.0,0.225,False,0.0083037391304969,0.8365055322647095,0.7119920253753662
+"you know, my final straw was when she destroyed something not only held dearly to miguel's heart, but something that he made himself",0.1689685,0.0,0.0,0.143,False,0.0014113385695964,0.022928137332201,0.015864223241806
+i legit,0.032559406,0.0,0.0,0.0,False,0.0045621925964951,0.0004708410124294,0.0004904277739115
+almost cried,0.13206954,0.9912988543510437,0.0,0.698,False,0.0011542905122041,0.0007120278314687,0.0015607443638145
+when i saw the grief-stricken look on miguel's face,0.14822112,0.9264817237854004,0.0,0.0,False,0.0062165423296391,0.003021826967597,0.0332995280623436
+it was more traumatic than the king triton scene from the little mermaid,0.11343288,0.9996830224990845,0.0,0.25,False,0.0007494274759665,0.0013159710215404,0.0031267623417079
+"now, most of this movie is spent in the afterlife, and that's where the amazing imagery comes in",0.04818217,0.0,0.0,0.0,False,0.0007584506529383,0.0004793109255842,0.0006368561298586
+that had left me absolutely awestruck,0.10763696,0.0,0.0,0.0,False,0.0007730448851361,0.001926808967255,0.0009166498784907
+the attention to detail,0.018325835,0.0,0.0,0.0,False,0.0006940253078937,0.0005497733363881,0.0003511082322802
+"the use of colour, just simply gorgeous",0.049212243,0.0,0.0,0.0,False,0.0006687466520816,0.0005490302573889,0.0006370777264237
+this is where we meet the rest of miguel's family who have been long since deceased,0.019575324,0.0,0.05,0.0,False,0.0013789086369797,0.0005210968665778,0.0018023452721536
+mainly we focus on mama imelda where the family curse originated from,0.30487993,0.9269170761108398,0.0,0.241,False,0.0014179899590089,0.248240128159523,0.3246252536773681
+"at first, i thought she was gonna come off as a black character and merely just an obstacle for miguel to face",0.31671798,0.9987449645996094,0.1388888888888888,0.106,False,0.0273973625153303,0.403670996427536,0.44179168343544
+but really you end up sympathizing her and really understanding how she came to hate music,0.31639808,0.0,0.1333333333333333,0.252,False,0.0118741607293486,0.0306233260780572,0.0139133520424366
+and that's the great thing about this film,0.04234509,0.0,0.0,0.0,False,0.0006655338802374,0.0003719940141309,0.0007113357423804
+"the longer this film goes on, more and more layers are added",0.06012806,0.0,0.0,0.0,False,0.0006668869173154,0.0004249087069183,0.001092281541787
+you'll learn a lot about the characters and nothing is ever simply painted as black and white,0.07011723,0.0,0.0555555555555555,0.0,False,0.0008948696195147,0.0598092749714851,0.0193454306572675
+"and not everyone is as they seem, hector, the forgotten ghost, and he's definitely one of my favorites here",0.0741129,0.0,0.0,0.17,False,0.0013154960470274,0.0004123098624404,0.0703129768371582
+"at first, he appears to be a trickster and very roguish, but really, by the end i'm like crying tears of joy to this guy",0.3552902,0.0,0.0,0.218,False,0.0420447811484336,0.2863222360610962,0.1821680665016174
+it has revealed very very gradually how different he actually is and how much heart he has,0.06612156,0.0,0.0,0.0,False,0.0005972667713649,0.0004035692545585,0.0112274121493101
+you end up really feeling for him in his dilemma,0.04783881,0.0,0.0,0.148,False,0.000634194642771,0.0005595461116172,0.0015847425675019
+"also, i still can't believe that benjamin bratt was in this movie",0.119872786,0.9771873354911804,0.0,0.0,False,0.0008213861729018,0.0006989313988015,0.0180805530399084
+"he plays the deceased singer de la cruz, even though it wasn't his voice singing all the parts, i was still thoroughly impressed that i couldn't recognize him",0.14822112,0.0,0.0,0.0,False,0.000672958267387,0.0004621952248271,0.0017852850724011
+"speaking of singing, the songs are not too bad either, and that's coming from someone who's not a huge fan of musicals",0.14777246,0.925180196762085,0.4499999999999999,0.152,False,0.0009263013489544,0.0005106941098347,0.0015669014537706
+"for one, the songs feel out of place and they had a purpose and meaning behind them",0.08330294,0.9976714253425598,0.4,0.0,False,0.0006404378218576,0.0004270629433449,0.0003431108780205
+they weren't just merely cluck,0.14014533,0.648769199848175,0.5,0.0,False,0.0273276437073946,0.0653386563062667,0.557161271572113
+"and when you learn the true meaning behind the lyrics towards the end, it just ends up becoming even more heartwarming",0.04818217,0.0,0.0,0.0,False,0.000584605615586,0.0003551791305653,0.00057703780476
+and this film definitely gets you a little bit misty-eyed,0.31389946,0.0,0.09375,0.0,False,0.0064821005798876,0.008156475611031,0.146925464272499
+especially by the end i found myself caring for the characters and rooting for them,0.06652113,0.0,0.0,0.0,False,0.0006853574304841,0.0003869831562042,0.0005293444846756
+there's also a pretty good twist for a kids movie that i didn't really see coming at first,0.07970683,0.0,0.0,0.0,False,0.0006417591357603,0.0004859662440139,0.0002804841496981
+that happens in the third act,0.039598234,0.0,0.0,0.0,False,0.0009622345096431,0.0004829539975617,0.0003779462131205
+there's actually quite a few fresh twists and turns in the story that kind of makes it difficult to thoroughly discuss without giving anything away,0.07251463,0.0,0.0,0.163,False,0.0005593242822214,0.0003258568176534,0.0003456241684034
+and i really would prefer not to give anything away for this movie,0.19338597,0.0,0.0,0.0,False,0.0009621419594623,0.0010620098328217,0.0018012998625636
+i really think that people should support it and go out and see it,0.0813051,0.0,0.0,0.0,False,0.0006408526678569,0.0008354456513188,0.0003676110936794
+although can i say i was not expecting this movie to be as dark and open about death as it was,0.1884524,0.6353201270103455,0.075,0.163,False,0.0014257514849305,0.0102650849148631,0.0066385497339069
+they did not hold back and i applaud them for that,0.043375164,0.7800636291503906,0.0,0.0,False,0.0007455005543306,0.0004232974315527,0.0008096439996734
+"i think it's important to show children the meaning of death, and that it is not something to fear, and that it is simply a part of life",0.19789414,0.0,0.0,0.117,False,0.0035445136018097,0.0023121070116758,0.0006834476371295
+and it doesn't mean that someone is gone because your memories of them still exist,0.043375164,0.0,0.3125,0.0,False,0.0026563180144876,0.0009332369081676,0.0005149188218638
+"also, there was a lot of skeletal mat dismemberment in this movie, til like a very gory degree if there were blood, it kind of gave looked like a tim burton - style to it, but without being as bleak and sarcastic",0.25219622,0.9995917677879333,0.2375,0.056,False,0.0018614757573232,0.0011538425460457,0.0384157374501228
+"oh, and can i say the dog dante, it all he did was make me miss my dog more",0.22989221,0.9401825666427612,0.0,0.082,False,0.001773731666617,0.0479248464107513,0.0484097972512245
+who? still back in jersey? i wasn't able to take him with me on my trip,0.076110736,0.9771462678909302,0.0,0.0,False,0.0010234416695311,0.0009269304573535,0.0019543606322258
+he is currently living with my parents and he's basically dante,0.029984225,0.0,0.0,0.0,False,0.0020504791755229,0.1673764586448669,0.0310197435319423
+just - the really long tongue,0.11729682,0.0,0.05,0.0,False,0.0007971434388309,0.0326782576739788,0.00437733810395
+i kind of made me wish i had a another dog,0.13296685,0.9509757161140442,0.0,0.0,False,0.0158950053155422,0.0974346473813057,0.0132644604891538
+right now,0.018187003,0.0,0.0,0.0,False,0.0008522721473127,0.0003965052601415,0.0006786007434129
+"my place isn't allowed pets, so my only real complaint is the end",0.13476147,0.0,0.2249999999999999,0.155,False,0.0068073091097176,0.0008170914952643,0.013725914992392
+"they tie up the loose ends a little too neatly, and most of them off-screen also, there was no retribution for how cruel miguel's grandmother was to him, like she did some awful things to him and they just kind of brush it off",0.263611,0.9998903274536133,0.1940705128205128,0.21,False,0.0104747135192155,0.0090044373646378,0.0548835769295692
+"and it's i realized that's kind of realistic, especially with this type of family, but i don't know",0.024490505,0.8253303170204163,0.0,0.0,False,0.0006112089031375,0.0004044728120788,0.0004043438530061
+i was kind of hoping like to see some sort of groveling,0.15626417,0.9987530708312988,0.0,0.0,False,0.0015899030258879,0.0254117622971534,0.0851263180375099
+"i mean, i'm sorry",0.022945397,0.9998995065689087,0.40625,0.302,False,0.0009235721663571,0.0011193852405995,0.00096324714832
+i,0.018187003,0.0,0.0,0.0,False,0.0033499409910291,0.0023471140302717,0.0006465429905802
+"i know there's tough love, but then there's also being a stubborn asshat",0.62792164,0.8187009692192078,0.0,0.276,True,0.8748347759246826,0.8060108423233032,0.9540518522262572
+"regardless, i really dug this movie",0.22598907,0.0,0.0,0.0,False,0.0008421739330515,0.0005204976769164,0.0043400609865784
+i went through so many emotions,0.043375164,0.0,0.0,0.0,False,0.000960859528277,0.0003555678995326,0.0007266924949362
+my heart and throat felt sore from trying not to cry during this film,0.19862764,0.9980053305625916,0.0,0.123,False,0.0018101618625223,0.0013762455200776,0.0021252555307
+"it probably didn't help that i am spending my first thanksgiving without my family, so watching this movie really brought out those fields",0.048525527,0.0,0.0,0.093,False,0.0008213052642531,0.0005090400227345,0.0007632519700564
+"however, this movie did teach me",0.060927194,0.7114869952201843,0.0,0.0,False,0.0010629821335896,0.0005812550662085,0.0004395470023155
+"it's okay to follow your dreams like i did moving here to california, as long as you never forget your family and those who love you",0.032902762,0.9697392582893372,0.0,0.0,False,0.0018959750887006,0.0099715543910861,0.0007010701228864
+this is a genuine family film with a bit of a gothic side and showcases a beautiful culture that should be taught and embraced by all ages,0.057331093,0.0,0.0,0.0,False,0.0011522439308464,0.0014879452064633,0.0004261985013727
+"and yes, well, it has a similar premise to book of life",0.014855034,0.0,0.0,0.0,False,0.0007398552843369,0.0004317635903134,0.0004686933825723
+"it shares a bare-bones likeness at best, and sorry to say, but coco did it better",0.21539254,0.9979562759399414,0.0,0.054,False,0.0006262831157073,0.0003866910701617,0.0052978754974901
+in my opinion,0.016382186,0.0,0.0,0.0,False,0.0009892465313896,0.0003826994216069,0.0002498737594578
+"well, that's my review",0.019158829,0.0,0.0,0.0,False,0.0007974971667863,0.0004110295267309,0.000431015563663
+i hope you enjoyed it,0.055333257,0.0,0.0,0.0,False,0.0006356317899189,0.0005636291461996,0.0003298890660516
+"if you did, please subscribe to my channel and like this video",0.028610796,0.0,0.0,0.0,False,0.0007147387950681,0.0005528410547412,0.0015781936235725
+"if you really enjoyed it, please share it around",0.030842619,0.0,0.0,0.0,False,0.0005628053913824,0.0004226401797495,0.0002644034102559
+"share with your friends, your family and have a great thanksgiving",0.020685982,0.0,0.0,0.0,False,0.0010743625462055,0.0008961713756434,0.0009930127998813
+i'll see you guys next time,0.08689302,0.0,0.0,0.0,False,0.0008561636786907,0.0012098794104531,0.0008102398714981

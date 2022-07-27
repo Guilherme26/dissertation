@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user do you plan on going to randel right after you get off work ?,0.1884524,0.0,0.0,0.0,0.0036833791527897,0.0008956877863965,0.0007213932694867,False
+@user do you plan on going to randel right after you get off work ?,0.1884524,0.9885772466659546,0.0,0.0,0.0036833791527897,0.0008956877863965,0.0007213932694867,False

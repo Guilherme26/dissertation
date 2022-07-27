@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-these hoes will get u fucked up or locked up,0.9320454,0.0,0.0,0.328,0.997298538684845,0.9951187372207642,0.9921471476554872,True
+these hoes will get u fucked up or locked up,0.9320454,0.9990530610084534,0.6,0.328,0.997298538684845,0.9951187372207642,0.9921471476554872,True

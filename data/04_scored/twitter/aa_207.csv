@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user yes that's what's up . nothin like getting dressed up and getting some culture man .,0.12180476,0.0,0.0,0.0,0.0015296341152861,0.0054046767763793,0.0096624800935387,False
+@user yes that's what's up . nothin like getting dressed up and getting some culture man .,0.12180476,0.8115738034248352,0.0,0.0,0.0015296341152861,0.0054046767763793,0.0096624800935387,False

@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-""" @user : @user you seem mad lol "" why do u say that ?",0.22987647,0.0,0.0,0.168,0.4683531522750854,0.1045297756791114,0.3552273213863373,False
+""" @user : @user you seem mad lol "" why do u say that ?",0.22987647,0.9195091128349304,0.0,0.168,0.4683531522750854,0.1045297756791114,0.3552273213863373,False

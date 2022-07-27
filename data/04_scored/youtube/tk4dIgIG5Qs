@@ -1,154 +1,154 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-thanks to curiosity stream for supporting crash course,0.040628307,0.0019682890929746,0.3875,0.2,False,0.0005907320883125067,0.0003890985099133104,0.00028630325687117875
-"in 1965, a brave and dedicated group of people were a part of one of the greatest non-violent civil rights demonstrations in u",0.012425472,0.0022133640636225,0.0499999999999999,0.0,False,0.0010171598987653852,0.0008674414712004364,0.0003311308682896197
-s,0.04818217,0.1787344606285256,0.5,0.0,False,0.0025115853641182184,0.0012000821297988296,0.0023576095700263977
-history,0.01263372,0.0204404387351616,0.5,0.0,False,0.0008611758821643889,0.00048207183135673404,0.0003657639608718455
-led by dr,0.0253489,0.04960203556177,0.5,0.0,False,0.0007101355586200953,0.0017457038629800081,0.0007023226353339851
-"martin luther king, jr",0.017423427,0.0501636545264897,0.5,0.0,False,0.0008348531555384398,0.003782536368817091,0.0010234216460958123
-", the march from selma, alabama to the state capitol of montgomery was a turning point in the fight for voting rights",0.026207292,0.1489552736837405,0.5,0.11,False,0.0007765415939502418,0.0004781965399160981,0.0003217943594790995
-"the march’s organizers endured insults, threats, physical violence, self-doubt, internal division, and even death in the struggle to guarantee access to the ballot box",0.25219622,0.9994963490296754,0.5,0.443,False,0.006272259168326855,0.006556815467774868,0.06517967581748962
-it took almost 60 years to bring that story to the screen,0.017562259,0.0019321373309174,0.5,0.0,False,0.0008008384029380977,0.00034793754457496107,0.0005384660325944424
-"and when selma finally arrived in 2014, it was greeted with cheers and awards… along with complaints and questions about its historical accuracy",0.017562259,0.0546417640533939,0.5,0.097,False,0.0005805396940559149,0.0004158846859354526,0.00053028529509902
-"as film critics, our job is to apply different critical lenses to a film, to help us unlock different meanings",0.022945397,0.0001464548711861,0.5,0.186,False,0.0005765449604950845,0.0004052802687510848,0.00042174954432994127
-"so critiquing a film like selma through a framework of history is one way to do it, but it’s certainly not the only way to evaluate it as art",0.043718524,0.7635299534187675,0.5267857142857143,0.0,False,0.0029049362055957317,0.0003882572636939585,0.0007602908881381154
-it took nearly a decade for selma to get made,0.0813051,0.9150411536995888,0.45,0.0,False,0.001025848905555904,0.0006611965945921838,0.008175736293196678
-the film’s producers worked with a number of directors and sought funding from a lot of sources before they hit upon the perfect combination of talent and vision in ava duvernay,0.01527153,0.0,0.0,0.0,False,0.0005791091825813055,0.000358963938197121,0.00028227645088918507
-"as a woman and a person of color, duvernay stands out among modern american feature filmmakers",0.08290337,1.3173189471772387e-05,0.45,0.0,False,0.00077814981341362,0.011772078461945057,0.006492838729172945
-she had only directed two small independent films before bringing her unique perspective to selma,0.06532243,0.0003278097533937,0.484375,0.0,False,0.0006472020759247243,0.0004707059124484658,0.0017068848246708512
-"and, in fact,, with selma, she became the first woman of color ever to direct a best picture nominee",0.087430015,0.008205198235937,0.275,0.0,False,0.0008349661366082728,0.010764476843178272,0.013222417794167995
-"which is… an honor, but also really depressing because it reveals a serious lack of inclusion in hollywood",0.10461388,0.9994177867503822,0.7333333333333334,0.339,False,0.0008219198207370937,0.0008229194208979607,0.001802791259251535
-the american studio system has a long history of denying underrepresented voices positions of power behind the camera and at the film studios who actually decide which movies get made,0.064523295,0.92759785578624,0.55625,0.076,False,0.0007518718484789133,0.0004749056533910334,0.0007220532279461622
-ava duvernay has emerged as a leading figure pushing hollywood to include women and people of color a seat at those tables,0.16413476,0.0011700593788966,0.5,0.0,False,0.003654580097645521,0.006635921075940132,0.020895404741168022
-"as she puts it, “there’s a ‘belonging’ problem in hollywood",0.05253629,0.2117521659316404,0.5,0.231,False,0.001302950200624764,0.0005387121927924454,0.0018942360766232014
-change has to happen,0.025863936,0.0178152187771715,0.5,0.0,False,0.0011023133993148804,0.0005010945023968816,0.0006221659132279456
-inclusion is necessary for survival,0.04234509,0.0565801005322981,0.5,0.0,False,0.0006530209211632609,0.0004890590789727867,0.0004878373583778739
-"” written by paul webb, the script for selma takes place over three months as martin luther king, jr",0.015757442,0.7538313863935497,0.5,0.0,False,0.0006296061910688877,0.0014406738337129354,0.00020074656640645117
-", played by david oyelowo, presses president lyndon johnson to pass the voting rights act",0.015757442,0.1342316713397711,0.5,0.0,False,0.000855259015224874,0.00053900241618976,0.0003809071786236018
-"king: now, you asked how you can help",0.023803791,0.0392363746452701,0.5,0.0,False,0.0007024317746981978,0.001969686010852456,0.0008829251164570451
-king: we want federal legislation granting negros the right to vote unencumbered,0.38959074,0.9513752839612126,0.3571428571428571,0.0,False,0.38508710265159607,0.0006249046418815851,0.3617183268070221
-"at the time, many state governments kept african-american citizens from registering to vote with administrative hurdles, intimidation, and outright fraud",0.23891698,0.9994983160670172,0.25,0.268,False,0.0018661061767488718,0.022312799468636513,0.01086015161126852
-"we watch as king struggles to convince johnson to do something about this problem, using non-violent tactics to force his hand",0.1019289,0.9251365854103408,0.5,0.202,False,0.0030735547188669443,0.0018479280406609178,0.0010618692031130195
-"not to mention, king is also navigating divisions within the civil rights movement and his own strained marriage",0.032731086,0.0140282248399979,0.2,0.137,False,0.0006294261547736824,0.0005445507704280317,0.003998980857431889
-"all while he’s under constant fbi surveillance! king’s followers try three times to cross the now-infamous edmund pettus bridge to start their 54-mile march to montgomery, alabama",0.04234509,0.9115794064065452,0.5,0.0,False,0.017641231417655945,0.0012053283862769604,0.002551714424043894
-"during these attempts, the marchers are beaten, whipped, tear gassed, and in some cases killed",0.2712817,0.9997025005038298,0.6,0.36,False,0.2584061920642853,0.49976181983947754,0.5860940217971802
-"it's only after this brutality is aired on national tv, that johnson finally sends the voting rights act to congress and the national guard to protect the marchers",0.14552918,0.9742809271469572,0.4833333333333333,0.142,False,0.0065957335755229,0.001492045004852116,0.004613352473825216
-"and the film ends with king’s speech on the steps of the state house, along with one-sentence subtitles explaining what key characters would go on to do",0.021518974,0.0191173378903429,0.5,0.0,False,0.0006754841888323426,0.0005121358553878963,0.0005259175668470562
-"selma is a historical drama, and many of the film’s critics honed in on the history, comparing the events and people to their real life counterparts",0.077709,0.0015496975858908,0.3833333333333333,0.081,False,0.0006678021163679659,0.00042687467066571116,0.00045759917702525854
-but as james l,0.015896274,0.0586203951134262,0.5,0.0,False,0.0007099653012119234,0.01818687468767166,0.00044985456042923033
-"deutsch pointed out in the journal of american history, there were many historical films released in 2014 – from unbroken and the imitation game, to wild and american sniper",0.017006932,0.800953703153441,0.4952380952380952,0.0,False,0.0006598745821975172,0.0006406957400031388,0.0005865814164280891
-"and of those films, it was selma that “sparked the most acrimonious debates in op-eds and newspaper columns, radio and television talk shows, the blogosophere",0.012494888,0.82757239755446,0.25,0.111,False,0.0006159891490824521,0.0005270557594485581,0.01078658178448677
-"” he goes on to say, “this is not surprising, given the contentiousness that surrounds issues of race in the twenty-first-century united states",0.087430015,0.8803774255880205,0.675,0.071,False,0.0006690468871966004,0.00044753015390597284,0.0009271199232898653
-"” now, used correctly, historical analysis is a perfectly valid way to evaluate a film",0.013327881,1.7762943269629737e-05,0.25,0.0,False,0.0006521045579575002,0.00033145680208690464,0.00021511322120204568
-"as long as there have been movies and television depicting historical events, there have been audiences who take them as pure fact",0.018325835,0.2142534327334922,0.4726190476190476,0.0,False,0.0005880208336748183,0.0004139426164329052,0.00035100197419524193
-so it’s important for films to get at least some of those real life events right,0.036851373,0.0036113911490114,0.4267857142857142,0.0,False,0.0006644026725552976,0.00039617298170924187,0.0003531938709784299
-stray too far and you can really mess up history in people’s minds,0.15334547,0.9996766011788276,0.51875,0.189,False,0.01593548245728016,0.013002646155655384,0.002357901306822896
-"**cough cough**, braveheart and selma definitely does alter some history in favor of drama at times",0.08581903,0.0850806237940347,0.5,0.0,False,0.0017897238722071052,0.0005598525749519467,0.008233345113694668
-"for one thing, the film changes the order of key events",0.02397547,0.9847427046608472,0.5,0.0,False,0.0006264544208534062,0.0003973740676883608,0.0005203342298045754
-it opens with king accepting the nobel peace prize,0.043031808,0.0186470371440429,0.5,0.0,False,0.000720654265023768,0.0015123564517125487,0.000799612607806921
-"and we listen to his acceptance speech over a transition to a new scene, where children are descending a stairway only to be killed by a bomb",0.3552902,0.949370515266624,0.5106060606060606,0.222,False,0.04341823235154152,0.07060526311397552,0.07973311841487885
-"now, both these events happened, but the film leads us to believe they happened close to the same time",0.025005542,0.2078119815105642,0.5,0.0,False,0.0005760203930549324,0.00033555369009263813,0.0003859405405819416
-"in real life, though, the bombing took place more than a year before king spoke in oslo",0.070516795,0.9901342049971212,0.325,0.0,False,0.0007029484258964658,0.002195521490648389,0.0006686520064249635
-other critics point to the scenes between president johnson and dr,0.03616466,0.0244288453747113,0.5625,0.18,False,0.0006040857988409698,0.001305134268477559,0.0013868522364646196
-"king, suggesting that the film doesn’t give johnson enough credit for supporting voting rights",0.046465382,0.984566416389975,0.4375,0.0,False,0.000702656339854002,0.0010451223934069276,0.0005213370313867927
-"johnson: well, dr",0.00999591,0.003179358220091,0.5,0.0,False,0.0007742134039290249,0.001371590537019074,0.0012525145430117846
-"king, you've certainly given me something to think about",0.08170467,0.0007384437003215,0.3928571428571428,0.0,False,0.0006791619816794991,0.029882442206144333,0.0009834174998104572
-johnson:,0.010204159,0.0012946682141488,0.5,0.0,False,0.0008627117495052516,0.0010509513085708022,0.0006553145940415561
-"but, this administration is going to set this aside for a while",0.04783881,0.993629421728574,0.5,0.0,False,0.0007076996262185276,0.0004456402675714344,0.0005486185546033084
-"the film also suggests that the events of bloody sunday were broadcast live across the country, as alabama state troopers brutalized the peaceful marchers on their first attempt to cross the bridge out of selma",0.0789077,0.8607227884673674,0.5163636363636364,0.152,False,0.0007097244961187243,0.003172931494191289,0.04047198221087456
-duvernay intercuts this violence with shots of horrified viewers in living rooms throughout the u,0.1785852,0.952681039113107,0.5,0.392,False,0.0008524070726707578,0.09958960115909576,0.07994859665632248
-s,0.04818217,0.1787344606285256,0.5,0.0,False,0.0025115853641182184,0.0012000821297988296,0.0023576095700263977
-"but, in reality, the national news didn’t broadcast the attack until five hours later",0.030327583,0.9720250631553105,0.5,0.242,False,0.0006999025936238468,0.00047680598800070584,0.0006591200362890959
-"much of the nation did react, they just didn’t do it in real time",0.043031808,0.9997573391206354,0.4,0.0,False,0.0006776200025342405,0.00036320570507086813,0.0005163367604836822
-so does selma take liberties with the facts of history? for sure,0.049898956,0.9965836435838014,0.25,0.0,False,0.000668735767249018,0.0004187439917586744,0.0008179772994481027
-"after all, it’s a dramatic interpretation of that history",0.057331093,0.000562423661814,0.7166666666666667,0.0,False,0.0006923569017089903,0.00034153752494603395,0.0003909235238097608
-"if you think adapting a novel is tough, just try adapting reality into a movie",0.06132676,0.9988275861370124,0.6944444444444444,0.089,False,0.0007551249582320452,0.00044764112681150436,0.000552749668713659
-"how things happen, when things happen, and where things happen in life are genuinely cluttered and difficult to fit into a linear narrative",0.043031808,0.9999061484759126,0.45,0.096,False,0.0006257890490815043,0.00035211871727369726,0.00040628097485750914
-to condense all of that into a 2 hour experience that not only makes sense but is emotionally potent is more than a little challenging,0.03994159,0.0004656811889059,0.36875,0.0,False,0.0006666962872259319,0.0003746057627722621,0.00044086086563766
-which also brings up another point,0.018187003,0.0011535183830666,0.5,0.0,False,0.000660330057144165,0.00032739885500632226,0.0004166708094999194
-"films, even most documentaries, aren’t intended to be a list of events as they happened, devoid of emotional impact",0.04131502,0.9998498494828988,0.4333333333333333,0.0,False,0.00072371622081846,0.00040872851968742907,0.00031945505179464817
-"they are intended to move us, and move us from a perspective",0.044405237,4.768575374397245e-07,0.5,0.0,False,0.0006244045216590166,0.0006544975913129747,0.001061442424543202
-"usually, the director’s perspective",0.014577369,0.006253688567561,0.625,0.0,False,0.0006038040155544877,0.00047700328286737204,0.0003289647866040468
-"and when a film gets right as many events as selma does, a purely historical analysis doesn’t seem like the most useful form of film criticism to evaluate it",0.0495556,0.9937811816398642,0.3414285714285714,0.084,False,0.0006420151330530643,0.000364077917765826,0.0011275106808170676
-"there’s a school of thought that says the first few minutes of a well-constructed movie will teach us how to watch it, so we can start by delving into those first scenes",0.029640866,0.0007283998884391,0.45,0.0,False,0.0006209902348928154,0.00048310591955669224,0.0003900565207004547
-the film opens with king’s words spoken over a black screen,0.047495455,0.0220982935712629,0.5833333333333334,0.0,False,0.007103844080120325,0.016735566779971123,0.0158961471170187
-it’s not the booming voice of his most famous speeches,0.03856816,0.9988293147455856,0.25,0.0,False,0.0008655313868075609,0.0007602691766805947,0.0017618864076212049
-"it’s soft, low, and almost tentative",0.12309273,0.9861573621528544,0.475,0.296,False,0.0008188592619262636,0.0008274993160739541,0.014204500243067741
-king: i accept this honor for our lost ones,0.019852988,0.0074913425023898,0.5,0.157,False,0.0008019270026125014,0.008669713512063026,0.0009944362100213766
-whose deaths pave our path,0.16413476,0.9941332515204752,0.5,0.0,False,0.21568921208381653,0.0030262707732617855,0.006839649751782417
-"the first shot is a close-up of king facing the camera in a dark room, practicing a speech, and doing a terrible job of tying an ascot",0.34388447,0.9890090894411284,0.65,0.107,False,0.0009329332388006151,0.04325968399643898,0.007325336802750826
-"then his wife, coretta scott king, played by carmen ejogo, enters the room",0.06652113,0.1550011417757662,0.5,0.0,False,0.0013237257953733206,0.0143328458070755,0.04967265948653221
-"she helps him tie the ascot, and we get an intimate view of their relationship",0.18450552,0.0001324471810238,0.4,0.0,False,0.0005638435250148177,0.0005455378559418023,0.0370338149368763
-"the lighting is dark and the framing is relatively still, isolating these two as they struggle to balance their work, their public personas, and their marriage",0.05133759,0.122475493844097,0.525,0.084,False,0.0008215901907533407,0.0007234218064695597,0.001324083306826651
-"in the next scene, king receives his nobel peace prize",0.049212243,0.0961620478742316,0.5,0.0,False,0.0006842893781140447,0.00298488000407815,0.0018346641445532441
-"duvernay now uses more traditionally heroic angles, keeping us slightly lower than king, and craning up, making him seem larger than life, the public figure of popular myth",0.1019289,0.1932511366048422,0.3638888888888889,0.057,False,0.0015147438971325755,0.0004309391661081463,0.0016657423693686724
-"these scenes give us two different kings, one private – introspective and doubting –, and one public – confident and majestic",0.051737156,0.0002949363869064,0.4375,0.098,False,0.000894848839379847,0.0004454671870917082,0.0007738493150100112
-"finally, the third scene gives us those kids walking down the church stairs",0.0789077,0.0257440184629701,0.5259259259259259,0.0,False,0.0025078298058360815,0.0018416852690279484,0.0012423244770616293
-"when the bomb goes off, it rips through the wall, cutting them off mid-sentence",0.39694545,0.9999402735934356,0.8,0.281,False,0.27244842052459717,0.6418594121932983,0.7369668483734131
-the violence is unexpected and immediate,0.11665283,0.9016840164327492,0.45,0.451,False,0.0008426194544881582,0.0009136478183791041,0.023016808554530144
-it’s shocking,0.048868883,0.9910986493665932,1.0,0.73,False,0.0016362073365598917,0.0005779427010565996,0.0006514336564578116
-"then, duvernay does something interesting",0.03358948,0.0008913361482631,0.25,0.0,False,0.0007619119132868946,0.00039604949415661395,0.0018944201292470098
-"as the explosion blows apart both brick and flesh, she slows the images down until they’re almost abstract",0.09763293,0.1173389632723728,0.5777777777777778,0.0,False,0.047337912023067474,0.0007426224765367806,0.0013406338403001428
-"it becomes difficult to tell people from objects as they whirl across the screen, crossfading into one another in slow motion",0.08170467,0.999963580005578,0.7,0.111,False,0.001021580072119832,0.0015594661235809326,0.0008500284748151898
-"this extends the horror, but also suggests that the aftermath of this kind of racist violence will last much longer than the bomb itself",0.31661135,0.8507307454314514,0.3666666666666667,0.351,False,0.01475844718515873,0.04014721140265465,0.18807338178157806
-this third scene also underlines the main duality of the film – the collision of private and public spaces,0.020269485,0.0014995977408635,0.4791666666666667,0.122,False,0.000713679357431829,0.00036712235305458307,0.0003621618670877069
-this intimate childhood moment is invaded by a terrorist’s explosive,0.3123962,0.151301084928387,0.4,0.0,False,0.0058748661540448666,0.0538034550845623,0.24871760606765747
-and these themes show up again and again throughout the rest of the film,0.048868883,0.0048933034240338,0.5,0.0,False,0.000697735755238682,0.0003187492548022419,0.00045824976405128837
-"the framing of that first shot, with king squared off to the camera, is repeated often – from king and his aides to regular people joining the march",0.0801064,0.9657280997662264,0.4375,0.0,False,0.0006184566300362349,0.002708268351852894,0.0011751451529562473
-"by presenting their characters boldly, unapologetically, facing off with us, duvernay and her cinematographer bradford young reinforce the idea that this movie is about people demanding their dignity in the face of both incredible violence and apathy",0.09602194,0.0358497920215654,0.2777777777777778,0.191,False,0.0011555628152564168,0.0007844469510018826,0.0023454565089195967
-this film also keeps exploring the juxtaposition of private and public spaces,0.032902762,6.377969563256314e-06,0.5,0.0,False,0.0007297633565030992,0.0004191820917185396,0.00042082101572304964
-"in intimate moments, duvernay’s king lowers his guard and shares his fears",0.07690986,0.0049281140242669,0.4,0.277,False,0.0011087486054748297,0.0014265954960137606,0.009084406308829784
-"these scenes are almost always shot at night, in houses, churches, and jail cells",0.1423886,0.1191178505121956,0.55,0.0,False,0.0019206638680770993,0.013196093961596489,0.002922140760347247
-"in an early scene, king makes a late-night phone call to gospel singer mahalia jackson after an emotional low-point",0.04165838,0.928680560824997,0.475,0.0,False,0.0006758222007192671,0.004408373963087797,0.004228474572300911
-"she sings “take my hand, precious lord”, as king gathers strength, alone, in his dark kitchen",0.10956893,0.0011459780732559,0.4125,0.083,False,0.0021038383711129427,0.0026924964040517807,0.007305547595024109
-"echoing that scene much later, king goes for a midnight drive with john lewis, one of his youngest supporters, and expresses grave doubts about their mission",0.029812546,0.9866419686252776,0.5,0.156,False,0.0007658690446987748,0.0007188708405010402,0.0018739179940894246
-"this time, instead of a song, lewis speaks about his own experience being inspired by king and urges him to continue on his path",0.042001735,0.0024666350231952,0.2,0.0,False,0.0006004113820381463,0.0008141967700794339,0.0007288622437044978
-"lewis: the next day, i found myself patched up, and sittin' in a church",0.03461955,0.0012196525627903,0.5,0.0,False,0.0011352569563314319,0.058021556586027145,0.00408750306814909
-"lewis: barely hold my head up, but i needed to be there",0.03856816,0.0002575030702174,0.475,0.0,False,0.001766490750014782,0.06378571689128876,0.008539056405425072
-you were gonna be speaking,0.08796701,0.8127470755370355,0.5,0.0,False,0.001127250725403428,0.0017445848789066076,0.012095307931303978
-this public-private juxtaposition is also embodied in david oyelowo’s performance,0.024833864,0.0001334605032909,0.5,0.0,False,0.0008328924886882305,0.00038587229209952056,0.000510444981046021
-king’s physicality and vocal cadence change depending on his audience,0.030842619,0.8081391415455632,0.5,0.0,False,0.0009377992246299982,0.0020190447103232145,0.0006311607430689037
-"from restrained but firm with johnson, to soft and anguished with coretta, and righteous before the microphones",0.08501353,0.0045985458587038,0.525,0.188,False,0.0007327874773181975,0.0007825202774256468,0.024292927235364914
-"this version of king is a close examination of what it means –, and what it costs – for people of color to code switch, or change their style of presentation to fit the moment",0.1689685,0.0009741007346049,0.3,0.0,False,0.0006883918540552258,0.0008647276554256678,0.003051494248211384
-"that said, no space was totally private for king, either",0.03461955,0.9977309628188812,0.5,0.196,False,0.0009355084039270878,0.001527299638837576,0.0003042403550352901
-"at key points throughout the movie, subtitles on the screen give us notes from the fbi surveillance logs with details about king’s movements, visitors, and phone calls",0.015132698,0.0199708830787639,0.5,0.0,False,0.0005626624333672225,0.0003890877705998719,0.0003811430942732841
-it’s a chilling reminder that even his most intimate moments are being monitored,0.062925026,0.0034191877578271,0.4666666666666667,0.084,False,0.0011269351234659553,0.00045776210026815534,0.0025009913370013237
-"the examination of public and private space comes up in scenes without king, too",0.033074442,0.033578877213893,0.5,0.0,False,0.0006428536726161838,0.0006825278978794813,0.0005915031069889665
-"oprah winfrey plays annie lee cooper, a character who tries to register to vote",0.06851897,0.2098821392949744,0.55,0.0,False,0.0008853990002535284,0.0005687615484930575,0.0018912040395662189
-"she approaches the county clerk, who humiliates and threatens her, before finally denying her application –",0.15451296,0.8710672888306434,0.5,0.35,False,0.05786552652716637,0.0007341641467064619,0.038143858313560486
-for the fifth time! the message is clear: public spaces in this part of the south were effectively off-limits to a big chunk of the population,0.022773718,0.001099633481336,0.4125,0.0,False,0.0010674170916900039,0.00040766640449874103,0.00046244467375800014
-"political figures like president johnson and the george wallace, the white supremacist governor of alabama, also privately struggle with their own doubts in interior scenes –, but always during the daytime",0.1884524,0.0469769646217604,0.425,0.098,False,0.0007301035220734775,0.052949458360672,0.04174365848302841
-"they have power, the movie tells us",0.056931525,0.0001840968130478,0.5,0.0,False,0.0014470256865024567,0.0007390061509795487,0.0012996328296139836
-the question for them is how they’re going to use it,0.022351967,0.0234872305598444,0.5,0.0,False,0.0008575038518756628,0.0008332151919603348,0.001361265080049634
-"in the film’s climactic moments, these public and private spaces finally collide and are punctuated by destruction",0.092262976,0.8728947261284967,0.5,0.25,False,0.0011549751507118344,0.00045282620703801513,0.0006977145094424486
-"when an alabama state trooper shoots an unarmed black man, or thugs beat to death a white pastor from boston, duvernay again slows the action",0.44805592,0.9996812505398176,0.5111111111111111,0.14,False,0.3799844980239868,0.6096878051757812,0.6319383978843689
-she forces us to endure the violence and contemplate its aftermath,0.28021416,0.017259590335266,0.5,0.291,False,0.0014514640206471086,0.0027635544538497925,0.01066406536847353
-"both these acts of violence take place at night, which the film has already coded as private space",0.10515087,0.9968358714175108,0.5,0.194,False,0.0011197819840162992,0.0007278312114067376,0.0031211136374622583
-"but then duvernay breaks this pattern to depict the bloody sunday violence, again in slow motion, when marchers were beaten on the edmund pettus bridge",0.15276173,0.1133198887324465,0.775,0.375,False,0.0007411318365484476,0.01822732761502266,0.17699621617794037
-"it takes place in broad daylight, under the watchful eye of television cameras",0.021657806,0.0514892290697838,0.46875,0.0,False,0.0006744720158167183,0.0004587779694702476,0.0007393777486868203
-and this is where the film crosscuts between the public violence and the folks at home – in their private spaces – recoiling in horror,0.10461388,0.8855950517447055,0.5,0.253,False,0.0065256026573479176,0.002587755210697651,0.0012852491345256567
-"even though it breaks the historical chronology, intercutting these events completes the theme of the movie, thrusting the usually private pain and violence into the glaring light of public scrutiny",0.09279997,0.0040575807860746,0.45,0.209,False,0.0006595008308067918,0.0005255930591374636,0.0006586792296729982
-"once again, duvernay is using the tools of cinema here – shots, cuts, and sound – to reinforce her film’s message in subtle and sophisticated ways",0.104076885,0.0001039251395657,0.4055555555555555,0.074,False,0.0007956093759275973,0.002757016569375992,0.0006453059613704681
-"there are lots of other things to say about selma, on matters from race and class, to gender equity and social justice",0.13879937,0.0175746441495332,0.5229166666666667,0.0,False,0.0005793231539428234,0.0006755009526386857,0.0005731460987590253
-but almost all of it can be read in terms of this tension between public and private spaces and the ways people inhabit them,0.05613239,0.0634906901612785,0.5,0.13,False,0.0005856638308614492,0.00039141628076322377,0.00042995312833227217
-duvernay brings martin luther king jr,0.040284947,0.063027154831291,0.5,0.0,False,0.0009342626435682178,0.0029507800936698914,0.0006931963725946844
-"down to earth, revealing his human struggles",0.08050597,0.0010120407124275,0.5388888888888889,0.294,False,0.016839923337101936,0.0021074574906378984,0.013893543742597103
-"and then, in the last low-angle medium shot of his speech in montgomery, she returns king to his mythic status as one of the great american leaders of the 20th century",0.026207292,0.0004385897200601,0.4,0.0,False,0.0007746639312244952,0.0009017581469379365,0.0017700915923342109
-"while she hasn’t stuck directly to the historical record, she has made an enduring and resonant portrait of an american hero",0.019019997,6.804160987343068e-05,0.4833333333333333,0.081,False,0.0006179867777973413,0.0006623700028285384,0.0007959316717460752
-"next time, we’ll turn back the clock to tackle where are my children, a much older film that wrestles with some surprisingly modern themes",0.04268845,0.9261339925570884,0.4541666666666666,0.0,False,0.000965008104685694,0.000466275931103155,0.0008616933482699096
-"crash course film criticism is supported by curiosity stream, where you can stream documentary films and programs about science, nature, and history, including exclusive originals",0.013119632,0.8818353877051464,0.5,0.184,False,0.0005645299679599702,0.0011085442965850234,0.00044286539196036756
-"for example, check out the emmy winning series, ""stephen hawking's favorite places",0.011870144,0.0053121631634824,0.25,0.0,False,0.0006539270980283618,0.0004361296014394611,0.0006746863364242017
-""" where hawking takes you on a journey through the stars and around our planet to talk about his favorite places to go",0.031185975,0.0002252853828441,0.25,0.0,False,0.0006966816144995391,0.0005524567677639425,0.0006062611937522888
-everywhere from saturn to santa barbara,0.020269485,0.010614103693506,0.5,0.0,False,0.0009682069648988545,0.0034936685115098953,0.00794984307140112
-"plus, he shares his own stories about curiosity perseverance",0.04406188,0.000705510726642,0.2,0.0,False,0.0006960614700801671,0.0003860803844872862,0.0007527614943683147
-it's really cool,0.035649624,0.004072959441657,0.325,0.0,False,0.0006269331788644195,0.0003274740884080529,0.0009125907090492547
-i mean,0.021796638,0.2490580126401819,0.65625,0.0,False,0.0009314602357335389,0.0005965581513009965,0.0006192278233356774
-"it's stephen hawking, so you know it's cool",0.04783881,0.0002400083593126,0.325,0.0,False,0.0006327683222480118,0.004832383245229721,0.005630804691463709
-curiosity stream offer unlimited streaming,0.020269485,0.0123777016885346,0.5,0.0,False,0.0006157585303299129,0.0006244349060580134,0.0002786623081192374
-"and for you crash course viewers, the first two months are free if you sign up at curiositystream",0.08581903,0.9940150504583825,0.3375,0.123,False,0.0006542612100020051,0.000560917891561985,0.0007004793733358383
-"com/crashcourse and use the promo code ""crashcourse",0.022945397,0.9994865436465618,0.5,0.0,False,0.0007317118579521775,0.000868332979734987,0.0008813021122477949
-"""",,0.1069508900516132,0.5,0.0,False,0.0008155292016454041,0.0008809809805825353,0.0005122166476212442
-"crash course, film criticism is produced in association with pbs digital studios",0.06612156,0.9992789019926028,0.5,0.359,False,0.0006588989635929465,0.005210558883845806,0.0004726401821244508
-"you can head over to their channel to check out a playlist of their latest shows, like pbs infinite series, pbs space time, and it's okay to be smart",0.05773066,0.992786128977208,0.2976190476190476,0.0,False,0.0005637796130031347,0.0008258581510744989,0.002982301404699683
-this episode of crash course was filmed in the doctor cheryl c,0.02809576,0.940633114215308,0.5,0.197,False,0.0008666033972986042,0.0005354274762794375,0.000827364157885313
-kinney crash course studio,0.025520578,0.0038059192206908,0.5,0.474,False,0.0007232539355754852,0.0006450267974287271,0.0006329027819447219
-with the help of these and our amazing graphics team is thought cafe,0.038053125,0.0001855273856601,0.1999999999999999,0.0,False,0.0005691577098332345,0.0003845638129860163,0.000706228893250227
+thanks to curiosity stream for supporting crash course,0.040628307,0.0,0.0,0.2,False,0.0005907320883125,0.0003890985099133,0.0002863032568711
+"in 1965, a brave and dedicated group of people were a part of one of the greatest non-violent civil rights demonstrations in u",0.012425472,0.0,0.0,0.0,False,0.0010171598987653,0.0008674414712004,0.0003311308682896
+s,0.04818217,0.0,0.0,0.0,False,0.0025115853641182,0.0012000821297988,0.0023576095700263
+history,0.01263372,0.0,0.0,0.0,False,0.0008611758821643,0.0004820718313567,0.0003657639608718
+led by dr,0.0253489,0.0,0.0,0.0,False,0.00071013555862,0.00174570386298,0.0007023226353339
+"martin luther king, jr",0.017423427,0.0,0.0,0.0,False,0.0008348531555384,0.003782536368817,0.0010234216460958
+", the march from selma, alabama to the state capitol of montgomery was a turning point in the fight for voting rights",0.026207292,0.0,0.0,0.11,False,0.0007765415939502,0.000478196539916,0.000321794359479
+"the march’s organizers endured insults, threats, physical violence, self-doubt, internal division, and even death in the struggle to guarantee access to the ballot box",0.25219622,0.9989927411079407,0.0,0.443,False,0.0062722591683268,0.0065568154677748,0.0651796758174896
+it took almost 60 years to bring that story to the screen,0.017562259,0.0,0.0,0.0,False,0.000800838402938,0.0003479375445749,0.0005384660325944
+"and when selma finally arrived in 2014, it was greeted with cheers and awards… along with complaints and questions about its historical accuracy",0.017562259,0.0,0.0,0.097,False,0.0005805396940559,0.0004158846859354,0.000530285295099
+"as film critics, our job is to apply different critical lenses to a film, to help us unlock different meanings",0.022945397,0.0,0.0,0.186,False,0.000576544960495,0.000405280268751,0.0004217495443299
+"so critiquing a film like selma through a framework of history is one way to do it, but it’s certainly not the only way to evaluate it as art",0.043718524,0.5270801186561584,0.0535714285714285,0.0,False,0.0029049362055957,0.0003882572636939,0.0007602908881381
+it took nearly a decade for selma to get made,0.0813051,0.8300895690917969,0.0,0.0,False,0.0010258489055559,0.0006611965945921,0.0081757362931966
+the film’s producers worked with a number of directors and sought funding from a lot of sources before they hit upon the perfect combination of talent and vision in ava duvernay,0.01527153,0.0,0.0,0.0,False,0.0005791091825813,0.0003589639381971,0.0002822764508891
+"as a woman and a person of color, duvernay stands out among modern american feature filmmakers",0.08290337,0.0,0.0,0.0,False,0.0007781498134136,0.011772078461945,0.0064928387291729
+she had only directed two small independent films before bringing her unique perspective to selma,0.06532243,0.0,0.0,0.0,False,0.0006472020759247,0.0004707059124484,0.0017068848246708
+"and, in fact,, with selma, she became the first woman of color ever to direct a best picture nominee",0.087430015,0.0,0.0,0.0,False,0.0008349661366082,0.0107644768431782,0.0132224177941679
+"which is… an honor, but also really depressing because it reveals a serious lack of inclusion in hollywood",0.10461388,0.9988356232643127,0.4666666666666667,0.339,False,0.000821919820737,0.0008229194208979,0.0018027912592515
+the american studio system has a long history of denying underrepresented voices positions of power behind the camera and at the film studios who actually decide which movies get made,0.064523295,0.8552019000053406,0.1125,0.076,False,0.0007518718484789,0.000474905653391,0.0007220532279461
+ava duvernay has emerged as a leading figure pushing hollywood to include women and people of color a seat at those tables,0.16413476,0.0,0.0,0.0,False,0.0036545800976455,0.0066359210759401,0.020895404741168
+"as she puts it, “there’s a ‘belonging’ problem in hollywood",0.05253629,0.0,0.0,0.231,False,0.0013029502006247,0.0005387121927924,0.0018942360766232
+change has to happen,0.025863936,0.0,0.0,0.0,False,0.0011023133993148,0.0005010945023968,0.0006221659132279
+inclusion is necessary for survival,0.04234509,0.0,0.0,0.0,False,0.0006530209211632,0.0004890590789727,0.0004878373583778
+"” written by paul webb, the script for selma takes place over three months as martin luther king, jr",0.015757442,0.5076838135719299,0.0,0.0,False,0.0006296061910688,0.0014406738337129,0.0002007465664064
+", played by david oyelowo, presses president lyndon johnson to pass the voting rights act",0.015757442,0.0,0.0,0.0,False,0.0008552590152248,0.0005390024161897,0.0003809071786236
+"king: now, you asked how you can help",0.023803791,0.0,0.0,0.0,False,0.0007024317746981,0.0019696860108524,0.000882925116457
+king: we want federal legislation granting negros the right to vote unencumbered,0.38959074,0.9027547240257263,0.0,0.0,False,0.385087102651596,0.0006249046418815,0.3617183268070221
+"at the time, many state governments kept african-american citizens from registering to vote with administrative hurdles, intimidation, and outright fraud",0.23891698,0.9989966750144958,0.0,0.268,False,0.0018661061767488,0.0223127994686365,0.0108601516112685
+"we watch as king struggles to convince johnson to do something about this problem, using non-violent tactics to force his hand",0.1019289,0.8502795696258545,0.0,0.202,False,0.0030735547188669,0.0018479280406609,0.001061869203113
+"not to mention, king is also navigating divisions within the civil rights movement and his own strained marriage",0.032731086,0.0,0.0,0.137,False,0.0006294261547736,0.000544550770428,0.0039989808574318
+"all while he’s under constant fbi surveillance! king’s followers try three times to cross the now-infamous edmund pettus bridge to start their 54-mile march to montgomery, alabama",0.04234509,0.8231663703918457,0.0,0.0,False,0.0176412314176559,0.0012053283862769,0.0025517144240438
+"during these attempts, the marchers are beaten, whipped, tear gassed, and in some cases killed",0.2712817,0.999405026435852,0.2,0.36,False,0.2584061920642853,0.4997618198394775,0.5860940217971802
+"it's only after this brutality is aired on national tv, that johnson finally sends the voting rights act to congress and the national guard to protect the marchers",0.14552918,0.9485640525817871,0.0,0.142,False,0.0065957335755229,0.0014920450048521,0.0046133524738252
+"and the film ends with king’s speech on the steps of the state house, along with one-sentence subtitles explaining what key characters would go on to do",0.021518974,0.0,0.0,0.0,False,0.0006754841888323,0.0005121358553878,0.000525917566847
+"selma is a historical drama, and many of the film’s critics honed in on the history, comparing the events and people to their real life counterparts",0.077709,0.0,0.0,0.081,False,0.0006678021163679,0.0004268746706657,0.0004575991770252
+but as james l,0.015896274,0.0,0.0,0.0,False,0.0007099653012119,0.0181868746876716,0.0004498545604292
+"deutsch pointed out in the journal of american history, there were many historical films released in 2014 – from unbroken and the imitation game, to wild and american sniper",0.017006932,0.6019244194030762,0.0,0.0,False,0.0006598745821975,0.0006406957400031,0.000586581416428
+"and of those films, it was selma that “sparked the most acrimonious debates in op-eds and newspaper columns, radio and television talk shows, the blogosophere",0.012494888,0.6551595330238342,0.0,0.111,False,0.0006159891490824,0.0005270557594485,0.0107865817844867
+"” he goes on to say, “this is not surprising, given the contentiousness that surrounds issues of race in the twenty-first-century united states",0.087430015,0.7607650756835938,0.35,0.071,False,0.0006690468871966,0.0004475301539059,0.0009271199232898
+"” now, used correctly, historical analysis is a perfectly valid way to evaluate a film",0.013327881,0.0,0.0,0.0,False,0.0006521045579575,0.0003314568020869,0.000215113221202
+"as long as there have been movies and television depicting historical events, there have been audiences who take them as pure fact",0.018325835,0.0,0.0,0.0,False,0.0005880208336748,0.0004139426164329,0.0003510019741952
+so it’s important for films to get at least some of those real life events right,0.036851373,0.0,0.0,0.0,False,0.0006644026725552,0.0003961729817092,0.0003531938709784
+stray too far and you can really mess up history in people’s minds,0.15334547,0.9993532299995422,0.0374999999999999,0.189,False,0.0159354824572801,0.0130026461556553,0.0023579013068228
+"**cough cough**, braveheart and selma definitely does alter some history in favor of drama at times",0.08581903,0.0,0.0,0.0,False,0.0017897238722071,0.0005598525749519,0.0082333451136946
+"for one thing, the film changes the order of key events",0.02397547,0.9694867134094238,0.0,0.0,False,0.0006264544208534,0.0003973740676883,0.0005203342298045
+it opens with king accepting the nobel peace prize,0.043031808,0.0,0.0,0.0,False,0.0007206542650237,0.0015123564517125,0.0007996126078069
+"and we listen to his acceptance speech over a transition to a new scene, where children are descending a stairway only to be killed by a bomb",0.3552902,0.8987453579902649,0.0212121212121212,0.222,False,0.0434182323515415,0.0706052631139755,0.0797331184148788
+"now, both these events happened, but the film leads us to believe they happened close to the same time",0.025005542,0.0,0.0,0.0,False,0.0005760203930549,0.0003355536900926,0.0003859405405819
+"in real life, though, the bombing took place more than a year before king spoke in oslo",0.070516795,0.9802692532539368,0.0,0.0,False,0.0007029484258964,0.0021955214906483,0.0006686520064249
+other critics point to the scenes between president johnson and dr,0.03616466,0.0,0.125,0.18,False,0.0006040857988409,0.0013051342684775,0.0013868522364646
+"king, suggesting that the film doesn’t give johnson enough credit for supporting voting rights",0.046465382,0.9691341519355774,0.0,0.0,False,0.000702656339854,0.0010451223934069,0.0005213370313867
+"johnson: well, dr",0.00999591,0.0,0.0,0.0,False,0.000774213403929,0.001371590537019,0.0012525145430117
+"king, you've certainly given me something to think about",0.08170467,0.0,0.0,0.0,False,0.0006791619816794,0.0298824422061443,0.0009834174998104
+johnson:,0.010204159,0.0,0.0,0.0,False,0.0008627117495052,0.0010509513085708,0.0006553145940415
+"but, this administration is going to set this aside for a while",0.04783881,0.9872593879699707,0.0,0.0,False,0.0007076996262185,0.0004456402675714,0.0005486185546033
+"the film also suggests that the events of bloody sunday were broadcast live across the country, as alabama state troopers brutalized the peaceful marchers on their first attempt to cross the bridge out of selma",0.0789077,0.7214574813842773,0.0327272727272727,0.152,False,0.0007097244961187,0.0031729314941912,0.0404719822108745
+duvernay intercuts this violence with shots of horrified viewers in living rooms throughout the u,0.1785852,0.9053661227226257,0.0,0.392,False,0.0008524070726707,0.0995896011590957,0.0799485966563224
+s,0.04818217,0.0,0.0,0.0,False,0.0025115853641182,0.0012000821297988,0.0023576095700263
+"but, in reality, the national news didn’t broadcast the attack until five hours later",0.030327583,0.944052517414093,0.0,0.242,False,0.0006999025936238,0.0004768059880007,0.000659120036289
+"much of the nation did react, they just didn’t do it in real time",0.043031808,0.9995146989822388,0.0,0.0,False,0.0006776200025342,0.0003632057050708,0.0005163367604836
+so does selma take liberties with the facts of history? for sure,0.049898956,0.9931675791740417,0.0,0.0,False,0.000668735767249,0.0004187439917586,0.0008179772994481
+"after all, it’s a dramatic interpretation of that history",0.057331093,0.0,0.4333333333333333,0.0,False,0.0006923569017089,0.000341537524946,0.0003909235238097
+"if you think adapting a novel is tough, just try adapting reality into a movie",0.06132676,0.9976552724838257,0.3888888888888889,0.089,False,0.000755124958232,0.0004476411268115,0.0005527496687136
+"how things happen, when things happen, and where things happen in life are genuinely cluttered and difficult to fit into a linear narrative",0.043031808,0.9998123049736023,0.0,0.096,False,0.0006257890490815,0.0003521187172736,0.0004062809748575
+to condense all of that into a 2 hour experience that not only makes sense but is emotionally potent is more than a little challenging,0.03994159,0.0,0.0,0.0,False,0.0006666962872259,0.0003746057627722,0.0004408608656376
+which also brings up another point,0.018187003,0.0,0.0,0.0,False,0.0006603300571441,0.0003273988550063,0.0004166708094999
+"films, even most documentaries, aren’t intended to be a list of events as they happened, devoid of emotional impact",0.04131502,0.9996997117996216,0.0,0.0,False,0.0007237162208184,0.0004087285196874,0.0003194550517946
+"they are intended to move us, and move us from a perspective",0.044405237,0.0,0.0,0.0,False,0.000624404521659,0.0006544975913129,0.0010614424245432
+"usually, the director’s perspective",0.014577369,0.0,0.25,0.0,False,0.0006038040155544,0.0004770032828673,0.000328964786604
+"and when a film gets right as many events as selma does, a purely historical analysis doesn’t seem like the most useful form of film criticism to evaluate it",0.0495556,0.987562894821167,0.0,0.084,False,0.000642015133053,0.0003640779177658,0.001127510680817
+"there’s a school of thought that says the first few minutes of a well-constructed movie will teach us how to watch it, so we can start by delving into those first scenes",0.029640866,0.0,0.0,0.0,False,0.0006209902348928,0.0004831059195566,0.0003900565207004
+the film opens with king’s words spoken over a black screen,0.047495455,0.0,0.1666666666666666,0.0,False,0.0071038440801203,0.0167355667799711,0.0158961471170187
+it’s not the booming voice of his most famous speeches,0.03856816,0.9976587295532227,0.0,0.0,False,0.0008655313868075,0.0007602691766805,0.0017618864076212
+"it’s soft, low, and almost tentative",0.12309273,0.9723159074783325,0.0,0.296,False,0.0008188592619262,0.0008274993160739,0.0142045002430677
+king: i accept this honor for our lost ones,0.019852988,0.0,0.0,0.157,False,0.0008019270026125,0.008669713512063,0.0009944362100213
+whose deaths pave our path,0.16413476,0.9882670044898987,0.0,0.0,False,0.2156892120838165,0.0030262707732617,0.0068396497517824
+"the first shot is a close-up of king facing the camera in a dark room, practicing a speech, and doing a terrible job of tying an ascot",0.34388447,0.978019118309021,0.3,0.107,False,0.0009329332388006,0.0432596839964389,0.0073253368027508
+"then his wife, coretta scott king, played by carmen ejogo, enters the room",0.06652113,0.0,0.0,0.0,False,0.0013237257953733,0.0143328458070755,0.0496726594865322
+"she helps him tie the ascot, and we get an intimate view of their relationship",0.18450552,0.0,0.0,0.0,False,0.0005638435250148,0.0005455378559418,0.0370338149368763
+"the lighting is dark and the framing is relatively still, isolating these two as they struggle to balance their work, their public personas, and their marriage",0.05133759,0.0,0.0499999999999999,0.084,False,0.0008215901907533,0.0007234218064695,0.0013240833068266
+"in the next scene, king receives his nobel peace prize",0.049212243,0.0,0.0,0.0,False,0.000684289378114,0.0029848800040781,0.0018346641445532
+"duvernay now uses more traditionally heroic angles, keeping us slightly lower than king, and craning up, making him seem larger than life, the public figure of popular myth",0.1019289,0.0,0.0,0.057,False,0.0015147438971325,0.0004309391661081,0.0016657423693686
+"these scenes give us two different kings, one private – introspective and doubting –, and one public – confident and majestic",0.051737156,0.0,0.0,0.098,False,0.0008948488393798,0.0004454671870917,0.00077384931501
+"finally, the third scene gives us those kids walking down the church stairs",0.0789077,0.0,0.0518518518518518,0.0,False,0.002507829805836,0.0018416852690279,0.0012423244770616
+"when the bomb goes off, it rips through the wall, cutting them off mid-sentence",0.39694545,0.9998805522918701,0.6,0.281,False,0.2724484205245971,0.6418594121932983,0.7369668483734131
+the violence is unexpected and immediate,0.11665283,0.8033764362335205,0.0,0.451,False,0.0008426194544881,0.0009136478183791,0.0230168085545301
+it’s shocking,0.048868883,0.9821980595588684,1.0,0.73,False,0.0016362073365598,0.0005779427010565,0.0006514336564578
+"then, duvernay does something interesting",0.03358948,0.0,0.0,0.0,False,0.0007619119132868,0.0003960494941566,0.001894420129247
+"as the explosion blows apart both brick and flesh, she slows the images down until they’re almost abstract",0.09763293,0.0,0.1555555555555555,0.0,False,0.0473379120230674,0.0007426224765367,0.0013406338403001
+"it becomes difficult to tell people from objects as they whirl across the screen, crossfading into one another in slow motion",0.08170467,0.9999271631240845,0.4,0.111,False,0.0010215800721198,0.0015594661235809,0.0008500284748151
+"this extends the horror, but also suggests that the aftermath of this kind of racist violence will last much longer than the bomb itself",0.31661135,0.7014742493629456,0.0,0.351,False,0.0147584471851587,0.0401472114026546,0.188073381781578
+this third scene also underlines the main duality of the film – the collision of private and public spaces,0.020269485,0.0,0.0,0.122,False,0.0007136793574318,0.0003671223530545,0.0003621618670877
+this intimate childhood moment is invaded by a terrorist’s explosive,0.3123962,0.0,0.0,0.0,False,0.0058748661540448,0.0538034550845623,0.2487176060676574
+and these themes show up again and again throughout the rest of the film,0.048868883,0.0,0.0,0.0,False,0.0006977357552386,0.0003187492548022,0.0004582497640512
+"the framing of that first shot, with king squared off to the camera, is repeated often – from king and his aides to regular people joining the march",0.0801064,0.9314591288566589,0.0,0.0,False,0.0006184566300362,0.0027082683518528,0.0011751451529562
+"by presenting their characters boldly, unapologetically, facing off with us, duvernay and her cinematographer bradford young reinforce the idea that this movie is about people demanding their dignity in the face of both incredible violence and apathy",0.09602194,0.0,0.0,0.191,False,0.0011555628152564,0.0007844469510018,0.0023454565089195
+this film also keeps exploring the juxtaposition of private and public spaces,0.032902762,0.0,0.0,0.0,False,0.000729763356503,0.0004191820917185,0.000420821015723
+"in intimate moments, duvernay’s king lowers his guard and shares his fears",0.07690986,0.0,0.0,0.277,False,0.0011087486054748,0.0014265954960137,0.0090844063088297
+"these scenes are almost always shot at night, in houses, churches, and jail cells",0.1423886,0.0,0.1,0.0,False,0.001920663868077,0.0131960939615964,0.0029221407603472
+"in an early scene, king makes a late-night phone call to gospel singer mahalia jackson after an emotional low-point",0.04165838,0.857367217540741,0.0,0.0,False,0.0006758222007192,0.0044083739630877,0.0042284745723009
+"she sings “take my hand, precious lord”, as king gathers strength, alone, in his dark kitchen",0.10956893,0.0,0.0,0.083,False,0.0021038383711129,0.0026924964040517,0.0073055475950241
+"echoing that scene much later, king goes for a midnight drive with john lewis, one of his youngest supporters, and expresses grave doubts about their mission",0.029812546,0.9732850790023804,0.0,0.156,False,0.0007658690446987,0.000718870840501,0.0018739179940894
+"this time, instead of a song, lewis speaks about his own experience being inspired by king and urges him to continue on his path",0.042001735,0.0,0.0,0.0,False,0.0006004113820381,0.0008141967700794,0.0007288622437044
+"lewis: the next day, i found myself patched up, and sittin' in a church",0.03461955,0.0,0.0,0.0,False,0.0011352569563314,0.0580215565860271,0.004087503068149
+"lewis: barely hold my head up, but i needed to be there",0.03856816,0.0,0.0,0.0,False,0.0017664907500147,0.0637857168912887,0.008539056405425
+you were gonna be speaking,0.08796701,0.6255101561546326,0.0,0.0,False,0.0011272507254034,0.0017445848789066,0.0120953079313039
+this public-private juxtaposition is also embodied in david oyelowo’s performance,0.024833864,0.0,0.0,0.0,False,0.0008328924886882,0.0003858722920995,0.000510444981046
+king’s physicality and vocal cadence change depending on his audience,0.030842619,0.6162946820259094,0.0,0.0,False,0.0009377992246299,0.0020190447103232,0.0006311607430689
+"from restrained but firm with johnson, to soft and anguished with coretta, and righteous before the microphones",0.08501353,0.0,0.05,0.188,False,0.0007327874773181,0.0007825202774256,0.0242929272353649
+"this version of king is a close examination of what it means –, and what it costs – for people of color to code switch, or change their style of presentation to fit the moment",0.1689685,0.0,0.0,0.0,False,0.0006883918540552,0.0008647276554256,0.0030514942482113
+"that said, no space was totally private for king, either",0.03461955,0.9954621195793152,0.0,0.196,False,0.000935508403927,0.0015272996388375,0.0003042403550352
+"at key points throughout the movie, subtitles on the screen give us notes from the fbi surveillance logs with details about king’s movements, visitors, and phone calls",0.015132698,0.0,0.0,0.0,False,0.0005626624333672,0.0003890877705998,0.0003811430942732
+it’s a chilling reminder that even his most intimate moments are being monitored,0.062925026,0.0,0.0,0.084,False,0.0011269351234659,0.0004577621002681,0.0025009913370013
+"the examination of public and private space comes up in scenes without king, too",0.033074442,0.0,0.0,0.0,False,0.0006428536726161,0.0006825278978794,0.0005915031069889
+"oprah winfrey plays annie lee cooper, a character who tries to register to vote",0.06851897,0.0,0.1,0.0,False,0.0008853990002535,0.000568761548493,0.0018912040395662
+"she approaches the county clerk, who humiliates and threatens her, before finally denying her application –",0.15451296,0.7421455979347229,0.0,0.35,False,0.0578655265271663,0.0007341641467064,0.0381438583135604
+for the fifth time! the message is clear: public spaces in this part of the south were effectively off-limits to a big chunk of the population,0.022773718,0.0,0.0,0.0,False,0.00106741709169,0.0004076664044987,0.000462444673758
+"political figures like president johnson and the george wallace, the white supremacist governor of alabama, also privately struggle with their own doubts in interior scenes –, but always during the daytime",0.1884524,0.0,0.0,0.098,False,0.0007301035220734,0.052949458360672,0.0417436584830284
+"they have power, the movie tells us",0.056931525,0.0,0.0,0.0,False,0.0014470256865024,0.0007390061509795,0.0012996328296139
+the question for them is how they’re going to use it,0.022351967,0.0,0.0,0.0,False,0.0008575038518756,0.0008332151919603,0.0013612650800496
+"in the film’s climactic moments, these public and private spaces finally collide and are punctuated by destruction",0.092262976,0.7458003163337708,0.0,0.25,False,0.0011549751507118,0.000452826207038,0.0006977145094424
+"when an alabama state trooper shoots an unarmed black man, or thugs beat to death a white pastor from boston, duvernay again slows the action",0.44805592,0.9993625283241272,0.0222222222222222,0.14,False,0.3799844980239868,0.6096878051757812,0.6319383978843689
+she forces us to endure the violence and contemplate its aftermath,0.28021416,0.0,0.0,0.291,False,0.0014514640206471,0.0027635544538497,0.0106640653684735
+"both these acts of violence take place at night, which the film has already coded as private space",0.10515087,0.9936720132827759,0.0,0.194,False,0.0011197819840162,0.0007278312114067,0.0031211136374622
+"but then duvernay breaks this pattern to depict the bloody sunday violence, again in slow motion, when marchers were beaten on the edmund pettus bridge",0.15276173,0.0,0.55,0.375,False,0.0007411318365484,0.0182273276150226,0.1769962161779403
+"it takes place in broad daylight, under the watchful eye of television cameras",0.021657806,0.0,0.0,0.0,False,0.0006744720158167,0.0004587779694702,0.0007393777486868
+and this is where the film crosscuts between the public violence and the folks at home – in their private spaces – recoiling in horror,0.10461388,0.7711998820304871,0.0,0.253,False,0.0065256026573479,0.0025877552106976,0.0012852491345256
+"even though it breaks the historical chronology, intercutting these events completes the theme of the movie, thrusting the usually private pain and violence into the glaring light of public scrutiny",0.09279997,0.0,0.0,0.209,False,0.0006595008308067,0.0005255930591374,0.0006586792296729
+"once again, duvernay is using the tools of cinema here – shots, cuts, and sound – to reinforce her film’s message in subtle and sophisticated ways",0.104076885,0.0,0.0,0.074,False,0.0007956093759275,0.0027570165693759,0.0006453059613704
+"there are lots of other things to say about selma, on matters from race and class, to gender equity and social justice",0.13879937,0.0,0.0458333333333333,0.0,False,0.0005793231539428,0.0006755009526386,0.000573146098759
+but almost all of it can be read in terms of this tension between public and private spaces and the ways people inhabit them,0.05613239,0.0,0.0,0.13,False,0.0005856638308614,0.0003914162807632,0.0004299531283322
+duvernay brings martin luther king jr,0.040284947,0.0,0.0,0.0,False,0.0009342626435682,0.0029507800936698,0.0006931963725946
+"down to earth, revealing his human struggles",0.08050597,0.0,0.0777777777777777,0.294,False,0.0168399233371019,0.0021074574906378,0.0138935437425971
+"and then, in the last low-angle medium shot of his speech in montgomery, she returns king to his mythic status as one of the great american leaders of the 20th century",0.026207292,0.0,0.0,0.0,False,0.0007746639312244,0.0009017581469379,0.0017700915923342
+"while she hasn’t stuck directly to the historical record, she has made an enduring and resonant portrait of an american hero",0.019019997,0.0,0.0,0.081,False,0.0006179867777973,0.0006623700028285,0.000795931671746
+"next time, we’ll turn back the clock to tackle where are my children, a much older film that wrestles with some surprisingly modern themes",0.04268845,0.8522742986679077,0.0,0.0,False,0.0009650081046856,0.0004662759311031,0.0008616933482699
+"crash course film criticism is supported by curiosity stream, where you can stream documentary films and programs about science, nature, and history, including exclusive originals",0.013119632,0.7636808753013611,0.0,0.184,False,0.0005645299679599,0.001108544296585,0.0004428653919603
+"for example, check out the emmy winning series, ""stephen hawking's favorite places",0.011870144,0.0,0.0,0.0,False,0.0006539270980283,0.0004361296014394,0.0006746863364242
+""" where hawking takes you on a journey through the stars and around our planet to talk about his favorite places to go",0.031185975,0.0,0.0,0.0,False,0.0006966816144995,0.0005524567677639,0.0006062611937522
+everywhere from saturn to santa barbara,0.020269485,0.0,0.0,0.0,False,0.0009682069648988,0.0034936685115098,0.0079498430714011
+"plus, he shares his own stories about curiosity perseverance",0.04406188,0.0,0.0,0.0,False,0.0006960614700801,0.0003860803844872,0.0007527614943683
+it's really cool,0.035649624,0.0,0.0,0.0,False,0.0006269331788644,0.000327474088408,0.0009125907090492
+i mean,0.021796638,0.0,0.3125,0.0,False,0.0009314602357335,0.0005965581513009,0.0006192278233356
+"it's stephen hawking, so you know it's cool",0.04783881,0.0,0.0,0.0,False,0.000632768322248,0.0048323832452297,0.0056308046914637
+curiosity stream offer unlimited streaming,0.020269485,0.0,0.0,0.0,False,0.0006157585303299,0.000624434906058,0.0002786623081192
+"and for you crash course viewers, the first two months are free if you sign up at curiositystream",0.08581903,0.9880306124687195,0.0,0.123,False,0.000654261210002,0.0005609178915619,0.0007004793733358
+"com/crashcourse and use the promo code ""crashcourse",0.022945397,0.9989731311798096,0.0,0.0,False,0.0007317118579521,0.0008683329797349,0.0008813021122477
+"""",,0.0,0.0,0.0,False,0.0008155292016454,0.0008809809805825,0.0005122166476212
+"crash course, film criticism is produced in association with pbs digital studios",0.06612156,0.9985578656196594,0.0,0.359,False,0.0006588989635929,0.0052105588838458,0.0004726401821244
+"you can head over to their channel to check out a playlist of their latest shows, like pbs infinite series, pbs space time, and it's okay to be smart",0.05773066,0.985572874546051,0.0,0.0,False,0.0005637796130031,0.0008258581510744,0.0029823014046996
+this episode of crash course was filmed in the doctor cheryl c,0.02809576,0.8812713027000427,0.0,0.197,False,0.0008666033972986,0.0005354274762794,0.0008273641578853
+kinney crash course studio,0.025520578,0.0,0.0,0.474,False,0.0007232539355754,0.0006450267974287,0.0006329027819447
+with the help of these and our amazing graphics team is thought cafe,0.038053125,0.0,0.0,0.0,False,0.0005691577098332,0.000384563812986,0.0007062288932502

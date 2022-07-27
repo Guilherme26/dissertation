@@ -1,59 +1,59 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"the favourite, directed by yorgos lanthimos is an exquisite, funny, moving, dark comedy",0.03839648,0.0001095271906391,0.3166666666666666,0.0,False,0.0016535201575607061,0.0006524203345179558,0.004023356828838587
-"it is tragic and at times bizarre, but it is beautifully shot and directed, and at once you are transported to 18th century england",0.15130237,0.0,0.4166666666666667,0.123,False,0.0007700367132201791,0.000768370577134192,0.0013085472164675593
-"the story centers around two women who jockey for position at any means to be the queen's ""favourite",0.08689302,0.0944854266547517,0.5,0.0,False,0.0010436762822791934,0.024162815883755684,0.009042804129421711
-""" it is the early 1700's and england's queen anne is in power",0.028439116,0.0484315825513737,0.45,0.0,False,0.0011905449209734797,0.0035964499693363905,0.0012704652035608888
-",",,0.1713949430685113,0.5,0.0,False,0.0009831443894654512,0.0012314580380916595,0.0005104758311063051
-or is she? this delightful story highlights the dynamics and longtime friendship between queen anne and sarah churchill,0.029469188,0.0003249455672215,0.0,0.0,False,0.0006698495126329362,0.0005216432618908584,0.0009612664580345154
-"the name churchill will ring a bell, as her descendants include relatives that are famous like the late princess diana, and former prime minister, winston churchill",0.09548495,0.0041293390053417,0.4666666666666667,0.0,False,0.0007371218525804579,0.0026101004332304,0.0012787707382813096
-"olivia colman as the queen brings layers of emotion, despair, humor, and complexity to the role, not to mention the 35 pounds she gained to accurately look like the portly queen anne, who was plagued with poor health throughout her life",0.15684792,9.122795389021508e-05,0.5,0.111,False,0.0015008057234808803,0.0022556043695658445,0.011322093196213245
-"because of colman's brilliant performance, the queen comes across as sympathetic, funny, sometimes outlandish, unpredictable, and always compelling",0.14193995,0.0001628751283926,0.3216666666666666,0.0,False,0.0007063278462737799,0.0004370568203739822,0.0017112381756305695
-"even when the queen is lonely, and depressed, and ever so dependent on lady sarah, she still manages to carry herself regally",0.13251819,0.0022129559073035,0.55,0.225,False,0.006494586355984211,0.007189555559307337,0.01622062921524048
-"in other words,, you never forget she is still the queen",0.03616466,0.0169153197156811,0.5625,0.0,False,0.001801506383344531,0.005684872157871723,0.17353445291519165
-"sarah, who is married to the duke of marlborough,, the commander and generalcy, wields a lot of influence on queen anne",0.082104236,0.0022159660423388,0.375,0.0,False,0.0010827668011188507,0.003666003467515111,0.009533640928566456
-"she is cunning, and played by the captivating, and ever so talented, rachel weisz",0.055333257,0.0001269025245555,0.3,0.0,False,0.0007964525138959289,0.0006224028184078634,0.19678515195846558
-you get the feeling that sarah is the real power behind the throne,0.10461388,0.0030289409283947,0.55,0.0,False,0.0023533774074167013,0.0005031439359299839,0.0016942232614383101
-"sarah is not only determined to preserve her husband's position, but their personal interests",0.03616466,0.0049935159903141,0.5,0.095,False,0.001107243006117642,0.0010561434319242835,0.0020820810459554195
-she wants to double the landowner's taxes and pushes the queen for war against france,0.13565879,0.9711455906349872,0.45,0.218,False,0.019544675946235657,0.0013235845835879445,0.002017591381445527
-we are also treated to the two very bewigged political parties on opposing sides in parliament,0.024490505,0.0211737964943669,0.45,0.0,False,0.0006787814782001078,0.0005090322811156511,0.013669970445334911
-"because of the queen's many ailments, we often see sarah take care of affairs of the state or manipulate them",0.15217799,0.1602390845946892,0.25,0.0,False,0.001441308530047536,0.0006076695281080902,0.005097491201013327
-and the queen completely trusts her,0.04165838,0.0024593399304366,0.45,0.0,False,0.0008685183129273355,0.0016422441694885492,0.0006284275441430509
-and why not? these two women met as young girls and forged a friendship long before anne became queen,0.08689302,0.0065085080125622,0.4875,0.0,False,0.0009661401854828,0.004897254053503275,0.004132001660764217
-when the film begins we see sarah is already her most trusted adviser and confidant,0.023632111,0.0006109680022049,0.25,0.0,False,0.0008340683416463435,0.00039951156941242516,0.0010325758485123515
-we are given a glimpse of the queen's tragic history,0.062925026,0.0014783637454329,0.875,0.25,False,0.0005788890412077308,0.0004135564959142357,0.0009656450129114091
-she has had 17 pregnancies,0.11665283,0.9982612148690418,0.5,0.0,False,0.0024720386136323214,0.0008916805381886661,0.0021938299760222435
-the few who survived did not live past the age of eleven,0.043718524,0.7907387205173665,0.5863636363636364,0.0,False,0.0031678953673690557,0.000408889667596668,0.00046451337402686477
-queen anne has no heir,0.27045983,0.9909222076199214,0.5,0.355,False,0.002612204058095813,0.01392795518040657,0.06094764918088913
-instead she keeps 17 rabbits which roam freely around the queen's bedroom,0.1019289,0.9789792137360388,0.3,0.0,False,0.021692439913749695,0.006572398357093334,0.0016539798816666007
-the rabbits represent her 17 babies,0.13745339,0.0837163258279838,0.5,0.0,False,0.015376484952867031,0.008101371116936207,0.02459689974784851
-"the queen, despite her frailty, is intelligent and aware of duty to country and responsibility to her people",0.09279997,0.0021308179651534,0.2375,0.0,False,0.0011189869837835431,0.029016679152846336,0.0037131947465240955
-"but she lacks confidence and perhaps relies too much on her friend lady sarah, who is self-assured, unintimidated, strong, and able to maneuver politicians and people with finesse",0.12695669,0.9819903024774423,0.3111111111111111,0.0,False,0.0009296958451159298,0.005834280047565699,0.1984213888645172
-"the queen, however, does have the final word",0.027752401,0.9039949022022028,0.5,0.0,False,0.0006433317321352661,0.001558724557980895,0.005846813786774874
-"and although the queen indulges in whims such as duck races, lobster races inside the palace,, you also get the sense that she genuinely cares for her people",0.17759849,0.0039957903410548,0.4,0.0,False,0.002943039406090975,0.003687516786158085,0.001684082904830575
-"when abigail hill arrives on the scene, played by emma stone, things really get cooking",0.12244874,0.0043319121522191,0.4,0.0,False,0.0006184507510624826,0.0005978730623610318,0.0021620832849293947
-stone is really good in her role,0.029984225,0.0018954015627428,0.15,0.0,False,0.0006409528432413936,0.0011372804874554276,0.0020736814476549625
-i for one completely forgot she wasn't english,0.07211506,0.981128092511404,0.475,0.0,False,0.001036518719047308,0.016450606286525726,0.002666107378900051
-i didn't even realize she was speaking with a british accent until the end of the film,0.05852979,0.9971350071194164,0.5,0.0,False,0.0006444891332648695,0.001169324154034257,0.0009011977235786617
-she is simply flawless,0.3905958,0.0002974073021465,0.0,0.0,False,0.002022922271862626,0.0045306808315217495,0.09311633557081223
-"and you easily get absorbed in the story of abigail, lady sarah's second cousin, who comes to the palace to seek work",0.074912034,0.0021479548725324,0.3777777777777777,0.0,False,0.000609088980127126,0.0013242459390312433,0.0020810705609619617
-"abigail came from means, but her husband has burned their lavish home to the ground and has killed himself",0.40326482,0.2268094726386474,0.6,0.258,False,0.08894206583499908,0.2452353835105896,0.21992745995521545
-"therefore, abigail has no money, no title and comes to get help from her second cousin sarah, who takes pity on abigail and sends her to the kitchen to work as a scullery maid",0.32044756,0.9993040031338783,0.525,0.113,False,0.041009172797203064,0.00558577012270689,0.1570511907339096
-"it isn't long before abigail finds herself at the queen's bedroom chamber, applying healing herbs to the suffering queen's legs, and begins to work upstairs as lady of the bedchamber",0.20009461,0.0058736973566126,0.525,0.097,False,0.0010389070957899094,0.0042403326369822025,0.009065230377018452
-much more prestigious work,0.023288755,0.0034650826720175,0.25,0.0,False,0.0006827006582170725,0.0004046785761602223,0.0007716960972175002
-abigail gains the queen's confidence,0.061726328,0.019356062376197,0.5,0.0,False,0.0006709823501296341,0.0007218644022941589,0.001489916699938476
-"colman's performance as the queen is sublime, and it wasn't surprising she was nominated for best actress, as were both weisz and stone for best supporting actress",0.020963646,0.0001247566857185,0.1312499999999999,0.05,False,0.0007413045386783779,0.0012574860593304038,0.001112122554332018
-"the set design is incredible, as is sandy powell in creating authentic costume design for the period",0.027580723,0.0001091099441986,0.15,0.0,False,0.0005775228491984308,0.0003651782753877342,0.0005532601498998702
-"in all the film, ""the favourite,"" garnerd 10 academy award nominations, including one for robbie ryan for his cinematography, and deborah davis and tony mcnamara for best original screenplay",0.0076010567,0.0001289887567582,0.15625,0.0,False,0.0005861849058419466,0.0004045339301228523,0.00024010977358557284
-beware to the viewer: there are some scenes in the film that border on the absurd,0.18746567,0.9992364092105124,0.75,0.0,False,0.0011285319924354553,0.01694433204829693,0.09940020740032196
-"and you'll come away asking yourself questions like, 'did they really do that for entertainment?"" (laughs) the favourite is a really good film with only a few moments of slow pacing",0.094410956,0.0017095480768038,0.46,0.0,False,0.0009115670109167695,0.0006671049632132053,0.0006032023811712861
-i liked the movie very much,0.04165838,0.0034633242763039,0.285,0.0,False,0.000613147160038352,0.00038176693487912416,0.00024659678456373513
-but i couldn't help but wonder if the close friendship between the queen and lady sarah and the queen and abigail was as intimate as portrayed in the film,0.027065687,0.0108520434584818,0.4,0.086,False,0.0005861611571162939,0.0011208374053239822,0.0014310871483758092
-"or was this also embellishment and creative license from the writer or director? but from my research, i found there are letters from all three women in existence, and they point to very affectionate and intense letters with declarations of love and longing",0.02193547,0.000550139431839,0.325,0.022,False,0.0005983042647130787,0.001617869595065713,0.0020813210867345333
-"still, they do not reveal if the close relationship they shared was physically intimate",0.046465382,0.9637615803769236,0.4,0.0,False,0.0006374967633746564,0.0005920640542171896,0.004873497877269983
-"these ardent letters, however, do exist, and are kept in the british library in london",0.018464668,0.2176887634818285,0.5,0.0,False,0.0005974267842248082,0.0004050054703839123,0.0004104204708710313
-this film may not be everyone's cup of tea,0.1464265,0.9873574328519342,0.5,0.0,False,0.003233889117836952,0.0005954581429250538,0.0008227861253544688
-"i did, however,, enormously enjoyed it, and appreciated the film score, including the incessant plucking of the violin, over and over again at the beginning to build tension",0.09118898,0.0080034125990304,0.325,0.067,False,0.0009759843815118074,0.0004221429117023945,0.0003989652614109218
-"there are wonderful performances as well as the direction, and i love the look of the film! you come away with some questions, wanting to know even more about these very interesting people who actually existed in history",0.018881164,0.000118736415648,0.2225,0.0,False,0.0005498825921677053,0.0003406406904105097,0.0003077254514209926
-there are some very unforgettable and moving scenes,0.055732824,0.0002515101936881,0.0,0.0,False,0.0008344249217770994,0.00035939502413384616,0.00038306222995743155
-the movie is captivating,0.065721996,0.0006771313663461,0.25,0.0,False,0.0006809980841353536,0.0005235962453298271,0.00041125918505713344
-"i give the favourite, and a-",0.0717155,0.0019737246802938,0.5,0.0,False,0.0006698060897178948,0.0003894405090250075,0.00042036676313728094
+"the favourite, directed by yorgos lanthimos is an exquisite, funny, moving, dark comedy",0.03839648,0.0,0.0,0.0,False,0.0016535201575607,0.0006524203345179,0.0040233568288385
+"it is tragic and at times bizarre, but it is beautifully shot and directed, and at once you are transported to 18th century england",0.15130237,0.0,0.0,0.123,False,0.0007700367132201,0.0007683705771341,0.0013085472164675
+"the story centers around two women who jockey for position at any means to be the queen's ""favourite",0.08689302,0.0,0.0,0.0,False,0.0010436762822791,0.0241628158837556,0.0090428041294217
+""" it is the early 1700's and england's queen anne is in power",0.028439116,0.0,0.0,0.0,False,0.0011905449209734,0.0035964499693363,0.0012704652035608
+",",,0.0,0.0,0.0,False,0.0009831443894654,0.0012314580380916,0.0005104758311063
+or is she? this delightful story highlights the dynamics and longtime friendship between queen anne and sarah churchill,0.029469188,0.0,0.0,0.0,False,0.0006698495126329,0.0005216432618908,0.0009612664580345
+"the name churchill will ring a bell, as her descendants include relatives that are famous like the late princess diana, and former prime minister, winston churchill",0.09548495,0.0,0.0,0.0,False,0.0007371218525804,0.0026101004332304,0.0012787707382813
+"olivia colman as the queen brings layers of emotion, despair, humor, and complexity to the role, not to mention the 35 pounds she gained to accurately look like the portly queen anne, who was plagued with poor health throughout her life",0.15684792,0.0,0.0,0.111,False,0.0015008057234808,0.0022556043695658,0.0113220931962132
+"because of colman's brilliant performance, the queen comes across as sympathetic, funny, sometimes outlandish, unpredictable, and always compelling",0.14193995,0.0,0.0,0.0,False,0.0007063278462737,0.0004370568203739,0.0017112381756305
+"even when the queen is lonely, and depressed, and ever so dependent on lady sarah, she still manages to carry herself regally",0.13251819,0.0,0.0999999999999999,0.225,False,0.0064945863559842,0.0071895555593073,0.0162206292152404
+"in other words,, you never forget she is still the queen",0.03616466,0.0,0.125,0.0,False,0.0018015063833445,0.0056848721578717,0.1735344529151916
+"sarah, who is married to the duke of marlborough,, the commander and generalcy, wields a lot of influence on queen anne",0.082104236,0.0,0.0,0.0,False,0.0010827668011188,0.0036660034675151,0.0095336409285664
+"she is cunning, and played by the captivating, and ever so talented, rachel weisz",0.055333257,0.0,0.0,0.0,False,0.0007964525138959,0.0006224028184078,0.1967851519584655
+you get the feeling that sarah is the real power behind the throne,0.10461388,0.0,0.1,0.0,False,0.0023533774074167,0.0005031439359299,0.0016942232614383
+"sarah is not only determined to preserve her husband's position, but their personal interests",0.03616466,0.0,0.0,0.095,False,0.0011072430061176,0.0010561434319242,0.0020820810459554
+she wants to double the landowner's taxes and pushes the queen for war against france,0.13565879,0.942293107509613,0.0,0.218,False,0.0195446759462356,0.0013235845835879,0.0020175913814455
+we are also treated to the two very bewigged political parties on opposing sides in parliament,0.024490505,0.0,0.0,0.0,False,0.0006787814782001,0.0005090322811156,0.0136699704453349
+"because of the queen's many ailments, we often see sarah take care of affairs of the state or manipulate them",0.15217799,0.0,0.0,0.0,False,0.0014413085300475,0.000607669528108,0.0050974912010133
+and the queen completely trusts her,0.04165838,0.0,0.0,0.0,False,0.0008685183129273,0.0016422441694885,0.000628427544143
+and why not? these two women met as young girls and forged a friendship long before anne became queen,0.08689302,0.0,0.0,0.0,False,0.0009661401854828,0.0048972540535032,0.0041320016607642
+when the film begins we see sarah is already her most trusted adviser and confidant,0.023632111,0.0,0.0,0.0,False,0.0008340683416463,0.0003995115694124,0.0010325758485123
+we are given a glimpse of the queen's tragic history,0.062925026,0.0,0.75,0.25,False,0.0005788890412077,0.0004135564959142,0.0009656450129114
+she has had 17 pregnancies,0.11665283,0.9965225458145142,0.0,0.0,False,0.0024720386136323,0.0008916805381886,0.0021938299760222
+the few who survived did not live past the age of eleven,0.043718524,0.5814914107322693,0.1727272727272727,0.0,False,0.003167895367369,0.0004088896675966,0.0004645133740268
+queen anne has no heir,0.27045983,0.9818450212478638,0.0,0.355,False,0.0026122040580958,0.0139279551804065,0.0609476491808891
+instead she keeps 17 rabbits which roam freely around the queen's bedroom,0.1019289,0.9579598307609558,0.0,0.0,False,0.0216924399137496,0.0065723983570933,0.0016539798816666
+the rabbits represent her 17 babies,0.13745339,0.0,0.0,0.0,False,0.015376484952867,0.0081013711169362,0.0245968997478485
+"the queen, despite her frailty, is intelligent and aware of duty to country and responsibility to her people",0.09279997,0.0,0.0,0.0,False,0.0011189869837835,0.0290166791528463,0.003713194746524
+"but she lacks confidence and perhaps relies too much on her friend lady sarah, who is self-assured, unintimidated, strong, and able to maneuver politicians and people with finesse",0.12695669,0.9639818072319031,0.0,0.0,False,0.0009296958451159,0.0058342800475656,0.1984213888645172
+"the queen, however, does have the final word",0.027752401,0.8079962134361267,0.0,0.0,False,0.0006433317321352,0.0015587245579808,0.0058468137867748
+"and although the queen indulges in whims such as duck races, lobster races inside the palace,, you also get the sense that she genuinely cares for her people",0.17759849,0.0,0.0,0.0,False,0.0029430394060909,0.003687516786158,0.0016840829048305
+"when abigail hill arrives on the scene, played by emma stone, things really get cooking",0.12244874,0.0,0.0,0.0,False,0.0006184507510624,0.000597873062361,0.0021620832849293
+stone is really good in her role,0.029984225,0.0,0.0,0.0,False,0.0006409528432413,0.0011372804874554,0.0020736814476549
+i for one completely forgot she wasn't english,0.07211506,0.962257444858551,0.0,0.0,False,0.0010365187190473,0.0164506062865257,0.0026661073789
+i didn't even realize she was speaking with a british accent until the end of the film,0.05852979,0.9942702054977417,0.0,0.0,False,0.0006444891332648,0.0011693241540342,0.0009011977235786
+she is simply flawless,0.3905958,0.0,0.0,0.0,False,0.0020229222718626,0.0045306808315217,0.0931163355708122
+"and you easily get absorbed in the story of abigail, lady sarah's second cousin, who comes to the palace to seek work",0.074912034,0.0,0.0,0.0,False,0.0006090889801271,0.0013242459390312,0.0020810705609619
+"abigail came from means, but her husband has burned their lavish home to the ground and has killed himself",0.40326482,0.0,0.2,0.258,False,0.088942065834999,0.2452353835105896,0.2199274599552154
+"therefore, abigail has no money, no title and comes to get help from her second cousin sarah, who takes pity on abigail and sends her to the kitchen to work as a scullery maid",0.32044756,0.9986080527305603,0.05,0.113,False,0.041009172797203,0.0055857701227068,0.1570511907339096
+"it isn't long before abigail finds herself at the queen's bedroom chamber, applying healing herbs to the suffering queen's legs, and begins to work upstairs as lady of the bedchamber",0.20009461,0.0,0.05,0.097,False,0.0010389070957899,0.0042403326369822,0.0090652303770184
+much more prestigious work,0.023288755,0.0,0.0,0.0,False,0.000682700658217,0.0004046785761602,0.0007716960972175
+abigail gains the queen's confidence,0.061726328,0.0,0.0,0.0,False,0.0006709823501296,0.0007218644022941,0.0014899166999384
+"colman's performance as the queen is sublime, and it wasn't surprising she was nominated for best actress, as were both weisz and stone for best supporting actress",0.020963646,0.0,0.0,0.05,False,0.0007413045386783,0.0012574860593304,0.001112122554332
+"the set design is incredible, as is sandy powell in creating authentic costume design for the period",0.027580723,0.0,0.0,0.0,False,0.0005775228491984,0.0003651782753877,0.0005532601498998
+"in all the film, ""the favourite,"" garnerd 10 academy award nominations, including one for robbie ryan for his cinematography, and deborah davis and tony mcnamara for best original screenplay",0.0076010567,0.0,0.0,0.0,False,0.0005861849058419,0.0004045339301228,0.0002401097735855
+beware to the viewer: there are some scenes in the film that border on the absurd,0.18746567,0.9984728693962097,0.5,0.0,False,0.0011285319924354,0.0169443320482969,0.0994002074003219
+"and you'll come away asking yourself questions like, 'did they really do that for entertainment?"" (laughs) the favourite is a really good film with only a few moments of slow pacing",0.094410956,0.0,0.0,0.0,False,0.0009115670109167,0.0006671049632132,0.0006032023811712
+i liked the movie very much,0.04165838,0.0,0.0,0.0,False,0.0006131471600383,0.0003817669348791,0.0002465967845637
+but i couldn't help but wonder if the close friendship between the queen and lady sarah and the queen and abigail was as intimate as portrayed in the film,0.027065687,0.0,0.0,0.086,False,0.0005861611571162,0.0011208374053239,0.0014310871483758
+"or was this also embellishment and creative license from the writer or director? but from my research, i found there are letters from all three women in existence, and they point to very affectionate and intense letters with declarations of love and longing",0.02193547,0.0,0.0,0.022,False,0.000598304264713,0.0016178695950657,0.0020813210867345
+"still, they do not reveal if the close relationship they shared was physically intimate",0.046465382,0.9275255799293518,0.0,0.0,False,0.0006374967633746,0.0005920640542171,0.0048734978772699
+"these ardent letters, however, do exist, and are kept in the british library in london",0.018464668,0.0,0.0,0.0,False,0.0005974267842248,0.0004050054703839,0.000410420470871
+this film may not be everyone's cup of tea,0.1464265,0.9747157096862793,0.0,0.0,False,0.0032338891178369,0.000595458142925,0.0008227861253544
+"i did, however,, enormously enjoyed it, and appreciated the film score, including the incessant plucking of the violin, over and over again at the beginning to build tension",0.09118898,0.0,0.0,0.067,False,0.0009759843815118,0.0004221429117023,0.0003989652614109
+"there are wonderful performances as well as the direction, and i love the look of the film! you come away with some questions, wanting to know even more about these very interesting people who actually existed in history",0.018881164,0.0,0.0,0.0,False,0.0005498825921677,0.0003406406904105,0.0003077254514209
+there are some very unforgettable and moving scenes,0.055732824,0.0,0.0,0.0,False,0.000834424921777,0.0003593950241338,0.0003830622299574
+the movie is captivating,0.065721996,0.0,0.0,0.0,False,0.0006809980841353,0.0005235962453298,0.0004112591850571
+"i give the favourite, and a-",0.0717155,0.0,0.0,0.0,False,0.0006698060897178,0.000389440509025,0.0004203667631372

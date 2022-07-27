@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-you're a bagger . do your fucking job and bag shit !,0.96751314,0.0,0.0,0.296,0.998572826385498,0.9975132942199708,0.9977675676345824,True
+you're a bagger . do your fucking job and bag shit !,0.96751314,0.9074252247810364,0.425,0.296,0.998572826385498,0.9975132942199708,0.9977675676345824,True

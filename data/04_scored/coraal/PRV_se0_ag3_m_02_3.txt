@@ -1,16 +1,16 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"text, okay, that ought to be about it, hasn't it? uh, yeah, uhhuh, well it it",0.06372416,0.984843099649792,0.0,0.1,0.0013495306484401,0.0005704097566194,0.0006003709859214,False
-"it come up here on mostly late in the evening, and uh and i went, moved my stuff over east tarboro and the firemen",0.065721996,0.81971682421145,0.5333333333333333,0.0,0.000960070232395,0.0009142808266915,0.0013241021661087,False
-"they run different places around here, some of 'em helping getting these people out of they houses and things cause one lady she stay, she stay right down here and she was in the attic in her house",0.08367105,0.0,0.3044091710758377,0.0,0.0015317257493734,0.0014205612242221,0.0006840836140327,False
-"yeahhuh, but he got her out there and nobody didn't get drowneded in this area and the water was way up here everywhere",0.062925026,0.8594535113059946,0.3333333333333333,0.0,0.0083248233422636,0.0014700097963213,0.0007829088717699,False
-well that was late in the,0.017909339,0.0574383678697744,0.5333333333333333,0.0,0.0012472544331103,0.0003849689674098,0.0007097468478605,False
-"it was it c late in the evening, but i have seen the water come up here",0.028782474,0.9916470930629002,0.5333333333333333,0.0,0.0007351712556555,0.000660577439703,0.0004846991505473,False
-"cross the roads and all, but i ain't n had never seen it nothing like that before",0.05613239,0.0160387111093464,0.3333333333333333,0.143,0.0059813051484525,0.0008199426229111,0.0014446360291913,False
-"yeah, uhhuh years ago, but they run a dyke through here and they didn't",0.2712817,0.994498077726149,0.3333333333333333,0.0,0.0020020476076751,0.0093822451308369,0.0035875139292329,True
-"we didn't never have no much tr, no more water til this come up before the dyke",0.19936113,0.850813309753353,0.5,0.205,0.0035349018871784,0.0035119119565933,0.0007341064047068,True
-"well, it was easy, come out here in princeville, then, uh, but i don't know how many years, but it used to come up here and go across the roads there, just a couple of days and go on back down something like that",0.06771983,0.9964501073046288,0.2037037037037037,0.0,0.0006841384456492,0.000552485755179,0.0005468414747156,False
-"well, it it you, i could drive through it",0.15001574,0.7922080506102886,0.3333333333333333,0.0,0.0022271971683949,0.0013345355400815,0.0338598489761352,False
-"i'm i drove through it every day all but one day up til this time come, but then open the loose",0.20742953,0.9739882880618914,0.358974358974359,0.129,0.0111518716439604,0.0012422398431226,0.011443885974586,False
-"they turn loose the pipes up over in r in uh raleigh, uh, rock 'em out one and it come when it come through here that day",0.119872786,0.9812695400057752,0.3846153846153846,0.081,0.0071056098677217,0.0023847690317779,0.0027892205398529,False
-"i couldn't go town that day, but that was something like two days",0.02124131,0.9775529613800578,0.3333333333333333,0.0,0.0007470124983228,0.0005583455204032,0.0004669366462621,False
-"think before i could go going back through it, but this time",0.037194733,0.7971699415869189,0.3333333333333333,0.0,0.000921789673157,0.000619760074187,0.0006374262738972,False
+"text, okay, that ought to be about it, hasn't it? uh, yeah, uhhuh, well it it",0.06372416,0.9698057174682617,0.0,0.1,0.0013495306484401,0.0005704097566194,0.0006003709859214,False
+"it come up here on mostly late in the evening, and uh and i went, moved my stuff over east tarboro and the firemen",0.065721996,0.6408552527427673,0.3,0.0,0.000960070232395,0.0009142808266915,0.0013241021661087,False
+"they run different places around here, some of 'em helping getting these people out of they houses and things cause one lady she stay, she stay right down here and she was in the attic in her house",0.08367105,0.0,0.0,0.0,0.0015317257493734,0.0014205612242221,0.0006840836140327,False
+"yeahhuh, but he got her out there and nobody didn't get drowneded in this area and the water was way up here everywhere",0.062925026,0.720015287399292,0.0,0.0,0.0083248233422636,0.0014700097963213,0.0007829088717699,False
+well that was late in the,0.017909339,0.0,0.3,0.0,0.0012472544331103,0.0003849689674098,0.0007097468478605,False
+"it was it c late in the evening, but i have seen the water come up here",0.028782474,0.9833600521087646,0.3,0.0,0.0007351712556555,0.000660577439703,0.0004846991505473,False
+"cross the roads and all, but i ain't n had never seen it nothing like that before",0.05613239,0.0,0.0,0.143,0.0059813051484525,0.0008199426229111,0.0014446360291913,False
+"yeah, uhhuh years ago, but they run a dyke through here and they didn't",0.2712817,0.9890395402908325,0.0,0.0,0.0020020476076751,0.0093822451308369,0.0035875139292329,True
+"we didn't never have no much tr, no more water til this come up before the dyke",0.19936113,0.7028030157089233,0.25,0.205,0.0035349018871784,0.0035119119565933,0.0007341064047068,True
+"well, it was easy, come out here in princeville, then, uh, but i don't know how many years, but it used to come up here and go across the roads there, just a couple of days and go on back down something like that",0.06771983,0.9929282069206238,0.0,0.0,0.0006841384456492,0.000552485755179,0.0005468414747156,False
+"well, it it you, i could drive through it",0.15001574,0.5860546231269836,0.0,0.0,0.0022271971683949,0.0013345355400815,0.0338598489761352,False
+"i'm i drove through it every day all but one day up til this time come, but then open the loose",0.20742953,0.948181688785553,0.0384615384615384,0.129,0.0111518716439604,0.0012422398431226,0.011443885974586,False
+"they turn loose the pipes up over in r in uh raleigh, uh, rock 'em out one and it come when it come through here that day",0.119872786,0.9626867771148682,0.0769230769230769,0.081,0.0071056098677217,0.0023847690317779,0.0027892205398529,False
+"i couldn't go town that day, but that was something like two days",0.02124131,0.9552829265594482,0.0,0.0,0.0007470124983228,0.0005583455204032,0.0004669366462621,False
+"think before i could go going back through it, but this time",0.037194733,0.5959392786026001,0.0,0.0,0.000921789673157,0.000619760074187,0.0006374262738972,False

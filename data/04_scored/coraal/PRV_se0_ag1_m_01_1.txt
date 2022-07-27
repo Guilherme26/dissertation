@@ -1,371 +1,371 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"text, okay, yes, i stayed on uh church street with my grandmother mary",0.03187269,0.9991979170703064,0.25,0.0,0.0035409601405262,0.0015591342234984,0.0007001283811405,False
-"no, after the flood in ninety nine, uh, grandma didn't wanna go back to princeville said she needed a change",0.03994159,0.9955351442223144,0.5,0.0,0.0008716766606085,0.0014552590437233,0.0009413720108568,False
-"she felt that by her being that old that she didn't want to start over again in the same place where she was raised, so we moved to rocky mount, which is about fifteen miles away",0.04406188,0.2102031065101985,0.475,0.034,0.0008938644896261,0.0007516465266235,0.0005369400023482,False
-the neighborhood over there around the corner from my uncle's house,0.04680874,0.1753954675116024,0.5,0.0,0.0007564873085357,0.001234715571627,0.0004768389626406,False
-"mmhm, yes, mmhm, most of 'em yes, princeville was basically like your last name didn't matter because everybody was family",0.0765103,0.9611552390689412,0.375,0.043,0.0049663223326206,0.0008426804561167,0.0005278208991512,False
-like,0.022351967,0.0032249045423247,0.5,0.0,0.001461298437789,0.0012561561306938,0.0005801010993309,False
-"if you did something in the streets and somebody else's family saw it, it's like they had permission to punish you and then you would get punished again when you got home, so it's basically like everybody knew each other if if we ate anything, they ate, so it's like basically we did everything together and nothing was separated and it's a whole lot different now because you don't see those people anymore",0.0753116,0.8170637487369183,0.4875,0.078,0.0055059492588043,0.0014033226761966,0.0006986170774325,False
-everybody moved away,0.06012806,0.9867667196241904,0.5,0.0,0.0017468035221099,0.0049847429618239,0.0008735416340641,False
-"it's a lot of people came back, but it's twice as many that didn't come back and didn't wanna come back",0.039598234,0.9979870278906312,0.4375,0.0,0.0009951427346095,0.0007148181321099,0.0005605876212939,False
-"um, most people just came across the bridge to tarboro",0.03049926,0.9943627957995642,0.25,0.0,0.0006710594170726,0.0005152649246156,0.0005151404766365,False
-"a lot of 'em moved to rocky mount and greenville, raleigh, greensboro, just moved anywhere but there because they didn't",0.04406188,0.1899722792699611,0.5,0.0,0.0008637782302685,0.0005069900653325,0.0003975148429162,False
-"i mean after the flood and everything it, it still doesn't feel the same",0.035134587,0.999816864338324,0.578125,0.0,0.0006719476659782,0.0004066172987222,0.0011218206491321,False
-my mother moved back,0.030670939,0.0405169469043694,0.5,0.0,0.008202051743865,0.0152248824015259,0.0012802320998162,False
-it doesn't feel the same cause you don't see those same people anymore,0.0334178,0.9996920912459126,0.5,0.0,0.0011417341884225,0.0010542123345658,0.001869392581284,False
-it's a whole bunch of new people,0.089577995,0.0005879179347161,0.4159090909090909,0.0,0.0009102152544073,0.0004469691193662,0.0015873822849243,False
-mary,0.010967735,0.0893964630733049,0.5,0.0,0.0322407037019729,0.000819110951852,0.0008334260201081,False
-"mmhm, she",0.033246122,0.9966442714962338,0.5,0.0,0.0360618904232978,0.001220473786816,0.0011441147653385,False
-"yeah, she did",0.02792408,0.0036865888300361,0.5,0.0,0.0017294669523835,0.0004121581732761,0.0007158973021432,False
-"she was really pressed that and was just like, can we just please move somewhere else and the land that she has my grandfather willed to her, and so she wasn't gonna give her land up that easily",0.08850401,0.9225839893409322,0.3416666666666667,0.0,0.0007025586091913,0.0006629153504036,0.0007709189085289,False
-she didn't care what kind of land they called it or what people thought of princeville,0.08170467,0.9999676293410514,0.2,0.149,0.0338631868362426,0.001174729433842,0.0011751384008675,False
-that was her home and that she wanted to go back,0.027752401,0.0102960752811567,0.5,0.0,0.0039567509666085,0.0032270518131554,0.0006543713388964,False
-so she did,0.031529333,0.9352754933842838,0.5,0.0,0.0024740360677242,0.0004206583835184,0.0006384818116202,False
-mary,0.010967735,0.0893964630733049,0.5,0.0,0.0322407037019729,0.000819110951852,0.0008334260201081,False
-"mmhm, i know a lot about my grandfather, but i do not know a lot about his family there",0.045778666,0.9998429754775864,0.5,0.0,0.0006527406512759,0.0004421242629177,0.0005486063309945,False
-"they are a lot of mary, and i'm not sure if we are related",0.047495455,0.0032967995970061,0.5625,0.131,0.0042855171486735,0.0004246412718202,0.000542145979125,False
-"i know some of his family, but so yeah, this may not be the same, mary",0.017284594,0.1019942531647833,0.5,0.0,0.0008171958033926,0.0004014261066913,0.0004271248471923,False
-it was like she was almost hysterical,0.27045983,0.8932529829592029,1.0,0.0,0.1848269551992416,0.0331834554672241,0.009773856960237,False
-"anytime we said anything about not going back, it was like getting your head chopped off",0.27690583,0.999978181102808,0.5,0.0,0.6430762410163879,0.7863476872444153,0.5695504546165466,False
-"she was like you don't wanna do what, but she was",0.08555053,0.0240404007284888,0.5,0.0,0.0133149521425366,0.0144396871328353,0.017718605697155,False
-she was pressed on getting back and she did all she could,0.05773066,0.0043021082658447,0.5,0.0,0.0012933987891301,0.0007683416479267,0.0009118315065279,False
-"i mean, we didn't have our hand in the cookie jar or anything about that house and neither did my father, because she just hustled",0.15976663,0.9961267880616056,0.65625,0.099,0.0009508078801445,0.0052044629119336,0.0222909245640039,False
-basically did,0.015549194,0.9947823028474854,0.5,0.0,0.0023048336151987,0.0016136665362864,0.0007192128105089,False
-"she did everything as far as the furnishings, and um, picking out what house she wanted and we had nothing to do with that",0.028610796,0.005387210907064,0.45,0.0,0.0008866724674589,0.0004054655437357,0.0006396298413164,False
-she didn't want us to have anything to do with it,0.04783881,0.9975855244136173,0.5,0.109,0.0012742929393425,0.000525573559571,0.0006063259206712,False
-"it's like this is, i want my house, my new house to be as close as possible to my last house, so i will feel comfortable in it, and she did to a t",0.04543531,2.7184199780022592e-05,0.4329545454545455,0.0,0.0078004207462072,0.0015356154181063,0.0020746279042214,False
-if it took her ordering something from timbuktu to get it to look like the last house,0.07251463,0.9477370047900228,0.5,0.0,0.0023345884401351,0.0006462318706326,0.0006591040291823,False
-she did it,0.03856816,0.0161103344670019,0.5,0.0,0.0027066655457019,0.0003939740709029,0.0008188214851543,False
-"just one more aunt, just one more aunt",0.2298686,0.00749052875057,0.25,0.0,0.002237802837044,0.0003912552783731,0.0032141341362148,False
-"that's there and i have a few cousins that went back, but as far as the maternal family, it's just my mother and my aunt, mmhm, which is totally different now",0.043031808,0.8605439224534932,0.5125,0.0,0.0006640155916102,0.0005525992601178,0.0004572254838421,False
-"but yeah, it was",0.021518974,0.0430851086026665,0.5,0.0,0.000862895452883,0.0004234267398715,0.0007024816004559,False
-you didn't see too many white kids,0.27045983,0.9813162875682958,0.375,0.0,0.0804292634129524,0.1363288164138794,0.0523866638541221,False
-"i didn't meet my first white person until i was in the third grade because from kindergarten to second, i went to princeville",0.16620636,0.0684997421674034,0.46875,0.0,0.003873097943142,0.0324720665812492,0.0164640601724386,False
-"it was like you saw white teachers, but no white students, and i, the first white student was third grade when i went to this school called mary mary elementary, and that's when, um, the kids from princeville and the kids from stocks elementary school",0.26132804,0.999727174363392,0.4392857142857143,0.059,0.0125826383009552,0.1123445406556129,0.0387683287262916,False
-"that school only had the third grade, so it's just basically taking these two schools and mixing them together",0.03770977,0.992889096214779,0.5,0.0,0.0007126388372853,0.0006353689823299,0.0008426142157986,False
-"and it's just like two schools meeting each other for the first time, so one was mostly white",0.18746567,0.8109686159605829,0.4791666666666667,0.0,0.0015540341846644,0.0529055632650852,0.0543383248150348,False
-"that stocks had a few blacks because of east tarboro and east tarboro students went there and then all the princeville students uh, went to princeville, i mean, i see, you would see them, but i just like i never had 'em in my class",0.38959074,0.012778779632119,0.628125,0.0,0.0149696040898561,0.081078864634037,0.0397081561386585,False
-it was like a classroom with two teachers,0.03461955,0.9782416114984396,0.5,0.0,0.0017071546753868,0.001636826666072,0.0006381490384228,False
-the teachers,0.018325835,0.0024669363228004,0.5,0.0,0.0016739849233999,0.0017630325164645,0.0005112681537866,False
-most of 'em was like they had a black and a white teacher,0.28517663,0.9006856558635306,0.4444444444444444,0.0,0.2401842474937439,0.31502765417099,0.164197489619255,False
-and then it's like thirty black students,0.42390585,0.9200972610130288,0.5833333333333334,0.0,0.3802664875984192,0.3871163427829742,0.1952360123395919,False
-so that's all i was used to seeing was black kids,0.4151741,0.9939976571512033,0.5833333333333334,0.0,0.3696084022521972,0.5088015198707581,0.2880762219429016,False
-so when i saw this white kid i'm like,0.263611,0.2310361591587205,0.5,0.0,0.0474017411470413,0.1302105486392974,0.063430443406105,False
-"well, what is he? it was strange and then i remember seeing movies about the segregation and all that stuff was just running through my head",0.087430015,0.9979541505086604,0.525,0.065,0.0007771090022288,0.0199792515486478,0.0018838322721421,False
-but it it was nothing like that,0.02809576,0.9994554814017748,0.5,0.308,0.0011838513892143,0.0003961520269513,0.0007457073079422,False
-ac,,0.0277316692946713,0.5,0.0,0.0009601054480299,0.0007963117677718,0.003003861522302,False
-my best friend for the longest time was a white kid,0.2712817,0.0026556757449573,0.25,0.0,0.0041184336878359,0.0908981785178184,0.0155942579731345,False
-"mmhm, mmhm, it was mission san josé high school and that was fourth and fifth, fourth and fifth grade before we went to middle school mission san josé high school, mmhm, mmhm, no, actually, that's the only",0.045778666,0.9943456566385188,0.4771428571428571,0.0,0.0016638862434774,0.000408838794101,0.0003927246143575,False
-"that's the only time that we were ever in school together because when she got there when she was a freshman, i was a senior",0.090114996,0.0088310197949858,0.5,0.0,0.0011269908864051,0.0006249675061553,0.0017635670956224,False
-i went to college at um,0.035306264,0.2206651186775125,0.5,0.0,0.0009222298394888,0.0005128678749315,0.0003582791250664,False
-"north carolina, a and t in greensboro",0.029984225,0.0418193144931726,0.5,0.0,0.0006841224385425,0.0006521908799186,0.0002593376848381,False
-"i got homesick, missed my grandmother and my mother, so i came back home and did the lazy thing for awhile, and then i went to ecu and i got bored with that",0.15130237,0.9999598794595352,0.625,0.227,0.0026179461274296,0.0032223081216216,0.0021285777911543,False
-"it takes a lot to please me, and that school didn't please me, so now i have applied to the art institute in charlotte, and just waiting to hear from them so i can go on and finish and leave north carolina",0.078108564,0.991271248833792,0.5,0.071,0.0009438301203772,0.0004373873525764,0.0004518388013821,False
-"yes, fashion design, mmhm, i've been drawing basically all my life, but when i went off to a and t is when i started majoring in it, they had a good program in it, but i thought at that point two and a half hours was too far away from home",0.040971663,0.9955245030388478,0.3944444444444444,0.0,0.0007456362945958,0.0003902344615198,0.0005043445853516,False
-"i had the chance to go to the north carolina school of science and math, and i think that would have",0.02809576,0.7566538694264193,0.5,0.0,0.0006294906488619,0.0003876606933772,0.0003519916790537,False
-if i had gone,0.025692256,0.8238369663386877,0.5,0.0,0.003765566041693,0.0039504431188106,0.0008512953645549,False
-"that would have prepared me, um for being on my own, but i wasn't used to being on my own, and that kind of freaked me out, so i wasn't ready when i left, and i was home every single weekend for two and a half years",0.15918289,0.0044733210328803,0.3741496598639456,0.122,0.0008631836972199,0.0005382854142226,0.0005361762014217,False
-"mmhm, yeah, that's nothing there, but i guess it's just like the same way anybody else feels about home, no matter what's there or what goes on there",0.03358948,0.8038223607927533,0.5,0.036,0.0008517266833223,0.0004515692417044,0.0004662783758249,False
-"when you can't run away from it, it's still gonna be your home",0.1835188,0.00062392507653,0.5,0.0,0.0136996479704976,0.010776238515973,0.0010426337830722,False
-"and it was only princeville to me now is is not the same princeville, because you see all these people that you don't know doing things that you really don't approve of, and you're like, i can't believe this is the place that i grew up in, and the the street that i grew up on was basically like middle class",0.13745339,0.9993888622279716,0.475,0.0,0.0045300419442355,0.0013894266448915,0.0174204166978597,False
-"and now, if you go down that street, a lot of those people are gone and you see a lot of drug addicts and prostitutes, and just a whole bunch of carrying on that you didn't see before the flood",0.39284727,0.0908099818473929,0.4888888888888889,0.0,0.3191442489624023,0.2101673185825348,0.3471809923648834,False
-especially on that street,0.029812546,0.0223852048800407,0.5,0.0,0.0010900165652856,0.0006189307314343,0.0006376857636496,False
-you just didn't see that that type of carrying on on that street,0.03204437,0.999901189010668,0.5,0.0,0.0009086230420507,0.0004705850442405,0.0009603428188711,False
-"i think that with with the flood, it really messed a lot of people up, not giving them an excuse to be on drugs, because it was probably there and i just didn't see it",0.1256687,0.9999282241742652,0.4625,0.124,0.0014926339499652,0.0015184568474069,0.0010173174086958,False
-but now it's just like th,0.02637897,0.8960383797978473,0.5,0.0,0.0018044034950435,0.0013775561237707,0.0007180711836554,False
-"everybody's open with it just going through princeville, now you gonna nine times out of ten? you gonna see more drug addicts than you do, just regular people, i mean, cause they just roam the street a lot of people",0.23101798,0.7639436166312458,0.48125,0.0,0.019037403166294,0.0165178403258323,0.0226506888866424,False
-it,0.017770508,0.1408454822661846,0.5,0.0,0.0016468944959342,0.0009156857267953,0.0006150004337541,False
-it really messed a lot of people up,0.15743166,0.998887683351764,0.4,0.278,0.005987165030092,0.008251192048192,0.0059666601009666,False
-it really did and it's just like people know,0.024147147,0.0116764782153811,0.4,0.0,0.0006398030673153,0.000396265881136,0.000570940086618,False
-it's just so many drugs going through that area,0.14193995,0.9957991469168884,0.25,0.0,0.0125664277002215,0.0064103780314326,0.0098638124763965,False
-it's people coming from,0.02655065,0.2390691498081904,0.5,0.0,0.0010393868433311,0.0007645094301551,0.004370086826384,False
-seems like they're migrating from north just to come here,0.10461388,0.8663434568644576,0.5,0.0,0.0009934759000316,0.0011716919252648,0.0008519802941009,False
-"you see all these new people and it's like you get to talk to 'em and like where are you from? i'm from new york or new jersey, and i'm just tryna figure out well, why are they here? why did they come here? it's strange, mmhm, mmhm, mmhm, the cost of living is lower, but still a lot of outside people",0.11343288,0.7866731845157368,0.4640909090909091,0.046,0.0011915762443095,0.0006016601691953,0.0006698095821775,False
-"if you, if you would go through princeville right now and just pick a random person just walking in the street and like did you grow up here? you're gonna get the answer, no cause it's not that many people left tarboro, greenville, greensboro, raleigh, rocky mount, i'm gonna be brutally honest",0.11600884,0.9806936740101762,0.4114285714285714,0.103,0.0099150547757744,0.1392081379890442,0.0020932226907461,False
-"we have the dumbest bunch of people running princeville, we always get the wrong people in there",0.78018236,0.9998792508845298,0.75,0.299,0.7921942472457886,0.9915589094161988,0.9907692074775696,False
-they get in there and do all this talking about,0.058929358,0.0487515537022078,0.5,0.0,0.0013695360394194,0.0009095970308408,0.0027150008827447,False
-i'm gonna do this,0.078108564,0.0152107818736232,0.5,0.0,0.0051667406223714,0.002228639787063,0.0007129475707188,False
-"i'm gonna do that and they never do it, and we can find the most uneducated people to try to run this town",0.24418297,0.9998963602383386,0.25,0.0,0.0179564617574214,0.0217223688960075,0.0837541818618774,False
-"it's it's sad, and anytime they have a town meeting it's these are supposed to be grown, educated, civilized people, and they're in the town meeting fighting and they have it on the front page of the newspaper",0.046465382,0.7994353615170691,0.525,0.135,0.0012406222522258,0.0005476008518598,0.0003571074630599,False
-i'm not used to that kind of stuff,0.038053125,0.999712002479962,0.2,0.0,0.0010730226058512,0.000577806145884,0.000841427128762,False
-"no, we've had dumb mayors, but it hasn't",0.73034537,0.1990468539952129,0.6875,0.235,0.0825885832309722,0.8944253921508789,0.9833767414093018,False
-it hasn't been like that before we've had the dumbest bunch of mayors,0.7569718,0.9739863602085316,0.5,0.33,0.7116667628288269,0.9835101366043092,0.9887487888336182,False
-i think we need to be in the guinness book of world records,0.021518974,0.0180668516702485,0.5,0.0,0.0006834629457443,0.0004671187198255,0.0003065632481593,False
-"probably part of the reason, uh, misusage of funds",0.035477944,0.9996812116045534,0.5,0.0,0.000774880987592,0.0005291295819915,0.0006070822710171,False
-"i mean, any kind of money that came through was always a big scandal about that and it's basically, i just don't think that it's there's one woman that's on the town council that really pushes and drives for princeville to be good, but they don't give her her credit, and that's ann howell brown, mary",0.0765103,0.9994894616514998,0.38125,0.032,0.0007425305084325,0.0017431188607588,0.0027443473227322,False
-i know some call her mary,0.028267438,0.0754398802941378,0.5,0.0,0.0096656782552599,0.0004914955352433,0.0005587131599895,False
-"um, she, she's a gogetter, and she gets a lot of stuff going for princeville",0.22990796,0.001239116632736,0.5,0.0,0.7011441588401794,0.1314647495746612,0.3861131966114044,False
-"she'll get the ball rolling, but they won't continue to push it",0.17242117,0.9807823803463004,0.5,0.0,0.001009568106383,0.0050604403950273,0.0158328432589769,False
-"it's like they'll work on it a little while, and then they just leave her ideas alone, and she's like the most civilized and most educated person that they have in there, and i really think she should be mayor, but i don't know why they don't see that you know she's a good person",0.05253629,0.9948558671074164,0.3239583333333333,0.043,0.0006711226888,0.0009203776717185,0.0006512986146844,False
-"yes, i don't think so they",0.016937515,0.1463592845070926,0.5,0.0,0.0008126964676193,0.0093492986634373,0.0006031972588971,False
-"they're the ones that complain about everything, but when you go through the polls, the polls are like bare",0.15626417,0.9976250786165866,0.475,0.08,0.0355207361280918,0.0018896133406087,0.0231117270886898,False
-"it's like okay, you were complaining",0.09816993,0.9995165266223334,0.25,0.196,0.0164709631353616,0.0017730513354763,0.0024552261456847,False
-"but where are you now? so no, they don't",0.027752401,0.9762085791188384,0.5,0.0,0.0026379004120826,0.0011858642101287,0.0007872974965721,False
-i don't think they do,0.018742332,0.9915188575482357,0.5,0.0,0.0010544368997216,0.0007265321328304,0.0005702901398763,False
-"people say it just to say it, but they don't do it because they r, fail to realize that when the voting goes on and they have it on the news, they let you know the percentage of people that showed up and the percentage is usually low, and you know like if if princeville has seventeen hundred people, why did only six hundred people and sometimes not even that many? why did only six hundred people show up to vote? it can't be six hundred grown people and eleven hundred children",0.03599298,0.9982188387696764,0.5,0.078,0.0010637869127094,0.0004606058937497,0.0009547284571453,False
-that doesn't make sense,0.0825038,0.9999661985936946,0.5,0.0,0.0009068274521268,0.000382781116059,0.000893980381079,False
-everybody was together,0.03736641,0.000154669750722,0.5,0.0,0.0008688461384736,0.000357744313078,0.0007179599488154,False
-everybody was together,0.03736641,0.000154669750722,0.5,0.0,0.0008688461384736,0.000357744313078,0.0007179599488154,False
-"we had a stubborn grandmother, very stubborn, but she made sure that all of us stayed together",0.31540272,0.0006390373454867,0.325,0.185,0.0066595622338354,0.0777494087815284,0.0023695898707956,False
-"um, she never, even though i was her favorite unintelligible",0.15042676,0.9999578525674464,0.25,0.0,0.0015177188906818,0.0034179952926933,0.0072556301020085,False
-it was,0.020130653,0.7725977602842418,0.5,0.0,0.0022854036651551,0.0005957576213404,0.0006663513486273,False
-it was a,0.02124131,0.8970866108873913,0.5,0.0,0.0033987129572778,0.000596669036895,0.0026197209954261,False
-it was a bunch of us and she just took care of everybody,0.044748597,0.0046330878210611,0.5,0.0,0.000879569677636,0.0006524740601889,0.0003510695823933,False
-she didn't do for one unless she did for the other forty eight of us,0.035134587,0.9992498114692284,0.5625,0.0,0.0015057392884045,0.000398689036956,0.0003436294209677,False
-"cause think it was fifteen grands, fifteen great grands, and then seven, she had seven kids, and then they all had spouses, so we all met up every sunday at her house",0.053335425,0.003319512711296,0.0999999999999999,0.0,0.00083975068992,0.0004603993729688,0.0006790487095713,False
-she had a fairly large house,0.029125832,0.0368989743329885,0.3928571428571428,0.0,0.0012204789090901,0.0004700580029748,0.0002617714344523,False
-"it wasn't big enough, but it it was large enough every sunday, and we still do it now, but we just do it at my aunt sabrina's house",0.044748597,0.0823861885188486,0.4732142857142857,0.0,0.0007317453273572,0.0004075232136528,0.0002661117759998,False
-"um, cause the house that we moved into after the flood was smaller, not that much smaller, but it just couldn't house all of us, and during the flood, thank god for my aunt gail",0.016729267,0.9991172884953008,0.5,0.0,0.0006288742297329,0.0005395868211053,0.0005862994585186,False
-"she has a room on the end of her house that's about twenty by forty feet, so during the flood, all of us stayed in princeville, except for her and two of my uncles, and so it was forty one people in her house for nine months, so that sunday tradition basically turned into an everyday thing for nine months",0.02637897,0.055831815648203,0.6,0.0,0.0009384835138916,0.0004460161435417,0.0002814042090903,False
-"and it, it really wore me out",0.13082063,0.0360523891990497,0.4,0.0,0.0017126960447058,0.0007664337754249,0.0028653009794652,False
-"but i'm just glad that we did have somewhere to go and to humble us, she would, um, let us go to tarboro high school to really see how blessed we were by being a close knit family and then seeing how some of these families had to live at the school for for so long, and some of 'em not even having anywhere to go, we really couldn't drive anywhere",0.05613239,0.9557605167382536,0.4324025974025974,0.0,0.0008841857779771,0.0004849093966186,0.000315687211696,False
-w,0.022351967,0.193523036522807,0.5,0.0,0.0012372832279652,0.0044690929353237,0.0005613963585346,False
-but we walked,0.020824814,0.8931042746558009,0.5,0.0,0.0011183023452758,0.0004940389771945,0.0003751657786779,False
-"um, they had like this block and we had had a curfew too",0.06532243,0.1167349153027372,0.5,0.2,0.0300876498222351,0.0009104468044824,0.0030105251353234,False
-"but like this part down here, you couldn't go",0.03770977,0.1054311467738137,0.5777777777777778,0.0,0.0023059204686433,0.0016095879254862,0.0004949647118337,False
-you couldn't go to,0.02517722,0.917228225068482,0.5,0.0,0.0089737763628363,0.001346715609543,0.0009595402516424,False
-"we had to go through mcmillan drive and take the back way, because it, if you were in a certain neighborhood, you had to stay within that neighborhood and couldn't go any further so we would go up there maybe once or twice a week",0.043031808,0.9928067388200508,0.4642857142857143,0.0,0.0006909825024195,0.0004937826306559,0.0004182229749858,False
-"yes, i don't think it would",0.016451603,0.99315909016391,0.5,0.0,0.000779807800427,0.0006427985499612,0.0003515939170029,False
-"a lot of her rubbed off on us, also, because we just stubborn, just like her, just determined to do a lot of things cause she had all the odds against her and she overcame everything, and i, i feel that we all can do the same thing, too",0.2297899,0.9082862925461044,0.5,0.05,0.1316377222537994,0.0009381673880852,0.0082728890702128,False
-she was just that type of person,0.035134587,0.8609473335936498,0.5,0.0,0.0038482334930449,0.0006382353603839,0.0080726761370897,False
-there's only a few,0.101391904,0.9779287845503132,0.55,0.0,0.0007466246606782,0.0004176014917902,0.0004505289834924,False
-there was only a few,0.08635602,0.980075293079654,0.55,0.0,0.0007258685072883,0.000390242494177,0.0004986064741387,False
-"mmhm, mmhm, the art institute in charlotte",0.01193956,0.9727630712184304,0.5,0.0,0.0008648129296489,0.000373146351194,0.0003224493993911,False
-it's a good school,0.023117077,0.0172585390281052,0.15,0.0,0.0007605470600537,0.0004747232596855,0.0012766715371981,False
-main reason why i hadn't gone back to school,0.043718524,0.8793492782177658,0.4583333333333333,0.0,0.0013226502342149,0.0007033413858152,0.0004272606456652,False
-"i was doing like local schools and i considered ecu local because i was really dead set on not leaving my grandmother, and every time i would say that i was going back to school, she would get sick",0.14597784,0.983750763810438,0.5914285714285714,0.17,0.0179501306265592,0.0218620747327804,0.0266724247485399,False
-"she would get physically sick, just like i want you to do this",0.4151741,0.8508222028143992,0.8571428571428572,0.193,0.7296403646469116,0.176633208990097,0.4173499047756195,False
-"basically, it's what she was saying, i want you to do this, but deep down inside she still didn't want me to leave, and the day that she died, i was supposed to been going to orientation, so that bothers me, but then again it pushes me because i know that she really wanted me to finish, but i also wanted her to know that she was not what was holding me back",0.082104236,0.9945248577449634,0.4944444444444444,0.128,0.004966293927282,0.0010166977299377,0.0007868985412642,False
-"i didn't want to leave her and she knew that, but now that she's gone, i kn know that she would really want me to move away and go on and finish, because i've been doing it for seven years and i'm not finished yet, so it's time",0.06652113,0.002068741449049,0.4,0.023,0.0011962759308516,0.0013901249039918,0.0003949528909288,False
-"it's basically time for me to grow up because anything i needed or anything that needed to be done, she did for me",0.056931525,0.0353976136326377,0.5,0.0,0.0059473211877048,0.0009252001764252,0.0006338360253721,False
-"yeah, i'm on my own now my first love is",0.039254878,0.0004879146559201,0.275,0.0,0.0013758942950516,0.0007281551952473,0.0183766521513462,False
-"um, i really wanna be a wardrobe stylist, for, like a television show or music videos or like magazine spreads, is something i've always been interested in, but when you get that degree you can basically do anything from imaging to designing",0.0669207,0.2324051459213267,0.3875,0.0,0.000615831289906,0.0005505176959559,0.0005533774965442,False
-i don't want my own line,0.042001735,0.991957828721657,0.2,0.196,0.0151421017944812,0.0126449130475521,0.0008156329276971,False
-"there's too much that comes with that, and then i don't know how to sew anything that i have designed",0.058929358,0.9998735875095756,0.4,0.0,0.0012294972548261,0.0005743209621869,0.0006615965976379,False
-there's a woman in princeville that does all the sewing because i refuse to get behind a sewing machine and learn how to do anything,0.1414913,0.0026879271749595,0.7,0.084,0.0018198954639956,0.0033489079214632,0.0050555085763335,False
-"uh, her name is mary, her, that was her sister that i was just talking about",0.05133759,0.077780016632438,0.5,0.0,0.0010025009978562,0.0014617758570238,0.0041055385954678,False
-"that's on the town council, miss ann",0.011037151,0.0224667872866174,0.5,0.211,0.001014806330204,0.001008057850413,0.0004274162347428,False
-that's her sister,0.03994159,0.0010358312791179,0.5,0.0,0.0047818687744438,0.0043743690475821,0.0021979296579957,False
-"no sewing for me, period, yes, yes, mmhm, and also my aunt helped me with that, um",0.112144895,0.9979950758445136,0.5,0.102,0.00073779723607,0.0004499025817494,0.0017141706775873,False
-"the year of the flood, uh, my aunt has her wholesale license and she wanted all the girls like anybody that came to her",0.16482529,0.0365385452280104,0.5,0.0,0.001157546415925,0.004905940964818,0.0040958290919661,False
-"um, she had me to design prom gowns for them and they cost a little or nothing",0.13386416,0.1344523963527865,0.59375,0.0,0.007712123915553,0.0005868227453902,0.0020886023994535,False
-they just paid for the dress,0.11794081,0.9577732801969662,0.5,0.0,0.0016479964833706,0.0009311576723121,0.0010567996650934,False
-"she didn't make any money or anything off of it, but it's this company that she dealt with out of new jersey that i uh, sent all of my designs to, and swatches of fabric, so they can know, um, what kind of fabric to use on the gowns, and what kind of beading, and what color? and that year think i did eighteen gowns, and they had 'em all shipped here",0.123736724,0.1859416553150774,0.2772727272727272,0.0,0.0006895573460496,0.0005383174866437,0.0005116895772516,False
-i think i did two tuxedos,0.07571117,0.8281611319596172,0.5,0.0,0.0238199848681688,0.0046381927095353,0.0156350452452898,False
-also that they did so,0.022351967,0.9693623337873968,0.5,0.0,0.0008963263826444,0.0003744802670553,0.0004398676392156,False
-i've actually seen quite a few of my designs come to life,0.030155903,0.0001753857801597,0.55,0.0,0.0006303669069893,0.0004311232187319,0.0003587545652408,False
-"mmhm, they, they make 'em there in new jersey, and then they send them to india to be beaded",0.22422299,0.7574389026167773,0.4318181818181818,0.0,0.0098605165258049,0.1365444809198379,0.1476868242025375,False
-and then they,0.018881164,0.0890714747726453,0.5,0.0,0.002334093209356,0.0005755298188887,0.0015025186585262,False
-s,0.0495556,0.1786341429972368,0.5,0.0,0.0025115853641182,0.0020734022837132,0.0005548478220589,False
-the people in india sent them back to us,0.23803931,0.9992896935518004,0.5,0.0,0.0006883616442792,0.0008124022278934,0.002452336018905,False
-she did,0.030670939,0.0461554626232156,0.5,0.0,0.0028572159353643,0.0003949632518924,0.0007681904826313,False
-that's the kind of person,0.037881445,0.0,0.2,0.0,0.0026910691522061,0.0004082931263837,0.0030647742096334,False
-that's why,0.018464668,0.094323748319617,0.5,0.0,0.0015995830763131,0.0004707604530267,0.0007288261549547,False
-i,0.018187003,0.1365013159894959,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
-i,0.018187003,0.1365013159894959,0.5,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
-i'll be glad when you,0.058929358,0.0026940674656993,0.25,0.0,0.0007410714169964,0.0015967413783073,0.0016940579516813,False
-if you get a chance to interview her because she's a,0.037881445,0.0157649878237438,0.5,0.0,0.0115980664268136,0.0044642710126936,0.0135085154324769,False
-she's a good person,0.021657806,0.0029863870350443,0.15,0.0,0.0007634359644725,0.0003960967005696,0.0046180626377463,False
-she'll give you the,0.04680874,0.2061311101109127,0.5,0.0,0.0345673225820064,0.0027067067567259,0.0171769987791776,False
-she'll give you the shirt off her back,0.2712817,0.9992791119828072,0.5,0.0,0.9487093091011048,0.1042297706007957,0.4655426740646362,False
-i try not to stay too long,0.035306264,0.9965823320585772,0.525,0.0,0.0020640366710722,0.0009402232826687,0.0004850110854022,False
-women and gossiping not too good,0.3544517,0.9984304701495428,0.15,0.556,0.4224226772785187,0.2390166372060775,0.1450251042842865,False
-think the best thing that princeville has going for them now is the boys and girls club,0.043718524,0.7939704729514232,0.0,0.0,0.0009118410525843,0.0035176738165318,0.0012105694040656,False
-"that's about all i can think of, um, the church that my grandmother was a member of",0.03770977,0.9699732032942958,0.5,0.0,0.001117119914852,0.0019082116195932,0.0009182273061014,False
-they have,0.022773718,0.0078049056749997,0.5,0.0,0.0010593563783913,0.0003587891114875,0.0009617694304324,False
-"i think it's monday night, but they have the nights for the kids, but other than that, just them and and the boys and girls club, it basically keep the children off the streets and out of trouble",0.05413456,0.1433482468873793,0.58125,0.088,0.0046129906550049,0.0025047601666301,0.0011999363778159,False
-"i wish they had something like for that adults, but the adults really should know better, and they're old enough to know better and to do the things that they're doing",0.092262976,0.881369225220499,0.37,0.0,0.0059135011397302,0.0016149376751855,0.0009114044951274,False
-"i haven't really been in there but once or twice, but they do a lot of activities within the building and then they may take 'em out maybe once or twice a week",0.06372416,0.0017497145957095,0.4,0.0,0.0005990546196699,0.000585674715694,0.0004657621611841,False
-"yes, sir, mm",0.023460433,0.0023898846161871,0.5,0.0,0.0008491452899761,0.0011550796916708,0.0004998818039894,False
-"there were tons of playgrounds in princeville, i do remember that there was tons of playgrounds and basically just going to can't say friends",0.07131593,0.9722565568468712,0.5,0.1,0.0006768464809283,0.0004339645965956,0.0003762711130548,False
-"basically everybody was your family members, but just going to somebody's house, even if it meant them coming back to my house, because my back yard was just like a jungle gym",0.13790205,0.9992704976914296,0.5,0.0,0.0157407503575086,0.0121307587251067,0.003557892749086,False
-so most of the time and that's where all of the kids were at my house,0.019436494,0.9962776722932792,0.25,0.0,0.001146835507825,0.0006157150492072,0.0005085337324999,False
-"let's see hide and seek, hopscotch, um basketball, uh, mary got me started in tennis",0.03049926,0.0406424651776958,0.5,0.108,0.0010744326282292,0.0009972022380679,0.0038463422097265,False
-he was,0.02124131,0.0034014528047119,0.5,0.0,0.0501971170306205,0.0004317214188631,0.003418126842007,False
-they used to tease me and call me white boy wanted play tennis,0.29558796,0.8216051196909586,0.5,0.146,0.0356490649282932,0.0296750273555517,0.0444726906716823,False
-"um, it was just me and uncle mary, um",0.040971663,0.9690771977620728,0.5,0.0,0.0008938437094911,0.0013622306287288,0.0005613808170892,False
-"badminton, think the best one though was playing in the mud",0.08850401,0.998218123395998,0.0,0.0,0.0008586620679125,0.0008761995704844,0.0012243796372786,False
-i think i played in the mud til i was about ten,0.07211506,0.9792838811406632,0.5,0.0,0.0042707296088337,0.0007648450555279,0.0018964236369356,False
-"yeah, i was building cause at one point i wanted to be an architect, so i would just wet the whole backyard up and just dig up all the mud and make like my own little communities with the the river and streets, and i was real creative with with that and then my grandma would just drive up in the driveway and just run over all over it",0.21804169,0.0003473735353469,0.37375,0.0,0.0028754193335771,0.0186186823993921,0.0122678596526384,False
-it's like i told you about building this stuff in my driveway,0.06931809,0.0317677181666164,0.5,0.0,0.0008483122801408,0.0004845570947509,0.0015030631329864,False
-"mmhm, now see we were",0.026207292,0.0167918769318815,0.5,0.0,0.0012759324163198,0.0004430862318258,0.0012724614934995,False
-we were special kids,0.03599298,0.0008291180932906,0.3214285714285714,0.0,0.0010229080216959,0.0006133085116744,0.0012253712629899,False
-"we always had like one step above what everybody else had, because other people would ride bikes",0.062125895,0.0002753294444825,0.53125,0.0,0.0006885873735882,0.0004840407054871,0.0005466077127493,False
-"we had scooters, and then uncle mary had the scooter that he used to take us riding on",0.06012806,0.0015084846298984,0.5,0.0,0.0054723853245377,0.0007357154972851,0.0005053753848187,False
-while everybody else was riding bikes,0.019158829,0.8436377347692473,0.5,0.0,0.0010306017939001,0.0006156874587759,0.0005352152511477,False
-"he was on his scooter, and he had at least one or two of us on the back of it, so everything that was mary's fault",0.07251463,0.8418622667211145,0.575,0.097,0.0241006687283515,0.0074974657036364,0.0010204833233729,False
-"everything that the other kids did, we did, but two times better, she's like okay, they have this",0.0741129,0.0765682332356649,0.3541666666666666,0.0,0.0008028567535802,0.0004639763501472,0.0014908342855051,False
-i'm gonna get this for you,0.1835188,0.0909928194367028,0.5,0.0,0.002489857841283,0.0019602149259299,0.0028765201568603,False
-i'm gonna this that and the other,0.086087525,0.7916393980130496,0.5625,0.0,0.0013128495775163,0.0008072816417552,0.0017347768880426,False
-that's just the way she is,0.04165838,0.0019969358160774,0.5,0.0,0.0019957504700869,0.0012341153342276,0.002862618304789,False
-"mmhm, they have the same zip code, but it's still like princeville is basically a neighborhood",0.052136723,0.984128063811332,0.5,0.0,0.0009024969767779,0.000420872005634,0.0003365340235177,False
-"it's basically a neighborhood, but you still have a lot of people",0.04268845,0.0025747490975859,0.5,0.0,0.000689114909619,0.0004584926937241,0.0006576104206033,False
-older people that are over there,0.13386416,0.0370100062893269,0.4166666666666667,0.0,0.0008010310702957,0.0011968064354732,0.0004431516863405,False
-"when they address their mail, they will put princeville, north carolina, two, seven, eight, eight, six",0.057331093,0.8807911138666246,0.5,0.0,0.000719723640941,0.0004418257449287,0.0004942778032273,False
-"and that's the same as tarboro, so i don't know why they did it like that, but that's how a lot of people do it",0.046465382,0.993718631609382,0.5,0.0,0.0006868296186439,0.0004513788153417,0.0007322332239709,False
-the only thing that separates them is a bridge,0.16151784,0.8879194250780205,0.5,0.0,0.0016134575707837,0.0017538227839395,0.004736618604511,False
-that's it only way in only way out,0.035477944,0.7530719636113256,0.5,0.0,0.0009242724045179,0.0008091696654446,0.0009411523351445,False
-well with the younger people,0.07011723,0.0048231685688651,0.5,0.0,0.0006598400068469,0.0006658821948803,0.0007731723599135,False
-"they fight a lot and i don't understand why because you're separated by a bridge and under that bridge is the tar river and you're all drinking the same water, so i don't understand",0.083939545,0.9894297279493516,0.5,0.073,0.0143767865374684,0.0009132100385613,0.0017188074998557,False
-really,0.015757442,0.0653663160342067,0.4,0.0,0.0014107627794146,0.0004142853140365,0.0003981906920671,False
-"if you go in parts of east tarboro, you can look over and see princeville, even though looking at it from the bridge's point, it's like a mile apart, but it's like actually a part where it's nothing but fields where east tarboro meets princeville, so i don't understand why there's so much animosity, but my grandmother said it's that was going on even when she was a kid and she was born in thirty eight, so she said it's been going on that long",0.038911518,0.9283655201809896,0.475,0.047,0.0006972625269554,0.0004594127531163,0.000563689332921,False
-she always told me that princeville won anytime they would fall,0.049898956,0.0017846784842424,0.5,0.0,0.0017041106475517,0.0012359751854091,0.0005253702402114,False
-she said that tougher people come from princeville because the the means of living there was rougher than what,0.08555053,0.9994698782970528,0.5,0.0,0.0011771114077419,0.000505597970914,0.0024898741394281,False
-tarboro because we had to go to tarboro for everything,0.055333257,0.0017202650459478,0.5,0.0,0.0009969339007511,0.0006147581152617,0.0007140327361412,False
-it's nothing,0.033761155,0.9994454363630402,0.5,0.0,0.0042268722318112,0.000705522543285,0.0007548407884314,False
-the the most your gonna find in princeville is probably a mechanic and a store,0.018325835,0.0223674695742632,0.25,0.0,0.001379674533382,0.0004807667573913,0.0006265481933951,False
-that's about it,0.025520578,0.1954433975480567,0.5,0.0,0.0010884621879085,0.0005713042337447,0.0008220607996918,False
-a couple of beauty salons,0.059328925,0.0406196030272229,0.5,0.0,0.0008249878883361,0.0012455929536372,0.000408820080338,False
-that's about it,0.025520578,0.1954433975480567,0.5,0.0,0.0010884621879085,0.0005713042337447,0.0008220607996918,False
-that's what she said,0.021796638,0.0092948203964958,0.5,0.0,0.0008615912520326,0.0004145458515267,0.0008947912720032,False
-i don't know how to sing that part yet my grandmother knew everyone and she only knew them by their nicknames,0.027580723,0.0219066496964132,0.5,0.0,0.0014618169516324,0.0010783697944134,0.0006247629062272,False
-is what used to trip me out,0.11536485,0.9428537448321704,0.5,0.0,0.0044259801506996,0.002586190123111,0.0085015380755066,False
-she never knew 'em by their real names,0.018881164,0.0347474581878988,0.4,0.0,0.001517359050922,0.0007204105495475,0.0006644482491537,False
-she would tell us stories of people and we're just sitting back snickering like where do they get these names from? and she's like i don't know,0.11407687,0.8782182724321811,0.5,0.0,0.0124626457691192,0.0056947101838886,0.0023614529054611,False
-that's the only name,0.023460433,0.0260320904709245,0.5,0.0,0.0031872717663645,0.0010618161177262,0.000369019282516,False
-i know them by different ch,0.038053125,0.1184073993484138,0.5,0.0,0.0006819492555223,0.000413167203078,0.0003230521979276,False
-people that she knew or that her mother knew,0.02809576,0.0010730307103958,0.5,0.0,0.0016617901856079,0.0016155389603227,0.0011459909146651,False
-"it was basically, if her mother knew 'em she knew 'em she just knew everything about everybody",0.026035614,0.9918648003362256,0.5,0.0,0.0037847708445042,0.0010600651148706,0.000511554069817,False
-"one thing that sticks in my mind is that because i didn't grow up in the house with my sister, her daughter and i were really close because all of us stayed in the house together, and my sister stayed with my mother and my father and i used to mistreat my sister, and i treated her daughter more",0.28021416,0.0003015001982181,0.325,0.0,0.0008103603613562,0.0110304476693272,0.0020495161879807,False
-"she was my sister because i saw her every day and my grandmother told me she she made us, um, get along with each other, because we used to fight like cats and dogs, and so you would never know who would have to be the last person to do something for you",0.25447917,0.0001213452602022,0.53125,0.046,0.0473757088184356,0.0025014230050146,0.0014865543926134,False
-"and if your sister is the last person that has to do something for you, she's gonna remember all the times that you mistreated her, and she may just pass you by",0.37083253,0.9887050246058738,0.5,0.0,0.1787945926189422,0.0055943159386515,0.0515437833964824,False
-"so ever since then my sister and i are just like this, and when she's not in school, when you see me, she's two steps behind me",0.048525527,0.0007090843514988,0.7,0.0,0.0021254748571664,0.0020968434400856,0.0014375013997778,False
-she's not too far behind me,0.0789077,0.0003842152797856,0.575,0.0,0.0045791929587721,0.0033331252634525,0.001662285416387,False
-she's twenty one now,0.034104515,0.0191379151030287,0.5,0.0,0.1198129802942276,0.0009364995639771,0.00061902863672,False
-"mmhm, she's a junior at north carolina state majoring in criminology",0.090114996,0.997632291967844,0.5,0.0,0.0165358986705541,0.0008357330807484,0.0031952974386513,False
-i think she really wants to do forensic science,0.04131502,0.1904939655249501,0.4,0.0,0.0008144947350956,0.0004909724812023,0.0003795486409217,False
-she's always had an infatuation with dead people,0.28923595,0.0019888878621951,0.6,0.361,0.0524269603192806,0.0418841615319252,0.0154202859848737,False
-"i don't know why she's really scary, but she loves dead people",0.35756677,0.0027445609245012,0.675,0.368,0.0194397065788507,0.1261639595031738,0.2956231832504272,False
-"mmhm, mmhm, she stays up there and she sh",0.10763696,0.0133666975668352,0.5,0.0,0.2670305371284485,0.1494261622428894,0.2980051636695862,False
-"might as well commute, because if i'm not up there, my mother's up there, so we see her at least two or three times a week",0.036679696,0.7511278760257415,0.65,0.0,0.0007049395353533,0.0007741134613752,0.0008073543431237,False
-i'm not back in school yet,0.030670939,0.9325048809349934,0.5,0.0,0.0022851219400763,0.0008525609737262,0.0004611064796335,False
-"mmhm, mmhm, i love her school",0.065721996,0.0091577667226049,0.25,0.0,0.0012882344890385,0.000547824834939,0.0003290212480351,False
-i was accepted and i didn't go,0.040284947,0.954134412752728,0.5,0.0,0.0007441324414685,0.000499804620631,0.000335681514116,False
-i wish i had gone,0.058929358,0.8154082250088677,0.5,0.0,0.0117726828902959,0.1435058265924453,0.0176638383418321,False
-it's just the campus,0.022213135,0.8249900890938302,0.5,0.0,0.000714389141649,0.0003497723664622,0.0006365214358083,False
-the campus is beautiful,0.039254878,0.0033902750909865,0.075,0.0,0.0006887980853207,0.0003445047186687,0.0006656525074504,False
-"um, the academics are good",0.021380141,0.0228207184140165,0.15,0.0,0.000622623192612,0.0004124437109567,0.0047291591763496,False
-the people are nice,0.019297661,0.0110777104465422,0.2,0.0,0.000567372480873,0.0004194715002086,0.0020871914457529,False
-"i mean, i haven't seen anything at that school out of place",0.040628307,0.998959161105133,0.65625,0.0,0.0008188760257326,0.0007281309226527,0.0006415328825823,False
-don't see anybody mistreating it,0.082104236,0.8168125929613191,0.5,0.0,0.00080001616152,0.0005731427809223,0.0042713098227977,False
-if it goes on i don't see it,0.027580723,0.999379651791862,0.5,0.0,0.0007253858493641,0.0006574352737516,0.0008829536964185,False
-everybody's happy,0.022074303,0.0023172443805907,0.0999999999999999,0.0,0.0006738934316672,0.0004100069636479,0.0004619570972863,False
-"go lucky and it's like every time i go there, the sun is always out",0.029812546,0.0006775184879385,0.3333333333333333,0.0,0.0010915659368038,0.0010667726164683,0.0005636301939375,False
-it never rains,0.04234509,0.9563709391366036,0.5,0.0,0.0019452058477327,0.0003911012900061,0.0004935649922117,False
-"so mmhm, mmhm, i had just gotten home from school",0.055732824,0.9996859807624094,0.5,0.0,0.0021395180374383,0.000524720584508,0.0007750405347906,False
-"i left school that january of ninety nine, so i only been home about nine months, and i often think that if i stayed at a and t, i wouldn't have lost all my clothes, but um, i left for work that morning",0.09172598,0.9887518517745738,0.5,0.0,0.0007213469361886,0.0006475925911217,0.0006130244582891,False
-my grandmother and i left for work and she just told me to pack an outfit or two because they're thinking about that the dam might break and that it might flood a little,0.11794081,0.1087196003445716,0.546875,0.0,0.0120402444154024,0.0015456459950655,0.0012635918101295,False
-"and from what she told me of the flood in fifty nine, it was only about two feet of water, so that's all that we were expecting on my way to work that morning",0.022351967,0.7522660057408738,0.5,0.0,0.0006232332671061,0.0005299311014823,0.0006549340323545,False
-i was in a car accident,0.15159425,0.9932836844129016,0.5,0.383,0.0057363463565707,0.0005157774430699,0.0011635670671239,False
-"my car hydroplaned, so i came back home, and that's when i heard of everything that was going on and that they were trying to get everybody out of princeville, so i didn't have time to to go back to get any of my belongings cause it was too late for two weeks",0.0495556,0.9988210343707246,0.55,0.0,0.0008350819116458,0.0006127490196377,0.0005913306376896,False
-"oh, well, i grabbed some stuff before i left home that morning, and then because we couldn't go back to princeville, everybody went to my aunt mary's house",0.05613239,0.0509325193970592,0.5,0.0,0.0009129559039138,0.0005575140821747,0.0004701890866272,False
-that's where everyone met,0.033761155,0.0026433057417679,0.5,0.0,0.0006316909566521,0.0003870524815283,0.0013902036007493,False
-just stayed there and then got the notice of the water,0.02397547,0.986558068967984,0.5,0.0,0.0008683263440616,0.0004390986869111,0.0005464126588776,False
-"they were sand bagging everything and it didn't do any better, and that the water was coming and it was coming fast",0.08555053,0.870986828182146,0.325,0.103,0.0112049002200365,0.0013391171814873,0.0018661009380593,False
-"at that point, i'm going to tell you the truth",0.049898956,0.0206467276125297,0.5,0.0,0.0008234331617131,0.0004920932115055,0.0007689833291806,False
-i was selfish,0.1943727,0.9938505584385776,0.75,0.608,0.0380591563880443,0.099299855530262,0.0206401031464338,False
-"the only thing i was thinking about was like, what am i gonna do? i'm losing all of my clothes",0.13565879,0.9956729728843569,0.5,0.113,0.0130175063386559,0.0014404298271983,0.0013110720319673,False
-i have nothing to wear,0.06012806,0.9966574462948116,0.5,0.0,0.0113277528434991,0.0005989481578581,0.000862979737576,False
-not thinking that all of my family had gotten out and we were all under the same roof and everybody was okay,0.029469188,0.0011909779456256,0.375,0.0,0.0012512363027781,0.0004090727015864,0.0004889283445663,False
-i was worried about my clothes,0.09172598,0.9813247230162538,0.5,0.306,0.0016231355257332,0.0008279635221697,0.0003642204392235,False
-i was nineteen,0.039598234,0.0765730918152309,0.5,0.0,0.0048975143581628,0.0008279745234176,0.0008882597321644,False
-i was gonna turn twenty that next week,0.038053125,0.8007120352679223,0.5,0.0,0.0032657864503562,0.0014136886456981,0.0005813213065266,False
-i was,0.020408317,0.0316908453034227,0.5,0.0,0.0057652350515127,0.0004123224352952,0.0006210994324646,False
-that's the only thing i was worried about,0.042001735,0.9045666176834412,0.5,0.239,0.0008321468485519,0.0005884856800548,0.0012551322579383,False
-"no, no, heard about what happened",0.029812546,0.9987929857610832,0.5,0.0,0.0007160142995417,0.0004086591943632,0.0004842209746129,False
-"but because i hadn't seen it, i didn't know how bad they said it was bad, but i hadn't seen it for myself, so i'm still thinking maybe half of my house is under water",0.07970683,0.9978026999394912,0.7611111111111111,0.114,0.0009810479823499,0.0006609669653698,0.0005779267521575,False
-"and then when they showed it on tv where you couldn't see anything but water and power lines, that's when it really hit me that okay, everything is gone",0.090114996,0.9966323187943568,0.325,0.0,0.0008651950047351,0.0007772849057801,0.0016848727827891,False
-i think i cried for three days,0.035306264,0.999982294501459,0.5,0.302,0.0007992694154381,0.0005436445353552,0.0021890178322792,False
-everybody was,0.019436494,0.0032655318058118,0.5,0.0,0.0062794378027319,0.0004748794017359,0.0006183288060128,False
-"yeah, we were all together",0.03204437,0.000158783149373,0.5,0.0,0.0007345207268372,0.0003464514156803,0.0003664777323137,False
-"mmhm, basically she set everything up like an assembly line because it was so many people in the house like x",0.062125895,0.9262106060109272,0.25,0.0,0.0012896856060251,0.000715484318789,0.0005565748433582,False
-"amount of people had um cars, and it's like certain times that they would open up the grocery stores and you had to line up to go in the grocery stores, and the water was off",0.023117077,0.998603143471172,0.4464285714285714,0.0,0.0012226874241605,0.0004627135931514,0.0005659956950694,False
-um,0.012811388,0.2299629197976684,0.5,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"people down the street had a well, so we would take turns getting the water",0.03221605,0.0012344368965897,0.5777777777777778,0.0,0.0012191700516268,0.0006811233470216,0.0008704275242052,False
-"um, we took our baths in shifts",0.089041,0.0332051721516949,0.5,0.0,0.0005940638948231,0.0004716769908554,0.0012439145939424,False
-"um, everything was just like an assembly line and my grandmother being the person that she was, she had one of the bedrooms and all of the kids were in the den, the the big room i was telling you about, and to keep us from disturbing my grandmother, she had a refrigerator put down there, and there was a bathroom already attached to that den, so we had no reason to come past that area messing with my grandmother, cause like, don't bother her when she gets in her little mood",0.12824467,0.9725130779250588,0.6093055555555555,0.058,0.0069990479387342,0.0028766298200935,0.0017157651018351,False
-just leave her alone,0.1710401,0.9921206954624444,0.5,0.615,0.1103074699640274,0.0416195578873157,0.1052274107933044,False
-everything you need is right here in this room,0.042001735,9.791677223396296e-05,0.3571428571428571,0.0,0.0017640205333009,0.0017968855099752,0.0005653069820255,False
-"you shouldn't have to leave for anything, cause she would complain about the smallest noise that she would hear",0.10892494,0.9967175674910356,0.5,0.121,0.0042456514202058,0.0043628276325762,0.0048476634547114,False
-everything was an assembly line for nine months,0.022351967,0.1034331677044552,0.5,0.0,0.0005983847077004,0.0004123969119973,0.0003546504594851,False
-"mmhm, cause you had to get up four o'clock in the morning just to stand in line for the grocery store, because stuff was getting gone just that quick",0.03444787,0.982419840888971,0.3333333333333333,0.0,0.0021263943053781,0.0005335219320841,0.0013601940590888,False
-there was no waking up late,0.027752401,0.9997591575282648,0.65,0.306,0.0063160466961562,0.000519513792824,0.0006191756110638,False
-there was no waking up late and she would tell you the night before,0.044405237,0.9989079820798894,0.65,0.145,0.001759372302331,0.0006365908775478,0.0008005065028555,False
-"okay, this is how who has to do this today and i'm not playing",0.0495556,0.99882151128651,0.25,0.103,0.0026660235598683,0.0006699941004626,0.0007853789138607,False
-you will get up at this time to get everything done,0.05133759,0.0014049939044201,0.5,0.0,0.0033013944048434,0.0006867736228741,0.0047422931529581,False
-"mmhm, um, they had on the news that if your clothes were still in your room, that they could be washed in ammonia, and when i got back to princeville, the contractors that were supposed to have been tearing down the house, tell him i'll call him back",0.060927194,0.999985513683012,0.5259259259259259,0.0,0.1275963336229324,0.0033546520862728,0.0039834543131291,False
-"is it mary? um, okay, yeah, when i got back in the house, the contractors that were supposed to been condemning the house, they were in there stealing",0.17957193,0.9686187326559142,0.375,0.113,0.0018115262500941,0.0100080417469143,0.0289971455931663,False
-"i'm not saying that they stole my stuff, but when i looked down the hall they had armful of stuff",0.1689685,0.9961613644560626,0.5777777777777778,0.0,0.018562851473689,0.0037622598465532,0.0029293252155184,False
-"um, but when i went in my room, the only thing that was left in my room was a bed",0.045778666,0.942331045131137,0.5,0.0,0.0018538410076871,0.0029968980234116,0.0006914547993801,False
-i had a two trunks full of sweaters,0.10461388,0.9054460205848776,0.325,0.0,0.0012937332503497,0.0154882837086915,0.0027279153000563,False
-i had two closets and there was nothing in either one of my closets,0.082104236,0.998954749634116,0.5,0.0,0.0147381937131285,0.0005032715271227,0.0004448813560884,False
-so someone vandal and i mean it was just that quick,0.34388447,0.999113920277565,0.4947916666666667,0.0,0.0013471852289512,0.0202048420906066,0.0456623397767543,False
-it's the same day that they opened princeville back up,0.030670939,0.1375797716169531,0.5,0.0,0.0009729118901304,0.0005298947216942,0.0005124271265231,False
-we got up and we went over there,0.04268845,0.1858024257129145,0.5,0.0,0.0010298956185579,0.0005585451726801,0.0005204356857575,False
-my stuff was gone,0.045091953,0.0183272774964305,0.5,0.0,0.0256050266325473,0.0009335761424154,0.0008596891420893,False
-just that quick,0.07451247,0.0298272074494245,0.3333333333333333,0.0,0.0014797482872381,0.0005174191319383,0.0010643906425684,False
-had to start over,0.047495455,0.99920682943405,0.5,0.0,0.0012389071052893,0.0028842429164797,0.0003258856886532,False
-that's when fema came in and they would ask you questions about a,0.03994159,0.9930160750426988,0.5,0.0,0.0010188716696575,0.00072727171937,0.0009481252054683,False
-"about how much money do you think you had spent on your clothes, and when i told 'em they didn't believe me, but i kept receipts of everything, so they didn't send me all of it, but they sent me enough to get my my wardrobe started again, and then my job, um, gave me some money, also, so that was more than enough for me to get my my closet started back up again",0.14283726,0.0340016811281442,0.45,0.0,0.004543365444988,0.001219535479322,0.0007842335617169,False
-was buying plenty clothes and still didn't have anywhere to put 'em because i was still in her house,0.104076885,0.0107266408138567,0.5,0.0,0.0049481149762868,0.0007784602348692,0.0004906204412691,False
-"everybody used the same closet, also in that room, the den",0.06252546,0.99186879450593,0.5,0.0,0.003020956646651,0.0011391850421205,0.0004776175192091,False
-it,0.017770508,0.1408454822661846,0.5,0.0,0.0016468944959342,0.0009156857267953,0.0006150004337541,False
-it had a bathroom and it had a walk in closet,0.10515087,0.0997385905350101,0.5,0.0,0.0430910661816597,0.0012919207802042,0.0007683042786084,False
-h,0.02262963,0.1405259784970595,0.5,0.0,0.0016545619582757,0.0015957860741764,0.0007723678136244,False
-"how many people used that closet? about eighteen of them, but we had stackables",0.060527626,0.9284929163102218,0.25,0.0,0.0014471221948042,0.00067523738835,0.0006691842572763,False
-they had stackables,0.08447654,0.0020775941983194,0.5,0.0,0.0011684006312862,0.0022808089852333,0.0008268565870821,False
-"everybody had their own stackables that with their name on it, you put anything that didn't fit in the uh",0.037881445,0.9985232600770816,0.25,0.1,0.0016191955655813,0.0008220004965551,0.0024137017317116,False
-that closet looked like a disaster area,0.1731117,0.999981996429093,0.5,0.353,0.1093897148966789,0.0100290877744555,0.0016448003007099,False
-you just take and throw stuff in there,0.2712817,0.1672411912164035,0.5,0.0,0.0024197704624384,0.0757228061556816,0.0619777999818325,False
-there was stuff all over everywhere,0.027409043,0.9999923097329568,0.5,0.0,0.0011073716450482,0.0006696343771182,0.0005366177065297,False
-we had some cousins that were complaining about you have on my outfit,0.22979778,0.9864677232338468,0.5,0.13,0.0075886994600296,0.0024107997305691,0.0104215443134307,False
-"it was like okay, we only have two so we have to switch up",0.028610796,0.9998672683754162,0.375,0.0,0.0008215791895054,0.0006433427915908,0.0004678374971263,False
-we can't look the same every day,0.0224908,0.9848344953187737,0.5,0.0,0.0012360870605334,0.0007773285615257,0.0005842345999553,False
-it was a,0.020130653,0.8970866108873913,0.5,0.0,0.0033987129572778,0.0008713424322195,0.0016983301611617,False
-"it was a lot of sharing clothes, and if it didn't fit, we made it fit",0.10634898,0.9898647645675416,0.3,0.103,0.0007492775912396,0.0004738324496429,0.0004283327434677,False
-"mmhm, it was a long drawn out process",0.028782474,0.999997317348706,0.525,0.0,0.0008278811001218,0.0003693597973324,0.0004182487027719,False
-it's a lot of stuff you had to go through,0.030842619,0.9995545308489996,0.5,0.0,0.000933012808673,0.0004694421368185,0.0006513830157928,False
-a lot of people got grants,0.0334178,0.0133594246011046,0.5,0.0,0.0006093580741435,0.0003795710799749,0.0002848428266588,False
-"i don't think it was fair the way they did it, because a lot of the younger people that could get out and work they received grants and they gave a lot of these elderly people loans thirty year loans",0.026722329,0.9997570710217026,0.325,0.0,0.0005798620404675,0.0004535003390628,0.0004109288274776,False
-"i mean, tomorrow's not promised to anyone, but i still thought it was unfair, my mother, she received, mixing a partial loan and a partial grant, and my grandmother had a loan and i didn't think that was fair to her, um, church street and walston street",0.02397547,0.9999575544950804,0.53125,0.104,0.0007083774544298,0.0008783352095633,0.0004577490035444,False
-they're adjoining streets,0.074912034,0.0013966478781718,0.5,0.0,0.0075863511301577,0.0005779776838608,0.0008989782072603,False
-"i can name one, two, three, four on that street that did out of about thirty houses",0.025692256,0.997369541177207,0.5,0.0,0.0007572954636998,0.0003548102686181,0.0005157735431566,False
-"hm, mmmm, i mean cause m people really had their minds pretty much made up that they weren't gonna move back, and my grandmother was one of 'em",0.07730943,0.915913010560704,0.46625,0.0,0.0041865138337016,0.0024880948476493,0.00051833310863,False
-she was dead set on on not going back cause she was more concerned about getting herself back,0.16620636,0.2126823532217151,0.4625,0.202,0.0058741588145494,0.0384533368051052,0.0025384847540408,False
-she didn't care less whether anybody else came or not,0.08501353,0.99994712196227,0.5833333333333334,0.226,0.0288498327136039,0.0012467834167182,0.0005252287955954,False
-"she was like, i'm moving back to princeville if you all don't wanna go, that's fine with me",0.09387396,0.7820776538127927,0.3958333333333333,0.0,0.0013203638372942,0.017794169485569,0.0078573348000645,False
-i'll move by myself,0.10634898,0.0002553884031965,0.5,0.0,0.0041870423592627,0.0006853221566416,0.0007960340590216,False
-"mmhm, it did, but it's a whole bunch of new people",0.0717155,0.1797703948564632,0.4159090909090909,0.0,0.0009820603299885,0.0004149344749748,0.0009201001375913,False
-"a lot of new people, people from tarboro taking up the opportunities that the princeville people had",0.043031808,0.0081022626673303,0.4318181818181818,0.0,0.0006547727389261,0.0004733214154839,0.0003975076251663,False
-"but it was a lot of people in east tarboro that flooded too, so a lot of them saw all the new houses and things that were coming up in princeville and they just moved over here",0.053335425,0.0434882514776937,0.4318181818181818,0.0,0.0007459724438376,0.0004752677341457,0.0005095648230053,False
-it's like forget the east tarboro and princeville stuff,0.027065687,0.9960653553469712,0.5,0.167,0.0037410783115774,0.0005727283423766,0.0006552169215865,False
-"this is where we're moving to cause, i can say that the houses that they build in princeville are a lot nicer than the ones that they threw together in east tarboro",0.08501353,0.001045906125089,0.5,0.0,0.0007710172794759,0.0004405934596434,0.0007218836108222,False
-it's like like they put up four walls and a roof in two days,0.052935857,0.9850069301825096,0.5,0.0,0.0023244160693138,0.0006740893004462,0.0010624799178913,False
-"a lot of people really look forward to fridays, because that's when the football or basketball games",0.023288755,0.0004702687718524,0.4,0.0,0.0005412522004917,0.0004489902639761,0.0005287870299071,False
-"but it's basically that's it, and you would really be shocked that people hang out at walmart",0.043031808,0.9710808402063852,0.85,0.174,0.0015339229721575,0.0009966812795028,0.0029835449531674,False
-you go to walmart right now,0.016173938,0.9973996762934104,0.3571428571428571,0.0,0.0549697428941726,0.0007464773370884,0.001242603175342,False
-you see so many people and they're not buying anything but people that have licenses to rocky mount,0.021796638,0.2374547004521758,0.25,0.0,0.0012661048676818,0.0004237780813127,0.0004870679113082,False
-it's just twenty minutes,0.038911518,0.8859375121091899,0.5,0.0,0.0010508222039788,0.0004244530573487,0.0008635160629637,False
-it's go to the mall or the or the movies there,0.03221605,0.910115979957614,0.5,0.0,0.0010788738727569,0.0011329483240842,0.0024811706971377,False
-but for the people that is just basically stuck here,0.043031808,0.9706215703048386,0.5,0.217,0.0007537904893979,0.0026154373772442,0.0007584022241644,False
-friday is their only outlet,0.045091953,0.0366407542423149,0.5,0.0,0.0187707729637622,0.0008307615644298,0.0005517464014701,False
-i would go the games or to the movies or the mall,0.032559406,0.1790393425715895,0.5,0.0,0.0031479911413043,0.0011951408814638,0.0010689379414543,False
-"this is all in rocky mount, or i would go to raleigh to see my sister, or either to greensboro to see her daughter and i have",0.050242316,0.0073697498278632,0.5,0.0,0.0006852176738902,0.0014873821055516,0.0013686898164451,False
-"i have a cousin at unc chapel hill, so it's basically visiting them because there's really nothing to do here",0.05852979,0.9954643818426238,0.4,0.0,0.000639836594928,0.0005166318733245,0.0003923042386304,False
-"mmhm, but they're not doing anything or trying to get out of here",0.089577995,0.999101371430956,0.5,0.0,0.027700550854206,0.0007806698558852,0.0007179206586442,False
-they would rather stay here not have anything to do than go somewhere and find something to do if they don't get the right people in there to try to run it,0.089577995,0.9999576141095536,0.3571428571428571,0.0,0.0045761880464851,0.0014315382577478,0.0024138856679201,False
-i honestly see tarboro taking it over,0.101391904,0.9522515790383588,0.2,0.0,0.0008853576146066,0.0005600628792308,0.0005438681691884,False
-that's where they're headed,0.052935857,0.0003566137786931,0.5,0.0,0.0008295243605971,0.0022225470747798,0.0013893538853153,False
-"mmhm, that's exactly where they're headed because they can't",0.04680874,0.9549329188140296,0.375,0.0,0.00233756005764,0.0053792069666087,0.0012351060286164,False
-it's like we have to,0.020269485,0.0013636512672546,0.5,0.0,0.0022881994955241,0.0004832187551073,0.0006474137189798,False
-"well, princeville has to pay tarboro for their water, and when it's time to pay them, they don't have all the money with as much as they charge for the water bill",0.019297661,0.9971208892094824,0.4,0.083,0.0029403371736407,0.0007977053755894,0.0005860689561814,False
-"over there, they should have the money and they're always thousands and thousands of dollars short",0.05653196,0.9416641380194284,0.5,0.0,0.0216394681483507,0.0007341820164583,0.0007804973283782,False
-"with anything they have to pay tarboro for they're always short and want want an extension on paying them, but i honestly see tarboro taking princeville over",0.054534122,0.99463213398949,0.35,0.039,0.0015311037423089,0.0010633609490469,0.0005559685523621,False
-there's really nothing i can can do about it because i really see it happening,0.03221605,0.0279441948916357,0.4,0.0,0.0007198289385996,0.0004609803727362,0.0003641090006567,False
-"i mean, if that's the only way to get them to progress, then i don't see a problem with it, because i don't live there anymore, but something needs to be done",0.05493369,0.1398010068884523,0.5293560606060606,0.0,0.0007968875579535,0.0008072181954048,0.0004221702984068,False
-"mmhm, mmhm, i think they don't even think about it",0.094410956,0.999857133914972,0.5,0.0,0.0013284442247822,0.0045394701883196,0.0011000920785591,False
-they don't care,0.084745035,0.999539776266882,0.5,0.568,0.1671771705150604,0.0341334603726863,0.0040814317762851,False
-very true,0.015896274,0.0011341653526643,0.2725,0.0,0.0007528806454502,0.0003623647498898,0.0004524148243945,False
-"half of the people in princeville to me not to sound uppity or anything, but they're uneducated",0.34388447,0.9766747046848032,0.4416666666666666,0.0,0.0018214588053524,0.1126501411199569,0.4216577708721161,False
-"they know about this stuff, but it's just like i don't care",0.12244874,0.9997299762436324,0.5,0.206,0.0109045645222067,0.003409415250644,0.0026236686389893,False
-"wh, what is that doing for me? what does that have to do with me?",0.08330294,0.999110999168378,0.5,0.0,0.0013123438693583,0.0047192270867526,0.0028532841242849,False
+"text, okay, yes, i stayed on uh church street with my grandmother mary",0.03187269,0.998396098613739,0.0,0.0,0.0035409601405262,0.0015591342234984,0.0007001283811405,False
+"no, after the flood in ninety nine, uh, grandma didn't wanna go back to princeville said she needed a change",0.03994159,0.9910717606544495,0.0,0.0,0.0008716766606085,0.0014552590437233,0.0009413720108568,False
+"she felt that by her being that old that she didn't want to start over again in the same place where she was raised, so we moved to rocky mount, which is about fifteen miles away",0.04406188,0.0,0.0,0.034,0.0008938644896261,0.0007516465266235,0.0005369400023482,False
+the neighborhood over there around the corner from my uncle's house,0.04680874,0.0,0.0,0.0,0.0007564873085357,0.001234715571627,0.0004768389626406,False
+"mmhm, yes, mmhm, most of 'em yes, princeville was basically like your last name didn't matter because everybody was family",0.0765103,0.9223232865333557,0.0,0.043,0.0049663223326206,0.0008426804561167,0.0005278208991512,False
+like,0.022351967,0.0,0.0,0.0,0.001461298437789,0.0012561561306938,0.0005801010993309,False
+"if you did something in the streets and somebody else's family saw it, it's like they had permission to punish you and then you would get punished again when you got home, so it's basically like everybody knew each other if if we ate anything, they ate, so it's like basically we did everything together and nothing was separated and it's a whole lot different now because you don't see those people anymore",0.0753116,0.6341878175735474,0.0,0.078,0.0055059492588043,0.0014033226761966,0.0006986170774325,False
+everybody moved away,0.06012806,0.973537802696228,0.0,0.0,0.0017468035221099,0.0049847429618239,0.0008735416340641,False
+"it's a lot of people came back, but it's twice as many that didn't come back and didn't wanna come back",0.039598234,0.9959747195243835,0.0,0.0,0.0009951427346095,0.0007148181321099,0.0005605876212939,False
+"um, most people just came across the bridge to tarboro",0.03049926,0.9887274503707886,0.0,0.0,0.0006710594170726,0.0005152649246156,0.0005151404766365,False
+"a lot of 'em moved to rocky mount and greenville, raleigh, greensboro, just moved anywhere but there because they didn't",0.04406188,0.0,0.0,0.0,0.0008637782302685,0.0005069900653325,0.0003975148429162,False
+"i mean after the flood and everything it, it still doesn't feel the same",0.035134587,0.9996337890625,0.15625,0.0,0.0006719476659782,0.0004066172987222,0.0011218206491321,False
+my mother moved back,0.030670939,0.0,0.0,0.0,0.008202051743865,0.0152248824015259,0.0012802320998162,False
+it doesn't feel the same cause you don't see those same people anymore,0.0334178,0.9993842840194702,0.0,0.0,0.0011417341884225,0.0010542123345658,0.001869392581284,False
+it's a whole bunch of new people,0.089577995,0.0,0.0,0.0,0.0009102152544073,0.0004469691193662,0.0015873822849243,False
+mary,0.010967735,0.0,0.0,0.0,0.0322407037019729,0.000819110951852,0.0008334260201081,False
+"mmhm, she",0.033246122,0.9932896494865417,0.0,0.0,0.0360618904232978,0.001220473786816,0.0011441147653385,False
+"yeah, she did",0.02792408,0.0,0.0,0.0,0.0017294669523835,0.0004121581732761,0.0007158973021432,False
+"she was really pressed that and was just like, can we just please move somewhere else and the land that she has my grandfather willed to her, and so she wasn't gonna give her land up that easily",0.08850401,0.8451935052871704,0.0,0.0,0.0007025586091913,0.0006629153504036,0.0007709189085289,False
+she didn't care what kind of land they called it or what people thought of princeville,0.08170467,0.9999352693557739,0.0,0.149,0.0338631868362426,0.001174729433842,0.0011751384008675,False
+that was her home and that she wanted to go back,0.027752401,0.0,0.0,0.0,0.0039567509666085,0.0032270518131554,0.0006543713388964,False
+so she did,0.031529333,0.8705723285675049,0.0,0.0,0.0024740360677242,0.0004206583835184,0.0006384818116202,False
+mary,0.010967735,0.0,0.0,0.0,0.0322407037019729,0.000819110951852,0.0008334260201081,False
+"mmhm, i know a lot about my grandfather, but i do not know a lot about his family there",0.045778666,0.9996860027313232,0.0,0.0,0.0006527406512759,0.0004421242629177,0.0005486063309945,False
+"they are a lot of mary, and i'm not sure if we are related",0.047495455,0.0,0.125,0.131,0.0042855171486735,0.0004246412718202,0.000542145979125,False
+"i know some of his family, but so yeah, this may not be the same, mary",0.017284594,0.0,0.0,0.0,0.0008171958033926,0.0004014261066913,0.0004271248471923,False
+it was like she was almost hysterical,0.27045983,0.7865411639213562,1.0,0.0,0.1848269551992416,0.0331834554672241,0.009773856960237,False
+"anytime we said anything about not going back, it was like getting your head chopped off",0.27690583,0.9999563694000244,0.0,0.0,0.6430762410163879,0.7863476872444153,0.5695504546165466,False
+"she was like you don't wanna do what, but she was",0.08555053,0.0,0.0,0.0,0.0133149521425366,0.0144396871328353,0.017718605697155,False
+she was pressed on getting back and she did all she could,0.05773066,0.0,0.0,0.0,0.0012933987891301,0.0007683416479267,0.0009118315065279,False
+"i mean, we didn't have our hand in the cookie jar or anything about that house and neither did my father, because she just hustled",0.15976663,0.9922548532485962,0.3125,0.099,0.0009508078801445,0.0052044629119336,0.0222909245640039,False
+basically did,0.015549194,0.9895663261413574,0.0,0.0,0.0023048336151987,0.0016136665362864,0.0007192128105089,False
+"she did everything as far as the furnishings, and um, picking out what house she wanted and we had nothing to do with that",0.028610796,0.0,0.0,0.0,0.0008866724674589,0.0004054655437357,0.0006396298413164,False
+she didn't want us to have anything to do with it,0.04783881,0.995171844959259,0.0,0.109,0.0012742929393425,0.000525573559571,0.0006063259206712,False
+"it's like this is, i want my house, my new house to be as close as possible to my last house, so i will feel comfortable in it, and she did to a t",0.04543531,0.0,0.0,0.0,0.0078004207462072,0.0015356154181063,0.0020746279042214,False
+if it took her ordering something from timbuktu to get it to look like the last house,0.07251463,0.8954912424087524,0.0,0.0,0.0023345884401351,0.0006462318706326,0.0006591040291823,False
+she did it,0.03856816,0.0,0.0,0.0,0.0027066655457019,0.0003939740709029,0.0008188214851543,False
+"just one more aunt, just one more aunt",0.2298686,0.0,0.0,0.0,0.002237802837044,0.0003912552783731,0.0032141341362148,False
+"that's there and i have a few cousins that went back, but as far as the maternal family, it's just my mother and my aunt, mmhm, which is totally different now",0.043031808,0.721133828163147,0.025,0.0,0.0006640155916102,0.0005525992601178,0.0004572254838421,False
+"but yeah, it was",0.021518974,0.0,0.0,0.0,0.000862895452883,0.0004234267398715,0.0007024816004559,False
+you didn't see too many white kids,0.27045983,0.9626387357711792,0.0,0.0,0.0804292634129524,0.1363288164138794,0.0523866638541221,False
+"i didn't meet my first white person until i was in the third grade because from kindergarten to second, i went to princeville",0.16620636,0.0,0.0,0.0,0.003873097943142,0.0324720665812492,0.0164640601724386,False
+"it was like you saw white teachers, but no white students, and i, the first white student was third grade when i went to this school called mary mary elementary, and that's when, um, the kids from princeville and the kids from stocks elementary school",0.26132804,0.9994544386863708,0.0,0.059,0.0125826383009552,0.1123445406556129,0.0387683287262916,False
+"that school only had the third grade, so it's just basically taking these two schools and mixing them together",0.03770977,0.9857805371284485,0.0,0.0,0.0007126388372853,0.0006353689823299,0.0008426142157986,False
+"and it's just like two schools meeting each other for the first time, so one was mostly white",0.18746567,0.6219995617866516,0.0,0.0,0.0015540341846644,0.0529055632650852,0.0543383248150348,False
+"that stocks had a few blacks because of east tarboro and east tarboro students went there and then all the princeville students uh, went to princeville, i mean, i see, you would see them, but i just like i never had 'em in my class",0.38959074,0.0,0.25625,0.0,0.0149696040898561,0.081078864634037,0.0397081561386585,False
+it was like a classroom with two teachers,0.03461955,0.9564903974533081,0.0,0.0,0.0017071546753868,0.001636826666072,0.0006381490384228,False
+the teachers,0.018325835,0.0,0.0,0.0,0.0016739849233999,0.0017630325164645,0.0005112681537866,False
+most of 'em was like they had a black and a white teacher,0.28517663,0.8014040589332581,0.0,0.0,0.2401842474937439,0.31502765417099,0.164197489619255,False
+and then it's like thirty black students,0.42390585,0.8402208685874939,0.1666666666666666,0.0,0.3802664875984192,0.3871163427829742,0.1952360123395919,False
+so that's all i was used to seeing was black kids,0.4151741,0.98799729347229,0.1666666666666666,0.0,0.3696084022521972,0.5088015198707581,0.2880762219429016,False
+so when i saw this white kid i'm like,0.263611,0.0,0.0,0.0,0.0474017411470413,0.1302105486392974,0.063430443406105,False
+"well, what is he? it was strange and then i remember seeing movies about the segregation and all that stuff was just running through my head",0.087430015,0.9959089756011963,0.05,0.065,0.0007771090022288,0.0199792515486478,0.0018838322721421,False
+but it it was nothing like that,0.02809576,0.9989111423492432,0.0,0.308,0.0011838513892143,0.0003961520269513,0.0007457073079422,False
+ac,,0.0,0.0,0.0,0.0009601054480299,0.0007963117677718,0.003003861522302,False
+my best friend for the longest time was a white kid,0.2712817,0.0,0.0,0.0,0.0041184336878359,0.0908981785178184,0.0155942579731345,False
+"mmhm, mmhm, it was mission san josé high school and that was fourth and fifth, fourth and fifth grade before we went to middle school mission san josé high school, mmhm, mmhm, no, actually, that's the only",0.045778666,0.9886931777000427,0.0,0.0,0.0016638862434774,0.000408838794101,0.0003927246143575,False
+"that's the only time that we were ever in school together because when she got there when she was a freshman, i was a senior",0.090114996,0.0,0.0,0.0,0.0011269908864051,0.0006249675061553,0.0017635670956224,False
+i went to college at um,0.035306264,0.0,0.0,0.0,0.0009222298394888,0.0005128678749315,0.0003582791250664,False
+"north carolina, a and t in greensboro",0.029984225,0.0,0.0,0.0,0.0006841224385425,0.0006521908799186,0.0002593376848381,False
+"i got homesick, missed my grandmother and my mother, so i came back home and did the lazy thing for awhile, and then i went to ecu and i got bored with that",0.15130237,0.9999197721481323,0.25,0.227,0.0026179461274296,0.0032223081216216,0.0021285777911543,False
+"it takes a lot to please me, and that school didn't please me, so now i have applied to the art institute in charlotte, and just waiting to hear from them so i can go on and finish and leave north carolina",0.078108564,0.9825453758239746,0.0,0.071,0.0009438301203772,0.0004373873525764,0.0004518388013821,False
+"yes, fashion design, mmhm, i've been drawing basically all my life, but when i went off to a and t is when i started majoring in it, they had a good program in it, but i thought at that point two and a half hours was too far away from home",0.040971663,0.9910504817962646,0.0,0.0,0.0007456362945958,0.0003902344615198,0.0005043445853516,False
+"i had the chance to go to the north carolina school of science and math, and i think that would have",0.02809576,0.5133879780769348,0.0,0.0,0.0006294906488619,0.0003876606933772,0.0003519916790537,False
+if i had gone,0.025692256,0.6477320194244385,0.0,0.0,0.003765566041693,0.0039504431188106,0.0008512953645549,False
+"that would have prepared me, um for being on my own, but i wasn't used to being on my own, and that kind of freaked me out, so i wasn't ready when i left, and i was home every single weekend for two and a half years",0.15918289,0.0,0.0,0.122,0.0008631836972199,0.0005382854142226,0.0005361762014217,False
+"mmhm, yeah, that's nothing there, but i guess it's just like the same way anybody else feels about home, no matter what's there or what goes on there",0.03358948,0.6077094078063965,0.0,0.036,0.0008517266833223,0.0004515692417044,0.0004662783758249,False
+"when you can't run away from it, it's still gonna be your home",0.1835188,0.0,0.0,0.0,0.0136996479704976,0.010776238515973,0.0010426337830722,False
+"and it was only princeville to me now is is not the same princeville, because you see all these people that you don't know doing things that you really don't approve of, and you're like, i can't believe this is the place that i grew up in, and the the street that i grew up on was basically like middle class",0.13745339,0.9987779259681702,0.0,0.0,0.0045300419442355,0.0013894266448915,0.0174204166978597,False
+"and now, if you go down that street, a lot of those people are gone and you see a lot of drug addicts and prostitutes, and just a whole bunch of carrying on that you didn't see before the flood",0.39284727,0.0,0.0,0.0,0.3191442489624023,0.2101673185825348,0.3471809923648834,False
+especially on that street,0.029812546,0.0,0.0,0.0,0.0010900165652856,0.0006189307314343,0.0006376857636496,False
+you just didn't see that that type of carrying on on that street,0.03204437,0.9998024106025696,0.0,0.0,0.0009086230420507,0.0004705850442405,0.0009603428188711,False
+"i think that with with the flood, it really messed a lot of people up, not giving them an excuse to be on drugs, because it was probably there and i just didn't see it",0.1256687,0.9998564720153809,0.0,0.124,0.0014926339499652,0.0015184568474069,0.0010173174086958,False
+but now it's just like th,0.02637897,0.7921110391616821,0.0,0.0,0.0018044034950435,0.0013775561237707,0.0007180711836554,False
+"everybody's open with it just going through princeville, now you gonna nine times out of ten? you gonna see more drug addicts than you do, just regular people, i mean, cause they just roam the street a lot of people",0.23101798,0.5279650688171387,0.0,0.0,0.019037403166294,0.0165178403258323,0.0226506888866424,False
+it,0.017770508,0.0,0.0,0.0,0.0016468944959342,0.0009156857267953,0.0006150004337541,False
+it really messed a lot of people up,0.15743166,0.9977757334709167,0.0,0.278,0.005987165030092,0.008251192048192,0.0059666601009666,False
+it really did and it's just like people know,0.024147147,0.0,0.0,0.0,0.0006398030673153,0.000396265881136,0.000570940086618,False
+it's just so many drugs going through that area,0.14193995,0.9915996789932251,0.0,0.0,0.0125664277002215,0.0064103780314326,0.0098638124763965,False
+it's people coming from,0.02655065,0.0,0.0,0.0,0.0010393868433311,0.0007645094301551,0.004370086826384,False
+seems like they're migrating from north just to come here,0.10461388,0.7327309846878052,0.0,0.0,0.0009934759000316,0.0011716919252648,0.0008519802941009,False
+"you see all these new people and it's like you get to talk to 'em and like where are you from? i'm from new york or new jersey, and i'm just tryna figure out well, why are they here? why did they come here? it's strange, mmhm, mmhm, mmhm, the cost of living is lower, but still a lot of outside people",0.11343288,0.5734167098999023,0.0,0.046,0.0011915762443095,0.0006016601691953,0.0006698095821775,False
+"if you, if you would go through princeville right now and just pick a random person just walking in the street and like did you grow up here? you're gonna get the answer, no cause it's not that many people left tarboro, greenville, greensboro, raleigh, rocky mount, i'm gonna be brutally honest",0.11600884,0.9613937139511108,0.0,0.103,0.0099150547757744,0.1392081379890442,0.0020932226907461,False
+"we have the dumbest bunch of people running princeville, we always get the wrong people in there",0.78018236,0.9997585415840149,0.5,0.299,0.7921942472457886,0.9915589094161988,0.9907692074775696,False
+they get in there and do all this talking about,0.058929358,0.0,0.0,0.0,0.0013695360394194,0.0009095970308408,0.0027150008827447,False
+i'm gonna do this,0.078108564,0.0,0.0,0.0,0.0051667406223714,0.002228639787063,0.0007129475707188,False
+"i'm gonna do that and they never do it, and we can find the most uneducated people to try to run this town",0.24418297,0.999792754650116,0.0,0.0,0.0179564617574214,0.0217223688960075,0.0837541818618774,False
+"it's it's sad, and anytime they have a town meeting it's these are supposed to be grown, educated, civilized people, and they're in the town meeting fighting and they have it on the front page of the newspaper",0.046465382,0.5989368557929993,0.0499999999999999,0.135,0.0012406222522258,0.0005476008518598,0.0003571074630599,False
+i'm not used to that kind of stuff,0.038053125,0.9994240999221802,0.0,0.0,0.0010730226058512,0.000577806145884,0.000841427128762,False
+"no, we've had dumb mayors, but it hasn't",0.73034537,0.0,0.375,0.235,0.0825885832309722,0.8944253921508789,0.9833767414093018,False
+it hasn't been like that before we've had the dumbest bunch of mayors,0.7569718,0.9479812979698181,0.0,0.33,0.7116667628288269,0.9835101366043092,0.9887487888336182,False
+i think we need to be in the guinness book of world records,0.021518974,0.0,0.0,0.0,0.0006834629457443,0.0004671187198255,0.0003065632481593,False
+"probably part of the reason, uh, misusage of funds",0.035477944,0.9993625283241272,0.0,0.0,0.000774880987592,0.0005291295819915,0.0006070822710171,False
+"i mean, any kind of money that came through was always a big scandal about that and it's basically, i just don't think that it's there's one woman that's on the town council that really pushes and drives for princeville to be good, but they don't give her her credit, and that's ann howell brown, mary",0.0765103,0.9989790916442871,0.0,0.032,0.0007425305084325,0.0017431188607588,0.0027443473227322,False
+i know some call her mary,0.028267438,0.0,0.0,0.0,0.0096656782552599,0.0004914955352433,0.0005587131599895,False
+"um, she, she's a gogetter, and she gets a lot of stuff going for princeville",0.22990796,0.0,0.0,0.0,0.7011441588401794,0.1314647495746612,0.3861131966114044,False
+"she'll get the ball rolling, but they won't continue to push it",0.17242117,0.9615710973739624,0.0,0.0,0.001009568106383,0.0050604403950273,0.0158328432589769,False
+"it's like they'll work on it a little while, and then they just leave her ideas alone, and she's like the most civilized and most educated person that they have in there, and i really think she should be mayor, but i don't know why they don't see that you know she's a good person",0.05253629,0.9897134304046631,0.0,0.043,0.0006711226888,0.0009203776717185,0.0006512986146844,False
+"yes, i don't think so they",0.016937515,0.0,0.0,0.0,0.0008126964676193,0.0093492986634373,0.0006031972588971,False
+"they're the ones that complain about everything, but when you go through the polls, the polls are like bare",0.15626417,0.995250940322876,0.0,0.08,0.0355207361280918,0.0018896133406087,0.0231117270886898,False
+"it's like okay, you were complaining",0.09816993,0.9990332126617432,0.0,0.196,0.0164709631353616,0.0017730513354763,0.0024552261456847,False
+"but where are you now? so no, they don't",0.027752401,0.9524250030517578,0.0,0.0,0.0026379004120826,0.0011858642101287,0.0007872974965721,False
+i don't think they do,0.018742332,0.9830405116081238,0.0,0.0,0.0010544368997216,0.0007265321328304,0.0005702901398763,False
+"people say it just to say it, but they don't do it because they r, fail to realize that when the voting goes on and they have it on the news, they let you know the percentage of people that showed up and the percentage is usually low, and you know like if if princeville has seventeen hundred people, why did only six hundred people and sometimes not even that many? why did only six hundred people show up to vote? it can't be six hundred grown people and eleven hundred children",0.03599298,0.9964382648468018,0.0,0.078,0.0010637869127094,0.0004606058937497,0.0009547284571453,False
+that doesn't make sense,0.0825038,0.9999324083328247,0.0,0.0,0.0009068274521268,0.000382781116059,0.000893980381079,False
+everybody was together,0.03736641,0.0,0.0,0.0,0.0008688461384736,0.000357744313078,0.0007179599488154,False
+everybody was together,0.03736641,0.0,0.0,0.0,0.0008688461384736,0.000357744313078,0.0007179599488154,False
+"we had a stubborn grandmother, very stubborn, but she made sure that all of us stayed together",0.31540272,0.0,0.0,0.185,0.0066595622338354,0.0777494087815284,0.0023695898707956,False
+"um, she never, even though i was her favorite unintelligible",0.15042676,0.9999157190322876,0.0,0.0,0.0015177188906818,0.0034179952926933,0.0072556301020085,False
+it was,0.020130653,0.5452705025672913,0.0,0.0,0.0022854036651551,0.0005957576213404,0.0006663513486273,False
+it was a,0.02124131,0.7942071557044983,0.0,0.0,0.0033987129572778,0.000596669036895,0.0026197209954261,False
+it was a bunch of us and she just took care of everybody,0.044748597,0.0,0.0,0.0,0.000879569677636,0.0006524740601889,0.0003510695823933,False
+she didn't do for one unless she did for the other forty eight of us,0.035134587,0.998499870300293,0.125,0.0,0.0015057392884045,0.000398689036956,0.0003436294209677,False
+"cause think it was fifteen grands, fifteen great grands, and then seven, she had seven kids, and then they all had spouses, so we all met up every sunday at her house",0.053335425,0.0,0.0,0.0,0.00083975068992,0.0004603993729688,0.0006790487095713,False
+she had a fairly large house,0.029125832,0.0,0.0,0.0,0.0012204789090901,0.0004700580029748,0.0002617714344523,False
+"it wasn't big enough, but it it was large enough every sunday, and we still do it now, but we just do it at my aunt sabrina's house",0.044748597,0.0,0.0,0.0,0.0007317453273572,0.0004075232136528,0.0002661117759998,False
+"um, cause the house that we moved into after the flood was smaller, not that much smaller, but it just couldn't house all of us, and during the flood, thank god for my aunt gail",0.016729267,0.9982348680496216,0.0,0.0,0.0006288742297329,0.0005395868211053,0.0005862994585186,False
+"she has a room on the end of her house that's about twenty by forty feet, so during the flood, all of us stayed in princeville, except for her and two of my uncles, and so it was forty one people in her house for nine months, so that sunday tradition basically turned into an everyday thing for nine months",0.02637897,0.0,0.2,0.0,0.0009384835138916,0.0004460161435417,0.0002814042090903,False
+"and it, it really wore me out",0.13082063,0.0,0.0,0.0,0.0017126960447058,0.0007664337754249,0.0028653009794652,False
+"but i'm just glad that we did have somewhere to go and to humble us, she would, um, let us go to tarboro high school to really see how blessed we were by being a close knit family and then seeing how some of these families had to live at the school for for so long, and some of 'em not even having anywhere to go, we really couldn't drive anywhere",0.05613239,0.9115356206893921,0.0,0.0,0.0008841857779771,0.0004849093966186,0.000315687211696,False
+w,0.022351967,0.0,0.0,0.0,0.0012372832279652,0.0044690929353237,0.0005613963585346,False
+but we walked,0.020824814,0.7862437963485718,0.0,0.0,0.0011183023452758,0.0004940389771945,0.0003751657786779,False
+"um, they had like this block and we had had a curfew too",0.06532243,0.0,0.0,0.2,0.0300876498222351,0.0009104468044824,0.0030105251353234,False
+"but like this part down here, you couldn't go",0.03770977,0.0,0.1555555555555555,0.0,0.0023059204686433,0.0016095879254862,0.0004949647118337,False
+you couldn't go to,0.02517722,0.8344837427139282,0.0,0.0,0.0089737763628363,0.001346715609543,0.0009595402516424,False
+"we had to go through mcmillan drive and take the back way, because it, if you were in a certain neighborhood, you had to stay within that neighborhood and couldn't go any further so we would go up there maybe once or twice a week",0.043031808,0.9856158494949341,0.0,0.0,0.0006909825024195,0.0004937826306559,0.0004182229749858,False
+"yes, i don't think it would",0.016451603,0.986320436000824,0.0,0.0,0.000779807800427,0.0006427985499612,0.0003515939170029,False
+"a lot of her rubbed off on us, also, because we just stubborn, just like her, just determined to do a lot of things cause she had all the odds against her and she overcame everything, and i, i feel that we all can do the same thing, too",0.2297899,0.8166028261184692,0.0,0.05,0.1316377222537994,0.0009381673880852,0.0082728890702128,False
+she was just that type of person,0.035134587,0.7219405174255371,0.0,0.0,0.0038482334930449,0.0006382353603839,0.0080726761370897,False
+there's only a few,0.101391904,0.9558648467063904,0.1,0.0,0.0007466246606782,0.0004176014917902,0.0004505289834924,False
+there was only a few,0.08635602,0.9601571559906006,0.1,0.0,0.0007258685072883,0.000390242494177,0.0004986064741387,False
+"mmhm, mmhm, the art institute in charlotte",0.01193956,0.9455351233482361,0.0,0.0,0.0008648129296489,0.000373146351194,0.0003224493993911,False
+it's a good school,0.023117077,0.0,0.0,0.0,0.0007605470600537,0.0004747232596855,0.0012766715371981,False
+main reason why i hadn't gone back to school,0.043718524,0.7587383389472961,0.0,0.0,0.0013226502342149,0.0007033413858152,0.0004272606456652,False
+"i was doing like local schools and i considered ecu local because i was really dead set on not leaving my grandmother, and every time i would say that i was going back to school, she would get sick",0.14597784,0.9675068855285645,0.1828571428571428,0.17,0.0179501306265592,0.0218620747327804,0.0266724247485399,False
+"she would get physically sick, just like i want you to do this",0.4151741,0.701693594455719,0.7142857142857143,0.193,0.7296403646469116,0.176633208990097,0.4173499047756195,False
+"basically, it's what she was saying, i want you to do this, but deep down inside she still didn't want me to leave, and the day that she died, i was supposed to been going to orientation, so that bothers me, but then again it pushes me because i know that she really wanted me to finish, but i also wanted her to know that she was not what was holding me back",0.082104236,0.9890515208244324,0.0,0.128,0.004966293927282,0.0010166977299377,0.0007868985412642,False
+"i didn't want to leave her and she knew that, but now that she's gone, i kn know that she would really want me to move away and go on and finish, because i've been doing it for seven years and i'm not finished yet, so it's time",0.06652113,0.0,0.0,0.023,0.0011962759308516,0.0013901249039918,0.0003949528909288,False
+"it's basically time for me to grow up because anything i needed or anything that needed to be done, she did for me",0.056931525,0.0,0.0,0.0,0.0059473211877048,0.0009252001764252,0.0006338360253721,False
+"yeah, i'm on my own now my first love is",0.039254878,0.0,0.0,0.0,0.0013758942950516,0.0007281551952473,0.0183766521513462,False
+"um, i really wanna be a wardrobe stylist, for, like a television show or music videos or like magazine spreads, is something i've always been interested in, but when you get that degree you can basically do anything from imaging to designing",0.0669207,0.0,0.0,0.0,0.000615831289906,0.0005505176959559,0.0005533774965442,False
+i don't want my own line,0.042001735,0.983918309211731,0.0,0.196,0.0151421017944812,0.0126449130475521,0.0008156329276971,False
+"there's too much that comes with that, and then i don't know how to sew anything that i have designed",0.058929358,0.9997472167015076,0.0,0.0,0.0012294972548261,0.0005743209621869,0.0006615965976379,False
+there's a woman in princeville that does all the sewing because i refuse to get behind a sewing machine and learn how to do anything,0.1414913,0.0,0.4,0.084,0.0018198954639956,0.0033489079214632,0.0050555085763335,False
+"uh, her name is mary, her, that was her sister that i was just talking about",0.05133759,0.0,0.0,0.0,0.0010025009978562,0.0014617758570238,0.0041055385954678,False
+"that's on the town council, miss ann",0.011037151,0.0,0.0,0.211,0.001014806330204,0.001008057850413,0.0004274162347428,False
+that's her sister,0.03994159,0.0,0.0,0.0,0.0047818687744438,0.0043743690475821,0.0021979296579957,False
+"no sewing for me, period, yes, yes, mmhm, and also my aunt helped me with that, um",0.112144895,0.9959908127784729,0.0,0.102,0.00073779723607,0.0004499025817494,0.0017141706775873,False
+"the year of the flood, uh, my aunt has her wholesale license and she wanted all the girls like anybody that came to her",0.16482529,0.0,0.0,0.0,0.001157546415925,0.004905940964818,0.0040958290919661,False
+"um, she had me to design prom gowns for them and they cost a little or nothing",0.13386416,0.0,0.1875,0.0,0.007712123915553,0.0005868227453902,0.0020886023994535,False
+they just paid for the dress,0.11794081,0.9155604839324951,0.0,0.0,0.0016479964833706,0.0009311576723121,0.0010567996650934,False
+"she didn't make any money or anything off of it, but it's this company that she dealt with out of new jersey that i uh, sent all of my designs to, and swatches of fabric, so they can know, um, what kind of fabric to use on the gowns, and what kind of beading, and what color? and that year think i did eighteen gowns, and they had 'em all shipped here",0.123736724,0.0,0.0,0.0,0.0006895573460496,0.0005383174866437,0.0005116895772516,False
+i think i did two tuxedos,0.07571117,0.6563789248466492,0.0,0.0,0.0238199848681688,0.0046381927095353,0.0156350452452898,False
+also that they did so,0.022351967,0.938734769821167,0.0,0.0,0.0008963263826444,0.0003744802670553,0.0004398676392156,False
+i've actually seen quite a few of my designs come to life,0.030155903,0.0,0.1,0.0,0.0006303669069893,0.0004311232187319,0.0003587545652408,False
+"mmhm, they, they make 'em there in new jersey, and then they send them to india to be beaded",0.22422299,0.5149577856063843,0.0,0.0,0.0098605165258049,0.1365444809198379,0.1476868242025375,False
+and then they,0.018881164,0.0,0.0,0.0,0.002334093209356,0.0005755298188887,0.0015025186585262,False
+s,0.0495556,0.0,0.0,0.0,0.0025115853641182,0.0020734022837132,0.0005548478220589,False
+the people in india sent them back to us,0.23803931,0.9985796213150024,0.0,0.0,0.0006883616442792,0.0008124022278934,0.002452336018905,False
+she did,0.030670939,0.0,0.0,0.0,0.0028572159353643,0.0003949632518924,0.0007681904826313,False
+that's the kind of person,0.037881445,0.0,0.0,0.0,0.0026910691522061,0.0004082931263837,0.0030647742096334,False
+that's why,0.018464668,0.0,0.0,0.0,0.0015995830763131,0.0004707604530267,0.0007288261549547,False
+i,0.018187003,0.0,0.0,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i,0.018187003,0.0,0.0,0.0,0.0033499409910291,0.0007452693535014,0.0005561164580285,False
+i'll be glad when you,0.058929358,0.0,0.0,0.0,0.0007410714169964,0.0015967413783073,0.0016940579516813,False
+if you get a chance to interview her because she's a,0.037881445,0.0,0.0,0.0,0.0115980664268136,0.0044642710126936,0.0135085154324769,False
+she's a good person,0.021657806,0.0,0.0,0.0,0.0007634359644725,0.0003960967005696,0.0046180626377463,False
+she'll give you the,0.04680874,0.0,0.0,0.0,0.0345673225820064,0.0027067067567259,0.0171769987791776,False
+she'll give you the shirt off her back,0.2712817,0.9985584616661072,0.0,0.0,0.9487093091011048,0.1042297706007957,0.4655426740646362,False
+i try not to stay too long,0.035306264,0.9931657910346985,0.05,0.0,0.0020640366710722,0.0009402232826687,0.0004850110854022,False
+women and gossiping not too good,0.3544517,0.996861457824707,0.0,0.556,0.4224226772785187,0.2390166372060775,0.1450251042842865,False
+think the best thing that princeville has going for them now is the boys and girls club,0.043718524,0.5880088806152344,0.0,0.0,0.0009118410525843,0.0035176738165318,0.0012105694040656,False
+"that's about all i can think of, um, the church that my grandmother was a member of",0.03770977,0.9399563074111938,0.0,0.0,0.001117119914852,0.0019082116195932,0.0009182273061014,False
+they have,0.022773718,0.0,0.0,0.0,0.0010593563783913,0.0003587891114875,0.0009617694304324,False
+"i think it's monday night, but they have the nights for the kids, but other than that, just them and and the boys and girls club, it basically keep the children off the streets and out of trouble",0.05413456,0.0,0.1625,0.088,0.0046129906550049,0.0025047601666301,0.0011999363778159,False
+"i wish they had something like for that adults, but the adults really should know better, and they're old enough to know better and to do the things that they're doing",0.092262976,0.76277756690979,0.0,0.0,0.0059135011397302,0.0016149376751855,0.0009114044951274,False
+"i haven't really been in there but once or twice, but they do a lot of activities within the building and then they may take 'em out maybe once or twice a week",0.06372416,0.0,0.0,0.0,0.0005990546196699,0.000585674715694,0.0004657621611841,False
+"yes, sir, mm",0.023460433,0.0,0.0,0.0,0.0008491452899761,0.0011550796916708,0.0004998818039894,False
+"there were tons of playgrounds in princeville, i do remember that there was tons of playgrounds and basically just going to can't say friends",0.07131593,0.9445222616195679,0.0,0.1,0.0006768464809283,0.0004339645965956,0.0003762711130548,False
+"basically everybody was your family members, but just going to somebody's house, even if it meant them coming back to my house, because my back yard was just like a jungle gym",0.13790205,0.9985412359237671,0.0,0.0,0.0157407503575086,0.0121307587251067,0.003557892749086,False
+so most of the time and that's where all of the kids were at my house,0.019436494,0.9925565719604492,0.0,0.0,0.001146835507825,0.0006157150492072,0.0005085337324999,False
+"let's see hide and seek, hopscotch, um basketball, uh, mary got me started in tennis",0.03049926,0.0,0.0,0.108,0.0010744326282292,0.0009972022380679,0.0038463422097265,False
+he was,0.02124131,0.0,0.0,0.0,0.0501971170306205,0.0004317214188631,0.003418126842007,False
+they used to tease me and call me white boy wanted play tennis,0.29558796,0.6432690620422363,0.0,0.146,0.0356490649282932,0.0296750273555517,0.0444726906716823,False
+"um, it was just me and uncle mary, um",0.040971663,0.9381645917892456,0.0,0.0,0.0008938437094911,0.0013622306287288,0.0005613808170892,False
+"badminton, think the best one though was playing in the mud",0.08850401,0.9964368343353271,0.0,0.0,0.0008586620679125,0.0008761995704844,0.0012243796372786,False
+i think i played in the mud til i was about ten,0.07211506,0.9585745930671692,0.0,0.0,0.0042707296088337,0.0007648450555279,0.0018964236369356,False
+"yeah, i was building cause at one point i wanted to be an architect, so i would just wet the whole backyard up and just dig up all the mud and make like my own little communities with the the river and streets, and i was real creative with with that and then my grandma would just drive up in the driveway and just run over all over it",0.21804169,0.0,0.0,0.0,0.0028754193335771,0.0186186823993921,0.0122678596526384,False
+it's like i told you about building this stuff in my driveway,0.06931809,0.0,0.0,0.0,0.0008483122801408,0.0004845570947509,0.0015030631329864,False
+"mmhm, now see we were",0.026207292,0.0,0.0,0.0,0.0012759324163198,0.0004430862318258,0.0012724614934995,False
+we were special kids,0.03599298,0.0,0.0,0.0,0.0010229080216959,0.0006133085116744,0.0012253712629899,False
+"we always had like one step above what everybody else had, because other people would ride bikes",0.062125895,0.0,0.0625,0.0,0.0006885873735882,0.0004840407054871,0.0005466077127493,False
+"we had scooters, and then uncle mary had the scooter that he used to take us riding on",0.06012806,0.0,0.0,0.0,0.0054723853245377,0.0007357154972851,0.0005053753848187,False
+while everybody else was riding bikes,0.019158829,0.6873270273208618,0.0,0.0,0.0010306017939001,0.0006156874587759,0.0005352152511477,False
+"he was on his scooter, and he had at least one or two of us on the back of it, so everything that was mary's fault",0.07251463,0.6837766766548157,0.15,0.097,0.0241006687283515,0.0074974657036364,0.0010204833233729,False
+"everything that the other kids did, we did, but two times better, she's like okay, they have this",0.0741129,0.0,0.0,0.0,0.0008028567535802,0.0004639763501472,0.0014908342855051,False
+i'm gonna get this for you,0.1835188,0.0,0.0,0.0,0.002489857841283,0.0019602149259299,0.0028765201568603,False
+i'm gonna this that and the other,0.086087525,0.583347499370575,0.125,0.0,0.0013128495775163,0.0008072816417552,0.0017347768880426,False
+that's just the way she is,0.04165838,0.0,0.0,0.0,0.0019957504700869,0.0012341153342276,0.002862618304789,False
+"mmhm, they have the same zip code, but it's still like princeville is basically a neighborhood",0.052136723,0.9682613611221313,0.0,0.0,0.0009024969767779,0.000420872005634,0.0003365340235177,False
+"it's basically a neighborhood, but you still have a lot of people",0.04268845,0.0,0.0,0.0,0.000689114909619,0.0004584926937241,0.0006576104206033,False
+older people that are over there,0.13386416,0.0,0.0,0.0,0.0008010310702957,0.0011968064354732,0.0004431516863405,False
+"when they address their mail, they will put princeville, north carolina, two, seven, eight, eight, six",0.057331093,0.7616215348243713,0.0,0.0,0.000719723640941,0.0004418257449287,0.0004942778032273,False
+"and that's the same as tarboro, so i don't know why they did it like that, but that's how a lot of people do it",0.046465382,0.9874393343925476,0.0,0.0,0.0006868296186439,0.0004513788153417,0.0007322332239709,False
+the only thing that separates them is a bridge,0.16151784,0.7758758068084717,0.0,0.0,0.0016134575707837,0.0017538227839395,0.004736618604511,False
+that's it only way in only way out,0.035477944,0.5062253475189209,0.0,0.0,0.0009242724045179,0.0008091696654446,0.0009411523351445,False
+well with the younger people,0.07011723,0.0,0.0,0.0,0.0006598400068469,0.0006658821948803,0.0007731723599135,False
+"they fight a lot and i don't understand why because you're separated by a bridge and under that bridge is the tar river and you're all drinking the same water, so i don't understand",0.083939545,0.9788629412651062,0.0,0.073,0.0143767865374684,0.0009132100385613,0.0017188074998557,False
+really,0.015757442,0.0,0.0,0.0,0.0014107627794146,0.0004142853140365,0.0003981906920671,False
+"if you go in parts of east tarboro, you can look over and see princeville, even though looking at it from the bridge's point, it's like a mile apart, but it's like actually a part where it's nothing but fields where east tarboro meets princeville, so i don't understand why there's so much animosity, but my grandmother said it's that was going on even when she was a kid and she was born in thirty eight, so she said it's been going on that long",0.038911518,0.8567546606063843,0.0,0.047,0.0006972625269554,0.0004594127531163,0.000563689332921,False
+she always told me that princeville won anytime they would fall,0.049898956,0.0,0.0,0.0,0.0017041106475517,0.0012359751854091,0.0005253702402114,False
+she said that tougher people come from princeville because the the means of living there was rougher than what,0.08555053,0.9989399313926697,0.0,0.0,0.0011771114077419,0.000505597970914,0.0024898741394281,False
+tarboro because we had to go to tarboro for everything,0.055333257,0.0,0.0,0.0,0.0009969339007511,0.0006147581152617,0.0007140327361412,False
+it's nothing,0.033761155,0.9988910555839539,0.0,0.0,0.0042268722318112,0.000705522543285,0.0007548407884314,False
+the the most your gonna find in princeville is probably a mechanic and a store,0.018325835,0.0,0.0,0.0,0.001379674533382,0.0004807667573913,0.0006265481933951,False
+that's about it,0.025520578,0.0,0.0,0.0,0.0010884621879085,0.0005713042337447,0.0008220607996918,False
+a couple of beauty salons,0.059328925,0.0,0.0,0.0,0.0008249878883361,0.0012455929536372,0.000408820080338,False
+that's about it,0.025520578,0.0,0.0,0.0,0.0010884621879085,0.0005713042337447,0.0008220607996918,False
+that's what she said,0.021796638,0.0,0.0,0.0,0.0008615912520326,0.0004145458515267,0.0008947912720032,False
+i don't know how to sing that part yet my grandmother knew everyone and she only knew them by their nicknames,0.027580723,0.0,0.0,0.0,0.0014618169516324,0.0010783697944134,0.0006247629062272,False
+is what used to trip me out,0.11536485,0.8857263326644897,0.0,0.0,0.0044259801506996,0.002586190123111,0.0085015380755066,False
+she never knew 'em by their real names,0.018881164,0.0,0.0,0.0,0.001517359050922,0.0007204105495475,0.0006644482491537,False
+she would tell us stories of people and we're just sitting back snickering like where do they get these names from? and she's like i don't know,0.11407687,0.7564767003059387,0.0,0.0,0.0124626457691192,0.0056947101838886,0.0023614529054611,False
+that's the only name,0.023460433,0.0,0.0,0.0,0.0031872717663645,0.0010618161177262,0.000369019282516,False
+i know them by different ch,0.038053125,0.0,0.0,0.0,0.0006819492555223,0.000413167203078,0.0003230521979276,False
+people that she knew or that her mother knew,0.02809576,0.0,0.0,0.0,0.0016617901856079,0.0016155389603227,0.0011459909146651,False
+"it was basically, if her mother knew 'em she knew 'em she just knew everything about everybody",0.026035614,0.983732283115387,0.0,0.0,0.0037847708445042,0.0010600651148706,0.000511554069817,False
+"one thing that sticks in my mind is that because i didn't grow up in the house with my sister, her daughter and i were really close because all of us stayed in the house together, and my sister stayed with my mother and my father and i used to mistreat my sister, and i treated her daughter more",0.28021416,0.0,0.0,0.0,0.0008103603613562,0.0110304476693272,0.0020495161879807,False
+"she was my sister because i saw her every day and my grandmother told me she she made us, um, get along with each other, because we used to fight like cats and dogs, and so you would never know who would have to be the last person to do something for you",0.25447917,0.0,0.0625,0.046,0.0473757088184356,0.0025014230050146,0.0014865543926134,False
+"and if your sister is the last person that has to do something for you, she's gonna remember all the times that you mistreated her, and she may just pass you by",0.37083253,0.9774137735366821,0.0,0.0,0.1787945926189422,0.0055943159386515,0.0515437833964824,False
+"so ever since then my sister and i are just like this, and when she's not in school, when you see me, she's two steps behind me",0.048525527,0.0,0.4,0.0,0.0021254748571664,0.0020968434400856,0.0014375013997778,False
+she's not too far behind me,0.0789077,0.0,0.15,0.0,0.0045791929587721,0.0033331252634525,0.001662285416387,False
+she's twenty one now,0.034104515,0.0,0.0,0.0,0.1198129802942276,0.0009364995639771,0.00061902863672,False
+"mmhm, she's a junior at north carolina state majoring in criminology",0.090114996,0.9952653646469116,0.0,0.0,0.0165358986705541,0.0008357330807484,0.0031952974386513,False
+i think she really wants to do forensic science,0.04131502,0.0,0.0,0.0,0.0008144947350956,0.0004909724812023,0.0003795486409217,False
+she's always had an infatuation with dead people,0.28923595,0.0,0.2,0.361,0.0524269603192806,0.0418841615319252,0.0154202859848737,False
+"i don't know why she's really scary, but she loves dead people",0.35756677,0.0,0.35,0.368,0.0194397065788507,0.1261639595031738,0.2956231832504272,False
+"mmhm, mmhm, she stays up there and she sh",0.10763696,0.0,0.0,0.0,0.2670305371284485,0.1494261622428894,0.2980051636695862,False
+"might as well commute, because if i'm not up there, my mother's up there, so we see her at least two or three times a week",0.036679696,0.5023378133773804,0.3,0.0,0.0007049395353533,0.0007741134613752,0.0008073543431237,False
+i'm not back in school yet,0.030670939,0.8650320172309875,0.0,0.0,0.0022851219400763,0.0008525609737262,0.0004611064796335,False
+"mmhm, mmhm, i love her school",0.065721996,0.0,0.0,0.0,0.0012882344890385,0.000547824834939,0.0003290212480351,False
+i was accepted and i didn't go,0.040284947,0.9082839488983154,0.0,0.0,0.0007441324414685,0.000499804620631,0.000335681514116,False
+i wish i had gone,0.058929358,0.6308773159980774,0.0,0.0,0.0117726828902959,0.1435058265924453,0.0176638383418321,False
+it's just the campus,0.022213135,0.6500378847122192,0.0,0.0,0.000714389141649,0.0003497723664622,0.0006365214358083,False
+the campus is beautiful,0.039254878,0.0,0.0,0.0,0.0006887980853207,0.0003445047186687,0.0006656525074504,False
+"um, the academics are good",0.021380141,0.0,0.0,0.0,0.000622623192612,0.0004124437109567,0.0047291591763496,False
+the people are nice,0.019297661,0.0,0.0,0.0,0.000567372480873,0.0004194715002086,0.0020871914457529,False
+"i mean, i haven't seen anything at that school out of place",0.040628307,0.9979186654090881,0.3125,0.0,0.0008188760257326,0.0007281309226527,0.0006415328825823,False
+don't see anybody mistreating it,0.082104236,0.6336855888366699,0.0,0.0,0.00080001616152,0.0005731427809223,0.0042713098227977,False
+if it goes on i don't see it,0.027580723,0.9987595081329346,0.0,0.0,0.0007253858493641,0.0006574352737516,0.0008829536964185,False
+everybody's happy,0.022074303,0.0,0.0,0.0,0.0006738934316672,0.0004100069636479,0.0004619570972863,False
+"go lucky and it's like every time i go there, the sun is always out",0.029812546,0.0,0.0,0.0,0.0010915659368038,0.0010667726164683,0.0005636301939375,False
+it never rains,0.04234509,0.9127562642097473,0.0,0.0,0.0019452058477327,0.0003911012900061,0.0004935649922117,False
+"so mmhm, mmhm, i had just gotten home from school",0.055732824,0.9993720650672913,0.0,0.0,0.0021395180374383,0.000524720584508,0.0007750405347906,False
+"i left school that january of ninety nine, so i only been home about nine months, and i often think that if i stayed at a and t, i wouldn't have lost all my clothes, but um, i left for work that morning",0.09172598,0.9775074124336243,0.0,0.0,0.0007213469361886,0.0006475925911217,0.0006130244582891,False
+my grandmother and i left for work and she just told me to pack an outfit or two because they're thinking about that the dam might break and that it might flood a little,0.11794081,0.0,0.09375,0.0,0.0120402444154024,0.0015456459950655,0.0012635918101295,False
+"and from what she told me of the flood in fifty nine, it was only about two feet of water, so that's all that we were expecting on my way to work that morning",0.022351967,0.5046136975288391,0.0,0.0,0.0006232332671061,0.0005299311014823,0.0006549340323545,False
+i was in a car accident,0.15159425,0.9865695834159851,0.0,0.383,0.0057363463565707,0.0005157774430699,0.0011635670671239,False
+"my car hydroplaned, so i came back home, and that's when i heard of everything that was going on and that they were trying to get everybody out of princeville, so i didn't have time to to go back to get any of my belongings cause it was too late for two weeks",0.0495556,0.997642457485199,0.0999999999999999,0.0,0.0008350819116458,0.0006127490196377,0.0005913306376896,False
+"oh, well, i grabbed some stuff before i left home that morning, and then because we couldn't go back to princeville, everybody went to my aunt mary's house",0.05613239,0.0,0.0,0.0,0.0009129559039138,0.0005575140821747,0.0004701890866272,False
+that's where everyone met,0.033761155,0.0,0.0,0.0,0.0006316909566521,0.0003870524815283,0.0013902036007493,False
+just stayed there and then got the notice of the water,0.02397547,0.9731205701828003,0.0,0.0,0.0008683263440616,0.0004390986869111,0.0005464126588776,False
+"they were sand bagging everything and it didn't do any better, and that the water was coming and it was coming fast",0.08555053,0.7420161962509155,0.0,0.103,0.0112049002200365,0.0013391171814873,0.0018661009380593,False
+"at that point, i'm going to tell you the truth",0.049898956,0.0,0.0,0.0,0.0008234331617131,0.0004920932115055,0.0007689833291806,False
+i was selfish,0.1943727,0.9877031445503235,0.5,0.608,0.0380591563880443,0.099299855530262,0.0206401031464338,False
+"the only thing i was thinking about was like, what am i gonna do? i'm losing all of my clothes",0.13565879,0.9913473725318909,0.0,0.113,0.0130175063386559,0.0014404298271983,0.0013110720319673,False
+i have nothing to wear,0.06012806,0.9933159947395325,0.0,0.0,0.0113277528434991,0.0005989481578581,0.000862979737576,False
+not thinking that all of my family had gotten out and we were all under the same roof and everybody was okay,0.029469188,0.0,0.0,0.0,0.0012512363027781,0.0004090727015864,0.0004889283445663,False
+i was worried about my clothes,0.09172598,0.9626556038856506,0.0,0.306,0.0016231355257332,0.0008279635221697,0.0003642204392235,False
+i was nineteen,0.039598234,0.0,0.0,0.0,0.0048975143581628,0.0008279745234176,0.0008882597321644,False
+i was gonna turn twenty that next week,0.038053125,0.601489782333374,0.0,0.0,0.0032657864503562,0.0014136886456981,0.0005813213065266,False
+i was,0.020408317,0.0,0.0,0.0,0.0057652350515127,0.0004123224352952,0.0006210994324646,False
+that's the only thing i was worried about,0.042001735,0.8091647028923035,0.0,0.239,0.0008321468485519,0.0005884856800548,0.0012551322579383,False
+"no, no, heard about what happened",0.029812546,0.9975863695144653,0.0,0.0,0.0007160142995417,0.0004086591943632,0.0004842209746129,False
+"but because i hadn't seen it, i didn't know how bad they said it was bad, but i hadn't seen it for myself, so i'm still thinking maybe half of my house is under water",0.07970683,0.9956061244010925,0.5222222222222221,0.114,0.0009810479823499,0.0006609669653698,0.0005779267521575,False
+"and then when they showed it on tv where you couldn't see anything but water and power lines, that's when it really hit me that okay, everything is gone",0.090114996,0.9932657480239868,0.0,0.0,0.0008651950047351,0.0007772849057801,0.0016848727827891,False
+i think i cried for three days,0.035306264,0.9999645948410034,0.0,0.302,0.0007992694154381,0.0005436445353552,0.0021890178322792,False
+everybody was,0.019436494,0.0,0.0,0.0,0.0062794378027319,0.0004748794017359,0.0006183288060128,False
+"yeah, we were all together",0.03204437,0.0,0.0,0.0,0.0007345207268372,0.0003464514156803,0.0003664777323137,False
+"mmhm, basically she set everything up like an assembly line because it was so many people in the house like x",0.062125895,0.8524455428123474,0.0,0.0,0.0012896856060251,0.000715484318789,0.0005565748433582,False
+"amount of people had um cars, and it's like certain times that they would open up the grocery stores and you had to line up to go in the grocery stores, and the water was off",0.023117077,0.9972067475318909,0.0,0.0,0.0012226874241605,0.0004627135931514,0.0005659956950694,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"people down the street had a well, so we would take turns getting the water",0.03221605,0.0,0.1555555555555555,0.0,0.0012191700516268,0.0006811233470216,0.0008704275242052,False
+"um, we took our baths in shifts",0.089041,0.0,0.0,0.0,0.0005940638948231,0.0004716769908554,0.0012439145939424,False
+"um, everything was just like an assembly line and my grandmother being the person that she was, she had one of the bedrooms and all of the kids were in the den, the the big room i was telling you about, and to keep us from disturbing my grandmother, she had a refrigerator put down there, and there was a bathroom already attached to that den, so we had no reason to come past that area messing with my grandmother, cause like, don't bother her when she gets in her little mood",0.12824467,0.9450352191925049,0.2186111111111111,0.058,0.0069990479387342,0.0028766298200935,0.0017157651018351,False
+just leave her alone,0.1710401,0.9842439889907837,0.0,0.615,0.1103074699640274,0.0416195578873157,0.1052274107933044,False
+everything you need is right here in this room,0.042001735,0.0,0.0,0.0,0.0017640205333009,0.0017968855099752,0.0005653069820255,False
+"you shouldn't have to leave for anything, cause she would complain about the smallest noise that she would hear",0.10892494,0.9934362173080444,0.0,0.121,0.0042456514202058,0.0043628276325762,0.0048476634547114,False
+everything was an assembly line for nine months,0.022351967,0.0,0.0,0.0,0.0005983847077004,0.0004123969119973,0.0003546504594851,False
+"mmhm, cause you had to get up four o'clock in the morning just to stand in line for the grocery store, because stuff was getting gone just that quick",0.03444787,0.9648454785346985,0.0,0.0,0.0021263943053781,0.0005335219320841,0.0013601940590888,False
+there was no waking up late,0.027752401,0.9995183944702148,0.3,0.306,0.0063160466961562,0.000519513792824,0.0006191756110638,False
+there was no waking up late and she would tell you the night before,0.044405237,0.9978163242340088,0.3,0.145,0.001759372302331,0.0006365908775478,0.0008005065028555,False
+"okay, this is how who has to do this today and i'm not playing",0.0495556,0.9976434111595154,0.0,0.103,0.0026660235598683,0.0006699941004626,0.0007853789138607,False
+you will get up at this time to get everything done,0.05133759,0.0,0.0,0.0,0.0033013944048434,0.0006867736228741,0.0047422931529581,False
+"mmhm, um, they had on the news that if your clothes were still in your room, that they could be washed in ammonia, and when i got back to princeville, the contractors that were supposed to have been tearing down the house, tell him i'll call him back",0.060927194,0.9999710321426392,0.0518518518518518,0.0,0.1275963336229324,0.0033546520862728,0.0039834543131291,False
+"is it mary? um, okay, yeah, when i got back in the house, the contractors that were supposed to been condemning the house, they were in there stealing",0.17957193,0.9372478127479553,0.0,0.113,0.0018115262500941,0.0100080417469143,0.0289971455931663,False
+"i'm not saying that they stole my stuff, but when i looked down the hall they had armful of stuff",0.1689685,0.9923239946365356,0.1555555555555555,0.0,0.018562851473689,0.0037622598465532,0.0029293252155184,False
+"um, but when i went in my room, the only thing that was left in my room was a bed",0.045778666,0.8846811056137085,0.0,0.0,0.0018538410076871,0.0029968980234116,0.0006914547993801,False
+i had a two trunks full of sweaters,0.10461388,0.8109232187271118,0.0,0.0,0.0012937332503497,0.0154882837086915,0.0027279153000563,False
+i had two closets and there was nothing in either one of my closets,0.082104236,0.9979098439216614,0.0,0.0,0.0147381937131285,0.0005032715271227,0.0004448813560884,False
+so someone vandal and i mean it was just that quick,0.34388447,0.998228132724762,0.0,0.0,0.0013471852289512,0.0202048420906066,0.0456623397767543,False
+it's the same day that they opened princeville back up,0.030670939,0.0,0.0,0.0,0.0009729118901304,0.0005298947216942,0.0005124271265231,False
+we got up and we went over there,0.04268845,0.0,0.0,0.0,0.0010298956185579,0.0005585451726801,0.0005204356857575,False
+my stuff was gone,0.045091953,0.0,0.0,0.0,0.0256050266325473,0.0009335761424154,0.0008596891420893,False
+just that quick,0.07451247,0.0,0.0,0.0,0.0014797482872381,0.0005174191319383,0.0010643906425684,False
+had to start over,0.047495455,0.9984139204025269,0.0,0.0,0.0012389071052893,0.0028842429164797,0.0003258856886532,False
+that's when fema came in and they would ask you questions about a,0.03994159,0.9860344529151917,0.0,0.0,0.0010188716696575,0.00072727171937,0.0009481252054683,False
+"about how much money do you think you had spent on your clothes, and when i told 'em they didn't believe me, but i kept receipts of everything, so they didn't send me all of it, but they sent me enough to get my my wardrobe started again, and then my job, um, gave me some money, also, so that was more than enough for me to get my my closet started back up again",0.14283726,0.0,0.0,0.0,0.004543365444988,0.001219535479322,0.0007842335617169,False
+was buying plenty clothes and still didn't have anywhere to put 'em because i was still in her house,0.104076885,0.0,0.0,0.0,0.0049481149762868,0.0007784602348692,0.0004906204412691,False
+"everybody used the same closet, also in that room, the den",0.06252546,0.9837402701377869,0.0,0.0,0.003020956646651,0.0011391850421205,0.0004776175192091,False
+it,0.017770508,0.0,0.0,0.0,0.0016468944959342,0.0009156857267953,0.0006150004337541,False
+it had a bathroom and it had a walk in closet,0.10515087,0.0,0.0,0.0,0.0430910661816597,0.0012919207802042,0.0007683042786084,False
+h,0.02262963,0.0,0.0,0.0,0.0016545619582757,0.0015957860741764,0.0007723678136244,False
+"how many people used that closet? about eighteen of them, but we had stackables",0.060527626,0.8570094108581543,0.0,0.0,0.0014471221948042,0.00067523738835,0.0006691842572763,False
+they had stackables,0.08447654,0.0,0.0,0.0,0.0011684006312862,0.0022808089852333,0.0008268565870821,False
+"everybody had their own stackables that with their name on it, you put anything that didn't fit in the uh",0.037881445,0.9970470070838928,0.0,0.1,0.0016191955655813,0.0008220004965551,0.0024137017317116,False
+that closet looked like a disaster area,0.1731117,0.9999639987945557,0.0,0.353,0.1093897148966789,0.0100290877744555,0.0016448003007099,False
+you just take and throw stuff in there,0.2712817,0.0,0.0,0.0,0.0024197704624384,0.0757228061556816,0.0619777999818325,False
+there was stuff all over everywhere,0.027409043,0.999984622001648,0.0,0.0,0.0011073716450482,0.0006696343771182,0.0005366177065297,False
+we had some cousins that were complaining about you have on my outfit,0.22979778,0.9729399085044861,0.0,0.13,0.0075886994600296,0.0024107997305691,0.0104215443134307,False
+"it was like okay, we only have two so we have to switch up",0.028610796,0.9997345805168152,0.0,0.0,0.0008215791895054,0.0006433427915908,0.0004678374971263,False
+we can't look the same every day,0.0224908,0.9696739912033081,0.0,0.0,0.0012360870605334,0.0007773285615257,0.0005842345999553,False
+it was a,0.020130653,0.7942071557044983,0.0,0.0,0.0033987129572778,0.0008713424322195,0.0016983301611617,False
+"it was a lot of sharing clothes, and if it didn't fit, we made it fit",0.10634898,0.979732871055603,0.0,0.103,0.0007492775912396,0.0004738324496429,0.0004283327434677,False
+"mmhm, it was a long drawn out process",0.028782474,0.9999946355819702,0.05,0.0,0.0008278811001218,0.0003693597973324,0.0004182487027719,False
+it's a lot of stuff you had to go through,0.030842619,0.9991092085838318,0.0,0.0,0.000933012808673,0.0004694421368185,0.0006513830157928,False
+a lot of people got grants,0.0334178,0.0,0.0,0.0,0.0006093580741435,0.0003795710799749,0.0002848428266588,False
+"i don't think it was fair the way they did it, because a lot of the younger people that could get out and work they received grants and they gave a lot of these elderly people loans thirty year loans",0.026722329,0.9995142221450806,0.0,0.0,0.0005798620404675,0.0004535003390628,0.0004109288274776,False
+"i mean, tomorrow's not promised to anyone, but i still thought it was unfair, my mother, she received, mixing a partial loan and a partial grant, and my grandmother had a loan and i didn't think that was fair to her, um, church street and walston street",0.02397547,0.9999151229858398,0.0625,0.104,0.0007083774544298,0.0008783352095633,0.0004577490035444,False
+they're adjoining streets,0.074912034,0.0,0.0,0.0,0.0075863511301577,0.0005779776838608,0.0008989782072603,False
+"i can name one, two, three, four on that street that did out of about thirty houses",0.025692256,0.9947399497032166,0.0,0.0,0.0007572954636998,0.0003548102686181,0.0005157735431566,False
+"hm, mmmm, i mean cause m people really had their minds pretty much made up that they weren't gonna move back, and my grandmother was one of 'em",0.07730943,0.8318537473678589,0.0,0.0,0.0041865138337016,0.0024880948476493,0.00051833310863,False
+she was dead set on on not going back cause she was more concerned about getting herself back,0.16620636,0.0,0.0,0.202,0.0058741588145494,0.0384533368051052,0.0025384847540408,False
+she didn't care less whether anybody else came or not,0.08501353,0.9998942613601685,0.1666666666666666,0.226,0.0288498327136039,0.0012467834167182,0.0005252287955954,False
+"she was like, i'm moving back to princeville if you all don't wanna go, that's fine with me",0.09387396,0.5642271637916565,0.0,0.0,0.0013203638372942,0.017794169485569,0.0078573348000645,False
+i'll move by myself,0.10634898,0.0,0.0,0.0,0.0041870423592627,0.0006853221566416,0.0007960340590216,False
+"mmhm, it did, but it's a whole bunch of new people",0.0717155,0.0,0.0,0.0,0.0009820603299885,0.0004149344749748,0.0009201001375913,False
+"a lot of new people, people from tarboro taking up the opportunities that the princeville people had",0.043031808,0.0,0.0,0.0,0.0006547727389261,0.0004733214154839,0.0003975076251663,False
+"but it was a lot of people in east tarboro that flooded too, so a lot of them saw all the new houses and things that were coming up in princeville and they just moved over here",0.053335425,0.0,0.0,0.0,0.0007459724438376,0.0004752677341457,0.0005095648230053,False
+it's like forget the east tarboro and princeville stuff,0.027065687,0.9921320080757141,0.0,0.167,0.0037410783115774,0.0005727283423766,0.0006552169215865,False
+"this is where we're moving to cause, i can say that the houses that they build in princeville are a lot nicer than the ones that they threw together in east tarboro",0.08501353,0.0,0.0,0.0,0.0007710172794759,0.0004405934596434,0.0007218836108222,False
+it's like like they put up four walls and a roof in two days,0.052935857,0.9700188040733337,0.0,0.0,0.0023244160693138,0.0006740893004462,0.0010624799178913,False
+"a lot of people really look forward to fridays, because that's when the football or basketball games",0.023288755,0.0,0.0,0.0,0.0005412522004917,0.0004489902639761,0.0005287870299071,False
+"but it's basically that's it, and you would really be shocked that people hang out at walmart",0.043031808,0.9421712160110474,0.7,0.174,0.0015339229721575,0.0009966812795028,0.0029835449531674,False
+you go to walmart right now,0.016173938,0.9948002099990845,0.0,0.0,0.0549697428941726,0.0007464773370884,0.001242603175342,False
+you see so many people and they're not buying anything but people that have licenses to rocky mount,0.021796638,0.0,0.0,0.0,0.0012661048676818,0.0004237780813127,0.0004870679113082,False
+it's just twenty minutes,0.038911518,0.7719126343727112,0.0,0.0,0.0010508222039788,0.0004244530573487,0.0008635160629637,False
+it's go to the mall or the or the movies there,0.03221605,0.8202615976333618,0.0,0.0,0.0010788738727569,0.0011329483240842,0.0024811706971377,False
+but for the people that is just basically stuck here,0.043031808,0.9412528276443481,0.0,0.217,0.0007537904893979,0.0026154373772442,0.0007584022241644,False
+friday is their only outlet,0.045091953,0.0,0.0,0.0,0.0187707729637622,0.0008307615644298,0.0005517464014701,False
+i would go the games or to the movies or the mall,0.032559406,0.0,0.0,0.0,0.0031479911413043,0.0011951408814638,0.0010689379414543,False
+"this is all in rocky mount, or i would go to raleigh to see my sister, or either to greensboro to see her daughter and i have",0.050242316,0.0,0.0,0.0,0.0006852176738902,0.0014873821055516,0.0013686898164451,False
+"i have a cousin at unc chapel hill, so it's basically visiting them because there's really nothing to do here",0.05852979,0.9909302592277527,0.0,0.0,0.000639836594928,0.0005166318733245,0.0003923042386304,False
+"mmhm, but they're not doing anything or trying to get out of here",0.089577995,0.9982030391693115,0.0,0.0,0.027700550854206,0.0007806698558852,0.0007179206586442,False
+they would rather stay here not have anything to do than go somewhere and find something to do if they don't get the right people in there to try to run it,0.089577995,0.9999152421951294,0.0,0.0,0.0045761880464851,0.0014315382577478,0.0024138856679201,False
+i honestly see tarboro taking it over,0.101391904,0.9045189023017883,0.0,0.0,0.0008853576146066,0.0005600628792308,0.0005438681691884,False
+that's where they're headed,0.052935857,0.0,0.0,0.0,0.0008295243605971,0.0022225470747798,0.0013893538853153,False
+"mmhm, that's exactly where they're headed because they can't",0.04680874,0.9098806977272034,0.0,0.0,0.00233756005764,0.0053792069666087,0.0012351060286164,False
+it's like we have to,0.020269485,0.0,0.0,0.0,0.0022881994955241,0.0004832187551073,0.0006474137189798,False
+"well, princeville has to pay tarboro for their water, and when it's time to pay them, they don't have all the money with as much as they charge for the water bill",0.019297661,0.9942427277565002,0.0,0.083,0.0029403371736407,0.0007977053755894,0.0005860689561814,False
+"over there, they should have the money and they're always thousands and thousands of dollars short",0.05653196,0.8833475112915039,0.0,0.0,0.0216394681483507,0.0007341820164583,0.0007804973283782,False
+"with anything they have to pay tarboro for they're always short and want want an extension on paying them, but i honestly see tarboro taking princeville over",0.054534122,0.989266037940979,0.0,0.039,0.0015311037423089,0.0010633609490469,0.0005559685523621,False
+there's really nothing i can can do about it because i really see it happening,0.03221605,0.0,0.0,0.0,0.0007198289385996,0.0004609803727362,0.0003641090006567,False
+"i mean, if that's the only way to get them to progress, then i don't see a problem with it, because i don't live there anymore, but something needs to be done",0.05493369,0.0,0.0587121212121212,0.0,0.0007968875579535,0.0008072181954048,0.0004221702984068,False
+"mmhm, mmhm, i think they don't even think about it",0.094410956,0.9997143149375916,0.0,0.0,0.0013284442247822,0.0045394701883196,0.0011000920785591,False
+they don't care,0.084745035,0.999079704284668,0.0,0.568,0.1671771705150604,0.0341334603726863,0.0040814317762851,False
+very true,0.015896274,0.0,0.0,0.0,0.0007528806454502,0.0003623647498898,0.0004524148243945,False
+"half of the people in princeville to me not to sound uppity or anything, but they're uneducated",0.34388447,0.9533571004867554,0.0,0.0,0.0018214588053524,0.1126501411199569,0.4216577708721161,False
+"they know about this stuff, but it's just like i don't care",0.12244874,0.9994600415229797,0.0,0.206,0.0109045645222067,0.003409415250644,0.0026236686389893,False
+"wh, what is that doing for me? what does that have to do with me?",0.08330294,0.998222291469574,0.0,0.0,0.0013123438693583,0.0047192270867526,0.0028532841242849,False

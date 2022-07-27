@@ -1,128 +1,128 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"a quiet place was directed by john krasinski and stars him and emily blunt, and some terrific young actors who play a family trapped in a world that's been overrun by monsters",0.22775516,0.0,0.5125,0.09,False,0.0012066316558048,0.0028789693024009,0.00166004197672
-they're easily susceptible to sound with the slightest noise drawing them in,0.074912034,0.999456464434362,0.2916666666666666,0.0,False,0.0014809691347181,0.0008294540457427,0.0019097395706921
-we spent 95 tense minutes watching this family struggle to stay completely silent,0.036336336,0.976574237010236,0.5722222222222222,0.299,False,0.0012740944512188,0.0007785785128362,0.0007867612875998
-this is a nerve shredding thriller,0.29558796,0.0001878145155526,0.5,0.0,False,0.0405991561710834,0.0011525874724611,0.0022451998665928
-"tense from the opening scene to the very end, krasinski proves himself to be a more than capable director maximizing the suspense by choosing what he focuses on when he reveals things to the audience versus when he reveals them to the characters, really effects the suspense level",0.036679696,3.647809695913935e-05,0.4111111111111111,0.047,False,0.0007368188234977,0.0004238295659888,0.0003640801878646
-the scenes with the creatures are rarely about the creatures,0.057331093,0.9962794129243686,0.35,0.0,False,0.0008851391612552,0.0008228523074649,0.0011380867799744
-they're about the characters,0.023460433,0.0041344227409701,0.5,0.0,False,0.0007423745119012,0.0004533950705081,0.0011352725559845
-this isn't just a monster movie,0.15859914,0.9410429612442274,0.5,0.0,False,0.0013011500705033,0.0117296390235424,0.0491953529417514
-it's a movie about people and there happens to be monsters lurking around outside,0.1414913,0.998942284200019,0.5,0.103,False,0.0013512290315702,0.0039285905659198,0.032475396990776
-like all of the best ones,0.033932835,0.0008416784430719,0.0,0.0,False,0.0009040366858243,0.0003644296666607,0.0016421057516708
-it focuses on the characters and it's about one family struggling to survive,0.021102477,0.0013727268170219,0.5,0.189,False,0.0007783763576298,0.0003727551084011,0.0004391041584312
-"it's sort of like an odd combination of tremors and 10 cloverfield lane, the best of both of those movies",0.035134587,0.8561347963434404,0.2916666666666666,0.089,False,0.0007617627270519,0.000460817158455,0.0009837581310421
-it benefits from a talented cast and one concept taken to its extremes,0.043375164,0.0653501530738965,0.15,0.0,False,0.000551305594854,0.0004288902855478,0.0007037799223326
-from the opening scene,0.020963646,0.0131385522165182,0.5,0.0,False,0.0006622393848374,0.0003949530946556,0.0006944245542399
-the stakes are established and the threat is very real,0.14866976,0.0008189988419396,0.37,0.274,False,0.0023666396737098,0.0004855569277424,0.0014815327012911
-"it's clear that even the slightest sound could result in death, whereas in some films like the aforementioned tremors, if you create noises on the ground or they hear you, based off the vibrations of you running, they might come after you",0.10956893,0.9997347291331428,0.4166666666666667,0.079,False,0.0529656484723091,0.0011519420659169,0.0010556661291047
-"you could still, maybe escape, and a quiet place",0.09870692,0.8209109617933061,0.5,0.0,False,0.0013581727398559,0.0009535090066492,0.001829709042795
-"if you make a noise, you're probably dead like instantaneously",0.355017,0.9870022341642292,0.6,0.291,False,0.7353618741035461,0.1168265491724014,0.5183302760124207
-"and so there's this considerable level of fear throughout every scene as these characters use sign language, body language and facial expressions, so that we understand the story and even the subtle character nuances without needing words",0.05773066,0.1291510599122344,0.5388888888888889,0.088,False,0.0007191189215518,0.0004811112594325,0.0003799475671257
-"and since there is such limited dialogue to tell a story like this, a filmmaker has to know how to communicate to the audience without saying much",0.060927194,0.9996778066125612,0.4785714285714286,0.065,False,0.0006429820205084,0.0004600736137945,0.0004592656332533
-krasinski and his actors excel at this,0.04234509,0.000385642626349,0.5,0.0,False,0.0011969073675572,0.0026859994977712,0.0010664917062968
-"since the characters are forced to live in this world, they have to change their way of life, which leads to one of my favorite aspects of this film",0.04680874,5.42403075699621e-06,0.4439393939393939,0.091,False,0.0007041989010758,0.0004738631250802,0.000539002881851
-"watching their new way of living, instead of using plates, they might use a lettuce leaf",0.1414913,0.05730986194292,0.4318181818181818,0.0,False,0.002932685194537,0.0007945111719891,0.001798321143724
-"they with their hands instead of utensils, they will play a board game, but they use pieces of instead of metal pieces",0.06851897,0.9047191809403612,0.7,0.0,False,0.0030951590742915,0.0027041567955166,0.0019508389523252
-"for the most part, they make valid choices",0.019714156,0.0005416282141629,0.25,0.0,False,0.0005669535021297,0.0003304109268356,0.0004991304595023
-"often in horror films we find ourselves angry with the people on screen baffled by the idiotic decisions they make, but here everyone seems to have a pretty good head on their shoulders, having constructed a complex system around their farm that helps warn each other if something's wrong",0.44805592,0.0002438429651304,0.5815476190476191,0.193,False,0.0756870508193969,0.8895346522331238,0.9071736931800842
-"that being said, this is a film that could only exist specifically in this time period it's set in, because from the very beginning we're told that it's day 89, indicating that it's 89 days into whatever started this current predicament with these monsters on earth, and so they already have a system in place",0.16275369,0.9653793951561976,0.4666666666666667,0.0,False,0.0007317819399759,0.0028236866928637,0.0158800724893808
-they've already figured out some things,0.03599298,0.92771051482933,0.5,0.0,False,0.0005768621340394,0.0003813377406913,0.0003580700140446
-we're not seeing the mass hysteria of day one,0.08367105,0.9974091312425304,0.5,0.266,False,0.0050034429877996,0.0025947515387088,0.0026198143605142
-we're seeing how one family has learned to survive,0.017909339,0.0011072473335971,0.5,0.0,False,0.0007106121629476,0.0004124606202822,0.0002971442881971
-"it would be a drastically different film had it been on day one, having it be later into the event",0.0358213,0.9821863505040862,0.5,0.0,False,0.0005739497137255,0.0003615907335188,0.0003968123346567
-"whatever that event is, we now can see a family that's constructed a system that works, which makes you appreciate these characters more because they're actually smart for the most part",0.020408317,0.0018315938585905,0.2976190476190475,0.0,False,0.0005786584806628,0.0005306025850586,0.0023843981325626
-admit at least some characters do make some odd choices,0.044405237,0.9188206476280802,0.6166666666666667,0.19,False,0.0006631583091802,0.0003912237880285,0.0004340082232374
-there's some confusion and unanswered questions,0.044405237,0.999441950681732,0.55,0.306,False,0.0007004797225818,0.0003959026362281,0.0008026222349144
-"for one thing, it's never explained how they still have electricity",0.0224908,0.9847719740449996,0.5,0.0,False,0.0006136210286058,0.0004567152063827,0.0004548842844087
-if it's a generator,0.01492445,0.854389957174595,0.5,0.0,False,0.0009590183617547,0.0004690109344664,0.0006911837263032
-"i don't remember ever seeing one on top of that, it would make a lot of noise if they ever had to restart the generator",0.034791227,0.999938428310198,0.25,0.0,False,0.0007395324064418,0.0005211283569224,0.0007372367545031
-and so there are nitpicks,0.060927194,0.9997235830479608,0.5,0.0,False,0.0011472895275801,0.0261839497834444,0.1623001992702484
-"there are some unanswered questions, similar to the film's signs",0.043375164,0.960951866137782,0.525,0.0,False,0.0006100653554312,0.0003499354643281,0.0005334945162758
-this is a film about one family and we only learn what they learn,0.048525527,0.1088709665402271,0.5,0.0,False,0.0012243131641298,0.0005061542033217,0.0005215977435
-we don't know much from the outside,0.024833864,0.999846100577862,0.45,0.0,False,0.0007231495692394,0.0007689847843721,0.0006816970999352
-"the characters sometimes go up to this big mill they have, and they light a fire and you can see that in the distance there are other people who also have fires, so it's not like they're the only people left, but they can't really go into the world that much, due to the fact that they have to make no sounds",0.074912034,0.967640917958197,0.475,0.095,False,0.0016024275682866,0.0012552117696031,0.0015393235953524
-otherwise these things are going to come out of the bushes and kill them,0.5535644,0.978963075523191,0.5,0.266,False,0.4988206624984741,0.8999917507171631,0.945860743522644
-"and so the fact that it takes place later in the timeline of whenever this event occurred, it gives this specific story some credibility, because we are to assume that they have discovered some things or figured some things out",0.027065687,0.1261852177757289,0.5,0.0,False,0.0005791795556433,0.0003217919147573,0.0002902894921135
-you could nitpick here and there with ideas about how to kill the monsters that these characters aren't using,0.37221906,0.9999764561302308,0.5,0.207,False,0.0072938441298902,0.4636110067367553,0.4468919634819031
-"but many of those ideas assume that this family has endless supplies, access to military weaponry and things like that",0.030327583,0.9219674199334084,0.4541666666666666,0.1,False,0.0006167164538055,0.0004966337000951,0.0003711482859216
-"and if you start to overanalyze this film, i think you're missing the point",0.14059398,0.9991021738978833,0.6,0.145,False,0.0007502052467316,0.0006578476750291,0.0009095225250348
-this is a suspense driven thriller with some really good scares,0.1609341,0.0008287442158821,0.15,0.175,False,0.0006373816286213,0.0003759333631023,0.0010174288181588
-terrific performances across the board,0.19239926,0.0014840684593743,0.5,0.0,False,0.0006693762843497,0.0005851703463122,0.0006777439848519
-krasinski really does a lot of great things on the screen,0.04131502,0.0013685842880372,0.25,0.0,False,0.000921509170439,0.0003789616457652,0.0014966126764193
-and this is probably because as a director he knows exactly what this film needs,0.05653196,1.2755412988980098e-05,0.375,0.0,False,0.0007798590231686,0.0005125284660607,0.0005431418539956
-"whenever a director and actor make the same project, you can really tell that they understand everything about it from beginning to end, and krasinski knows exactly what the film needs for heightened power and tension",0.040628307,1.1920946718672989e-05,0.425,0.062,False,0.0006219776696525,0.0004385501088108,0.0003751893818844
-"emily blunt is amazing as well, and they have great chemistry, as they are a couple in real life, and the young kids do a great job too, especially since the daughter they have is deaf in the film as well as real life, so that's a very authentic performance that i'm sure she understood and had a lot to bring to it",0.033932835,0.0001406373689135,0.2861111111111111,0.0,False,0.0005994441453367,0.0016991768497973,0.000615926051978
-"while i always didn't necessarily find myself wrapped up in the family's lives, i was always interested to see what they were going to do and what decisions they would make, and by the end i did find myself caring",0.02193547,0.0005851694720528,0.4375,0.0,False,0.000585185654927,0.0003990458790212,0.0003241452213842
-"this is a good old-fashioned thrill ride if you've been missing that at the movies, and better yet if you need restored faith and mainstream horror, i think a quiet place can do that for you",0.05852979,0.0013574978075888,0.375,0.122,False,0.0007408010424114,0.0009355864021927,0.0006834330270066
-i'm gonna give it an a,0.083939545,0.2274470142230603,0.5,0.0,False,0.0022591496817767,0.028575187548995,0.0223268941044807
-"- this is a simple and to the point, thriller that doesn't try to be anything else than what it is, and it knows that, and it's all the better for that",0.21892473,0.0009095086299011,0.375,0.0,False,0.0006161350756883,0.0003452722739893,0.0004512052400968
-so i ready to play one review,0.038053125,0.0172599215208314,0.4,0.0,False,0.0006979682366363,0.0013172953622415,0.0003372486389707
-"i promised that i would talk to some of you guys about their reactions that you sent me for a quiet place, your anticipation for it if you had seen it, and i'm gonna share some of those reactions with you guys as i promised, and hopefully be able to interact with you more through that app",0.06851897,0.0788530988292378,0.3333333333333333,0.0,False,0.0005372610175982,0.0008307647658511,0.0004102984385099
-"hello, chris",0.013536129,0.0069777771499412,0.5,0.0,False,0.0010440984042361,0.001875557936728,0.0006278232322074
-"i am super excited because emily and john are married in real life, and i'm sure they're gonna use that chemistry and that love for each other to make their performances stand out and be more powerful they did",0.07211506,0.0001835229747339,0.3425925925925926,0.0,False,0.0005837698699906,0.0004082713276147,0.0007550051086582
-"the chemistry seemed extremely real, as i mentioned in the review, it was very strong",0.027752401,0.0010314003100995,0.3091666666666666,0.0,False,0.0005545999156311,0.000310364208417,0.000298407889204
-this feels like like what it comes at night was last year kind of creeping up on you,0.17034957,0.9987498801199796,0.35,0.0,False,0.0142738875001668,0.0016152329044416,0.0075853131711483
-and it looks really good,0.032559406,0.0040271938252357,0.15,0.0,False,0.0005644210032187,0.0003254271578043,0.0005333376466296
-"i hope it is, especially with john krasinski directing that's exciting",0.045091953,0.0001215638541636,0.425,0.0,False,0.0006489355000667,0.0004093032621312,0.0004843781644012
-even my girlfriend's excited just because she likes them,0.3123962,0.0008429301424773,0.3125,0.0,False,0.0044746906496584,0.0024115797132253,0.0032135990913957
-"well, i'm glad your girlfriend's excited for the film and i hope you guys have a good time seeing it",0.119228795,0.001767608177078,0.2375,0.0,False,0.0006964184576645,0.001975396182388,0.0015156996669247
-there are similarities,0.019714156,0.0149175747000794,0.5,0.0,False,0.0006470447988249,0.0003501043247524,0.0003200946666765
-"i guess in the tension level between it comes the night and a quiet place, but they are two vastly different films",0.035306264,0.9984336174035332,0.5,0.073,False,0.0006343539571389,0.0004206910962238,0.0003838278353214
-i say it's like which meets the last of us,0.042001735,0.8154095938944725,0.5,0.0,False,0.0075415531173348,0.0005183279281482,0.0021108093205839
-just that tight anxiety of this trailer just gets me,0.21980777,0.9485682078722236,0.5892857142857143,0.159,False,0.001582779106684,0.0024658604525029,0.0023083020932972
-and you know i'm saying to be able to edge of my seating that theater,0.12051678,0.0207646798561213,0.25,0.0,False,0.0008417956414632,0.0003959430614486,0.0025755234528332
-i can't wait for this movie,0.060927194,0.0001284183985269,0.5,0.0,False,0.001934221596457,0.0011610409710556,0.0005051829502917
-i think it's gonna be dope,0.21274342,0.0004421777161623,0.5,0.0,False,0.1264475882053375,0.0536984018981456,0.0675575509667396
-"yes, the kid, the kid does make some not great choices",0.10031791,0.881490322188023,0.7,0.22,False,0.0008615403203293,0.0014913531485944,0.0008756194729357
-and that's that's what i alluded to in the review,0.016451603,0.0013928136122429,0.5,0.0,False,0.0006188918487168,0.0004100818186998,0.00044839255861
-"there are a couple times where you're like no, this",0.036679696,0.9992675770336048,0.5,0.0,False,0.0248439460992813,0.0021523395553231,0.0012994286371394
-this is day 89,0.043375164,0.924202537838426,0.5,0.0,False,0.0011454025516286,0.0006053806282579,0.0005484747816808
-"like you know, not to turn on an electronic rocketship right now",0.06372416,0.0017491009072972,0.3571428571428571,0.0,False,0.0020421748049557,0.0005658991285599,0.0010188852902501
-that was one of the choices that i think maybe could have been written better,0.029812546,0.9999220966131934,0.25,0.0,False,0.0005900189280509,0.0003652999585028,0.0004440126067493
-but it's also a choice that needs to happen for the rest of the film to make sense,0.036336336,0.8400794268837972,0.5,0.0,False,0.0006883413298055,0.0003913051041308,0.0002865476708393
-"i gotta tell you, i'm more nervous than i am excited about this theater experience",0.105704986,0.886036077195521,0.28125,0.134,False,0.0006936996360309,0.0004236882377881,0.0008576346444897
-you've put out videos about awful movie theater experiences,0.29756662,0.999974489174022,1.0,0.273,False,0.002361521590501,0.0209998842328786,0.0145094292238354
-this has the potential to be an all-time stinker if all it takes is one idiot in the crowd to start mouthing off during the actual quiet part of the quiet place,0.7257758,0.9999452232498276,0.6083333333333334,0.162,True,0.7881908416748047,0.9901572465896606,0.986083209514618
-hold it out,0.112144895,0.0013209005011625,0.5,0.0,False,0.0106704467907547,0.0236326642334461,0.060994666069746
-hope,0.023117077,0.0064524508304161,0.5,0.0,False,0.0009793810313567,0.000582167180255,0.0005335458554327
-"for the most part, my showing was pretty good",0.06372416,0.0091330545143105,0.2583333333333333,0.0,False,0.0006410454516299,0.0003801257989834,0.0007941338699311
-"there was someone who did bring an infant and there were specific times where emily blunt or john krasinski would be like, and in the background i hear that was about it",0.031357653,0.9627746981005342,0.5,0.0,False,0.0007486223476007,0.0007108898134902,0.0022832658141851
-though it was it was alright,0.026722329,0.992058414307854,0.5,0.0,False,0.0006529882666654,0.0003290265740361,0.001151506556198
-it looks like a very dense experience and the fact that it's adapted by john krasinski is actually very intriguing to me,0.02809576,0.0035065464772976,0.3525,0.0,False,0.0006112800328992,0.0004098017816431,0.0004048645787406
-"so yeah, i'm very excited for that one",0.08689302,0.0001175107322793,0.25625,0.0,False,0.0005815379554405,0.0004282172012608,0.0006187951075844
-it is indeed sense and krasinski does a great job,0.016035106,0.0002934937082137,0.0999999999999999,0.0,False,0.0008221470052376,0.0004801061295438,0.0012433893280103
-this is his third film directing,0.05773066,0.0452778120008289,0.5,0.0,False,0.001086461241357,0.0003997207386419,0.0007260470301844
-some people are reporting that it's his first,0.019158829,0.0138997344668723,0.375,0.0,False,0.0007318785064853,0.0005000524106435,0.0004916100879199
-it's not true,0.040628307,0.9999499320237816,0.5875,0.538,False,0.0012849192135035,0.0005517334793694,0.0006281275418587
-this is his third directorial effort and i am very excited to see what he does,0.020824814,3.886228630287394e-05,0.378125,0.0,False,0.0006586764357052,0.0004106327833142,0.0008073686040006
-"apparently comedians turning to directing mainstream horror, jordan peele and now john krasinski is like the new thing",0.13521013,0.934331378834514,0.4534090909090909,0.158,False,0.0020445017144083,0.0007483477238565,0.0010142984101548
-i'm all for it,0.0334178,0.0003877883967584,0.5,0.0,False,0.0012326908763498,0.0006704140687361,0.0005717523163184
-"i don't usually watch that many horror films in movie theatres because i hate jump scares, but i'm gonna go for this one",0.15130237,9.28343725716659e-05,0.5916666666666667,0.242,False,0.0010907519608736,0.0065177581273019,0.00127654382959
-"it's a film that's very silent and there are monsters, so obviously there are going to be some jump scares, but they didn't feel cheap",0.1464265,0.866677204783566,0.4333333333333333,0.066,False,0.0014682064065709,0.0011788994306698,0.0051209679804742
-"there were a few that were false and i was kind of like, really a raccoon and i rolled my eyes at that, but for the most part it's actually pretty clever stuff",0.12051678,0.0030958102581057,0.4202380952380952,0.0,False,0.0025908253155648,0.0009131234255619,0.0154707357287406
-"i mean, i loved emily blunt and john krasinski but i'm always wary of such movies",0.065721996,0.9976299071757604,0.5140625,0.0,False,0.0007084378739818,0.0008183346944861,0.0005617996794171
-"the premise is good, but the delivery is not always on point, so let's just keep our fingers crossed and see how the final product comes out, and i just say sir, you have an amazing voice",0.040628307,0.0336144769407465,0.2833333333333333,0.0,False,0.0005655235727317,0.0005309390253387,0.0006091763498261
-that is one of the most soothing voices i have heard in a long time,0.11600884,0.0003617113258113,0.3875,0.0,False,0.0006521175382658,0.0003245602129027,0.0006463036988861
-like i was actually listening to that reaction and i was just kind of like getting really relaxed,0.039254878,0.185300507099192,0.3666666666666667,0.0,False,0.0006510838866233,0.0005190777010284,0.0004497199552133
-"yes, they are both great in the film, as i've said",0.03994159,0.0006924281901541,0.0999999999999999,0.0,False,0.0005528953624889,0.0003419724816922,0.0006208283593878
-i hope you enjoy it when you see it as once quoted from our beloved hp,0.050585672,0.0082332316536182,0.2249999999999999,0.0,False,0.0006196845206432,0.0004965215339325,0.0005052605411037
-"lovecraft himself, the oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is the fear of the unknown",0.1414913,0.008508843941754,0.375,0.271,False,0.0016611937899142,0.0004193411732558,0.0008822683594189
-"okay, i'm just kidding",0.050242316,0.9737619962722008,0.25,0.0,False,0.0008419203804805,0.001180829713121,0.0011385650141164
-"aside from that, i am really looking forward to watching horror films and i'm usually very picky with horror films, but i love it because it shows scaring people with silence and tension",0.10300289,0.0001121463062559,0.35,0.256,False,0.0012309731682762,0.0088743409141898,0.002448929939419
-"that was frightening, but i liked it a lot",0.08796701,0.0150324926264474,0.475,0.164,False,0.0007052381988614,0.0006196656031534,0.0014179338468238
-i watched it like three times,0.06412373,0.9788714928500248,0.5,0.0,False,0.0008455974166281,0.000511044752784,0.0006305595161393
-thank you for sending that in,0.023460433,0.1255475663357471,0.5,0.0,False,0.0005781325162388,0.0004540996742434,0.0004484260862227
-thank you to everybody who sent me reactions,0.033761155,0.0422565374620817,0.5,0.0,False,0.0005926563171669,0.0004770312807522,0.0003939665330108
-it's really cool to be on stardust please do follow me,0.056931525,0.0007946205058999,0.325,0.0,False,0.0007356432615779,0.0114396139979362,0.0053647896274924
-the link is in the description below,0.009509998,0.8720095634602956,0.5,0.0,False,0.0006094521959312,0.0003478312573861,0.0002474326174706
-i'm gonna try to do more content that i don't normally get to do here on youtube,0.09602194,0.8650605455943131,0.3375,0.0,False,0.0010275933891534,0.0082226088270545,0.000728823011741
-"there, you know, like older films which i'm trying to give more attention to things like tv shows",0.04234509,0.995707118074772,0.3333333333333333,0.0,False,0.0006275965133681,0.0005162245361134,0.0003366373421158
-episodes,0.0168681,0.0044471091734009,0.5,0.0,False,0.0012277915375307,0.0018908232450485,0.0003113579296041
-"you can do episode reactions there, which i never do just singular episode review",0.036679696,0.0514989964649028,0.5,0.0,False,0.0006111076218076,0.0005214362172409,0.0003700020897667
-so that will be pretty fun,0.045778666,0.0072670687244366,0.3625,0.0,False,0.0006878580315969,0.0003546541847754,0.0005190969677641
-so please do follow me there,0.03427619,0.8584060049146487,0.5,0.0,False,0.0007577408687211,0.0008585156174376,0.0005649032536894
-and i also want to say thank you to everyone else who sent reactions,0.024833864,0.0264385438539741,0.5,0.0,False,0.0006478651775978,0.0004207263700664,0.0003868348430842
-i had a lot to sift through and i apologize if i couldn't feature yours,0.10763696,0.9979104368544174,0.5,0.0,False,0.0006796669913455,0.003000165335834,0.004233659710735
-you guys are the best,0.05133759,0.0005629965111561,0.0,0.0,False,0.0011390547733753,0.000679338700138,0.0127803478389978
-please look forward to more videos,0.11729682,0.036097908165914,0.25,0.0,False,0.0007692585350014,0.0005928599275648,0.0002387565036769
-"thank you so much as always for watching, and if you like this, you can click right here and get stuck mine eyes",0.094410956,0.001819941133173,0.3785714285714285,0.074,False,0.0010969798313453,0.0397612676024436,0.0294471196830272
+"a quiet place was directed by john krasinski and stars him and emily blunt, and some terrific young actors who play a family trapped in a world that's been overrun by monsters",0.22775516,0.0,0.025,0.09,False,0.0012066316558048,0.0028789693024009,0.00166004197672
+they're easily susceptible to sound with the slightest noise drawing them in,0.074912034,0.9989129304885864,0.0,0.0,False,0.0014809691347181,0.0008294540457427,0.0019097395706921
+we spent 95 tense minutes watching this family struggle to stay completely silent,0.036336336,0.9531485438346863,0.1444444444444444,0.299,False,0.0012740944512188,0.0007785785128362,0.0007867612875998
+this is a nerve shredding thriller,0.29558796,0.0,0.0,0.0,False,0.0405991561710834,0.0011525874724611,0.0022451998665928
+"tense from the opening scene to the very end, krasinski proves himself to be a more than capable director maximizing the suspense by choosing what he focuses on when he reveals things to the audience versus when he reveals them to the characters, really effects the suspense level",0.036679696,0.0,0.0,0.047,False,0.0007368188234977,0.0004238295659888,0.0003640801878646
+the scenes with the creatures are rarely about the creatures,0.057331093,0.9925588369369507,0.0,0.0,False,0.0008851391612552,0.0008228523074649,0.0011380867799744
+they're about the characters,0.023460433,0.0,0.0,0.0,False,0.0007423745119012,0.0004533950705081,0.0011352725559845
+this isn't just a monster movie,0.15859914,0.8820860981941223,0.0,0.0,False,0.0013011500705033,0.0117296390235424,0.0491953529417514
+it's a movie about people and there happens to be monsters lurking around outside,0.1414913,0.9978845715522766,0.0,0.103,False,0.0013512290315702,0.0039285905659198,0.032475396990776
+like all of the best ones,0.033932835,0.0,0.0,0.0,False,0.0009040366858243,0.0003644296666607,0.0016421057516708
+it focuses on the characters and it's about one family struggling to survive,0.021102477,0.0,0.0,0.189,False,0.0007783763576298,0.0003727551084011,0.0004391041584312
+"it's sort of like an odd combination of tremors and 10 cloverfield lane, the best of both of those movies",0.035134587,0.7122700214385986,0.0,0.089,False,0.0007617627270519,0.000460817158455,0.0009837581310421
+it benefits from a talented cast and one concept taken to its extremes,0.043375164,0.0,0.0,0.0,False,0.000551305594854,0.0004288902855478,0.0007037799223326
+from the opening scene,0.020963646,0.0,0.0,0.0,False,0.0006622393848374,0.0003949530946556,0.0006944245542399
+the stakes are established and the threat is very real,0.14866976,0.0,0.0,0.274,False,0.0023666396737098,0.0004855569277424,0.0014815327012911
+"it's clear that even the slightest sound could result in death, whereas in some films like the aforementioned tremors, if you create noises on the ground or they hear you, based off the vibrations of you running, they might come after you",0.10956893,0.9994694590568542,0.0,0.079,False,0.0529656484723091,0.0011519420659169,0.0010556661291047
+"you could still, maybe escape, and a quiet place",0.09870692,0.6418224573135376,0.0,0.0,False,0.0013581727398559,0.0009535090066492,0.001829709042795
+"if you make a noise, you're probably dead like instantaneously",0.355017,0.9740045070648193,0.2,0.291,False,0.7353618741035461,0.1168265491724014,0.5183302760124207
+"and so there's this considerable level of fear throughout every scene as these characters use sign language, body language and facial expressions, so that we understand the story and even the subtle character nuances without needing words",0.05773066,0.0,0.0777777777777777,0.088,False,0.0007191189215518,0.0004811112594325,0.0003799475671257
+"and since there is such limited dialogue to tell a story like this, a filmmaker has to know how to communicate to the audience without saying much",0.060927194,0.9993556141853333,0.0,0.065,False,0.0006429820205084,0.0004600736137945,0.0004592656332533
+krasinski and his actors excel at this,0.04234509,0.0,0.0,0.0,False,0.0011969073675572,0.0026859994977712,0.0010664917062968
+"since the characters are forced to live in this world, they have to change their way of life, which leads to one of my favorite aspects of this film",0.04680874,0.0,0.0,0.091,False,0.0007041989010758,0.0004738631250802,0.000539002881851
+"watching their new way of living, instead of using plates, they might use a lettuce leaf",0.1414913,0.0,0.0,0.0,False,0.002932685194537,0.0007945111719891,0.001798321143724
+"they with their hands instead of utensils, they will play a board game, but they use pieces of instead of metal pieces",0.06851897,0.8094386458396912,0.4,0.0,False,0.0030951590742915,0.0027041567955166,0.0019508389523252
+"for the most part, they make valid choices",0.019714156,0.0,0.0,0.0,False,0.0005669535021297,0.0003304109268356,0.0004991304595023
+"often in horror films we find ourselves angry with the people on screen baffled by the idiotic decisions they make, but here everyone seems to have a pretty good head on their shoulders, having constructed a complex system around their farm that helps warn each other if something's wrong",0.44805592,0.0,0.1630952380952381,0.193,False,0.0756870508193969,0.8895346522331238,0.9071736931800842
+"that being said, this is a film that could only exist specifically in this time period it's set in, because from the very beginning we're told that it's day 89, indicating that it's 89 days into whatever started this current predicament with these monsters on earth, and so they already have a system in place",0.16275369,0.9307588934898376,0.0,0.0,False,0.0007317819399759,0.0028236866928637,0.0158800724893808
+they've already figured out some things,0.03599298,0.855421245098114,0.0,0.0,False,0.0005768621340394,0.0003813377406913,0.0003580700140446
+we're not seeing the mass hysteria of day one,0.08367105,0.9948182702064514,0.0,0.266,False,0.0050034429877996,0.0025947515387088,0.0026198143605142
+we're seeing how one family has learned to survive,0.017909339,0.0,0.0,0.0,False,0.0007106121629476,0.0004124606202822,0.0002971442881971
+"it would be a drastically different film had it been on day one, having it be later into the event",0.0358213,0.9643727540969849,0.0,0.0,False,0.0005739497137255,0.0003615907335188,0.0003968123346567
+"whatever that event is, we now can see a family that's constructed a system that works, which makes you appreciate these characters more because they're actually smart for the most part",0.020408317,0.0,0.0,0.0,False,0.0005786584806628,0.0005306025850586,0.0023843981325626
+admit at least some characters do make some odd choices,0.044405237,0.8376415371894836,0.2333333333333333,0.19,False,0.0006631583091802,0.0003912237880285,0.0004340082232374
+there's some confusion and unanswered questions,0.044405237,0.9988839030265808,0.1,0.306,False,0.0007004797225818,0.0003959026362281,0.0008026222349144
+"for one thing, it's never explained how they still have electricity",0.0224908,0.969543993473053,0.0,0.0,False,0.0006136210286058,0.0004567152063827,0.0004548842844087
+if it's a generator,0.01492445,0.7087803483009338,0.0,0.0,False,0.0009590183617547,0.0004690109344664,0.0006911837263032
+"i don't remember ever seeing one on top of that, it would make a lot of noise if they ever had to restart the generator",0.034791227,0.999876856803894,0.0,0.0,False,0.0007395324064418,0.0005211283569224,0.0007372367545031
+and so there are nitpicks,0.060927194,0.9994471669197083,0.0,0.0,False,0.0011472895275801,0.0261839497834444,0.1623001992702484
+"there are some unanswered questions, similar to the film's signs",0.043375164,0.9219038486480713,0.05,0.0,False,0.0006100653554312,0.0003499354643281,0.0005334945162758
+this is a film about one family and we only learn what they learn,0.048525527,0.0,0.0,0.0,False,0.0012243131641298,0.0005061542033217,0.0005215977435
+we don't know much from the outside,0.024833864,0.9996922016143799,0.0,0.0,False,0.0007231495692394,0.0007689847843721,0.0006816970999352
+"the characters sometimes go up to this big mill they have, and they light a fire and you can see that in the distance there are other people who also have fires, so it's not like they're the only people left, but they can't really go into the world that much, due to the fact that they have to make no sounds",0.074912034,0.9352819323539734,0.0,0.095,False,0.0016024275682866,0.0012552117696031,0.0015393235953524
+otherwise these things are going to come out of the bushes and kill them,0.5535644,0.9579262137413025,0.0,0.266,False,0.4988206624984741,0.8999917507171631,0.945860743522644
+"and so the fact that it takes place later in the timeline of whenever this event occurred, it gives this specific story some credibility, because we are to assume that they have discovered some things or figured some things out",0.027065687,0.0,0.0,0.0,False,0.0005791795556433,0.0003217919147573,0.0002902894921135
+you could nitpick here and there with ideas about how to kill the monsters that these characters aren't using,0.37221906,0.9999529123306274,0.0,0.207,False,0.0072938441298902,0.4636110067367553,0.4468919634819031
+"but many of those ideas assume that this family has endless supplies, access to military weaponry and things like that",0.030327583,0.8439350724220276,0.0,0.1,False,0.0006167164538055,0.0004966337000951,0.0003711482859216
+"and if you start to overanalyze this film, i think you're missing the point",0.14059398,0.9982043504714966,0.2,0.145,False,0.0007502052467316,0.0006578476750291,0.0009095225250348
+this is a suspense driven thriller with some really good scares,0.1609341,0.0,0.0,0.175,False,0.0006373816286213,0.0003759333631023,0.0010174288181588
+terrific performances across the board,0.19239926,0.0,0.0,0.0,False,0.0006693762843497,0.0005851703463122,0.0006777439848519
+krasinski really does a lot of great things on the screen,0.04131502,0.0,0.0,0.0,False,0.000921509170439,0.0003789616457652,0.0014966126764193
+and this is probably because as a director he knows exactly what this film needs,0.05653196,0.0,0.0,0.0,False,0.0007798590231686,0.0005125284660607,0.0005431418539956
+"whenever a director and actor make the same project, you can really tell that they understand everything about it from beginning to end, and krasinski knows exactly what the film needs for heightened power and tension",0.040628307,0.0,0.0,0.062,False,0.0006219776696525,0.0004385501088108,0.0003751893818844
+"emily blunt is amazing as well, and they have great chemistry, as they are a couple in real life, and the young kids do a great job too, especially since the daughter they have is deaf in the film as well as real life, so that's a very authentic performance that i'm sure she understood and had a lot to bring to it",0.033932835,0.0,0.0,0.0,False,0.0005994441453367,0.0016991768497973,0.000615926051978
+"while i always didn't necessarily find myself wrapped up in the family's lives, i was always interested to see what they were going to do and what decisions they would make, and by the end i did find myself caring",0.02193547,0.0,0.0,0.0,False,0.000585185654927,0.0003990458790212,0.0003241452213842
+"this is a good old-fashioned thrill ride if you've been missing that at the movies, and better yet if you need restored faith and mainstream horror, i think a quiet place can do that for you",0.05852979,0.0,0.0,0.122,False,0.0007408010424114,0.0009355864021927,0.0006834330270066
+i'm gonna give it an a,0.083939545,0.0,0.0,0.0,False,0.0022591496817767,0.028575187548995,0.0223268941044807
+"- this is a simple and to the point, thriller that doesn't try to be anything else than what it is, and it knows that, and it's all the better for that",0.21892473,0.0,0.0,0.0,False,0.0006161350756883,0.0003452722739893,0.0004512052400968
+so i ready to play one review,0.038053125,0.0,0.0,0.0,False,0.0006979682366363,0.0013172953622415,0.0003372486389707
+"i promised that i would talk to some of you guys about their reactions that you sent me for a quiet place, your anticipation for it if you had seen it, and i'm gonna share some of those reactions with you guys as i promised, and hopefully be able to interact with you more through that app",0.06851897,0.0,0.0,0.0,False,0.0005372610175982,0.0008307647658511,0.0004102984385099
+"hello, chris",0.013536129,0.0,0.0,0.0,False,0.0010440984042361,0.001875557936728,0.0006278232322074
+"i am super excited because emily and john are married in real life, and i'm sure they're gonna use that chemistry and that love for each other to make their performances stand out and be more powerful they did",0.07211506,0.0,0.0,0.0,False,0.0005837698699906,0.0004082713276147,0.0007550051086582
+"the chemistry seemed extremely real, as i mentioned in the review, it was very strong",0.027752401,0.0,0.0,0.0,False,0.0005545999156311,0.000310364208417,0.000298407889204
+this feels like like what it comes at night was last year kind of creeping up on you,0.17034957,0.9974997639656067,0.0,0.0,False,0.0142738875001668,0.0016152329044416,0.0075853131711483
+and it looks really good,0.032559406,0.0,0.0,0.0,False,0.0005644210032187,0.0003254271578043,0.0005333376466296
+"i hope it is, especially with john krasinski directing that's exciting",0.045091953,0.0,0.0,0.0,False,0.0006489355000667,0.0004093032621312,0.0004843781644012
+even my girlfriend's excited just because she likes them,0.3123962,0.0,0.0,0.0,False,0.0044746906496584,0.0024115797132253,0.0032135990913957
+"well, i'm glad your girlfriend's excited for the film and i hope you guys have a good time seeing it",0.119228795,0.0,0.0,0.0,False,0.0006964184576645,0.001975396182388,0.0015156996669247
+there are similarities,0.019714156,0.0,0.0,0.0,False,0.0006470447988249,0.0003501043247524,0.0003200946666765
+"i guess in the tension level between it comes the night and a quiet place, but they are two vastly different films",0.035306264,0.9968672394752502,0.0,0.073,False,0.0006343539571389,0.0004206910962238,0.0003838278353214
+i say it's like which meets the last of us,0.042001735,0.6308197379112244,0.0,0.0,False,0.0075415531173348,0.0005183279281482,0.0021108093205839
+just that tight anxiety of this trailer just gets me,0.21980777,0.8971365690231323,0.1785714285714285,0.159,False,0.001582779106684,0.0024658604525029,0.0023083020932972
+and you know i'm saying to be able to edge of my seating that theater,0.12051678,0.0,0.0,0.0,False,0.0008417956414632,0.0003959430614486,0.0025755234528332
+i can't wait for this movie,0.060927194,0.0,0.0,0.0,False,0.001934221596457,0.0011610409710556,0.0005051829502917
+i think it's gonna be dope,0.21274342,0.0,0.0,0.0,False,0.1264475882053375,0.0536984018981456,0.0675575509667396
+"yes, the kid, the kid does make some not great choices",0.10031791,0.7629809975624084,0.4,0.22,False,0.0008615403203293,0.0014913531485944,0.0008756194729357
+and that's that's what i alluded to in the review,0.016451603,0.0,0.0,0.0,False,0.0006188918487168,0.0004100818186998,0.00044839255861
+"there are a couple times where you're like no, this",0.036679696,0.99853515625,0.0,0.0,False,0.0248439460992813,0.0021523395553231,0.0012994286371394
+this is day 89,0.043375164,0.8484053015708923,0.0,0.0,False,0.0011454025516286,0.0006053806282579,0.0005484747816808
+"like you know, not to turn on an electronic rocketship right now",0.06372416,0.0,0.0,0.0,False,0.0020421748049557,0.0005658991285599,0.0010188852902501
+that was one of the choices that i think maybe could have been written better,0.029812546,0.9998441934585571,0.0,0.0,False,0.0005900189280509,0.0003652999585028,0.0004440126067493
+but it's also a choice that needs to happen for the rest of the film to make sense,0.036336336,0.680159330368042,0.0,0.0,False,0.0006883413298055,0.0003913051041308,0.0002865476708393
+"i gotta tell you, i'm more nervous than i am excited about this theater experience",0.105704986,0.7720724940299988,0.0,0.134,False,0.0006936996360309,0.0004236882377881,0.0008576346444897
+you've put out videos about awful movie theater experiences,0.29756662,0.9999489784240723,1.0,0.273,False,0.002361521590501,0.0209998842328786,0.0145094292238354
+this has the potential to be an all-time stinker if all it takes is one idiot in the crowd to start mouthing off during the actual quiet part of the quiet place,0.7257758,0.9998904466629028,0.2166666666666666,0.162,True,0.7881908416748047,0.9901572465896606,0.986083209514618
+hold it out,0.112144895,0.0,0.0,0.0,False,0.0106704467907547,0.0236326642334461,0.060994666069746
+hope,0.023117077,0.0,0.0,0.0,False,0.0009793810313567,0.000582167180255,0.0005335458554327
+"for the most part, my showing was pretty good",0.06372416,0.0,0.0,0.0,False,0.0006410454516299,0.0003801257989834,0.0007941338699311
+"there was someone who did bring an infant and there were specific times where emily blunt or john krasinski would be like, and in the background i hear that was about it",0.031357653,0.9255495071411133,0.0,0.0,False,0.0007486223476007,0.0007108898134902,0.0022832658141851
+though it was it was alright,0.026722329,0.9841168522834778,0.0,0.0,False,0.0006529882666654,0.0003290265740361,0.001151506556198
+it looks like a very dense experience and the fact that it's adapted by john krasinski is actually very intriguing to me,0.02809576,0.0,0.0,0.0,False,0.0006112800328992,0.0004098017816431,0.0004048645787406
+"so yeah, i'm very excited for that one",0.08689302,0.0,0.0,0.0,False,0.0005815379554405,0.0004282172012608,0.0006187951075844
+it is indeed sense and krasinski does a great job,0.016035106,0.0,0.0,0.0,False,0.0008221470052376,0.0004801061295438,0.0012433893280103
+this is his third film directing,0.05773066,0.0,0.0,0.0,False,0.001086461241357,0.0003997207386419,0.0007260470301844
+some people are reporting that it's his first,0.019158829,0.0,0.0,0.0,False,0.0007318785064853,0.0005000524106435,0.0004916100879199
+it's not true,0.040628307,0.9998998641967773,0.175,0.538,False,0.0012849192135035,0.0005517334793694,0.0006281275418587
+this is his third directorial effort and i am very excited to see what he does,0.020824814,0.0,0.0,0.0,False,0.0006586764357052,0.0004106327833142,0.0008073686040006
+"apparently comedians turning to directing mainstream horror, jordan peele and now john krasinski is like the new thing",0.13521013,0.86866295337677,0.0,0.158,False,0.0020445017144083,0.0007483477238565,0.0010142984101548
+i'm all for it,0.0334178,0.0,0.0,0.0,False,0.0012326908763498,0.0006704140687361,0.0005717523163184
+"i don't usually watch that many horror films in movie theatres because i hate jump scares, but i'm gonna go for this one",0.15130237,0.0,0.1833333333333333,0.242,False,0.0010907519608736,0.0065177581273019,0.00127654382959
+"it's a film that's very silent and there are monsters, so obviously there are going to be some jump scares, but they didn't feel cheap",0.1464265,0.7333548069000244,0.0,0.066,False,0.0014682064065709,0.0011788994306698,0.0051209679804742
+"there were a few that were false and i was kind of like, really a raccoon and i rolled my eyes at that, but for the most part it's actually pretty clever stuff",0.12051678,0.0,0.0,0.0,False,0.0025908253155648,0.0009131234255619,0.0154707357287406
+"i mean, i loved emily blunt and john krasinski but i'm always wary of such movies",0.065721996,0.9952598214149475,0.028125,0.0,False,0.0007084378739818,0.0008183346944861,0.0005617996794171
+"the premise is good, but the delivery is not always on point, so let's just keep our fingers crossed and see how the final product comes out, and i just say sir, you have an amazing voice",0.040628307,0.0,0.0,0.0,False,0.0005655235727317,0.0005309390253387,0.0006091763498261
+that is one of the most soothing voices i have heard in a long time,0.11600884,0.0,0.0,0.0,False,0.0006521175382658,0.0003245602129027,0.0006463036988861
+like i was actually listening to that reaction and i was just kind of like getting really relaxed,0.039254878,0.0,0.0,0.0,False,0.0006510838866233,0.0005190777010284,0.0004497199552133
+"yes, they are both great in the film, as i've said",0.03994159,0.0,0.0,0.0,False,0.0005528953624889,0.0003419724816922,0.0006208283593878
+i hope you enjoy it when you see it as once quoted from our beloved hp,0.050585672,0.0,0.0,0.0,False,0.0006196845206432,0.0004965215339325,0.0005052605411037
+"lovecraft himself, the oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is the fear of the unknown",0.1414913,0.0,0.0,0.271,False,0.0016611937899142,0.0004193411732558,0.0008822683594189
+"okay, i'm just kidding",0.050242316,0.9475240707397461,0.0,0.0,False,0.0008419203804805,0.001180829713121,0.0011385650141164
+"aside from that, i am really looking forward to watching horror films and i'm usually very picky with horror films, but i love it because it shows scaring people with silence and tension",0.10300289,0.0,0.0,0.256,False,0.0012309731682762,0.0088743409141898,0.002448929939419
+"that was frightening, but i liked it a lot",0.08796701,0.0,0.0,0.164,False,0.0007052381988614,0.0006196656031534,0.0014179338468238
+i watched it like three times,0.06412373,0.9577430486679077,0.0,0.0,False,0.0008455974166281,0.000511044752784,0.0006305595161393
+thank you for sending that in,0.023460433,0.0,0.0,0.0,False,0.0005781325162388,0.0004540996742434,0.0004484260862227
+thank you to everybody who sent me reactions,0.033761155,0.0,0.0,0.0,False,0.0005926563171669,0.0004770312807522,0.0003939665330108
+it's really cool to be on stardust please do follow me,0.056931525,0.0,0.0,0.0,False,0.0007356432615779,0.0114396139979362,0.0053647896274924
+the link is in the description below,0.009509998,0.7440195083618164,0.0,0.0,False,0.0006094521959312,0.0003478312573861,0.0002474326174706
+i'm gonna try to do more content that i don't normally get to do here on youtube,0.09602194,0.7301214933395386,0.0,0.0,False,0.0010275933891534,0.0082226088270545,0.000728823011741
+"there, you know, like older films which i'm trying to give more attention to things like tv shows",0.04234509,0.9914142489433289,0.0,0.0,False,0.0006275965133681,0.0005162245361134,0.0003366373421158
+episodes,0.0168681,0.0,0.0,0.0,False,0.0012277915375307,0.0018908232450485,0.0003113579296041
+"you can do episode reactions there, which i never do just singular episode review",0.036679696,0.0,0.0,0.0,False,0.0006111076218076,0.0005214362172409,0.0003700020897667
+so that will be pretty fun,0.045778666,0.0,0.0,0.0,False,0.0006878580315969,0.0003546541847754,0.0005190969677641
+so please do follow me there,0.03427619,0.7168124318122864,0.0,0.0,False,0.0007577408687211,0.0008585156174376,0.0005649032536894
+and i also want to say thank you to everyone else who sent reactions,0.024833864,0.0,0.0,0.0,False,0.0006478651775978,0.0004207263700664,0.0003868348430842
+i had a lot to sift through and i apologize if i couldn't feature yours,0.10763696,0.9958208799362183,0.0,0.0,False,0.0006796669913455,0.003000165335834,0.004233659710735
+you guys are the best,0.05133759,0.0,0.0,0.0,False,0.0011390547733753,0.000679338700138,0.0127803478389978
+please look forward to more videos,0.11729682,0.0,0.0,0.0,False,0.0007692585350014,0.0005928599275648,0.0002387565036769
+"thank you so much as always for watching, and if you like this, you can click right here and get stuck mine eyes",0.094410956,0.0,0.0,0.074,False,0.0010969798313453,0.0397612676024436,0.0294471196830272

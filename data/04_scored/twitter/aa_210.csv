@@ -1,2 +1,2 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-@user lmao . tamela said . f it !!,0.37647265,0.0,0.0,0.0,0.0420375503599643,0.4548792839050293,0.4276799261569977,False
+@user lmao . tamela said . f it !!,0.37647265,0.9843130111694336,0.0,0.0,0.0420375503599643,0.4548792839050293,0.4276799261569977,False

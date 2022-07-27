@@ -1,35 +1,35 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-salma tells the dramatic story of dr,0.09065199,0.0006227516671034,0.6851851851851852,0.0,False,0.0006053168326616287,0.0007534558535553515,0.0005817270139232278
-"martin luther king, jr",0.017423427,0.0502006806518364,0.4444444444444445,0.0,False,0.0008348531555384398,0.003782536368817091,0.0010234216460958123
-", has he fights for equal voting rights in the south with a valiant march from selma to montgomery, alabama",0.044405237,0.0041539228974069,0.4444444444444445,0.124,False,0.0008847703575156629,0.0007624791469424963,0.0005017921212129295
-"historical films like these are hard to get wrong, and director ava duvernay and writer paul web created quite the biopic",0.10634898,0.0878236313395961,0.5910493827160493,0.173,False,0.0008533343207091093,0.0009699377114884555,0.0003910489031113684
-most of us should be familiar with the story of dr,0.019852988,0.0070548024447294,0.2013888888888889,0.0,False,0.0005893267225474119,0.00048690149560570717,0.0004161876568105072
-martin luther king,0.036851373,0.0580859279282962,0.4444444444444445,0.0,False,0.0009720923262648284,0.003216492012143135,0.0013722595758736134
-when you think about dr,0.023460433,0.0051961736296974,0.4444444444444445,0.0,False,0.0007134396582841873,0.0012640493223443627,0.001027280231937766
-"king, you usually get i have a dream or civil rights fighter",0.087430015,0.0276863720560931,0.5833333333333334,0.0,False,0.001138112274929881,0.058958008885383606,0.004282388836145401
-i didn't pay that much attention in history class,0.06252546,0.9999434349797012,0.3333333333333333,0.0,False,0.0007766718626953661,0.000867327384185046,0.0010600327514111996
-"i mean, who did so? i didn't know about how difficult officials made it for blacks to vote in the south, but emma k, let a dedicated group of protesters through insane hardships and ultimately made it easier for blacks to vote in the south with the passion of the voting rights act of 1965",0.3170379,0.1006560231047544,0.6961805555555556,0.112,False,0.01025560311973095,0.10585663467645645,0.04589827358722687
-"summer is a great reminder, a great refresher of just who dr",0.015757442,0.0007287887283378,0.0,0.0,False,0.0010850188555195928,0.000983184203505516,0.003966109361499548
-martin luther king jr,0.03187269,0.0704456232830445,0.4444444444444445,0.0,False,0.0009284847765229642,0.003652118844911456,0.0007786178030073643
-was and what he and those protesters went through to get to where we are today,0.02397547,0.0009909607428626,0.4444444444444445,0.112,False,0.0009522035252302885,0.0006123657803982496,0.0009300271631218493
-when the film ended and i saw ava duvernay as the film's director,0.026035614,0.0030884858712321,0.4444444444444445,0.0,False,0.0007444601505994797,0.0004036952741444111,0.0006561477202922106
-i couldn't help but applaud her because she was fantastic,0.031701013,0.0018290349977734,0.2222222222222222,0.29,False,0.0006560342153534293,0.00037412589881569147,0.003385015297681093
-"it was the norm for male directors to get certain films, so i was glad to see that a woman was behind the camera, commanding such an impressive group of actors and actresses most often than not when historical films like these, and usually see in the face of the relaxed person whose face did we see at the end of this film",0.032559406,5.602857648136129e-05,0.3478835978835978,0.0,False,0.0008653074619360268,0.001914067193865776,0.001817204407416284
-it wasn't dr,0.01631277,0.999693392555936,0.4444444444444445,0.0,False,0.001424642512574792,0.0021987371146678925,0.0006374153890646994
-"martin luther king, it was david a yellow, which was a testament to his brilliant transformation into the late dr",0.10699297,0.0046369905549529,0.3333333333333333,0.0,False,0.0006795397493988276,0.001016222289763391,0.0037354042287915945
-"king, if you listen to david a yellow and dr",0.062125895,0.1780604849940869,0.4444444444444445,0.0,False,0.007866447791457176,0.01344593521207571,0.004628756083548069
-martin luther king jr,0.03187269,0.0704456232830445,0.4444444444444445,0.0,False,0.0009284847765229642,0.003652118844911456,0.0007786178030073643
-"like side by side, even their speech patterns are strikingly similar",0.04783881,0.0072257492078661,0.4444444444444445,0.0,False,0.0007575766067020595,0.00041711609810590744,0.0053612408228218555
-"it was just an overall divine portrayal by david alejo, alejo, him that name",0.027580723,0.0569277159241499,0.4444444444444445,0.0,False,0.0008220024756155908,0.0003977570740971714,0.0005605648620985448
-"i was hooked to this film as it began, because i don't know where you had the church bombing with the little girls, and it was in slow motion which gave even more time to think about the innocent lives being taken away",0.2712817,0.0,0.3732638888888889,0.0,False,0.0009789281757548451,0.002611816395074129,0.003940786700695753
-the standoffs between the protesters and the police were intense,0.06851897,0.9044755984522524,0.3333333333333333,0.17,False,0.001337860245257616,0.001083957846276462,0.0024020152632147074
-the police brutality to stop the march was cruel,0.25219622,0.9993345712469808,1.0,0.625,False,0.0306945089250803,0.022009173408150673,0.013922148384153843
-people run for their lives,0.05852979,0.9602062996027992,0.4444444444444445,0.0,False,0.44239485263824463,0.00210956740193069,0.011013269424438477
-"wow, ever did a great job recapturing those events and just showing how far our nation has come",0.044405237,0.0038995591206684,0.2592592592592593,0.0,False,0.0007473193691112101,0.0005470935138873756,0.0011902103433385491
-"i give selma and a's the first of this year the highest rating that oliver do film, four out of four stars",0.03753809,0.0004709678692207,0.3055555555555556,0.0,False,0.000859175983350724,0.0005341473151929677,0.0004505117831286043
-it is a necessary historical film that showed you the good and the bad with america,0.092262976,0.0011037927591171,0.4444444444444445,0.172,False,0.004527340177446604,0.0033971222583204508,0.0048836395144462585
-at the end of the day,0.0186035,0.8674658924550548,0.4444444444444445,0.0,False,0.0009276947239413857,0.0005751443095505238,0.0004630110051948577
-"we're all beings of emotions, and when it matters most, we will come together for a greater cause",0.02792408,0.0002983819721975,0.1666666666666666,0.0,False,0.0013404780765995383,0.00035382562782615423,0.00057387282140553
-"one man can change a nation, but it's a hell of a lot easier when you're not alone, so summer, let me know your thoughts and some of the law, and if you like what i do here, want to see more, click that subscribe button and join the ascension",0.15626417,0.050160119538756,0.1666666666666666,0.1,True,0.004666272085160017,0.0015244329115375876,0.0015196270542219281
-i'm the icon,0.0224908,0.0003723516141266,0.4444444444444445,0.0,False,0.001466743415221572,0.0004321976157370955,0.0004048713599331677
-thank you guys so much for watching later,0.03856816,0.0222825052617687,0.3888888888888889,0.0,False,0.0006777756498195231,0.0005199777660891414,0.00031818149727769196
+salma tells the dramatic story of dr,0.09065199,0.0,0.4333333333333333,0.0,False,0.0006053168326616,0.0007534558535553,0.0005817270139232
+"martin luther king, jr",0.017423427,0.0,0.0,0.0,False,0.0008348531555384,0.003782536368817,0.0010234216460958
+", has he fights for equal voting rights in the south with a valiant march from selma to montgomery, alabama",0.044405237,0.0,0.0,0.124,False,0.0008847703575156,0.0007624791469424,0.0005017921212129
+"historical films like these are hard to get wrong, and director ava duvernay and writer paul web created quite the biopic",0.10634898,0.0,0.2638888888888889,0.173,False,0.0008533343207091,0.0009699377114884,0.0003910489031113
+most of us should be familiar with the story of dr,0.019852988,0.0,0.0,0.0,False,0.0005893267225474,0.0004869014956057,0.0004161876568105
+martin luther king,0.036851373,0.0,0.0,0.0,False,0.0009720923262648,0.0032164920121431,0.0013722595758736
+when you think about dr,0.023460433,0.0,0.0,0.0,False,0.0007134396582841,0.0012640493223443,0.0010272802319377
+"king, you usually get i have a dream or civil rights fighter",0.087430015,0.0,0.25,0.0,False,0.0011381122749298,0.0589580088853836,0.0042823888361454
+i didn't pay that much attention in history class,0.06252546,0.9998868703842163,0.0,0.0,False,0.0007766718626953,0.000867327384185,0.0010600327514111
+"i mean, who did so? i didn't know about how difficult officials made it for blacks to vote in the south, but emma k, let a dedicated group of protesters through insane hardships and ultimately made it easier for blacks to vote in the south with the passion of the voting rights act of 1965",0.3170379,0.0,0.453125,0.112,False,0.0102556031197309,0.1058566346764564,0.0458982735872268
+"summer is a great reminder, a great refresher of just who dr",0.015757442,0.0,0.0,0.0,False,0.0010850188555195,0.0009831842035055,0.0039661093614995
+martin luther king jr,0.03187269,0.0,0.0,0.0,False,0.0009284847765229,0.0036521188449114,0.0007786178030073
+was and what he and those protesters went through to get to where we are today,0.02397547,0.0,0.0,0.112,False,0.0009522035252302,0.0006123657803982,0.0009300271631218
+when the film ended and i saw ava duvernay as the film's director,0.026035614,0.0,0.0,0.0,False,0.0007444601505994,0.0004036952741444,0.0006561477202922
+i couldn't help but applaud her because she was fantastic,0.031701013,0.0,0.0,0.29,False,0.0006560342153534,0.0003741258988156,0.003385015297681
+"it was the norm for male directors to get certain films, so i was glad to see that a woman was behind the camera, commanding such an impressive group of actors and actresses most often than not when historical films like these, and usually see in the face of the relaxed person whose face did we see at the end of this film",0.032559406,0.0,0.0,0.0,False,0.000865307461936,0.0019140671938657,0.0018172044074162
+it wasn't dr,0.01631277,0.9993867874145508,0.0,0.0,False,0.0014246425125747,0.0021987371146678,0.0006374153890646
+"martin luther king, it was david a yellow, which was a testament to his brilliant transformation into the late dr",0.10699297,0.0,0.0,0.0,False,0.0006795397493988,0.0010162222897633,0.0037354042287915
+"king, if you listen to david a yellow and dr",0.062125895,0.0,0.0,0.0,False,0.0078664477914571,0.0134459352120757,0.004628756083548
+martin luther king jr,0.03187269,0.0,0.0,0.0,False,0.0009284847765229,0.0036521188449114,0.0007786178030073
+"like side by side, even their speech patterns are strikingly similar",0.04783881,0.0,0.0,0.0,False,0.000757576606702,0.0004171160981059,0.0053612408228218
+"it was just an overall divine portrayal by david alejo, alejo, him that name",0.027580723,0.0,0.0,0.0,False,0.0008220024756155,0.0003977570740971,0.0005605648620985
+"i was hooked to this film as it began, because i don't know where you had the church bombing with the little girls, and it was in slow motion which gave even more time to think about the innocent lives being taken away",0.2712817,0.0,0.0,0.0,False,0.0009789281757548,0.0026118163950741,0.0039407867006957
+the standoffs between the protesters and the police were intense,0.06851897,0.8089519143104553,0.0,0.17,False,0.0013378602452576,0.0010839578462764,0.0024020152632147
+the police brutality to stop the march was cruel,0.25219622,0.9986691474914551,1.0,0.625,False,0.0306945089250803,0.0220091734081506,0.0139221483841538
+people run for their lives,0.05852979,0.9204128980636597,0.0,0.0,False,0.4423948526382446,0.0021095674019306,0.0110132694244384
+"wow, ever did a great job recapturing those events and just showing how far our nation has come",0.044405237,0.0,0.0,0.0,False,0.0007473193691112,0.0005470935138873,0.0011902103433385
+"i give selma and a's the first of this year the highest rating that oliver do film, four out of four stars",0.03753809,0.0,0.0,0.0,False,0.0008591759833507,0.0005341473151929,0.0004505117831286
+it is a necessary historical film that showed you the good and the bad with america,0.092262976,0.0,0.0,0.172,False,0.0045273401774466,0.0033971222583204,0.0048836395144462
+at the end of the day,0.0186035,0.7349327802658081,0.0,0.0,False,0.0009276947239413,0.0005751443095505,0.0004630110051948
+"we're all beings of emotions, and when it matters most, we will come together for a greater cause",0.02792408,0.0,0.0,0.0,False,0.0013404780765995,0.0003538256278261,0.0005738728214055
+"one man can change a nation, but it's a hell of a lot easier when you're not alone, so summer, let me know your thoughts and some of the law, and if you like what i do here, want to see more, click that subscribe button and join the ascension",0.15626417,0.0,0.0,0.1,True,0.00466627208516,0.0015244329115375,0.0015196270542219
+i'm the icon,0.0224908,0.0,0.0,0.0,False,0.0014667434152215,0.000432197615737,0.0004048713599331
+thank you guys so much for watching later,0.03856816,0.0,0.0,0.0,False,0.0006777756498195,0.0005199777660891,0.0003181814972776

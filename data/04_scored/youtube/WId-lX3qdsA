@@ -1,88 +1,88 @@
 text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
-"what is up, guys, stewie and welcome back to another review from the london film festival, which is feeling even stranger and stranger to say, as a month keeps going up to november now, and i still haven't got all of my film festival reviews done",0.0741129,0.1084647827850315,0.3,0.0,False,0.0005827539134770632,0.0011075041256844997,0.00036911762435920537
-i guess it's a testament to my timekeeping skills which are not good,0.090114996,0.9994822452934154,0.675,0.167,False,0.0008642403990961611,0.0040102130733430386,0.0017652190290391445
-and today we're talking about another film which has got a whole load of buzz where ever,0.062125895,0.9039703607783464,0.4,0.0,False,0.0009027967462316155,0.00047481420915573835,0.0022576216142624617
-"it's been shown at festivals in the year, so i naturally went",0.03221605,0.0011914736302747,0.45,0.0,False,0.0005556085961870849,0.00035160614061169326,0.00048671403783373535
-"yep, that i'm gonna",0.035306264,2.19357278405635e-05,0.5,0.0,False,0.03356674313545227,0.0012221651850268245,0.0012081117602065206
-"i'm gonna see it, and that one is portrait of a lady on fire",0.263611,0.0003683175606707,0.5,0.156,False,0.05103094130754471,0.05202285572886467,0.033653825521469116
-"it's a french romantic film directed by celine shama and my goodness, gracious, yeah, it's fantastic",0.06252546,5.1858921796984366e-06,0.4333333333333333,0.0,False,0.000912732444703579,0.0004940208746120334,0.01164216361939907
-it's an amazing film,0.03461955,0.001122328401212,0.1999999999999999,0.0,False,0.0006449718493968248,0.0003602946817409247,0.00038462947122752666
-"i'll keep it brief on the summary for this one, but it's essentially the story of a woman who is tasked with painting a portrait of another woman that doesn't want to have her portrait painted",0.04234509,0.7979807685659113,0.5,0.037,False,0.0006298888474702835,0.0037835484836250544,0.00482814759016037
-suddenly realize i'm doing a great job of selling this one,0.028782474,0.0008329317744024,0.3,0.0,False,0.0007981319213286042,0.0004849274118896574,0.0015496668638661504
-"they, they have the love romance",0.074912034,0.0023221173413611,0.25,0.0,False,0.001463216496631503,0.0006819102563895285,0.010634826496243477
-you're just gonna have to trust me on this one,0.08689302,0.0003151770678178,0.5,0.0,False,0.0007560321246273816,0.0017463546246290207,0.0031233993358910084
-"and there's not a huge amount else i can say about the story without going into too many details, which i think might ruin the experience for you",0.064523295,0.9703317492717696,0.425,0.181,False,0.0006716134957969189,0.0010991105809807777,0.0003791603958234191
-just going,0.0224908,0.7796906633197197,0.5,0.0,False,0.0012245610123500228,0.0009057917050085962,0.0008961961721070111
-not knowing much,0.019019997,0.9915261627664386,0.4,0.0,False,0.001028424478136003,0.0005724933580495417,0.0056019555777311325
-that's all you need to know,0.023632111,0.0231208830274928,0.5,0.0,False,0.0012219119817018509,0.0014890535967424512,0.0012719513615593314
-"that this film is so incredibly effective at telling a romantic story, and the relationship between the characters are just so perfectly executed",0.06012806,1.07294320959278e-06,0.2333333333333333,0.0,False,0.0006888279458507895,0.0027769040316343307,0.00545470928773284
-"i mean celine sciama, let's just talk about her direction here, which is just stunning",0.079307266,0.0001090229516858,0.453125,0.0,False,0.0005749502452090383,0.0006851422367617488,0.0007529480499215424
-i don't have to throw my hands up here and say i haven't actually watched any of her previous direction work,0.0753116,0.9851817005482264,0.5416666666666666,0.0,False,0.0027512318920344114,0.009056877344846725,0.0015093933325260878
-"she did a film called girlhood, which is one of hers which got a lot of acclaim when it came out",0.1019289,0.0011656335813103,0.5,0.0,False,0.0008278985042124987,0.00115934235509485,0.0015099144075065851
-"ever saw it, though i'm terrible, but she has written other films which i have seen",0.29855597,0.9475008291466692,0.78125,0.12,False,0.0006625484093092382,0.005113156978040934,0.007719362620264292
-she was actually the writer behind one of my favorite animated films the last few years,0.03444787,1.502120493429892e-05,0.51,0.0,False,0.0006351576885208488,0.0005119535489939153,0.0006000623689033091
-my life is a cause,0.0253489,0.0021250832425106,0.5,0.0,False,0.018882358446717262,0.0020014550536870956,0.0026663329917937517
-"yet if the name made you laugh, just watch the film",0.06012806,0.0015046836355416,0.35,0.0,False,0.0011276132427155972,0.0014528095489367843,0.001810071524232626
-you'll be blown away,0.42631236,0.1898288083344321,0.5,0.0,False,0.7474070191383362,0.16246509552001953,0.48455625772476196
-i guarantee it,0.020685982,0.0013446362734441,0.5,0.0,False,0.0034332077484577894,0.0005477752420119941,0.00047996058128774166
-but here there's not really anything i didn't like about the way she approached this film,0.11085691,0.9393413046655624,0.55,0.151,False,0.0006441974546760321,0.000498717708978802,0.0005695684812963009
-"from what i've seen of her writing work, she was a very effective way of approaching human relationships and really getting at the heart and humanity of the story",0.017701091,0.0002401008471244,0.3775,0.0,False,0.0005710268742404878,0.00039009019383229315,0.0003431231598369777
-and that is absolutely present here,0.029812546,0.0010261807680413,0.5,0.0,False,0.0006845516036264598,0.0003265176492277533,0.0005701162735931575
-"it's a film which takes a lot of time to just let the characters breathe in their moments, which i know can sound incredibly pretentious, but it's not the first pretentious thing i've said on this channel, so we're just going to go with it and it's quite a simple thing, but i love the way that she uses a narrative of this, and almost as a kind of tool to get at the characters, as opposed to the characters being a tool to get the narrative, and i just loved every second of watching these characters fall in love with each other, and her performances from both the actresses in the lead roles are so so good",0.12760067,6.643306706061962e-05,0.378125,0.0,False,0.0008037924999371171,0.0004682294384110719,0.0004030006530229002
-here stars adele hon l,0.02809576,0.0011397637283679,0.5,0.0,False,0.0008890014723874629,0.0009118466987274587,0.005178823135793209
-as the the woman that doesn't want to be painted,0.0801064,0.0096668308667163,0.5,0.12,False,0.013819621875882149,0.03307689353823662,0.030177561566233635
-she does have her name,0.023288755,0.0148121300283185,0.5,0.0,False,0.0007917638868093491,0.0007938478956930339,0.00130655022803694
-"still gonna say it, because i'm not french, even better than her roles in films like unknown girl and 128 beats per minute",0.1609341,0.0002262419973338,0.4333333333333333,0.093,False,0.0007929006242193282,0.013666813261806965,0.007988141849637032
-those are good roles,0.042001735,0.0031773424913407,0.15,0.0,False,0.0006624164525419474,0.0004371633112896234,0.0010483459336683154
-but here she's just something else,0.045091953,0.7917675630670058,0.5,0.0,False,0.009909514337778091,0.0009196277824230492,0.0013404282508417964
-she really nailed this character,0.1621016,0.0010015626821768,0.4,0.0,False,0.0006251476588658988,0.0004308904753997922,0.003328213468194008
-"that's got a lot of walls up when we first meet her, but we gradually see her come around to certain things throughout the film alongside her as the painter and i cannot give",0.065721996,0.0033842119029458,0.3839285714285714,0.0,False,0.0005790145951323211,0.00049036048585549,0.0004445826925802976
-with the character names,0.016729267,0.9861091705409852,0.5,0.0,False,0.0006106705986894667,0.000581661588512361,0.0005023374687880278
-"there's no me, merlin",0.08170467,0.0149829366264901,0.5,0.423,False,0.0016765097388997674,0.0036853800993412733,0.020120395347476006
-i probably butchered it and we're gonna go with it the top my head,0.21274342,0.8901779440548336,0.25,0.0,False,0.017570864409208298,0.2418452650308609,0.30109137296676636
-i don't think i've actually seen her in anything before and she smashed this one,0.1731117,0.9999087700232066,0.5,0.0,False,0.010854216292500496,0.0004957580240443349,0.009917340241372585
-"she was brilliant, and along side her nail, the two of them just works so perfectly in this film, cuz you got a really great contrast between the characters",0.06931809,5.522677131598392e-05,0.0499999999999999,0.0,False,0.0006772161577828228,0.0005653433036059141,0.001078347209841013
-one starts off quite cold,0.06132676,0.9999284704526938,0.8,0.0,False,0.01292673870921135,0.0006390382186509669,0.002654071431607008
-one of them is much more softer and warm,0.17957193,0.0194439960601525,0.2249999999999999,0.0,False,0.0006364076980389655,0.0010590340243652463,0.01891082525253296
-"just sounded like a serial killer saying now, but that makes us such an interesting dynamic in their relationship, so as soon as they met, i was like, yes, i want to see this happen",0.29045674,0.0021488072090338,0.4166666666666667,0.056,False,0.0007967250421643257,0.011202930472791195,0.003258335404098034
-"it just feels natural and that definitely comes from the two performances, but it's again one of the great things about sciama as a writer and director",0.020130653,0.000847476115688,0.35,0.0,False,0.0006101708277128637,0.0004252032667864114,0.00018961778550874442
-she just has a fantastic way of making all of this feel natural,0.048525527,0.0002574765663242,0.375,0.0,False,0.0006153431604616344,0.00042165929335169494,0.002848782343789935
-feels authentic,0.020408317,0.0006990225010496,0.25,0.0,False,0.000633216870483011,0.0011786007089540362,0.0005593122914433479
-it feels real,0.021796638,0.000604275654847,0.4,0.0,False,0.000747772806789726,0.00033995145349763334,0.0006520274328067899
-it doesn't feel like it's doing anything gimmicky or anything flashy,0.08581903,0.974019544495074,0.675,0.174,False,0.0011717750458046794,0.001740605803206563,0.008992994204163551
-"it's just a relationship that is perfectly explored through the means of film, and that's where it shares quite a lot for me with a film like call me by your name, and i don't want to sort of dismiss",0.0358213,3.251614004627008e-05,0.0,0.026,False,0.000953007722273469,0.000500765978358686,0.0004082580853719264
-this film is just like a lesbian,0.78018236,0.9526316137709638,0.5,0.0,True,0.5573689341545105,0.6130339503288269,0.7556570172309875
-call me by your name,0.030842619,0.1315950540656083,0.5,0.0,False,0.027373824268579483,0.010847344063222408,0.002798212692141533
-"i think to simplify it down to a statement like that, it doesn't do this film justice",0.051737156,0.9997448183399852,0.5777777777777778,0.0,False,0.0006998475291766226,0.00039221992483362556,0.0006225143442861736
-it's so much more than that,0.048868883,0.0036372178725634,0.25,0.0,False,0.0017144586890935898,0.00036404302227310836,0.002456005197018385
-"all that being said, there are certain themes and parallels, which, which are the reason i love a film like call me by name, and a reason why i feel like this works so well as well, though for them, deals so wonderfully in quite different ways, but similar ways as well with that feeling of falling in love and it's kind of feeling like it's just you and this other person and it's just it's just you two in the world",0.026207292,2.408161425974906e-05,0.3319196428571428,0.019,False,0.00069971609627828,0.0006266327109187841,0.0008168657077476382
-nothing else matters,0.23365098,0.0183255123721081,0.5,0.349,False,0.009691665880382061,0.0005086917662993073,0.004470896441489458
-"in fact, there's this incredible line in in scamaz film here, which deals so wonderfully with that and encapsulate, sit also perfectly",0.112144895,0.0001416583076442,0.0166666666666666,0.0,False,0.0007295453688129783,0.0014046496944501996,0.0006115416763350368
-at one point one of the character says to the other,0.017562259,0.9775407056771332,0.5625,0.0,False,0.0007840582984499633,0.00038608917384408414,0.0003936362045351416
-do all lovers feel like they've invented something new? it's a line which is just stuck with me ever since i saw this film and perfectly encapsulates everything that is so good about this film,0.074912034,0.0001236269009275,0.1939393939393939,0.044,False,0.0008080485858954489,0.00043793159420602024,0.0008577951812185347
-it's that feeling you get when you're experiencing something so amazing and so incredible for the first time with someone else,0.022351967,0.0001001413662286,0.2083333333333333,0.0,False,0.0008419408113695681,0.00034838280407711864,0.000638701836578548
-"how could there be anyone else that knows we're going through here, and i loved that side of the relationship in a way that's explored so perfectly in this film, and there's a certain point from this film in a similar way to call me by name, where i realized i was totally in with these characters",0.036679696,0.0,0.3085714285714286,0.0,False,0.0006050163647159934,0.0003426570037845522,0.0003751734911929816
-"i could watch them do anything, and i just feel like everything they're doing and saying to each other just feels so genuine and i find that incredibly moving",0.05373499,0.0001912223231318,0.3041666666666667,0.0,False,0.000596039870288223,0.00039722808287478983,0.0006407821783795953
-it made me feel all kinds of emotions this filled,0.04406188,0.0006504122128595,0.3,0.0,False,0.0007231133640743792,0.00033114536199718714,0.0010973545722663403
-"but what i also found really interesting about this film is that on top of the relationship, which is the main bulk of this and the main thing is going for, there are also some really interesting decisions made from a directing point of view, which just sort of make a little bit spicy",0.049212243,0.0062279286640593,0.3628472222222222,0.0,False,0.0005479739629663527,0.00031834535184316337,0.0006041557644493878
-"huh, there is moments that almost kind of teeter on the brink of feeling like we're watching a thriller or some kind of horrors",0.09172598,0.9989582019474634,0.2,0.136,False,0.0012426073662936687,0.0007247853209264576,0.0009798519313335419
-feel strange saying it,0.045091953,0.9995873639239774,0.525,0.375,False,0.0006598623003810644,0.00037018186412751675,0.00124482496175915
-"but and i hope you know what i mean, if you see in a film there's almost this kind of ghost-like presence in a film which i wasn't a hundred percent sure what was happening at the time of seeing it",0.09387396,0.9955798018202362,0.36875,0.0,False,0.0006244952674023807,0.0004444886290002614,0.000509057252202183
-"and then come the end of this film, it all just makes sense and there's a point in the climax where it all comes to a head",0.0813051,0.2006784398738123,0.5,0.0,False,0.0007103067473508418,0.016978081315755844,0.009113812819123268
-"and i just i suddenly got why she done that throughout the film and it's just another layer to this film, which just elevates it above your bog-standard kind of romantic film",0.118584804,6.494286815840743e-05,0.425,0.0,False,0.0010439979378134012,0.0007859239121899009,0.0046551586128771305
-"ultimately, just film did everything right",0.076110736,0.0002131878549504,0.4285714285714286,0.0,False,0.0006929159862920642,0.00037944442010484636,0.000593278557062149
-i absolutely adored it,0.043031808,0.0017212691439892,0.4,0.0,False,0.0009307939908467233,0.0005295302253216505,0.0003586755774449557
-i can't wait to see it again,0.05373499,0.0001448175293169,0.5,0.0,False,0.0015154220163822174,0.001248471555300057,0.00045880573452450335
-"it's gorgeous to look at, and just in terms of the way it's shot in its cinematography, but on top of that it is so brilliantly performed and so stunningly directed and written",0.021796638,0.0004134109794517,0.175,0.0,False,0.0006795967346988618,0.00033229461405426264,0.0006155598675832152
-it all just works perfectly,0.018881164,0.0021047867334625,0.0,0.0,False,0.0007048932020552456,0.0003196939069312066,0.00047965027624741197
-"it's totally deserving of all the praise it's getting, and you have to make sure you go out and see this when it drops wherever you are",0.09387396,0.0027512648212202,0.2249999999999999,0.0,False,0.0007017359603196383,0.0025139134377241135,0.001513745286501944
-"but what about you guys? have you seen portrait of a lady on fire? what do you think about it? if you call it the festival, if you've seen it elsewhere, let me know what you thought about it down below",0.079307266,0.8533848735512585,0.5777777777777778,0.066,False,0.0007579174707643688,0.002660693833604455,0.005005496554076672
-as usual,0.025863936,0.0092219170824718,0.625,0.0,False,0.0010633086785674095,0.0003825110325124115,0.0005788186681456864
-if you enjoyed this video and you do want to see me talk about more,0.10699297,0.0048505080147665,0.25,0.0,False,0.0006538828602060676,0.0006809731712564826,0.0010016269516199827
-go ahead and click,0.06652113,0.0030997925404696,0.5,0.0,False,0.03416748344898224,0.0030252651777118444,0.0013120019575580955
-subscribe,0.022074303,0.9957418758528408,0.5,0.0,False,0.001373531762510538,0.00045242730993777514,0.00059747404884547
-hit the like button,0.11536485,0.0219412713804797,0.5,0.0,False,0.04915531352162361,0.10045452415943146,0.0013201311230659485
-do whatever you want to do or you could do none of those things,0.053335425,0.0063611524459171,0.5,0.0,False,0.012567013502120972,0.0007628167513757944,0.001929985242895782
-"i don't mind, but it would be nice if you did the main things",0.037194733,0.9697784980273344,0.3083333333333333,0.0,False,0.0005831951275467873,0.004302079323679209,0.009590859524905682
-see you guys next time,0.058130227,0.0550707772949003,0.5,0.0,False,0.0010684370063245296,0.0010586269199848175,0.000822058878839016
-"for another review from the film festival, we're slowly getting to the end of the ones i saw, but we're not there yet and until next time stay beautiful",0.03736641,0.0002949997746819,0.4083333333333333,0.0,False,0.0005904357531107962,0.0003951967810280621,0.00032760179601609707
+"what is up, guys, stewie and welcome back to another review from the london film festival, which is feeling even stranger and stranger to say, as a month keeps going up to november now, and i still haven't got all of my film festival reviews done",0.0741129,0.0,0.0,0.0,False,0.000582753913477,0.0011075041256844,0.0003691176243592
+i guess it's a testament to my timekeeping skills which are not good,0.090114996,0.9989645481109619,0.35,0.167,False,0.0008642403990961,0.004010213073343,0.0017652190290391
+and today we're talking about another film which has got a whole load of buzz where ever,0.062125895,0.8079513907432556,0.0,0.0,False,0.0009027967462316,0.0004748142091557,0.0022576216142624
+"it's been shown at festivals in the year, so i naturally went",0.03221605,0.0,0.0,0.0,False,0.000555608596187,0.0003516061406116,0.0004867140378337
+"yep, that i'm gonna",0.035306264,0.0,0.0,0.0,False,0.0335667431354522,0.0012221651850268,0.0012081117602065
+"i'm gonna see it, and that one is portrait of a lady on fire",0.263611,0.0,0.0,0.156,False,0.0510309413075447,0.0520228557288646,0.0336538255214691
+"it's a french romantic film directed by celine shama and my goodness, gracious, yeah, it's fantastic",0.06252546,0.0,0.0,0.0,False,0.0009127324447035,0.000494020874612,0.011642163619399
+it's an amazing film,0.03461955,0.0,0.0,0.0,False,0.0006449718493968,0.0003602946817409,0.0003846294712275
+"i'll keep it brief on the summary for this one, but it's essentially the story of a woman who is tasked with painting a portrait of another woman that doesn't want to have her portrait painted",0.04234509,0.5959839820861816,0.0,0.037,False,0.0006298888474702,0.003783548483625,0.0048281475901603
+suddenly realize i'm doing a great job of selling this one,0.028782474,0.0,0.0,0.0,False,0.0007981319213286,0.0004849274118896,0.0015496668638661
+"they, they have the love romance",0.074912034,0.0,0.0,0.0,False,0.0014632164966315,0.0006819102563895,0.0106348264962434
+you're just gonna have to trust me on this one,0.08689302,0.0,0.0,0.0,False,0.0007560321246273,0.001746354624629,0.003123399335891
+"and there's not a huge amount else i can say about the story without going into too many details, which i think might ruin the experience for you",0.064523295,0.9406667947769165,0.0,0.181,False,0.0006716134957969,0.0010991105809807,0.0003791603958234
+just going,0.0224908,0.5594058036804199,0.0,0.0,False,0.00122456101235,0.0009057917050085,0.000896196172107
+not knowing much,0.019019997,0.9830532670021057,0.0,0.0,False,0.001028424478136,0.0005724933580495,0.0056019555777311
+that's all you need to know,0.023632111,0.0,0.0,0.0,False,0.0012219119817018,0.0014890535967424,0.0012719513615593
+"that this film is so incredibly effective at telling a romantic story, and the relationship between the characters are just so perfectly executed",0.06012806,0.0,0.0,0.0,False,0.0006888279458507,0.0027769040316343,0.0054547092877328
+"i mean celine sciama, let's just talk about her direction here, which is just stunning",0.079307266,0.0,0.0,0.0,False,0.000574950245209,0.0006851422367617,0.0007529480499215
+i don't have to throw my hands up here and say i haven't actually watched any of her previous direction work,0.0753116,0.970365047454834,0.0833333333333333,0.0,False,0.0027512318920344,0.0090568773448467,0.001509393332526
+"she did a film called girlhood, which is one of hers which got a lot of acclaim when it came out",0.1019289,0.0,0.0,0.0,False,0.0008278985042124,0.0011593423550948,0.0015099144075065
+"ever saw it, though i'm terrible, but she has written other films which i have seen",0.29855597,0.8950074911117554,0.5625,0.12,False,0.0006625484093092,0.0051131569780409,0.0077193626202642
+she was actually the writer behind one of my favorite animated films the last few years,0.03444787,0.0,0.02,0.0,False,0.0006351576885208,0.0005119535489939,0.0006000623689033
+my life is a cause,0.0253489,0.0,0.0,0.0,False,0.0188823584467172,0.002001455053687,0.0026663329917937
+"yet if the name made you laugh, just watch the film",0.06012806,0.0,0.0,0.0,False,0.0011276132427155,0.0014528095489367,0.0018100715242326
+you'll be blown away,0.42631236,0.0,0.0,0.0,False,0.7474070191383362,0.1624650955200195,0.4845562577247619
+i guarantee it,0.020685982,0.0,0.0,0.0,False,0.0034332077484577,0.0005477752420119,0.0004799605812877
+but here there's not really anything i didn't like about the way she approached this film,0.11085691,0.8786893486976624,0.1,0.151,False,0.000644197454676,0.0004987177089788,0.0005695684812963
+"from what i've seen of her writing work, she was a very effective way of approaching human relationships and really getting at the heart and humanity of the story",0.017701091,0.0,0.0,0.0,False,0.0005710268742404,0.0003900901938322,0.0003431231598369
+and that is absolutely present here,0.029812546,0.0,0.0,0.0,False,0.0006845516036264,0.0003265176492277,0.0005701162735931
+"it's a film which takes a lot of time to just let the characters breathe in their moments, which i know can sound incredibly pretentious, but it's not the first pretentious thing i've said on this channel, so we're just going to go with it and it's quite a simple thing, but i love the way that she uses a narrative of this, and almost as a kind of tool to get at the characters, as opposed to the characters being a tool to get the narrative, and i just loved every second of watching these characters fall in love with each other, and her performances from both the actresses in the lead roles are so so good",0.12760067,0.0,0.0,0.0,False,0.0008037924999371,0.000468229438411,0.0004030006530229
+here stars adele hon l,0.02809576,0.0,0.0,0.0,False,0.0008890014723874,0.0009118466987274,0.0051788231357932
+as the the woman that doesn't want to be painted,0.0801064,0.0,0.0,0.12,False,0.0138196218758821,0.0330768935382366,0.0301775615662336
+she does have her name,0.023288755,0.0,0.0,0.0,False,0.0007917638868093,0.000793847895693,0.0013065502280369
+"still gonna say it, because i'm not french, even better than her roles in films like unknown girl and 128 beats per minute",0.1609341,0.0,0.0,0.093,False,0.0007929006242193,0.0136668132618069,0.007988141849637
+those are good roles,0.042001735,0.0,0.0,0.0,False,0.0006624164525419,0.0004371633112896,0.0010483459336683
+but here she's just something else,0.045091953,0.5835582613945007,0.0,0.0,False,0.009909514337778,0.000919627782423,0.0013404282508417
+she really nailed this character,0.1621016,0.0,0.0,0.0,False,0.0006251476588658,0.0004308904753997,0.003328213468194
+"that's got a lot of walls up when we first meet her, but we gradually see her come around to certain things throughout the film alongside her as the painter and i cannot give",0.065721996,0.0,0.0,0.0,False,0.0005790145951323,0.0004903604858554,0.0004445826925802
+with the character names,0.016729267,0.9722198843955994,0.0,0.0,False,0.0006106705986894,0.0005816615885123,0.000502337468788
+"there's no me, merlin",0.08170467,0.0,0.0,0.423,False,0.0016765097388997,0.0036853800993412,0.020120395347476
+i probably butchered it and we're gonna go with it the top my head,0.21274342,0.7803680896759033,0.0,0.0,False,0.0175708644092082,0.2418452650308609,0.3010913729667663
+i don't think i've actually seen her in anything before and she smashed this one,0.1731117,0.9998175501823425,0.0,0.0,False,0.0108542162925004,0.0004957580240443,0.0099173402413725
+"she was brilliant, and along side her nail, the two of them just works so perfectly in this film, cuz you got a really great contrast between the characters",0.06931809,0.0,0.0,0.0,False,0.0006772161577828,0.0005653433036059,0.001078347209841
+one starts off quite cold,0.06132676,0.9998569488525391,0.6,0.0,False,0.0129267387092113,0.0006390382186509,0.002654071431607
+one of them is much more softer and warm,0.17957193,0.0,0.0,0.0,False,0.0006364076980389,0.0010590340243652,0.0189108252525329
+"just sounded like a serial killer saying now, but that makes us such an interesting dynamic in their relationship, so as soon as they met, i was like, yes, i want to see this happen",0.29045674,0.0,0.0,0.056,False,0.0007967250421643,0.0112029304727911,0.003258335404098
+"it just feels natural and that definitely comes from the two performances, but it's again one of the great things about sciama as a writer and director",0.020130653,0.0,0.0,0.0,False,0.0006101708277128,0.0004252032667864,0.0001896177855087
+she just has a fantastic way of making all of this feel natural,0.048525527,0.0,0.0,0.0,False,0.0006153431604616,0.0004216592933516,0.0028487823437899
+feels authentic,0.020408317,0.0,0.0,0.0,False,0.000633216870483,0.001178600708954,0.0005593122914433
+it feels real,0.021796638,0.0,0.0,0.0,False,0.0007477728067897,0.0003399514534976,0.0006520274328067
+it doesn't feel like it's doing anything gimmicky or anything flashy,0.08581903,0.9480419754981995,0.35,0.174,False,0.0011717750458046,0.0017406058032065,0.0089929942041635
+"it's just a relationship that is perfectly explored through the means of film, and that's where it shares quite a lot for me with a film like call me by your name, and i don't want to sort of dismiss",0.0358213,0.0,0.0,0.026,False,0.0009530077222734,0.0005007659783586,0.0004082580853719
+this film is just like a lesbian,0.78018236,0.9052684903144836,0.0,0.0,True,0.5573689341545105,0.6130339503288269,0.7556570172309875
+call me by your name,0.030842619,0.0,0.0,0.0,False,0.0273738242685794,0.0108473440632224,0.0027982126921415
+"i think to simplify it down to a statement like that, it doesn't do this film justice",0.051737156,0.9994896650314331,0.1555555555555555,0.0,False,0.0006998475291766,0.0003922199248336,0.0006225143442861
+it's so much more than that,0.048868883,0.0,0.0,0.0,False,0.0017144586890935,0.0003640430222731,0.0024560051970183
+"all that being said, there are certain themes and parallels, which, which are the reason i love a film like call me by name, and a reason why i feel like this works so well as well, though for them, deals so wonderfully in quite different ways, but similar ways as well with that feeling of falling in love and it's kind of feeling like it's just you and this other person and it's just it's just you two in the world",0.026207292,0.0,0.0,0.019,False,0.0006997160962782,0.0006266327109187,0.0008168657077476
+nothing else matters,0.23365098,0.0,0.0,0.349,False,0.009691665880382,0.0005086917662993,0.0044708964414894
+"in fact, there's this incredible line in in scamaz film here, which deals so wonderfully with that and encapsulate, sit also perfectly",0.112144895,0.0,0.0,0.0,False,0.0007295453688129,0.0014046496944501,0.000611541676335
+at one point one of the character says to the other,0.017562259,0.9550839066505432,0.125,0.0,False,0.0007840582984499,0.000386089173844,0.0003936362045351
+do all lovers feel like they've invented something new? it's a line which is just stuck with me ever since i saw this film and perfectly encapsulates everything that is so good about this film,0.074912034,0.0,0.0,0.044,False,0.0008080485858954,0.000437931594206,0.0008577951812185
+it's that feeling you get when you're experiencing something so amazing and so incredible for the first time with someone else,0.022351967,0.0,0.0,0.0,False,0.0008419408113695,0.0003483828040771,0.0006387018365785
+"how could there be anyone else that knows we're going through here, and i loved that side of the relationship in a way that's explored so perfectly in this film, and there's a certain point from this film in a similar way to call me by name, where i realized i was totally in with these characters",0.036679696,0.0,0.0,0.0,False,0.0006050163647159,0.0003426570037845,0.0003751734911929
+"i could watch them do anything, and i just feel like everything they're doing and saying to each other just feels so genuine and i find that incredibly moving",0.05373499,0.0,0.0,0.0,False,0.0005960398702882,0.0003972280828747,0.0006407821783795
+it made me feel all kinds of emotions this filled,0.04406188,0.0,0.0,0.0,False,0.0007231133640743,0.0003311453619971,0.0010973545722663
+"but what i also found really interesting about this film is that on top of the relationship, which is the main bulk of this and the main thing is going for, there are also some really interesting decisions made from a directing point of view, which just sort of make a little bit spicy",0.049212243,0.0,0.0,0.0,False,0.0005479739629663,0.0003183453518431,0.0006041557644493
+"huh, there is moments that almost kind of teeter on the brink of feeling like we're watching a thriller or some kind of horrors",0.09172598,0.9979165196418762,0.0,0.136,False,0.0012426073662936,0.0007247853209264,0.0009798519313335
+feel strange saying it,0.045091953,0.9991747736930847,0.05,0.375,False,0.000659862300381,0.0003701818641275,0.0012448249617591
+"but and i hope you know what i mean, if you see in a film there's almost this kind of ghost-like presence in a film which i wasn't a hundred percent sure what was happening at the time of seeing it",0.09387396,0.9911600947380066,0.0,0.0,False,0.0006244952674023,0.0004444886290002,0.0005090572522021
+"and then come the end of this film, it all just makes sense and there's a point in the climax where it all comes to a head",0.0813051,0.0,0.0,0.0,False,0.0007103067473508,0.0169780813157558,0.0091138128191232
+"and i just i suddenly got why she done that throughout the film and it's just another layer to this film, which just elevates it above your bog-standard kind of romantic film",0.118584804,0.0,0.0,0.0,False,0.0010439979378134,0.0007859239121899,0.0046551586128771
+"ultimately, just film did everything right",0.076110736,0.0,0.0,0.0,False,0.000692915986292,0.0003794444201048,0.0005932785570621
+i absolutely adored it,0.043031808,0.0,0.0,0.0,False,0.0009307939908467,0.0005295302253216,0.0003586755774449
+i can't wait to see it again,0.05373499,0.0,0.0,0.0,False,0.0015154220163822,0.0012484715553,0.0004588057345245
+"it's gorgeous to look at, and just in terms of the way it's shot in its cinematography, but on top of that it is so brilliantly performed and so stunningly directed and written",0.021796638,0.0,0.0,0.0,False,0.0006795967346988,0.0003322946140542,0.0006155598675832
+it all just works perfectly,0.018881164,0.0,0.0,0.0,False,0.0007048932020552,0.0003196939069312,0.0004796502762474
+"it's totally deserving of all the praise it's getting, and you have to make sure you go out and see this when it drops wherever you are",0.09387396,0.0,0.0,0.0,False,0.0007017359603196,0.0025139134377241,0.0015137452865019
+"but what about you guys? have you seen portrait of a lady on fire? what do you think about it? if you call it the festival, if you've seen it elsewhere, let me know what you thought about it down below",0.079307266,0.706786036491394,0.1555555555555555,0.066,False,0.0007579174707643,0.0026606938336044,0.0050054965540766
+as usual,0.025863936,0.0,0.25,0.0,False,0.0010633086785674,0.0003825110325124,0.0005788186681456
+if you enjoyed this video and you do want to see me talk about more,0.10699297,0.0,0.0,0.0,False,0.000653882860206,0.0006809731712564,0.0010016269516199
+go ahead and click,0.06652113,0.0,0.0,0.0,False,0.0341674834489822,0.0030252651777118,0.001312001957558
+subscribe,0.022074303,0.9914842247962952,0.0,0.0,False,0.0013735317625105,0.0004524273099377,0.0005974740488454
+hit the like button,0.11536485,0.0,0.0,0.0,False,0.0491553135216236,0.1004545241594314,0.0013201311230659
+do whatever you want to do or you could do none of those things,0.053335425,0.0,0.0,0.0,False,0.0125670135021209,0.0007628167513757,0.0019299852428957
+"i don't mind, but it would be nice if you did the main things",0.037194733,0.9395603537559509,0.0,0.0,False,0.0005831951275467,0.0043020793236792,0.0095908595249056
+see you guys next time,0.058130227,0.0,0.0,0.0,False,0.0010684370063245,0.0010586269199848,0.000822058878839
+"for another review from the film festival, we're slowly getting to the end of the ones i saw, but we're not there yet and until next time stay beautiful",0.03736641,0.0,0.0,0.0,False,0.0005904357531107,0.000395196781028,0.000327601796016

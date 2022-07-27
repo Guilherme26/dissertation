@@ -1,18 +1,18 @@
 text,perspective_score,flair_score,textblob_score,vader_score,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score,has_swearing
-"text, so in comparison, it's it's they've",0.025005542,0.995787932368234,0.3333333333333333,0.0,0.0008321619243361,0.000604196335189,0.0016893967986106,False
-those areas have worked very hard to create a mystique,0.07850813,0.8989744612665987,0.5861111111111111,0.14,0.0008109253831207,0.0003623500524554,0.0002719600743148,False
-part of it is building into the the community relationship with the schools,0.035477944,0.0016745150957298,0.3333333333333333,0.0,0.0005964239826425,0.0003481600142549,0.0002862028195522,False
-so the schools become a,0.019575324,0.1769520783558434,0.3333333333333333,0.0,0.0023558035027235,0.0005719095352105,0.0004513758176472,False
-"very, become, almost a rallying point for the town",0.018881164,0.0162517098002984,0.2,0.0,0.0009155749576166,0.0003424739406909,0.00069852755405,False
-um,0.012811388,0.2296181769801991,0.3333333333333333,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
-"it's a gathering place and they, they, the schools are, are located in such a way that it's close to the town centers, so people are constantly being brought in towards the town center, and then everything is very controlled to look a certain way, um",0.023632111,0.0013467869084189,0.2914285714285714,0.0,0.0005603798199445,0.0003470285446383,0.0003815870149992,False
-"pittsford wegmans, my wife always jokes that you know you can't just roll into pitts wegmans in your pajamas because you don't know who you will see",0.20302857,0.0,0.3333333333333333,0.0,0.0011877245269715,0.0387796945869922,0.0293920449912548,False
-it could be a judge,0.028954152,0.8084175270227397,0.3333333333333333,0.0,0.0008772144792601,0.0009314393973909,0.0005498983664438,False
-it could be a lawyer,0.033246122,0.9904186174421116,0.3333333333333333,0.0,0.0008143709274008,0.0007182343397289,0.0005796180921606,False
-it could be a doctor,0.029125832,0.8242380013984063,0.3333333333333333,0.0,0.0007727267220616,0.0007185513386502,0.00062286661705,False
-"it could be your mom's best friend, and so you have to um, be presentable when you go in, because you don't know who you will come across, um in places like henrietta, um, like greece, um, more so towards the westside, um, some of that i guess, uh, stuffy presentation, hoity, toityness, if you will, um, isn't necessarily there and it's more of um, a family feel",0.16827796,0.0836219493433612,0.0,0.0,0.0164826232939958,0.0012454172829166,0.0250049401074647,False
-it's ne less formal,0.021380141,0.0185314634119212,0.4444444444444445,0.0,0.0023702594917267,0.0004876729799434,0.0014556692913174,False
-"so if you show up in, you know your pajamas, cause it's seven o'clock in the morning on a sunday and you're just getting your breakfast at wegmans",0.06851897,0.2324958332447413,0.3333333333333333,0.0,0.004955134820193,0.0027596030849963,0.0011371721047908,False
-"nobody bats an eye, pittsford, they look at you like you're a little bit crazy and it's because it's a very",0.42631236,0.0094972288777617,0.4638888888888888,0.09,0.5534108877182007,0.8588737845420837,0.7147650122642517,False
-they work to keep a formal appearance and look to themselves,0.06851897,7.678799657194527e-05,0.3333333333333333,0.0,0.0011946918675675,0.0005949898040853,0.0006088414229452,False
-"um, in terms of the effect that that has on the students",0.019436494,0.0101736789415435,0.3333333333333333,0.0,0.0008325132075697,0.0004067037370987,0.0004464132071007,False
+"text, so in comparison, it's it's they've",0.025005542,0.9915810227394104,0.0,0.0,0.0008321619243361,0.000604196335189,0.0016893967986106,False
+those areas have worked very hard to create a mystique,0.07850813,0.7980726361274719,0.3791666666666667,0.14,0.0008109253831207,0.0003623500524554,0.0002719600743148,False
+part of it is building into the the community relationship with the schools,0.035477944,0.0,0.0,0.0,0.0005964239826425,0.0003481600142549,0.0002862028195522,False
+so the schools become a,0.019575324,0.0,0.0,0.0,0.0023558035027235,0.0005719095352105,0.0004513758176472,False
+"very, become, almost a rallying point for the town",0.018881164,0.0,0.0,0.0,0.0009155749576166,0.0003424739406909,0.00069852755405,False
+um,0.012811388,0.0,0.0,0.0,0.0011565451277419,0.0007473072619177,0.0008661823230795,False
+"it's a gathering place and they, they, the schools are, are located in such a way that it's close to the town centers, so people are constantly being brought in towards the town center, and then everything is very controlled to look a certain way, um",0.023632111,0.0,0.0,0.0,0.0005603798199445,0.0003470285446383,0.0003815870149992,False
+"pittsford wegmans, my wife always jokes that you know you can't just roll into pitts wegmans in your pajamas because you don't know who you will see",0.20302857,0.0,0.0,0.0,0.0011877245269715,0.0387796945869922,0.0293920449912548,False
+it could be a judge,0.028954152,0.617069661617279,0.0,0.0,0.0008772144792601,0.0009314393973909,0.0005498983664438,False
+it could be a lawyer,0.033246122,0.9808489680290222,0.0,0.0,0.0008143709274008,0.0007182343397289,0.0005796180921606,False
+it could be a doctor,0.029125832,0.6486912369728088,0.0,0.0,0.0007727267220616,0.0007185513386502,0.00062286661705,False
+"it could be your mom's best friend, and so you have to um, be presentable when you go in, because you don't know who you will come across, um in places like henrietta, um, like greece, um, more so towards the westside, um, some of that i guess, uh, stuffy presentation, hoity, toityness, if you will, um, isn't necessarily there and it's more of um, a family feel",0.16827796,0.0,0.0,0.0,0.0164826232939958,0.0012454172829166,0.0250049401074647,False
+it's ne less formal,0.021380141,0.0,0.1666666666666666,0.0,0.0023702594917267,0.0004876729799434,0.0014556692913174,False
+"so if you show up in, you know your pajamas, cause it's seven o'clock in the morning on a sunday and you're just getting your breakfast at wegmans",0.06851897,0.0,0.0,0.0,0.004955134820193,0.0027596030849963,0.0011371721047908,False
+"nobody bats an eye, pittsford, they look at you like you're a little bit crazy and it's because it's a very",0.42631236,0.0,0.1958333333333333,0.09,0.5534108877182007,0.8588737845420837,0.7147650122642517,False
+they work to keep a formal appearance and look to themselves,0.06851897,0.0,0.0,0.0,0.0011946918675675,0.0005949898040853,0.0006088414229452,False
+"um, in terms of the effect that that has on the students",0.019436494,0.0,0.0,0.0,0.0008325132075697,0.0004067037370987,0.0004464132071007,False
