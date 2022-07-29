@@ -23,8 +23,11 @@
 04_coraal_scored: "/home/luiznery/locus/dissertation/data/04_scored/coraal/"
 04_buckeye_scored: "/home/luiznery/locus/dissertation/data/04_scored/buckeye/"
 04_twitter_scored: "/home/luiznery/locus/dissertation/data/04_scored/twitter/"
-
 04_interview_scored: "/home/luiznery/locus/dissertation/data/04_scored/interview/"
+
+05_youtube_features: "/home/luiznery/locus/dissertation/data/05_regression_variables/buckeye_vs_coraal/youtube_features.csv"
+05_buckeye_corall_features: "/home/luiznery/locus/dissertation/data/05_regression_variables/buckeye_vs_coraal/buckeye_vs_coraal_features.csv"
+05_twitter_features: "/home/luiznery/locus/dissertation/data/05_regression_variables/buckeye_vs_coraaltwitter_features.csv"
 
 youtube_imgs: "/home/luiznery/locus/dissertation/data/imgs/youtube"
 buckeye_vs_coraal_imgs: "/home/luiznery/locus/dissertation/data/imgs/coraal"

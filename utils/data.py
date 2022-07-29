@@ -8,10 +8,8 @@ import pandas as pd
 import glob
 
 import yaml
-try:
-    filepaths = yaml.safe_load(open("../../config/filepaths.yaml"))
-except:
-    filepaths = yaml.safe_load(open("../../../config/filepaths.yaml"))
+
+filepaths = yaml.safe_load(open("/home/luiznery/locus/dissertation/config/filepaths.yaml"))
 
 def get_subtitles_df(path_00_raw = '../data/00_raw/'):
     if path_00_raw[-1] != '/':
