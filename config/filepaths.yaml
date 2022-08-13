@@ -23,6 +23,11 @@
 04_buckeye_scored: "/home/guilherme/Desktop/dissertation/data/04_scored/buckeye/"
 04_twitter_scored: "/home/guilherme/Desktop/dissertation/data/04_scored/twitter/"
 
+05_youtube_features: "dissertation/data/05_features/youtube/"
+05_coraal_features: "dissertation/data/05_features/coraal/"
+05_buckeye_features: "dissertation/data/05_features/buckeye/"
+05_twitter_features: "dissertation/data/05_features/twitter/"
+
 youtube_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/youtube"
 buckeye_vs_coraal_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/buckeye_vs_coraal"
 twitter_imgs: "/home/guilherme/Desktop/dissertation/data/imgs/twitter"
