@@ -32,6 +32,10 @@ base_path: "/home/guilherme/Desktop"
 05_buckeye_features: "dissertation/data/05_features/buckeye/"
 05_twitter_features: "dissertation/data/05_features/twitter/"
 
+06_youtube_regression: "dissertation/data/06_regression_outputs/youtube/"
+06_coraal_vs_buckeye_regression: "dissertation/data/06_regression_outputs/coraal_vs_buckeye/"
+06_twitter_regression: "dissertation/data/06_regression_outputs/twitter/"
+
 youtube_imgs: "dissertation/data/imgs/youtube"
 buckeye_vs_coraal_imgs: "dissertation/data/imgs/buckeye_vs_coraal"
 twitter_imgs: "dissertation/data/imgs/twitter"
