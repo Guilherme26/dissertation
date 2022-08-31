@@ -6,6 +6,7 @@ base_path: "/home/guilherme/Desktop"
 00_bad_words: "dissertation/data/noswearing.csv"
 00_liwc_dict: "dissertation/data/LIWC2015_English_Flat.dic"
 00_aae_terms: "dissertation/data/known_aae_terms.yaml"
+00_cols_to_remove: "dissertation/data/cols_to_remove.yaml"
 
 01_youtube_raw: "dissertation/data/01_raw/youtube/"
 01_coraal_raw: "dissertation/data/01_raw/coraal/"
