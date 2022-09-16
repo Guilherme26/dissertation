@@ -1,0 +1,17 @@
+cols_to_remove:
+    - LIWC_ADJ
+    - LIWC_ADVERB
+    - LIWC_AUXVERB
+    - LIWC_CONJ
+    - LIWC_NUMBER
+    - LIWC_PRONOUN
+    - LIWC_I
+    - LIWC_WE
+    - LIWC_YOU
+    - LIWC_SHEHE
+    - LIWC_THEY
+    - LIWC_IPRON
+    - LIWC_PPRON
+    - LIWC_CONJ
+    - LIWC_VERB
+    - POS_PUNCT
