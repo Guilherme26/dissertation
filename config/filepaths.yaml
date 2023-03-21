@@ -38,6 +38,8 @@ base_path: "/home/guilherme/Desktop"
 06_coraal_vs_buckeye_regression: "dissertation/data/06_regression_outputs/coraal_vs_buckeye/"
 06_twitter_regression: "dissertation/data/06_regression_outputs/twitter/"
 
+07_word_mover_distance: "dissertation/data/07_word_mover_distance/"
+
 youtube_imgs: "dissertation/data/imgs/youtube"
 buckeye_vs_coraal_imgs: "dissertation/data/imgs/buckeye_vs_coraal"
 twitter_imgs: "dissertation/data/imgs/twitter"
